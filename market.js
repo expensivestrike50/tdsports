@@ -46,7 +46,7 @@ function marketSection(personId) {
           <text x="${x(i)}" y="${y(v) - 10}" text-anchor="${i === 0 ? 'start' : i === 5 ? 'end' : 'middle'}" class="mv-val">${euro(v)}</text>
           <text x="${x(i)}" y="${H - 6}" text-anchor="${i === 0 ? 'start' : i === 5 ? 'end' : 'middle'}" class="mv-yr">${i ? year + i : 'Now'}</text>`).join('')}
       </svg>
-      <p class="muted mv-note">Market value and appearances from Transfermarkt. Predictions come from TDsports models trained on ${(MARKET_MODEL.horizons[1].samples / 1000).toFixed(0)}k real valuation changes (age, position, value level, recent trend, and performance and consistency over the previous 12 months) and ${MARKET_MODEL.transferFees.toLocaleString()} real transfer fees, adjusted for contract length; shaded = likely range. Over five years the model's error is ${Math.round((1 - MARKET_MODEL.horizons[5].mae_model / MARKET_MODEL.horizons[5].mae_no_change) * 100)}% lower than assuming no change.</p>
+      <p class="muted mv-note">Market value and appearances from Transfermarkt. Predictions come from gradient-boosted tree models trained on ${(MARKET_MODEL.horizons[1].samples / 1000).toFixed(0)}k real valuation changes (age, position, value level, recent trend, career stage, league strength, and performance and consistency over the previous 12 months) and ${MARKET_MODEL.transferFees.toLocaleString()} real transfer fees, adjusted for contract length; shaded = 80% likely range. On players the model never saw, the 5-year error is ${Math.round((1 - MARKET_MODEL.horizons[5].mae_model / MARKET_MODEL.horizons[5].mae_no_change) * 100)}% lower than assuming no change.</p>
     </div>`;
 }
 

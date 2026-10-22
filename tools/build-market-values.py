@@ -214,7 +214,34 @@ console.log(JSON.stringify(Object.entries(ctx.P).filter(([,p])=>p.pos!=='Coach')
     return json.loads(subprocess.run(['node', '-e', js], cwd=ROOT, capture_output=True, text=True, check=True).stdout)
 
 
+TREE_FEATURES = ['age', 'position', 'log10 value', 'trend 1y', 'has trend 1y', 'trend 2y', 'has trend 2y',
+                 'log peak / value', 'years since peak', 'career length', 'league strength', 'has performance',
+                 'minutes share', 'starts share', 'consistency', 'G+A per 90', 'appearances', 'month']
+
+
+def tree_row(age, pos, v, prev1, prev2, peak, peak_date, first_date, d, league, pf):
+    """Continuous inputs for the gradient-boosted model (see TREE_FEATURES)."""
+    return [age, pos, math.log10(v),
+            math.log(v / prev1) if prev1 else 0.0, 1.0 if prev1 else 0.0,
+            math.log(v / prev2) if prev2 else 0.0, 1.0 if prev2 else 0.0,
+            math.log(peak / v), years(peak_date, d), years(first_date, d), league,
+            1.0 if pf else 0.0, pf['share'] if pf else 0.0, pf['starts'] if pf else 0.0,
+            pf['consistency'] if pf else 0.0, min(1.5, pf['ga90s']) if pf else 0.0,
+            math.log1p(pf['apps']) if pf else 0.0, d.month]
+
+
+def metrics(y, pred):
+    """Errors on the log scale and on values."""
+    ratio = np.exp(pred - y)
+    return {'mae_log': round(float(np.mean(np.abs(y - pred))), 4),
+            'r2_log10': round(float(1 - np.sum((y - pred) ** 2) / np.sum((y - np.mean(y)) ** 2)), 4),
+            'median_error_pct': round(float(np.median(np.abs(ratio - 1)) * 100), 1),
+            'within_25pct': round(float(np.mean(np.abs(ratio - 1) <= 0.25) * 100), 1),
+            'within_2x': round(float(np.mean((ratio >= 0.5) & (ratio <= 2)) * 100), 1)}
+
+
 def main():
+    from gbm import GBM
     players = load('players')
     valuations = load('player_valuations')
     transfers = load('transfers')
@@ -225,81 +252,102 @@ def main():
     for v in valuations:
         d, val = parse_date(v['date']), float(v['market_value_in_eur'] or 0)
         if d and val > 0:
-            history.setdefault(v['player_id'], []).append((d, val))
+            history.setdefault(v['player_id'], []).append((d, val, v['player_club_domestic_competition_id'] or ''))
     for h in history.values():
         h.sort()
+    split = lambda pid: 'test' if int(pid) % 5 == 0 else 'val' if int(pid) % 10 == 1 else 'train'
 
-    # ---- 1. Value prediction models, one per horizon --------------------------------
-    rows = {k: ([], [], [], []) for k in range(1, HORIZONS + 1)}  # X, y, player id, value at the time
-    parity = []
+    # League strength: the median log10 value of training players in each domestic league.
+    by_league = {}
+    for pid, hist in history.items():
+        if split(pid) == 'train':
+            for d, v, c in hist:
+                if d.year >= 2012:
+                    by_league.setdefault(c, []).append(math.log10(v))
+    league_strength = {c: float(np.median(v)) for c, v in by_league.items() if len(v) >= 200}
+    default_league = float(np.median([x for v in by_league.values() for x in v]))
+    strength = lambda c: league_strength.get(c, default_league)
+
+    def lookback(hist, i, days):
+        d = hist[i][0]
+        return next((pv for pd, pv, _ in reversed(hist[:i]) if days - 65 <= (d - pd).days <= days + 65), None)
+
+    # ---- 1. Value prediction: one ridge baseline and one boosted model per horizon -----
+    rows = {k: {'Xr': [], 'Xt': [], 'y': [], 'pid': [], 'v': [], 'age': []} for k in range(1, HORIZONS + 1)}
     for pid, hist in history.items():
         p = info.get(pid)
         dob = parse_date(p['date_of_birth']) if p else None
         pos = POS_GROUP.get(p['position']) if p else None
         if not dob or pos is None:
             continue
-        dates = [d for d, _ in hist]
-        peak = 0.0
-        for i, (d, v) in enumerate(hist):
-            peak = max(peak, v)
+        dates = [d for d, _, _ in hist]
+        peak, peak_date = 0.0, hist[0][0]
+        for i, (d, v, comp) in enumerate(hist):
+            if v >= peak:
+                peak, peak_date = v, d
             if d.year < 2012:
                 continue
-            prev = next((pv for pd, pv in reversed(hist[:i]) if 300 <= (d - pd).days <= 430), None)
-            x = features(years(dob, d), pos, v, math.log(v / prev) if prev else 0.0, prev is not None, math.log(peak / v))
-            x = x + perf_features(perf.window(pid, d), pos, years(dob, d))
+            age = years(dob, d)
+            prev1, prev2 = lookback(hist, i, 365), lookback(hist, i, 730)
+            pf = perf.window(pid, d)
+            xr = features(age, pos, v, math.log(v / prev1) if prev1 else 0.0, prev1 is not None, math.log(peak / v)) + perf_features(pf, pos, age)
+            xt = tree_row(age, pos, v, prev1, prev2, peak, peak_date, hist[0][0], d, strength(comp), pf)
             for k in range(1, HORIZONS + 1):
                 target = d.replace(year=d.year + k) if not (d.month == 2 and d.day == 29) else d.replace(year=d.year + k, day=28)
                 q = bisect.bisect_left(dates, target)
                 j = min((c for c in (q - 1, q) if 0 <= c < len(dates)), key=lambda c: abs((dates[c] - target).days), default=None)
                 if j is not None and abs((dates[j] - target).days) <= 120:
-                    rows[k][0].append(x)
-                    rows[k][1].append(math.log(hist[j][1] / v))
-                    rows[k][2].append(pid)
-                    rows[k][3].append(v)
-    models, scores = {}, {}
-    NBASE = len(features(26, 2, 1e6, 0.0, False, 0.0))
-    perf_mean = {}
-    for k in range(1, HORIZONS + 1):
-        X, y, ids = np.array(rows[k][0]), np.array(rows[k][1]), np.array(rows[k][2])
-        test = np.array([int(i) % 5 == 0 for i in ids])  # the same 20% of players every run
-        w = ridge(X[~test], y[~test])
-        wb = ridge(X[~test][:, :NBASE], y[~test])          # the same model without performance, for comparison
-        pred = X[test] @ w
-        resid = y[~test] - X[~test] @ w
-        models[k] = (w, float(np.quantile(resid, 0.1)), float(np.quantile(resid, 0.9)))
-        has = X[:, NBASE] == 1
-        scores[k] = {'samples': int(len(y)), 'mae_model': round(float(np.mean(np.abs(y[test] - pred))), 3),
-                     'mae_without_performance': round(float(np.mean(np.abs(y[test] - X[test][:, :NBASE] @ wb))), 3),
-                     'mae_no_change': round(float(np.mean(np.abs(y[test]))), 3), 'with_performance_data': round(float(has.mean()), 2)}
-        ages = X[:, 1:22].argmax(axis=1) + 17
-        if os.environ.get('PARITY'):  # held-out players: value at the time, actual and predicted value k years later
-            v0 = np.array(rows[k][3])[test]
-            parity.append(np.column_stack([np.full(int(test.sum()), k), v0, v0 * np.exp(y[test]), v0 * np.exp(pred), ages[test]]))
-        if os.environ.get('CALIBRATE'):
-            tiers = X[:, 1 + 21 + 12:1 + 21 + 12 + len(TIERS) + 1].argmax(axis=1)
-            for lo_t, hi_t, a0, a1 in [(6, 8, 24, 27), (6, 8, 28, 31), (4, 5, 24, 27), (2, 3, 19, 22), (0, 2, 28, 32)]:
-                sel = test & (tiers >= lo_t) & (tiers <= hi_t) & (ages >= a0) & (ages <= a1)
-                if sel.sum():
-                    print(f'   {k}y tier {lo_t}-{hi_t} age {a0}-{a1}: n={sel.sum()} actual {np.mean(y[sel]):+.2f} predicted {np.mean(X[sel] @ w):+.2f} median actual {np.median(y[sel]):+.2f}')
-        young = test & has & (ages <= 23)
-        scores[k]['mae_young_model'] = round(float(np.mean(np.abs(y[young] - X[young] @ w))), 3)
-        scores[k]['mae_young_without_performance'] = round(float(np.mean(np.abs(y[young] - X[young][:, :NBASE] @ wb))), 3)
-        if k == HORIZONS:  # the median performance contribution for each position and age group, for "effect of performance"
-            contrib = X[:, NBASE:] @ w[NBASE:]
-            for g in range(4):
-                for ai, (lo_, hi_) in enumerate(AGE_GROUPS):
-                    sel = has & (X[:, 1 + 21 + g] == 1) & (ages >= lo_) & (ages <= hi_)
-                    perf_mean[g, ai] = float(np.median(contrib[sel]))
-        print(f"{k}y: {len(y)} samples · test error (log) {scores[k]['mae_model']} · without performance "
-              f"{scores[k]['mae_without_performance']} · no change {scores[k]['mae_no_change']} · age<=23: "
-              f"{scores[k]['mae_young_model']} vs {scores[k]['mae_young_without_performance']}", flush=True)
+                    r = rows[k]
+                    r['Xr'].append(xr); r['Xt'].append(xt); r['y'].append(math.log(hist[j][1] / v))
+                    r['pid'].append(pid); r['v'].append(v); r['age'].append(age)
 
+    NBASE = len(features(26, 2, 1e6, 0.0, False, 0.0))
+    models, report, parity = {}, {'horizons': {}}, []
+    for k in range(1, HORIZONS + 1):
+        r = rows[k]
+        Xr, Xt, y = np.array(r['Xr']), np.array(r['Xt']), np.array(r['y'])
+        part = np.array([split(i) for i in r['pid']])
+        tr, va, te = part == 'train', part == 'val', part == 'test'
+        fit = tr | va
+        w_base = ridge(Xr[fit][:, :NBASE], y[fit])
+        w_perf = ridge(Xr[fit], y[fit])
+        gbm = GBM().fit(Xt[tr], y[tr], Xt[va], y[va], log=lambda m: print(m, flush=True))
+        val_res = y[va] - gbm.predict(Xt[va])
+        lo_q, hi_q = float(np.quantile(val_res, 0.1)), float(np.quantile(val_res, 0.9))
+        models[k] = (gbm, lo_q, hi_q)
+        pg = gbm.predict(Xt[te])
+        res = {'samples': int(len(y)), 'train': int(tr.sum()), 'val': int(va.sum()), 'test': int(te.sum()), 'trees': len(gbm.trees),
+               'no_change': metrics(y[te], np.zeros(int(te.sum()))),
+               'ridge': metrics(y[te], Xr[te][:, :NBASE] @ w_base),
+               'ridge_perf': metrics(y[te], Xr[te] @ w_perf),
+               'gbm': metrics(y[te], pg),
+               'interval_80_coverage': round(float(np.mean((y[te] - pg >= lo_q) & (y[te] - pg <= hi_q)) * 100), 1),
+               'with_performance_data': round(float(np.mean(Xt[:, 11] == 1)), 2)}
+        # Calibration: mean actual vs predicted change by age (test players).
+        ages = np.array(r['age'])[te]
+        res['calibration_by_age'] = [[a, int(((ages >= a) & (ages < a + 2)).sum()), round(float(np.mean(y[te][(ages >= a) & (ages < a + 2)])), 3),
+                                      round(float(np.mean(pg[(ages >= a) & (ages < a + 2)])), 3)]
+                                     for a in range(17, 37, 2) if ((ages >= a) & (ages < a + 2)).sum() >= 50]
+        # Feature importance: how much each input reduces error when the trees split on it.
+        imp = np.zeros(len(TREE_FEATURES))
+        for tree in gbm.trees:
+            for f in tree[0][tree[0] >= 0]:
+                imp[f] += 1
+        res['importance_splits'] = {n: int(c) for n, c in zip(TREE_FEATURES, imp)}
+        report['horizons'][k] = res
+        print(f"{k}y: n={len(y)} trees={len(gbm.trees)} · test MAE log: no change {res['no_change']['mae_log']} · ridge "
+              f"{res['ridge']['mae_log']} · ridge+perf {res['ridge_perf']['mae_log']} · boosted {res['gbm']['mae_log']} · "
+              f"80% interval covers {res['interval_80_coverage']}%", flush=True)
+        if os.environ.get('PARITY'):
+            v0 = np.array(r['v'])[te]
+            parity.append(np.column_stack([np.full(int(te.sum()), k), v0, v0 * np.exp(y[te]), v0 * np.exp(pg), ages,
+                                           v0 * np.exp(Xr[te] @ w_perf)]))
     if os.environ.get('PARITY'):
         np.save(os.environ['PARITY'], np.vstack(parity))
         print('held-out predictions saved to', os.environ['PARITY'], flush=True)
 
-    # ---- 2. Transfer value model: real fees against market value at the time ---------
-    TX, Ty = [], []
+    # ---- 2. Transfer value: real fees against market value at the time ----------------
+    T = {'Xr': [], 'Xt': [], 'y': [], 'pid': []}
     for t in transfers:
         fee, mv, d = float(t['transfer_fee'] or 0), float(t['market_value_in_eur'] or 0), parse_date(t['transfer_date'])
         p = info.get(t['player_id'])
@@ -307,13 +355,32 @@ def main():
         pos = POS_GROUP.get(p['position']) if p else None
         if fee <= 0 or mv <= 0 or not d or d > TODAY or not dob or pos is None or d.year < 2012:
             continue
-        TX.append(features(years(dob, d), pos, mv, 0.0, False, 0.0) + perf_features(perf.window(t['player_id'], d), pos, years(dob, d)))
-        Ty.append(math.log(fee / mv))
-    TX, Ty = np.array(TX), np.array(Ty)
-    tw = ridge(TX, Ty)
-    tres = Ty - TX @ tw
+        hist = history.get(t['player_id'], [])
+        i = bisect.bisect_right([h[0] for h in hist], d)
+        before = hist[:i]
+        peak = max([mv] + [h[1] for h in before])
+        peak_date = max(before, key=lambda h: h[1])[0] if before else d
+        prev1 = next((pv for pd, pv, _ in reversed(before) if 300 <= (d - pd).days <= 430), None)
+        prev2 = next((pv for pd, pv, _ in reversed(before) if 665 <= (d - pd).days <= 795), None)
+        comp = before[-1][2] if before else ''
+        pf = perf.window(t['player_id'], d)
+        age = years(dob, d)
+        T['Xr'].append(features(age, pos, mv, 0.0, False, 0.0) + perf_features(pf, pos, age))
+        T['Xt'].append(tree_row(age, pos, mv, prev1, prev2, peak, peak_date, before[0][0] if before else d, d, strength(comp), pf))
+        T['y'].append(math.log(fee / mv)); T['pid'].append(t['player_id'])
+    TXr, TXt, Ty = np.array(T['Xr']), np.array(T['Xt']), np.array(T['y'])
+    tpart = np.array([split(i) for i in T['pid']])
+    ttr, tva, tte = tpart == 'train', tpart == 'val', tpart == 'test'
+    tw = ridge(TXr[ttr | tva], Ty[ttr | tva])
+    tg = GBM(depth=4, min_leaf=60, rate=0.05).fit(TXt[ttr], Ty[ttr], TXt[tva], Ty[tva])
+    tres = Ty[tva] - tg.predict(TXt[tva])
     t_lo, t_hi = float(np.quantile(tres, 0.25)), float(np.quantile(tres, 0.75))  # the middle half of real fees
-    print(f'transfer model: {len(Ty)} fees · median fee/value {math.exp(float(np.median(Ty))):.2f}', flush=True)
+    report['transfer'] = {'fees': int(len(Ty)), 'test': int(tte.sum()), 'median_fee_to_value': round(math.exp(float(np.median(Ty))), 3),
+                          'same_as_value': metrics(Ty[tte], np.zeros(int(tte.sum()))),
+                          'ridge': metrics(Ty[tte], TXr[tte] @ tw), 'gbm': metrics(Ty[tte], tg.predict(TXt[tte])),
+                          'interval_50_coverage': round(float(np.mean((Ty[tte] - tg.predict(TXt[tte]) >= t_lo) & (Ty[tte] - tg.predict(TXt[tte]) <= t_hi)) * 100), 1)}
+    print(f"transfer: {len(Ty)} fees · test MAE log: fee = value {report['transfer']['same_as_value']['mae_log']} · ridge "
+          f"{report['transfer']['ridge']['mae_log']} · boosted {report['transfer']['gbm']['mae_log']}", flush=True)
 
     # ---- 3. Match TDsports players and predict ---------------------------------------
     by_name, by_surname = {}, {}
@@ -340,8 +407,8 @@ def main():
         step = 25_000 if v < 1e6 else 100_000 if v < 1e7 else 500_000 if v < 5e7 else 1_000_000
         return int(round(v / step) * step)
 
-    out, matched = {}, 0
-    for person in app_players():
+    out, people = {}, app_players()
+    for person in people:
         p = match(person)
         if not p:
             continue
@@ -350,53 +417,58 @@ def main():
         dob = parse_date(p['date_of_birth'])
         if not v or not dob:
             continue
-        matched += 1
         at = hist[-1][0] if hist else TODAY
         pos = POS_GROUP.get(p['position'], APP_POS_GROUP.get(person['pos'], 2))
-        prev = next((pv for pd, pv in reversed(hist) if 300 <= (at - pd).days <= 430), None)
-        peak = max([float(p['highest_market_value_in_eur'] or 0), v] + [x for _, x in hist])
+        hist_now = hist + [(at, v, hist[-1][2] if hist else '')] if not hist or hist[-1][1] != v else hist
+        i = len(hist_now) - 1
+        prev1, prev2 = lookback(hist_now, i, 365), lookback(hist_now, i, 730)
+        peak = max([float(p['highest_market_value_in_eur'] or 0), v] + [x for _, x, _ in hist])
+        peak_date = max(hist, key=lambda h: h[1])[0] if hist else at
         age = years(dob, TODAY)
         pf = perf.window(p['player_id'], min(TODAY, perf.last))
-        pfx = perf_features(pf, pos, age)
-        base = features(age, pos, v, math.log(v / prev) if prev else 0.0, prev is not None, math.log(peak / v))
-        x = np.array(base + pfx)
+        x = np.array([tree_row(age, pos, v, prev1, prev2, peak, peak_date, hist[0][0] if hist else at, at,
+                               strength(hist[-1][2] if hist else ''), pf)])
         proj, lo, hi = [], [], []
         for k in range(1, HORIZONS + 1):
-            w, rl, rh = models[k]
-            m = float(x @ w)
-            # Players past their late 30s mostly retire; the history only keeps those who play on.
-            fade = 0.5 ** max(0.0, age + k - 36)
-            # Almost nobody has been valued above about EUR 200m, so the model has little to learn
-            # from at the very top: there, growth is capped at 20%.
-            cap = v * 1.2 if v >= 1e8 else float('inf')
+            gbm, rl, rh = models[k]
+            m = float(gbm.predict(x)[0])
+            fade = 0.5 ** max(0.0, age + k - 36)  # past their late 30s most players retire; the history only keeps those who play on
+            cap = v * 1.2 if v >= 1e8 else float('inf')  # too few examples above EUR 100m to extrapolate growth
             proj.append(nice(min(cap, v * math.exp(m) * fade)))
             lo.append(nice(min(cap, v * math.exp(m + rl) * fade)))
             hi.append(nice(min(cap * 1.15, v * math.exp(m + rh) * fade)))
         until = parse_date(p['contract_expiration_date'])
         left = years(TODAY, until) if until else None
         contract = 1.0 if left is None or left >= 2 else 0.85 if left >= 1 else 0.6
-        tm = float(np.array(features(age, pos, v, 0.0, False, 0.0) + pfx) @ tw)
-        # How much this player's performance moves the 5-year value, against a typical player in his position.
-        w5 = models[HORIZONS][0]
-        group = next(i for i, (lo_, hi_) in enumerate(AGE_GROUPS) if lo_ <= min(37, max(17, round(age))) <= hi_)
-        effect = math.exp(float(np.array(pfx) @ w5[len(base):]) - perf_mean[pos, group]) - 1 if pf else None
+        tm = float(tg.predict(np.array([tree_row(age, pos, v, prev1, prev2, peak, peak_date, hist[0][0] if hist else at, at,
+                                                strength(hist[-1][2] if hist else ''), pf)]))[0])
         tv = [nice(v * math.exp(tm + t_lo) * contract), nice(v * math.exp(tm) * contract), nice(v * math.exp(tm + t_hi) * contract)]
         out[slug(person['name'])] = {
             'v': int(v), 'at': at.isoformat(), 'peak': int(peak), 'dob': dob.isoformat(), 'club': p['current_club_name'],
             'until': until.isoformat() if until else None, 'p': proj, 'lo': lo, 'hi': hi, 'tv': tv,
             'form': {'apps': pf['apps'], 'games': pf['games'], 'min': pf['minutes'], 'share': round(pf['share'], 2),
                      'starts': round(pf['starts'], 2), 'cons': round(pf['consistency'], 2), 'ga90': round(pf['ga90'], 2),
-                     'ga': pf['ga'], 'effect': round(effect, 3), 'to': min(TODAY, perf.last).isoformat()} if pf else None,
+                     'ga': pf['ga'], 'to': min(TODAY, perf.last).isoformat()} if pf else None,
         }
+    h = report['horizons']
     model = {'source': 'Transfermarkt via transfermarkt-datasets (CC0)', 'data': max(r['at'] for r in out.values()),
-             'built': TODAY.isoformat(), 'horizons': scores, 'transferFees': int(len(Ty)), 'appearancesTo': perf.last.isoformat()}
+             'built': TODAY.isoformat(), 'model': 'gradient-boosted trees',
+             'horizons': {k: {'samples': h[k]['samples'], 'mae_model': h[k]['gbm']['mae_log'], 'mae_no_change': h[k]['no_change']['mae_log'],
+                              'within_2x': h[k]['gbm']['within_2x']} for k in h},
+             'transferFees': report['transfer']['fees'], 'appearancesTo': perf.last.isoformat()}
     with open(os.path.join(ROOT, 'market-values.js'), 'w', encoding='utf-8') as f:
         f.write('// Generated by tools/build-market-values.py. Do not edit by hand.\n')
         f.write('// Current market values (Transfermarkt) and model predictions: values 1-5 years ahead and transfer value ranges.\n')
         f.write(f'const MARKET_MODEL = {json.dumps(model)};\n')
         f.write(f'const MARKET_VALUES = {json.dumps(out, ensure_ascii=False, separators=(",", ":"))};\n')
-    print(f'{matched} of {len(app_players())} players matched', flush=True)
+    report.update({'matched': len(out), 'players': len(people), 'league_strength': {c: round(v, 3) for c, v in sorted(league_strength.items(), key=lambda x: -x[1])},
+                   'data_to': model['data'], 'appearances_to': perf.last.isoformat()})
+    if os.environ.get('REPORT'):
+        with open(os.environ['REPORT'], 'w') as f:
+            json.dump(report, f, indent=1)
+    print(f'{len(out)} of {len(people)} players matched', flush=True)
 
 
 if __name__ == '__main__':
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     sys.exit(main())

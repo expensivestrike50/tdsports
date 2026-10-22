@@ -11,3 +11,4 @@ assets/photos/people/goffi.jpg
 assets/photos/people/mukau.jpg
 __pycache__/
 .cache/
+analysis/*.npy
