@@ -99,7 +99,7 @@ def clean(text, limit=240):
     for _ in range(2):
         text = re.sub(r'<[^>]+>', ' ', html.unescape(text or ''))
     text = re.sub(r'\s+', ' ', text).strip()
-    if text.lower() in ('null', 'none', 'undefined'):
+    if text.lower() in ('null', 'none', 'undefined') or re.fullmatch(r'\{[^}]*\}', text):  # template placeholders
         return ''
     if len(text) > limit:
         text = text[:limit].rsplit(' ', 1)[0].rstrip(',.;:') + '…'
@@ -242,6 +242,15 @@ def main():
         seen.update({key_url, key_title})
         unique.append(a)
     unique = unique[:MAX_ARTICLES]
+
+    # Feeds sometimes leave out the picture: use the article's own preview image (og:image).
+    def og_image(a):
+        page = get(a['url'])
+        m = page and re.search(rb'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]+content=["\']([^"\']+)', page) \
+            or page and re.search(rb'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)', page)
+        a['image'] = html.unescape(m.group(1).decode('utf-8', 'ignore')) if m else ''
+    with concurrent.futures.ThreadPoolExecutor(8) as pool:
+        list(pool.map(og_image, [a for a in unique if not a['image']]))
 
     clubs = club_index()
     for a in unique:
