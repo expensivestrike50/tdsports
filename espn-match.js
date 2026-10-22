@@ -6,6 +6,7 @@
 // Table tabs. Live matches are refreshed every 60 seconds while the page is open.
 // Player ratings and the detailed per-player stats are sample values, as elsewhere.
 
+const PREDICTED = {};         // "<match id>-pred" -> predicted match for an upcoming fixture
 const ESPN_TABLES = {};       // match id -> [{ team, id, p, w, d, l, gd, pts, rank }]
 const espnLoading = {};       // match id -> pending Promise
 
@@ -219,8 +220,23 @@ function addEspnMatch(id, code, s) {
     }).sort((x, y) => y.date.localeCompare(x.date));
   }
 
+  // For predictions: season goals for/against, each side's latest match and team ids.
+  const season = {};
+  for (const t of (s.boxscore && s.boxscore.teams) || []) {
+    const h = teamSide[t.team.id];
+    const st = Object.fromEntries((t.statistics || []).map(x => [x.name, parseFloat(x.displayValue)]));
+    if (h && !isNaN(st.totalGoals)) season[h] = { gf: st.totalGoals, ga: st.goalsConceded };
+  }
+  const lastGames = {};
+  for (const t of s.lastFiveGames || []) {
+    const h = teamSide[t.team.id];
+    const latest = [...(t.events || [])].sort((x, y) => String(y.gameDate).localeCompare(String(x.gameDate)))[0];
+    if (h && latest) lastGames[h] = latest.id;
+  }
+
   const match = {
-    id, espn: true, home, away, score, league, form,
+    id, espn: true, home, away, score, league, form, season, lastGames, coachIds: L.coaches,
+    teamIds: { home: sideOf('home').team.id, away: sideOf('away').team.id },
     date: isoDay(start),
     kickoff: start.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' }),
     competition: league, // Cup phases come as the team's group ("League Phase"); league games carry the season name, which repeats the competition.
@@ -250,6 +266,11 @@ function renderPreview(match, tab = 'Facts') {
   document.title = `${match.home} v ${match.away} | TDsports`;
 
   const none = (title, sub = '') => `<div class="card">${sectionHead(title, match, sub)}<p class="no-data">No data</p></div>`;
+  // Predicted cards: the usual card drawn from the prediction, tagged, with links kept on this page.
+  const P = match.prediction && PREDICTED[match.prediction.id];
+  const pred = (fn, title, sub) => (P ? fn(P).replace('<h2 class="card-title">', '<h2 class="card-title"><span class="pred-tag">Prediction</span>')
+    .split(`#/match/${P.id}`).join(`#/match/${match.id}`) : none(title, sub));
+  const predLineup = P ? `<div class="pred-lineup"><span class="pred-tag pred-float">Predicted lineup · each side's last XI</span>${pred(pitchCard)}</div>` : null;
   const info = `
     <div class="card venue-compact">
       <div class="venue-row">
@@ -264,29 +285,29 @@ function renderPreview(match, tab = 'Facts') {
       ].map(([k, val]) => `<div><span class="muted">${k}</span><b>${val}</b></div>`).join('')}</div>
       ${v && v.photo ? `<p class="photo-credit">${photoCredit(v.photo)}</p>` : ''}
     </div>`;
-  const lineup = L ? cell(pitchCard(match), 'span-2') : cell(none('Lineups', 'Usually announced about an hour before kickoff'), 'span-2');
+  const lineup = L ? cell(pitchCard(match), 'span-2') : cell(predLineup || none('Lineups', 'Usually announced about an hour before kickoff'), 'span-2');
   const tabs = {
     Facts: () => dash([
-      stack(none('Momentum', 'Attacking pressure across the match · dots mark goals'), info), none('Top stats'), none('Player comparison'),
-      none('xG race', 'Cumulative expected goals; dots mark goals'), none('Shot map', 'Circle size = xG · hover a shot for details'), cell(none('Events'), 'row-2'),
-      none('Attacking'), none('Passing & build-up'),
+      stack(none('Momentum', 'Attacking pressure across the match · dots mark goals'), info), pred(topStatsCard, 'Top stats'), pred(compareCard, 'Player comparison'),
+      pred(xgRaceCard, 'xG race', 'Cumulative expected goals; dots mark goals'), none('Shot map', 'Circle size = xG · hover a shot for details'), cell(none('Events'), 'row-2'),
+      pred(attackingCard, 'Attacking'), pred(passingCard, 'Passing & build-up'),
       lineup, stack(none('Top performers'), none('Goal replays')),
       cell(none('Player statistics'), 'span-3'),
-      cell(none('Style of play', 'How each side played, and what comes next'), 'span-2 fit-col'), stack(formCard(match), pollCard(match)),
+      cell(pred(styleCard, 'Style of play', 'How each side played, and what comes next'), 'span-2 fit-col'), stack(formCard(match), pollCard(match)),
       cell(otherMatchesCard(match), 'span-3'),
     ]),
     Stats: () => dash([
-      none('Top stats'), none('Attacking'), none('Passing & build-up'),
-      none('Defending'), none('Discipline & set pieces'), none('xG race', 'Cumulative expected goals; dots mark goals'),
-      cell(none('Shot map', 'Circle size = xG · hover a shot for details'), 'span-2'), none('Physical'),
-      cell(none('Style of play', 'How each side played, and what comes next'), 'span-3'),
+      pred(topStatsCard, 'Top stats'), pred(attackingCard, 'Attacking'), pred(passingCard, 'Passing & build-up'),
+      pred(defendingCard, 'Defending'), none('Discipline & set pieces'), pred(xgRaceCard, 'xG race', 'Cumulative expected goals; dots mark goals'),
+      cell(none('Shot map', 'Circle size = xG · hover a shot for details'), 'span-2'), pred(physicalCard, 'Physical'),
+      cell(pred(styleCard, 'Style of play', 'How each side played, and what comes next'), 'span-3'),
     ]),
     Players: () => dash([
-      none('Player comparison'), none('Top performers'), stack(none('Goalkeeping'), none('Bench impact')),
+      pred(compareCard, 'Player comparison'), none('Top performers'), stack(none('Goalkeeping'), none('Bench impact')),
       cell(none('Player statistics'), 'span-3'),
     ]),
     Lineup: () => dash([lineup, stack(L ? teamSheetCard(match) : none('Team sheets', 'Squad-level view for each side'), none('Top performers'))]),
-    Events: () => dash([cell(none('Events'), 'span-2'), stack(none('xG race', 'Cumulative expected goals; dots mark goals'), info)]),
+    Events: () => dash([cell(none('Events'), 'span-2'), stack(pred(xgRaceCard, 'xG race', 'Cumulative expected goals; dots mark goals'), info)]),
     Table: () => dash([cell(standingsCard(match), 'span-2'), stack(formCard(match), otherMatchesCard(match))]),
   };
   app.innerHTML = `
@@ -303,18 +324,105 @@ function renderPreview(match, tab = 'Facts') {
           <div class="bigscore preview-time">${match.kickoff}<small>${when} · not started</small></div>
           <div class="teamname away">${crest(match.away, 'lg')} ${esc(match.away)}</div>
         </div>
-        <div class="scorers"><span></span><span class="ball">⚽</span><span></span></div>
+        ${match.prediction ? `<div class="pred-result"><span class="pred-tag">Prediction</span>
+          <span><b>${Math.round(match.prediction.home * 100)}%</b> ${esc(match.home)} win</span><span><b>${Math.round(match.prediction.draw * 100)}%</b> draw</span><span><b>${Math.round(match.prediction.away * 100)}%</b> ${esc(match.away)} win</span>
+          <span class="muted">Likely score <b>${match.prediction.score.join(' - ')}</b></span></div>` : '<div class="scorers"><span></span><span class="ball">⚽</span><span></span></div>'}
         <div class="keystrip">
-          ${['xG', 'Possession', 'Shots', 'Big chances', 'Pass accuracy', 'Field tilt', 'PPDA', 'Distance']
-            .map(k => `<div class="key-item"><span class="muted">${k}</span><b class="muted">No data</b></div>`).join('')}
+          ${(() => {
+            if (!P) return ['xG', 'Possession', 'Shots', 'Big chances', 'Pass accuracy', 'Field tilt', 'PPDA', 'Distance'].map(k => `<div class="key-item"><span class="muted">${k}</span><b class="muted">No data</b></div>`).join('');
+            const [h, a] = analytics(P).teams;
+            return [['xG', h.xg.toFixed(2), a.xg.toFixed(2)], ['Possession', `${h.possession}%`, `${a.possession}%`], ['Shots', `${h.shots} (${h.onTarget})`, `${a.shots} (${a.onTarget})`], ['Big chances', h.bigChances, a.bigChances], ['Pass accuracy', `${pct(h.passesAcc, h.passesAtt)}%`, `${pct(a.passesAcc, a.passesAtt)}%`], ['Field tilt', `${h.fieldTilt}%`, `${a.fieldTilt}%`], ['PPDA', h.ppda, a.ppda], ['Distance', `${h.distance} km`, `${a.distance} km`]]
+              .map(([k, hv, av]) => `<div class="key-item pred"><span class="muted">${k} · predicted</span><b>${hv} <span class="muted">–</span> ${av}</b></div>`).join('');
+          })()}
         </div>
-        <p class="provenance"><span><b>Real:</b> kickoff, venue, broadcast, team form, league table${L ? ', lineups' : ''}</span><span><b>No data yet:</b> everything else, until the match kicks off</span></p>
+        <p class="provenance"><span><b>Real:</b> kickoff, venue, broadcast, team form, league table${L ? ', lineups' : ''}</span>${P ? `<span><b>Prediction:</b> ${L ? '' : 'lineups (each side\'s last XI), '}result, xG and team stats (season scoring rates)</span>` : ''}<span><b>No data yet:</b> events and player ratings, until the match kicks off</span></p>
         <nav class="tabs" aria-label="Match sections">
           ${TABS.map(t => `<a class="tab ${tab === t ? 'active' : ''}" href="#/match/${match.id}/${t.toLowerCase()}" ${tab === t ? 'aria-current="page"' : ''}>${t}</a>`).join('')}
         </nav>
       </div>
       <div id="detail-content">${(tabs[tab] || tabs.Facts)()}</div>
     </div>`;
+}
+
+// Prediction for an upcoming fixture.
+// Lineups: each team's starting XI and formation from its most recent match.
+// Score: a Poisson model from season scoring rates. Expected goals for each side are
+// (its goals per game) x (the opponent's conceded per game) / league average, with a
+// small home edge; win/draw/loss chances and the likeliest score follow from that.
+// Possession, shots, corners and fouls are scaled from the expected goals. The existing
+// cards then draw these numbers; each one is labelled as a prediction.
+async function predictFixture(match) {
+  const table = ESPN_TABLES[match.id] || [];
+  const games = h => ((table.find(t => t.team === match[h]) || {}).p) || ((match.form || {})[h] || []).length || 1;
+  const rate = h => {
+    const sn = match.season[h];
+    if (sn && games(h)) return { gf: sn.gf / games(h), ga: sn.ga / games(h) };
+    const f = (match.form || {})[h] || [];
+    return f.length ? { gf: f.reduce((t, g) => t + g.f, 0) / f.length, ga: f.reduce((t, g) => t + g.a, 0) / f.length } : { gf: 1.35, ga: 1.35 };
+  };
+  const AVG = 1.35;
+  const [rh, ra] = [rate('home'), rate('away')];
+  const lh = Math.max(0.25, Math.min(3.5, rh.gf * ra.ga / AVG * 1.1));
+  const la = Math.max(0.25, Math.min(3.5, ra.gf * rh.ga / AVG * 0.92));
+  const pois = (l, k) => Math.exp(-l) * l ** k / [1, 1, 2, 6, 24, 120, 720, 5040, 40320][k];
+  let pH = 0, pD = 0, pA = 0, best = [0, 0], bestP = 0;
+  for (let i = 0; i <= 8; i++) for (let j = 0; j <= 8; j++) {
+    const p = pois(lh, i) * pois(la, j);
+    if (i > j) pH += p; else if (i === j) pD += p; else pA += p;
+    if (p > bestP) { bestP = p; best = [i, j]; }
+  }
+  const tot = pH + pD + pA;
+
+  // Predicted lineups from each side's latest match.
+  const summaries = await Promise.all(['home', 'away'].map(h => (match.lastGames[h]
+    ? fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=${match.lastGames[h]}`).then(r => (r.ok ? r.json() : null)).catch(() => null)
+    : null)));
+  const xi = { home: [], away: [] }, formations = ['', ''];
+  const seeded = key => { let h = 2166136261; for (const ch of key) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return (h >>> 0) / 4294967295; };
+  ['home', 'away'].forEach((h, i) => {
+    const sum = summaries[i];
+    const r = sum && (sum.rosters || []).find(x => x.team && x.team.id === match.teamIds[h]);
+    if (!r || !r.roster) return;
+    formations[i] = r.formation || '';
+    const starters = r.roster.filter(p => p.starter).map(p => ({ p, role: espnPosition(p.position && p.position.abbreviation), place: +p.formationPlace || 99 }));
+    if (!starters.length) return;
+    for (const [x, px, py] of espnSpots(starters, r.formation)) {
+      const pid = espnPerson(x.p.athlete, x.role.pos);
+      const rating = Math.round((6.4 + seeded(pid + match.id) * 1.0) * 10) / 10;
+      xi[h].push(h === 'home' ? [pid, px, py, rating] : [pid, 100 - px, 100 - py, rating]);
+    }
+  });
+  if (!xi.home.length || !xi.away.length) return;
+
+  const poss = Math.round(Math.max(36, Math.min(64, 50 + 14 * (lh - la) / (lh + la) + 2)));
+  const shots = [lh, la].map(l => Math.round(l * 7 + 4));
+  const pm = {
+    id: match.id + '-pred', predictedFor: match.id, home: match.home, away: match.away, score: [0, 0],
+    league: match.league, competition: match.competition, round: match.round, date: match.date, kickoff: match.kickoff,
+  };
+  PREDICTED[pm.id] = pm;
+  LINEUPS[pm.id] = {
+    predicted: true, formations, coaches: match.coachIds, home: xi.home, away: xi.away, homeSubs: [], awaySubs: [],
+    events: [], goalShots: {}, goalInfo: {}, researched: true,
+    stats: { xg: [+lh.toFixed(2), +la.toFixed(2)], shots, onTarget: shots.map(x => Math.round(x * 0.36)), possession: poss,
+      corners: shots.map(x => Math.round(x * 0.42)), fouls: [11, 11], bigChances: [lh, la].map(l => Math.max(1, Math.round(l * 1.3))) },
+  };
+  for (const cache of [detailCache, analyticsCache]) delete cache[pm.id];
+  // Big chances come from single shots worth 0.3+ xG; predicted shots are spread evenly, so set them from the xG.
+  analytics(pm).teams.forEach((t, i) => { t.bigChances = LINEUPS[pm.id].stats.bigChances[i]; t.bigChancesMissed = t.bigChances; });
+  match.prediction = { id: pm.id, home: pH / tot, draw: pD / tot, away: pA / tot, score: best, xg: [lh, la] };
+}
+
+// A person from an ESPN athlete: ids stay unique, and known photos are reused by name.
+function espnPerson(athlete, pos) {
+  const pid = 'espn-' + athlete.id;
+  if (!PEOPLE[pid]) {
+    const name = athlete.displayName;
+    PEOPLE[pid] = { name, short: athlete.lastName || name.split(' ').slice(-1)[0], pos };
+    const known = Object.values(PEOPLE).find(x => x.photo && x.name === name);
+    if (known) PEOPLE[pid].photo = known.photo;
+  }
+  return pid;
 }
 
 async function loadEspnMatch(id) {
@@ -324,6 +432,7 @@ async function loadEspnMatch(id) {
     espnLoading[id] = fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/${ref.code}/summary?event=${ref.event}`)
       .then(r => { if (!r.ok) throw new Error(`ESPN returned ${r.status}`); return r.json(); })
       .then(s => addEspnMatch(id, ref.code, s))
+      .then(m => (m.state === 'pre' ? predictFixture(m).catch(() => {}).then(() => m) : m))
       .finally(() => { delete espnLoading[id]; });
   }
   return espnLoading[id];

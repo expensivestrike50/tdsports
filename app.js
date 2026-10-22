@@ -71,7 +71,7 @@ const ordinal = n => n + (n % 100 >= 11 && n % 100 <= 13 ? 'th' : ['th', 'st', '
 
 const initials = name => name.split(/\s+/).map(w => w[0]).slice(0, 2).join('').toUpperCase();
 const fmt = n => n.toLocaleString('en');
-const findMatch = id => MATCHES.find(m => m.id === id);
+const findMatch = id => MATCHES.find(m => m.id === id) || PREDICTED[id]; // PREDICTED: upcoming-fixture predictions (espn-match.js)
 
 function crest(team, size = 'sm') {
   const src = CLUB_LOGOS[team];
