@@ -1842,7 +1842,7 @@ const actions = {
   'api-try'(el) { apiTry(el); },
   'api-copy'(el) { apiCopy(el); },
   'api-copy-url'(el) { apiCopy(el); },
-  'api-replay'(el) { el.closest('.am').outerHTML = apiMotion(); },
+  'api-first'(el, e) { const h = $('#api-first'); if (h) { e.preventDefault(); h.scrollIntoView({ behavior: 'smooth' }); } },
   'api-lang'(el) { state.apiLang = el.dataset.value; render(); },
   theme() {
     const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';

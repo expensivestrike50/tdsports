@@ -1,8 +1,8 @@
 'use strict';
 
-// API documentation. #/api is the landing page; #/api/<page> is the reference: a menu on
-// the left, the endpoint or guide in the middle, and on the right a code sample in the
-// chosen language with a "Try It!" button that calls the API live. The API itself is
+// API documentation (#/api, #/api/<page>): a menu on the left, the endpoint or guide in
+// the middle, and on the right a code sample in the chosen language with a "Try It!"
+// button that calls the API live. #/api opens the Introduction. The API itself is
 // static JSON built by tools/build-api.js (served by tools/serve.py locally and by GitHub
 // Pages online).
 
@@ -119,14 +119,13 @@ const apiUrl = p => apiRoot() + (p.params || []).reduce((path, [name, example]) 
 const apiPathHtml = p => esc(p.path).replace(/\{(\w+)\}/g, '<b>{$1}</b>');
 
 function renderApi(pageId) {
-  if (!pageId) return renderApiHome();
-  const page = apiPage(pageId);
+  const page = apiPage(pageId || 'introduction');
   if (!page) { location.hash = '#/api'; return; }
   document.title = `${page.title} | TDsports API`;
   const q = (state.apiFilter || '').toLowerCase();
   const groups = [...new Set(API_PAGES.map(p => p.group))];
   app.innerHTML = `
-    <div class="ad">
+    <div class="ad ${page.path ? '' : 'no-side'}">
       <nav class="ad-nav" aria-label="API reference">
         <label class="ad-filter"><span aria-hidden="true">⌕</span><input id="api-filter" type="search" placeholder="Filter" value="${esc(state.apiFilter || '')}" aria-label="Filter the reference"></label>
         <p class="ad-label">TDsports API v1 reference</p>
@@ -140,7 +139,7 @@ function renderApi(pageId) {
         }).join('')}
       </nav>
       <article class="ad-main">${page.path ? apiEndpoint(page) : page.objectPage ? apiObject(page.objectPage) : apiGuide(page)}</article>
-      ${page.path ? apiConsole(page) : '<aside class="ad-side"></aside>'}
+      ${page.path ? apiConsole(page) : ''}
     </div>`;
 }
 
@@ -220,11 +219,16 @@ function apiGuide(p) {
       <p class="ad-text">The TDsports API gives you read-only JSON for every match, lineup, event, club, player and coach in TDsports, plus live scores and aggregated news. There's no key or sign-up: send a GET request and read the response.</p>
       <h2 class="ad-h2">Base URL</h2>
       <div class="ad-box"><div class="ad-row"><code class="ad-field">${esc(apiRoot())}</code><p>All paths in this reference are relative to it. When the local services run, <code>http://localhost:8000/</code> serves the same API (and also answers without the <code>.json</code> ending).</p></div></div>
-      <h2 class="ad-h2">Your first request</h2>
+      <h2 class="ad-h2" id="api-first">Your first request</h2>
       <div class="ad-code"><pre>${apiSample('Shell', apiRoot() + 'api/v1/matches.json').split('\n').map((l, i) => `<span class="ln">${i + 1}</span>${apiHighlight(l)}`).join('\n')}</pre></div>
       <p class="ad-text">Then pick an endpoint on the left: each page has code in five languages and a <b>Try It!</b> button that runs the request in your browser.</p>
       <h2 class="ad-h2">At a glance</h2>
-      <div class="ad-stats"><div><b>${API_PAGES.filter(x => x.path).length}</b><span>endpoints, all GET</span></div><div><b>${MATCHES.length}</b><span>matches with lineups</span></div><div><b>${Object.keys(PEOPLE).length.toLocaleString()}</b><span>players and coaches</span></div></div>`,
+      <div class="ad-stats"><div><b>${API_PAGES.filter(x => x.path).length}</b><span>endpoints, all GET</span></div><div><b>${MATCHES.length}</b><span>matches with lineups</span></div><div><b>${Object.keys(PEOPLE).length.toLocaleString()}</b><span>players and coaches</span></div></div>
+      <div class="ad-links">
+        <div><h2>Get started with the API</h2><a href="#/api/get-match">Try the API</a><a href="#/api/introduction" data-action="api-first">Your first request</a><a href="${apiRoot()}api/v1/matches.json" target="_blank" rel="noopener">Download all matches</a></div>
+        <div><h2>Data and sources</h2><a href="#/api/responses">Responses and errors</a><a href="#/api/data">Real and sample data</a><a href="#/api/object-match">The Match object</a></div>
+        <div><h2>Get support</h2><a href="https://github.com/expensivestrike50/tdsports" target="_blank" rel="noopener">Source on GitHub</a><a href="https://github.com/expensivestrike50/tdsports/issues" target="_blank" rel="noopener">Report an issue</a></div>
+      </div>`,
     responses: `
       <p class="ad-text">Every <code>api/v1</code> response has the same envelope: <code>{ "generated": "&lt;ISO time&gt;", "data": … }</code>. Lists are arrays; single resources are objects.</p>
       <p class="ad-text"><code>live.json</code> and <code>news.json</code> are feeds with their own shape, described on their pages.</p>
@@ -253,73 +257,6 @@ function apiGuide(p) {
 function apiPager(p) {
   const i = API_PAGES.indexOf(p), prev = API_PAGES[i - 1], next = API_PAGES[i + 1];
   return `<div class="ad-pager">${prev ? `<a href="#/api/${prev.id}"><small>Previous</small>${esc(prev.title)}</a>` : '<span></span>'}${next ? `<a class="next" href="#/api/${next.id}"><small>Next</small>${esc(next.title)}</a>` : ''}</div>`;
-}
-
-function renderApiHome() {
-  document.title = 'API | TDsports';
-  const cards = [
-    ['code', 'API reference', 'Browse every endpoint, with code samples.', 'introduction'],
-    ['live', 'Live scores', "Today's scoreboard across 10 competitions.", 'live-scores'],
-    ['news', 'News feed', 'Headlines from the top football sources.', 'news'],
-    ['data', 'Match data', 'Lineups, events and stats for every match.', 'get-match'],
-  ];
-  const icon = {
-    code: '<path d="M9 8l-4 4 4 4M15 8l4 4-4 4M13 6l-2 12"/>',
-    live: '<circle cx="12" cy="12" r="3"/><path d="M6.3 6.3a8 8 0 000 11.4M17.7 6.3a8 8 0 010 11.4"/>',
-    news: '<rect x="4" y="5" width="16" height="14" rx="2"/><path d="M8 9h8M8 12h8M8 15h5"/>',
-    data: '<rect x="3" y="6" width="18" height="12" rx="1"/><path d="M12 6v12M3 10h3v4H3M21 10h-3v4h3"/>',
-  };
-  app.innerHTML = `
-    <div class="ah">
-      <section class="ah-hero">
-        <div>
-          <h1 class="ah-title">Build with live football data from the TDsports API</h1>
-          <p class="ah-sub">Matches, lineups, events, players, live scores and news, as plain JSON.<br>No key, no sign-up, open CORS.</p>
-        </div>
-        ${apiMotion()}
-      </section>
-      <section class="ah-cards">
-        ${cards.map(([k, title, text, page]) => `
-          <a class="ah-card" href="#/api/${page}">
-            <span class="ah-icon ${k}"><svg viewBox="0 0 24 24" aria-hidden="true">${icon[k]}</svg></span>
-            <b>${title}</b><span>${text}</span>
-          </a>`).join('')}
-      </section>
-      <section class="ah-links">
-        <div><h2>Get started with the API</h2><a href="#/api/get-match">Try the API</a><a href="#/api/introduction">Your first request</a><a href="${apiRoot()}api/v1/matches.json" target="_blank" rel="noopener">Download all matches</a></div>
-        <div><h2>Data and sources</h2><a href="#/api/responses">Responses and errors</a><a href="#/api/data">Real and sample data</a><a href="#/api/object-match">The Match object</a></div>
-        <div><h2>Get support</h2><a href="https://github.com/expensivestrike50/tdsports" target="_blank" rel="noopener">Source on GitHub</a><a href="https://github.com/expensivestrike50/tdsports/issues" target="_blank" rel="noopener">Report an issue</a></div>
-      </section>
-    </div>`;
-}
-
-// The hero's motion piece: a slow reveal that assembles the TDsports logo from the
-// things the API serves. A grid fades in, the pitch draws itself, live data fragments
-// drift in, the data points converge, and the logo is revealed with "API ready".
-// Plays once (about 7 seconds); Replay restarts it. Reduced motion shows the end state.
-function apiMotion() {
-  const tokens = [['"score": "2-4"', -104, -82, 1.6], ['xG 1.88', 112, -88, 1.9], ["67'", -132, 18, 2.2], ['"state": "in"', 96, 70, 2.0],
-    ['GET /matches', -92, 92, 2.4], ['4-2-3-1', 124, 4, 2.6]];
-  const dots = Array.from({ length: 22 }, (_, i) => {
-    const a = i * 2.39996, r = 70 + (i % 5) * 26;
-    return [Math.round(Math.cos(a) * r * 1.35), Math.round(Math.sin(a) * r * .8), (0.2 + (i % 7) * 0.12).toFixed(2)];
-  });
-  return `
-    <div class="am" role="img" aria-label="Animation: football data assembling into the TDsports logo">
-      <div class="am-grid"></div>
-      <svg class="am-pitch" viewBox="0 0 200 130" aria-hidden="true">
-        <rect pathLength="1" x="6" y="6" width="188" height="118" rx="3"/>
-        <line pathLength="1" x1="100" y1="6" x2="100" y2="124"/>
-        <circle pathLength="1" cx="100" cy="65" r="17"/>
-        <rect pathLength="1" x="6" y="36" width="28" height="58"/>
-        <rect pathLength="1" x="166" y="36" width="28" height="58"/>
-      </svg>
-      ${dots.map(([x, y, d]) => `<i class="am-dot" style="--x:${x}px;--y:${y}px;--d:${d}s"></i>`).join('')}
-      ${tokens.map(([t, x, y, d]) => `<span class="am-token" style="--x:${x}px;--y:${y}px;--d:${d}s">${esc(t)}</span>`).join('')}
-      <div class="am-logo"><img class="logo-light" src="assets/brand/tdsports-logo.png" alt=""><img class="logo-dark" src="assets/brand/tdsports-logo-dark.png" alt=""></div>
-      <div class="am-ready"><span class="am-ok">200 OK</span> API ready</div>
-      <button class="am-replay" data-action="api-replay">Replay</button>
-    </div>`;
 }
 
 async function apiTry(el) {
