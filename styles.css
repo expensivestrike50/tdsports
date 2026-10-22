@@ -1299,7 +1299,6 @@ a.news-trend { grid-template-columns: 22px 1fr auto; }
 .mv-now { fill: var(--accent); }
 .mv-val { font-size: 12px; font-weight: 700; fill: var(--text); }
 .mv-yr { font-size: 11px; fill: var(--muted); }
-.mv-note { font-size: 11px; line-height: 1.5; margin: 6px 0 10px; }
 @media (max-width: 760px) { .mv { padding: 6px 16px 4px; } .mv-tiles { grid-template-columns: 1fr 1fr; } }
 
 .mv-form { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin-bottom: 14px; }
