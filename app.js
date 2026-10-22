@@ -192,7 +192,7 @@ function details(match) {
     return Math.max(-1, Math.min(1, v));
   });
 
-  const venue = VENUES[match.home];
+  const venue = matchVenue(match, lineup);
   const modelledAttendance = venue && venue.capacity ? Math.round(venue.capacity * (0.82 + r() * 0.17)) : null;
   const attendance = lineup && lineup.attendance ? lineup.attendance : modelledAttendance;
   const referee = lineup && Array.isArray(lineup.referee) ? lineup.referee : REFEREES[lineup && typeof lineup.referee === 'number' ? lineup.referee : randInt(r, 0, REFEREES.length - 1)];
@@ -318,7 +318,7 @@ async function loadResults() {
         });
       } catch { return []; }
     }));
-    return { league, events: lists.flat() };
+    return { code, league, events: lists.flat() };
   }));
   resultsFeed = { leagues: leagues.filter(l => l.events.length) };
 }
@@ -328,17 +328,18 @@ function dateLabel(iso) {
   return new Date(iso + 'T12:00').toLocaleDateString('en', { weekday: 'short', month: 'short', day: 'numeric' });
 }
 
-function feedRow(e) {
+function feedRow(e, code) {
+  const href = feedHref(code, e);
   const logo = t => (t.logo ? `<img class="crest crest-sm" src="${esc(t.logo)}" alt="" loading="lazy">` : `<span class="crest crest-sm crest-fallback" aria-hidden="true">${esc(initials(t.name || '?'))}</span>`);
   return `
     <div class="match-row feed-row">
-      <div class="match">
+      <${href ? `a href="${href}"` : 'div'} class="match">
         <span class="status">${esc(e.detail === 'FT' || !e.detail ? 'FT' : e.detail)}</span>
         <span class="team home">${esc(e.home.name)}</span>${logo(e.home)}
         <span class="score">${esc(e.home.score)} - ${esc(e.away.score)}</span>
         ${logo(e.away)}<span class="team away">${esc(e.away.name)}</span>
         <span class="tv-tag">ESPN</span>
-      </div>
+      </${href ? 'a' : 'div'}>
     </div>`;
 }
 
@@ -362,7 +363,7 @@ function pastResults() {
       // Days the app has its own researched matches for (with full match pages) use those instead.
       .filter(({ e, day }) => day < date && !ours.has(day) && hit(e.home.name, e.away.name))
       .sort((a, b) => Date.parse(a.e.start) - Date.parse(b.e.start))
-      .forEach(({ e, day }) => add(day, feedRow(e)));
+      .forEach(({ e, day }) => add(day, feedRow(e, feed.code)));
   }
   const days = Object.keys(byDay).sort().reverse();
   if (!days.length) return resultsFeed ? '' : '<p class="past-note muted">Loading earlier results…</p>';
@@ -401,7 +402,7 @@ async function loadLive() {
   await Promise.all(LIVE_LEAGUES.map(async ([code, league]) => {
     try {
       const d = await (await fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/${code}/scoreboard`)).json();
-      leagues.push({ league, events: (d.events || []).map(ev => {
+      leagues.push({ code, league, events: (d.events || []).map(ev => {
         const comp = (ev.competitions || [{}])[0];
         const side = h => { const c = (comp.competitors || []).find(x => x.homeAway === h) || {}; return { name: c.team && (c.team.shortDisplayName || c.team.displayName), logo: c.team && c.team.logo, score: c.score }; };
         return { id: ev.id, start: ev.date, state: ev.status.type.state, detail: ev.status.type.shortDetail, home: side('home'), away: side('away') };
@@ -422,7 +423,7 @@ function liveCard() {
   // are in the "Coming up" card in the news column).
   const order = { in: 0, post: 1 };
   const finished = [...liveFeed.leagues, ...(resultsFeed ? resultsFeed.leagues : [])]
-    .flatMap(l => l.events.filter(e => e.state !== 'pre').map(e => ({ ...e, league: l.league })));
+    .flatMap(l => l.events.filter(e => e.state !== 'pre').map(e => ({ ...e, league: l.league, code: l.code })));
   const seen = new Set();
   const rows = finished.filter(e => !seen.has(e.id) && seen.add(e.id))
     .sort((x, y) => order[x.state] - order[y.state] || Date.parse(y.start) - Date.parse(x.start));
@@ -442,11 +443,11 @@ function liveCard() {
         <div class="fit-group">
         <div class="side-league">${LEAGUES.find(l => l.name === g.league) ? `<img class="league-logo" src="${LEAGUES.find(l => l.name === g.league).logo}" alt="">` : ''}${esc(g.key)}</div>
         ${g.events.map(e => `
-          <div class="side-match fit-item ${e.state}">
+          <a class="side-match fit-item ${e.state}" href="${feedHref(e.code, e) || '#'}">
             <span class="live-min ${e.state}">${esc(status(e))}</span>
             <span class="sm-teams"><span>${feedCrest(e.home)} ${esc(e.home.name)}</span><span>${feedCrest(e.away)} ${esc(e.away.name)}</span></span>
             <span class="sm-score">${e.state === 'pre' ? '' : `<b>${esc(e.home.score)}</b><b>${esc(e.away.score)}</b>`}</span>
-          </div>`).join('')}
+          </a>`).join('')}
         </div>`).join('')}
     </div>`;
 }
@@ -1264,6 +1265,7 @@ function exportCsv(match) {
 }
 
 function standingsCard(match) {
+  if (ESPN_TABLES[match.id]) return espnTableCard(match, ESPN_TABLES[match.id]);
   const league = leagueOf(match);
   const ucl = league === COMPETITION.league;
   const games = MATCHES.filter(m => leagueOf(m) === league);
@@ -1475,8 +1477,38 @@ function provenance(match) {
   return `<p class="provenance"><span><b>Real:</b> ${real.join(', ')}</span><span><b>Estimated:</b> ${est.join(', ')}</span></p>`;
 }
 
+// The real league table that came with an ESPN match summary.
+function espnTableCard(match, rows) {
+  return `
+    <div class="card">
+      ${sectionHead(leagueOf(match))}
+      <div class="table-wrap">
+        <table class="table">
+          <thead><tr><th>#</th><th>Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>GD</th><th>Pts</th></tr></thead>
+          <tbody>
+            ${rows.map((t, i) => `
+              <tr class="${t.team === match.home || t.team === match.away ? 'highlight' : ''}">
+                <td><span class="pos">${t.rank || i + 1}</span></td>
+                <td class="team-cell">${crest(t.team)} ${esc(t.team)}</td>
+                <td>${t.p}</td><td>${t.w}</td><td>${t.d}</td><td>${t.l}</td>
+                <td>${t.gd > 0 ? '+' : ''}${t.gd}</td><td><b>${t.pts}</b></td>
+              </tr>`).join('')}
+          </tbody>
+        </table>
+      </div>
+      <p class="legend muted">Source: ESPN</p>
+    </div>`;
+}
+
 function renderMatch(id, tab) {
   const match = findMatch(id);
+  if (!match && parseEspnId(id)) {
+    // A live score or result from ESPN: load its summary, then render the page.
+    app.innerHTML = `<div class="detail"><div class="card match-header"><div class="match-top"><a class="pill" href="#">❮ Matches</a></div><p class="meta espn-status">Loading the match from ESPN…</p></div></div>`;
+    loadEspnMatch(id).then(() => { const r = route(); if (r && r.id === id) render(); })
+      .catch(err => { const el = app.querySelector('.espn-status'); if (el) el.textContent = `Couldn't load this match from ESPN (${err.message}).`; });
+    return;
+  }
   if (!match) { location.hash = ''; return; }
   const fav = state.favs.includes(match.id);
   const d = details(match);
@@ -1495,7 +1527,7 @@ function renderMatch(id, tab) {
         <p class="meta">${kickoff}, ${match.kickoff}${d.venue ? ` · ${esc(d.venue.name)}` : ''}${match.tv ? ` · 📺 ${esc(match.tv)}` : ''}</p>
         <div class="scoreboard">
           <div class="teamname home">${esc(match.home)} ${crest(match.home, 'lg')}</div>
-          <div class="bigscore">${match.score[0]} - ${match.score[1]}<small>Full time</small></div>
+          <div class="bigscore">${match.score[0]} - ${match.score[1]}<small class="${match.state === 'in' ? 'live-status' : ''}">${esc(match.statusText || 'Full time')}</small></div>
           <div class="teamname away">${crest(match.away, 'lg')} ${esc(match.away)}</div>
         </div>
         <div class="scorers"><span>${scorers(match, 'home')}</span><span class="ball">⚽</span><span>${scorers(match, 'away')}</span></div>
@@ -1646,6 +1678,17 @@ function newsModal(i) {
       <p class="muted small">This is a demonstration article. ${photoCredit(n.photo)}</p>
       <a class="green" href="#/match/${MATCHES[0].id}" data-action="close">Open Lille vs Galatasaray</a>
     </div>`, n.title, 'wide');
+}
+
+// The researched venue for this match (neutral grounds, temporary homes), falling back to
+// the home club's ground. The club's photo and capacity are kept when it's the same stadium.
+function matchVenue(match, lineup) {
+  const home = VENUES[match.home];
+  const lv = lineup && lineup.venue && lineup.venue.name ? lineup.venue : null;
+  if (!lv) return home;
+  const words = s => new Set(s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().split(/[^a-z0-9]+/).filter(w => w.length > 3 && !/^(stadi|estadi|stade|arena)/.test(w)));
+  const a = words(lv.name), same = home && [...words(home.name)].some(w => a.has(w));
+  return { ...(same ? home : {}), ...lv, city: lv.city || (same ? home.city : '') };
 }
 
 function photoCredit(path) {

@@ -1,6 +1,6 @@
 """Fetch Wikimedia Commons headshots for researched players and coaches.
 
-Usage: python3 tools/fetch-player-photos.py
+Usage: python3 tools/fetch-player-photos.py [--skip-search]
 
 For every person in match-data.js without a photo it looks up their English Wikipedia
 article (exact title first, in batches; then a search for "<name> footballer"), keeps
@@ -8,6 +8,8 @@ only articles whose short description mentions football, takes the article's lea
 when it is hosted on Wikimedia Commons, crops it to a square headshot and records the
 author and licence in assets/photo-sources.json. Safe to re-run: people who already have
 a photo are skipped. Rebuild afterwards with tools/build-match-data.py.
+--skip-search uses exact article titles only; the search fallback is slow because
+Wikipedia rate-limits it.
 """
 import io
 import json
@@ -126,7 +128,7 @@ def main():
         print(f'titles {min(i + 50, len(names))}/{len(names)} · matched {len(found)}', flush=True)
 
     # 2) search fallback for the rest
-    for n, name in enumerate([n for n in names if n not in found]):
+    for n, name in enumerate([] if '--skip-search' in sys.argv else [n for n in names if n not in found]):
         try:
             hits = api({'action': 'query', 'list': 'search', 'srsearch': f'{name} footballer', 'srlimit': 1})['query']['search']
             if hits:

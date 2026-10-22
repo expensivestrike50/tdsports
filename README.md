@@ -19,6 +19,11 @@ On the hosted site there is no Agent Tom: `live.json` and `results.json` are the
 
     python3 tools/build-match-data.py && node tools/build-api.js
 
+Player and stadium photos come from Wikimedia Commons (credits in `assets/photo-sources.json`):
+
+    python3 tools/fetch-player-photos.py --skip-search   # exact Wikipedia titles only; drop the flag to also search (slow)
+    python3 tools/fetch-venue-photos.py
+
 ## Run on your PC
 
 Double click `index.html` to open it in your browser. No installation, API key, npm packages or build step is needed. Keep the `assets` folder beside `index.html`.
@@ -86,6 +91,7 @@ The API files are static JSON in `api/v1/`, built from the app's data. Rebuild t
 | `style.js` | Style of play: style classifier, next-match style and lineup prediction, coach and key-player views |
 | `match-data.js` | Generated real match data for the other 12 fixtures (built by `tools/build-match-data.py` from `research/agent-*.json`) |
 | `app.js` | Rendering, routing, search, modals and interactions |
+| `espn-match.js` | Builds match pages for live scores and results from ESPN's match summary |
 | `api-docs.js` | The API documentation page (`#/api`) with the live "Try it" console |
 | `api/v1/` | Generated API files (built by `tools/build-api.js`) |
 | `assets/brand/` | TDsports logo (light and dark versions) and the favicon |
@@ -95,6 +101,7 @@ The API files are static JSON in `api/v1/`, built from the app's data. Rebuild t
 
 ## Features
 
+- **Live and recent ESPN matches:** every row in "Live now" and "Earlier results" opens a full match page. Researched matches open their own page; any other match is built in the browser from ESPN's public match summary (lineups, formations, goals, cards, substitutions, team stats, venue and the real league table) by `espn-match.js`, and live ones refresh every minute. Ratings and detailed player stats there are sample values.
 - **Routing:** each match and tab has its own URL (`#/match/lille-galatasaray/lineup`), so the browser's Back button and bookmarks work.
 - **Full-width match dashboard:** sections sit in a 3-column grid (2 columns on laptops, 1 on phones). Tabs: Facts, Stats, Players, Lineup, Events, Table.
 - **Team analytics:** a key-stats strip under the score, plus sections for momentum, xG race, a shot map (each shot sized by xG), attacking, passing and build-up, defending, physical, discipline and set pieces, and style of play (field tilt, PPDA, directness, defensive line height).

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T13:33:35.800Z",
+  "generated": "2026-10-22T15:51:07.214Z",
   "data": {
     "id": "lille-galatasaray",
     "date": "2026-10-21",
@@ -27,8 +27,8 @@
     "sample": false,
     "hasLineups": true,
     "venue": {
-      "name": "Decathlon Arena - Stade Pierre-Mauroy",
-      "city": "Lille",
+      "name": "Decathlon Arena – Stade Pierre-Mauroy",
+      "city": "Villeneuve-d'Ascq, France",
       "capacity": 50083
     },
     "lineups": {

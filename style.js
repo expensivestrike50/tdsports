@@ -266,9 +266,28 @@ function passNetwork(match) {
   const nets = [side(L.home, 'home', 0), side(L.away, 'away', 1)];
   const maxW = Math.max(...nets.flatMap(n => n.links.map(l => l.w)));
   const maxP = Math.max(...nets.flatMap(n => n.nodes.map(x => x.passes)));
+  // Labels go under each node; one that would overlap an earlier label moves above its node,
+  // and labels near the touchlines are anchored inwards so they aren't clipped.
+  const placeLabels = nodes => {
+    const placed = [];
+    const width = x => PEOPLE[x.id].short.length * 1.3 + 1;
+    nodes.forEach(x => {
+      const r = 1.4 + (x.passes / maxP) * 2.2;
+      const anchor = x.x < 8 ? 'start' : x.x > 97 ? 'end' : 'middle';
+      const left = anchor === 'start' ? x.x - 1 : anchor === 'end' ? x.x + 1 - width(x) : x.x - width(x) / 2;
+      const box = y => ({ l: left, r: left + width(x), t: y - 2, b: y + 0.5 });
+      const hits = b => placed.some(p => b.l < p.r && b.r > p.l && b.t < p.b && b.b > p.t);
+      let y = x.y + r + 2.4;
+      if (hits(box(y)) || y > 67.5) y = x.y - r - 0.8;
+      placed.push(box(y));
+      Object.assign(x, { r, ly: y, anchor, lx: anchor === 'start' ? x.x - 1 : anchor === 'end' ? x.x + 1 : x.x });
+    });
+  };
+  nets.forEach(n => placeLabels(n.nodes));
   const draw = n => `
     ${n.links.map(l => `<line x1="${l.a.x.toFixed(1)}" y1="${l.a.y.toFixed(1)}" x2="${l.b.x.toFixed(1)}" y2="${l.b.y.toFixed(1)}" class="pn-link ${n.side}" style="stroke-width:${(0.3 + (l.w / maxW) * 1.6).toFixed(2)};opacity:${(0.35 + (l.w / maxW) * 0.6).toFixed(2)}"><title>${esc(PEOPLE[l.a.id].short)} ↔ ${esc(PEOPLE[l.b.id].short)}: ${l.w} passes</title></line>`).join('')}
-    ${n.nodes.map(x => `<g class="pn-node ${n.side}"><circle cx="${x.x.toFixed(1)}" cy="${x.y.toFixed(1)}" r="${(1.4 + (x.passes / maxP) * 2.2).toFixed(2)}"><title>${esc(PEOPLE[x.id].name)}: ${x.passes} passes completed</title></circle><text x="${x.x.toFixed(1)}" y="${(x.y + 5).toFixed(1)}" text-anchor="middle">${esc(PEOPLE[x.id].short)}</text></g>`).join('')}`;
+    ${n.nodes.map(x => `<g class="pn-node ${n.side}"><circle cx="${x.x.toFixed(1)}" cy="${x.y.toFixed(1)}" r="${x.r.toFixed(2)}"><title>${esc(PEOPLE[x.id].name)}: ${x.passes} passes completed</title></circle></g>`).join('')}
+    ${n.nodes.map(x => `<g class="pn-node"><text x="${x.lx.toFixed(1)}" y="${x.ly.toFixed(1)}" text-anchor="${x.anchor}">${esc(PEOPLE[x.id].short)}</text></g>`).join('')}`;
   const top = side => {
     const n = nets[side === 'home' ? 0 : 1];
     const l = n.links[0];
