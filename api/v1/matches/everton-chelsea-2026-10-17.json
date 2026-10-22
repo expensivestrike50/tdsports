@@ -1,0 +1,758 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "everton-chelsea-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "12:30",
+    "competition": "Premier League",
+    "round": "Matchweek 7",
+    "status": "FT",
+    "home": {
+      "name": "Everton",
+      "id": "everton",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Chelsea",
+      "id": "chelsea",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Hill Dickinson Stadium",
+      "city": "Liverpool",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "david-moyes",
+          "name": "David Moyes",
+          "short": "Moyes",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "jordan-pickford",
+            "name": "Jordan Pickford",
+            "short": "Pickford",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "ainsley-maitland-niles",
+            "name": "Ainsley Maitland-Niles",
+            "short": "Maitland-Niles",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.7
+          },
+          {
+            "id": "james-tarkowski",
+            "name": "James Tarkowski",
+            "short": "Tarkowski",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.5
+          },
+          {
+            "id": "jarrad-branthwaite",
+            "name": "Jarrad Branthwaite",
+            "short": "Branthwaite",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.5
+          },
+          {
+            "id": "vitaliy-mykolenko",
+            "name": "Vitaliy Mykolenko",
+            "short": "Mykolenko",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "harrison-armstrong",
+            "name": "Harrison Armstrong",
+            "short": "Armstrong",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.4
+          },
+          {
+            "id": "james-garner",
+            "name": "James Garner",
+            "short": "Garner",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.8
+          },
+          {
+            "id": "merlin-rohl",
+            "name": "Merlin Röhl",
+            "short": "Röhl",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.4
+          },
+          {
+            "id": "kiernan-dewsbury-hall",
+            "name": "Kiernan Dewsbury-Hall",
+            "short": "Dewsbury-Hall",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "jack-grealish",
+            "name": "Jack Grealish",
+            "short": "Grealish",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 6.2
+          },
+          {
+            "id": "thierno-barry",
+            "name": "Thierno Barry",
+            "short": "Barry",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "tyrique-george",
+            "name": "Tyrique George",
+            "short": "George",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "christian-nrgaard",
+            "name": "Christian Nørgaard",
+            "short": "Nørgaard",
+            "position": "DM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "brennan-johnson",
+            "name": "Brennan Johnson",
+            "short": "Johnson",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "tyler-dibling",
+            "name": "Tyler Dibling",
+            "short": "Dibling",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "hayden-hackney",
+            "name": "Hayden Hackney",
+            "short": "Hackney",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mark-travers",
+            "name": "Mark Travers",
+            "short": "Travers",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "braiden-graham",
+            "name": "Braiden Graham",
+            "short": "Graham",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jake-o-brien",
+            "name": "Jake O'Brien",
+            "short": "O'Brien",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "charly-alcaraz",
+            "name": "Charly Alcaraz",
+            "short": "Alcaraz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "xabi-alonso",
+          "name": "Xabi Alonso",
+          "short": "Alonso",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "emiliano-martinez",
+            "name": "Emiliano Martínez",
+            "short": "Martínez",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "josh-acheampong",
+            "name": "Josh Acheampong",
+            "short": "Acheampong",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "maxence-lacroix",
+            "name": "Maxence Lacroix",
+            "short": "Lacroix",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "levi-colwill",
+            "name": "Levi Colwill",
+            "short": "Colwill",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.9
+          },
+          {
+            "id": "jorrel-hato",
+            "name": "Jorrel Hato",
+            "short": "Hato",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.4
+          },
+          {
+            "id": "moises-caicedo",
+            "name": "Moisés Caicedo",
+            "short": "Caicedo",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 6.7
+          },
+          {
+            "id": "jordan-henderson",
+            "name": "Jordan Henderson",
+            "short": "Henderson",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.5
+          },
+          {
+            "id": "pedro-neto",
+            "name": "Pedro Neto",
+            "short": "Neto",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 8.9
+          },
+          {
+            "id": "cole-palmer",
+            "name": "Cole Palmer",
+            "short": "Palmer",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "morgan-rogers",
+            "name": "Morgan Rogers",
+            "short": "Rogers",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 7.6
+          },
+          {
+            "id": "joao-pedro",
+            "name": "João Pedro",
+            "short": "João Pedro",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "mike-penders",
+            "name": "Mike Penders",
+            "short": "Penders",
+            "position": "GK",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "danny-welbeck",
+            "name": "Danny Welbeck",
+            "short": "Welbeck",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "marco-palestra",
+            "name": "Marco Palestra",
+            "short": "Palestra",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "romeo-lavia",
+            "name": "Romeo Lavia",
+            "short": "Lavia",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "geovany-quenda",
+            "name": "Geovany Quenda",
+            "short": "Quenda",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "estevao",
+            "name": "Estêvão",
+            "short": "Estêvão",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "valentin-barco",
+            "name": "Valentín Barco",
+            "short": "Barco",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mahdi-nicoll-jazuli",
+            "name": "Mahdi Nicoll-Jazuli",
+            "short": "Nicoll-Jazuli",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "wesley-fofana",
+            "name": "Wesley Fofana",
+            "short": "Fofana",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 23,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "harrison-armstrong",
+          "name": "Harrison Armstrong",
+          "short": "Armstrong",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 27,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "pedro-neto",
+          "name": "Pedro Neto",
+          "short": "Neto",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 32,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "josh-acheampong",
+          "name": "Josh Acheampong",
+          "short": "Acheampong",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 34,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "james-tarkowski",
+          "name": "James Tarkowski",
+          "short": "Tarkowski",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Barging Moisés Caicedo off the ball"
+      },
+      {
+        "minute": 34,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "morgan-rogers",
+          "name": "Morgan Rogers",
+          "short": "Rogers",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Clash with James Tarkowski"
+      },
+      {
+        "minute": 42,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "morgan-rogers",
+          "name": "Morgan Rogers",
+          "short": "Rogers",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Already-booked Rogers' challenge on James Garner checked; VAR upheld the on-field decision of no further card."
+      },
+      {
+        "minute": 46,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "pedro-neto",
+          "name": "Pedro Neto",
+          "short": "Neto",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Forty-three seconds after the restart Pedro Neto squeezed a left-footed shot past Jordan Pickford after being found in the box from the byline."
+      },
+      {
+        "minute": 55,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "tyrique-george",
+          "name": "Tyrique George",
+          "short": "George",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ainsley-maitland-niles",
+          "name": "Ainsley Maitland-Niles",
+          "short": "Maitland-Niles",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "cole-palmer",
+          "name": "Cole Palmer",
+          "short": "Palmer",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mike-penders",
+          "name": "Mike Penders",
+          "short": "Penders",
+          "position": "GK",
+          "photo": null
+        },
+        "replaced": {
+          "id": "emiliano-martinez",
+          "name": "Emiliano Martínez",
+          "short": "Martínez",
+          "position": "GK",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "christian-nrgaard",
+          "name": "Christian Nørgaard",
+          "short": "Nørgaard",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "harrison-armstrong",
+          "name": "Harrison Armstrong",
+          "short": "Armstrong",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "brennan-johnson",
+          "name": "Brennan Johnson",
+          "short": "Johnson",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jack-grealish",
+          "name": "Jack Grealish",
+          "short": "Grealish",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "christian-nrgaard",
+          "name": "Christian Nørgaard",
+          "short": "Nørgaard",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "pedro-neto",
+          "name": "Pedro Neto",
+          "short": "Neto",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "Pedro Neto picked up a loose ball following a free-kick and fired left-footed into the bottom left corner to wrap up the win."
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "danny-welbeck",
+          "name": "Danny Welbeck",
+          "short": "Welbeck",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "joao-pedro",
+          "name": "João Pedro",
+          "short": "João Pedro",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "marco-palestra",
+          "name": "Marco Palestra",
+          "short": "Palestra",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jorrel-hato",
+          "name": "Jorrel Hato",
+          "short": "Hato",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "romeo-lavia",
+          "name": "Romeo Lavia",
+          "short": "Lavia",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "moises-caicedo",
+          "name": "Moisés Caicedo",
+          "short": "Caicedo",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "geovany-quenda",
+          "name": "Geovany Quenda",
+          "short": "Quenda",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pedro-neto",
+          "name": "Pedro Neto",
+          "short": "Neto",
+          "position": "RW",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        6,
+        18
+      ],
+      "onTarget": [
+        5,
+        7
+      ],
+      "corners": [
+        5,
+        7
+      ],
+      "fouls": [
+        8,
+        15
+      ],
+      "possession": 47
+    },
+    "attendance": 52271,
+    "referee": {
+      "name": "Paul Tierney",
+      "country": "England"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401878771",
+      "https://www.espn.com/soccer/match/_/gameId/401878771",
+      "https://www.skysports.com/football/a-vs-b/report/559507",
+      "https://www.skysports.com/football/a-vs-b/teams/559507",
+      "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

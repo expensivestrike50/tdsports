@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "mousa-al-tamari-paris-fc-rennes-2026-10-18",
+    "name": "Mousa Al-Tamari",
+    "short": "Al-Tamari",
+    "position": "RW",
+    "photo": null,
+    "matches": [
+      {
+        "match": "paris-fc-rennes-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Rennes",
+        "role": "bench"
+      }
+    ]
+  }
+}

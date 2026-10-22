@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "chris-richards-brighton-c-palace-2026-10-18",
+    "name": "Chris Richards",
+    "short": "Richards",
+    "position": "CB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "brighton-c-palace-2026-10-18",
+        "date": "2026-10-18",
+        "team": "C Palace",
+        "role": "starter"
+      }
+    ]
+  }
+}

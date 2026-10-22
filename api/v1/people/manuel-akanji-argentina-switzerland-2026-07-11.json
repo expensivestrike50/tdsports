@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "manuel-akanji-argentina-switzerland-2026-07-11",
+    "name": "Manuel Akanji",
+    "short": "Akanji",
+    "position": "CB",
+    "photo": "assets/photos/people/manuel-akanji.jpg",
+    "matches": [
+      {
+        "match": "argentina-switzerland-2026-07-11",
+        "date": "2026-07-11",
+        "team": "Switzerland",
+        "role": "starter"
+      }
+    ]
+  }
+}

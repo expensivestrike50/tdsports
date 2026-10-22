@@ -1,0 +1,877 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "norway-england-2026-07-11",
+    "date": "2026-07-11",
+    "kickoff": "17:00",
+    "competition": "FIFA World Cup",
+    "round": "Quarter-final",
+    "status": "FT",
+    "home": {
+      "name": "Norway",
+      "id": "norway",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+      "country": "NO"
+    },
+    "away": {
+      "name": "England",
+      "id": "england",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "stale-solbakken",
+          "name": "Ståle Solbakken",
+          "short": "Solbakken",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "rjan-nyland-norway-england-2026-07-11",
+            "name": "Ørjan Nyland",
+            "short": "Nyland",
+            "position": "GK",
+            "photo": "assets/photos/people/rjan-nyland.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "david-mller-wolfe-norway-england-2026-07-11",
+            "name": "David Møller Wolfe",
+            "short": "Møller Wolfe",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.2
+          },
+          {
+            "id": "torbjrn-heggem-norway-england-2026-07-11",
+            "name": "Torbjørn Heggem",
+            "short": "Heggem",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "kristoffer-ajer-norway-england-2026-07-11",
+            "name": "Kristoffer Ajer",
+            "short": "Ajer",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.8
+          },
+          {
+            "id": "julian-ryerson-norway-england-2026-07-11",
+            "name": "Julian Ryerson",
+            "short": "Ryerson",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "patrick-berg-norway-england-2026-07-11",
+            "name": "Patrick Berg",
+            "short": "Berg",
+            "position": "CM",
+            "photo": "assets/photos/people/patrick-berg.jpg",
+            "x": 32,
+            "y": 23,
+            "rating": 7.5
+          },
+          {
+            "id": "sander-berge-norway-england-2026-07-11",
+            "name": "Sander Berge",
+            "short": "Berge",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "martin-degaard-norway-england-2026-07-11",
+            "name": "Martin Ødegaard",
+            "short": "Ødegaard",
+            "position": "CM",
+            "photo": "assets/photos/people/martin-degaard.jpg",
+            "x": 32,
+            "y": 78,
+            "rating": 7.6
+          },
+          {
+            "id": "andreas-schjelderup-norway-england-2026-07-11",
+            "name": "Andreas Schjelderup",
+            "short": "Schjelderup",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 8.2
+          },
+          {
+            "id": "alexander-srloth-norway-england-2026-07-11",
+            "name": "Alexander Sørloth",
+            "short": "Sørloth",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "erling-haaland-norway-england-2026-07-11",
+            "name": "Erling Haaland",
+            "short": "Haaland",
+            "position": "ST",
+            "photo": "assets/photos/people/erling-haaland.jpg",
+            "x": 46,
+            "y": 78,
+            "rating": 7.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "fredrik-aursnes-norway-england-2026-07-11",
+            "name": "Fredrik Aursnes",
+            "short": "Aursnes",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "oscar-bobb-norway-england-2026-07-11",
+            "name": "Oscar Bobb",
+            "short": "Bobb",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "antonio-nusa-norway-england-2026-07-11",
+            "name": "Antonio Nusa",
+            "short": "Nusa",
+            "position": "LW",
+            "photo": "assets/photos/people/antonio-nusa.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "marcus-holmgren-pedersen-norway-england-2026-07-11",
+            "name": "Marcus Holmgren Pedersen",
+            "short": "Pedersen",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "leo-stigard-norway-england-2026-07-11",
+            "name": "Leo Østigard",
+            "short": "Østigard",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "jrgen-strand-larsen-norway-england-2026-07-11",
+            "name": "Jørgen Strand Larsen",
+            "short": "Larsen",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "thelo-aasgaard",
+            "name": "Thelo Aasgaard",
+            "short": "Aasgaard",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jens-petter-hauge-norway-england-2026-07-11",
+            "name": "Jens Petter Hauge",
+            "short": "Hauge",
+            "position": "CM",
+            "photo": "assets/photos/people/jens-petter-hauge.jpg",
+            "rating": null
+          },
+          {
+            "id": "henrik-falchener-norway-england-2026-07-11",
+            "name": "Henrik Falchener",
+            "short": "Falchener",
+            "position": "CM",
+            "photo": "assets/photos/people/henrik-falchener.jpg",
+            "rating": null
+          },
+          {
+            "id": "sondre-langas",
+            "name": "Sondre Langas",
+            "short": "Langas",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kristian-thorstvedt-norway-england-2026-07-11",
+            "name": "Kristian Thorstvedt",
+            "short": "Thorstvedt",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "morten-thorsby",
+            "name": "Morten Thorsby",
+            "short": "Thorsby",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "sander-tangvik-norway-england-2026-07-11",
+            "name": "Sander Tangvik",
+            "short": "Tangvik",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "egil-selvik-norway-england-2026-07-11",
+            "name": "Egil Selvik",
+            "short": "Selvik",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "fredrik-andre-bjrkan-norway-england-2026-07-11",
+            "name": "Fredrik André Bjørkan",
+            "short": "Bjørkan",
+            "position": "CM",
+            "photo": "assets/photos/people/fredrik-andre-bjrkan.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "thomas-tuchel",
+          "name": "Thomas Tuchel",
+          "short": "Tuchel",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "jordan-pickford-norway-england-2026-07-11",
+            "name": "Jordan Pickford",
+            "short": "Pickford",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "nico-o-reilly-norway-england-2026-07-11",
+            "name": "Nico O'Reilly",
+            "short": "O'Reilly",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.2
+          },
+          {
+            "id": "marc-guehi-norway-england-2026-07-11",
+            "name": "Marc Guéhi",
+            "short": "Guéhi",
+            "position": "CB",
+            "photo": "assets/photos/people/marc-guehi.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "john-stones",
+            "name": "John Stones",
+            "short": "Stones",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.4
+          },
+          {
+            "id": "ezri-konsa-norway-england-2026-07-11",
+            "name": "Ezri Konsa",
+            "short": "Konsa",
+            "position": "RB",
+            "photo": "assets/photos/people/ezri-konsa.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 6.7
+          },
+          {
+            "id": "elliot-anderson-norway-england-2026-07-11",
+            "name": "Elliot Anderson",
+            "short": "Anderson",
+            "position": "DM",
+            "photo": "assets/photos/people/elliot-anderson.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "declan-rice-norway-england-2026-07-11",
+            "name": "Declan Rice",
+            "short": "Rice",
+            "position": "DM",
+            "photo": "assets/photos/people/declan-rice.jpg",
+            "x": 73,
+            "y": 30,
+            "rating": 6.5
+          },
+          {
+            "id": "anthony-gordon-norway-england-2026-07-11",
+            "name": "Anthony Gordon",
+            "short": "Gordon",
+            "position": "LW",
+            "photo": "assets/photos/people/anthony-gordon.jpg",
+            "x": 63,
+            "y": 77,
+            "rating": 7.2
+          },
+          {
+            "id": "jude-bellingham-norway-england-2026-07-11",
+            "name": "Jude Bellingham",
+            "short": "Bellingham",
+            "position": "AM",
+            "photo": "assets/photos/people/jude-bellingham.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 8.4
+          },
+          {
+            "id": "noni-madueke-norway-england-2026-07-11",
+            "name": "Noni Madueke",
+            "short": "Madueke",
+            "position": "RW",
+            "photo": "assets/photos/people/noni-madueke.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 7
+          },
+          {
+            "id": "harry-kane-norway-england-2026-07-11",
+            "name": "Harry Kane",
+            "short": "Kane",
+            "position": "ST",
+            "photo": "assets/photos/people/harry-kane.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "bukayo-saka-norway-england-2026-07-11",
+            "name": "Bukayo Saka",
+            "short": "Saka",
+            "position": "RW",
+            "photo": "assets/photos/people/bukayo-saka.jpg",
+            "rating": 7.6
+          },
+          {
+            "id": "eberechi-eze-norway-england-2026-07-11",
+            "name": "Eberechi Eze",
+            "short": "Eze",
+            "position": "DM",
+            "photo": "assets/photos/people/eberechi-eze.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "reece-james",
+            "name": "Reece James",
+            "short": "James",
+            "position": "LW",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "djed-spence-norway-england-2026-07-11",
+            "name": "Djed Spence",
+            "short": "Spence",
+            "position": "LB",
+            "photo": "assets/photos/people/djed-spence.jpg",
+            "rating": 6.7
+          },
+          {
+            "id": "morgan-rogers-norway-england-2026-07-11",
+            "name": "Morgan Rogers",
+            "short": "Rogers",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "dan-burn-norway-england-2026-07-11",
+            "name": "Dan Burn",
+            "short": "Burn",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "dean-henderson",
+            "name": "Dean Henderson",
+            "short": "Henderson",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marcus-rashford-norway-england-2026-07-11",
+            "name": "Marcus Rashford",
+            "short": "Rashford",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ollie-watkins",
+            "name": "Ollie Watkins",
+            "short": "Watkins",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "james-trafford-norway-england-2026-07-11",
+            "name": "James Trafford",
+            "short": "Trafford",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "trevoh-chalobah-norway-england-2026-07-11",
+            "name": "Trevoh Chalobah",
+            "short": "Chalobah",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ivan-toney",
+            "name": "Ivan Toney",
+            "short": "Toney",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kobbie-mainoo",
+            "name": "Kobbie Mainoo",
+            "short": "Mainoo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 36,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "andreas-schjelderup-norway-england-2026-07-11",
+          "name": "Andreas Schjelderup",
+          "short": "Schjelderup",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "martin-degaard-norway-england-2026-07-11",
+          "name": "Martin Ødegaard",
+          "short": "Ødegaard",
+          "position": "CM",
+          "photo": "assets/photos/people/martin-degaard.jpg"
+        },
+        "goalType": "build",
+        "description": "Andreas Schjelderup received from Martin Ødegaard on the left side of the box and curled a left-footed shot into the top right corner."
+      },
+      {
+        "minute": 45,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "jude-bellingham-norway-england-2026-07-11",
+          "name": "Jude Bellingham",
+          "short": "Bellingham",
+          "position": "AM",
+          "photo": "assets/photos/people/jude-bellingham.jpg"
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "anthony-gordon-norway-england-2026-07-11",
+          "name": "Anthony Gordon",
+          "short": "Gordon",
+          "position": "LW",
+          "photo": "assets/photos/people/anthony-gordon.jpg"
+        },
+        "goalType": "build",
+        "description": "Anthony Gordon set up Jude Bellingham, who finished low with his left foot from the left side of the box beyond Ørjan Nyland in first-half stoppage time."
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "bukayo-saka-norway-england-2026-07-11",
+          "name": "Bukayo Saka",
+          "short": "Saka",
+          "position": "RW",
+          "photo": "assets/photos/people/bukayo-saka.jpg"
+        },
+        "replaced": {
+          "id": "noni-madueke-norway-england-2026-07-11",
+          "name": "Noni Madueke",
+          "short": "Madueke",
+          "position": "RW",
+          "photo": "assets/photos/people/noni-madueke.jpg"
+        }
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "eberechi-eze-norway-england-2026-07-11",
+          "name": "Eberechi Eze",
+          "short": "Eze",
+          "position": "DM",
+          "photo": "assets/photos/people/eberechi-eze.jpg"
+        },
+        "replaced": {
+          "id": "declan-rice-norway-england-2026-07-11",
+          "name": "Declan Rice",
+          "short": "Rice",
+          "position": "DM",
+          "photo": "assets/photos/people/declan-rice.jpg"
+        }
+      },
+      {
+        "minute": 55,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "torbjrn-heggem-norway-england-2026-07-11",
+          "name": "Torbjørn Heggem",
+          "short": "Heggem",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Goal by Torbjørn Heggem (55') ruled out after VAR review for a foul by Erling Haaland. VAR Decision: No Goal Norway 1-1 England."
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "fredrik-aursnes-norway-england-2026-07-11",
+          "name": "Fredrik Aursnes",
+          "short": "Aursnes",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "julian-ryerson-norway-england-2026-07-11",
+          "name": "Julian Ryerson",
+          "short": "Ryerson",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "oscar-bobb-norway-england-2026-07-11",
+          "name": "Oscar Bobb",
+          "short": "Bobb",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alexander-srloth-norway-england-2026-07-11",
+          "name": "Alexander Sørloth",
+          "short": "Sørloth",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "antonio-nusa-norway-england-2026-07-11",
+          "name": "Antonio Nusa",
+          "short": "Nusa",
+          "position": "LW",
+          "photo": "assets/photos/people/antonio-nusa.jpg"
+        },
+        "replaced": {
+          "id": "andreas-schjelderup-norway-england-2026-07-11",
+          "name": "Andreas Schjelderup",
+          "short": "Schjelderup",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "reece-james",
+          "name": "Reece James",
+          "short": "James",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "anthony-gordon-norway-england-2026-07-11",
+          "name": "Anthony Gordon",
+          "short": "Gordon",
+          "position": "LW",
+          "photo": "assets/photos/people/anthony-gordon.jpg"
+        }
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "djed-spence-norway-england-2026-07-11",
+          "name": "Djed Spence",
+          "short": "Spence",
+          "position": "LB",
+          "photo": "assets/photos/people/djed-spence.jpg"
+        },
+        "replaced": {
+          "id": "nico-o-reilly-norway-england-2026-07-11",
+          "name": "Nico O'Reilly",
+          "short": "O'Reilly",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "morgan-rogers-norway-england-2026-07-11",
+          "name": "Morgan Rogers",
+          "short": "Rogers",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ezri-konsa-norway-england-2026-07-11",
+          "name": "Ezri Konsa",
+          "short": "Konsa",
+          "position": "RB",
+          "photo": "assets/photos/people/ezri-konsa.jpg"
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "marcus-holmgren-pedersen-norway-england-2026-07-11",
+          "name": "Marcus Holmgren Pedersen",
+          "short": "Pedersen",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "david-mller-wolfe-norway-england-2026-07-11",
+          "name": "David Møller Wolfe",
+          "short": "Møller Wolfe",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 91,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "leo-stigard-norway-england-2026-07-11",
+          "name": "Leo Østigard",
+          "short": "Østigard",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "torbjrn-heggem-norway-england-2026-07-11",
+          "name": "Torbjørn Heggem",
+          "short": "Heggem",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 93,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "jude-bellingham-norway-england-2026-07-11",
+          "name": "Jude Bellingham",
+          "short": "Bellingham",
+          "position": "AM",
+          "photo": "assets/photos/people/jude-bellingham.jpg"
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "After a corner, Nyland could only parry Morgan Rogers' effort and Bellingham reacted first to force the rebound in with his right foot."
+      },
+      {
+        "minute": 101,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "djed-spence-norway-england-2026-07-11",
+          "name": "Djed Spence",
+          "short": "Spence",
+          "position": "LB",
+          "photo": "assets/photos/people/djed-spence.jpg"
+        },
+        "detail": "VAR Decision: No Penalty England."
+      },
+      {
+        "minute": 106,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jrgen-strand-larsen-norway-england-2026-07-11",
+          "name": "Jørgen Strand Larsen",
+          "short": "Larsen",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "erling-haaland-norway-england-2026-07-11",
+          "name": "Erling Haaland",
+          "short": "Haaland",
+          "position": "ST",
+          "photo": "assets/photos/people/erling-haaland.jpg"
+        }
+      },
+      {
+        "minute": 111,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "dan-burn-norway-england-2026-07-11",
+          "name": "Dan Burn",
+          "short": "Burn",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jude-bellingham-norway-england-2026-07-11",
+          "name": "Jude Bellingham",
+          "short": "Bellingham",
+          "position": "AM",
+          "photo": "assets/photos/people/jude-bellingham.jpg"
+        }
+      },
+      {
+        "minute": 117,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "kristoffer-ajer-norway-england-2026-07-11",
+          "name": "Kristoffer Ajer",
+          "short": "Ajer",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Not specified by source"
+      }
+    ],
+    "stats": {
+      "shots": [
+        13,
+        14
+      ],
+      "onTarget": [
+        4,
+        8
+      ],
+      "corners": [
+        7,
+        4
+      ],
+      "fouls": [
+        10,
+        8
+      ],
+      "possession": 48
+    },
+    "attendance": 64478,
+    "referee": {
+      "name": "Clément Turpin",
+      "country": "France"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760512",
+      "https://www.espn.com/soccer/match/_/gameId/760512",
+      "https://www.khaleejtimes.com/sports/fifa-world-cup/bellingham-double-guides-england-to-world-cup-semis-in-extra-time-win-over-norway",
+      "https://www.brentfordfc.com/en/news/article/international-kristoffer-ajer-norway-1-england-2-extra-time-2026-fifa-world-cup-quarter-final"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "jack-fletcher",
+    "name": "Jack Fletcher",
+    "short": "Fletcher",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "como-man-united",
+        "date": "2026-10-21",
+        "team": "Man United",
+        "role": "bench"
+      }
+    ]
+  }
+}

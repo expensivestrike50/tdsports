@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "ousmane-dembele-strasbourg-psg-2026-10-17",
+    "name": "Ousmane Dembélé",
+    "short": "Dembélé",
+    "position": "LW",
+    "photo": "assets/photos/people/ousmane-dembele.jpg",
+    "matches": [
+      {
+        "match": "strasbourg-psg-2026-10-17",
+        "date": "2026-10-17",
+        "team": "PSG",
+        "role": "bench"
+      }
+    ]
+  }
+}

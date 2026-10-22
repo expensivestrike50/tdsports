@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "ibrahima-ba",
+    "name": "Ibrahima Ba",
+    "short": "Ba",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "sporting-lask",
+        "date": "2026-10-21",
+        "team": "Sporting CP",
+        "role": "bench"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "ibrahim-mbaye-newcastle-aston-villa-2026-10-17",
+    "name": "Ibrahim Mbaye",
+    "short": "Mbaye",
+    "position": "AM",
+    "photo": "assets/photos/people/ibrahim-mbaye.jpg",
+    "matches": [
+      {
+        "match": "newcastle-aston-villa-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Aston Villa",
+        "role": "bench"
+      }
+    ]
+  }
+}

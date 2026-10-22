@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "maarten-vandevoordt-bayern-munchen-rb-leipzig-2026-10-17",
+    "name": "Maarten Vandevoordt",
+    "short": "Vandevoordt",
+    "position": "GK",
+    "photo": "assets/photos/people/maarten-vandevoordt.jpg",
+    "matches": [
+      {
+        "match": "bayern-munchen-rb-leipzig-2026-10-17",
+        "date": "2026-10-17",
+        "team": "RB Leipzig",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "lech-poznan-leverkusen-2026-10-15",
+    "date": "2026-10-15",
+    "kickoff": "18:45",
+    "competition": "UEFA Europa League",
+    "round": "League phase, matchday 2",
+    "status": "FT",
+    "home": {
+      "name": "Lech Poznan",
+      "id": "lech-poznan",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png",
+      "country": "PL"
+    },
+    "away": {
+      "name": "Leverkusen",
+      "id": "leverkusen",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "country": "DE"
+    },
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Municipal Stadium-Poznan",
+      "city": "Poznan",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "niels-frederiksen",
+          "name": "Niels Frederiksen",
+          "short": "Frederiksen",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "mateusz-lis",
+            "name": "Mateusz Lis",
+            "short": "Lis",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "michal-gurgul",
+            "name": "Michal Gurgul",
+            "short": "Gurgul",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "wojciech-monka",
+            "name": "Wojciech Monka",
+            "short": "Monka",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.3
+          },
+          {
+            "id": "mateusz-skrzypczak",
+            "name": "Mateusz Skrzypczak",
+            "short": "Skrzypczak",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.9
+          },
+          {
+            "id": "joel-pereira",
+            "name": "Joel Pereira",
+            "short": "Pereira",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "leo-bengtsson",
+            "name": "Leo Bengtsson",
+            "short": "Bengtsson",
+            "position": "LW",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "antoni-kozubal",
+            "name": "Antoni Kozubal",
+            "short": "Kozubal",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 6.2
+          },
+          {
+            "id": "gustaf-beggren",
+            "name": "Gustaf Beggren",
+            "short": "Beggren",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 7.5
+          },
+          {
+            "id": "patrick-walemark",
+            "name": "Patrick Walemark",
+            "short": "Walemark",
+            "position": "RW",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "luis-palma",
+            "name": "Luis Palma",
+            "short": "Palma",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 6.5
+          },
+          {
+            "id": "mikael-ishak",
+            "name": "Mikael Ishak",
+            "short": "Ishak",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 6.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "terry-yegbe",
+            "name": "Terry Yegbe",
+            "short": "Yegbe",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "filip-jagiello",
+            "name": "Filip Jagiello",
+            "short": "Jagiello",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "daniel-hakans",
+            "name": "Daniel Håkans",
+            "short": "Håkans",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "yannick-agnero",
+            "name": "Yannick Agnero",
+            "short": "Agnero",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "pablo-rodriguez",
+            "name": "Pablo Rodriguez",
+            "short": "Rodriguez",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "mateusz-pruchniewski",
+            "name": "Mateusz Pruchniewski",
+            "short": "Pruchniewski",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "wojciech-szymczak",
+            "name": "Wojciech Szymczak",
+            "short": "Szymczak",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "karol-delikat",
+            "name": "Karol Delikat",
+            "short": "Delikat",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "piotr-bartczak",
+            "name": "Piotr Bartczak",
+            "short": "Bartczak",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "carles-martinez-lech-poznan-leverkusen-2026-10-15",
+          "name": "Carles Martínez",
+          "short": "Martínez",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "mark-flekken-lech-poznan-leverkusen-2026-10-15",
+            "name": "Mark Flekken",
+            "short": "Flekken",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "miguel-gutierrez-lech-poznan-leverkusen-2026-10-15",
+            "name": "Miguel Gutiérrez",
+            "short": "Gutiérrez",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.2
+          },
+          {
+            "id": "edmond-tapsoba-lech-poznan-leverkusen-2026-10-15",
+            "name": "Edmond Tapsoba",
+            "short": "Tapsoba",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.1
+          },
+          {
+            "id": "loic-bade-lech-poznan-leverkusen-2026-10-15",
+            "name": "Loïc Badé",
+            "short": "Badé",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.9
+          },
+          {
+            "id": "lucas-vazquez-lech-poznan-leverkusen-2026-10-15",
+            "name": "Lucas Vázquez",
+            "short": "Vázquez",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "aleix-garcia-lech-poznan-leverkusen-2026-10-15",
+            "name": "Aleix García",
+            "short": "García",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 7
+          },
+          {
+            "id": "ezequiel-fernandez-lech-poznan-leverkusen-2026-10-15",
+            "name": "Ezequiel Fernández",
+            "short": "Fernández",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.5
+          },
+          {
+            "id": "ibrahim-maza-lech-poznan-leverkusen-2026-10-15",
+            "name": "Ibrahim Maza",
+            "short": "Maza",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 7.5
+          },
+          {
+            "id": "malik-tillman-lech-poznan-leverkusen-2026-10-15",
+            "name": "Malik Tillman",
+            "short": "Tillman",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 8.2
+          },
+          {
+            "id": "nathan-tella-lech-poznan-leverkusen-2026-10-15",
+            "name": "Nathan Tella",
+            "short": "Tella",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 6.7
+          },
+          {
+            "id": "martin-terrier",
+            "name": "Martin Terrier",
+            "short": "Terrier",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "patrik-schick-lech-poznan-leverkusen-2026-10-15",
+            "name": "Patrik Schick",
+            "short": "Schick",
+            "position": "ST",
+            "photo": null,
+            "rating": 8.5
+          },
+          {
+            "id": "moussa-diaby-lech-poznan-leverkusen-2026-10-15",
+            "name": "Moussa Diaby",
+            "short": "Diaby",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "facundo-medina-lech-poznan-leverkusen-2026-10-15",
+            "name": "Facundo Medina",
+            "short": "Medina",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "robert-andrich-lech-poznan-leverkusen-2026-10-15",
+            "name": "Robert Andrich",
+            "short": "Andrich",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "afonso-moreira-lech-poznan-leverkusen-2026-10-15",
+            "name": "Afonso Moreira",
+            "short": "Moreira",
+            "position": "ST",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "janis-blaswich-lech-poznan-leverkusen-2026-10-15",
+            "name": "Janis Blaswich",
+            "short": "Blaswich",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "niklas-lomb",
+            "name": "Niklas Lomb",
+            "short": "Lomb",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jarell-quansah-lech-poznan-leverkusen-2026-10-15",
+            "name": "Jarell Quansah",
+            "short": "Quansah",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 15,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "terry-yegbe",
+          "name": "Terry Yegbe",
+          "short": "Yegbe",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "wojciech-monka",
+          "name": "Wojciech Monka",
+          "short": "Monka",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 18,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "patrik-schick-lech-poznan-leverkusen-2026-10-15",
+          "name": "Patrik Schick",
+          "short": "Schick",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "martin-terrier",
+          "name": "Martin Terrier",
+          "short": "Terrier",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 25,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "terry-yegbe",
+          "name": "Terry Yegbe",
+          "short": "Yegbe",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "VAR review overturned the on-field decision and a penalty was awarded: conceded by Terry Yegbe."
+      },
+      {
+        "minute": 29,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "patrik-schick-lech-poznan-leverkusen-2026-10-15",
+          "name": "Patrik Schick",
+          "short": "Schick",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Patrik Schick converted the penalty with a left-footed shot to the bottom right corner."
+      },
+      {
+        "minute": 32,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "malik-tillman-lech-poznan-leverkusen-2026-10-15",
+          "name": "Malik Tillman",
+          "short": "Tillman",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Malik Tillman scored with a right-footed shot from very close range to the centre of the goal."
+      },
+      {
+        "minute": 38,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "mateusz-skrzypczak",
+          "name": "Mateusz Skrzypczak",
+          "short": "Skrzypczak",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "VAR review overturned the on-field decision and a penalty was awarded: conceded by Mateusz Skrzypczak."
+      },
+      {
+        "minute": 40,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "mateusz-skrzypczak",
+          "name": "Mateusz Skrzypczak",
+          "short": "Skrzypczak",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 41,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "patrik-schick-lech-poznan-leverkusen-2026-10-15",
+          "name": "Patrik Schick",
+          "short": "Schick",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 3",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Patrik Schick converted the penalty with a left-footed shot to the bottom left corner."
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "filip-jagiello",
+          "name": "Filip Jagiello",
+          "short": "Jagiello",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "leo-bengtsson",
+          "name": "Leo Bengtsson",
+          "short": "Bengtsson",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "daniel-hakans",
+          "name": "Daniel Håkans",
+          "short": "Håkans",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "patrick-walemark",
+          "name": "Patrick Walemark",
+          "short": "Walemark",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "yannick-agnero",
+          "name": "Yannick Agnero",
+          "short": "Agnero",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mikael-ishak",
+          "name": "Mikael Ishak",
+          "short": "Ishak",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "moussa-diaby-lech-poznan-leverkusen-2026-10-15",
+          "name": "Moussa Diaby",
+          "short": "Diaby",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nathan-tella-lech-poznan-leverkusen-2026-10-15",
+          "name": "Nathan Tella",
+          "short": "Tella",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "facundo-medina-lech-poznan-leverkusen-2026-10-15",
+          "name": "Facundo Medina",
+          "short": "Medina",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "miguel-gutierrez-lech-poznan-leverkusen-2026-10-15",
+          "name": "Miguel Gutiérrez",
+          "short": "Gutiérrez",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "robert-andrich-lech-poznan-leverkusen-2026-10-15",
+          "name": "Robert Andrich",
+          "short": "Andrich",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "aleix-garcia-lech-poznan-leverkusen-2026-10-15",
+          "name": "Aleix García",
+          "short": "García",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "robert-andrich-lech-poznan-leverkusen-2026-10-15",
+          "name": "Robert Andrich",
+          "short": "Andrich",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "pablo-rodriguez",
+          "name": "Pablo Rodriguez",
+          "short": "Rodriguez",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gustaf-beggren",
+          "name": "Gustaf Beggren",
+          "short": "Beggren",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "afonso-moreira-lech-poznan-leverkusen-2026-10-15",
+          "name": "Afonso Moreira",
+          "short": "Moreira",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "patrik-schick-lech-poznan-leverkusen-2026-10-15",
+          "name": "Patrik Schick",
+          "short": "Schick",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "moussa-diaby-lech-poznan-leverkusen-2026-10-15",
+          "name": "Moussa Diaby",
+          "short": "Diaby",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 88,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "ibrahim-maza-lech-poznan-leverkusen-2026-10-15",
+          "name": "Ibrahim Maza",
+          "short": "Maza",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 4",
+        "penalty": false,
+        "assist": {
+          "id": "afonso-moreira-lech-poznan-leverkusen-2026-10-15",
+          "name": "Afonso Moreira",
+          "short": "Moreira",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Afonso Moreira provided the assist; Ibrahim Maza scored with a right-footed shot from the centre of the box to the bottom right corner."
+      }
+    ],
+    "stats": {
+      "shots": [
+        10,
+        22
+      ],
+      "onTarget": [
+        3,
+        10
+      ],
+      "corners": [
+        4,
+        5
+      ],
+      "fouls": [
+        5,
+        16
+      ],
+      "possession": 39
+    },
+    "attendance": 40116,
+    "referee": {
+      "name": "Miloš Milanović",
+      "country": "Serbia"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/summary?event=401915576",
+      "https://www.espn.com/soccer/match/_/gameId/401915576",
+      "https://match.uefa.com/v5/matches?competitionId=14&fromDate=2026-10-15&toDate=2026-10-15",
+      "https://match.uefa.com/v5/matches/2050085/lineups"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

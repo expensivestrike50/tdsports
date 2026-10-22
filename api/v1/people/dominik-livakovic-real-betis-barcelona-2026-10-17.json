@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "dominik-livakovic-real-betis-barcelona-2026-10-17",
+    "name": "Dominik Livakovic",
+    "short": "Livakovic",
+    "position": "CM",
+    "photo": "assets/photos/people/dominik-livakovic.jpg",
+    "matches": [
+      {
+        "match": "real-betis-barcelona-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Barcelona",
+        "role": "bench"
+      }
+    ]
+  }
+}

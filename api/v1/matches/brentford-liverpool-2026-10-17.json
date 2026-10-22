@@ -1,0 +1,854 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "brentford-liverpool-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "15:00",
+    "competition": "Premier League",
+    "round": "Matchweek 7",
+    "status": "FT",
+    "home": {
+      "name": "Brentford",
+      "id": "brentford",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Liverpool",
+      "id": "liverpool",
+      "crest": "assets/clubs/364.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Gtech Community Stadium",
+      "city": "Brentford",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "keith-andrews",
+          "name": "Keith Andrews",
+          "short": "Andrews",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "caoimhin-kelleher",
+            "name": "Caoimhín Kelleher",
+            "short": "Kelleher",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "michael-kayode",
+            "name": "Michael Kayode",
+            "short": "Kayode",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "sepp-van-den-berg",
+            "name": "Sepp van den Berg",
+            "short": "van den Berg",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.9
+          },
+          {
+            "id": "kristoffer-ajer",
+            "name": "Kristoffer Ajer",
+            "short": "Ajer",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.7
+          },
+          {
+            "id": "keane-lewis-potter",
+            "name": "Keane Lewis-Potter",
+            "short": "Lewis-Potter",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "yehor-yarmoliuk",
+            "name": "Yehor Yarmoliuk",
+            "short": "Yarmoliuk",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.3
+          },
+          {
+            "id": "vitaly-janelt",
+            "name": "Vitaly Janelt",
+            "short": "Janelt",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 5.7
+          },
+          {
+            "id": "dango-ouattara",
+            "name": "Dango Ouattara",
+            "short": "Ouattara",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.7
+          },
+          {
+            "id": "mathias-jensen",
+            "name": "Mathias Jensen",
+            "short": "Jensen",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "jaidon-anthony",
+            "name": "Jaidon Anthony",
+            "short": "Anthony",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 6.2
+          },
+          {
+            "id": "igor-thiago",
+            "name": "Igor Thiago",
+            "short": "Thiago",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "kevin-schade",
+            "name": "Kevin Schade",
+            "short": "Schade",
+            "position": "RW",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "mamadou-sangare",
+            "name": "Mamadou Sangare",
+            "short": "Sangare",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "aaron-hickey",
+            "name": "Aaron Hickey",
+            "short": "Hickey",
+            "position": "CB",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "el-hadji-malick-diouf",
+            "name": "El Hadji Malick Diouf",
+            "short": "Diouf",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "mikkel-damsgaard",
+            "name": "Mikkel Damsgaard",
+            "short": "Damsgaard",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "fabio-carvalho",
+            "name": "Fábio Carvalho",
+            "short": "Carvalho",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nathan-collins",
+            "name": "Nathan Collins",
+            "short": "Collins",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "hakon-valdimarsson",
+            "name": "Hákon Valdimarsson",
+            "short": "Valdimarsson",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "callum-wilson",
+            "name": "Callum Wilson",
+            "short": "Wilson",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "andoni-iraola-brentford-liverpool-2026-10-17",
+          "name": "Andoni Iraola",
+          "short": "Iraola",
+          "position": "Coach",
+          "photo": "assets/photos/people/andoni-iraola.jpg"
+        },
+        "starting": [
+          {
+            "id": "alisson-becker-brentford-liverpool-2026-10-17",
+            "name": "Alisson Becker",
+            "short": "Becker",
+            "position": "GK",
+            "photo": "assets/photos/people/alisson-becker.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "ronald-araujo-brentford-liverpool-2026-10-17",
+            "name": "Ronald Araújo",
+            "short": "Araújo",
+            "position": "RB",
+            "photo": "assets/photos/people/ronald-araujo.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 6.4
+          },
+          {
+            "id": "jeremy-jacquet-brentford-liverpool-2026-10-17",
+            "name": "Jérémy Jacquet",
+            "short": "Jacquet",
+            "position": "CB",
+            "photo": "assets/photos/people/jeremy-jacquet.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 7.5
+          },
+          {
+            "id": "virgil-van-dijk-brentford-liverpool-2026-10-17",
+            "name": "Virgil van Dijk",
+            "short": "van Dijk",
+            "position": "CB",
+            "photo": "assets/photos/people/virgil-van-dijk.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 7.5
+          },
+          {
+            "id": "milos-kerkez-brentford-liverpool-2026-10-17",
+            "name": "Milos Kerkez",
+            "short": "Kerkez",
+            "position": "LB",
+            "photo": "assets/photos/people/milos-kerkez.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 7.7
+          },
+          {
+            "id": "alexis-mac-allister-brentford-liverpool-2026-10-17",
+            "name": "Alexis Mac Allister",
+            "short": "Mac Allister",
+            "position": "DM",
+            "photo": "assets/photos/people/alexis-mac-allister.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 7.4
+          },
+          {
+            "id": "dominik-szoboszlai",
+            "name": "Dominik Szoboszlai",
+            "short": "Szoboszlai",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.1
+          },
+          {
+            "id": "victor-munoz",
+            "name": "Víctor Muñoz",
+            "short": "Muñoz",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 7.2
+          },
+          {
+            "id": "florian-wirtz-brentford-liverpool-2026-10-17",
+            "name": "Florian Wirtz",
+            "short": "Wirtz",
+            "position": "AM",
+            "photo": "assets/photos/people/florian-wirtz.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "bradley-barcola-brentford-liverpool-2026-10-17",
+            "name": "Bradley Barcola",
+            "short": "Barcola",
+            "position": "LW",
+            "photo": "assets/photos/people/bradley-barcola.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 7
+          },
+          {
+            "id": "alexander-isak-brentford-liverpool-2026-10-17",
+            "name": "Alexander Isak",
+            "short": "Isak",
+            "position": "ST",
+            "photo": "assets/photos/people/alexander-isak.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "trey-nyoni-brentford-liverpool-2026-10-17",
+            "name": "Trey Nyoni",
+            "short": "Nyoni",
+            "position": "DM",
+            "photo": "assets/photos/people/trey-nyoni.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "jeremie-frimpong",
+            "name": "Jeremie Frimpong",
+            "short": "Frimpong",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "rio-ngumoha-brentford-liverpool-2026-10-17",
+            "name": "Rio Ngumoha",
+            "short": "Ngumoha",
+            "position": "RB",
+            "photo": "assets/photos/people/rio-ngumoha.jpg",
+            "rating": 6.9
+          },
+          {
+            "id": "lewis-koumas-brentford-liverpool-2026-10-17",
+            "name": "Lewis Koumas",
+            "short": "Koumas",
+            "position": "ST",
+            "photo": "assets/photos/people/lewis-koumas.jpg",
+            "rating": 7.1
+          },
+          {
+            "id": "joe-gomez-brentford-liverpool-2026-10-17",
+            "name": "Joe Gomez",
+            "short": "Gomez",
+            "position": "RW",
+            "photo": "assets/photos/people/joe-gomez.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "cody-gakpo-brentford-liverpool-2026-10-17",
+            "name": "Cody Gakpo",
+            "short": "Gakpo",
+            "position": "CM",
+            "photo": "assets/photos/people/cody-gakpo.jpg",
+            "rating": null
+          },
+          {
+            "id": "giorgi-mamardashvili-brentford-liverpool-2026-10-17",
+            "name": "Giorgi Mamardashvili",
+            "short": "Mamardashvili",
+            "position": "CM",
+            "photo": "assets/photos/people/giorgi-mamardashvili.jpg",
+            "rating": null
+          },
+          {
+            "id": "wataru-endo",
+            "name": "Wataru Endo",
+            "short": "Endo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kostas-tsimikas-brentford-liverpool-2026-10-17",
+            "name": "Kostas Tsimikas",
+            "short": "Tsimikas",
+            "position": "CM",
+            "photo": "assets/photos/people/kostas-tsimikas.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 31,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "bradley-barcola-brentford-liverpool-2026-10-17",
+          "name": "Bradley Barcola",
+          "short": "Barcola",
+          "position": "LW",
+          "photo": "assets/photos/people/bradley-barcola.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 32,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "trey-nyoni-brentford-liverpool-2026-10-17",
+          "name": "Trey Nyoni",
+          "short": "Nyoni",
+          "position": "DM",
+          "photo": "assets/photos/people/trey-nyoni.jpg"
+        },
+        "replaced": {
+          "id": "dominik-szoboszlai",
+          "name": "Dominik Szoboszlai",
+          "short": "Szoboszlai",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 41,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": null,
+          "name": null
+        },
+        "detail": "VAR decision: penalty to Liverpool overturned (no penalty)."
+      },
+      {
+        "minute": 44,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "keane-lewis-potter",
+          "name": "Keane Lewis-Potter",
+          "short": "Lewis-Potter",
+          "position": "LB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "igor-thiago",
+          "name": "Igor Thiago",
+          "short": "Thiago",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Keane Lewis-Potter headed Igor Thiago's delivery into the top right corner, moments after Liverpool had a penalty overturned by VAR."
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jeremie-frimpong",
+          "name": "Jeremie Frimpong",
+          "short": "Frimpong",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ronald-araujo-brentford-liverpool-2026-10-17",
+          "name": "Ronald Araújo",
+          "short": "Araújo",
+          "position": "RB",
+          "photo": "assets/photos/people/ronald-araujo.jpg"
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kevin-schade",
+          "name": "Kevin Schade",
+          "short": "Schade",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "dango-ouattara",
+          "name": "Dango Ouattara",
+          "short": "Ouattara",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mamadou-sangare",
+          "name": "Mamadou Sangare",
+          "short": "Sangare",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mathias-jensen",
+          "name": "Mathias Jensen",
+          "short": "Jensen",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "red_card",
+        "team": "home",
+        "player": {
+          "id": "yehor-yarmoliuk",
+          "name": "Yehor Yarmoliuk",
+          "short": "Yarmoliuk",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Violent conduct (headbutt on Jérémy Jacquet)"
+      },
+      {
+        "minute": 45,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "yehor-yarmoliuk",
+          "name": "Yehor Yarmoliuk",
+          "short": "Yarmoliuk",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Referee sent to pitch-side monitor; card upgraded to straight red for violent conduct (headbutt on Jérémy Jacquet)."
+      },
+      {
+        "minute": 46,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "igor-thiago",
+          "name": "Igor Thiago",
+          "short": "Thiago",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 49,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "jeremy-jacquet-brentford-liverpool-2026-10-17",
+          "name": "Jérémy Jacquet",
+          "short": "Jacquet",
+          "position": "CB",
+          "photo": "assets/photos/people/jeremy-jacquet.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 52,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "rio-ngumoha-brentford-liverpool-2026-10-17",
+          "name": "Rio Ngumoha",
+          "short": "Ngumoha",
+          "position": "RB",
+          "photo": "assets/photos/people/rio-ngumoha.jpg"
+        },
+        "replaced": {
+          "id": "jeremie-frimpong",
+          "name": "Jeremie Frimpong",
+          "short": "Frimpong",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 53,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "alexis-mac-allister-brentford-liverpool-2026-10-17",
+          "name": "Alexis Mac Allister",
+          "short": "Mac Allister",
+          "position": "DM",
+          "photo": "assets/photos/people/alexis-mac-allister.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 60,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "kevin-schade",
+          "name": "Kevin Schade",
+          "short": "Schade",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 62,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "victor-munoz",
+          "name": "Víctor Muñoz",
+          "short": "Muñoz",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "florian-wirtz-brentford-liverpool-2026-10-17",
+          "name": "Florian Wirtz",
+          "short": "Wirtz",
+          "position": "AM",
+          "photo": "assets/photos/people/florian-wirtz.jpg"
+        },
+        "goalType": "counter",
+        "description": "Víctor Muñoz latched onto a Florian Wirtz through ball on the break and finished left-footed from the right side of the box into the bottom left corner."
+      },
+      {
+        "minute": 63,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "vitaly-janelt",
+          "name": "Vitaly Janelt",
+          "short": "Janelt",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 70,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "alexander-isak-brentford-liverpool-2026-10-17",
+          "name": "Alexander Isak",
+          "short": "Isak",
+          "position": "ST",
+          "photo": "assets/photos/people/alexander-isak.jpg"
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "bradley-barcola-brentford-liverpool-2026-10-17",
+          "name": "Bradley Barcola",
+          "short": "Barcola",
+          "position": "LW",
+          "photo": "assets/photos/people/bradley-barcola.jpg"
+        },
+        "goalType": "build",
+        "description": "Alexander Isak, back from a thigh problem, took a split-second touch from Bradley Barcola's headed knockdown and snapped a left-footed finish into the bottom right corner past Caoimhín Kelleher."
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "aaron-hickey",
+          "name": "Aaron Hickey",
+          "short": "Hickey",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sepp-van-den-berg",
+          "name": "Sepp van den Berg",
+          "short": "van den Berg",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "el-hadji-malick-diouf",
+          "name": "El Hadji Malick Diouf",
+          "short": "Diouf",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "keane-lewis-potter",
+          "name": "Keane Lewis-Potter",
+          "short": "Lewis-Potter",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mikkel-damsgaard",
+          "name": "Mikkel Damsgaard",
+          "short": "Damsgaard",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jaidon-anthony",
+          "name": "Jaidon Anthony",
+          "short": "Anthony",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "lewis-koumas-brentford-liverpool-2026-10-17",
+          "name": "Lewis Koumas",
+          "short": "Koumas",
+          "position": "ST",
+          "photo": "assets/photos/people/lewis-koumas.jpg"
+        },
+        "replaced": {
+          "id": "alexander-isak-brentford-liverpool-2026-10-17",
+          "name": "Alexander Isak",
+          "short": "Isak",
+          "position": "ST",
+          "photo": "assets/photos/people/alexander-isak.jpg"
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "joe-gomez-brentford-liverpool-2026-10-17",
+          "name": "Joe Gomez",
+          "short": "Gomez",
+          "position": "RW",
+          "photo": "assets/photos/people/joe-gomez.jpg"
+        },
+        "replaced": {
+          "id": "victor-munoz",
+          "name": "Víctor Muñoz",
+          "short": "Muñoz",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "red_card",
+        "team": "home",
+        "player": {
+          "id": "vitaly-janelt",
+          "name": "Vitaly Janelt",
+          "short": "Janelt",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Second yellow card for a foul on Rio Ngumoha"
+      }
+    ],
+    "stats": {
+      "shots": [
+        10,
+        21
+      ],
+      "onTarget": [
+        2,
+        5
+      ],
+      "corners": [
+        3,
+        9
+      ],
+      "fouls": [
+        7,
+        13
+      ],
+      "possession": 40
+    },
+    "attendance": null,
+    "referee": {
+      "name": "John Brooks",
+      "country": "England"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879262",
+      "https://www.espn.com/soccer/match/_/gameId/401879262",
+      "https://www.skysports.com/football/a-vs-b/report/559505",
+      "https://www.skysports.com/football/a-vs-b/teams/559505",
+      "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

@@ -1,0 +1,3342 @@
+{
+ "agent": "Ligue 1 agent",
+ "league": "Ligue 1",
+ "generated": "2026-10-22T10:33:06Z",
+ "matches": [
+  {
+   "id": "le-mans-toulouse-2026-10-16",
+   "found": true,
+   "competition": "Ligue 1",
+   "round": "Matchday 7",
+   "date": "2026-10-16",
+   "kickoff_local": "20:45",
+   "home": "Le Mans",
+   "away": "Toulouse",
+   "score": [
+    0,
+    3
+   ],
+   "venue": {
+    "name": "Stade Marie-Marvingt",
+    "city": "Le Mans",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Aurélien Petit",
+    "country": "France"
+   },
+   "coaches": {
+    "home": "Patrick Videira",
+    "away": "Jens Berthel Askou"
+   },
+   "formations": {
+    "home": "3-1-4-2",
+    "away": "4-4-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Nicolas Kocik",
+      "short": "Kocik",
+      "number": 98,
+      "pos": "GK"
+     },
+     {
+      "name": "Harold Voyer",
+      "short": "Voyer",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Samuel Yohou",
+      "short": "Yohou",
+      "number": 17,
+      "pos": "CB"
+     },
+     {
+      "name": "Djibril Sidibé",
+      "short": "Sidibé",
+      "number": 19,
+      "pos": "CB"
+     },
+     {
+      "name": "Lucas Bretelle",
+      "short": "Bretelle",
+      "number": 29,
+      "pos": "DM"
+     },
+     {
+      "name": "Yasser Larouci",
+      "short": "Larouci",
+      "number": 76,
+      "pos": "LB"
+     },
+     {
+      "name": "Jean Vercruysse",
+      "short": "Vercruysse",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Daouda Traoré",
+      "short": "Traoré",
+      "number": 23,
+      "pos": "CM"
+     },
+     {
+      "name": "Lucas Buades",
+      "short": "Buades",
+      "number": 18,
+      "pos": "RB"
+     },
+     {
+      "name": "Dame Guèye",
+      "short": "Guèye",
+      "number": 25,
+      "pos": "ST"
+     },
+     {
+      "name": "Louis Mafouta",
+      "short": "Mafouta",
+      "number": 14,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Guillaume Restes",
+      "short": "Restes",
+      "number": 16,
+      "pos": "GK"
+     },
+     {
+      "name": "Christ Tapé",
+      "short": "Tapé",
+      "number": 12,
+      "pos": "LB"
+     },
+     {
+      "name": "Rasmus Nicolaisen",
+      "short": "Nicolaisen",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Mark McKenzie",
+      "short": "McKenzie",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Rafik Messali",
+      "short": "Messali",
+      "number": 22,
+      "pos": "RB"
+     },
+     {
+      "name": "Thomas Jørgensen",
+      "short": "Jørgensen",
+      "number": 8,
+      "pos": "LW"
+     },
+     {
+      "name": "Niko Sigur",
+      "short": "Sigur",
+      "number": 14,
+      "pos": "CM"
+     },
+     {
+      "name": "Cristian Cásseres Jr.",
+      "short": "Cásseres Jr.",
+      "number": 23,
+      "pos": "CM"
+     },
+     {
+      "name": "Aron Donnum",
+      "short": "Donnum",
+      "number": 15,
+      "pos": "RW"
+     },
+     {
+      "name": "Casper Tengstedt",
+      "short": "Tengstedt",
+      "number": 20,
+      "pos": "ST"
+     },
+     {
+      "name": "Jacen Russell-Rowe",
+      "short": "Russell-Rowe",
+      "number": 13,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Lucas Calodat",
+     "out": "Yasser Larouci"
+    },
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Habib Diallo",
+     "out": "Dame Guèye"
+    },
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Bilal Brahimi",
+     "out": "Daouda Traoré"
+    },
+    {
+     "side": "away",
+     "minute": 64,
+     "in": "Alexis Vossah",
+     "out": "Aron Donnum"
+    },
+    {
+     "side": "home",
+     "minute": 69,
+     "in": "Rayan Bamba",
+     "out": "Lucas Buades"
+    },
+    {
+     "side": "away",
+     "minute": 76,
+     "in": "Julián Vignolo",
+     "out": "Jacen Russell-Rowe"
+    },
+    {
+     "side": "home",
+     "minute": 77,
+     "in": "Noa Boissé",
+     "out": "Harold Voyer"
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "in": "Seny Koumbassa",
+     "out": "Rasmus Nicolaisen"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "William Harhouz",
+     "Antoine Rabillard",
+     "Ewan Hatfout",
+     "Alexandre Lauray"
+    ],
+    "away": [
+     "Théo Collin",
+     "Santiago Hidalgo",
+     "Mathis Amougou",
+     "David Odogu",
+     "Niklas Schmidt",
+     "Ismail Diallo"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 46,
+     "scorer": "Jacen Russell-Rowe",
+     "assist": "Aron Donnum",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Seconds into the second half, Jacen Russell-Rowe took Aron Dønnum's pass on the right side of the box and curled a left-footed shot into the top left corner.",
+     "shot": {
+      "x": 88.9,
+      "y": 71.2,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 59,
+     "scorer": "Aron Donnum",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Aron Dønnum doubled Toulouse's lead with a left-footed finish from the centre of the box into the bottom right corner.",
+     "shot": {
+      "x": 92.7,
+      "y": 42.3,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 87,
+     "scorer": "Casper Tengstedt",
+     "assist": "Cristian Cásseres Jr.",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Casper Tengstedt, who had an earlier goal ruled out by VAR, turned in Cristian Cásseres Jr.'s pass from very close range into the bottom right corner.",
+     "shot": {
+      "x": 95.4,
+      "y": 54.3,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 49,
+     "player": "Jacen Russell-Rowe",
+     "card": "yellow",
+     "reason": "Not specified"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Samuel Yohou",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Djibril Sidibé",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "away",
+     "minute": 75,
+     "player": "Casper Tengstedt",
+     "detail": "Goal ruled out after VAR review (score stayed 0-2)."
+    }
+   ],
+   "stats": {
+    "possession": [
+     52.9,
+     47.1
+    ],
+    "shots": [
+     11,
+     13
+    ],
+    "onTarget": [
+     1,
+     5
+    ],
+    "corners": [
+     2,
+     2
+    ],
+    "fouls": [
+     15,
+     9
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876437",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876437",
+    "https://ligue1.com/fr/articles/l1_article_5927-",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+    "https://www.sudradio.fr/sport-rugby/sport/ligue-1-toulouse-donne-la-lecon-au-mans"
+   ],
+   "notes": "Attendance not published by ESPN (0) or found elsewhere - null. Referee from LFP designations; coaches from Wikipedia season page. Goal types inferred from ESPN commentary. Shot y mirrored from ESPN so 0 = attacker's left.",
+   "league": "Ligue 1",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+   "home_country": "FR",
+   "away_country": "FR"
+  },
+  {
+   "id": "strasbourg-psg-2026-10-17",
+   "found": true,
+   "competition": "Ligue 1",
+   "round": "Matchday 7",
+   "date": "2026-10-17",
+   "kickoff_local": "17:15",
+   "home": "Strasbourg",
+   "away": "PSG",
+   "score": [
+    1,
+    3
+   ],
+   "venue": {
+    "name": "Stade de la Meinau",
+    "city": "Strasbourg",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Willy Delajod",
+    "country": "France"
+   },
+   "coaches": {
+    "home": "Hugo Oliveira",
+    "away": "Luis Enrique"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-3-3"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Filip Jørgensen",
+      "short": "Jørgensen",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Oso",
+      "short": "Oso",
+      "number": 36,
+      "pos": "LB"
+     },
+     {
+      "name": "Karim Coulibaly",
+      "short": "Coulibaly",
+      "number": 31,
+      "pos": "CB"
+     },
+     {
+      "name": "Jeyland Mitchell",
+      "short": "Mitchell",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Genesis Antwi",
+      "short": "Antwi",
+      "number": 16,
+      "pos": "RB"
+     },
+     {
+      "name": "Pape Diop",
+      "short": "Diop",
+      "number": 21,
+      "pos": "DM"
+     },
+     {
+      "name": "Dário Essugo",
+      "short": "Essugo",
+      "number": 14,
+      "pos": "DM"
+     },
+     {
+      "name": "Fabio Baldé",
+      "short": "Uri Baldé",
+      "number": 19,
+      "pos": "LW"
+     },
+     {
+      "name": "Giovanni Reyna",
+      "short": "Reyna",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Gessime Yassine",
+      "short": "Yassine",
+      "number": 80,
+      "pos": "RW"
+     },
+     {
+      "name": "Conrad Harder",
+      "short": "Harder",
+      "number": 40,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Matvei Safonov",
+      "short": "Safonov",
+      "number": 39,
+      "pos": "GK"
+     },
+     {
+      "name": "Lucas Digne",
+      "short": "Digne",
+      "number": 12,
+      "pos": "LB"
+     },
+     {
+      "name": "Lucas Hernández",
+      "short": "Hernández",
+      "number": 21,
+      "pos": "CB"
+     },
+     {
+      "name": "Illia Zabarnyi",
+      "short": "Zabarnyi",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Warren Zaïre-Emery",
+      "short": "Zaïre-Emery",
+      "number": 33,
+      "pos": "RB"
+     },
+     {
+      "name": "Lucas Beraldo",
+      "short": "Beraldo",
+      "number": 4,
+      "pos": "CM"
+     },
+     {
+      "name": "Dro Fernández",
+      "short": "Fernández",
+      "number": 27,
+      "pos": "CM"
+     },
+     {
+      "name": "João Neves",
+      "short": "Neves",
+      "number": 87,
+      "pos": "CM"
+     },
+     {
+      "name": "Khvicha Kvaratskhelia",
+      "short": "Kvaratskhelia",
+      "number": 7,
+      "pos": "LW"
+     },
+     {
+      "name": "Ferran Torres",
+      "short": "Torres",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Maghnes Akliouche",
+      "short": "Akliouche",
+      "number": 11,
+      "pos": "RW"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 53,
+     "in": "Nuno Mendes",
+     "out": "Lucas Digne"
+    },
+    {
+     "side": "away",
+     "minute": 54,
+     "in": "Désiré Doué",
+     "out": "Dro Fernández"
+    },
+    {
+     "side": "away",
+     "minute": 54,
+     "in": "Vitinha",
+     "out": "Lucas Beraldo"
+    },
+    {
+     "side": "home",
+     "minute": 60,
+     "in": "Samuel Amo-Ameyaw",
+     "out": "Fabio Baldé"
+    },
+    {
+     "side": "away",
+     "minute": 63,
+     "in": "Achraf Hakimi",
+     "out": "João Neves"
+    },
+    {
+     "side": "away",
+     "minute": 63,
+     "in": "Ousmane Dembélé",
+     "out": "Khvicha Kvaratskhelia"
+    },
+    {
+     "side": "home",
+     "minute": 75,
+     "in": "Samir El Mourabet",
+     "out": "Pape Diop"
+    },
+    {
+     "side": "home",
+     "minute": 83,
+     "in": "Yaya Diémé",
+     "out": "Gessime Yassine"
+    },
+    {
+     "side": "home",
+     "minute": 83,
+     "in": "Jacobo Ortega Conde",
+     "out": "Conrad Harder"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Diogo Sousa",
+     "Lucas Høgsberg",
+     "Yoann Becker",
+     "Tyrese Noubissie",
+     "Milosz Piekutowski"
+    ],
+    "away": [
+     "Mika Godts",
+     "Fabián Ruiz",
+     "Lucas Chevalier",
+     "Willian Pacho"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 17,
+     "scorer": "Giovanni Reyna",
+     "assist": "Gessime Yassine",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Shortly after a spell of Strasbourg corners, Giovanni Reyna received from Gessime Yassine on the right side of the box and finished left-footed into the bottom right corner.",
+     "shot": {
+      "x": 85.6,
+      "y": 70.6,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "scorer": "Illia Zabarnyi",
+     "assist": "Ousmane Dembélé",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "From a PSG corner, Ousmane Dembélé's delivery found Illia Zabarnyi, who equalised with a right-footed shot from the centre of the box into the bottom left corner.",
+     "shot": {
+      "x": 93.3,
+      "y": 48.6,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "scorer": "Ousmane Dembélé",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Ousmane Dembélé, who had missed a penalty at 72', put PSG ahead with a left-footed shot from the centre of the box into the bottom left corner.",
+     "shot": {
+      "x": 83.8,
+      "y": 53.4,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "scorer": "Désiré Doué",
+     "assist": "Ferran Torres",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "In stoppage time Ferran Torres set up Désiré Doué, who sealed the win with a right-footed shot from the centre of the box into the bottom left corner.",
+     "shot": {
+      "x": 92.6,
+      "y": 44.8,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 76,
+     "player": "Conrad Harder",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "player": "Dário Essugo",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 70,
+     "player": "Pape Diop",
+     "detail": "Penalty awarded to PSG after VAR review for a handball by Pape Diop; Ousmane Dembélé missed it at 72'."
+    }
+   ],
+   "stats": {
+    "possession": [
+     27.0,
+     73.0
+    ],
+    "shots": [
+     16,
+     18
+    ],
+    "onTarget": [
+     8,
+     7
+    ],
+    "corners": [
+     3,
+     6
+    ],
+    "fouls": [
+     12,
+     6
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876432",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876432",
+    "https://ligue1.com/fr/articles/l1_article_5927-",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+    "https://www.psg.fr/en/content/results-from-matchday-7-of-ligue-1-2026-2027-rc-strasbourg-alsace-paris-saint-germain"
+   ],
+   "notes": "Attendance not found - null. Reyna's goal came one minute after a Strasbourg corner sequence; not flagged as from the corner in ESPN, typed as build. Dembélé missed a VAR-awarded penalty at 72'. Shot y mirrored from ESPN.",
+   "league": "Ligue 1",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+   "home_country": "FR",
+   "away_country": "FR"
+  },
+  {
+   "id": "lille-brest-2026-10-17",
+   "found": true,
+   "competition": "Ligue 1",
+   "round": "Matchday 7",
+   "date": "2026-10-17",
+   "kickoff_local": "20:45",
+   "home": "Lille",
+   "away": "Brest",
+   "score": [
+    1,
+    1
+   ],
+   "venue": {
+    "name": "Decathlon Arena - Stade Pierre-Mauroy",
+    "city": "Lille",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Clément Turpin",
+    "country": "France"
+   },
+   "coaches": {
+    "home": "Davide Ancelotti",
+    "away": "Julien Lachuer"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Orlando Gill",
+      "short": "Gill",
+      "number": 12,
+      "pos": "GK"
+     },
+     {
+      "name": "Romain Perraud",
+      "short": "Perraud",
+      "number": 15,
+      "pos": "LB"
+     },
+     {
+      "name": "Tanguy Nianzou",
+      "short": "Nianzou",
+      "number": 23,
+      "pos": "CB"
+     },
+     {
+      "name": "Nathan Ngoy",
+      "short": "Ngoy",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Maxima Goffi",
+      "short": "Goffi",
+      "number": 38,
+      "pos": "RB"
+     },
+     {
+      "name": "Ngal'ayel Mukau",
+      "short": "Mukau",
+      "number": 17,
+      "pos": "DM"
+     },
+     {
+      "name": "Benjamin André",
+      "short": "André",
+      "number": 21,
+      "pos": "DM"
+     },
+     {
+      "name": "Dilane Bakwa",
+      "short": "Bakwa",
+      "number": 7,
+      "pos": "LW"
+     },
+     {
+      "name": "Hákon Haraldsson",
+      "short": "Haraldsson",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Ethan Mbappé",
+      "short": "Mbappé",
+      "number": 8,
+      "pos": "RW"
+     },
+     {
+      "name": "Olivier Giroud",
+      "short": "Giroud",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Egil Selvik",
+      "short": "Selvik",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Bradley Locko",
+      "short": "Locko",
+      "number": 2,
+      "pos": "LB"
+     },
+     {
+      "name": "Gautier Lloris",
+      "short": "Lloris",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Lucas Tousart",
+      "short": "Tousart",
+      "number": 29,
+      "pos": "CB"
+     },
+     {
+      "name": "Kenny Lala",
+      "short": "Lala",
+      "number": 70,
+      "pos": "RB"
+     },
+     {
+      "name": "Hugo Magnetti",
+      "short": "Magnetti",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Joris Chotard",
+      "short": "Chotard",
+      "number": 13,
+      "pos": "DM"
+     },
+     {
+      "name": "Pathé Mboup",
+      "short": "Mboup",
+      "number": 9,
+      "pos": "LW"
+     },
+     {
+      "name": "Kamory Doumbia",
+      "short": "Doumbia",
+      "number": 23,
+      "pos": "AM"
+     },
+     {
+      "name": "Mama Baldé",
+      "short": "Baldé",
+      "number": 17,
+      "pos": "RW"
+     },
+     {
+      "name": "Ludovic Ajorque",
+      "short": "Ajorque",
+      "number": 19,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Joseph Nonge",
+     "out": "Mama Baldé"
+    },
+    {
+     "side": "home",
+     "minute": 54,
+     "in": "Calvin Verdonk",
+     "out": "Romain Perraud"
+    },
+    {
+     "side": "home",
+     "minute": 65,
+     "in": "Soriba Diaoune",
+     "out": "Dilane Bakwa"
+    },
+    {
+     "side": "home",
+     "minute": 65,
+     "in": "Nabil Bentaleb",
+     "out": "Benjamin André"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "in": "Ibrahim Kanté",
+     "out": "Pathé Mboup"
+    },
+    {
+     "side": "home",
+     "minute": 77,
+     "in": "Maurits Kjaergaard",
+     "out": "Ngal'ayel Mukau"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "in": "Mamady Diambou",
+     "out": "Kamory Doumbia"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Matah Yondjio",
+     "Basar Önal",
+     "Isaac Cossier",
+     "Zadig Lanssade",
+     "Gaetan Perrin"
+    ],
+    "away": [
+     "Justin Bourgault",
+     "Enzo Monchatre",
+     "Djylian N'Guessan",
+     "Mathieu Patouillet",
+     "Luc Zogbe"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 6,
+     "scorer": "Mama Baldé",
+     "assist": "Gautier Lloris",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": null,
+     "description": "From an early Brest corner, Gautier Lloris's blocked effort fell for Mama Baldé, who finished from the centre of the box into the bottom left corner.",
+     "shot": {
+      "x": 92.5,
+      "y": 52.8,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 64,
+     "scorer": "Olivier Giroud",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "left",
+     "description": "After Bradley Locko fouled Ethan Mbappé in the area, Olivier Giroud converted the penalty with his left foot into the top left corner.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 13,
+     "player": "Kamory Doumbia",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 58,
+     "player": "Bradley Locko",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Calvin Verdonk",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     67.3,
+     32.7
+    ],
+    "shots": [
+     17,
+     8
+    ],
+    "onTarget": [
+     5,
+     2
+    ],
+    "corners": [
+     5,
+     2
+    ],
+    "fouls": [
+     12,
+     20
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876436",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876436",
+    "https://ligue1.com/fr/articles/l1_article_5927-",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+   ],
+   "notes": "Attendance not found - null. ESPN does not specify the foot for Mama Baldé's finish (foot null). Shot y mirrored from ESPN.",
+   "league": "Ligue 1",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+   "home_country": "FR",
+   "away_country": "FR"
+  },
+  {
+   "id": "troyes-lens-2026-10-17",
+   "found": true,
+   "competition": "Ligue 1",
+   "round": "Matchday 7",
+   "date": "2026-10-17",
+   "kickoff_local": "20:45",
+   "home": "Troyes",
+   "away": "Lens",
+   "score": [
+    1,
+    3
+   ],
+   "venue": {
+    "name": "Stade de l'Aube",
+    "city": "Troyes",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Hakim Ben El Hadj",
+    "country": "France"
+   },
+   "coaches": {
+    "home": "Stéphane Dumont",
+    "away": "Yannick Cahuzac"
+   },
+   "formations": {
+    "home": "4-3-3",
+    "away": "3-4-2-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Patrick Beach",
+      "short": "Beach",
+      "number": 33,
+      "pos": "GK"
+     },
+     {
+      "name": "Paolo Gozzi Iweru",
+      "short": "Gozzi Iweru",
+      "number": 5,
+      "pos": "LB"
+     },
+     {
+      "name": "Michel Diaz",
+      "short": "Diaz",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Adrien Monfray",
+      "short": "Monfray",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Lucas Maronnier",
+      "short": "Maronnier",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Mouhamed Diop",
+      "short": "Diop",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Dermane Karim",
+      "short": "Karim",
+      "number": 29,
+      "pos": "CM"
+     },
+     {
+      "name": "Antoine Mille",
+      "short": "Mille",
+      "number": 17,
+      "pos": "CM"
+     },
+     {
+      "name": "Timothé Nkada",
+      "short": "Nkada",
+      "number": 23,
+      "pos": "LW"
+     },
+     {
+      "name": "Renaud Ripart",
+      "short": "Ripart",
+      "number": 20,
+      "pos": "ST"
+     },
+     {
+      "name": "Merwan Ifnaoui",
+      "short": "Ifnaoui",
+      "number": 10,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Robin Risser",
+      "short": "Risser",
+      "number": 40,
+      "pos": "GK"
+     },
+     {
+      "name": "Jean-Clair Todibo",
+      "short": "Todibo",
+      "number": 20,
+      "pos": "CB"
+     },
+     {
+      "name": "Pierre Ganiou",
+      "short": "Ganiou",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Kyllian Antonio",
+      "short": "Antonio",
+      "number": 32,
+      "pos": "CB"
+     },
+     {
+      "name": "Michal Skoras",
+      "short": "Skoras",
+      "number": 22,
+      "pos": "LB"
+     },
+     {
+      "name": "Andrija Bulatovic",
+      "short": "Bulatovic",
+      "number": 5,
+      "pos": "CM"
+     },
+     {
+      "name": "Yassine Titraoui",
+      "short": "Titraoui",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Ruben Aguilar",
+      "short": "Aguilar",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Florian Sotoca",
+      "short": "Sotoca",
+      "number": 7,
+      "pos": "AM"
+     },
+     {
+      "name": "Florian Thauvin",
+      "short": "Thauvin",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Odsonne Édouard",
+      "short": "Édouard",
+      "number": 11,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Samson Baidoo",
+     "out": "Jean-Clair Todibo"
+    },
+    {
+     "side": "home",
+     "minute": 60,
+     "in": "Kandet Diawara",
+     "out": "Timothé Nkada"
+    },
+    {
+     "side": "home",
+     "minute": 64,
+     "in": "Noah Donkor",
+     "out": "Paolo Gozzi Iweru"
+    },
+    {
+     "side": "away",
+     "minute": 67,
+     "in": "Mezian Soares",
+     "out": "Florian Thauvin"
+    },
+    {
+     "side": "away",
+     "minute": 67,
+     "in": "Franjo Ivanovic",
+     "out": "Odsonne Édouard"
+    },
+    {
+     "side": "away",
+     "minute": 67,
+     "in": "Amadou Haidara",
+     "out": "Yassine Titraoui"
+    },
+    {
+     "side": "away",
+     "minute": 72,
+     "in": "Saud Abdulhamid",
+     "out": "Ruben Aguilar"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Jeremy Le Douaron",
+     "out": "Mouhamed Diop"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Iron Gomis",
+     "out": "Lucas Maronnier"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Hillel Konaté",
+     "Christ Batola",
+     "Alexandre Philiponeau",
+     "Hugo Picard",
+     "Lassana Simakha"
+    ],
+    "away": [
+     "Mathieu Gorgelin",
+     "Junior Kadile",
+     "Thorgan Hazard",
+     "Michaël Cuisance"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 13,
+     "scorer": "Adrien Monfray",
+     "assist": null,
+     "own_goal": true,
+     "penalty": false,
+     "type": "own",
+     "foot": null,
+     "description": "From a Lens corner, after efforts from Jean-Clair Todibo and Ruben Aguilar, the ball went in off Troyes defender Adrien Monfray.",
+     "shot": {
+      "x": 95.2,
+      "y": 47.6,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 26,
+     "scorer": "Timothé Nkada",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Moments after Robin Risser saved Antoine Mille's long-range shot, Timothé Nkada equalised with a left-footed finish from the left side of the six-yard box.",
+     "shot": {
+      "x": 96.4,
+      "y": 43.9,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "scorer": "Odsonne Édouard",
+     "assist": "Florian Thauvin",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "On a fast break in first-half stoppage time, Florian Thauvin crossed for Odsonne Édouard, who shot right-footed from the centre of the box into the middle of the goal.",
+     "shot": {
+      "x": 93.3,
+      "y": 51.9,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 55,
+     "scorer": "Ruben Aguilar",
+     "assist": "Florian Thauvin",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "header",
+     "description": "Lens broke quickly again and Florian Thauvin's cross was headed in by Ruben Aguilar from the right side of the six-yard box.",
+     "shot": {
+      "x": 96.9,
+      "y": 55.3,
+      "header": true
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 76,
+     "player": "Michel Diaz",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "player": "Renaud Ripart",
+     "card": "yellow",
+     "reason": "Not specified"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "player": "Samson Baidoo",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "player": "Amadou Haidara",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     41.2,
+     58.8
+    ],
+    "shots": [
+     12,
+     13
+    ],
+    "onTarget": [
+     5,
+     3
+    ],
+    "corners": [
+     6,
+     4
+    ],
+    "fouls": [
+     13,
+     11
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876431",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876431",
+    "https://ligue1.com/fr/articles/l1_article_5927-",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+   ],
+   "notes": "ESPN lists venue city as Paris; corrected to Troyes (Stade de l'Aube). Attendance not found - null. Édouard goal at 45+2 stored as 45. Nkada's goal followed a saved Mille shot; whether it was a direct rebound is not stated. Shot y mirrored from ESPN.",
+   "league": "Ligue 1",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+   "home_country": "FR",
+   "away_country": "FR"
+  },
+  {
+   "id": "angers-marseille-2026-10-18",
+   "found": true,
+   "competition": "Ligue 1",
+   "round": "Matchday 7",
+   "date": "2026-10-18",
+   "kickoff_local": "15:00",
+   "home": "Angers",
+   "away": "Marseille",
+   "score": [
+    2,
+    5
+   ],
+   "venue": {
+    "name": "Stade Raymond Kopa",
+    "city": "Angers",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Jérémie Pignard",
+    "country": "France"
+   },
+   "coaches": {
+    "home": "Stéphane Gilli",
+    "away": "Bruno Genesio"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Anthony Lopes",
+      "short": "Lopes",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Lilian Raolisoa",
+      "short": "Raolisoa",
+      "number": 27,
+      "pos": "LB"
+     },
+     {
+      "name": "Maël Gernigon",
+      "short": "Gernigon",
+      "number": 34,
+      "pos": "CB"
+     },
+     {
+      "name": "Emmanuel Biumla",
+      "short": "Biumla",
+      "number": 24,
+      "pos": "CB"
+     },
+     {
+      "name": "Carlens Arcus",
+      "short": "Arcus",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Branco van den Boomen",
+      "short": "van den Boomen",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Yassin Belkhdim",
+      "short": "Belkhdim",
+      "number": 14,
+      "pos": "DM"
+     },
+     {
+      "name": "Amine Sbaï",
+      "short": "Sbaï",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Louis Mouton",
+      "short": "Mouton",
+      "number": 6,
+      "pos": "AM"
+     },
+     {
+      "name": "Jim Allevinah",
+      "short": "Allevinah",
+      "number": 18,
+      "pos": "RW"
+     },
+     {
+      "name": "Amine El Ouazzani",
+      "short": "El Ouazzani",
+      "number": 19,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Jeffrey de Lange",
+      "short": "de Lange",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Emerson",
+      "short": "Emerson",
+      "number": 33,
+      "pos": "LB"
+     },
+     {
+      "name": "Geoffrey Kondogbia",
+      "short": "Kondogbia",
+      "number": 19,
+      "pos": "CB"
+     },
+     {
+      "name": "CJ Egan-Riley",
+      "short": "Egan-Riley",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Timothy Weah",
+      "short": "Weah",
+      "number": 22,
+      "pos": "RB"
+     },
+     {
+      "name": "Nouhoum Kamissoko",
+      "short": "Kamissoko",
+      "number": 42,
+      "pos": "DM"
+     },
+     {
+      "name": "Tochukwu Nnadi",
+      "short": "Nnadi",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Igor Paixão",
+      "short": "Igor Paixão",
+      "number": 14,
+      "pos": "LW"
+     },
+     {
+      "name": "Himad Abdelli",
+      "short": "Abdelli",
+      "number": 8,
+      "pos": "AM"
+     },
+     {
+      "name": "Amine Harit",
+      "short": "Harit",
+      "number": 77,
+      "pos": "RW"
+     },
+     {
+      "name": "Amine Gouiri",
+      "short": "Gouiri",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 57,
+     "in": "Prosper Peter",
+     "out": "Louis Mouton"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Nayef Aguerd",
+     "out": "Geoffrey Kondogbia"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Joseph Kalulu Kyatengwa",
+     "out": "Emmanuel Biumla"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Harouna Djibirin",
+     "out": "Jim Allevinah"
+    },
+    {
+     "side": "away",
+     "minute": 80,
+     "in": "Angel Gomes",
+     "out": "Nouhoum Kamissoko"
+    },
+    {
+     "side": "away",
+     "minute": 80,
+     "in": "Keyliane Abdallah",
+     "out": "Himad Abdelli"
+    },
+    {
+     "side": "home",
+     "minute": 89,
+     "in": "Bané Diatta",
+     "out": "Amine El Ouazzani"
+    },
+    {
+     "side": "home",
+     "minute": 89,
+     "in": "Anthony Bermont",
+     "out": "Amine Sbaï"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Neal Maupay",
+     "out": "Tochukwu Nnadi"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Ulisses Garcia",
+     "out": "Amine Harit"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Jules Bouffandeau",
+     "Marius Louãr",
+     "Mamadou Simbakoli",
+     "Oumar Pona"
+    ],
+    "away": [
+     "Kelyann Bezahaf",
+     "Bamo Meïté",
+     "Tadjidine Mmadi",
+     "Théo Vermot"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 14,
+     "scorer": "Lilian Raolisoa",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Lilian Raolisoa gave Angers the lead with a header from the left side of the six-yard box into the bottom left corner.",
+     "shot": {
+      "x": 97.3,
+      "y": 44.2,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 37,
+     "scorer": "Himad Abdelli",
+     "assist": "Timothy Weah",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Timothy Weah crossed and Himad Abdelli headed in from very close range to equalise.",
+     "shot": {
+      "x": 94.4,
+      "y": 49.6,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 43,
+     "scorer": "Nouhoum Kamissoko",
+     "assist": "Emerson",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "From a Marseille corner, Emerson's cross was headed into the bottom left corner by Nouhoum Kamissoko from the centre of the box.",
+     "shot": {
+      "x": 93.9,
+      "y": 48.5,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "scorer": "Amine Gouiri",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "A minute after Anthony Lopes saved his penalty, Amine Gouiri scored from the centre of the box after a set-piece situation, shooting right-footed into the bottom left corner.",
+     "shot": {
+      "x": 93.0,
+      "y": 52.9,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 75,
+     "scorer": "Amine El Ouazzani",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "left",
+     "description": "After Tochukwu Nnadi fouled Carlens Arcus in the area, Amine El Ouazzani converted the penalty left-footed into the bottom left corner.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "scorer": "Amine Harit",
+     "assist": "Tochukwu Nnadi",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Amine Harit took Tochukwu Nnadi's pass and struck a right-footed shot from outside the box into the bottom right corner.",
+     "shot": {
+      "x": 81.2,
+      "y": 49.4,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "scorer": "Igor Paixão",
+     "assist": "Timothy Weah",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Timothy Weah's headed pass set up Igor Paixão, who finished right-footed from the centre of the box into the bottom right corner.",
+     "shot": {
+      "x": 85.1,
+      "y": 55.0,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 68,
+     "player": "Emmanuel Biumla",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 74,
+     "player": "Tochukwu Nnadi",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     41.7,
+     58.3
+    ],
+    "shots": [
+     11,
+     21
+    ],
+    "onTarget": [
+     3,
+     8
+    ],
+    "corners": [
+     2,
+     5
+    ],
+    "fouls": [
+     11,
+     12
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876439",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876439",
+    "https://ligue1.com/fr/articles/l1_article_5927-",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+   ],
+   "notes": "Attendance not found - null. Raolisoa's header came two minutes after an Angers free kick; delivery not confirmed, typed as build. Gouiri had a penalty saved at 59' before scoring at 60'. Shot y mirrored from ESPN.",
+   "league": "Ligue 1",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+   "home_country": "FR",
+   "away_country": "FR"
+  },
+  {
+   "id": "le-havre-auxerre-2026-10-18",
+   "found": true,
+   "competition": "Ligue 1",
+   "round": "Matchday 7",
+   "date": "2026-10-18",
+   "kickoff_local": "17:15",
+   "home": "Le Havre",
+   "away": "Auxerre",
+   "score": [
+    1,
+    3
+   ],
+   "venue": {
+    "name": "Stade Océane",
+    "city": "Le Havre",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Éric Wattellier",
+    "country": "France"
+   },
+   "coaches": {
+    "home": "Didier Digard",
+    "away": "Will Still"
+   },
+   "formations": {
+    "home": "4-3-3",
+    "away": "3-4-2-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Gauthier Gallon",
+      "short": "Gallon",
+      "number": 93,
+      "pos": "GK"
+     },
+     {
+      "name": "Mouhamed N'Diaye",
+      "short": "N'Diaye",
+      "number": 97,
+      "pos": "LB"
+     },
+     {
+      "name": "Ahmed Touba",
+      "short": "Touba",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Junior Mwanga",
+      "short": "Mwanga",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Djibril Ouziad",
+      "short": "Ouziad",
+      "number": 20,
+      "pos": "RB"
+     },
+     {
+      "name": "Amir Richardson",
+      "short": "Richardson",
+      "number": 7,
+      "pos": "CM"
+     },
+     {
+      "name": "Simon Ebonog",
+      "short": "Ebonog",
+      "number": 26,
+      "pos": "CM"
+     },
+     {
+      "name": "Rassoul Ndiaye",
+      "short": "Ndiaye",
+      "number": 14,
+      "pos": "CM"
+     },
+     {
+      "name": "Mbwana Samatta",
+      "short": "Samatta",
+      "number": 25,
+      "pos": "LW"
+     },
+     {
+      "name": "Josh Maja",
+      "short": "Maja",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Sota Nakamura",
+      "short": "Nakamura",
+      "number": 30,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Paul Nardi",
+      "short": "Nardi",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Clément Akpa",
+      "short": "Akpa",
+      "number": 92,
+      "pos": "CB"
+     },
+     {
+      "name": "Axel Tuanzebe",
+      "short": "Tuanzebe",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Christ Makosso",
+      "short": "Makosso",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Fredrik Oppegard",
+      "short": "Oppegard",
+      "number": 22,
+      "pos": "LB"
+     },
+     {
+      "name": "Kévin Danois",
+      "short": "Danois",
+      "number": 5,
+      "pos": "CM"
+     },
+     {
+      "name": "Naouirou Ahamada",
+      "short": "Ahamada",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Lamine Sy",
+      "short": "Sy",
+      "number": 27,
+      "pos": "RB"
+     },
+     {
+      "name": "Danny Namaso",
+      "short": "Namaso",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Romain Faivre",
+      "short": "Faivre",
+      "number": 21,
+      "pos": "AM"
+     },
+     {
+      "name": "Cameron Archer",
+      "short": "Archer",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 62,
+     "in": "Rayan Fofana",
+     "out": "Sota Nakamura"
+    },
+    {
+     "side": "home",
+     "minute": 62,
+     "in": "Hakim Dongopandji",
+     "out": "Josh Maja"
+    },
+    {
+     "side": "home",
+     "minute": 62,
+     "in": "Enzo Koffi",
+     "out": "Mouhamed N'Diaye"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "in": "Arthur Piedfort",
+     "out": "Naouirou Ahamada"
+    },
+    {
+     "side": "home",
+     "minute": 84,
+     "in": "Kaito Mizuta",
+     "out": "Djibril Ouziad"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "in": "Guy Zohouri",
+     "out": "Rassoul Ndiaye"
+    },
+    {
+     "side": "away",
+     "minute": 89,
+     "in": "Elikya Legros",
+     "out": "Lamine Sy"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Arnaud Bodart",
+     "Ismail Bouneb",
+     "Vincent Sasso",
+     "Daren Mosengo"
+    ],
+    "away": [
+     "Youssef Khoudda",
+     "Aristide Zossou",
+     "Mamadou Diop",
+     "Mamoudou Cissokho",
+     "Sinaly Diomande",
+     "Pierre Ekwah",
+     "Lamfia Dioubaté"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 40,
+     "scorer": "Danny Namaso",
+     "assist": "Kévin Danois",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Danny Namaso opened the scoring for Auxerre, finishing Kévin Danois's pass right-footed from the right side of the six-yard box.",
+     "shot": {
+      "x": 97.1,
+      "y": 56.0,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 61,
+     "scorer": "Danny Namaso",
+     "assist": "Romain Faivre",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Romain Faivre's through ball sent Danny Namaso clear and he slotted a right-footed shot from the centre of the box into the bottom left corner.",
+     "shot": {
+      "x": 92.1,
+      "y": 56.7,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 66,
+     "scorer": "Rayan Fofana",
+     "assist": "Hakim Dongopandji",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "On a fast break, substitute Hakim Dongopandji set up fellow substitute Rayan Fofana, who scored right-footed from the centre of the box.",
+     "shot": {
+      "x": 87.5,
+      "y": 51.5,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 80,
+     "scorer": "Romain Faivre",
+     "assist": "Danny Namaso",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Romain Faivre settled the game with a right-footed shot from outside the box into the bottom right corner after a pass from Danny Namaso.",
+     "shot": {
+      "x": 79.9,
+      "y": 34.8,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 43,
+     "player": "Clément Akpa",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 50,
+     "player": "Naouirou Ahamada",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 54,
+     "player": "Mouhamed N'Diaye",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     51.8,
+     48.2
+    ],
+    "shots": [
+     15,
+     13
+    ],
+    "onTarget": [
+     6,
+     6
+    ],
+    "corners": [
+     7,
+     4
+    ],
+    "fouls": [
+     16,
+     22
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876438",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876438",
+    "https://ligue1.com/fr/articles/l1_article_5927-",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+   ],
+   "notes": "Attendance not found - null. Namaso's first goal came right after a Le Havre attack (Maja shot saved), possibly a counter, but ESPN does not say so; typed as build. Shot y mirrored from ESPN.",
+   "league": "Ligue 1",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
+   "home_country": "FR",
+   "away_country": "FR"
+  },
+  {
+   "id": "lorient-monaco-2026-10-18",
+   "found": true,
+   "competition": "Ligue 1",
+   "round": "Matchday 7",
+   "date": "2026-10-18",
+   "kickoff_local": "17:15",
+   "home": "Lorient",
+   "away": "Monaco",
+   "score": [
+    1,
+    0
+   ],
+   "venue": {
+    "name": "Stade du Moustoir - Yves Allainmat",
+    "city": "Lorient",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Marc Bollengier",
+    "country": "France"
+   },
+   "coaches": {
+    "home": "Alexandre Dujeux",
+    "away": "Filipe Luís"
+   },
+   "formations": {
+    "home": "3-4-2-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Yvon Mvogo",
+      "short": "Mvogo",
+      "number": 38,
+      "pos": "GK"
+     },
+     {
+      "name": "Isaak Touré",
+      "short": "Touré",
+      "number": 95,
+      "pos": "CB"
+     },
+     {
+      "name": "Montassar Talbi",
+      "short": "Talbi",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Nathaniel Adjei",
+      "short": "Adjei",
+      "number": 32,
+      "pos": "CB"
+     },
+     {
+      "name": "Arsène Kouassi",
+      "short": "Kouassi",
+      "number": 43,
+      "pos": "LB"
+     },
+     {
+      "name": "Arthur Avom",
+      "short": "Avom",
+      "number": 62,
+      "pos": "CM"
+     },
+     {
+      "name": "Noah Cadiou",
+      "short": "Cadiou",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Dembo Sylla",
+      "short": "Sylla",
+      "number": 20,
+      "pos": "RB"
+     },
+     {
+      "name": "Gabin Bernardeau",
+      "short": "Bernardeau",
+      "number": 33,
+      "pos": "AM"
+     },
+     {
+      "name": "Jean-Victor Makengo",
+      "short": "Makengo",
+      "number": 17,
+      "pos": "AM"
+     },
+     {
+      "name": "Ibrahima Baldé",
+      "short": "Baldé",
+      "number": 18,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Lukas Hradecky",
+      "short": "Hradecky",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Názinho",
+      "short": "Názinho",
+      "number": 20,
+      "pos": "LB"
+     },
+     {
+      "name": "Mohammed Salisu",
+      "short": "Salisu",
+      "number": 22,
+      "pos": "CB"
+     },
+     {
+      "name": "Sadibou Sané",
+      "short": "Sané",
+      "number": 72,
+      "pos": "CB"
+     },
+     {
+      "name": "Vanderson",
+      "short": "Vanderson",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Denis Zakaria",
+      "short": "Zakaria",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Lamine Camara",
+      "short": "Camara",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Aleksandr Golovin",
+      "short": "Golovin",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Ansu Fati",
+      "short": "Fati",
+      "number": 31,
+      "pos": "AM"
+     },
+     {
+      "name": "Takumi Minamino",
+      "short": "Minamino",
+      "number": 18,
+      "pos": "RW"
+     },
+     {
+      "name": "Matthis Abline",
+      "short": "Abline",
+      "number": 11,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 52,
+     "in": "Edan Diop",
+     "out": "Takumi Minamino"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Folarin Balogun",
+     "out": "Ansu Fati"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Mathys Detourbet",
+     "out": "Denis Zakaria"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Christian Mawissa",
+     "out": "Mohammed Salisu"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Mamadou Koné",
+     "out": "Ibrahima Baldé"
+    },
+    {
+     "side": "away",
+     "minute": 75,
+     "in": "Mika Biereth",
+     "out": "Matthis Abline"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Souleymane Faye",
+     "out": "Gabin Bernardeau"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Srdjan Kuzmic",
+     "Théo Le Bris",
+     "Bingourou Kamara",
+     "Nosa Obaretin",
+     "Panos Katseris",
+     "Tosin Aiyegun",
+     "Alec Georgen"
+    ],
+    "away": [
+     "Jordan Teze",
+     "Mamadou Coulibaly",
+     "Pape Cabral",
+     "Philipp Köhn"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 61,
+     "scorer": "Noah Cadiou",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "After Denis Zakaria fouled in the area, Noah Cadiou converted the penalty right-footed into the bottom right corner for the only goal.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 57,
+     "player": "Mohammed Salisu",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "player": "Denis Zakaria",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "player": "Názinho",
+     "card": "yellow",
+     "reason": "Not specified"
+    },
+    {
+     "side": "home",
+     "minute": 66,
+     "player": "Noah Cadiou",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "player": "Arsène Kouassi",
+     "card": "yellow",
+     "reason": "Not specified"
+    },
+    {
+     "side": "away",
+     "minute": 80,
+     "player": "Christian Mawissa",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     42.2,
+     57.8
+    ],
+    "shots": [
+     9,
+     15
+    ],
+    "onTarget": [
+     3,
+     4
+    ],
+    "corners": [
+     3,
+     4
+    ],
+    "fouls": [
+     10,
+     16
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876435",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876435",
+    "https://ligue1.com/fr/articles/l1_article_5927-",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+   ],
+   "notes": "Attendance not found - null. Only goal a penalty conceded by Denis Zakaria (the fouled player is not named by ESPN). Shot y mirrored from ESPN.",
+   "league": "Ligue 1",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+   "home_country": "FR",
+   "away_country": "FR"
+  },
+  {
+   "id": "paris-fc-rennes-2026-10-18",
+   "found": true,
+   "competition": "Ligue 1",
+   "round": "Matchday 7",
+   "date": "2026-10-18",
+   "kickoff_local": "17:15",
+   "home": "Paris FC",
+   "away": "Rennes",
+   "score": [
+    4,
+    3
+   ],
+   "venue": {
+    "name": "Stade Jean Bouin",
+    "city": "Paris",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Bastien Dechepy",
+    "country": "France"
+   },
+   "coaches": {
+    "home": "Liam Rosenior",
+    "away": "Franck Haise"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-3-3"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Kevin Trapp",
+      "short": "Trapp",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Hamari Traoré",
+      "short": "Traoré",
+      "number": 14,
+      "pos": "LB"
+     },
+     {
+      "name": "Diego Coppola",
+      "short": "Coppola",
+      "number": 42,
+      "pos": "CB"
+     },
+     {
+      "name": "Samir Chergui",
+      "short": "Chergui",
+      "number": 31,
+      "pos": "CB"
+     },
+     {
+      "name": "Adama Camara",
+      "short": "Camara",
+      "number": 17,
+      "pos": "RB"
+     },
+     {
+      "name": "Pierre Lees-Melou",
+      "short": "Lees-Melou",
+      "number": 33,
+      "pos": "DM"
+     },
+     {
+      "name": "Maxime López",
+      "short": "López",
+      "number": 20,
+      "pos": "DM"
+     },
+     {
+      "name": "Luca Koleosho",
+      "short": "Koleosho",
+      "number": 15,
+      "pos": "LW"
+     },
+     {
+      "name": "Pablo Pagis",
+      "short": "Pagis",
+      "number": 7,
+      "pos": "AM"
+     },
+     {
+      "name": "Ilan Kebbal",
+      "short": "Kebbal",
+      "number": 10,
+      "pos": "RW"
+     },
+     {
+      "name": "Lassine Sinayoko",
+      "short": "Sinayoko",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Brice Samba",
+      "short": "Samba",
+      "number": 30,
+      "pos": "GK"
+     },
+     {
+      "name": "Przemyslaw Frankowski",
+      "short": "Frankowski",
+      "number": 95,
+      "pos": "LB"
+     },
+     {
+      "name": "Anthony Rouault",
+      "short": "Rouault",
+      "number": 24,
+      "pos": "CB"
+     },
+     {
+      "name": "Charlie Cresswell",
+      "short": "Cresswell",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Bryan Reynolds",
+      "short": "Reynolds",
+      "number": 14,
+      "pos": "RB"
+     },
+     {
+      "name": "Adrien Thomasson",
+      "short": "Thomasson",
+      "number": 28,
+      "pos": "CM"
+     },
+     {
+      "name": "Djaoui Cissé",
+      "short": "Cissé",
+      "number": 6,
+      "pos": "CM"
+     },
+     {
+      "name": "Sebastian Szymanski",
+      "short": "Szymanski",
+      "number": 17,
+      "pos": "CM"
+     },
+     {
+      "name": "Issa Soumaré",
+      "short": "Soumaré",
+      "number": 90,
+      "pos": "LW"
+     },
+     {
+      "name": "Esteban Lepaul",
+      "short": "Lepaul",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Ludovic Blas",
+      "short": "Blas",
+      "number": 10,
+      "pos": "RW"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Valentin Rongier",
+     "out": "Adrien Thomasson"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Mousa Al-Tamari",
+     "out": "Ludovic Blas"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Mahamadou Nagida",
+     "out": "Przemyslaw Frankowski"
+    },
+    {
+     "side": "away",
+     "minute": 62,
+     "in": "Mahdi Camara",
+     "out": "Djaoui Cissé"
+    },
+    {
+     "side": "home",
+     "minute": 70,
+     "in": "Rudy Matondo",
+     "out": "Pablo Pagis"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Otavio",
+     "out": "Hamari Traoré"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Boulaye Dia",
+     "out": "Issa Soumaré"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Moses Simon",
+     "out": "Ilan Kebbal"
+    },
+    {
+     "side": "home",
+     "minute": 86,
+     "in": "Moustapha Mbow",
+     "out": "Luca Koleosho"
+    },
+    {
+     "side": "home",
+     "minute": 86,
+     "in": "Emmanuel Mbemba",
+     "out": "Samir Chergui"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Jean-Phillipe Krasso",
+     "Zabi Gueu",
+     "Omar Sissoko",
+     "Obed Nkambadio"
+    ],
+    "away": [
+     "Abdelhamid Aït Boudlal",
+     "Kilian Belazzoug",
+     "Eliezer Mayenda",
+     "Arnaud Nordin"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 14,
+     "scorer": "Maxime López",
+     "assist": "Lassine Sinayoko",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Maxime López opened the scoring with a right-footed shot from the centre of the box after a pass from Lassine Sinayoko.",
+     "shot": {
+      "x": 88.3,
+      "y": 52.8,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 29,
+     "scorer": "Esteban Lepaul",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "Estéban Lepaul was fouled in the box by Pierre Lees-Melou and converted the penalty himself into the bottom left corner.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "scorer": "Maxime López",
+     "assist": "Lassine Sinayoko",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Deep in first-half stoppage time, Lassine Sinayoko set up Maxime López, who scored his second from very close range.",
+     "shot": {
+      "x": 97.1,
+      "y": 53.4,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 74,
+     "scorer": "Esteban Lepaul",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "After Samir Chergui fouled Mousa Al-Tamari in the box, Estéban Lepaul again converted from the spot into the bottom left corner.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "scorer": "Lassine Sinayoko",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Lassine Sinayoko restored Paris FC's lead with a left-footed shot from the centre of the box into the bottom right corner.",
+     "shot": {
+      "x": 92.1,
+      "y": 49.9,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 88,
+     "scorer": "Esteban Lepaul",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "Following a handball by Otávio in the area, Estéban Lepaul completed his hat-trick of penalties, this time into the bottom right corner.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "scorer": "Lassine Sinayoko",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "After a VAR review awarded a penalty for a foul on Lassine Sinayoko, he converted it right-footed in the 97th minute to win the game.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 23,
+     "player": "Przemyslaw Frankowski",
+     "card": "yellow",
+     "reason": "Handball"
+    },
+    {
+     "side": "away",
+     "minute": 32,
+     "player": "Djaoui Cissé",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 36,
+     "player": "Adrien Thomasson",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 36,
+     "player": "Anthony Rouault",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 42,
+     "player": "Samir Chergui",
+     "card": "yellow",
+     "reason": "Not specified"
+    },
+    {
+     "side": "home",
+     "minute": 67,
+     "player": "Ilan Kebbal",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Hamari Traoré",
+     "card": "yellow",
+     "reason": "Not specified"
+    }
+   ],
+   "var": [
+    {
+     "side": "away",
+     "minute": 51,
+     "player": "Sebastian Szymanski",
+     "detail": "Goal ruled out after VAR review (score stayed 2-1)."
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Lassine Sinayoko",
+     "detail": "Penalty awarded to Paris FC after VAR review for a foul on Sinayoko; he converted it at 90+7."
+    }
+   ],
+   "stats": {
+    "possession": [
+     52.7,
+     47.3
+    ],
+    "shots": [
+     19,
+     12
+    ],
+    "onTarget": [
+     9,
+     7
+    ],
+    "corners": [
+     3,
+     4
+    ],
+    "fouls": [
+     13,
+     16
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876433",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876433",
+    "https://ligue1.com/fr/articles/l1_article_5927-",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+   ],
+   "notes": "Attendance not found - null. López's 45+4 goal stored as 45 and Sinayoko's 90+7 penalty as 90. Lepaul scored three penalties. Szymanski goal (51') disallowed by VAR. Shot y mirrored from ESPN.",
+   "league": "Ligue 1",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+   "home_country": "FR",
+   "away_country": "FR"
+  },
+  {
+   "id": "lyon-nice-2026-10-18",
+   "found": true,
+   "competition": "Ligue 1",
+   "round": "Matchday 7",
+   "date": "2026-10-18",
+   "kickoff_local": "20:45",
+   "home": "Lyon",
+   "away": "Nice",
+   "score": [
+    2,
+    1
+   ],
+   "venue": {
+    "name": "Groupama Stadium",
+    "city": "Lyon",
+    "attendance": null
+   },
+   "referee": {
+    "name": "François Letexier",
+    "country": "France"
+   },
+   "coaches": {
+    "home": "Paulo Fonseca",
+    "away": "Olivier Pantaloni"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "3-4-2-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Rémy Descamps",
+      "short": "Descamps",
+      "number": 40,
+      "pos": "GK"
+     },
+     {
+      "name": "Abner",
+      "short": "Abner",
+      "number": 16,
+      "pos": "LB"
+     },
+     {
+      "name": "Moussa Niakhaté",
+      "short": "Niakhaté",
+      "number": 19,
+      "pos": "CB"
+     },
+     {
+      "name": "Clinton Mata",
+      "short": "Mata",
+      "number": 22,
+      "pos": "CB"
+     },
+     {
+      "name": "Zachary Athekame",
+      "short": "Athekame",
+      "number": 13,
+      "pos": "RB"
+     },
+     {
+      "name": "Mads Bidstrup",
+      "short": "Bidstrup",
+      "number": 2,
+      "pos": "DM"
+     },
+     {
+      "name": "Tanner Tessmann",
+      "short": "Tessmann",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Julien Duranville",
+      "short": "Duranville",
+      "number": 24,
+      "pos": "LW"
+     },
+     {
+      "name": "Noah Nartey",
+      "short": "Nartey",
+      "number": 99,
+      "pos": "AM"
+     },
+     {
+      "name": "Kail Boudache",
+      "short": "Boudache",
+      "number": 26,
+      "pos": "RW"
+     },
+     {
+      "name": "Pavel Sulc",
+      "short": "Sulc",
+      "number": 10,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Yehvann Diouf",
+      "short": "Diouf",
+      "number": 23,
+      "pos": "GK"
+     },
+     {
+      "name": "Xavier Junior Mandza Tsiendi",
+      "short": "Mandza Tsiendi",
+      "number": 35,
+      "pos": "CB"
+     },
+     {
+      "name": "Youssouf Ndayishimiye",
+      "short": "Ndayishimiye",
+      "number": 55,
+      "pos": "CB"
+     },
+     {
+      "name": "Mohamed Abdelmoneim",
+      "short": "Abdelmoneim",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Niels Nkounkou",
+      "short": "Nkounkou",
+      "number": 27,
+      "pos": "LB"
+     },
+     {
+      "name": "Hicham Boudaoui",
+      "short": "Boudaoui",
+      "number": 6,
+      "pos": "CM"
+     },
+     {
+      "name": "Axel Witsel",
+      "short": "Witsel",
+      "number": 28,
+      "pos": "CM"
+     },
+     {
+      "name": "Jonathan Clauss",
+      "short": "Clauss",
+      "number": 92,
+      "pos": "RB"
+     },
+     {
+      "name": "Mohamed Amoura",
+      "short": "Amoura",
+      "number": 9,
+      "pos": "AM"
+     },
+     {
+      "name": "Gauthier Hein",
+      "short": "Hein",
+      "number": 7,
+      "pos": "AM"
+     },
+     {
+      "name": "Elye Wahi",
+      "short": "Wahi",
+      "number": 11,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Corentin Tolisso",
+     "out": "Noah Nartey"
+    },
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Keito Nakamura",
+     "out": "Julien Duranville"
+    },
+    {
+     "side": "home",
+     "minute": 75,
+     "in": "Felix Bacher",
+     "out": "Kail Boudache"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Alidu Seidu",
+     "out": "Mohamed Abdelmoneim"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Khalis Merah",
+     "out": "Pavel Sulc"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Ruben Kluivert",
+     "out": "Abner"
+    },
+    {
+     "side": "away",
+     "minute": 87,
+     "in": "Sofiane Diop",
+     "out": "Xavier Junior Mandza Tsiendi"
+    },
+    {
+     "side": "away",
+     "minute": 87,
+     "in": "Morgan Sanson",
+     "out": "Axel Witsel"
+    },
+    {
+     "side": "away",
+     "minute": 87,
+     "in": "Isak Jansson",
+     "out": "Gauthier Hein"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Ernest Nuamah",
+     "Dominik Greif",
+     "Tyler Morton",
+     "Rémi Himbert"
+    ],
+    "away": [
+     "Nathan N'Goumou",
+     "Djelan Morana",
+     "Teddy Boulhendi",
+     "Djibril Coulibaly",
+     "Hamza Koutoune"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 18,
+     "scorer": "Elye Wahi",
+     "assist": "Jonathan Clauss",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Jonathan Clauss crossed and Elye Wahi finished right-footed from the centre of the box into the bottom left corner.",
+     "shot": {
+      "x": 92.6,
+      "y": 53.2,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 32,
+     "scorer": "Pavel Sulc",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Moments after Yehvann Diouf saved from Julien Duranville, Pavel Sulc equalised from very close range.",
+     "shot": {
+      "x": 98.1,
+      "y": 48.2,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 36,
+     "scorer": "Tanner Tessmann",
+     "assist": "Zachary Athekame",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "From a set-piece situation, Zachary Athekame crossed and Tanner Tessmann headed in from the centre of the box.",
+     "shot": {
+      "x": 92.7,
+      "y": 52.0,
+      "header": true
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 10,
+     "player": "Niels Nkounkou",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 48,
+     "player": "Mohamed Abdelmoneim",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "player": "Mohamed Amoura",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 70,
+     "player": "Keito Nakamura",
+     "card": "red",
+     "reason": "Foul (straight red)"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Elye Wahi",
+     "card": "yellow",
+     "reason": "Excessive celebration"
+    }
+   ],
+   "var": [
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Elye Wahi",
+     "detail": "Stoppage-time goal ruled out after VAR review (score stayed 2-1)."
+    }
+   ],
+   "stats": {
+    "possession": [
+     47.6,
+     52.4
+    ],
+    "shots": [
+     8,
+     12
+    ],
+    "onTarget": [
+     4,
+     5
+    ],
+    "corners": [
+     1,
+     9
+    ],
+    "fouls": [
+     6,
+     14
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876434",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876434",
+    "https://ligue1.com/fr/articles/l1_article_5927-",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+   ],
+   "notes": "Attendance not found - null. Keito Nakamura (sub at 61') sent off at 70' straight after a foul; exact reason not given by ESPN. Wahi's stoppage-time goal disallowed by VAR, then he was booked for excessive celebration. Shot y mirrored from ESPN.",
+   "league": "Ligue 1",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+   "home_country": "FR",
+   "away_country": "FR"
+  }
+ ]
+}

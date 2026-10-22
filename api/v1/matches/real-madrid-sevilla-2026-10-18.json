@@ -1,0 +1,859 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "real-madrid-sevilla-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "21:00",
+    "competition": "LaLiga",
+    "round": "Matchday 9",
+    "status": "FT",
+    "home": {
+      "name": "Real Madrid",
+      "id": "real-madrid",
+      "crest": "assets/clubs/86.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Sevilla",
+      "id": "sevilla",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Santiago Bernabéu",
+      "city": "Madrid",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "jose-mourinho-real-madrid-sevilla-2026-10-18",
+          "name": "José Mourinho",
+          "short": "Mourinho",
+          "position": "Coach",
+          "photo": "assets/photos/people/jose-mourinho.jpg"
+        },
+        "starting": [
+          {
+            "id": "thibaut-courtois-real-madrid-sevilla-2026-10-18",
+            "name": "Thibaut Courtois",
+            "short": "T. Courtois",
+            "position": "GK",
+            "photo": "assets/photos/people/thibaut-courtois.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "federico-valverde-real-madrid-sevilla-2026-10-18",
+            "name": "Federico Valverde",
+            "short": "F. Valverde",
+            "position": "RB",
+            "photo": "assets/photos/people/federico-valverde.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 7.7
+          },
+          {
+            "id": "ibrahima-konate-real-madrid-sevilla-2026-10-18",
+            "name": "Ibrahima Konaté",
+            "short": "I. Konaté",
+            "position": "CB",
+            "photo": "assets/photos/people/ibrahima-konate.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 7.1
+          },
+          {
+            "id": "dean-huijsen-real-madrid-sevilla-2026-10-18",
+            "name": "Dean Huijsen",
+            "short": "D. Huijsen",
+            "position": "CB",
+            "photo": "assets/photos/people/dean-huijsen.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 7.3
+          },
+          {
+            "id": "marc-cucurella-real-madrid-sevilla-2026-10-18",
+            "name": "Marc Cucurella",
+            "short": "M. Cucurella",
+            "position": "LB",
+            "photo": "assets/photos/people/marc-cucurella.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 7.7
+          },
+          {
+            "id": "arda-guler-real-madrid-sevilla-2026-10-18",
+            "name": "Arda Güler",
+            "short": "A. Güler",
+            "position": "DM",
+            "photo": "assets/photos/people/arda-guler.jpg",
+            "x": 27,
+            "y": 30,
+            "rating": 7.7
+          },
+          {
+            "id": "aurelien-tchouameni-real-madrid-sevilla-2026-10-18",
+            "name": "Aurélien Tchouaméni",
+            "short": "A. Tchouaméni",
+            "position": "DM",
+            "photo": "assets/photos/people/aurelien-tchouameni.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 7.7
+          },
+          {
+            "id": "endrick-real-madrid-sevilla-2026-10-18",
+            "name": "Endrick",
+            "short": "Endrick",
+            "position": "RW",
+            "photo": "assets/photos/people/endrick.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 6.9
+          },
+          {
+            "id": "jude-bellingham-real-madrid-sevilla-2026-10-18",
+            "name": "Jude Bellingham",
+            "short": "J. Bellingham",
+            "position": "AM",
+            "photo": "assets/photos/people/jude-bellingham.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "yan-diomande-real-madrid-sevilla-2026-10-18",
+            "name": "Yan Diomande",
+            "short": "Y. Diomande",
+            "position": "LW",
+            "photo": "assets/photos/people/yan-diomande.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 8.7
+          },
+          {
+            "id": "kylian-mbappe-real-madrid-sevilla-2026-10-18",
+            "name": "Kylian Mbappé",
+            "short": "K. Mbappé",
+            "position": "ST",
+            "photo": "assets/photos/people/kylian-mbappe.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 9
+          }
+        ],
+        "bench": [
+          {
+            "id": "brahim-diaz-real-madrid-sevilla-2026-10-18",
+            "name": "Brahim Díaz",
+            "short": "Díaz",
+            "position": "RW",
+            "photo": "assets/photos/people/brahim-diaz.jpg",
+            "rating": 6.5
+          },
+          {
+            "id": "bernardo-silva-real-madrid-sevilla-2026-10-18",
+            "name": "Bernardo Silva",
+            "short": "Silva",
+            "position": "AM",
+            "photo": "assets/photos/people/bernardo-silva.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "eduardo-camavinga-real-madrid-sevilla-2026-10-18",
+            "name": "Eduardo Camavinga",
+            "short": "Camavinga",
+            "position": "DM",
+            "photo": "assets/photos/people/eduardo-camavinga.jpg",
+            "rating": 7
+          },
+          {
+            "id": "carlos-espi-real-madrid-sevilla-2026-10-18",
+            "name": "Carlos Espí",
+            "short": "Espí",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "eder-militao-real-madrid-sevilla-2026-10-18",
+            "name": "Éder Militão",
+            "short": "Militão",
+            "position": "RB",
+            "photo": "assets/photos/people/eder-militao.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "thiago-pitarch-real-madrid-sevilla-2026-10-18",
+            "name": "Thiago Pitarch",
+            "short": "Pitarch",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "trent-alexander-arnold-real-madrid-sevilla-2026-10-18",
+            "name": "Trent Alexander-Arnold",
+            "short": "Alexander-Arnold",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "denzel-dumfries-real-madrid-sevilla-2026-10-18",
+            "name": "Denzel Dumfries",
+            "short": "Dumfries",
+            "position": "CM",
+            "photo": "assets/photos/people/denzel-dumfries.jpg",
+            "rating": null
+          },
+          {
+            "id": "andriy-lunin-real-madrid-sevilla-2026-10-18",
+            "name": "Andriy Lunin",
+            "short": "Lunin",
+            "position": "CM",
+            "photo": "assets/photos/people/andriy-lunin.jpg",
+            "rating": null
+          },
+          {
+            "id": "antonio-rudiger-real-madrid-sevilla-2026-10-18",
+            "name": "Antonio Rüdiger",
+            "short": "Rüdiger",
+            "position": "CM",
+            "photo": "assets/photos/people/antonio-rudiger.jpg",
+            "rating": null
+          },
+          {
+            "id": "alvaro-carreras-real-madrid-sevilla-2026-10-18",
+            "name": "Álvaro Carreras",
+            "short": "Carreras",
+            "position": "CM",
+            "photo": "assets/photos/people/alvaro-carreras.jpg",
+            "rating": null
+          },
+          {
+            "id": "javier-navarro",
+            "name": "Javier Navarro",
+            "short": "Navarro",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "luis-garcia-plaza",
+          "name": "Luis García Plaza",
+          "short": "Plaza",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "odisseas-vlachodimos",
+            "name": "Odisseas Vlachodimos",
+            "short": "O. Vlachodimos",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "juan-iglesias",
+            "name": "Juan Iglesias",
+            "short": "J. Iglesias",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "andres-castrin",
+            "name": "Andrés Castrín",
+            "short": "A. Castrín",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.3
+          },
+          {
+            "id": "enrique-salas",
+            "name": "Enrique Salas",
+            "short": "E. Salas",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.7
+          },
+          {
+            "id": "gabriel-suazo",
+            "name": "Gabriel Suazo",
+            "short": "G. Suazo",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "lucien-agoume",
+            "name": "Lucien Agoumé",
+            "short": "L. Agoumé",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 6.6
+          },
+          {
+            "id": "youssouf-fofana",
+            "name": "Youssouf Fofana",
+            "short": "Y. Fofana",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.1
+          },
+          {
+            "id": "ruben-vargas",
+            "name": "Rubén Vargas",
+            "short": "R. Vargas",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.3
+          },
+          {
+            "id": "peque",
+            "name": "Peque",
+            "short": "Peque",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "felix-correia",
+            "name": "Felix Correia",
+            "short": "F. Correia",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 6.6
+          },
+          {
+            "id": "robbie-ure",
+            "name": "Robbie Ure",
+            "short": "R. Ure",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "chidera-ejuke",
+            "name": "Chidera Ejuke",
+            "short": "Ejuke",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "lucas-stassin",
+            "name": "Lucas Stassin",
+            "short": "Stassin",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "manu-bueno",
+            "name": "Manu Bueno",
+            "short": "Bueno",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.8
+          },
+          {
+            "id": "jose-angel-carmona",
+            "name": "José Ángel Carmona",
+            "short": "Carmona",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "alfonso-gonzalez",
+            "name": "Alfonso González",
+            "short": "González",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "brahim-diaz-real-madrid-sevilla-2026-10-18",
+            "name": "Brahim Díaz",
+            "short": "Díaz",
+            "position": "RW",
+            "photo": "assets/photos/people/brahim-diaz.jpg",
+            "rating": 6.3
+          },
+          {
+            "id": "arouna-sangante",
+            "name": "Arouna Sangante",
+            "short": "Sangante",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "fabio-cardoso",
+            "name": "Fábio Cardoso",
+            "short": "Cardoso",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jesus-cruz-morales",
+            "name": "Jesús Cruz Morales",
+            "short": "Morales",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nico-guillen",
+            "name": "Nico Guillén",
+            "short": "Guillén",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rafael-romero",
+            "name": "Rafael Romero",
+            "short": "Romero",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 23,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "felix-correia",
+          "name": "Felix Correia",
+          "short": "F. Correia",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 23,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "dean-huijsen-real-madrid-sevilla-2026-10-18",
+          "name": "Dean Huijsen",
+          "short": "D. Huijsen",
+          "position": "CB",
+          "photo": "assets/photos/people/dean-huijsen.jpg"
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 30,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "arda-guler-real-madrid-sevilla-2026-10-18",
+          "name": "Arda Güler",
+          "short": "A. Güler",
+          "position": "DM",
+          "photo": "assets/photos/people/arda-guler.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "yan-diomande-real-madrid-sevilla-2026-10-18",
+          "name": "Yan Diomande",
+          "short": "Y. Diomande",
+          "position": "LW",
+          "photo": "assets/photos/people/yan-diomande.jpg"
+        },
+        "goalType": "counter",
+        "description": "Arda Güler left footed shot from the left side of the box to the top right corner. Assist: Yan Diomande following a fast break."
+      },
+      {
+        "minute": 37,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "kylian-mbappe-real-madrid-sevilla-2026-10-18",
+          "name": "Kylian Mbappé",
+          "short": "K. Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "jude-bellingham-real-madrid-sevilla-2026-10-18",
+          "name": "Jude Bellingham",
+          "short": "J. Bellingham",
+          "position": "AM",
+          "photo": "assets/photos/people/jude-bellingham.jpg"
+        },
+        "goalType": "build",
+        "description": "Kylian Mbappé left footed shot from the left side of the six yard box to the centre of the goal. Assist: Jude Bellingham."
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "chidera-ejuke",
+          "name": "Chidera Ejuke",
+          "short": "Ejuke",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ruben-vargas",
+          "name": "Rubén Vargas",
+          "short": "R. Vargas",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 56,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "lucas-stassin",
+          "name": "Lucas Stassin",
+          "short": "Stassin",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "robbie-ure",
+          "name": "Robbie Ure",
+          "short": "R. Ure",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 56,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "manu-bueno",
+          "name": "Manu Bueno",
+          "short": "Bueno",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "peque",
+          "name": "Peque",
+          "short": "Peque",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "kylian-mbappe-real-madrid-sevilla-2026-10-18",
+          "name": "Kylian Mbappé",
+          "short": "K. Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Kylian Mbappé converted the penalty with a right footed shot to the high centre of the goal."
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "brahim-diaz-real-madrid-sevilla-2026-10-18",
+          "name": "Brahim Díaz",
+          "short": "Díaz",
+          "position": "RW",
+          "photo": "assets/photos/people/brahim-diaz.jpg"
+        },
+        "replaced": {
+          "id": "endrick-real-madrid-sevilla-2026-10-18",
+          "name": "Endrick",
+          "short": "Endrick",
+          "position": "RW",
+          "photo": "assets/photos/people/endrick.jpg"
+        }
+      },
+      {
+        "minute": 69,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "juan-iglesias",
+          "name": "Juan Iglesias",
+          "short": "J. Iglesias",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "bernardo-silva-real-madrid-sevilla-2026-10-18",
+          "name": "Bernardo Silva",
+          "short": "Silva",
+          "position": "AM",
+          "photo": "assets/photos/people/bernardo-silva.jpg"
+        },
+        "replaced": {
+          "id": "jude-bellingham-real-madrid-sevilla-2026-10-18",
+          "name": "Jude Bellingham",
+          "short": "J. Bellingham",
+          "position": "AM",
+          "photo": "assets/photos/people/jude-bellingham.jpg"
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jose-angel-carmona",
+          "name": "José Ángel Carmona",
+          "short": "Carmona",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "juan-iglesias",
+          "name": "Juan Iglesias",
+          "short": "J. Iglesias",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alfonso-gonzalez",
+          "name": "Alfonso González",
+          "short": "González",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "felix-correia",
+          "name": "Felix Correia",
+          "short": "F. Correia",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "marc-cucurella-real-madrid-sevilla-2026-10-18",
+          "name": "Marc Cucurella",
+          "short": "M. Cucurella",
+          "position": "LB",
+          "photo": "assets/photos/people/marc-cucurella.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "eduardo-camavinga-real-madrid-sevilla-2026-10-18",
+          "name": "Eduardo Camavinga",
+          "short": "Camavinga",
+          "position": "DM",
+          "photo": "assets/photos/people/eduardo-camavinga.jpg"
+        },
+        "replaced": {
+          "id": "arda-guler-real-madrid-sevilla-2026-10-18",
+          "name": "Arda Güler",
+          "short": "A. Güler",
+          "position": "DM",
+          "photo": "assets/photos/people/arda-guler.jpg"
+        }
+      },
+      {
+        "minute": 80,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "manu-bueno",
+          "name": "Manu Bueno",
+          "short": "Bueno",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "3 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "lucas-stassin",
+          "name": "Lucas Stassin",
+          "short": "Stassin",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Manu Bueno left footed shot from the right side of the box to the bottom left corner. Assist: Lucas Stassin."
+      },
+      {
+        "minute": 82,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "yan-diomande-real-madrid-sevilla-2026-10-18",
+          "name": "Yan Diomande",
+          "short": "Y. Diomande",
+          "position": "LW",
+          "photo": "assets/photos/people/yan-diomande.jpg"
+        },
+        "scoreAfter": "4 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "aurelien-tchouameni-real-madrid-sevilla-2026-10-18",
+          "name": "Aurélien Tchouaméni",
+          "short": "A. Tchouaméni",
+          "position": "DM",
+          "photo": "assets/photos/people/aurelien-tchouameni.jpg"
+        },
+        "goalType": "build",
+        "description": "Yan Diomande right footed shot from outside the box to the top left corner. Assist: Aurélien Tchouaméni."
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "carlos-espi-real-madrid-sevilla-2026-10-18",
+          "name": "Carlos Espí",
+          "short": "Espí",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kylian-mbappe-real-madrid-sevilla-2026-10-18",
+          "name": "Kylian Mbappé",
+          "short": "K. Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "eder-militao-real-madrid-sevilla-2026-10-18",
+          "name": "Éder Militão",
+          "short": "Militão",
+          "position": "RB",
+          "photo": "assets/photos/people/eder-militao.jpg"
+        },
+        "replaced": {
+          "id": "federico-valverde-real-madrid-sevilla-2026-10-18",
+          "name": "Federico Valverde",
+          "short": "F. Valverde",
+          "position": "RB",
+          "photo": "assets/photos/people/federico-valverde.jpg"
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        15,
+        11
+      ],
+      "onTarget": [
+        8,
+        5
+      ],
+      "corners": [
+        1,
+        2
+      ],
+      "fouls": [
+        10,
+        14
+      ],
+      "possession": 65
+    },
+    "attendance": 73907,
+    "referee": {
+      "name": "Mateo Busquets Ferrer",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882839",
+      "https://www.espn.com/soccer/match/_/gameId/401882839",
+      "https://www.beinsports.com/en-us/soccer/la-liga/articles/sevilla-furious-over-refereeing-decision-involving-arda-g%C3%BCler-2026-10-18",
+      "https://www.goal.com/en/news/after-the-guler-farce-unexpected-rating-for-the-referee-of-the-real-madrid-and-sevilla-match/bltfa8cc7aaf67ef5b2",
+      "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

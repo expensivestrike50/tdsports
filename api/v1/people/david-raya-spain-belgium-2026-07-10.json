@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "david-raya-spain-belgium-2026-07-10",
+    "name": "David Raya",
+    "short": "Raya",
+    "position": "CM",
+    "photo": "assets/photos/people/david-raya.jpg",
+    "matches": [
+      {
+        "match": "spain-belgium-2026-07-10",
+        "date": "2026-07-10",
+        "team": "Spain",
+        "role": "bench"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "erling-haaland-man-city-ipswich-2026-10-17",
+    "name": "Erling Haaland",
+    "short": "Haaland",
+    "position": "ST",
+    "photo": "assets/photos/people/erling-haaland.jpg",
+    "matches": [
+      {
+        "match": "man-city-ipswich-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Man City",
+        "role": "starter"
+      }
+    ]
+  }
+}

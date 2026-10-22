@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "harry-maguire-leeds-man-united-2026-10-18",
+    "name": "Harry Maguire",
+    "short": "Maguire",
+    "position": "CB",
+    "photo": "assets/photos/people/harry-maguire.jpg",
+    "matches": [
+      {
+        "match": "leeds-man-united-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Man United",
+        "role": "starter"
+      }
+    ]
+  }
+}

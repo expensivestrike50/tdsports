@@ -1,0 +1,885 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "bologna-inter-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "18:00",
+    "competition": "Serie A",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Bologna",
+      "id": "bologna",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+      "country": "IT"
+    },
+    "away": {
+      "name": "Inter",
+      "id": "inter",
+      "crest": "assets/clubs/110.png",
+      "country": "IT"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Renato Dall'Ara",
+      "city": "Bologna",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "raffaele-palladino",
+          "name": "Raffaele Palladino",
+          "short": "Palladino",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "lukasz-skorupski",
+            "name": "Lukasz Skorupski",
+            "short": "Skorupski",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "arthur-theate",
+            "name": "Arthur Theate",
+            "short": "Theate",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 6.6
+          },
+          {
+            "id": "nicolo-casale",
+            "name": "Nicolo Casale",
+            "short": "Casale",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "matteo-darmian",
+            "name": "Matteo Darmian",
+            "short": "Darmian",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7
+          },
+          {
+            "id": "juan-miranda",
+            "name": "Juan Miranda",
+            "short": "Miranda",
+            "position": "LB",
+            "photo": null,
+            "x": 27,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "tommaso-pobega",
+            "name": "Tommaso Pobega",
+            "short": "Pobega",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 38,
+            "rating": 7.7
+          },
+          {
+            "id": "lewis-ferguson",
+            "name": "Lewis Ferguson",
+            "short": "Ferguson",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 64,
+            "rating": 7.2
+          },
+          {
+            "id": "nadir-zortea",
+            "name": "Nadir Zortea",
+            "short": "Zortea",
+            "position": "RB",
+            "photo": null,
+            "x": 27,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "nicolo-cambiaghi",
+            "name": "Nicolò Cambiaghi",
+            "short": "Cambiaghi",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 7.4
+          },
+          {
+            "id": "federico-bernardeschi",
+            "name": "Federico Bernardeschi",
+            "short": "Bernardeschi",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 6.1
+          },
+          {
+            "id": "roberto-piccoli",
+            "name": "Roberto Piccoli",
+            "short": "Piccoli",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "jay-enem",
+            "name": "Jay Enem",
+            "short": "Enem",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "eivind-helland",
+            "name": "Eivind Helland",
+            "short": "Helland",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "artem-dovbyk",
+            "name": "Artem Dovbyk",
+            "short": "Dovbyk",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "nikola-moro",
+            "name": "Nikola Moro",
+            "short": "Moro",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "mikel-amondarain",
+            "name": "Mikel Amondarain",
+            "short": "Amondarain",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ukko-happonen",
+            "name": "Ukko Happonen",
+            "short": "Happonen",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rahim-alhassane",
+            "name": "Rahim Alhassane",
+            "short": "Alhassane",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "torbjrn-heggem",
+            "name": "Torbjørn Heggem",
+            "short": "Heggem",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lorenzo-de-silvestri",
+            "name": "Lorenzo De Silvestri",
+            "short": "Silvestri",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marco-libra",
+            "name": "Marco Libra",
+            "short": "Libra",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "samuel-mbangula",
+            "name": "Samuel Mbangula",
+            "short": "Mbangula",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "oussama-el-azzouzi",
+            "name": "Oussama El Azzouzi",
+            "short": "Azzouzi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jens-odgaard",
+            "name": "Jens Odgaard",
+            "short": "Odgaard",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "massimo-pessina",
+            "name": "Massimo Pessina",
+            "short": "Pessina",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "martin-vitik",
+            "name": "Martin Vitík",
+            "short": "Vitík",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-5-2",
+        "coach": {
+          "id": "cristian-chivu-bologna-inter-2026-10-17",
+          "name": "Cristian Chivu",
+          "short": "Chivu",
+          "position": "Coach",
+          "photo": "assets/photos/people/cristian-chivu.jpg"
+        },
+        "starting": [
+          {
+            "id": "josep-martinez-bologna-inter-2026-10-17",
+            "name": "Josep Martínez",
+            "short": "Martínez",
+            "position": "GK",
+            "photo": "assets/photos/people/josep-martinez.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "alessandro-bastoni-bologna-inter-2026-10-17",
+            "name": "Alessandro Bastoni",
+            "short": "Bastoni",
+            "position": "CB",
+            "photo": "assets/photos/people/alessandro-bastoni.jpg",
+            "x": 82,
+            "y": 77,
+            "rating": 6.4
+          },
+          {
+            "id": "manuel-akanji-bologna-inter-2026-10-17",
+            "name": "Manuel Akanji",
+            "short": "Akanji",
+            "position": "CB",
+            "photo": "assets/photos/people/manuel-akanji.jpg",
+            "x": 82,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "yann-bisseck-bologna-inter-2026-10-17",
+            "name": "Yann Bisseck",
+            "short": "Bisseck",
+            "position": "CB",
+            "photo": "assets/photos/people/yann-bisseck.jpg",
+            "x": 82,
+            "y": 22,
+            "rating": 7.3
+          },
+          {
+            "id": "federico-dimarco-bologna-inter-2026-10-17",
+            "name": "Federico Dimarco",
+            "short": "Dimarco",
+            "position": "LB",
+            "photo": "assets/photos/people/federico-dimarco.jpg",
+            "x": 68,
+            "y": 92,
+            "rating": 6.6
+          },
+          {
+            "id": "petar-sucic-bologna-inter-2026-10-17",
+            "name": "Petar Sucic",
+            "short": "Sucic",
+            "position": "CM",
+            "photo": "assets/photos/people/petar-sucic.jpg",
+            "x": 68,
+            "y": 71,
+            "rating": 6.6
+          },
+          {
+            "id": "nicolo-barella-bologna-inter-2026-10-17",
+            "name": "Nicolò Barella",
+            "short": "Barella",
+            "position": "CM",
+            "photo": "assets/photos/people/nicolo-barella.jpg",
+            "x": 68,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "luis-henrique-bologna-inter-2026-10-17",
+            "name": "Luis Henrique",
+            "short": "Henrique",
+            "position": "RB",
+            "photo": "assets/photos/people/luis-henrique.jpg",
+            "x": 68,
+            "y": 29,
+            "rating": 7.2
+          },
+          {
+            "id": "piotr-zielinski-bologna-inter-2026-10-17",
+            "name": "Piotr Zielinski",
+            "short": "Zielinski",
+            "position": "AM",
+            "photo": "assets/photos/people/piotr-zielinski.jpg",
+            "x": 68,
+            "y": 8,
+            "rating": 8
+          },
+          {
+            "id": "pio-esposito-bologna-inter-2026-10-17",
+            "name": "Pio Esposito",
+            "short": "Esposito",
+            "position": "ST",
+            "photo": "assets/photos/people/pio-esposito.jpg",
+            "x": 54,
+            "y": 70,
+            "rating": 6.7
+          },
+          {
+            "id": "marcus-thuram-bologna-inter-2026-10-17",
+            "name": "Marcus Thuram",
+            "short": "Thuram",
+            "position": "ST",
+            "photo": "assets/photos/people/marcus-thuram.jpg",
+            "x": 54,
+            "y": 30,
+            "rating": 8
+          }
+        ],
+        "bench": [
+          {
+            "id": "ange-yoan-bonny-bologna-inter-2026-10-17",
+            "name": "Ange-Yoan Bonny",
+            "short": "Bonny",
+            "position": "ST",
+            "photo": "assets/photos/people/ange-yoan-bonny.jpg",
+            "rating": 8
+          },
+          {
+            "id": "carlos-augusto-bologna-inter-2026-10-17",
+            "name": "Carlos Augusto",
+            "short": "Augusto",
+            "position": "LB",
+            "photo": "assets/photos/people/carlos-augusto.jpg",
+            "rating": 7.7
+          },
+          {
+            "id": "andy-diouf-bologna-inter-2026-10-17",
+            "name": "Andy Diouf",
+            "short": "Diouf",
+            "position": "RB",
+            "photo": "assets/photos/people/andy-diouf.jpg",
+            "rating": 6.7
+          },
+          {
+            "id": "hakan-calhanoglu-bologna-inter-2026-10-17",
+            "name": "Hakan Çalhanoglu",
+            "short": "Çalhanoglu",
+            "position": "AM",
+            "photo": "assets/photos/people/hakan-calhanoglu.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "henrikh-mkhitaryan-bologna-inter-2026-10-17",
+            "name": "Henrikh Mkhitaryan",
+            "short": "Mkhitaryan",
+            "position": "ST",
+            "photo": "assets/photos/people/henrikh-mkhitaryan.jpg",
+            "rating": 7.5
+          },
+          {
+            "id": "ivan-provedel-bologna-inter-2026-10-17",
+            "name": "Ivan Provedel",
+            "short": "Provedel",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "leonardo-bovio-bologna-inter-2026-10-17",
+            "name": "Leonardo Bovio",
+            "short": "Bovio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mattia-mosconi-bologna-inter-2026-10-17",
+            "name": "Mattia Mosconi",
+            "short": "Mosconi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "raffaele-di-gennaro-bologna-inter-2026-10-17",
+            "name": "Raffaele Di Gennaro",
+            "short": "Gennaro",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "djed-spence-bologna-inter-2026-10-17",
+            "name": "Djed Spence",
+            "short": "Spence",
+            "position": "CM",
+            "photo": "assets/photos/people/djed-spence.jpg",
+            "rating": null
+          },
+          {
+            "id": "aleksandar-stankovic-bologna-inter-2026-10-17",
+            "name": "Aleksandar Stankovic",
+            "short": "Stankovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 10,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "tommaso-pobega",
+          "name": "Tommaso Pobega",
+          "short": "Pobega",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "juan-miranda",
+          "name": "Juan Miranda",
+          "short": "Miranda",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Tommaso Pobega left footed shot from the left side of the box to the bottom left corner. Assisted by Juan Miranda."
+      },
+      {
+        "minute": 30,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jay-enem",
+          "name": "Jay Enem",
+          "short": "Enem",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "roberto-piccoli",
+          "name": "Roberto Piccoli",
+          "short": "Piccoli",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 34,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "arthur-theate",
+          "name": "Arthur Theate",
+          "short": "Theate",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 35,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "pio-esposito-bologna-inter-2026-10-17",
+          "name": "Pio Esposito",
+          "short": "Esposito",
+          "position": "ST",
+          "photo": "assets/photos/people/pio-esposito.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 44,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "marcus-thuram-bologna-inter-2026-10-17",
+          "name": "Marcus Thuram",
+          "short": "Thuram",
+          "position": "ST",
+          "photo": "assets/photos/people/marcus-thuram.jpg"
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "nicolo-barella-bologna-inter-2026-10-17",
+          "name": "Nicolò Barella",
+          "short": "Barella",
+          "position": "CM",
+          "photo": "assets/photos/people/nicolo-barella.jpg"
+        },
+        "goalType": "build",
+        "description": "Marcus Thuram header from the centre of the box to the top left corner. Assisted by Nicolò Barella with a cross."
+      },
+      {
+        "minute": 57,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "tommaso-pobega",
+          "name": "Tommaso Pobega",
+          "short": "Pobega",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 58,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ange-yoan-bonny-bologna-inter-2026-10-17",
+          "name": "Ange-Yoan Bonny",
+          "short": "Bonny",
+          "position": "ST",
+          "photo": "assets/photos/people/ange-yoan-bonny.jpg"
+        },
+        "replaced": {
+          "id": "pio-esposito-bologna-inter-2026-10-17",
+          "name": "Pio Esposito",
+          "short": "Esposito",
+          "position": "ST",
+          "photo": "assets/photos/people/pio-esposito.jpg"
+        }
+      },
+      {
+        "minute": 61,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "marcus-thuram-bologna-inter-2026-10-17",
+          "name": "Marcus Thuram",
+          "short": "Thuram",
+          "position": "ST",
+          "photo": "assets/photos/people/marcus-thuram.jpg"
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "eivind-helland",
+          "name": "Eivind Helland",
+          "short": "Helland",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "arthur-theate",
+          "name": "Arthur Theate",
+          "short": "Theate",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "carlos-augusto-bologna-inter-2026-10-17",
+          "name": "Carlos Augusto",
+          "short": "Augusto",
+          "position": "LB",
+          "photo": "assets/photos/people/carlos-augusto.jpg"
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "piotr-zielinski-bologna-inter-2026-10-17",
+          "name": "Piotr Zielinski",
+          "short": "Zielinski",
+          "position": "AM",
+          "photo": "assets/photos/people/piotr-zielinski.jpg"
+        },
+        "goalType": "build",
+        "description": "Carlos Augusto left footed shot from very close range to the centre of the goal. Assisted by Piotr Zielinski."
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "carlos-augusto-bologna-inter-2026-10-17",
+          "name": "Carlos Augusto",
+          "short": "Augusto",
+          "position": "LB",
+          "photo": "assets/photos/people/carlos-augusto.jpg"
+        },
+        "replaced": {
+          "id": "federico-dimarco-bologna-inter-2026-10-17",
+          "name": "Federico Dimarco",
+          "short": "Dimarco",
+          "position": "LB",
+          "photo": "assets/photos/people/federico-dimarco.jpg"
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "andy-diouf-bologna-inter-2026-10-17",
+          "name": "Andy Diouf",
+          "short": "Diouf",
+          "position": "RB",
+          "photo": "assets/photos/people/andy-diouf.jpg"
+        },
+        "replaced": {
+          "id": "luis-henrique-bologna-inter-2026-10-17",
+          "name": "Luis Henrique",
+          "short": "Henrique",
+          "position": "RB",
+          "photo": "assets/photos/people/luis-henrique.jpg"
+        }
+      },
+      {
+        "minute": 71,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "juan-miranda",
+          "name": "Juan Miranda",
+          "short": "Miranda",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 72,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "federico-bernardeschi",
+          "name": "Federico Bernardeschi",
+          "short": "Bernardeschi",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "artem-dovbyk",
+          "name": "Artem Dovbyk",
+          "short": "Dovbyk",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nicolo-cambiaghi",
+          "name": "Nicolò Cambiaghi",
+          "short": "Cambiaghi",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nikola-moro",
+          "name": "Nikola Moro",
+          "short": "Moro",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tommaso-pobega",
+          "name": "Tommaso Pobega",
+          "short": "Pobega",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "hakan-calhanoglu-bologna-inter-2026-10-17",
+          "name": "Hakan Çalhanoglu",
+          "short": "Çalhanoglu",
+          "position": "AM",
+          "photo": "assets/photos/people/hakan-calhanoglu.jpg"
+        },
+        "replaced": {
+          "id": "piotr-zielinski-bologna-inter-2026-10-17",
+          "name": "Piotr Zielinski",
+          "short": "Zielinski",
+          "position": "AM",
+          "photo": "assets/photos/people/piotr-zielinski.jpg"
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "henrikh-mkhitaryan-bologna-inter-2026-10-17",
+          "name": "Henrikh Mkhitaryan",
+          "short": "Mkhitaryan",
+          "position": "ST",
+          "photo": "assets/photos/people/henrikh-mkhitaryan.jpg"
+        },
+        "replaced": {
+          "id": "marcus-thuram-bologna-inter-2026-10-17",
+          "name": "Marcus Thuram",
+          "short": "Thuram",
+          "position": "ST",
+          "photo": "assets/photos/people/marcus-thuram.jpg"
+        }
+      },
+      {
+        "minute": 79,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "carlos-augusto-bologna-inter-2026-10-17",
+          "name": "Carlos Augusto",
+          "short": "Augusto",
+          "position": "LB",
+          "photo": "assets/photos/people/carlos-augusto.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 83,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "ange-yoan-bonny-bologna-inter-2026-10-17",
+          "name": "Ange-Yoan Bonny",
+          "short": "Bonny",
+          "position": "ST",
+          "photo": "assets/photos/people/ange-yoan-bonny.jpg"
+        },
+        "scoreAfter": "1 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "carlos-augusto-bologna-inter-2026-10-17",
+          "name": "Carlos Augusto",
+          "short": "Augusto",
+          "position": "LB",
+          "photo": "assets/photos/people/carlos-augusto.jpg"
+        },
+        "goalType": "build",
+        "description": "Ange-Yoan Bonny right footed shot from the centre of the box to the centre of the goal. Assisted by Carlos Augusto."
+      }
+    ],
+    "stats": {
+      "shots": [
+        11,
+        17
+      ],
+      "onTarget": [
+        4,
+        8
+      ],
+      "corners": [
+        2,
+        7
+      ],
+      "fouls": [
+        8,
+        11
+      ],
+      "possession": 35
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Daniele Doveri",
+      "country": "Italy"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874953",
+      "https://www.espn.com/soccer/match/_/gameId/401874953",
+      "https://www.tuttomercatoweb.com/altre-notizie/bologna-inter-1-3-tabellino-gara-2284428",
+      "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

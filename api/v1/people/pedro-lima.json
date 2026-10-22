@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "pedro-lima",
+    "name": "Pedro Lima",
+    "short": "Lima",
+    "position": "CM",
+    "photo": "assets/photos/people/pedro-lima.jpg",
+    "matches": [
+      {
+        "match": "sporting-lask",
+        "date": "2026-10-21",
+        "team": "Sporting CP",
+        "role": "bench"
+      }
+    ]
+  }
+}

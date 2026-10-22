@@ -1,0 +1,784 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "valencia-athletic-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "21:00",
+    "competition": "LaLiga",
+    "round": "Matchday 9",
+    "status": "FT",
+    "home": {
+      "name": "Valencia",
+      "id": "valencia",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Athletic",
+      "id": "athletic",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Mestalla Stadium",
+      "city": "Valencia",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "javier-aguirre",
+          "name": "Javier Aguirre",
+          "short": "Aguirre",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "stole-dimitrievski",
+            "name": "Stole Dimitrievski",
+            "short": "S. Dimitrievski",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "pablo-maffeo",
+            "name": "Pablo Maffeo",
+            "short": "P. Maffeo",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "cesar-tarrega",
+            "name": "César Tárrega",
+            "short": "C. Tárrega",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.3
+          },
+          {
+            "id": "justin-de-haas",
+            "name": "Justin de Haas",
+            "short": "J. de Haas",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.9
+          },
+          {
+            "id": "jose-gaya",
+            "name": "José Gayà",
+            "short": "J. Gayà",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.2
+          },
+          {
+            "id": "pepelu",
+            "name": "Pepelu",
+            "short": "Pepelu",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.3
+          },
+          {
+            "id": "guido-rodriguez",
+            "name": "Guido Rodríguez",
+            "short": "G. Rodríguez",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.6
+          },
+          {
+            "id": "dani-raba",
+            "name": "Dani Raba",
+            "short": "D. Raba",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.6
+          },
+          {
+            "id": "javier-guerra",
+            "name": "Javier Guerra",
+            "short": "J. Guerra",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "arnaut-danjuma",
+            "name": "Arnaut Danjuma",
+            "short": "A. Danjuma",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 6.5
+          },
+          {
+            "id": "hugo-duro",
+            "name": "Hugo Duro",
+            "short": "H. Duro",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "luis-rioja",
+            "name": "Luis Rioja",
+            "short": "Rioja",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "david-otorbi",
+            "name": "David Otorbi",
+            "short": "Otorbi",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "harvey-elliott",
+            "name": "Harvey Elliott",
+            "short": "Elliott",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "jesus-vazquez",
+            "name": "Jesús Vázquez",
+            "short": "Vázquez",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "filip-ugrinic",
+            "name": "Filip Ugrinic",
+            "short": "Ugrinic",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "ryunosuke-sato",
+            "name": "Ryunosuke Sato",
+            "short": "Sato",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kayne-van-oevelen",
+            "name": "Kayne Van Oevelen",
+            "short": "Oevelen",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "arnau-martinez",
+            "name": "Arnau Martínez",
+            "short": "Martínez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aliou-dieng",
+            "name": "Aliou Dieng",
+            "short": "Dieng",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mouctar-diakhaby",
+            "name": "Mouctar Diakhaby",
+            "short": "Diakhaby",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aaron-mayol",
+            "name": "Aaron Mayol",
+            "short": "Mayol",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aimar-blazquez",
+            "name": "Aimar Blázquez",
+            "short": "Blázquez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "edin-terzic",
+          "name": "Edin Terzić",
+          "short": "Terzić",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "unai-simon",
+            "name": "Unai Simón",
+            "short": "U. Simón",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "hugo-rincon",
+            "name": "Hugo Rincón",
+            "short": "H. Rincón",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "aitor-paredes",
+            "name": "Aitor Paredes",
+            "short": "A. Paredes",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "aymeric-laporte",
+            "name": "Aymeric Laporte",
+            "short": "A. Laporte",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.4
+          },
+          {
+            "id": "johaneko-louis-jean",
+            "name": "Johaneko Louis Jean",
+            "short": "J. Louis Jean",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.2
+          },
+          {
+            "id": "benat-gerenabarrena",
+            "name": "Beñat Gerenabarrena",
+            "short": "B. Gerenabarrena",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 7
+          },
+          {
+            "id": "inigo-ruiz-de-galarreta",
+            "name": "Iñigo Ruiz de Galarreta",
+            "short": "I. Ruiz de Galarreta",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 6.2
+          },
+          {
+            "id": "alex-berenguer",
+            "name": "Álex Berenguer",
+            "short": "Á. Berenguer",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.9
+          },
+          {
+            "id": "peio-canales",
+            "name": "Peio Canales",
+            "short": "P. Canales",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "robert-navarro",
+            "name": "Robert Navarro",
+            "short": "R. Navarro",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 6.8
+          },
+          {
+            "id": "inaki-williams",
+            "name": "Iñaki Williams",
+            "short": "I. Williams",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "mikel-jauregizar",
+            "name": "Mikel Jauregizar",
+            "short": "Jauregizar",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "jesus-areso",
+            "name": "Jesús Areso",
+            "short": "Areso",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "gorka-guruzeta",
+            "name": "Gorka Guruzeta",
+            "short": "Guruzeta",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "alejandro-rego",
+            "name": "Alejandro Rego",
+            "short": "Rego",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "maroan-sannadi",
+            "name": "Maroan Sannadi",
+            "short": "Sannadi",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "christian-imga",
+            "name": "Christian Imga",
+            "short": "Imga",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "yuri-berchiche",
+            "name": "Yuri Berchiche",
+            "short": "Berchiche",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alex-padilla",
+            "name": "Álex Padilla",
+            "short": "Padilla",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dani-vivian",
+            "name": "Dani Vivian",
+            "short": "Vivian",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nico-serrano",
+            "name": "Nico Serrano",
+            "short": "Serrano",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "benat-prados",
+            "name": "Beñat Prados",
+            "short": "Prados",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "yeray",
+            "name": "Yeray",
+            "short": "Yeray",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 19,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "dani-raba",
+          "name": "Dani Raba",
+          "short": "D. Raba",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 38,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "aymeric-laporte",
+          "name": "Aymeric Laporte",
+          "short": "A. Laporte",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 42,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "benat-gerenabarrena",
+          "name": "Beñat Gerenabarrena",
+          "short": "B. Gerenabarrena",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Handball"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mikel-jauregizar",
+          "name": "Mikel Jauregizar",
+          "short": "Jauregizar",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "benat-gerenabarrena",
+          "name": "Beñat Gerenabarrena",
+          "short": "B. Gerenabarrena",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 54,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "luis-rioja",
+          "name": "Luis Rioja",
+          "short": "Rioja",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "dani-raba",
+          "name": "Dani Raba",
+          "short": "D. Raba",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 54,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "david-otorbi",
+          "name": "David Otorbi",
+          "short": "Otorbi",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "hugo-duro",
+          "name": "Hugo Duro",
+          "short": "H. Duro",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 57,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "inigo-ruiz-de-galarreta",
+          "name": "Iñigo Ruiz de Galarreta",
+          "short": "I. Ruiz de Galarreta",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jesus-areso",
+          "name": "Jesús Areso",
+          "short": "Areso",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "johaneko-louis-jean",
+          "name": "Johaneko Louis Jean",
+          "short": "J. Louis Jean",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gorka-guruzeta",
+          "name": "Gorka Guruzeta",
+          "short": "Guruzeta",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "inaki-williams",
+          "name": "Iñaki Williams",
+          "short": "I. Williams",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alejandro-rego",
+          "name": "Alejandro Rego",
+          "short": "Rego",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "inigo-ruiz-de-galarreta",
+          "name": "Iñigo Ruiz de Galarreta",
+          "short": "I. Ruiz de Galarreta",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "maroan-sannadi",
+          "name": "Maroan Sannadi",
+          "short": "Sannadi",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gorka-guruzeta",
+          "name": "Gorka Guruzeta",
+          "short": "Guruzeta",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "harvey-elliott",
+          "name": "Harvey Elliott",
+          "short": "Elliott",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "justin-de-haas",
+          "name": "Justin de Haas",
+          "short": "J. de Haas",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jesus-vazquez",
+          "name": "Jesús Vázquez",
+          "short": "Vázquez",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jose-gaya",
+          "name": "José Gayà",
+          "short": "J. Gayà",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "filip-ugrinic",
+          "name": "Filip Ugrinic",
+          "short": "Ugrinic",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "guido-rodriguez",
+          "name": "Guido Rodríguez",
+          "short": "G. Rodríguez",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "pepelu",
+          "name": "Pepelu",
+          "short": "Pepelu",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "cesar-tarrega",
+          "name": "César Tárrega",
+          "short": "C. Tárrega",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        16,
+        9
+      ],
+      "onTarget": [
+        3,
+        2
+      ],
+      "corners": [
+        2,
+        6
+      ],
+      "fouls": [
+        14,
+        13
+      ],
+      "possession": 37
+    },
+    "attendance": 43223,
+    "referee": {
+      "name": "Adrián Cordero Vega",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882838",
+      "https://www.espn.com/soccer/match/_/gameId/401882838",
+      "https://www.semprevalencia.com/2026/10/valencia-athletic-empate-sin-goles-mestalla-jornada-9/",
+      "https://www.infobae.com/espana/agencias/2026/10/17/0-0-otro-empate-para-el-valencia-y-el-athletic/",
+      "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

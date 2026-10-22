@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "aliou-dieng",
+    "name": "Aliou Dieng",
+    "short": "Dieng",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "valencia-athletic-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Valencia",
+        "role": "bench"
+      }
+    ]
+  }
+}

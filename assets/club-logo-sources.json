@@ -1,0 +1,252 @@
+[
+  {
+    "club": "AEK Athens",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
+    "local": "assets/clubs/887.png"
+  },
+  {
+    "club": "AS Roma",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+    "local": "assets/clubs/104.png"
+  },
+  {
+    "club": "Arsenal",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+    "local": "assets/clubs/359.png"
+  },
+  {
+    "club": "Aston Villa",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+    "local": "assets/clubs/362.png"
+  },
+  {
+    "club": "Atlético Madrid",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+    "local": "assets/clubs/1068.png"
+  },
+  {
+    "club": "Barcelona",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "local": "assets/clubs/83.png"
+  },
+  {
+    "club": "Bayern München",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+    "local": "assets/clubs/132.png"
+  },
+  {
+    "club": "Bodø/Glimt",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
+    "local": "assets/clubs/2980.png"
+  },
+  {
+    "club": "Borussia Dortmund",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+    "local": "assets/clubs/124.png"
+  },
+  {
+    "club": "Club Brugge",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
+    "local": "assets/clubs/570.png"
+  },
+  {
+    "club": "Como",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+    "local": "assets/clubs/2572.png"
+  },
+  {
+    "club": "FC Porto",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+    "local": "assets/clubs/437.png"
+  },
+  {
+    "club": "Fenerbahce",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+    "local": "assets/clubs/436.png"
+  },
+  {
+    "club": "Feyenoord",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+    "local": "assets/clubs/142.png"
+  },
+  {
+    "club": "Galatasaray",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
+    "local": "assets/clubs/432.png"
+  },
+  {
+    "club": "Inter",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+    "local": "assets/clubs/110.png"
+  },
+  {
+    "club": "LASK",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
+    "local": "assets/clubs/4411.png"
+  },
+  {
+    "club": "Lens",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+    "local": "assets/clubs/175.png"
+  },
+  {
+    "club": "Lille",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+    "local": "assets/clubs/166.png"
+  },
+  {
+    "club": "Liverpool",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+    "local": "assets/clubs/364.png"
+  },
+  {
+    "club": "Man City",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+    "local": "assets/clubs/382.png"
+  },
+  {
+    "club": "Man United",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+    "local": "assets/clubs/360.png"
+  },
+  {
+    "club": "Napoli",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+    "local": "assets/clubs/114.png"
+  },
+  {
+    "club": "PSV Eindhoven",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+    "local": "assets/clubs/148.png"
+  },
+  {
+    "club": "PSG",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+    "local": "assets/clubs/160.png"
+  },
+  {
+    "club": "RB Leipzig",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+    "local": "assets/clubs/11420.png"
+  },
+  {
+    "club": "Real Betis",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+    "local": "assets/clubs/244.png"
+  },
+  {
+    "club": "Real Madrid",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "local": "assets/clubs/86.png"
+  },
+  {
+    "club": "Sabah FK",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
+    "local": "assets/clubs/21922.png"
+  },
+  {
+    "club": "Shakhtar Donetsk",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
+    "local": "assets/clubs/493.png"
+  },
+  {
+    "club": "Slavia Prague",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
+    "local": "assets/clubs/494.png"
+  },
+  {
+    "club": "Slovan Bratislava",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
+    "local": "assets/clubs/521.png"
+  },
+  {
+    "club": "Sporting CP",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+    "local": "assets/clubs/2250.png"
+  },
+  {
+    "club": "VfB Stuttgart",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+    "local": "assets/clubs/134.png"
+  },
+  {
+    "club": "Viking",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
+    "local": "assets/clubs/510.png"
+  },
+  {
+    "club": "Villarreal",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+    "local": "assets/clubs/102.png"
+  },
+  {
+    "club": "Brest",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/171.png",
+    "local": "assets/clubs/171.png"
+  },
+  {
+    "club": "Le Havre",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+    "local": "assets/clubs/3236.png"
+  },
+  {
+    "club": "Nice",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+    "local": "assets/clubs/2502.png"
+  },
+  {
+    "club": "Troyes",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
+    "local": "assets/clubs/170.png"
+  },
+  {
+    "club": "LA Galaxy",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
+    "local": "assets/clubs/187.png"
+  },
+  {
+    "club": "LAFC",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
+    "local": "assets/clubs/18966.png"
+  },
+  {
+    "club": "Inter Miami",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
+    "local": "assets/clubs/20232.png"
+  },
+  {
+    "club": "Seattle Sounders",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
+    "local": "assets/clubs/9726.png"
+  },
+  {
+    "club": "Club América",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png",
+    "local": "assets/clubs/227.png"
+  },
+  {
+    "club": "Guadalajara",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png",
+    "local": "assets/clubs/219.png"
+  },
+  {
+    "club": "Tigres UANL",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png",
+    "local": "assets/clubs/232.png"
+  },
+  {
+    "club": "Monterrey",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
+    "local": "assets/clubs/220.png"
+  },
+  {
+    "club": "Colorado Rapids",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
+    "local": "assets/clubs/184.png"
+  },
+  {
+    "club": "Columbus Crew",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
+    "local": "assets/clubs/183.png"
+  }
+]

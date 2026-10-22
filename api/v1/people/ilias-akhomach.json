@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "ilias-akhomach",
+    "name": "Ilias Akhomach",
+    "short": "Akhomach",
+    "position": "CM",
+    "photo": "assets/photos/people/ilias-akhomach.jpg",
+    "matches": [
+      {
+        "match": "liverpool-villarreal",
+        "date": "2026-10-20",
+        "team": "Villarreal",
+        "role": "bench"
+      }
+    ]
+  }
+}

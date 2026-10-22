@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "ibrahima-konate-france-spain-2026-07-14",
+    "name": "Ibrahima Konaté",
+    "short": "Konaté",
+    "position": "CM",
+    "photo": "assets/photos/people/ibrahima-konate.jpg",
+    "matches": [
+      {
+        "match": "france-spain-2026-07-14",
+        "date": "2026-07-14",
+        "team": "France",
+        "role": "bench"
+      }
+    ]
+  }
+}

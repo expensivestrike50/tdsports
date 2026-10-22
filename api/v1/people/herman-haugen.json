@@ -1,0 +1,24 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "herman-haugen",
+    "name": "Herman Haugen",
+    "short": "Haugen",
+    "position": "RB",
+    "photo": "assets/photos/people/herman-haugen.jpg",
+    "matches": [
+      {
+        "match": "villa-viking",
+        "date": "2026-10-21",
+        "team": "Viking",
+        "role": "starter"
+      },
+      {
+        "match": "villa-viking",
+        "date": "2026-10-21",
+        "team": "Viking",
+        "role": "bench"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "marash-kumbulla",
+    "name": "Marash Kumbulla",
+    "short": "Kumbulla",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "getafe-rayo-2026-10-19",
+        "date": "2026-10-19",
+        "team": "Rayo",
+        "role": "bench"
+      }
+    ]
+  }
+}

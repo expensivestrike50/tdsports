@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "hiroki-ito-bayern-munchen-rb-leipzig-2026-10-17",
+    "name": "Hiroki Ito",
+    "short": "Ito",
+    "position": "CM",
+    "photo": "assets/photos/people/hiroki-ito.jpg",
+    "matches": [
+      {
+        "match": "bayern-munchen-rb-leipzig-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Bayern München",
+        "role": "bench"
+      }
+    ]
+  }
+}

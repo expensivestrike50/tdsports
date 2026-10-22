@@ -1,0 +1,874 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "sporting-lask",
+    "date": "2026-10-21",
+    "kickoff": "20:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Sporting CP",
+      "id": "sporting-cp",
+      "crest": "assets/clubs/2250.png",
+      "country": "PT"
+    },
+    "away": {
+      "name": "LASK",
+      "id": "lask",
+      "crest": "assets/clubs/4411.png",
+      "country": "AT"
+    },
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estádio José Alvalade",
+      "city": "Lisbon",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "rui-borges",
+          "name": "Rui Borges",
+          "short": "Borges",
+          "position": "Coach",
+          "photo": "assets/photos/people/rui-borges.jpg"
+        },
+        "starting": [
+          {
+            "id": "kaique",
+            "name": "Kaique",
+            "short": "Kaique",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "maxi-araujo",
+            "name": "Maxi Araújo",
+            "short": "Araújo",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "goncalo-inacio",
+            "name": "Gonçalo Inácio",
+            "short": "Inácio",
+            "position": "CB",
+            "photo": "assets/photos/people/goncalo-inacio.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 7
+          },
+          {
+            "id": "eduardo-quaresma",
+            "name": "Eduardo Quaresma",
+            "short": "Quaresma",
+            "position": "CB",
+            "photo": "assets/photos/people/eduardo-quaresma.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 7.2
+          },
+          {
+            "id": "ivan-fresneda",
+            "name": "Iván Fresneda",
+            "short": "Fresneda",
+            "position": "RB",
+            "photo": "assets/photos/people/ivan-fresneda.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "issa-doumbia",
+            "name": "Issa Doumbia",
+            "short": "Doumbia",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 23,
+            "rating": 6.3
+          },
+          {
+            "id": "sergi-altimira",
+            "name": "Sergi Altimira",
+            "short": "Altimira",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "joao-simoes",
+            "name": "João Simões",
+            "short": "Simões",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 78,
+            "rating": 7.1
+          },
+          {
+            "id": "nestory-irankunda",
+            "name": "Nestory Irankunda",
+            "short": "Irankunda",
+            "position": "LW",
+            "photo": "assets/photos/people/nestory-irankunda.jpg",
+            "x": 46,
+            "y": 23,
+            "rating": 7.3
+          },
+          {
+            "id": "luis-suarez",
+            "name": "Luis Suárez",
+            "short": "Suárez",
+            "position": "ST",
+            "photo": "assets/photos/people/luis-suarez.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 8.1
+          },
+          {
+            "id": "geny-catamo",
+            "name": "Geny Catamo",
+            "short": "Catamo",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "flavio-goncalves",
+            "name": "Flávio Gonçalves",
+            "short": "Gonçalves",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "luis-guilherme",
+            "name": "Luis Guilherme",
+            "short": "Guilherme",
+            "position": "RW",
+            "photo": "assets/photos/people/luis-guilherme.jpg",
+            "rating": 6.2
+          },
+          {
+            "id": "jesse-derry",
+            "name": "Jesse Derry",
+            "short": "Derry",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "fotis-ioannidis",
+            "name": "Fotis Ioannidis",
+            "short": "Ioannidis",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "ibrahima-ba",
+            "name": "Ibrahima Ba",
+            "short": "Ba",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "pedro-lima",
+            "name": "Pedro Lima",
+            "short": "Lima",
+            "position": "CM",
+            "photo": "assets/photos/people/pedro-lima.jpg",
+            "rating": null
+          },
+          {
+            "id": "eduardo-felicissimo",
+            "name": "Eduardo Felicíssimo",
+            "short": "Felicíssimo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "georgios-vagiannidis",
+            "name": "Georgios Vagiannidis",
+            "short": "Vagiannidis",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rodrigo-dias",
+            "name": "Rodrigo Dias",
+            "short": "Dias",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "silas-andersen",
+            "name": "Silas Andersen",
+            "short": "Andersen",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rafael-nel",
+            "name": "Rafael Nel",
+            "short": "Nel",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rui-silva",
+            "name": "Rui Silva",
+            "short": "Silva",
+            "position": "CM",
+            "photo": "assets/photos/people/rui-silva.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-3",
+        "coach": {
+          "id": "dietmar-kuhbauer",
+          "name": "Dietmar Kühbauer",
+          "short": "Kühbauer",
+          "position": "Coach",
+          "photo": "assets/photos/people/dietmar-kuhbauer.jpg"
+        },
+        "starting": [
+          {
+            "id": "lukas-jungwirth",
+            "name": "Lukas Jungwirth",
+            "short": "Jungwirth",
+            "position": "GK",
+            "photo": "assets/photos/people/lukas-jungwirth.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "andres-andrade",
+            "name": "Andrés Andrade",
+            "short": "Andrade",
+            "position": "CB",
+            "photo": "assets/photos/people/andres-andrade.jpg",
+            "x": 82,
+            "y": 77,
+            "rating": 7.5
+          },
+          {
+            "id": "alemao",
+            "name": "Alemão",
+            "short": "Alemão",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "xavier-mbuyamba",
+            "name": "Xavier Mbuyamba",
+            "short": "Mbuyamba",
+            "position": "CB",
+            "photo": "assets/photos/people/xavier-mbuyamba.jpg",
+            "x": 82,
+            "y": 22,
+            "rating": 7
+          },
+          {
+            "id": "yvan-dibango",
+            "name": "Yvan Dibango",
+            "short": "Dibango",
+            "position": "LB",
+            "photo": "assets/photos/people/yvan-dibango.jpg",
+            "x": 68,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "sascha-horvath",
+            "name": "Sascha Horvath",
+            "short": "Horvath",
+            "position": "CM",
+            "photo": "assets/photos/people/sascha-horvath.jpg",
+            "x": 68,
+            "y": 62,
+            "rating": 6.4
+          },
+          {
+            "id": "robert-ljubicic",
+            "name": "Robert Ljubicic",
+            "short": "Ljubicic",
+            "position": "CM",
+            "photo": "assets/photos/people/robert-ljubicic.jpg",
+            "x": 68,
+            "y": 36,
+            "rating": 7.8
+          },
+          {
+            "id": "kasper-jrgensen",
+            "name": "Kasper Jørgensen",
+            "short": "Jørgensen",
+            "position": "RB",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 7.9
+          },
+          {
+            "id": "christoph-lang",
+            "name": "Christoph Lang",
+            "short": "Lang",
+            "position": "LW",
+            "photo": null,
+            "x": 54,
+            "y": 77,
+            "rating": 8.1
+          },
+          {
+            "id": "sasa-kalajdzic",
+            "name": "Sasa Kalajdzic",
+            "short": "Kalajdzic",
+            "position": "ST",
+            "photo": "assets/photos/people/sasa-kalajdzic.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 7.8
+          },
+          {
+            "id": "krystof-danek",
+            "name": "Krystof Danek",
+            "short": "Danek",
+            "position": "RW",
+            "photo": "assets/photos/people/krystof-danek.jpg",
+            "x": 54,
+            "y": 22,
+            "rating": 8.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "tobias-schutzenauer",
+            "name": "Tobias Schützenauer",
+            "short": "Schützenauer",
+            "position": "GK",
+            "photo": "assets/photos/people/tobias-schutzenauer.jpg",
+            "rating": 7
+          },
+          {
+            "id": "alessandro-schopf",
+            "name": "Alessandro Schöpf",
+            "short": "Schöpf",
+            "position": "CM",
+            "photo": "assets/photos/people/alessandro-schopf.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "samuel-adeniran",
+            "name": "Samuel Adeniran",
+            "short": "Adeniran",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "moses-usor",
+            "name": "Moses Usor",
+            "short": "Usor",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "florian-flecker",
+            "name": "Florian Flecker",
+            "short": "Flecker",
+            "position": "RB",
+            "photo": "assets/photos/people/florian-flecker.jpg",
+            "rating": 6.9
+          },
+          {
+            "id": "manoel-louis-philippe-verhaeghe",
+            "name": "Manoël Louis-Philippe Verhaeghe",
+            "short": "Verhaeghe",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "christof-katzmayr",
+            "name": "Christof Katzmayr",
+            "short": "Katzmayr",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "melayro-bogarde",
+            "name": "Melayro Bogarde",
+            "short": "Bogarde",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nael-kane",
+            "name": "Nael Kane",
+            "short": "Kane",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "daniel-elfadli",
+            "name": "Daniel Elfadli",
+            "short": "Elfadli",
+            "position": "CM",
+            "photo": "assets/photos/people/daniel-elfadli.jpg",
+            "rating": null
+          },
+          {
+            "id": "miguel-freckleton",
+            "name": "Miguel Freckleton",
+            "short": "Freckleton",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 5,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "luis-suarez",
+          "name": "Luis Suárez",
+          "short": "Suárez",
+          "position": "ST",
+          "photo": "assets/photos/people/luis-suarez.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "set",
+        "description": "Nestory Irankunda was fouled in the box by Robert Ljubicic; Luis Suárez converted the resulting penalty with a right-footed shot into the bottom left corner."
+      },
+      {
+        "minute": 15,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "christoph-lang",
+          "name": "Christoph Lang",
+          "short": "Lang",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "kasper-jrgensen",
+          "name": "Kasper Jørgensen",
+          "short": "Jørgensen",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Kasper Jørgensen set up Christoph Lang, who levelled with a right-footed shot from the centre of the box into the bottom left corner."
+      },
+      {
+        "minute": 33,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "christoph-lang",
+          "name": "Christoph Lang",
+          "short": "Lang",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "sascha-horvath",
+          "name": "Sascha Horvath",
+          "short": "Horvath",
+          "position": "CM",
+          "photo": "assets/photos/people/sascha-horvath.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 52,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "tobias-schutzenauer",
+          "name": "Tobias Schützenauer",
+          "short": "Schützenauer",
+          "position": "GK",
+          "photo": "assets/photos/people/tobias-schutzenauer.jpg"
+        },
+        "replaced": {
+          "id": "lukas-jungwirth",
+          "name": "Lukas Jungwirth",
+          "short": "Jungwirth",
+          "position": "GK",
+          "photo": "assets/photos/people/lukas-jungwirth.jpg"
+        }
+      },
+      {
+        "minute": 63,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "sasa-kalajdzic",
+          "name": "Sasa Kalajdzic",
+          "short": "Kalajdzic",
+          "position": "ST",
+          "photo": "assets/photos/people/sasa-kalajdzic.jpg"
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "robert-ljubicic",
+          "name": "Robert Ljubicic",
+          "short": "Ljubicic",
+          "position": "CM",
+          "photo": "assets/photos/people/robert-ljubicic.jpg"
+        },
+        "goalType": "counter",
+        "description": "LASK broke quickly and Robert Ljubicic teed up Sasa Kalajdzic, who finished right-footed from the centre of the box into the bottom left corner."
+      },
+      {
+        "minute": 64,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "issa-doumbia",
+          "name": "Issa Doumbia",
+          "short": "Doumbia",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alessandro-schopf",
+          "name": "Alessandro Schöpf",
+          "short": "Schöpf",
+          "position": "CM",
+          "photo": "assets/photos/people/alessandro-schopf.jpg"
+        },
+        "replaced": {
+          "id": "sascha-horvath",
+          "name": "Sascha Horvath",
+          "short": "Horvath",
+          "position": "CM",
+          "photo": "assets/photos/people/sascha-horvath.jpg"
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "samuel-adeniran",
+          "name": "Samuel Adeniran",
+          "short": "Adeniran",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "christoph-lang",
+          "name": "Christoph Lang",
+          "short": "Lang",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "joao-simoes",
+          "name": "João Simões",
+          "short": "Simões",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "flavio-goncalves",
+          "name": "Flávio Gonçalves",
+          "short": "Gonçalves",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "joao-simoes",
+          "name": "João Simões",
+          "short": "Simões",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "krystof-danek",
+          "name": "Krystof Danek",
+          "short": "Danek",
+          "position": "RW",
+          "photo": "assets/photos/people/krystof-danek.jpg"
+        },
+        "scoreAfter": "1 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "samuel-adeniran",
+          "name": "Samuel Adeniran",
+          "short": "Adeniran",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Another fast break: substitute Samuel Adeniran found Krystof Danek, who fired left-footed from the right side of the box into the bottom right corner."
+      },
+      {
+        "minute": 72,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "sasa-kalajdzic",
+          "name": "Sasa Kalajdzic",
+          "short": "Kalajdzic",
+          "position": "ST",
+          "photo": "assets/photos/people/sasa-kalajdzic.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "luis-guilherme",
+          "name": "Luis Guilherme",
+          "short": "Guilherme",
+          "position": "RW",
+          "photo": "assets/photos/people/luis-guilherme.jpg"
+        },
+        "replaced": {
+          "id": "geny-catamo",
+          "name": "Geny Catamo",
+          "short": "Catamo",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jesse-derry",
+          "name": "Jesse Derry",
+          "short": "Derry",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nestory-irankunda",
+          "name": "Nestory Irankunda",
+          "short": "Irankunda",
+          "position": "LW",
+          "photo": "assets/photos/people/nestory-irankunda.jpg"
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "fotis-ioannidis",
+          "name": "Fotis Ioannidis",
+          "short": "Ioannidis",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "issa-doumbia",
+          "name": "Issa Doumbia",
+          "short": "Doumbia",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "moses-usor",
+          "name": "Moses Usor",
+          "short": "Usor",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sasa-kalajdzic",
+          "name": "Sasa Kalajdzic",
+          "short": "Kalajdzic",
+          "position": "ST",
+          "photo": "assets/photos/people/sasa-kalajdzic.jpg"
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "florian-flecker",
+          "name": "Florian Flecker",
+          "short": "Flecker",
+          "position": "RB",
+          "photo": "assets/photos/people/florian-flecker.jpg"
+        },
+        "replaced": {
+          "id": "kasper-jrgensen",
+          "name": "Kasper Jørgensen",
+          "short": "Jørgensen",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "luis-suarez",
+          "name": "Luis Suárez",
+          "short": "Suárez",
+          "position": "ST",
+          "photo": "assets/photos/people/luis-suarez.jpg"
+        },
+        "scoreAfter": "2 - 3",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Late Sporting pressure: after Jesse Derry's close-range header from a Suárez assist was saved by Tobias Schützenauer, Luis Suárez poked home a left-footed finish from very close range."
+      },
+      {
+        "minute": 89,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "tobias-schutzenauer",
+          "name": "Tobias Schützenauer",
+          "short": "Schützenauer",
+          "position": "GK",
+          "photo": "assets/photos/people/tobias-schutzenauer.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 91,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "krystof-danek",
+          "name": "Krystof Danek",
+          "short": "Danek",
+          "position": "RW",
+          "photo": "assets/photos/people/krystof-danek.jpg"
+        },
+        "detail": "Foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        16,
+        11
+      ],
+      "onTarget": [
+        4,
+        7
+      ],
+      "corners": [
+        7,
+        4
+      ],
+      "fouls": [
+        10,
+        22
+      ],
+      "possession": 62
+    },
+    "attendance": 48985,
+    "referee": {
+      "name": "Nicholas Walsh",
+      "country": "Scotland"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401915391",
+      "https://www.espn.com/soccer/report/_/gameId/401915391",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915391",
+      "https://www.uefa.com/uefachampionsleague/match/2049601/",
+      "https://match.uefa.com/v5/matches/2049601/lineups",
+      "https://match.uefa.com/v5/matches?competitionId=1&fromDate=2026-10-21&toDate=2026-10-21"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

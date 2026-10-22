@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "maghnes-akliouche-strasbourg-psg-2026-10-17",
+    "name": "Maghnes Akliouche",
+    "short": "Akliouche",
+    "position": "RW",
+    "photo": "assets/photos/people/maghnes-akliouche.jpg",
+    "matches": [
+      {
+        "match": "strasbourg-psg-2026-10-17",
+        "date": "2026-10-17",
+        "team": "PSG",
+        "role": "starter"
+      }
+    ]
+  }
+}

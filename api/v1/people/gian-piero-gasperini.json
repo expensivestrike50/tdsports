@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "gian-piero-gasperini",
+    "name": "Gian Piero Gasperini",
+    "short": "Gasperini",
+    "position": "Coach",
+    "photo": null,
+    "matches": [
+      {
+        "match": "as-roma-slovan-bratislava-2026-10-20",
+        "date": "2026-10-20",
+        "team": "AS Roma",
+        "role": "coach"
+      }
+    ]
+  }
+}

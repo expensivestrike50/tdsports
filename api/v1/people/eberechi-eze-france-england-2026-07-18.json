@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "eberechi-eze-france-england-2026-07-18",
+    "name": "Eberechi Eze",
+    "short": "Eze",
+    "position": "CM",
+    "photo": "assets/photos/people/eberechi-eze.jpg",
+    "matches": [
+      {
+        "match": "france-england-2026-07-18",
+        "date": "2026-07-18",
+        "team": "England",
+        "role": "starter"
+      }
+    ]
+  }
+}

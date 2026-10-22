@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "alex-campos",
+    "name": "Álex Campos",
+    "short": "Campos",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "psg-barcelona",
+        "date": "2026-10-20",
+        "team": "Barcelona",
+        "role": "bench"
+      }
+    ]
+  }
+}

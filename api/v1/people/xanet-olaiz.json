@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "xanet-olaiz",
+    "name": "Xanet Oláiz",
+    "short": "Oláiz",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "celta-vigo-alaves-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Alavés",
+        "role": "bench"
+      }
+    ]
+  }
+}

@@ -1,0 +1,755 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "santos-unam-2026-10-21",
+    "date": "2026-10-21",
+    "kickoff": "21:10",
+    "competition": "Liga MX",
+    "round": "Apertura, jornada 13",
+    "status": "FT",
+    "home": {
+      "name": "Santos",
+      "id": "santos",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/225.png",
+      "country": "MX"
+    },
+    "away": {
+      "name": "UNAM",
+      "id": "unam",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
+      "country": "MX"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio Corona",
+      "city": "Torreón",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-3",
+        "coach": {
+          "id": "renato-paiva",
+          "name": "Renato Paiva",
+          "short": "Paiva",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "carlos-acevedo",
+            "name": "Carlos Acevedo",
+            "short": "Acevedo",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "efrain-orona",
+            "name": "Efraín Orona",
+            "short": "Orona",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 6.4
+          },
+          {
+            "id": "felipe-sanchez",
+            "name": "Felipe Sanchez",
+            "short": "Sanchez",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "franco-pardo",
+            "name": "Franco Pardo",
+            "short": "Pardo",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 8.6
+          },
+          {
+            "id": "diego-gonzalez",
+            "name": "Diego González",
+            "short": "González",
+            "position": "LB",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 7.6
+          },
+          {
+            "id": "facundo-caseres",
+            "name": "Facundo Cáseres",
+            "short": "Cáseres",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 6.3
+          },
+          {
+            "id": "francisco-villalba",
+            "name": "Francisco Villalba",
+            "short": "Villalba",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 7.3
+          },
+          {
+            "id": "mauricio-cuevas",
+            "name": "Mauricio Cuevas",
+            "short": "Cuevas",
+            "position": "RB",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 6.5
+          },
+          {
+            "id": "ezequiel-bullaude",
+            "name": "Ezequiel Bullaude",
+            "short": "Bullaude",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 7.3
+          },
+          {
+            "id": "tahiel-jimenez",
+            "name": "Tahiel Jiménez",
+            "short": "Jiménez",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "eduardo-aguirre",
+            "name": "Eduardo Aguirre",
+            "short": "Aguirre",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 8.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "jonathan-perez-santos-unam-2026-10-21",
+            "name": "Jonathan Pérez",
+            "short": "Pérez",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "emmanuel-echeverria",
+            "name": "Emmanuel Echeverría",
+            "short": "Echeverría",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "esteban-lozano",
+            "name": "Esteban Lozano",
+            "short": "Lozano",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "rodrigo-lopez",
+            "name": "Rodrigo López",
+            "short": "López",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "luis-gomez",
+            "name": "Luis Gómez",
+            "short": "Gómez",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "kevin-palacios",
+            "name": "Kevin Palacios",
+            "short": "Palacios",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "hector-holguin-perez",
+            "name": "Hector Holguin Perez",
+            "short": "Perez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "salvador-mariscal",
+            "name": "Salvador Mariscal",
+            "short": "Mariscal",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jose-abella",
+            "name": "José Abella",
+            "short": "Abella",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "javier-guemez",
+            "name": "Javier Güemez",
+            "short": "Güemez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-4-1",
+        "coach": {
+          "id": "esteban-solari",
+          "name": "Esteban Solari",
+          "short": "Solari",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "keylor-navas",
+            "name": "Keylor Navas",
+            "short": "Navas",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "pablo-bennevendo",
+            "name": "Pablo Bennevendo",
+            "short": "Bennevendo",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 92,
+            "rating": 6.7
+          },
+          {
+            "id": "ruben-duarte",
+            "name": "Rubén Duarte",
+            "short": "Duarte",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 71,
+            "rating": 6.9
+          },
+          {
+            "id": "nathan-silva",
+            "name": "Nathan Silva",
+            "short": "Silva",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 5.6
+          },
+          {
+            "id": "rodrigo-lopez",
+            "name": "Rodrigo López",
+            "short": "López",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 29,
+            "rating": 7.4
+          },
+          {
+            "id": "uriel-antuna",
+            "name": "Uriel Antuna",
+            "short": "Antuna",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 8,
+            "rating": 7.1
+          },
+          {
+            "id": "cesar-huerta",
+            "name": "César Huerta",
+            "short": "Huerta",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "pedro-vite",
+            "name": "Pedro Vite",
+            "short": "Vite",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 7
+          },
+          {
+            "id": "adalberto-carrasquilla",
+            "name": "Adalberto Carrasquilla",
+            "short": "Carrasquilla",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 7.4
+          },
+          {
+            "id": "juninho",
+            "name": "Juninho",
+            "short": "Juninho",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "robert-morales",
+            "name": "Robert Morales",
+            "short": "Morales",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "victor-arteaga",
+            "name": "Victor Arteaga",
+            "short": "Arteaga",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "alvaro-angulo",
+            "name": "Álvaro Angulo",
+            "short": "Angulo",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "rodrigo-lopez",
+            "name": "Rodrigo López",
+            "short": "López",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "antonio-leone",
+            "name": "Antonio Leone",
+            "short": "Leone",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "pablo-lara",
+            "name": "Pablo Lara",
+            "short": "Lara",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luciano-herrera",
+            "name": "Luciano Herrera",
+            "short": "Herrera",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "israel-luna",
+            "name": "Israel Luna",
+            "short": "Luna",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "angel-azuaje",
+            "name": "Angel Azuaje",
+            "short": "Azuaje",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jesus-rivas",
+            "name": "Jesús Rivas",
+            "short": "Rivas",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alan-medina",
+            "name": "Alan Medina",
+            "short": "Medina",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 2,
+        "type": "red_card",
+        "team": "away",
+        "player": {
+          "id": "nathan-silva",
+          "name": "Nathan Silva",
+          "short": "Silva",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul in the penalty area (penalty conceded)"
+      },
+      {
+        "minute": 6,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "eduardo-aguirre",
+          "name": "Eduardo Aguirre",
+          "short": "Aguirre",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Eduardo Aguirre converted the penalty with a right-footed shot into the bottom right corner. The kick was awarded when Nathan Silva fouled Ezequiel Bullaude in the box in the 2nd minute, for which Silva was sent off."
+      },
+      {
+        "minute": 21,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jonathan-perez-santos-unam-2026-10-21",
+          "name": "Jonathan Pérez",
+          "short": "Pérez",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "efrain-orona",
+          "name": "Efraín Orona",
+          "short": "Orona",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 42,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "diego-gonzalez",
+          "name": "Diego González",
+          "short": "González",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "emmanuel-echeverria",
+          "name": "Emmanuel Echeverría",
+          "short": "Echeverría",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "diego-gonzalez",
+          "name": "Diego González",
+          "short": "González",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 50,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "victor-arteaga",
+          "name": "Victor Arteaga",
+          "short": "Arteaga",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adalberto-carrasquilla",
+          "name": "Adalberto Carrasquilla",
+          "short": "Carrasquilla",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "mauricio-cuevas",
+          "name": "Mauricio Cuevas",
+          "short": "Cuevas",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "esteban-lozano",
+          "name": "Esteban Lozano",
+          "short": "Lozano",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tahiel-jimenez",
+          "name": "Tahiel Jiménez",
+          "short": "Jiménez",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "rodrigo-lopez",
+          "name": "Rodrigo López",
+          "short": "López",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "francisco-villalba",
+          "name": "Francisco Villalba",
+          "short": "Villalba",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alvaro-angulo",
+          "name": "Álvaro Angulo",
+          "short": "Angulo",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rodrigo-lopez",
+          "name": "Rodrigo López",
+          "short": "López",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "franco-pardo",
+          "name": "Franco Pardo",
+          "short": "Pardo",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Franco Pardo sent his right-footed penalty into the centre of the goal after Rubén Duarte was penalised for handball in the area."
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "luis-gomez",
+          "name": "Luis Gómez",
+          "short": "Gómez",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "eduardo-aguirre",
+          "name": "Eduardo Aguirre",
+          "short": "Aguirre",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "robert-morales",
+          "name": "Robert Morales",
+          "short": "Morales",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "rodrigo-lopez",
+          "name": "Rodrigo López",
+          "short": "López",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "juninho",
+          "name": "Juninho",
+          "short": "Juninho",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "antonio-leone",
+          "name": "Antonio Leone",
+          "short": "Leone",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pablo-bennevendo",
+          "name": "Pablo Bennevendo",
+          "short": "Bennevendo",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "emmanuel-echeverria",
+          "name": "Emmanuel Echeverría",
+          "short": "Echeverría",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        9,
+        5
+      ],
+      "onTarget": [
+        2,
+        1
+      ],
+      "corners": [
+        9,
+        3
+      ],
+      "fouls": [
+        15,
+        9
+      ],
+      "possession": 65
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Guillermo Pacheco Larios",
+      "country": "Mexico"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876929",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876929",
+      "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+      "https://www.enjuegodeportes.com/liga-mx/solari-tras-la-expulsion-de-nathan-silva-fue-escandaloso",
+      "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+      "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

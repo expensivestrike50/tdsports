@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "carlos-macia",
+    "name": "Carlos Macià",
+    "short": "Macià",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "liverpool-villarreal",
+        "date": "2026-10-20",
+        "team": "Villarreal",
+        "role": "bench"
+      }
+    ]
+  }
+}

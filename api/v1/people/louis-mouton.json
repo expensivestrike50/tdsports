@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "louis-mouton",
+    "name": "Louis Mouton",
+    "short": "Mouton",
+    "position": "AM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "angers-marseille-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Angers",
+        "role": "starter"
+      }
+    ]
+  }
+}

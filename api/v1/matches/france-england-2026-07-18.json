@@ -1,0 +1,952 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "france-england-2026-07-18",
+    "date": "2026-07-18",
+    "kickoff": "17:00",
+    "competition": "FIFA World Cup",
+    "round": "Third place",
+    "status": "FT",
+    "home": {
+      "name": "France",
+      "id": "france",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "England",
+      "id": "england",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 4,
+      "away": 6
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "city": "Miami Gardens, Florida",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "didier-deschamps-france-england-2026-07-18",
+          "name": "Didier Deschamps",
+          "short": "Deschamps",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "mike-maignan-france-england-2026-07-18",
+            "name": "Mike Maignan",
+            "short": "Maignan",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "theo-hernandez-france-england-2026-07-18",
+            "name": "Theo Hernández",
+            "short": "T. Hernández",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "maxence-lacroix-france-england-2026-07-18",
+            "name": "Maxence Lacroix",
+            "short": "Lacroix",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.8
+          },
+          {
+            "id": "ibrahima-konate-france-england-2026-07-18",
+            "name": "Ibrahima Konaté",
+            "short": "Konaté",
+            "position": "CB",
+            "photo": "assets/photos/people/ibrahima-konate.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 6.2
+          },
+          {
+            "id": "malo-gusto-france-england-2026-07-18",
+            "name": "Malo Gusto",
+            "short": "Gusto",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "adrien-rabiot-france-england-2026-07-18",
+            "name": "Adrien Rabiot",
+            "short": "Rabiot",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.3
+          },
+          {
+            "id": "warren-zaire-emery-france-england-2026-07-18",
+            "name": "Warren Zaïre-Emery",
+            "short": "Zaïre-Emery",
+            "position": "DM",
+            "photo": "assets/photos/people/warren-zaire-emery.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 6.5
+          },
+          {
+            "id": "desire-doue-france-england-2026-07-18",
+            "name": "Désiré Doué",
+            "short": "Doué",
+            "position": "LW",
+            "photo": "assets/photos/people/desire-doue.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 7.5
+          },
+          {
+            "id": "rayan-cherki-france-england-2026-07-18",
+            "name": "Rayan Cherki",
+            "short": "Cherki",
+            "position": "AM",
+            "photo": "assets/photos/people/rayan-cherki.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "michael-olise-france-england-2026-07-18",
+            "name": "Michael Olise",
+            "short": "Olise",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.3
+          },
+          {
+            "id": "kylian-mbappe-france-england-2026-07-18",
+            "name": "Kylian Mbappé",
+            "short": "Mbappé",
+            "position": "ST",
+            "photo": "assets/photos/people/kylian-mbappe.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 8.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "ousmane-dembele-france-england-2026-07-18",
+            "name": "Ousmane Dembélé",
+            "short": "Dembélé",
+            "position": "AM",
+            "photo": "assets/photos/people/ousmane-dembele.jpg",
+            "rating": 8.2
+          },
+          {
+            "id": "bradley-barcola-france-england-2026-07-18",
+            "name": "Bradley Barcola",
+            "short": "Barcola",
+            "position": "LW",
+            "photo": "assets/photos/people/bradley-barcola.jpg",
+            "rating": 7.7
+          },
+          {
+            "id": "lucas-digne-france-england-2026-07-18",
+            "name": "Lucas Digne",
+            "short": "Digne",
+            "position": "LB",
+            "photo": "assets/photos/people/lucas-digne.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "dayot-upamecano-france-england-2026-07-18",
+            "name": "Dayot Upamecano",
+            "short": "Upamecano",
+            "position": "CB",
+            "photo": "assets/photos/people/dayot-upamecano.jpg",
+            "rating": 7.4
+          },
+          {
+            "id": "jules-kounde-france-england-2026-07-18",
+            "name": "Jules Koundé",
+            "short": "Koundé",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "marcus-thuram-france-england-2026-07-18",
+            "name": "Marcus Thuram",
+            "short": "Thuram",
+            "position": "CM",
+            "photo": "assets/photos/people/marcus-thuram.jpg",
+            "rating": null
+          },
+          {
+            "id": "robin-risser-france-england-2026-07-18",
+            "name": "Robin Risser",
+            "short": "Risser",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "manu-kone-france-england-2026-07-18",
+            "name": "Manu Koné",
+            "short": "Koné",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "maghnes-akliouche-france-england-2026-07-18",
+            "name": "Maghnes Akliouche",
+            "short": "Akliouche",
+            "position": "CM",
+            "photo": "assets/photos/people/maghnes-akliouche.jpg",
+            "rating": null
+          },
+          {
+            "id": "jean-philippe-mateta-france-england-2026-07-18",
+            "name": "Jean-Philippe Mateta",
+            "short": "Mateta",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "brice-samba-france-england-2026-07-18",
+            "name": "Brice Samba",
+            "short": "Samba",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "william-saliba-france-england-2026-07-18",
+            "name": "William Saliba",
+            "short": "Saliba",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "n-golo-kante-france-england-2026-07-18",
+            "name": "N'Golo Kanté",
+            "short": "Kanté",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lucas-hernandez-france-england-2026-07-18",
+            "name": "Lucas Hernández",
+            "short": "Hernández",
+            "position": "CM",
+            "photo": "assets/photos/people/lucas-hernandez.jpg",
+            "rating": null
+          },
+          {
+            "id": "aurelien-tchouameni-france-england-2026-07-18",
+            "name": "Aurélien Tchouaméni",
+            "short": "Tchouaméni",
+            "position": "CM",
+            "photo": "assets/photos/people/aurelien-tchouameni.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-1-4-1",
+        "coach": {
+          "id": "thomas-tuchel-france-england-2026-07-18",
+          "name": "Thomas Tuchel",
+          "short": "Tuchel",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "dean-henderson-france-england-2026-07-18",
+            "name": "Dean Henderson",
+            "short": "Henderson",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "djed-spence-france-england-2026-07-18",
+            "name": "Djed Spence",
+            "short": "Spence",
+            "position": "LB",
+            "photo": "assets/photos/people/djed-spence.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "marc-guehi-france-england-2026-07-18",
+            "name": "Marc Guéhi",
+            "short": "Guéhi",
+            "position": "CB",
+            "photo": "assets/photos/people/marc-guehi.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 7.6
+          },
+          {
+            "id": "ezri-konsa-france-england-2026-07-18",
+            "name": "Ezri Konsa",
+            "short": "Konsa",
+            "position": "CB",
+            "photo": "assets/photos/people/ezri-konsa.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 7.8
+          },
+          {
+            "id": "jarell-quansah-france-england-2026-07-18",
+            "name": "Jarell Quansah",
+            "short": "Quansah",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.4
+          },
+          {
+            "id": "declan-rice-france-england-2026-07-18",
+            "name": "Declan Rice",
+            "short": "Rice",
+            "position": "DM",
+            "photo": "assets/photos/people/declan-rice.jpg",
+            "x": 73,
+            "y": 50,
+            "rating": 9
+          },
+          {
+            "id": "marcus-rashford-france-england-2026-07-18",
+            "name": "Marcus Rashford",
+            "short": "Rashford",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 88,
+            "rating": 8.1
+          },
+          {
+            "id": "eberechi-eze-france-england-2026-07-18",
+            "name": "Eberechi Eze",
+            "short": "Eze",
+            "position": "CM",
+            "photo": "assets/photos/people/eberechi-eze.jpg",
+            "x": 63,
+            "y": 62,
+            "rating": 7.3
+          },
+          {
+            "id": "morgan-rogers-france-england-2026-07-18",
+            "name": "Morgan Rogers",
+            "short": "Rogers",
+            "position": "CM",
+            "photo": null,
+            "x": 63,
+            "y": 36,
+            "rating": 7
+          },
+          {
+            "id": "bukayo-saka-france-england-2026-07-18",
+            "name": "Bukayo Saka",
+            "short": "Saka",
+            "position": "RW",
+            "photo": "assets/photos/people/bukayo-saka.jpg",
+            "x": 63,
+            "y": 12,
+            "rating": 9.6
+          },
+          {
+            "id": "ivan-toney-france-england-2026-07-18",
+            "name": "Ivan Toney",
+            "short": "Toney",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "ollie-watkins-france-england-2026-07-18",
+            "name": "Ollie Watkins",
+            "short": "Watkins",
+            "position": "LW",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "elliot-anderson-france-england-2026-07-18",
+            "name": "Elliot Anderson",
+            "short": "Anderson",
+            "position": "ST",
+            "photo": "assets/photos/people/elliot-anderson.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "jude-bellingham-france-england-2026-07-18",
+            "name": "Jude Bellingham",
+            "short": "Bellingham",
+            "position": "CM",
+            "photo": "assets/photos/people/jude-bellingham.jpg",
+            "rating": 8.3
+          },
+          {
+            "id": "reece-james-france-england-2026-07-18",
+            "name": "Reece James",
+            "short": "James",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "trevoh-chalobah-france-england-2026-07-18",
+            "name": "Trevoh Chalobah",
+            "short": "Chalobah",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "jordan-pickford-france-england-2026-07-18",
+            "name": "Jordan Pickford",
+            "short": "Pickford",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "harry-kane-france-england-2026-07-18",
+            "name": "Harry Kane",
+            "short": "Kane",
+            "position": "CM",
+            "photo": "assets/photos/people/harry-kane.jpg",
+            "rating": null
+          },
+          {
+            "id": "nico-o-reilly-france-england-2026-07-18",
+            "name": "Nico O'Reilly",
+            "short": "O'Reilly",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "james-trafford-france-england-2026-07-18",
+            "name": "James Trafford",
+            "short": "Trafford",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "john-stones-france-england-2026-07-18",
+            "name": "John Stones",
+            "short": "Stones",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dan-burn-france-england-2026-07-18",
+            "name": "Dan Burn",
+            "short": "Burn",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dean-henderson-france-england-2026-07-18",
+            "name": "Dean Henderson",
+            "short": "Henderson",
+            "position": "GK",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "noni-madueke-france-england-2026-07-18",
+            "name": "Noni Madueke",
+            "short": "Madueke",
+            "position": "CM",
+            "photo": "assets/photos/people/noni-madueke.jpg",
+            "rating": null
+          },
+          {
+            "id": "anthony-gordon-france-england-2026-07-18",
+            "name": "Anthony Gordon",
+            "short": "Gordon",
+            "position": "CM",
+            "photo": "assets/photos/people/anthony-gordon.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 3,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "declan-rice-france-england-2026-07-18",
+          "name": "Declan Rice",
+          "short": "Rice",
+          "position": "DM",
+          "photo": "assets/photos/people/declan-rice.jpg"
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Declan Rice opened the scoring inside three minutes with a right-footed shot from outside the box into the bottom right corner."
+      },
+      {
+        "minute": 18,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "ezri-konsa-france-england-2026-07-18",
+          "name": "Ezri Konsa",
+          "short": "Konsa",
+          "position": "CB",
+          "photo": "assets/photos/people/ezri-konsa.jpg"
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "declan-rice-france-england-2026-07-18",
+          "name": "Declan Rice",
+          "short": "Rice",
+          "position": "DM",
+          "photo": "assets/photos/people/declan-rice.jpg"
+        },
+        "goalType": "set",
+        "description": "Declan Rice's corner was headed in by Ezri Konsa from the centre of the box."
+      },
+      {
+        "minute": 37,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "bukayo-saka-france-england-2026-07-18",
+          "name": "Bukayo Saka",
+          "short": "Saka",
+          "position": "RW",
+          "photo": "assets/photos/people/bukayo-saka.jpg"
+        },
+        "scoreAfter": "0 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "marcus-rashford-france-england-2026-07-18",
+          "name": "Marcus Rashford",
+          "short": "Rashford",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "England broke quickly and Marcus Rashford set up Bukayo Saka, who finished left-footed from the left side of the box."
+      },
+      {
+        "minute": 45,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "bukayo-saka-france-england-2026-07-18",
+          "name": "Bukayo Saka",
+          "short": "Saka",
+          "position": "RW",
+          "photo": "assets/photos/people/bukayo-saka.jpg"
+        },
+        "scoreAfter": "0 - 4",
+        "penalty": false,
+        "assist": {
+          "id": "eberechi-eze-france-england-2026-07-18",
+          "name": "Eberechi Eze",
+          "short": "Eze",
+          "position": "CM",
+          "photo": "assets/photos/people/eberechi-eze.jpg"
+        },
+        "goalType": "build",
+        "description": "Eberechi Eze's through ball sent Saka clear to score left-footed into the bottom right corner in first-half stoppage time."
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ousmane-dembele-france-england-2026-07-18",
+          "name": "Ousmane Dembélé",
+          "short": "Dembélé",
+          "position": "AM",
+          "photo": "assets/photos/people/ousmane-dembele.jpg"
+        },
+        "replaced": {
+          "id": "rayan-cherki-france-england-2026-07-18",
+          "name": "Rayan Cherki",
+          "short": "Cherki",
+          "position": "AM",
+          "photo": "assets/photos/people/rayan-cherki.jpg"
+        }
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "bradley-barcola-france-england-2026-07-18",
+          "name": "Bradley Barcola",
+          "short": "Barcola",
+          "position": "LW",
+          "photo": "assets/photos/people/bradley-barcola.jpg"
+        },
+        "replaced": {
+          "id": "desire-doue-france-england-2026-07-18",
+          "name": "Désiré Doué",
+          "short": "Doué",
+          "position": "LW",
+          "photo": "assets/photos/people/desire-doue.jpg"
+        }
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "lucas-digne-france-england-2026-07-18",
+          "name": "Lucas Digne",
+          "short": "Digne",
+          "position": "LB",
+          "photo": "assets/photos/people/lucas-digne.jpg"
+        },
+        "replaced": {
+          "id": "theo-hernandez-france-england-2026-07-18",
+          "name": "Theo Hernández",
+          "short": "T. Hernández",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "dayot-upamecano-france-england-2026-07-18",
+          "name": "Dayot Upamecano",
+          "short": "Upamecano",
+          "position": "CB",
+          "photo": "assets/photos/people/dayot-upamecano.jpg"
+        },
+        "replaced": {
+          "id": "ibrahima-konate-france-england-2026-07-18",
+          "name": "Ibrahima Konaté",
+          "short": "Konaté",
+          "position": "CB",
+          "photo": "assets/photos/people/ibrahima-konate.jpg"
+        }
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ollie-watkins-france-england-2026-07-18",
+          "name": "Ollie Watkins",
+          "short": "Watkins",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "marcus-rashford-france-england-2026-07-18",
+          "name": "Marcus Rashford",
+          "short": "Rashford",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 48,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "kylian-mbappe-france-england-2026-07-18",
+          "name": "Kylian Mbappé",
+          "short": "Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        },
+        "scoreAfter": "1 - 4",
+        "penalty": false,
+        "assist": {
+          "id": "michael-olise-france-england-2026-07-18",
+          "name": "Michael Olise",
+          "short": "Olise",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "On a counter-attack, Michael Olise's through ball found Kylian Mbappé, who finished left-footed into the bottom right corner."
+      },
+      {
+        "minute": 54,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "bradley-barcola-france-england-2026-07-18",
+          "name": "Bradley Barcola",
+          "short": "Barcola",
+          "position": "LW",
+          "photo": "assets/photos/people/bradley-barcola.jpg"
+        },
+        "scoreAfter": "2 - 4",
+        "penalty": false,
+        "assist": {
+          "id": "kylian-mbappe-france-england-2026-07-18",
+          "name": "Kylian Mbappé",
+          "short": "Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        },
+        "goalType": "build",
+        "description": "Mbappé slipped a through ball to substitute Bradley Barcola, who scored right-footed into the bottom left corner."
+      },
+      {
+        "minute": 66,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "kylian-mbappe-france-england-2026-07-18",
+          "name": "Kylian Mbappé",
+          "short": "Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        },
+        "scoreAfter": "3 - 4",
+        "penalty": false,
+        "assist": {
+          "id": "michael-olise-france-england-2026-07-18",
+          "name": "Michael Olise",
+          "short": "Olise",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Olise set up Mbappé again for a left-footed finish from the centre of the box to make it 3-4."
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "elliot-anderson-france-england-2026-07-18",
+          "name": "Elliot Anderson",
+          "short": "Anderson",
+          "position": "ST",
+          "photo": "assets/photos/people/elliot-anderson.jpg"
+        },
+        "replaced": {
+          "id": "ivan-toney-france-england-2026-07-18",
+          "name": "Ivan Toney",
+          "short": "Toney",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jude-bellingham-france-england-2026-07-18",
+          "name": "Jude Bellingham",
+          "short": "Bellingham",
+          "position": "CM",
+          "photo": "assets/photos/people/jude-bellingham.jpg"
+        },
+        "replaced": {
+          "id": "eberechi-eze-france-england-2026-07-18",
+          "name": "Eberechi Eze",
+          "short": "Eze",
+          "position": "CM",
+          "photo": "assets/photos/people/eberechi-eze.jpg"
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "reece-james-france-england-2026-07-18",
+          "name": "Reece James",
+          "short": "James",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jarell-quansah-france-england-2026-07-18",
+          "name": "Jarell Quansah",
+          "short": "Quansah",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "bukayo-saka-france-england-2026-07-18",
+          "name": "Bukayo Saka",
+          "short": "Saka",
+          "position": "RW",
+          "photo": "assets/photos/people/bukayo-saka.jpg"
+        },
+        "scoreAfter": "3 - 5",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Djed Spence was fouled in the box by Malo Gusto and Saka converted the penalty left-footed into the bottom right corner to complete his hat-trick."
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "ousmane-dembele-france-england-2026-07-18",
+          "name": "Ousmane Dembélé",
+          "short": "Dembélé",
+          "position": "AM",
+          "photo": "assets/photos/people/ousmane-dembele.jpg"
+        },
+        "scoreAfter": "4 - 5",
+        "penalty": false,
+        "assist": null,
+        "goalType": "counter",
+        "description": "Jude Bellingham sealed the win on a fast break with a right-footed shot from the centre of the box into the bottom right corner."
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "jude-bellingham-france-england-2026-07-18",
+          "name": "Jude Bellingham",
+          "short": "Bellingham",
+          "position": "CM",
+          "photo": "assets/photos/people/jude-bellingham.jpg"
+        },
+        "scoreAfter": "4 - 6",
+        "penalty": false,
+        "assist": null,
+        "goalType": "counter",
+        "description": "Jude Bellingham sealed the win on a fast break with a right-footed shot from the centre of the box into the bottom right corner."
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jules-kounde-france-england-2026-07-18",
+          "name": "Jules Koundé",
+          "short": "Koundé",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "malo-gusto-france-england-2026-07-18",
+          "name": "Malo Gusto",
+          "short": "Gusto",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "trevoh-chalobah-france-england-2026-07-18",
+          "name": "Trevoh Chalobah",
+          "short": "Chalobah",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "marc-guehi-france-england-2026-07-18",
+          "name": "Marc Guéhi",
+          "short": "Guéhi",
+          "position": "CB",
+          "photo": "assets/photos/people/marc-guehi.jpg"
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        19,
+        19
+      ],
+      "onTarget": [
+        9,
+        11
+      ],
+      "corners": [
+        3,
+        4
+      ],
+      "fouls": [
+        14,
+        8
+      ],
+      "possession": 46
+    },
+    "attendance": 64478,
+    "referee": {
+      "name": "Jesús Valenzuela",
+      "country": "Venezuela"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760516",
+      "https://www.espn.com/soccer/match/_/gameId/760516",
+      "https://www.thescore.com/news/3567778",
+      "https://iol.co.za/2026-07-19-absolute-madness-england-edge-france-in-historic-10-goal-world-cup-third-place-thriller/",
+      "https://www.itv.com/news/2026-07-18/england-v-france-world-cup-third-place-play-off-kick-off-time-latest-updates"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

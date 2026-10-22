@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "sondre-auklend",
+    "name": "Sondre Auklend",
+    "short": "Auklend",
+    "position": "RW",
+    "photo": "assets/photos/people/sondre-auklend.jpg",
+    "matches": [
+      {
+        "match": "napoli-bodo",
+        "date": "2026-10-20",
+        "team": "Bodø/Glimt",
+        "role": "starter"
+      }
+    ]
+  }
+}

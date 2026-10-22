@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "cher-ndour",
+    "name": "Cher Ndour",
+    "short": "Ndour",
+    "position": "DM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "fiorentina-como-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Fiorentina",
+        "role": "starter"
+      }
+    ]
+  }
+}

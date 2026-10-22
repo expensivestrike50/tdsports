@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "pablo-fornals",
+    "name": "Pablo Fornals",
+    "short": "Fornals",
+    "position": "DM",
+    "photo": "assets/photos/people/pablo-fornals.jpg",
+    "matches": [
+      {
+        "match": "betis-feyenoord",
+        "date": "2026-10-21",
+        "team": "Real Betis",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,765 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "atlanta-inter-miami-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "19:30",
+    "competition": "MLS",
+    "round": "Regular season, matchday 31",
+    "status": "FT",
+    "home": {
+      "name": "Atlanta",
+      "id": "atlanta",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
+      "country": "US"
+    },
+    "away": {
+      "name": "Inter Miami",
+      "id": "inter-miami",
+      "crest": "assets/clubs/20232.png",
+      "country": "US"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "gerardo-martino",
+          "name": "Gerardo Martino",
+          "short": "Martino",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "lucas-hoyos",
+            "name": "Lucas Hoyos",
+            "short": "Hoyos",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "elias-baez",
+            "name": "Elías Baez",
+            "short": "Baez",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "junior-alonso",
+            "name": "Júnior Alonso",
+            "short": "Alonso",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.6
+          },
+          {
+            "id": "paulo-diaz",
+            "name": "Paulo Díaz",
+            "short": "Díaz",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.7
+          },
+          {
+            "id": "tomas-jacob",
+            "name": "Tomás Jacob",
+            "short": "Jacob",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "mauricio-amaro",
+            "name": "Mauricio Amaro",
+            "short": "Amaro",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 23,
+            "rating": 6.2
+          },
+          {
+            "id": "tristan-muyumba",
+            "name": "Tristan Muyumba",
+            "short": "Muyumba",
+            "position": "DM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "giuliano-galoppo",
+            "name": "Giuliano Galoppo",
+            "short": "Galoppo",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 78,
+            "rating": 7
+          },
+          {
+            "id": "alexey-miranchuk",
+            "name": "Alexey Miranchuk",
+            "short": "Miranchuk",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 6.6
+          },
+          {
+            "id": "breel-embolo",
+            "name": "Breel Embolo",
+            "short": "Embolo",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "miguel-almiron",
+            "name": "Miguel Almirón",
+            "short": "Almirón",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 6.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "steven-alzate",
+            "name": "Steven Alzate",
+            "short": "Alzate",
+            "position": "DM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "cooper-sanchez",
+            "name": "Cooper Sanchez",
+            "short": "Sanchez",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "fafa-picault",
+            "name": "Fafà Picault",
+            "short": "Picault",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "matt-edwards",
+            "name": "Matt Edwards",
+            "short": "Edwards",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "jayden-hibbert",
+            "name": "Jayden Hibbert",
+            "short": "Hibbert",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "enea-mihaj",
+            "name": "Enea Mihaj",
+            "short": "Mihaj",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "sergio-santos",
+            "name": "Sergio Santos",
+            "short": "Santos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jay-fortune",
+            "name": "Jay Fortune",
+            "short": "Fortune",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luke-brennan",
+            "name": "Luke Brennan",
+            "short": "Brennan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "cristian-gonzalez",
+          "name": "Cristian González",
+          "short": "González",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "dayne-st-clair",
+            "name": "Dayne St. Clair",
+            "short": "St. Clair",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "sergio-reguilon",
+            "name": "Sergio Reguilón",
+            "short": "Reguilón",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "micael",
+            "name": "Micael",
+            "short": "Micael",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.6
+          },
+          {
+            "id": "casemiro",
+            "name": "Casemiro",
+            "short": "Casemiro",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.1
+          },
+          {
+            "id": "gonzalo-lujan",
+            "name": "Gonzalo Luján",
+            "short": "Luján",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "matias-galarza",
+            "name": "Matías Galarza",
+            "short": "Galarza",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 6.9
+          },
+          {
+            "id": "david-ayala",
+            "name": "David Ayala",
+            "short": "Ayala",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "rodrigo-de-paul",
+            "name": "Rodrigo De Paul",
+            "short": "De Paul",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 22,
+            "rating": 7.1
+          },
+          {
+            "id": "german-berterame",
+            "name": "Germán Berterame",
+            "short": "Berterame",
+            "position": "LW",
+            "photo": null,
+            "x": 54,
+            "y": 77,
+            "rating": 8.3
+          },
+          {
+            "id": "luis-suarez-atlanta-inter-miami-2026-10-17",
+            "name": "Luis Suárez",
+            "short": "Suárez",
+            "position": "ST",
+            "photo": "assets/photos/people/luis-suarez.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 8.6
+          },
+          {
+            "id": "lionel-messi",
+            "name": "Lionel Messi",
+            "short": "Messi",
+            "position": "RW",
+            "photo": null,
+            "x": 54,
+            "y": 22,
+            "rating": 8.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "maximiliano-falcon",
+            "name": "Maximiliano Falcón",
+            "short": "Falcón",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "telasco-segovia",
+            "name": "Telasco Segovia",
+            "short": "Segovia",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "facundo-mura",
+            "name": "Facundo Mura",
+            "short": "Mura",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.7
+          },
+          {
+            "id": "daniel-pinter",
+            "name": "Dániel Pintér",
+            "short": "Pintér",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rocco-rios-novo",
+            "name": "Rocco Ríos Novo",
+            "short": "Novo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "riquelme",
+            "name": "Riquelme",
+            "short": "Riquelme",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "santiago-morales",
+            "name": "Santiago Morales",
+            "short": "Morales",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ian-fray",
+            "name": "Ian Fray",
+            "short": "Fray",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alexander-shaw",
+            "name": "Alexander Shaw",
+            "short": "Shaw",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 44,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "tomas-jacob",
+          "name": "Tomás Jacob",
+          "short": "Jacob",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "german-berterame",
+          "name": "Germán Berterame",
+          "short": "Berterame",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "luis-suarez-atlanta-inter-miami-2026-10-17",
+          "name": "Luis Suárez",
+          "short": "Suárez",
+          "position": "ST",
+          "photo": "assets/photos/people/luis-suarez.jpg"
+        },
+        "goalType": "build",
+        "description": "Germán Berterame header from very close range to the bottom right corner. Assisted by Luis Suárez."
+      },
+      {
+        "minute": 54,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "mauricio-amaro",
+          "name": "Mauricio Amaro",
+          "short": "Amaro",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 56,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "lionel-messi",
+          "name": "Lionel Messi",
+          "short": "Messi",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "german-berterame",
+          "name": "Germán Berterame",
+          "short": "Berterame",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Lionel Messi left footed shot from the centre of the box to the centre of the goal. Assisted by Germán Berterame."
+      },
+      {
+        "minute": 60,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "lionel-messi",
+          "name": "Lionel Messi",
+          "short": "Messi",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "luis-suarez-atlanta-inter-miami-2026-10-17",
+          "name": "Luis Suárez",
+          "short": "Suárez",
+          "position": "ST",
+          "photo": "assets/photos/people/luis-suarez.jpg"
+        },
+        "goalType": "counter",
+        "description": "Lionel Messi left footed shot from the centre of the box to the bottom right corner. Assisted by Luis Suárez following a fast break."
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "steven-alzate",
+          "name": "Steven Alzate",
+          "short": "Alzate",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tristan-muyumba",
+          "name": "Tristan Muyumba",
+          "short": "Muyumba",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "breel-embolo",
+          "name": "Breel Embolo",
+          "short": "Embolo",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 71,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": null,
+          "name": null
+        },
+        "detail": "VAR review: no penalty awarded"
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "maximiliano-falcon",
+          "name": "Maximiliano Falcón",
+          "short": "Falcón",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "casemiro",
+          "name": "Casemiro",
+          "short": "Casemiro",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "telasco-segovia",
+          "name": "Telasco Segovia",
+          "short": "Segovia",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "matias-galarza",
+          "name": "Matías Galarza",
+          "short": "Galarza",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "facundo-mura",
+          "name": "Facundo Mura",
+          "short": "Mura",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "german-berterame",
+          "name": "Germán Berterame",
+          "short": "Berterame",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "cooper-sanchez",
+          "name": "Cooper Sanchez",
+          "short": "Sanchez",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "giuliano-galoppo",
+          "name": "Giuliano Galoppo",
+          "short": "Galoppo",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "fafa-picault",
+          "name": "Fafà Picault",
+          "short": "Picault",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "miguel-almiron",
+          "name": "Miguel Almirón",
+          "short": "Almirón",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "matt-edwards",
+          "name": "Matt Edwards",
+          "short": "Edwards",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "elias-baez",
+          "name": "Elías Baez",
+          "short": "Baez",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "fafa-picault",
+          "name": "Fafà Picault",
+          "short": "Picault",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 3",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Fafà Picault was fouled in the box by Maximiliano Falcón. Fafà Picault converts the penalty with a right footed shot to the bottom right corner."
+      },
+      {
+        "minute": 89,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "maximiliano-falcon",
+          "name": "Maximiliano Falcón",
+          "short": "Falcón",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "lionel-messi",
+          "name": "Lionel Messi",
+          "short": "Messi",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        20,
+        7
+      ],
+      "onTarget": [
+        3,
+        5
+      ],
+      "corners": [
+        5,
+        2
+      ],
+      "fouls": [
+        8,
+        11
+      ],
+      "xg": [
+        2.32,
+        1.45
+      ],
+      "possession": 45
+    },
+    "attendance": 46686,
+    "referee": {
+      "name": "Allen Chapman",
+      "country": "USA"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761880",
+      "https://www.espn.com/soccer/match/_/gameId/761880",
+      "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009N7",
+      "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009N7"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

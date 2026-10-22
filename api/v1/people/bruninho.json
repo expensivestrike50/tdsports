@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "bruninho",
+    "name": "Bruninho",
+    "short": "Bruninho",
+    "position": "RW",
+    "photo": null,
+    "matches": [
+      {
+        "match": "inter-shakhtar",
+        "date": "2026-10-21",
+        "team": "Shakhtar Donetsk",
+        "role": "bench"
+      }
+    ]
+  }
+}

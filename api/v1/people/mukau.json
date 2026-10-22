@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "mukau",
+    "name": "Ngal'ayel Mukau",
+    "short": "Mukau",
+    "position": "CM",
+    "photo": "assets/photos/people/mukau.jpg",
+    "matches": [
+      {
+        "match": "lille-galatasaray",
+        "date": "2026-10-21",
+        "team": "Lille",
+        "role": "starter"
+      }
+    ]
+  }
+}

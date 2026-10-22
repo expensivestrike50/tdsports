@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "emiliano-martinez-spain-argentina-2026-07-19",
+    "name": "Emiliano Martínez",
+    "short": "E. Martínez",
+    "position": "GK",
+    "photo": null,
+    "matches": [
+      {
+        "match": "spain-argentina-2026-07-19",
+        "date": "2026-07-19",
+        "team": "Argentina",
+        "role": "starter"
+      }
+    ]
+  }
+}

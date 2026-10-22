@@ -1,0 +1,779 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "lyon-nice-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "20:45",
+    "competition": "Ligue 1",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Lyon",
+      "id": "lyon",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Nice",
+      "id": "nice",
+      "crest": "assets/clubs/2502.png",
+      "country": "FR"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Groupama Stadium",
+      "city": "Lyon",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "paulo-fonseca-lyon-nice-2026-10-18",
+          "name": "Paulo Fonseca",
+          "short": "Fonseca",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "remy-descamps-lyon-nice-2026-10-18",
+            "name": "Rémy Descamps",
+            "short": "Descamps",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "abner-lyon-nice-2026-10-18",
+            "name": "Abner",
+            "short": "Abner",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "moussa-niakhate-lyon-nice-2026-10-18",
+            "name": "Moussa Niakhaté",
+            "short": "Niakhaté",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7.5
+          },
+          {
+            "id": "clinton-mata-lyon-nice-2026-10-18",
+            "name": "Clinton Mata",
+            "short": "Mata",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.7
+          },
+          {
+            "id": "zachary-athekame-lyon-nice-2026-10-18",
+            "name": "Zachary Athekame",
+            "short": "Athekame",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "mads-bidstrup-lyon-nice-2026-10-18",
+            "name": "Mads Bidstrup",
+            "short": "Bidstrup",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.6
+          },
+          {
+            "id": "tanner-tessmann-lyon-nice-2026-10-18",
+            "name": "Tanner Tessmann",
+            "short": "Tessmann",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 8.2
+          },
+          {
+            "id": "julien-duranville-lyon-nice-2026-10-18",
+            "name": "Julien Duranville",
+            "short": "Duranville",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.5
+          },
+          {
+            "id": "noah-nartey-lyon-nice-2026-10-18",
+            "name": "Noah Nartey",
+            "short": "Nartey",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "kail-boudache-lyon-nice-2026-10-18",
+            "name": "Kail Boudache",
+            "short": "Boudache",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.3
+          },
+          {
+            "id": "pavel-sulc-lyon-nice-2026-10-18",
+            "name": "Pavel Sulc",
+            "short": "Sulc",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 8.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "corentin-tolisso-lyon-nice-2026-10-18",
+            "name": "Corentin Tolisso",
+            "short": "Tolisso",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "keito-nakamura-lyon-nice-2026-10-18",
+            "name": "Keito Nakamura",
+            "short": "Nakamura",
+            "position": "LW",
+            "photo": null,
+            "rating": 5.3
+          },
+          {
+            "id": "felix-bacher-lyon-nice-2026-10-18",
+            "name": "Felix Bacher",
+            "short": "Bacher",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "khalis-merah-lyon-nice-2026-10-18",
+            "name": "Khalis Merah",
+            "short": "Merah",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "ruben-kluivert-lyon-nice-2026-10-18",
+            "name": "Ruben Kluivert",
+            "short": "Kluivert",
+            "position": "LB",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "ernest-nuamah-lyon-nice-2026-10-18",
+            "name": "Ernest Nuamah",
+            "short": "Nuamah",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dominik-greif-lyon-nice-2026-10-18",
+            "name": "Dominik Greif",
+            "short": "Greif",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tyler-morton-lyon-nice-2026-10-18",
+            "name": "Tyler Morton",
+            "short": "Morton",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "remi-himbert-lyon-nice-2026-10-18",
+            "name": "Rémi Himbert",
+            "short": "Himbert",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "olivier-pantaloni",
+          "name": "Olivier Pantaloni",
+          "short": "Pantaloni",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "yehvann-diouf",
+            "name": "Yehvann Diouf",
+            "short": "Diouf",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "xavier-junior-mandza-tsiendi",
+            "name": "Xavier Junior Mandza Tsiendi",
+            "short": "Mandza Tsiendi",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 7
+          },
+          {
+            "id": "youssouf-ndayishimiye",
+            "name": "Youssouf Ndayishimiye",
+            "short": "Ndayishimiye",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "mohamed-abdelmoneim",
+            "name": "Mohamed Abdelmoneim",
+            "short": "Abdelmoneim",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 7.4
+          },
+          {
+            "id": "niels-nkounkou",
+            "name": "Niels Nkounkou",
+            "short": "Nkounkou",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 6.3
+          },
+          {
+            "id": "hicham-boudaoui",
+            "name": "Hicham Boudaoui",
+            "short": "Boudaoui",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 6.2
+          },
+          {
+            "id": "axel-witsel",
+            "name": "Axel Witsel",
+            "short": "Witsel",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 6.9
+          },
+          {
+            "id": "jonathan-clauss",
+            "name": "Jonathan Clauss",
+            "short": "Clauss",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 7.5
+          },
+          {
+            "id": "mohamed-amoura",
+            "name": "Mohamed Amoura",
+            "short": "Amoura",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 7.3
+          },
+          {
+            "id": "gauthier-hein",
+            "name": "Gauthier Hein",
+            "short": "Hein",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 7.4
+          },
+          {
+            "id": "elye-wahi",
+            "name": "Elye Wahi",
+            "short": "Wahi",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 8
+          }
+        ],
+        "bench": [
+          {
+            "id": "alidu-seidu",
+            "name": "Alidu Seidu",
+            "short": "Seidu",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "sofiane-diop",
+            "name": "Sofiane Diop",
+            "short": "Diop",
+            "position": "CB",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "morgan-sanson",
+            "name": "Morgan Sanson",
+            "short": "Sanson",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "isak-jansson",
+            "name": "Isak Jansson",
+            "short": "Jansson",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "nathan-n-goumou",
+            "name": "Nathan N'Goumou",
+            "short": "N'Goumou",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "djelan-morana",
+            "name": "Djelan Morana",
+            "short": "Morana",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "teddy-boulhendi",
+            "name": "Teddy Boulhendi",
+            "short": "Boulhendi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "djibril-coulibaly",
+            "name": "Djibril Coulibaly",
+            "short": "Coulibaly",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "hamza-koutoune",
+            "name": "Hamza Koutoune",
+            "short": "Koutoune",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 10,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "niels-nkounkou",
+          "name": "Niels Nkounkou",
+          "short": "Nkounkou",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 18,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "elye-wahi",
+          "name": "Elye Wahi",
+          "short": "Wahi",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "jonathan-clauss",
+          "name": "Jonathan Clauss",
+          "short": "Clauss",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Jonathan Clauss crossed and Elye Wahi finished right-footed from the centre of the box into the bottom left corner."
+      },
+      {
+        "minute": 32,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "pavel-sulc-lyon-nice-2026-10-18",
+          "name": "Pavel Sulc",
+          "short": "Sulc",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Moments after Yehvann Diouf saved from Julien Duranville, Pavel Sulc equalised from very close range."
+      },
+      {
+        "minute": 36,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "tanner-tessmann-lyon-nice-2026-10-18",
+          "name": "Tanner Tessmann",
+          "short": "Tessmann",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "zachary-athekame-lyon-nice-2026-10-18",
+          "name": "Zachary Athekame",
+          "short": "Athekame",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "From a set-piece situation, Zachary Athekame crossed and Tanner Tessmann headed in from the centre of the box."
+      },
+      {
+        "minute": 48,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "mohamed-abdelmoneim",
+          "name": "Mohamed Abdelmoneim",
+          "short": "Abdelmoneim",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "corentin-tolisso-lyon-nice-2026-10-18",
+          "name": "Corentin Tolisso",
+          "short": "Tolisso",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "noah-nartey-lyon-nice-2026-10-18",
+          "name": "Noah Nartey",
+          "short": "Nartey",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "keito-nakamura-lyon-nice-2026-10-18",
+          "name": "Keito Nakamura",
+          "short": "Nakamura",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "julien-duranville-lyon-nice-2026-10-18",
+          "name": "Julien Duranville",
+          "short": "Duranville",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "mohamed-amoura",
+          "name": "Mohamed Amoura",
+          "short": "Amoura",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 70,
+        "type": "red_card",
+        "team": "home",
+        "player": {
+          "id": "keito-nakamura-lyon-nice-2026-10-18",
+          "name": "Keito Nakamura",
+          "short": "Nakamura",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Foul (straight red)"
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "felix-bacher-lyon-nice-2026-10-18",
+          "name": "Felix Bacher",
+          "short": "Bacher",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kail-boudache-lyon-nice-2026-10-18",
+          "name": "Kail Boudache",
+          "short": "Boudache",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alidu-seidu",
+          "name": "Alidu Seidu",
+          "short": "Seidu",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mohamed-abdelmoneim",
+          "name": "Mohamed Abdelmoneim",
+          "short": "Abdelmoneim",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "khalis-merah-lyon-nice-2026-10-18",
+          "name": "Khalis Merah",
+          "short": "Merah",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pavel-sulc-lyon-nice-2026-10-18",
+          "name": "Pavel Sulc",
+          "short": "Sulc",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ruben-kluivert-lyon-nice-2026-10-18",
+          "name": "Ruben Kluivert",
+          "short": "Kluivert",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "abner-lyon-nice-2026-10-18",
+          "name": "Abner",
+          "short": "Abner",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "sofiane-diop",
+          "name": "Sofiane Diop",
+          "short": "Diop",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "xavier-junior-mandza-tsiendi",
+          "name": "Xavier Junior Mandza Tsiendi",
+          "short": "Mandza Tsiendi",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "morgan-sanson",
+          "name": "Morgan Sanson",
+          "short": "Sanson",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "axel-witsel",
+          "name": "Axel Witsel",
+          "short": "Witsel",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "isak-jansson",
+          "name": "Isak Jansson",
+          "short": "Jansson",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gauthier-hein",
+          "name": "Gauthier Hein",
+          "short": "Hein",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "elye-wahi",
+          "name": "Elye Wahi",
+          "short": "Wahi",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Excessive celebration"
+      },
+      {
+        "minute": 90,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "elye-wahi",
+          "name": "Elye Wahi",
+          "short": "Wahi",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Stoppage-time goal ruled out after VAR review (score stayed 2-1)."
+      }
+    ],
+    "stats": {
+      "shots": [
+        8,
+        12
+      ],
+      "onTarget": [
+        4,
+        5
+      ],
+      "corners": [
+        1,
+        9
+      ],
+      "fouls": [
+        6,
+        14
+      ],
+      "possession": 48
+    },
+    "attendance": null,
+    "referee": {
+      "name": "François Letexier",
+      "country": "France"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876434",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876434",
+      "https://ligue1.com/fr/articles/l1_article_5927-",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

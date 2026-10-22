@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "jakub-kiwior",
+    "name": "Jakub Kiwior",
+    "short": "Kiwior",
+    "position": "CB",
+    "photo": "assets/photos/people/jakub-kiwior.jpg",
+    "matches": [
+      {
+        "match": "porto-psv",
+        "date": "2026-10-20",
+        "team": "FC Porto",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "villarreal-elche-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "16:15",
+    "competition": "LaLiga",
+    "round": "Matchday 9",
+    "status": "FT",
+    "home": {
+      "name": "Villarreal",
+      "id": "villarreal",
+      "crest": "assets/clubs/102.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Elche",
+      "id": "elche",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio de la Cerámica",
+      "city": "Villarreal",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "inigo-perez-villarreal-elche-2026-10-17",
+          "name": "Iñigo Pérez",
+          "short": "Pérez",
+          "position": "Coach",
+          "photo": "assets/photos/people/inigo-perez.jpg"
+        },
+        "starting": [
+          {
+            "id": "peter-gulacsi-villarreal-elche-2026-10-17",
+            "name": "Péter Gulácsi",
+            "short": "P. Gulácsi",
+            "position": "GK",
+            "photo": "assets/photos/people/peter-gulacsi.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "alex-freeman-villarreal-elche-2026-10-17",
+            "name": "Alex Freeman",
+            "short": "A. Freeman",
+            "position": "RB",
+            "photo": "assets/photos/people/alex-freeman.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 6.1
+          },
+          {
+            "id": "juan-foyth-villarreal-elche-2026-10-17",
+            "name": "Juan Foyth",
+            "short": "J. Foyth",
+            "position": "CB",
+            "photo": "assets/photos/people/juan-foyth.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "logan-costa-villarreal-elche-2026-10-17",
+            "name": "Logan Costa",
+            "short": "L. Costa",
+            "position": "CB",
+            "photo": "assets/photos/people/logan-costa.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 6.3
+          },
+          {
+            "id": "sergi-cardona-villarreal-elche-2026-10-17",
+            "name": "Sergi Cardona",
+            "short": "S. Cardona",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "ilias-akhomach-villarreal-elche-2026-10-17",
+            "name": "Ilias Akhomach",
+            "short": "I. Akhomach",
+            "position": "RW",
+            "photo": "assets/photos/people/ilias-akhomach.jpg",
+            "x": 32,
+            "y": 12,
+            "rating": 6.7
+          },
+          {
+            "id": "santi-comesana-villarreal-elche-2026-10-17",
+            "name": "Santi Comesaña",
+            "short": "S. Comesaña",
+            "position": "CM",
+            "photo": "assets/photos/people/santi-comesana.jpg",
+            "x": 32,
+            "y": 38,
+            "rating": 6.5
+          },
+          {
+            "id": "carlos-macia-villarreal-elche-2026-10-17",
+            "name": "Carlos Macià",
+            "short": "C. Macià",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 7.4
+          },
+          {
+            "id": "tani-oluwaseyi-villarreal-elche-2026-10-17",
+            "name": "Tani Oluwaseyi",
+            "short": "T. Oluwaseyi",
+            "position": "LW",
+            "photo": "assets/photos/people/tani-oluwaseyi.jpg",
+            "x": 32,
+            "y": 88,
+            "rating": 6.2
+          },
+          {
+            "id": "ayoze-perez-villarreal-elche-2026-10-17",
+            "name": "Ayoze Pérez",
+            "short": "A. Pérez",
+            "position": "ST",
+            "photo": "assets/photos/people/ayoze-perez.jpg",
+            "x": 46,
+            "y": 30,
+            "rating": 7.1
+          },
+          {
+            "id": "alberto-moleiro-villarreal-elche-2026-10-17",
+            "name": "Alberto Moleiro",
+            "short": "A. Moleiro",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 7.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "georges-mikautadze-villarreal-elche-2026-10-17",
+            "name": "Georges Mikautadze",
+            "short": "Mikautadze",
+            "position": "CM",
+            "photo": "assets/photos/people/georges-mikautadze.jpg",
+            "rating": 6.9
+          },
+          {
+            "id": "pape-gueye-villarreal-elche-2026-10-17",
+            "name": "Pape Gueye",
+            "short": "Gueye",
+            "position": "LW",
+            "photo": "assets/photos/people/pape-gueye.jpg",
+            "rating": 6.7
+          },
+          {
+            "id": "nathan-saliba-villarreal-elche-2026-10-17",
+            "name": "Nathan Saliba",
+            "short": "Saliba",
+            "position": "CM",
+            "photo": "assets/photos/people/nathan-saliba.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "gerard-moreno-villarreal-elche-2026-10-17",
+            "name": "Gerard Moreno",
+            "short": "Moreno",
+            "position": "RW",
+            "photo": "assets/photos/people/gerard-moreno.jpg",
+            "rating": 7.4
+          },
+          {
+            "id": "nizar-el-jmili-ben-hamou-villarreal-elche-2026-10-17",
+            "name": "Nizar El Jmili Ben Hamou",
+            "short": "Hamou",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "pau-navarro-villarreal-elche-2026-10-17",
+            "name": "Pau Navarro",
+            "short": "Navarro",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "carlos-romero",
+            "name": "Carlos Romero",
+            "short": "Romero",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luiz-junior-villarreal-elche-2026-10-17",
+            "name": "Luiz Júnior",
+            "short": "Júnior",
+            "position": "CM",
+            "photo": "assets/photos/people/luiz-junior.jpg",
+            "rating": null
+          },
+          {
+            "id": "renato-veiga-villarreal-elche-2026-10-17",
+            "name": "Renato Veiga",
+            "short": "Veiga",
+            "position": "CM",
+            "photo": "assets/photos/people/renato-veiga.jpg",
+            "rating": null
+          },
+          {
+            "id": "alassane-diatta-villarreal-elche-2026-10-17",
+            "name": "Alassane Diatta",
+            "short": "Diatta",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "joselillo-villarreal-elche-2026-10-17",
+            "name": "Joselillo",
+            "short": "Joselillo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "santiago-mourino-villarreal-elche-2026-10-17",
+            "name": "Santiago Mouriño",
+            "short": "Mouriño",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-4-1",
+        "coach": {
+          "id": "martin-anselmi",
+          "name": "Martín Anselmi",
+          "short": "Anselmi",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "matias-dituro",
+            "name": "Matías Dituro",
+            "short": "M. Dituro",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "buba-sangare",
+            "name": "Buba Sangaré",
+            "short": "B. Sangaré",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 92,
+            "rating": 6.7
+          },
+          {
+            "id": "javier-morcillo",
+            "name": "Javier Morcillo",
+            "short": "J. Morcillo",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 71,
+            "rating": 7
+          },
+          {
+            "id": "victor-chust",
+            "name": "Víctor Chust",
+            "short": "V. Chust",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "roy-revivo",
+            "name": "Roy Revivo",
+            "short": "R. Revivo",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 29,
+            "rating": 7
+          },
+          {
+            "id": "german-valera",
+            "name": "Germán Valera",
+            "short": "G. Valera",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 8,
+            "rating": 6.2
+          },
+          {
+            "id": "lucas-cepeda",
+            "name": "Lucas Cepeda",
+            "short": "L. Cepeda",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "gonzalo-villar",
+            "name": "Gonzalo Villar",
+            "short": "G. Villar",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 6.7
+          },
+          {
+            "id": "marc-aguado",
+            "name": "Marc Aguado",
+            "short": "M. Aguado",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 6.7
+          },
+          {
+            "id": "thomas-lemar",
+            "name": "Thomas Lemar",
+            "short": "T. Lemar",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "abiel-osorio",
+            "name": "Abiel Osorio",
+            "short": "A. Osorio",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "federico-redondo",
+            "name": "Federico Redondo",
+            "short": "Redondo",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "jose-antonio-morente",
+            "name": "José Antonio Morente",
+            "short": "Morente",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "martim-neto",
+            "name": "Martim Neto",
+            "short": "Neto",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "fer-nino",
+            "name": "Fer Niño",
+            "short": "Niño",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "ruben-sanchez",
+            "name": "Rubén Sánchez",
+            "short": "Sánchez",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "alejandro-iturbe",
+            "name": "Alejandro Iturbe",
+            "short": "Iturbe",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "pedro-bigas",
+            "name": "Pedro Bigas",
+            "short": "Bigas",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ali-houary",
+            "name": "Ali Houary",
+            "short": "Houary",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kevin-lomonaco",
+            "name": "Kevin Lomónaco",
+            "short": "Lomónaco",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "facundo-buonanotte",
+            "name": "Facundo Buonanotte",
+            "short": "Buonanotte",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "josan",
+            "name": "Josan",
+            "short": "Josan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ezequiel-ponce",
+            "name": "Ezequiel Ponce",
+            "short": "Ponce",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 28,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "federico-redondo",
+          "name": "Federico Redondo",
+          "short": "Redondo",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "marc-aguado",
+          "name": "Marc Aguado",
+          "short": "M. Aguado",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 38,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "gonzalo-villar",
+          "name": "Gonzalo Villar",
+          "short": "G. Villar",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 63,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": null,
+          "name": null
+        },
+        "detail": "VAR review: no penalty awarded to Elche"
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jose-antonio-morente",
+          "name": "José Antonio Morente",
+          "short": "Morente",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lucas-cepeda",
+          "name": "Lucas Cepeda",
+          "short": "L. Cepeda",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "martim-neto",
+          "name": "Martim Neto",
+          "short": "Neto",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "thomas-lemar",
+          "name": "Thomas Lemar",
+          "short": "T. Lemar",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "fer-nino",
+          "name": "Fer Niño",
+          "short": "Niño",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "abiel-osorio",
+          "name": "Abiel Osorio",
+          "short": "A. Osorio",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "georges-mikautadze-villarreal-elche-2026-10-17",
+          "name": "Georges Mikautadze",
+          "short": "Mikautadze",
+          "position": "CM",
+          "photo": "assets/photos/people/georges-mikautadze.jpg"
+        },
+        "replaced": {
+          "id": "santi-comesana-villarreal-elche-2026-10-17",
+          "name": "Santi Comesaña",
+          "short": "S. Comesaña",
+          "position": "CM",
+          "photo": "assets/photos/people/santi-comesana.jpg"
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "pape-gueye-villarreal-elche-2026-10-17",
+          "name": "Pape Gueye",
+          "short": "Gueye",
+          "position": "LW",
+          "photo": "assets/photos/people/pape-gueye.jpg"
+        },
+        "replaced": {
+          "id": "tani-oluwaseyi-villarreal-elche-2026-10-17",
+          "name": "Tani Oluwaseyi",
+          "short": "T. Oluwaseyi",
+          "position": "LW",
+          "photo": "assets/photos/people/tani-oluwaseyi.jpg"
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nathan-saliba-villarreal-elche-2026-10-17",
+          "name": "Nathan Saliba",
+          "short": "Saliba",
+          "position": "CM",
+          "photo": "assets/photos/people/nathan-saliba.jpg"
+        },
+        "replaced": {
+          "id": "carlos-macia-villarreal-elche-2026-10-17",
+          "name": "Carlos Macià",
+          "short": "C. Macià",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "jose-antonio-morente",
+          "name": "José Antonio Morente",
+          "short": "Morente",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "gerard-moreno-villarreal-elche-2026-10-17",
+          "name": "Gerard Moreno",
+          "short": "Moreno",
+          "position": "RW",
+          "photo": "assets/photos/people/gerard-moreno.jpg"
+        },
+        "replaced": {
+          "id": "ilias-akhomach-villarreal-elche-2026-10-17",
+          "name": "Ilias Akhomach",
+          "short": "I. Akhomach",
+          "position": "RW",
+          "photo": "assets/photos/people/ilias-akhomach.jpg"
+        }
+      },
+      {
+        "minute": 75,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "roy-revivo",
+          "name": "Roy Revivo",
+          "short": "R. Revivo",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 81,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "alex-freeman-villarreal-elche-2026-10-17",
+          "name": "Alex Freeman",
+          "short": "A. Freeman",
+          "position": "RB",
+          "photo": "assets/photos/people/alex-freeman.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ruben-sanchez",
+          "name": "Rubén Sánchez",
+          "short": "Sánchez",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "buba-sangare",
+          "name": "Buba Sangaré",
+          "short": "B. Sangaré",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nizar-el-jmili-ben-hamou-villarreal-elche-2026-10-17",
+          "name": "Nizar El Jmili Ben Hamou",
+          "short": "Hamou",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ayoze-perez-villarreal-elche-2026-10-17",
+          "name": "Ayoze Pérez",
+          "short": "A. Pérez",
+          "position": "ST",
+          "photo": "assets/photos/people/ayoze-perez.jpg"
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "victor-chust",
+          "name": "Víctor Chust",
+          "short": "V. Chust",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "juan-foyth-villarreal-elche-2026-10-17",
+          "name": "Juan Foyth",
+          "short": "J. Foyth",
+          "position": "CB",
+          "photo": "assets/photos/people/juan-foyth.jpg"
+        },
+        "detail": "Not specified"
+      }
+    ],
+    "stats": {
+      "shots": [
+        20,
+        7
+      ],
+      "onTarget": [
+        7,
+        1
+      ],
+      "corners": [
+        10,
+        5
+      ],
+      "fouls": [
+        12,
+        7
+      ],
+      "possession": 58
+    },
+    "attendance": 17329,
+    "referee": {
+      "name": "Víctor García Verdura",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882837",
+      "https://www.espn.com/soccer/match/_/gameId/401882837",
+      "https://www.lanacion.com.ar/deportes/canchallena/villarreal-empato-0-0-con-elche-por-la-liga-de-espana-2026-nid17102026/",
+      "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

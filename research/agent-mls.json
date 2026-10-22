@@ -1,0 +1,3590 @@
+{
+ "agent": "MLS agent",
+ "league": "MLS",
+ "generated": "2026-10-22T13:31:57+00:00",
+ "matches": [
+  {
+   "id": "cincinnati-columbus-crew-2026-10-18",
+   "found": true,
+   "competition": "MLS",
+   "round": "Regular season, matchday 31",
+   "date": "2026-10-18",
+   "kickoff_local": "17:00",
+   "home": "Cincinnati",
+   "away": "Columbus Crew",
+   "score": [
+    0,
+    2
+   ],
+   "venue": {
+    "name": "TQL Stadium",
+    "city": "Cincinnati",
+    "attendance": 25513
+   },
+   "referee": {
+    "name": "Drew Fischer",
+    "country": "USA"
+   },
+   "coaches": {
+    "home": "Pat Noonan",
+    "away": "Laurent Courtois"
+   },
+   "formations": {
+    "home": "3-5-2",
+    "away": "4-4-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Roman Celentano",
+      "short": "Celentano",
+      "number": 18,
+      "pos": "GK"
+     },
+     {
+      "name": "Teenage Hadebe",
+      "short": "Hadebe",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Julian Malatini",
+      "short": "Malatini",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Samuel Gidi",
+      "short": "Gidi",
+      "number": 11,
+      "pos": "CB"
+     },
+     {
+      "name": "Tyrell Malacia",
+      "short": "Malacia",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Obinna Nwobodo",
+      "short": "Nwobodo",
+      "number": 5,
+      "pos": "DM"
+     },
+     {
+      "name": "Evander",
+      "short": "Evander",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Pavel Bucha",
+      "short": "Bucha",
+      "number": 20,
+      "pos": "DM"
+     },
+     {
+      "name": "David Doudera",
+      "short": "Doudera",
+      "number": 23,
+      "pos": "RB"
+     },
+     {
+      "name": "Kévin Denkey",
+      "short": "Denkey",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Tom Barlow",
+      "short": "Barlow",
+      "number": 16,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Patrick Schulte",
+      "short": "Schulte",
+      "number": 28,
+      "pos": "GK"
+     },
+     {
+      "name": "Malte Amundsen",
+      "short": "Amundsen",
+      "number": 18,
+      "pos": "LB"
+     },
+     {
+      "name": "Sean Zawadzki",
+      "short": "Zawadzki",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Steven Moreira",
+      "short": "Moreira",
+      "number": 31,
+      "pos": "CB"
+     },
+     {
+      "name": "Andrés Herrera",
+      "short": "Herrera",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Santiago Rodríguez",
+      "short": "Rodríguez",
+      "number": 8,
+      "pos": "LW"
+     },
+     {
+      "name": "André Gomes",
+      "short": "Gomes",
+      "number": 20,
+      "pos": "DM"
+     },
+     {
+      "name": "Taha Habroune",
+      "short": "Habroune",
+      "number": 16,
+      "pos": "DM"
+     },
+     {
+      "name": "Brooks Lennon",
+      "short": "Lennon",
+      "number": 11,
+      "pos": "RW"
+     },
+     {
+      "name": "Gonzalo Tapia",
+      "short": "Tapia",
+      "number": 33,
+      "pos": "ST"
+     },
+     {
+      "name": "Brais Méndez",
+      "short": "Méndez",
+      "number": 10,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 18,
+     "in": "Nick Hagglund",
+     "out": "Julian Malatini"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Sékou Tidiany Bangoura",
+     "out": "Brais Méndez"
+    },
+    {
+     "side": "home",
+     "minute": 59,
+     "in": "Ender Echenique",
+     "out": "David Doudera"
+    },
+    {
+     "side": "home",
+     "minute": 59,
+     "in": "Kenji Mboma Dem",
+     "out": "Tom Barlow"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "in": "Jamal Thiaré",
+     "out": "Santiago Rodríguez"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Dylan Chambost",
+     "out": "Taha Habroune"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Eric Bailly",
+     "out": "Steven Moreira"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Laurtaro Giaccone",
+     "out": "Gonzalo Tapia"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Gerardo Valenzuela",
+     "out": "Nick Hagglund"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Ayoub Jabbari",
+     "out": "Pavel Bucha"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Tah Anunga",
+     "Kyle Smith",
+     "Bryan Ramirez",
+     "Evan Louro"
+    ],
+    "away": [
+     "Josef Martínez",
+     "Nicholas Hagen",
+     "Amar Sejdic",
+     "Mohamed Farsi"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 22,
+     "scorer": "Gonzalo Tapia",
+     "assist": "Brais Méndez",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "Gonzalo Tapia header from the left side of the six yard box to the bottom left corner. Assisted by Brais Méndez with a cross following a corner.",
+     "shot": {
+      "x": 96,
+      "y": 58,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 54,
+     "scorer": "Taha Habroune",
+     "assist": "Gonzalo Tapia",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Taha Habroune right footed shot from the centre of the box to the bottom left corner. Assisted by Gonzalo Tapia.",
+     "shot": {
+      "x": 87,
+      "y": 39,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 28,
+     "player": "Samuel Gidi",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 31,
+     "player": "Teenage Hadebe",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "player": "André Gomes",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Dylan Chambost",
+     "card": "yellow",
+     "reason": "bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     68,
+     32
+    ],
+    "shots": [
+     23,
+     3
+    ],
+    "onTarget": [
+     7,
+     2
+    ],
+    "corners": [
+     2,
+     2
+    ],
+    "fouls": [
+     13,
+     16
+    ],
+    "xg": [
+     2.06,
+     0.25
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761889",
+    "https://www.espn.com/soccer/match/_/gameId/761889",
+    "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NL",
+    "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NL"
+   ],
+   "notes": "Lineups, events and stats from ESPN; formation/positions, attendance, referee, coaches and xG from the official MLS stats API. Referee country assumed USA (PRO/MLS official). Goal descriptions based on ESPN commentary.",
+   "league": "MLS",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
+   "home_country": "US",
+   "away_country": "US"
+  },
+  {
+   "id": "la-galaxy-san-diego-2026-10-17",
+   "found": true,
+   "competition": "MLS",
+   "round": "Regular season, matchday 31",
+   "date": "2026-10-17",
+   "kickoff_local": "19:30",
+   "home": "LA Galaxy",
+   "away": "San Diego",
+   "score": [
+    2,
+    2
+   ],
+   "venue": {
+    "name": "Dignity Health Sports Park",
+    "city": "Carson",
+    "attendance": 21264
+   },
+   "referee": {
+    "name": "Rubiel Vazquez",
+    "country": "USA"
+   },
+   "coaches": {
+    "home": "Greg Vanney",
+    "away": "Mikey Varas"
+   },
+   "formations": {
+    "home": "4-3-3",
+    "away": "4-3-3"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "JT Marcinkowski",
+      "short": "Marcinkowski",
+      "number": 12,
+      "pos": "GK"
+     },
+     {
+      "name": "John Nelson",
+      "short": "Nelson",
+      "number": 14,
+      "pos": "LB"
+     },
+     {
+      "name": "Carlos Garcés",
+      "short": "Garcés",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Justin Haak",
+      "short": "Haak",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Harbor Miller",
+      "short": "Miller",
+      "number": 26,
+      "pos": "RB"
+     },
+     {
+      "name": "Sergi Roberto",
+      "short": "Roberto",
+      "number": 6,
+      "pos": "CM"
+     },
+     {
+      "name": "Marco Reus",
+      "short": "Reus",
+      "number": 18,
+      "pos": "DM"
+     },
+     {
+      "name": "Pablo Ruiz",
+      "short": "Ruiz",
+      "number": 17,
+      "pos": "CM"
+     },
+     {
+      "name": "Erik Thommy",
+      "short": "Thommy",
+      "number": 27,
+      "pos": "LW"
+     },
+     {
+      "name": "João Klauss",
+      "short": "Klauss",
+      "number": 99,
+      "pos": "ST"
+     },
+     {
+      "name": "Robert Taylor",
+      "short": "Taylor",
+      "number": 21,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Pablo Sisniega",
+      "short": "Sisniega",
+      "number": 13,
+      "pos": "GK"
+     },
+     {
+      "name": "Kieran Sargeant",
+      "short": "Sargeant",
+      "number": 5,
+      "pos": "LB"
+     },
+     {
+      "name": "Manu Duah",
+      "short": "Duah",
+      "number": 26,
+      "pos": "CB"
+     },
+     {
+      "name": "Christopher McVey",
+      "short": "McVey",
+      "number": 97,
+      "pos": "CB"
+     },
+     {
+      "name": "Oscar Verhoeven",
+      "short": "Verhoeven",
+      "number": 33,
+      "pos": "RB"
+     },
+     {
+      "name": "Gabriel Pirani",
+      "short": "Pirani",
+      "number": 12,
+      "pos": "CM"
+     },
+     {
+      "name": "Aníbal Godoy",
+      "short": "Godoy",
+      "number": 20,
+      "pos": "DM"
+     },
+     {
+      "name": "Alejandro Alvarado Jr.",
+      "short": "Alvarado Jr.",
+      "number": 70,
+      "pos": "CM"
+     },
+     {
+      "name": "Elias Achouri",
+      "short": "Achouri",
+      "number": 99,
+      "pos": "LW"
+     },
+     {
+      "name": "Cédric Bakambu",
+      "short": "Bakambu",
+      "number": 94,
+      "pos": "ST"
+     },
+     {
+      "name": "Anders Dreyer",
+      "short": "Dreyer",
+      "number": 10,
+      "pos": "RW"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 66,
+     "in": "Joseph Paintsil",
+     "out": "Robert Taylor"
+    },
+    {
+     "side": "home",
+     "minute": 66,
+     "in": "Jakob Glesnes",
+     "out": "Carlos Garcés"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Jeppe Tverskov",
+     "out": "Alejandro Alvarado Jr."
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Marcus Ingvartsen",
+     "out": "Cédric Bakambu"
+    },
+    {
+     "side": "home",
+     "minute": 73,
+     "in": "Lucas Sanabria",
+     "out": "Sergi Roberto"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "in": "Onni Valakari",
+     "out": "Gabriel Pirani"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Calegari",
+     "out": "Harbor Miller"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Dagur Thórhallsson",
+     "out": "Kieran Sargeant"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Amahl Pellegrino",
+     "out": "Elias Achouri"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Elijah Wynder",
+     "Troy Elgersma",
+     "Novak Micovic",
+     "Julián Aude",
+     "Maya Yoshida"
+    ],
+    "away": [
+     "Ian Pilcher",
+     "David Evra Mimbang Nyangono",
+     "CJ dos Santos",
+     "Bryan Zamblé"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 4,
+     "scorer": "João Klauss",
+     "assist": "Sergi Roberto",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "João Klauss right footed shot from outside the box to the bottom right corner. Assisted by Sergi Roberto following a fast break.",
+     "shot": {
+      "x": 74,
+      "y": 38,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 10,
+     "scorer": "Anders Dreyer",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "left",
+     "description": "Cédric Bakambu was fouled in the box by JT Marcinkowski. Anders Dreyer converts the penalty with a left footed shot to the top left corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 17,
+     "scorer": "Erik Thommy",
+     "assist": "Harbor Miller",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Erik Thommy right footed shot from the centre of the box to the bottom left corner. Assisted by Harbor Tarczynski-Miller with a cross.",
+     "shot": {
+      "x": 84,
+      "y": 58,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 39,
+     "scorer": "Gabriel Pirani",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Gabriel Pirani right footed shot from the centre of the box to the bottom left corner.",
+     "shot": {
+      "x": 88,
+      "y": 51,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 35,
+     "player": "Aníbal Godoy",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "player": "João Klauss",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Marco Reus",
+     "card": "yellow",
+     "reason": "not specified"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 12,
+     "player": "João Klauss",
+     "detail": "Goal ruled out after VAR review"
+    }
+   ],
+   "stats": {
+    "possession": [
+     31,
+     69
+    ],
+    "shots": [
+     12,
+     14
+    ],
+    "onTarget": [
+     9,
+     5
+    ],
+    "corners": [
+     5,
+     3
+    ],
+    "fouls": [
+     11,
+     10
+    ],
+    "xg": [
+     0.61,
+     2.57
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761887",
+    "https://www.espn.com/soccer/match/_/gameId/761887",
+    "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NB",
+    "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NB"
+   ],
+   "notes": "Lineups, events and stats from ESPN; formation/positions, attendance, referee, coaches and xG from the official MLS stats API. Referee country assumed USA (PRO/MLS official). Goal descriptions based on ESPN commentary.",
+   "league": "MLS",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png",
+   "home_country": "US",
+   "away_country": "US"
+  },
+  {
+   "id": "portland-colorado-rapids-2026-10-17",
+   "found": true,
+   "competition": "MLS",
+   "round": "Regular season, matchday 31",
+   "date": "2026-10-17",
+   "kickoff_local": "19:30",
+   "home": "Portland",
+   "away": "Colorado Rapids",
+   "score": [
+    0,
+    0
+   ],
+   "venue": {
+    "name": "Providence Park",
+    "city": "Portland",
+    "attendance": 23614
+   },
+   "referee": {
+    "name": "Elijio Arreguin",
+    "country": "USA"
+   },
+   "coaches": {
+    "home": "Martí Cifuentes",
+    "away": "Matt Wells"
+   },
+   "formations": {
+    "home": "4-3-3",
+    "away": "4-3-3"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "James Pantemis",
+      "short": "Pantemis",
+      "number": 41,
+      "pos": "GK"
+     },
+     {
+      "name": "Jimer Fory",
+      "short": "Fory",
+      "number": 27,
+      "pos": "LB"
+     },
+     {
+      "name": "Kamal Miller",
+      "short": "Miller",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Joel Waterman",
+      "short": "Waterman",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Ronald Hernández",
+      "short": "Hernández",
+      "number": 12,
+      "pos": "RB"
+     },
+     {
+      "name": "David Da Costa",
+      "short": "Da Costa",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Diego Chará",
+      "short": "Chará",
+      "number": 21,
+      "pos": "DM"
+     },
+     {
+      "name": "Eric Izoita",
+      "short": "Izoita",
+      "number": 73,
+      "pos": "CM"
+     },
+     {
+      "name": "Kristoffer Velde",
+      "short": "Velde",
+      "number": 99,
+      "pos": "LW"
+     },
+     {
+      "name": "Vincent Janssen",
+      "short": "Janssen",
+      "number": 14,
+      "pos": "ST"
+     },
+     {
+      "name": "Omir Fernández",
+      "short": "Fernández",
+      "number": 22,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Nico Hansen",
+      "short": "Hansen",
+      "number": 41,
+      "pos": "GK"
+     },
+     {
+      "name": "Miguel Navarro",
+      "short": "Navarro",
+      "number": 29,
+      "pos": "LB"
+     },
+     {
+      "name": "Loic Williams",
+      "short": "Williams",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Rob Holding",
+      "short": "Holding",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Kosi Thompson",
+      "short": "Thompson",
+      "number": 33,
+      "pos": "RB"
+     },
+     {
+      "name": "Wayne Frederick",
+      "short": "Frederick",
+      "number": 13,
+      "pos": "DM"
+     },
+     {
+      "name": "Morgan Whittaker",
+      "short": "Whittaker",
+      "number": 7,
+      "pos": "AM"
+     },
+     {
+      "name": "Joshua Atencio",
+      "short": "Atencio",
+      "number": 12,
+      "pos": "DM"
+     },
+     {
+      "name": "Georgi Minoungou",
+      "short": "Minoungou",
+      "number": 93,
+      "pos": "LW"
+     },
+     {
+      "name": "Donavan Phillip",
+      "short": "Phillip",
+      "number": 32,
+      "pos": "ST"
+     },
+     {
+      "name": "Darren Yapi",
+      "short": "Yapi",
+      "number": 77,
+      "pos": "RW"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Noah Cobb",
+     "out": "Rob Holding"
+    },
+    {
+     "side": "away",
+     "minute": 62,
+     "in": "Hamzat Ojediran",
+     "out": "Morgan Whittaker"
+    },
+    {
+     "side": "away",
+     "minute": 62,
+     "in": "Paxten Aaronson",
+     "out": "Donavan Phillip"
+    },
+    {
+     "side": "home",
+     "minute": 67,
+     "in": "José Caicedo",
+     "out": "Diego Chará"
+    },
+    {
+     "side": "home",
+     "minute": 67,
+     "in": "Ariel Lassiter",
+     "out": "Omir Fernández"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Joao Ortiz",
+     "out": "Eric Izoita"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Cole Bassett",
+     "out": "Vincent Janssen"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Ibrahim Sadiq",
+     "out": "Georgi Minoungou"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Alexander Aravena",
+     "out": "David Da Costa"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Trey Muse",
+     "Eric Miller",
+     "Ian Smith"
+    ],
+    "away": [
+     "Adam Beaudry",
+     "Jackson Travis",
+     "Keegan Rosenberry",
+     "Alex Harris",
+     "Bryan Dowd"
+    ]
+   },
+   "goals": [],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 13,
+     "player": "Rob Holding",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 43,
+     "player": "Kristoffer Velde",
+     "card": "yellow",
+     "reason": "not specified"
+    },
+    {
+     "side": "away",
+     "minute": 43,
+     "player": "Morgan Whittaker",
+     "card": "yellow",
+     "reason": "not specified"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "player": "Kosi Thompson",
+     "card": "yellow",
+     "reason": "not specified"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 40,
+     "player": null,
+     "detail": "VAR review: no penalty awarded"
+    }
+   ],
+   "stats": {
+    "possession": [
+     42,
+     58
+    ],
+    "shots": [
+     11,
+     9
+    ],
+    "onTarget": [
+     4,
+     1
+    ],
+    "corners": [
+     1,
+     4
+    ],
+    "fouls": [
+     17,
+     20
+    ],
+    "xg": [
+     0.64,
+     1.63
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761888",
+    "https://www.espn.com/soccer/match/_/gameId/761888",
+    "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NI",
+    "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NI"
+   ],
+   "notes": "Lineups, events and stats from ESPN; formation/positions, attendance, referee, coaches and xG from the official MLS stats API. Referee country assumed USA (PRO/MLS official). Goal descriptions based on ESPN commentary.",
+   "league": "MLS",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
+   "home_country": "US",
+   "away_country": "US"
+  },
+  {
+   "id": "san-jose-nashville-2026-10-17",
+   "found": true,
+   "competition": "MLS",
+   "round": "Regular season, matchday 31",
+   "date": "2026-10-17",
+   "kickoff_local": "19:30",
+   "home": "San Jose",
+   "away": "Nashville",
+   "score": [
+    1,
+    1
+   ],
+   "venue": {
+    "name": "PayPal Park",
+    "city": "San Jose",
+    "attendance": 16425
+   },
+   "referee": {
+    "name": "Joe Dickerson",
+    "country": "USA"
+   },
+   "coaches": {
+    "home": "Bruce Arena",
+    "away": "B.J. Callaghan"
+   },
+   "formations": {
+    "home": "5-3-2",
+    "away": "4-3-3"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Angus Gunn",
+      "short": "Gunn",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Jamar Ricketts",
+      "short": "Ricketts",
+      "number": 2,
+      "pos": "LB"
+     },
+     {
+      "name": "Reid Roberts",
+      "short": "Roberts",
+      "number": 18,
+      "pos": "CB"
+     },
+     {
+      "name": "Dave Romney",
+      "short": "Romney",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Daniel Munie",
+      "short": "Munie",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Jack Jasinski",
+      "short": "Jasinski",
+      "number": 17,
+      "pos": "RB"
+     },
+     {
+      "name": "Eduard Löwen",
+      "short": "Löwen",
+      "number": 23,
+      "pos": "CM"
+     },
+     {
+      "name": "Ronaldo Vieira",
+      "short": "Vieira",
+      "number": 14,
+      "pos": "CM"
+     },
+     {
+      "name": "Beau Leroux",
+      "short": "Leroux",
+      "number": 34,
+      "pos": "CM"
+     },
+     {
+      "name": "Timo Werner",
+      "short": "Werner",
+      "number": 11,
+      "pos": "ST"
+     },
+     {
+      "name": "Preston Judd",
+      "short": "Judd",
+      "number": 19,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Brian Schwake",
+      "short": "Schwake",
+      "number": 99,
+      "pos": "GK"
+     },
+     {
+      "name": "Daniel Lovitz",
+      "short": "Lovitz",
+      "number": 2,
+      "pos": "LB"
+     },
+     {
+      "name": "Jeisson Palacios",
+      "short": "Palacios",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Maxwell Woledzi",
+      "short": "Woledzi",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Andy Nájar",
+      "short": "Nájar",
+      "number": 31,
+      "pos": "RB"
+     },
+     {
+      "name": "Shakur Mohammed",
+      "short": "Mohammed",
+      "number": 14,
+      "pos": "CM"
+     },
+     {
+      "name": "Patrick Yazbek",
+      "short": "Yazbek",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Matthew Corcoran",
+      "short": "Corcoran",
+      "number": 16,
+      "pos": "CM"
+     },
+     {
+      "name": "Sam Surridge",
+      "short": "Surridge",
+      "number": 9,
+      "pos": "LW"
+     },
+     {
+      "name": "Hany Mukhtar",
+      "short": "Mukhtar",
+      "number": 10,
+      "pos": "ST"
+     },
+     {
+      "name": "Cristian Espinoza",
+      "short": "Espinoza",
+      "number": 7,
+      "pos": "RW"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Elias Saad",
+     "out": "Shakur Mohammed"
+    },
+    {
+     "side": "home",
+     "minute": 67,
+     "in": "Ousseni Bouda",
+     "out": "Timo Werner"
+    },
+    {
+     "side": "away",
+     "minute": 72,
+     "in": "Edvard Tagseth",
+     "out": "Patrick Yazbek"
+    },
+    {
+     "side": "away",
+     "minute": 72,
+     "in": "Reed Baker-Whiting",
+     "out": "Daniel Lovitz"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "in": "Nick Fernandez",
+     "out": "Jamar Ricketts"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "in": "Paul Marie",
+     "out": "Preston Judd"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Warren Madrigal",
+     "out": "Cristian Espinoza"
+    },
+    {
+     "side": "home",
+     "minute": 86,
+     "in": "Max Floriani",
+     "out": "Jack Jasinski"
+    },
+    {
+     "side": "home",
+     "minute": 86,
+     "in": "Ian Harkes",
+     "out": "Ronaldo Vieira"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Vítor Costa",
+     "Noel Buck",
+     "Luka Jovanovic",
+     "Earl Edwards"
+    ],
+    "away": [
+     "Alex Muyl",
+     "Bryan Acosta",
+     "Josh Bauer",
+     "Jack Maher",
+     "Joe Willis"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 34,
+     "scorer": "Hany Mukhtar",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Hany Mukhtar right footed shot from a difficult angle on the right to the top right corner.",
+     "shot": {
+      "x": 96,
+      "y": 35,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 70,
+     "scorer": "Preston Judd",
+     "assist": "Eduard Löwen",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "Preston Judd header from the centre of the box to the top left corner. Assisted by Eduard Löwen with a cross following a set piece situation.",
+     "shot": {
+      "x": 89,
+      "y": 47,
+      "header": true
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 28,
+     "player": "Shakur Mohammed",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 39,
+     "player": "Beau Leroux",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "player": "Preston Judd",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Ian Harkes",
+     "card": "yellow",
+     "reason": "bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     47,
+     53
+    ],
+    "shots": [
+     14,
+     6
+    ],
+    "onTarget": [
+     2,
+     4
+    ],
+    "corners": [
+     4,
+     0
+    ],
+    "fouls": [
+     11,
+     15
+    ],
+    "xg": [
+     0.87,
+     0.44
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761886",
+    "https://www.espn.com/soccer/match/_/gameId/761886",
+    "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NJ",
+    "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NJ"
+   ],
+   "notes": "Lineups, events and stats from ESPN; formation/positions, attendance, referee, coaches and xG from the official MLS stats API. Referee country assumed USA (PRO/MLS official). Goal descriptions based on ESPN commentary.",
+   "league": "MLS",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
+   "home_country": "US",
+   "away_country": "US"
+  },
+  {
+   "id": "seattle-sounders-cf-montreal-2026-10-17",
+   "found": true,
+   "competition": "MLS",
+   "round": "Regular season, matchday 31",
+   "date": "2026-10-17",
+   "kickoff_local": "19:30",
+   "home": "Seattle Sounders",
+   "away": "CF Montréal",
+   "score": [
+    1,
+    1
+   ],
+   "venue": {
+    "name": "Lumen Field",
+    "city": "Seattle",
+    "attendance": 33007
+   },
+   "referee": {
+    "name": "Fotis Bazakos",
+    "country": "USA"
+   },
+   "coaches": {
+    "home": "Brian Schmetzer",
+    "away": "Philippe Eullaffroy"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Andy Thomas",
+      "short": "Thomas",
+      "number": 26,
+      "pos": "GK"
+     },
+     {
+      "name": "Nouhou Tolo",
+      "short": "Tolo",
+      "number": 5,
+      "pos": "LB"
+     },
+     {
+      "name": "Ryan Sailor",
+      "short": "Sailor",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Yeimar Gómez",
+      "short": "Gómez",
+      "number": 28,
+      "pos": "CB"
+     },
+     {
+      "name": "Alex Roldan",
+      "short": "A. Roldan",
+      "number": 16,
+      "pos": "RB"
+     },
+     {
+      "name": "Hassani Dotson",
+      "short": "Dotson",
+      "number": 31,
+      "pos": "DM"
+     },
+     {
+      "name": "Cristian Roldan",
+      "short": "C. Roldan",
+      "number": 7,
+      "pos": "DM"
+     },
+     {
+      "name": "Jordan Morris",
+      "short": "Morris",
+      "number": 13,
+      "pos": "LW"
+     },
+     {
+      "name": "Albert Rusnák",
+      "short": "Rusnák",
+      "number": 11,
+      "pos": "AM"
+     },
+     {
+      "name": "Caden Clark",
+      "short": "Clark",
+      "number": 8,
+      "pos": "RW"
+     },
+     {
+      "name": "Dejan Joveljic",
+      "short": "Joveljic",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Sébastian Breza",
+      "short": "Breza",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Viktor Radojevic",
+      "short": "Radojevic",
+      "number": 28,
+      "pos": "LB"
+     },
+     {
+      "name": "Brandan Craig",
+      "short": "Craig",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Efraín Morales",
+      "short": "Morales",
+      "number": 24,
+      "pos": "CB"
+     },
+     {
+      "name": "Jalen Neal",
+      "short": "Neal",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Victor Loturi",
+      "short": "Loturi",
+      "number": 22,
+      "pos": "DM"
+     },
+     {
+      "name": "Samuel Piette",
+      "short": "Piette",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Noah Streit",
+      "short": "Streit",
+      "number": 23,
+      "pos": "LW"
+     },
+     {
+      "name": "Fabian Herbers",
+      "short": "Herbers",
+      "number": 21,
+      "pos": "AM"
+     },
+     {
+      "name": "Hennadii Synchuk",
+      "short": "Synchuk",
+      "number": 18,
+      "pos": "RW"
+     },
+     {
+      "name": "Alexis Sánchez",
+      "short": "Sánchez",
+      "number": 10,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Sebastian Gomez",
+     "out": "Alex Roldan"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Kalani Kossa-Rienzi",
+     "out": "Caden Clark"
+    },
+    {
+     "side": "away",
+     "minute": 64,
+     "in": "Dawid Bugaj",
+     "out": "Jalen Neal"
+    },
+    {
+     "side": "home",
+     "minute": 64,
+     "in": "Snyder Brunell",
+     "out": "Ryan Sailor"
+    },
+    {
+     "side": "home",
+     "minute": 64,
+     "in": "Jesús Ferreira",
+     "out": "Albert Rusnák"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Dani Pereira",
+     "out": "Victor Loturi"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Wikelman Carmona",
+     "out": "Noah Streit"
+    },
+    {
+     "side": "away",
+     "minute": 87,
+     "in": "Olger Escobar",
+     "out": "Fabian Herbers"
+    },
+    {
+     "side": "home",
+     "minute": 87,
+     "in": "Paul Arriola",
+     "out": "Hassani Dotson"
+    },
+    {
+     "side": "away",
+     "minute": 87,
+     "in": "Matthew Longstaff",
+     "out": "Samuel Piette"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Antino Lopez",
+     "Peter Kingston",
+     "Stefan Frei",
+     "Daniel Musovski"
+    ],
+    "away": [
+     "Luca Petrasso",
+     "Samsy Keita",
+     "Daniel Ríos"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 13,
+     "scorer": "Hennadii Synchuk",
+     "assist": "Noah Streit",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "Hennadii Synchuk left footed shot from the centre of the box to the bottom left corner. Assisted by Noah Streit following a fast break.",
+     "shot": {
+      "x": 84,
+      "y": 51,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 66,
+     "scorer": "Sebastian Gomez",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Sebastian Gomez right footed shot from the centre of the box to the bottom right corner.",
+     "shot": {
+      "x": 88,
+      "y": 62,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 14,
+     "player": "Hassani Dotson",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 33,
+     "player": "Alexis Sánchez",
+     "card": "yellow",
+     "reason": "not specified"
+    },
+    {
+     "side": "away",
+     "minute": 52,
+     "player": "Victor Loturi",
+     "card": "yellow",
+     "reason": "bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     63,
+     37
+    ],
+    "shots": [
+     18,
+     9
+    ],
+    "onTarget": [
+     5,
+     2
+    ],
+    "corners": [
+     5,
+     2
+    ],
+    "fouls": [
+     10,
+     12
+    ],
+    "xg": [
+     2.28,
+     1.13
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761885",
+    "https://www.espn.com/soccer/match/_/gameId/761885",
+    "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NK",
+    "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NK"
+   ],
+   "notes": "Lineups, events and stats from ESPN; formation/positions, attendance, referee, coaches and xG from the official MLS stats API. Referee country assumed USA (PRO/MLS official). Goal descriptions based on ESPN commentary.",
+   "league": "MLS",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
+   "home_country": "US",
+   "away_country": "CA"
+  },
+  {
+   "id": "austin-vancouver-2026-10-17",
+   "found": true,
+   "competition": "MLS",
+   "round": "Regular season, matchday 31",
+   "date": "2026-10-17",
+   "kickoff_local": "19:30",
+   "home": "Austin",
+   "away": "Vancouver",
+   "score": [
+    1,
+    2
+   ],
+   "venue": {
+    "name": "Q2 Stadium",
+    "city": "Austin",
+    "attendance": 20738
+   },
+   "referee": {
+    "name": "Tori Penso",
+    "country": "USA"
+   },
+   "coaches": {
+    "home": "Davy Arnaud",
+    "away": "Jesper Sørensen"
+   },
+   "formations": {
+    "home": "3-4-3",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Brad Stuver",
+      "short": "Stuver",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Jon Bell",
+      "short": "Bell",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Oleksandr Svatok",
+      "short": "Svatok",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Brendan Hines-Ike",
+      "short": "Hines-Ike",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Myrto Uzuni",
+      "short": "Uzuni",
+      "number": 10,
+      "pos": "LB"
+     },
+     {
+      "name": "Besard Sabovic",
+      "short": "Sabovic",
+      "number": 14,
+      "pos": "DM"
+     },
+     {
+      "name": "Ervin Torres",
+      "short": "Torres",
+      "number": 38,
+      "pos": "DM"
+     },
+     {
+      "name": "Christian Ramírez",
+      "short": "Ramírez",
+      "number": 21,
+      "pos": "RB"
+     },
+     {
+      "name": "Jon Gallagher",
+      "short": "Gallagher",
+      "number": 17,
+      "pos": "LW"
+     },
+     {
+      "name": "Brandon Vázquez",
+      "short": "Vázquez",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Joseph Rosales",
+      "short": "Rosales",
+      "number": 30,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Yohei Takaoka",
+      "short": "Takaoka",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Tate Johnson",
+      "short": "Johnson",
+      "number": 28,
+      "pos": "LB"
+     },
+     {
+      "name": "Tristan Blackmon",
+      "short": "Blackmon",
+      "number": 33,
+      "pos": "CB"
+     },
+     {
+      "name": "Mathías Laborda",
+      "short": "Laborda",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Édier Ocampo",
+      "short": "Ocampo",
+      "number": 18,
+      "pos": "RB"
+     },
+     {
+      "name": "Aleksa Cvetković",
+      "short": "Cvetković",
+      "number": 23,
+      "pos": "DM"
+     },
+     {
+      "name": "Andrés Cubas",
+      "short": "Cubas",
+      "number": 20,
+      "pos": "DM"
+     },
+     {
+      "name": "Bruno Caicedo",
+      "short": "Caicedo",
+      "number": 14,
+      "pos": "LW"
+     },
+     {
+      "name": "Ryan Gauld",
+      "short": "Gauld",
+      "number": 25,
+      "pos": "AM"
+     },
+     {
+      "name": "Emmanuel Sabbi",
+      "short": "Sabbi",
+      "number": 11,
+      "pos": "RW"
+     },
+     {
+      "name": "Brian White",
+      "short": "White",
+      "number": 24,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 64,
+     "in": "Guilherme Biro",
+     "out": "Oleksandr Svatok"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "in": "Yadaly Diaby",
+     "out": "Bruno Caicedo"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "in": "Ralph Priso-Mbongue",
+     "out": "Andrés Cubas"
+    },
+    {
+     "side": "home",
+     "minute": 73,
+     "in": "Jorge Alastuey",
+     "out": "Besard Sabovic"
+    },
+    {
+     "side": "home",
+     "minute": 74,
+     "in": "Facundo Torres",
+     "out": "Christian Ramírez"
+    },
+    {
+     "side": "home",
+     "minute": 74,
+     "in": "Mikkel Desler",
+     "out": "Brendan Hines-Ike"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Oliver Larraz",
+     "out": "Aleksa Cvetković"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Cheick Sabaly",
+     "out": "Emmanuel Sabbi"
+    },
+    {
+     "side": "home",
+     "minute": 82,
+     "in": "Ilie Sánchez",
+     "out": "Jon Gallagher"
+    },
+    {
+     "side": "away",
+     "minute": 87,
+     "in": "Rayan Elloumi",
+     "out": "Brian White"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Chris Applewhite",
+     "Przemyslaw Placheta",
+     "Damian Las",
+     "Mateja Djordjevic"
+    ],
+    "away": [
+     "Mihail Gherasimencov",
+     "Rui Modesto",
+     "Ranko Veselinovic",
+     "Isaac Boehmer"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 40,
+     "scorer": "Myrto Uzuni",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Myrto Uzuni left footed shot from the centre of the box to the centre of the goal.",
+     "shot": {
+      "x": 87,
+      "y": 46,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 47,
+     "scorer": "Ryan Gauld",
+     "assist": "Emmanuel Sabbi",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Ryan Gauld header from the centre of the box to the bottom left corner. Assisted by Emmanuel Sabbi with a cross.",
+     "shot": {
+      "x": 90,
+      "y": 46,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 71,
+     "scorer": "Yadaly Diaby",
+     "assist": "Tate Johnson",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Yadaly Diaby right footed shot from a difficult angle and long range on the left to the top right corner. Assisted by Tate Johnson.",
+     "shot": {
+      "x": 84,
+      "y": 80,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 13,
+     "player": "Andrés Cubas",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 36,
+     "player": "Tristan Blackmon",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Ryan Gauld",
+     "card": "yellow",
+     "reason": "not specified"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     46,
+     54
+    ],
+    "shots": [
+     9,
+     10
+    ],
+    "onTarget": [
+     5,
+     3
+    ],
+    "corners": [
+     4,
+     6
+    ],
+    "fouls": [
+     8,
+     11
+    ],
+    "xg": [
+     0.8,
+     1.1
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761882",
+    "https://www.espn.com/soccer/match/_/gameId/761882",
+    "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009N8",
+    "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009N8"
+   ],
+   "notes": "Lineups, events and stats from ESPN; formation/positions, attendance, referee, coaches and xG from the official MLS stats API. Referee country assumed USA (PRO/MLS official). Goal descriptions based on ESPN commentary.",
+   "league": "MLS",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
+   "home_country": "US",
+   "away_country": "CA"
+  },
+  {
+   "id": "houston-dallas-2026-10-17",
+   "found": true,
+   "competition": "MLS",
+   "round": "Regular season, matchday 31",
+   "date": "2026-10-17",
+   "kickoff_local": "19:30",
+   "home": "Houston",
+   "away": "Dallas",
+   "score": [
+    2,
+    2
+   ],
+   "venue": {
+    "name": "Shell Energy Stadium",
+    "city": "Houston",
+    "attendance": 20112
+   },
+   "referee": {
+    "name": "Victor Rivas",
+    "country": "USA"
+   },
+   "coaches": {
+    "home": "Ben Olsen",
+    "away": "Eric Quill"
+   },
+   "formations": {
+    "home": "5-3-2",
+    "away": "4-4-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Jonathan Bond",
+      "short": "Bond",
+      "number": 31,
+      "pos": "GK"
+     },
+     {
+      "name": "Franco Negri",
+      "short": "Negri",
+      "number": 21,
+      "pos": "LB"
+     },
+     {
+      "name": "Agustín Resch",
+      "short": "Resch",
+      "number": 34,
+      "pos": "CB"
+     },
+     {
+      "name": "Artur",
+      "short": "Artur",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Lucas Halter",
+      "short": "Halter",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Lawrence Ennali",
+      "short": "Ennali",
+      "number": 11,
+      "pos": "RB"
+     },
+     {
+      "name": "Héctor Herrera",
+      "short": "Herrera",
+      "number": 16,
+      "pos": "CM"
+     },
+     {
+      "name": "Diadie Samassekou",
+      "short": "Samassekou",
+      "number": 18,
+      "pos": "CM"
+     },
+     {
+      "name": "Mateusz Bogusz",
+      "short": "Bogusz",
+      "number": 19,
+      "pos": "CM"
+     },
+     {
+      "name": "Guilherme Augusto",
+      "short": "Guilherme Augusto",
+      "number": 20,
+      "pos": "ST"
+     },
+     {
+      "name": "Lyle Foster",
+      "short": "Foster",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Daniel",
+      "short": "Daniel",
+      "number": 42,
+      "pos": "GK"
+     },
+     {
+      "name": "Bernard Kamungo",
+      "short": "Kamungo",
+      "number": 77,
+      "pos": "LB"
+     },
+     {
+      "name": "Nolan Norris",
+      "short": "Norris",
+      "number": 32,
+      "pos": "CB"
+     },
+     {
+      "name": "Sebastien Ibeagha",
+      "short": "Ibeagha",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Shaq Moore",
+      "short": "Moore",
+      "number": 18,
+      "pos": "RB"
+     },
+     {
+      "name": "Patrickson Delgado",
+      "short": "Delgado",
+      "number": 8,
+      "pos": "LW"
+     },
+     {
+      "name": "Christian Cappis",
+      "short": "Cappis",
+      "number": 12,
+      "pos": "DM"
+     },
+     {
+      "name": "Ramiro",
+      "short": "Ramiro",
+      "number": 17,
+      "pos": "DM"
+     },
+     {
+      "name": "Herman Johansson",
+      "short": "Johansson",
+      "number": 14,
+      "pos": "RW"
+     },
+     {
+      "name": "Petar Musa",
+      "short": "Musa",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Daniel Job",
+      "short": "Job",
+      "number": 7,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Ibrahim Aliyu",
+     "out": "Diadie Samassekou"
+    },
+    {
+     "side": "away",
+     "minute": 61,
+     "in": "Santiago Moreno",
+     "out": "Daniel Job"
+    },
+    {
+     "side": "away",
+     "minute": 61,
+     "in": "Joaquín Valiente",
+     "out": "Patrickson Delgado"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Duncan McGuire",
+     "out": "Lyle Foster"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Ran Binyamin",
+     "out": "Herman Johansson"
+    },
+    {
+     "side": "home",
+     "minute": 87,
+     "in": "Duane Holmes",
+     "out": "Lawrence Ennali"
+    },
+    {
+     "side": "home",
+     "minute": 88,
+     "in": "Nicholas Markanich",
+     "out": "Guilherme Augusto"
+    },
+    {
+     "side": "away",
+     "minute": 89,
+     "in": "Samuel Sarver",
+     "out": "Bernard Kamungo"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Marcelo Saracchi",
+     "Matthew Arana",
+     "Blake Gillingham",
+     "Agustín Bouzat",
+     "Antônio Carlos"
+    ],
+    "away": [
+     "Clay Holstad",
+     "Osaze Urhoghide",
+     "Caleb Swann",
+     "Jonathan Sirois",
+     "Lalas Abubakar"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 12,
+     "scorer": "Christian Cappis",
+     "assist": "Daniel Job",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Christian Cappis left footed shot from the left side of the box to the top right corner. Assisted by Daniel Job.",
+     "shot": {
+      "x": 83,
+      "y": 74,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 49,
+     "scorer": "Héctor Herrera",
+     "assist": "Guilherme Augusto",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "Héctor Herrera header from very close range to the top right corner. Assisted by Guilherme with a cross following a corner.",
+     "shot": {
+      "x": 95,
+      "y": 46,
+      "header": true
+     }
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "scorer": "Mateusz Bogusz",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "Nolan Norris conceded a penalty for handball in the area. Mateusz Bogusz converts the penalty with a right footed shot to the bottom right corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "scorer": "Petar Musa",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "Ran Binyamin was fouled in the box by Duncan McGuire. Petar Musa converts the penalty with a right footed shot to the bottom left corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 27,
+     "player": "Agustín Resch",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 28,
+     "player": "Franco Negri",
+     "card": "yellow",
+     "reason": "not specified"
+    },
+    {
+     "side": "away",
+     "minute": 59,
+     "player": "Sebastien Ibeagha",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 60,
+     "player": "Diadie Samassekou",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Lucas Halter",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Mateusz Bogusz",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Samuel Sarver",
+     "card": "red",
+     "reason": "not specified"
+    }
+   ],
+   "var": [
+    {
+     "side": "away",
+     "minute": 67,
+     "player": "Herman Johansson",
+     "detail": "Goal ruled out after VAR review"
+    }
+   ],
+   "stats": {
+    "possession": [
+     57,
+     43
+    ],
+    "shots": [
+     11,
+     15
+    ],
+    "onTarget": [
+     3,
+     6
+    ],
+    "corners": [
+     5,
+     5
+    ],
+    "fouls": [
+     13,
+     20
+    ],
+    "xg": [
+     1.44,
+     2.46
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761883",
+    "https://www.espn.com/soccer/match/_/gameId/761883",
+    "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009N9",
+    "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009N9"
+   ],
+   "notes": "Missed penalty: Penalty saved. Petar Musa (FC Dallas) right footed shot saved in the bottom right corner by Jonathan Bond (Houston Dynamo FC). Lineups, events and stats from ESPN; formation/positions, attendance, referee, coaches and xG from the official MLS stats API. Referee country assumed USA (PRO/MLS official). Goal descriptions based on ESPN commentary.",
+   "league": "MLS",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
+   "home_country": "US",
+   "away_country": "US"
+  },
+  {
+   "id": "kansas-city-salt-lake-2026-10-17",
+   "found": true,
+   "competition": "MLS",
+   "round": "Regular season, matchday 31",
+   "date": "2026-10-17",
+   "kickoff_local": "19:30",
+   "home": "Kansas City",
+   "away": "Salt Lake",
+   "score": [
+    1,
+    3
+   ],
+   "venue": {
+    "name": "Sporting Park",
+    "city": "Kansas City",
+    "attendance": 13873
+   },
+   "referee": {
+    "name": "Alexis Da Silva",
+    "country": "USA"
+   },
+   "coaches": {
+    "home": "Rapha Wicky",
+    "away": "Pablo Mastroeni"
+   },
+   "formations": {
+    "home": "4-4-2",
+    "away": "5-4-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Stefan Cleveland",
+      "short": "Cleveland",
+      "number": 30,
+      "pos": "GK"
+     },
+     {
+      "name": "Emir Karic",
+      "short": "Karic",
+      "number": 18,
+      "pos": "LB"
+     },
+     {
+      "name": "Wyatt Meyer",
+      "short": "Meyer",
+      "number": 28,
+      "pos": "CB"
+     },
+     {
+      "name": "Jansen Miller",
+      "short": "Miller",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Jacob Bartlett",
+      "short": "Bartlett",
+      "number": 16,
+      "pos": "RB"
+     },
+     {
+      "name": "Calvin Harris",
+      "short": "Harris",
+      "number": 14,
+      "pos": "LW"
+     },
+     {
+      "name": "Zorhan Bassong",
+      "short": "Bassong",
+      "number": 22,
+      "pos": "DM"
+     },
+     {
+      "name": "Kwaku Agyabeng",
+      "short": "Agyabeng",
+      "number": 20,
+      "pos": "DM"
+     },
+     {
+      "name": "André Luiz",
+      "short": "André Luiz",
+      "number": 11,
+      "pos": "RW"
+     },
+     {
+      "name": "Stephen Afrifa",
+      "short": "Afrifa",
+      "number": 17,
+      "pos": "ST"
+     },
+     {
+      "name": "Taylor Calheira",
+      "short": "Calheira",
+      "number": 19,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Rafael",
+      "short": "Rafael",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Juan Manuel Sanabria",
+      "short": "Sanabria",
+      "number": 8,
+      "pos": "LB"
+     },
+     {
+      "name": "Philip Quinton",
+      "short": "Quinton",
+      "number": 26,
+      "pos": "CB"
+     },
+     {
+      "name": "Luc de Fougerolles",
+      "short": "de Fougerolles",
+      "number": 44,
+      "pos": "CB"
+     },
+     {
+      "name": "Kobi Henry",
+      "short": "Henry",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Dominik Marczuk",
+      "short": "Marczuk",
+      "number": 11,
+      "pos": "RB"
+     },
+     {
+      "name": "Saba Lobjanidze",
+      "short": "Lobjanidze",
+      "number": 12,
+      "pos": "LW"
+     },
+     {
+      "name": "Noel Caliskan",
+      "short": "Caliskan",
+      "number": 92,
+      "pos": "DM"
+     },
+     {
+      "name": "Stijn Spierings",
+      "short": "Spierings",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Morgan Guilavogui",
+      "short": "Guilavogui",
+      "number": 9,
+      "pos": "RW"
+     },
+     {
+      "name": "Sergi Solans",
+      "short": "Solans",
+      "number": 22,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Capita",
+     "out": "Stephen Afrifa"
+    },
+    {
+     "side": "home",
+     "minute": 62,
+     "in": "Jacob Davis",
+     "out": "Kwaku Agyabeng"
+    },
+    {
+     "side": "away",
+     "minute": 63,
+     "in": "Zach Booth",
+     "out": "Dominik Marczuk"
+    },
+    {
+     "side": "home",
+     "minute": 73,
+     "in": "Ian James",
+     "out": "Zorhan Bassong"
+    },
+    {
+     "side": "home",
+     "minute": 73,
+     "in": "Seymour Reid",
+     "out": "Taylor Calheira"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "in": "Aiden Hezarkhani",
+     "out": "Saba Lobjanidze"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "in": "Ariath Piol",
+     "out": "Sergi Solans"
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "in": "Samuel Junqua",
+     "out": "Luc de Fougerolles"
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "in": "Alexandros Katranis",
+     "out": "Morgan Guilavogui"
+    },
+    {
+     "side": "home",
+     "minute": 87,
+     "in": "Ruben Ramos",
+     "out": "Calvin Harris"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Ethan Bartlow",
+     "Jayden Reid",
+     "Shapi Suleymanov",
+     "John Pulskamp"
+    ],
+    "away": [
+     "Colin Guske",
+     "Dušan Žagar",
+     "Mason Stajduhar",
+     "DeAndre Yedlin"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 11,
+     "scorer": "Morgan Guilavogui",
+     "assist": "Noel Caliskan",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Morgan Guilavogui right footed shot from the left side of the six yard box to the bottom right corner. Assisted by Noel Caliskan.",
+     "shot": {
+      "x": 96,
+      "y": 61,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 14,
+     "scorer": "Sergi Solans",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Sergi Solans right footed shot from the centre of the box to the bottom right corner.",
+     "shot": {
+      "x": 94,
+      "y": 45,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 26,
+     "scorer": "Taylor Calheira",
+     "assist": "André Luiz",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Taylor Calheira right footed shot from the centre of the box to the top right corner. Assisted by André Luiz following a fast break.",
+     "shot": {
+      "x": 90,
+      "y": 59,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 61,
+     "scorer": "Morgan Guilavogui",
+     "assist": "Noel Caliskan",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Morgan Guilavogui right footed shot from the left side of the box to the centre of the goal. Assisted by Noel Caliskan.",
+     "shot": {
+      "x": 92,
+      "y": 66,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 45,
+     "player": "Luc de Fougerolles",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 72,
+     "player": "Juan Manuel Sanabria",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 74,
+     "player": "Calvin Harris",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "player": "Jacob Bartlett",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Zach Booth",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Stijn Spierings",
+     "card": "yellow",
+     "reason": "not specified"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Jansen Miller",
+     "card": "yellow",
+     "reason": "bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     51,
+     49
+    ],
+    "shots": [
+     8,
+     13
+    ],
+    "onTarget": [
+     3,
+     8
+    ],
+    "corners": [
+     7,
+     5
+    ],
+    "fouls": [
+     14,
+     10
+    ],
+    "xg": [
+     1.43,
+     1.35
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761884",
+    "https://www.espn.com/soccer/match/_/gameId/761884",
+    "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NA",
+    "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NA"
+   ],
+   "notes": "Kansas City formation from ESPN (not given by MLS data). Salt Lake formation from ESPN (not given by MLS data). Lineups, events and stats from ESPN; formation/positions, attendance, referee, coaches and xG from the official MLS stats API. Referee country assumed USA (PRO/MLS official). Goal descriptions based on ESPN commentary.",
+   "league": "MLS",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
+   "home_country": "US",
+   "away_country": "US"
+  },
+  {
+   "id": "atlanta-inter-miami-2026-10-17",
+   "found": true,
+   "competition": "MLS",
+   "round": "Regular season, matchday 31",
+   "date": "2026-10-17",
+   "kickoff_local": "19:30",
+   "home": "Atlanta",
+   "away": "Inter Miami",
+   "score": [
+    1,
+    3
+   ],
+   "venue": {
+    "name": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "attendance": 46686
+   },
+   "referee": {
+    "name": "Allen Chapman",
+    "country": "USA"
+   },
+   "coaches": {
+    "home": "Gerardo Martino",
+    "away": "Cristian González"
+   },
+   "formations": {
+    "home": "4-3-3",
+    "away": "4-3-3"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Lucas Hoyos",
+      "short": "Hoyos",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Elías Baez",
+      "short": "Baez",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Júnior Alonso",
+      "short": "Alonso",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Paulo Díaz",
+      "short": "Díaz",
+      "number": 27,
+      "pos": "CB"
+     },
+     {
+      "name": "Tomás Jacob",
+      "short": "Jacob",
+      "number": 55,
+      "pos": "RB"
+     },
+     {
+      "name": "Mauricio Amaro",
+      "short": "Amaro",
+      "number": 14,
+      "pos": "CM"
+     },
+     {
+      "name": "Tristan Muyumba",
+      "short": "Muyumba",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Giuliano Galoppo",
+      "short": "Galoppo",
+      "number": 11,
+      "pos": "CM"
+     },
+     {
+      "name": "Alexey Miranchuk",
+      "short": "Miranchuk",
+      "number": 59,
+      "pos": "LW"
+     },
+     {
+      "name": "Breel Embolo",
+      "short": "Embolo",
+      "number": 36,
+      "pos": "ST"
+     },
+     {
+      "name": "Miguel Almirón",
+      "short": "Almirón",
+      "number": 10,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Dayne St. Clair",
+      "short": "St. Clair",
+      "number": 97,
+      "pos": "GK"
+     },
+     {
+      "name": "Sergio Reguilón",
+      "short": "Reguilón",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Micael",
+      "short": "Micael",
+      "number": 16,
+      "pos": "CB"
+     },
+     {
+      "name": "Casemiro",
+      "short": "Casemiro",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Gonzalo Luján",
+      "short": "Luján",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Matías Galarza",
+      "short": "Galarza",
+      "number": 80,
+      "pos": "CM"
+     },
+     {
+      "name": "David Ayala",
+      "short": "Ayala",
+      "number": 22,
+      "pos": "DM"
+     },
+     {
+      "name": "Rodrigo De Paul",
+      "short": "De Paul",
+      "number": 7,
+      "pos": "CM"
+     },
+     {
+      "name": "Germán Berterame",
+      "short": "Berterame",
+      "number": 19,
+      "pos": "LW"
+     },
+     {
+      "name": "Luis Suárez",
+      "short": "Suárez",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Lionel Messi",
+      "short": "Messi",
+      "number": 10,
+      "pos": "RW"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Steven Alzate",
+     "out": "Tristan Muyumba"
+    },
+    {
+     "side": "away",
+     "minute": 75,
+     "in": "Maximiliano Falcón",
+     "out": "Casemiro"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Telasco Segovia",
+     "out": "Matías Galarza"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Facundo Mura",
+     "out": "Germán Berterame"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Cooper Sanchez",
+     "out": "Giuliano Galoppo"
+    },
+    {
+     "side": "home",
+     "minute": 82,
+     "in": "Fafà Picault",
+     "out": "Miguel Almirón"
+    },
+    {
+     "side": "home",
+     "minute": 82,
+     "in": "Matt Edwards",
+     "out": "Elías Baez"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Jayden Hibbert",
+     "Enea Mihaj",
+     "Sergio Santos",
+     "Jay Fortune",
+     "Luke Brennan"
+    ],
+    "away": [
+     "Dániel Pintér",
+     "Rocco Ríos Novo",
+     "Riquelme",
+     "Santiago Morales",
+     "Ian Fray",
+     "Alexander Shaw"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 45,
+     "scorer": "Germán Berterame",
+     "assist": "Luis Suárez",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Germán Berterame header from very close range to the bottom right corner. Assisted by Luis Suárez.",
+     "shot": {
+      "x": 97,
+      "y": 52,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 56,
+     "scorer": "Lionel Messi",
+     "assist": "Germán Berterame",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Lionel Messi left footed shot from the centre of the box to the centre of the goal. Assisted by Germán Berterame.",
+     "shot": {
+      "x": 92,
+      "y": 61,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "scorer": "Lionel Messi",
+     "assist": "Luis Suárez",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "Lionel Messi left footed shot from the centre of the box to the bottom right corner. Assisted by Luis Suárez following a fast break.",
+     "shot": {
+      "x": 89,
+      "y": 55,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 89,
+     "scorer": "Fafà Picault",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "Fafà Picault was fouled in the box by Maximiliano Falcón. Fafà Picault converts the penalty with a right footed shot to the bottom right corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 44,
+     "player": "Tomás Jacob",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 54,
+     "player": "Mauricio Amaro",
+     "card": "yellow",
+     "reason": "not specified"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "player": "Breel Embolo",
+     "card": "yellow",
+     "reason": "not specified"
+    },
+    {
+     "side": "away",
+     "minute": 89,
+     "player": "Maximiliano Falcón",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Lionel Messi",
+     "card": "yellow",
+     "reason": "bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "away",
+     "minute": 71,
+     "player": null,
+     "detail": "VAR review: no penalty awarded"
+    }
+   ],
+   "stats": {
+    "possession": [
+     45,
+     55
+    ],
+    "shots": [
+     20,
+     7
+    ],
+    "onTarget": [
+     3,
+     5
+    ],
+    "corners": [
+     5,
+     2
+    ],
+    "fouls": [
+     8,
+     11
+    ],
+    "xg": [
+     2.32,
+     1.45
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761880",
+    "https://www.espn.com/soccer/match/_/gameId/761880",
+    "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009N7",
+    "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009N7"
+   ],
+   "notes": "Atlanta formation from ESPN (not given by MLS data). Inter Miami formation from ESPN (not given by MLS data). Lineups, events and stats from ESPN; formation/positions, attendance, referee, coaches and xG from the official MLS stats API. Referee country assumed USA (PRO/MLS official). Goal descriptions based on ESPN commentary.",
+   "league": "MLS",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
+   "home_country": "US",
+   "away_country": "US"
+  },
+  {
+   "id": "nycfc-lafc-2026-10-17",
+   "found": true,
+   "competition": "MLS",
+   "round": "Regular season, matchday 31",
+   "date": "2026-10-17",
+   "kickoff_local": "19:30",
+   "home": "NYCFC",
+   "away": "LAFC",
+   "score": [
+    1,
+    1
+   ],
+   "venue": {
+    "name": "Citi Field",
+    "city": "New York",
+    "attendance": 23873
+   },
+   "referee": {
+    "name": "Rosendo Mendoza",
+    "country": "USA"
+   },
+   "coaches": {
+    "home": "Pascal Jansen",
+    "away": "Xavier Tamarit"
+   },
+   "formations": {
+    "home": "4-3-3",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Matt Freese",
+      "short": "Freese",
+      "number": 49,
+      "pos": "GK"
+     },
+     {
+      "name": "Kevin O'Toole",
+      "short": "O'Toole",
+      "number": 22,
+      "pos": "LB"
+     },
+     {
+      "name": "James Sands",
+      "short": "Sands",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Thiago Martins",
+      "short": "Martins",
+      "number": 13,
+      "pos": "CB"
+     },
+     {
+      "name": "Tayvon Gray",
+      "short": "Gray",
+      "number": 24,
+      "pos": "RB"
+     },
+     {
+      "name": "Andrés Perea",
+      "short": "Perea",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Nicolás Fernández",
+      "short": "Fernández",
+      "number": 7,
+      "pos": "DM"
+     },
+     {
+      "name": "Aiden O'Neill",
+      "short": "O'Neill",
+      "number": 21,
+      "pos": "CM"
+     },
+     {
+      "name": "Hannes Wolf",
+      "short": "Wolf",
+      "number": 17,
+      "pos": "LW"
+     },
+     {
+      "name": "Luighi Hanri",
+      "short": "Luighi Hanri",
+      "number": 20,
+      "pos": "ST"
+     },
+     {
+      "name": "Agustin Ojeda",
+      "short": "Ojeda",
+      "number": 26,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Hugo Lloris",
+      "short": "Lloris",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Yevhen Cheberko",
+      "short": "Cheberko",
+      "number": 23,
+      "pos": "LB"
+     },
+     {
+      "name": "Nkosi Tafari",
+      "short": "Tafari",
+      "number": 91,
+      "pos": "CB"
+     },
+     {
+      "name": "Aaron Long",
+      "short": "Long",
+      "number": 33,
+      "pos": "CB"
+     },
+     {
+      "name": "Ryan Hollingshead",
+      "short": "Hollingshead",
+      "number": 24,
+      "pos": "RB"
+     },
+     {
+      "name": "Igor Jesus",
+      "short": "Igor Jesus",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Mark Delgado",
+      "short": "Delgado",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Jacob Shaffelburg",
+      "short": "Shaffelburg",
+      "number": 18,
+      "pos": "LW"
+     },
+     {
+      "name": "Son Heung-Min",
+      "short": "Son",
+      "number": 7,
+      "pos": "AM"
+     },
+     {
+      "name": "Leo Walta",
+      "short": "Walta",
+      "number": 81,
+      "pos": "RW"
+     },
+     {
+      "name": "Denis Bouanga",
+      "short": "Bouanga",
+      "number": 99,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 58,
+     "in": "Mathieu Choinière",
+     "out": "Igor Jesus"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Armindo Sieb",
+     "out": "Jacob Shaffelburg"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Sergi Palencia",
+     "out": "Ryan Hollingshead"
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "in": "Talles Magno",
+     "out": "Agustin Ojeda"
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "in": "Bénie Traoré",
+     "out": "Luighi Hanri"
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "in": "Sergio Vásquez",
+     "out": "Mark Delgado"
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "in": "Ryan Porteous",
+     "out": "Aaron Long"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Jonathan Shore",
+     "Alonso Martínez",
+     "Raul Gustavo",
+     "Matt Miazga",
+     "Malachi Jones",
+     "Mitja Ilenic",
+     "Tomas Romero"
+    ],
+    "away": [
+     "Tyler Boyd",
+     "Thomas Hasal",
+     "Eddie Segura",
+     "Ryan Raposo"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 45,
+     "scorer": "Leo Walta",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "direct",
+     "foot": "right",
+     "description": "Leo Walta from a free kick with a right footed shot to the top right corner.",
+     "shot": {
+      "x": 71,
+      "y": 54,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 59,
+     "scorer": "Andrés Perea",
+     "assist": "Nicolás Fernández",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "Andrés Perea header from the right side of the six yard box to the high centre of the goal. Assisted by Nicolás Fernández Mercau with a cross following a corner.",
+     "shot": {
+      "x": 95,
+      "y": 44,
+      "header": true
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 28,
+     "player": "Hannes Wolf",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 44,
+     "player": "Aiden O'Neill",
+     "card": "yellow",
+     "reason": "bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 54,
+     "player": "Agustin Ojeda",
+     "card": "yellow",
+     "reason": "bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     66,
+     34
+    ],
+    "shots": [
+     13,
+     9
+    ],
+    "onTarget": [
+     3,
+     3
+    ],
+    "corners": [
+     10,
+     4
+    ],
+    "fouls": [
+     18,
+     8
+    ],
+    "xg": [
+     0.95,
+     0.68
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761877",
+    "https://www.espn.com/soccer/match/_/gameId/761877",
+    "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NE",
+    "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NE"
+   ],
+   "notes": "Lineups, events and stats from ESPN; formation/positions, attendance, referee, coaches and xG from the official MLS stats API. Referee country assumed USA (PRO/MLS official). Goal descriptions based on ESPN commentary.",
+   "league": "MLS",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
+   "home_country": "US",
+   "away_country": "US"
+  }
+ ]
+}

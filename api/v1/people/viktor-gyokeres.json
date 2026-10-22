@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "viktor-gyokeres",
+    "name": "Viktor Gyökeres",
+    "short": "Gyökeres",
+    "position": "ST",
+    "photo": "assets/photos/people/viktor-gyokeres.jpg",
+    "matches": [
+      {
+        "match": "bayern-arsenal",
+        "date": "2026-10-21",
+        "team": "Arsenal",
+        "role": "bench"
+      }
+    ]
+  }
+}

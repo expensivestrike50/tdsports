@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "rasmus-hjlund",
+    "name": "Rasmus Højlund",
+    "short": "Højlund",
+    "position": "ST",
+    "photo": "assets/photos/people/rasmus-hjlund.jpg",
+    "matches": [
+      {
+        "match": "napoli-bodo",
+        "date": "2026-10-20",
+        "team": "Napoli",
+        "role": "starter"
+      }
+    ]
+  }
+}

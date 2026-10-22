@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "lorenzo-pellegrini-as-roma-genoa-2026-10-17",
+    "name": "Lorenzo Pellegrini",
+    "short": "Pellegrini",
+    "position": "AM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "as-roma-genoa-2026-10-17",
+        "date": "2026-10-17",
+        "team": "AS Roma",
+        "role": "bench"
+      }
+    ]
+  }
+}

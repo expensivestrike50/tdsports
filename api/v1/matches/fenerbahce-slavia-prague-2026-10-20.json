@@ -1,0 +1,837 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "fenerbahce-slavia-prague-2026-10-20",
+    "date": "2026-10-20",
+    "kickoff": "19:45",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Fenerbahce",
+      "id": "fenerbahce",
+      "crest": "assets/clubs/436.png",
+      "country": "TR"
+    },
+    "away": {
+      "name": "Slavia Prague",
+      "id": "slavia-prague",
+      "crest": "assets/clubs/494.png",
+      "country": "CZ"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Şükrü Saracoğlu Stadium",
+      "city": "Istanbul",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "ismail-kartal",
+          "name": "İsmail Kartal",
+          "short": "Kartal",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "ederson",
+            "name": "Ederson",
+            "short": "Ederson",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "archie-brown",
+            "name": "Archie Brown",
+            "short": "Brown",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.7
+          },
+          {
+            "id": "nathan-ake",
+            "name": "Nathan Aké",
+            "short": "Aké",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7.1
+          },
+          {
+            "id": "milan-skriniar",
+            "name": "Milan Skriniar",
+            "short": "Skriniar",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.4
+          },
+          {
+            "id": "nelson-semedo",
+            "name": "Nélson Semedo",
+            "short": "Semedo",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "matteo-guendouzi",
+            "name": "Matteo Guendouzi",
+            "short": "Guendouzi",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.1
+          },
+          {
+            "id": "n-golo-kante",
+            "name": "N'Golo Kanté",
+            "short": "Kanté",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.3
+          },
+          {
+            "id": "kerem-akturkoglu",
+            "name": "Kerem Aktürkoglu",
+            "short": "Aktürkoglu",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.5
+          },
+          {
+            "id": "mason-greenwood",
+            "name": "Mason Greenwood",
+            "short": "Greenwood",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 8.1
+          },
+          {
+            "id": "oguz-aydin",
+            "name": "Oguz Aydin",
+            "short": "Aydin",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.4
+          },
+          {
+            "id": "vedat-muriqi",
+            "name": "Vedat Muriqi",
+            "short": "Muriqi",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "kojo-peprah-oppong",
+            "name": "Kojo Peprah Oppong",
+            "short": "Oppong",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "romelu-lukaku",
+            "name": "Romelu Lukaku",
+            "short": "Lukaku",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "nene-dorgeles",
+            "name": "Nene Dorgeles",
+            "short": "Dorgeles",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "irfan-can-kahveci",
+            "name": "Irfan Can Kahveci",
+            "short": "Kahveci",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "ismail-yuksek",
+            "name": "Ismail Yüksek",
+            "short": "Yüksek",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "yigit-demir",
+            "name": "Yiğit Demir",
+            "short": "Demir",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "munir-mercan",
+            "name": "Munir Mercan",
+            "short": "Mercan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "bartug-elmaz",
+            "name": "Bartug Elmaz",
+            "short": "Elmaz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mert-gunok",
+            "name": "Mert Günok",
+            "short": "Günok",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ognjen-mimovic",
+            "name": "Ognjen Mimovic",
+            "short": "Mimovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tarik-cetin",
+            "name": "Tarik Cetin",
+            "short": "Cetin",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "jindrich-trpisovsky",
+          "name": "Jindřich Trpišovský",
+          "short": "Trpišovský",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "jakub-markovic",
+            "name": "Jakub Markovic",
+            "short": "Markovic",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "ange-n-guessan",
+            "name": "Ange N'Guessan",
+            "short": "N'Guessan",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 6.4
+          },
+          {
+            "id": "david-zima",
+            "name": "David Zima",
+            "short": "Zima",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "tomas-vlcek",
+            "name": "Tomáš Vlček",
+            "short": "Vlček",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 6.8
+          },
+          {
+            "id": "oskar-kubiak",
+            "name": "Oskar Kubiak",
+            "short": "Kubiak",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 6.3
+          },
+          {
+            "id": "wiktor-nowak",
+            "name": "Wiktor Nowak",
+            "short": "Nowak",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 6.2
+          },
+          {
+            "id": "david-moses",
+            "name": "David Moses",
+            "short": "Moses",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 6.8
+          },
+          {
+            "id": "mubarak-suleiman",
+            "name": "Mubarak Suleiman",
+            "short": "Suleiman",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "danijel-sturm",
+            "name": "Danijel Sturm",
+            "short": "Sturm",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 7
+          },
+          {
+            "id": "emmanuel-dennis-ayaosi",
+            "name": "Emmanuel Dennis Ayaosi",
+            "short": "Ayaosi",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 7
+          },
+          {
+            "id": "lukas-provod",
+            "name": "Lukáš Provod",
+            "short": "Provod",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "mojmir-chytil",
+            "name": "Mojmír Chytil",
+            "short": "Chytil",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "samuel-isife",
+            "name": "Samuel Isife",
+            "short": "Isife",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "toumani-diakite",
+            "name": "Toumani Diakité",
+            "short": "Diakité",
+            "position": "LB",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "michal-sadilek",
+            "name": "Michal Sadílek",
+            "short": "Sadílek",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "pavel-kacor",
+            "name": "Pavel Kačor",
+            "short": "Kačor",
+            "position": "RB",
+            "photo": null,
+            "rating": 8.1
+          },
+          {
+            "id": "tomas-holes",
+            "name": "Tomás Holes",
+            "short": "Holes",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "matej-kotrba",
+            "name": "Matěj Kotrba",
+            "short": "Kotrba",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mikulas-konecny",
+            "name": "Mikulás Konecny",
+            "short": "Konecny",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "petr-potmesil",
+            "name": "Petr Potmesil",
+            "short": "Potmesil",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "adam-rezek",
+            "name": "Adam Rezek",
+            "short": "Rezek",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nazar-domchak",
+            "name": "Nazar Domchak",
+            "short": "Domchak",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "david-barcot",
+            "name": "David Barcot",
+            "short": "Barcot",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 4,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "oguz-aydin",
+          "name": "Oguz Aydin",
+          "short": "Aydin",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "milan-skriniar",
+          "name": "Milan Skriniar",
+          "short": "Skriniar",
+          "position": "CB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Oğuz Aydın opened the scoring after four minutes, taking Milan Skriniar's pass and firing a left-footed shot from outside the box into the top left corner."
+      },
+      {
+        "minute": 11,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "mason-greenwood",
+          "name": "Mason Greenwood",
+          "short": "Greenwood",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "nelson-semedo",
+          "name": "Nélson Semedo",
+          "short": "Semedo",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Nélson Semedo set up Mason Greenwood, who struck a right-footed shot from the centre of the box into the top right corner to make it 2-0."
+      },
+      {
+        "minute": 15,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "lukas-provod",
+          "name": "Lukáš Provod",
+          "short": "Provod",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Lukáš Provod pulled one back for Slavia four minutes later with a right-footed finish from the centre of the box into the bottom right corner."
+      },
+      {
+        "minute": 21,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kojo-peprah-oppong",
+          "name": "Kojo Peprah Oppong",
+          "short": "Oppong",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nathan-ake",
+          "name": "Nathan Aké",
+          "short": "Aké",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 31,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "n-golo-kante",
+          "name": "N'Golo Kanté",
+          "short": "Kanté",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 49,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "milan-skriniar",
+          "name": "Milan Skriniar",
+          "short": "Skriniar",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 60,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "wiktor-nowak",
+          "name": "Wiktor Nowak",
+          "short": "Nowak",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mojmir-chytil",
+          "name": "Mojmír Chytil",
+          "short": "Chytil",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "danijel-sturm",
+          "name": "Danijel Sturm",
+          "short": "Sturm",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "samuel-isife",
+          "name": "Samuel Isife",
+          "short": "Isife",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tomas-vlcek",
+          "name": "Tomáš Vlček",
+          "short": "Vlček",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "romelu-lukaku",
+          "name": "Romelu Lukaku",
+          "short": "Lukaku",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "vedat-muriqi",
+          "name": "Vedat Muriqi",
+          "short": "Muriqi",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nene-dorgeles",
+          "name": "Nene Dorgeles",
+          "short": "Dorgeles",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "oguz-aydin",
+          "name": "Oguz Aydin",
+          "short": "Aydin",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "toumani-diakite",
+          "name": "Toumani Diakité",
+          "short": "Diakité",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "oskar-kubiak",
+          "name": "Oskar Kubiak",
+          "short": "Kubiak",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "irfan-can-kahveci",
+          "name": "Irfan Can Kahveci",
+          "short": "Kahveci",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mason-greenwood",
+          "name": "Mason Greenwood",
+          "short": "Greenwood",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ismail-yuksek",
+          "name": "Ismail Yüksek",
+          "short": "Yüksek",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kerem-akturkoglu",
+          "name": "Kerem Aktürkoglu",
+          "short": "Aktürkoglu",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "michal-sadilek",
+          "name": "Michal Sadílek",
+          "short": "Sadílek",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lukas-provod",
+          "name": "Lukáš Provod",
+          "short": "Provod",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "pavel-kacor",
+          "name": "Pavel Kačor",
+          "short": "Kačor",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mubarak-suleiman",
+          "name": "Mubarak Suleiman",
+          "short": "Suleiman",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 88,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "ismail-yuksek",
+          "name": "Ismail Yüksek",
+          "short": "Yüksek",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "pavel-kacor",
+          "name": "Pavel Kačor",
+          "short": "Kačor",
+          "position": "RB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "emmanuel-dennis-ayaosi",
+          "name": "Emmanuel Dennis Ayaosi",
+          "short": "Ayaosi",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Substitute Pavel Kačor rescued a point in stoppage time, converting Emmanuel Ayaosi's cross from very close range into the roof of the net."
+      }
+    ],
+    "stats": {
+      "shots": [
+        15,
+        15
+      ],
+      "onTarget": [
+        4,
+        4
+      ],
+      "corners": [
+        3,
+        5
+      ],
+      "fouls": [
+        12,
+        15
+      ],
+      "possession": 49
+    },
+    "attendance": 40147,
+    "referee": {
+      "name": "Ricardo de Burgos",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915403",
+      "https://www.espn.com/soccer/match/_/gameId/401915403",
+      "https://match.uefa.com/v5/matches/2049595/lineups",
+      "https://match.uefa.com/v5/matches?competitionId=1&fromDate=2026-10-20&toDate=2026-10-21",
+      "https://www.uefa.com/uefachampionsleague/news/02a9-218880e7a2aa-96adf63aa534-1000--who-is-the-referee-which-officials-are-in-charge-of-the-uefa/",
+      "https://www.sportsmole.co.uk/football/fenerbahce/champions-league/preview/fenerbahce-vs-slavia-prague-prediction-team-news-lineups_607168.html"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

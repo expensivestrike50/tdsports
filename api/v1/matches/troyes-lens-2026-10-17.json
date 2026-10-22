@@ -1,0 +1,770 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "troyes-lens-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "20:45",
+    "competition": "Ligue 1",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Troyes",
+      "id": "troyes",
+      "crest": "assets/clubs/170.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Lens",
+      "id": "lens",
+      "crest": "assets/clubs/175.png",
+      "country": "FR"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stade de l'Aube",
+      "city": "Troyes",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "stephane-dumont",
+          "name": "Stéphane Dumont",
+          "short": "Dumont",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "patrick-beach",
+            "name": "Patrick Beach",
+            "short": "Beach",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "paolo-gozzi-iweru",
+            "name": "Paolo Gozzi Iweru",
+            "short": "Gozzi Iweru",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.3
+          },
+          {
+            "id": "michel-diaz",
+            "name": "Michel Diaz",
+            "short": "Diaz",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.5
+          },
+          {
+            "id": "adrien-monfray",
+            "name": "Adrien Monfray",
+            "short": "Monfray",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.3
+          },
+          {
+            "id": "lucas-maronnier",
+            "name": "Lucas Maronnier",
+            "short": "Maronnier",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "mouhamed-diop",
+            "name": "Mouhamed Diop",
+            "short": "Diop",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 23,
+            "rating": 6.8
+          },
+          {
+            "id": "dermane-karim",
+            "name": "Dermane Karim",
+            "short": "Karim",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "antoine-mille",
+            "name": "Antoine Mille",
+            "short": "Mille",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 78,
+            "rating": 6.3
+          },
+          {
+            "id": "timothe-nkada",
+            "name": "Timothé Nkada",
+            "short": "Nkada",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 8.1
+          },
+          {
+            "id": "renaud-ripart",
+            "name": "Renaud Ripart",
+            "short": "Ripart",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "merwan-ifnaoui",
+            "name": "Merwan Ifnaoui",
+            "short": "Ifnaoui",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 6.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "kandet-diawara",
+            "name": "Kandet Diawara",
+            "short": "Diawara",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "noah-donkor",
+            "name": "Noah Donkor",
+            "short": "Donkor",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "jeremy-le-douaron",
+            "name": "Jeremy Le Douaron",
+            "short": "Douaron",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "iron-gomis",
+            "name": "Iron Gomis",
+            "short": "Gomis",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "hillel-konate",
+            "name": "Hillel Konaté",
+            "short": "Konaté",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "christ-batola",
+            "name": "Christ Batola",
+            "short": "Batola",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alexandre-philiponeau",
+            "name": "Alexandre Philiponeau",
+            "short": "Philiponeau",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "hugo-picard",
+            "name": "Hugo Picard",
+            "short": "Picard",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lassana-simakha",
+            "name": "Lassana Simakha",
+            "short": "Simakha",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "yannick-cahuzac-troyes-lens-2026-10-17",
+          "name": "Yannick Cahuzac",
+          "short": "Cahuzac",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "robin-risser-troyes-lens-2026-10-17",
+            "name": "Robin Risser",
+            "short": "Risser",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "jean-clair-todibo-troyes-lens-2026-10-17",
+            "name": "Jean-Clair Todibo",
+            "short": "Todibo",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 6.8
+          },
+          {
+            "id": "pierre-ganiou",
+            "name": "Pierre Ganiou",
+            "short": "Ganiou",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "kyllian-antonio-troyes-lens-2026-10-17",
+            "name": "Kyllian Antonio",
+            "short": "Antonio",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 6.7
+          },
+          {
+            "id": "michal-skoras-troyes-lens-2026-10-17",
+            "name": "Michal Skoras",
+            "short": "Skoras",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 7.6
+          },
+          {
+            "id": "andrija-bulatovic-troyes-lens-2026-10-17",
+            "name": "Andrija Bulatovic",
+            "short": "Bulatovic",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 6.6
+          },
+          {
+            "id": "yassine-titraoui-troyes-lens-2026-10-17",
+            "name": "Yassine Titraoui",
+            "short": "Titraoui",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 7
+          },
+          {
+            "id": "ruben-aguilar-troyes-lens-2026-10-17",
+            "name": "Ruben Aguilar",
+            "short": "Aguilar",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 8.2
+          },
+          {
+            "id": "florian-sotoca-troyes-lens-2026-10-17",
+            "name": "Florian Sotoca",
+            "short": "Sotoca",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 6.9
+          },
+          {
+            "id": "florian-thauvin-troyes-lens-2026-10-17",
+            "name": "Florian Thauvin",
+            "short": "Thauvin",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 8.1
+          },
+          {
+            "id": "odsonne-edouard-troyes-lens-2026-10-17",
+            "name": "Odsonne Édouard",
+            "short": "Édouard",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "samson-baidoo-troyes-lens-2026-10-17",
+            "name": "Samson Baidoo",
+            "short": "Baidoo",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "mezian-soares-troyes-lens-2026-10-17",
+            "name": "Mezian Soares",
+            "short": "Soares",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "franjo-ivanovic-troyes-lens-2026-10-17",
+            "name": "Franjo Ivanovic",
+            "short": "Ivanovic",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "amadou-haidara-troyes-lens-2026-10-17",
+            "name": "Amadou Haidara",
+            "short": "Haidara",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "saud-abdulhamid-troyes-lens-2026-10-17",
+            "name": "Saud Abdulhamid",
+            "short": "Abdulhamid",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "mathieu-gorgelin-troyes-lens-2026-10-17",
+            "name": "Mathieu Gorgelin",
+            "short": "Gorgelin",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "junior-kadile-troyes-lens-2026-10-17",
+            "name": "Junior Kadile",
+            "short": "Kadile",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "thorgan-hazard-troyes-lens-2026-10-17",
+            "name": "Thorgan Hazard",
+            "short": "Hazard",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "michael-cuisance-troyes-lens-2026-10-17",
+            "name": "Michaël Cuisance",
+            "short": "Cuisance",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 13,
+        "type": "own_goal",
+        "team": "away",
+        "player": {
+          "id": "adrien-monfray",
+          "name": "Adrien Monfray",
+          "short": "Monfray",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": null,
+        "goalType": "own",
+        "description": "From a Lens corner, after efforts from Jean-Clair Todibo and Ruben Aguilar, the ball went in off Troyes defender Adrien Monfray."
+      },
+      {
+        "minute": 26,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "timothe-nkada",
+          "name": "Timothé Nkada",
+          "short": "Nkada",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Moments after Robin Risser saved Antoine Mille's long-range shot, Timothé Nkada equalised with a left-footed finish from the left side of the six-yard box."
+      },
+      {
+        "minute": 45,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "odsonne-edouard-troyes-lens-2026-10-17",
+          "name": "Odsonne Édouard",
+          "short": "Édouard",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "florian-thauvin-troyes-lens-2026-10-17",
+          "name": "Florian Thauvin",
+          "short": "Thauvin",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "On a fast break in first-half stoppage time, Florian Thauvin crossed for Odsonne Édouard, who shot right-footed from the centre of the box into the middle of the goal."
+      },
+      {
+        "minute": 55,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "ruben-aguilar-troyes-lens-2026-10-17",
+          "name": "Ruben Aguilar",
+          "short": "Aguilar",
+          "position": "RB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "florian-thauvin-troyes-lens-2026-10-17",
+          "name": "Florian Thauvin",
+          "short": "Thauvin",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Lens broke quickly again and Florian Thauvin's cross was headed in by Ruben Aguilar from the right side of the six-yard box."
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "samson-baidoo-troyes-lens-2026-10-17",
+          "name": "Samson Baidoo",
+          "short": "Baidoo",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jean-clair-todibo-troyes-lens-2026-10-17",
+          "name": "Jean-Clair Todibo",
+          "short": "Todibo",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kandet-diawara",
+          "name": "Kandet Diawara",
+          "short": "Diawara",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "timothe-nkada",
+          "name": "Timothé Nkada",
+          "short": "Nkada",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "noah-donkor",
+          "name": "Noah Donkor",
+          "short": "Donkor",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "paolo-gozzi-iweru",
+          "name": "Paolo Gozzi Iweru",
+          "short": "Gozzi Iweru",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mezian-soares-troyes-lens-2026-10-17",
+          "name": "Mezian Soares",
+          "short": "Soares",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "florian-thauvin-troyes-lens-2026-10-17",
+          "name": "Florian Thauvin",
+          "short": "Thauvin",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "franjo-ivanovic-troyes-lens-2026-10-17",
+          "name": "Franjo Ivanovic",
+          "short": "Ivanovic",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "odsonne-edouard-troyes-lens-2026-10-17",
+          "name": "Odsonne Édouard",
+          "short": "Édouard",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "amadou-haidara-troyes-lens-2026-10-17",
+          "name": "Amadou Haidara",
+          "short": "Haidara",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "yassine-titraoui-troyes-lens-2026-10-17",
+          "name": "Yassine Titraoui",
+          "short": "Titraoui",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "saud-abdulhamid-troyes-lens-2026-10-17",
+          "name": "Saud Abdulhamid",
+          "short": "Abdulhamid",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ruben-aguilar-troyes-lens-2026-10-17",
+          "name": "Ruben Aguilar",
+          "short": "Aguilar",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "michel-diaz",
+          "name": "Michel Diaz",
+          "short": "Diaz",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 76,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "renaud-ripart",
+          "name": "Renaud Ripart",
+          "short": "Ripart",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 77,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "samson-baidoo-troyes-lens-2026-10-17",
+          "name": "Samson Baidoo",
+          "short": "Baidoo",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jeremy-le-douaron",
+          "name": "Jeremy Le Douaron",
+          "short": "Douaron",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mouhamed-diop",
+          "name": "Mouhamed Diop",
+          "short": "Diop",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "iron-gomis",
+          "name": "Iron Gomis",
+          "short": "Gomis",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lucas-maronnier",
+          "name": "Lucas Maronnier",
+          "short": "Maronnier",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "amadou-haidara-troyes-lens-2026-10-17",
+          "name": "Amadou Haidara",
+          "short": "Haidara",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        12,
+        13
+      ],
+      "onTarget": [
+        5,
+        3
+      ],
+      "corners": [
+        6,
+        4
+      ],
+      "fouls": [
+        13,
+        11
+      ],
+      "possession": 41
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Hakim Ben El Hadj",
+      "country": "France"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876431",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876431",
+      "https://ligue1.com/fr/articles/l1_article_5927-",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

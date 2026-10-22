@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "ibrahim-mbaye",
+    "name": "Ibrahim Mbaye",
+    "short": "Mbaye",
+    "position": "LW",
+    "photo": "assets/photos/people/ibrahim-mbaye.jpg",
+    "matches": [
+      {
+        "match": "villa-viking",
+        "date": "2026-10-21",
+        "team": "Aston Villa",
+        "role": "starter"
+      }
+    ]
+  }
+}

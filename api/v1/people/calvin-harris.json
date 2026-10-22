@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "calvin-harris",
+    "name": "Calvin Harris",
+    "short": "Harris",
+    "position": "LW",
+    "photo": null,
+    "matches": [
+      {
+        "match": "kansas-city-salt-lake-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Kansas City",
+        "role": "starter"
+      }
+    ]
+  }
+}

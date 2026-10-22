@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "jordan-pickford-france-england-2026-07-18",
+    "name": "Jordan Pickford",
+    "short": "Pickford",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "france-england-2026-07-18",
+        "date": "2026-07-18",
+        "team": "England",
+        "role": "bench"
+      }
+    ]
+  }
+}

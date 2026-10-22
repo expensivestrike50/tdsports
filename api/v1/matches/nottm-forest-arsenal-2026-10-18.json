@@ -1,0 +1,669 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "nottm-forest-arsenal-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "16:30",
+    "competition": "Premier League",
+    "round": "Matchweek 7",
+    "status": "FT",
+    "home": {
+      "name": "Nottm Forest",
+      "id": "nottm-forest",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Arsenal",
+      "id": "arsenal",
+      "crest": "assets/clubs/359.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "The City Ground",
+      "city": "Nottingham",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "oliver-glasner",
+          "name": "Oliver Glasner",
+          "short": "Glasner",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "matz-sels",
+            "name": "Matz Sels",
+            "short": "Sels",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "jair-paula",
+            "name": "Jair Paula",
+            "short": "Cunha",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 6.3
+          },
+          {
+            "id": "ousmane-diomande",
+            "name": "Ousmane Diomande",
+            "short": "Diomande",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 6.1
+          },
+          {
+            "id": "murillo",
+            "name": "Murillo",
+            "short": "Murillo",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7.2
+          },
+          {
+            "id": "daniel-munoz",
+            "name": "Daniel Muñoz",
+            "short": "Muñoz",
+            "position": "RB",
+            "photo": null,
+            "x": 27,
+            "y": 12,
+            "rating": 6.1
+          },
+          {
+            "id": "james-mcatee",
+            "name": "James McAtee",
+            "short": "McAtee",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 38,
+            "rating": 6.9
+          },
+          {
+            "id": "xaver-schlager",
+            "name": "Xaver Schlager",
+            "short": "Schlager",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 64,
+            "rating": 7.1
+          },
+          {
+            "id": "neco-williams",
+            "name": "Neco Williams",
+            "short": "Williams",
+            "position": "LB",
+            "photo": null,
+            "x": 27,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "nicolas-dominguez",
+            "name": "Nicolás Domínguez",
+            "short": "Domínguez",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 6.1
+          },
+          {
+            "id": "dan-ndoye",
+            "name": "Dan Ndoye",
+            "short": "Ndoye",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 7.3
+          },
+          {
+            "id": "liam-delap",
+            "name": "Liam Delap",
+            "short": "Delap",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "arnaud-kalimuendo",
+            "name": "Arnaud Kalimuendo",
+            "short": "Kalimuendo",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "ibrahim-sangare",
+            "name": "Ibrahim Sangaré",
+            "short": "Sangaré",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "chris-wood",
+            "name": "Chris Wood",
+            "short": "Wood",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "callum-hudson-odoi",
+            "name": "Callum Hudson-Odoi",
+            "short": "Hudson-Odoi",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "ola-aina",
+            "name": "Ola Aina",
+            "short": "Aina",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "john-victor",
+            "name": "John Victor",
+            "short": "Victor",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ryan-yates",
+            "name": "Ryan Yates",
+            "short": "Yates",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nikola-milenkovic",
+            "name": "Nikola Milenkovic",
+            "short": "Milenkovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-netz",
+            "name": "Luca Netz",
+            "short": "Netz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "mikel-arteta-nottm-forest-arsenal-2026-10-18",
+          "name": "Mikel Arteta",
+          "short": "Arteta",
+          "position": "Coach",
+          "photo": "assets/photos/people/mikel-arteta.jpg"
+        },
+        "starting": [
+          {
+            "id": "david-raya-nottm-forest-arsenal-2026-10-18",
+            "name": "David Raya",
+            "short": "Raya",
+            "position": "GK",
+            "photo": "assets/photos/people/david-raya.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "ben-white-nottm-forest-arsenal-2026-10-18",
+            "name": "Ben White",
+            "short": "White",
+            "position": "RB",
+            "photo": "assets/photos/people/ben-white.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 7.2
+          },
+          {
+            "id": "ezri-konsa-nottm-forest-arsenal-2026-10-18",
+            "name": "Ezri Konsa",
+            "short": "Konsa",
+            "position": "CB",
+            "photo": "assets/photos/people/ezri-konsa.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 6.6
+          },
+          {
+            "id": "gabriel-magalhaes-nottm-forest-arsenal-2026-10-18",
+            "name": "Gabriel Magalhães",
+            "short": "Magalhães",
+            "position": "CB",
+            "photo": "assets/photos/people/gabriel-magalhaes.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 6.8
+          },
+          {
+            "id": "riccardo-calafiori-nottm-forest-arsenal-2026-10-18",
+            "name": "Riccardo Calafiori",
+            "short": "Calafiori",
+            "position": "LB",
+            "photo": "assets/photos/people/riccardo-calafiori.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 6.9
+          },
+          {
+            "id": "declan-rice-nottm-forest-arsenal-2026-10-18",
+            "name": "Declan Rice",
+            "short": "Rice",
+            "position": "DM",
+            "photo": "assets/photos/people/declan-rice.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 7.8
+          },
+          {
+            "id": "bruno-guimaraes-nottm-forest-arsenal-2026-10-18",
+            "name": "Bruno Guimarães",
+            "short": "Guimarães",
+            "position": "DM",
+            "photo": "assets/photos/people/bruno-guimaraes.jpg",
+            "x": 73,
+            "y": 30,
+            "rating": 6.6
+          },
+          {
+            "id": "bukayo-saka-nottm-forest-arsenal-2026-10-18",
+            "name": "Bukayo Saka",
+            "short": "Saka",
+            "position": "RW",
+            "photo": "assets/photos/people/bukayo-saka.jpg",
+            "x": 63,
+            "y": 77,
+            "rating": 6.5
+          },
+          {
+            "id": "martin-degaard-nottm-forest-arsenal-2026-10-18",
+            "name": "Martin Ødegaard",
+            "short": "Ødegaard",
+            "position": "AM",
+            "photo": "assets/photos/people/martin-degaard.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 7.6
+          },
+          {
+            "id": "eberechi-eze-nottm-forest-arsenal-2026-10-18",
+            "name": "Eberechi Eze",
+            "short": "Eze",
+            "position": "LW",
+            "photo": "assets/photos/people/eberechi-eze.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 6.3
+          },
+          {
+            "id": "kai-havertz-nottm-forest-arsenal-2026-10-18",
+            "name": "Kai Havertz",
+            "short": "Havertz",
+            "position": "ST",
+            "photo": "assets/photos/people/kai-havertz.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 7.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "noni-madueke-nottm-forest-arsenal-2026-10-18",
+            "name": "Noni Madueke",
+            "short": "Madueke",
+            "position": "LW",
+            "photo": "assets/photos/people/noni-madueke.jpg",
+            "rating": 7.5
+          },
+          {
+            "id": "jurrien-timber-nottm-forest-arsenal-2026-10-18",
+            "name": "Jurriën Timber",
+            "short": "Timber",
+            "position": "RB",
+            "photo": "assets/photos/people/jurrien-timber.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "viktor-gyokeres-nottm-forest-arsenal-2026-10-18",
+            "name": "Viktor Gyökeres",
+            "short": "Gyökeres",
+            "position": "ST",
+            "photo": "assets/photos/people/viktor-gyokeres.jpg",
+            "rating": 7.1
+          },
+          {
+            "id": "mikel-merino-nottm-forest-arsenal-2026-10-18",
+            "name": "Mikel Merino",
+            "short": "Merino",
+            "position": "DM",
+            "photo": "assets/photos/people/mikel-merino.jpg",
+            "rating": 7
+          },
+          {
+            "id": "max-dowman-nottm-forest-arsenal-2026-10-18",
+            "name": "Max Dowman",
+            "short": "Dowman",
+            "position": "CM",
+            "photo": "assets/photos/people/max-dowman.jpg",
+            "rating": null
+          },
+          {
+            "id": "myles-lewis-skelly-nottm-forest-arsenal-2026-10-18",
+            "name": "Myles Lewis-Skelly",
+            "short": "Lewis-Skelly",
+            "position": "CM",
+            "photo": "assets/photos/people/myles-lewis-skelly.jpg",
+            "rating": null
+          },
+          {
+            "id": "martin-zubimendi-nottm-forest-arsenal-2026-10-18",
+            "name": "Martín Zubimendi",
+            "short": "Zubimendi",
+            "position": "CM",
+            "photo": "assets/photos/people/martin-zubimendi.jpg",
+            "rating": null
+          },
+          {
+            "id": "illan-meslier-nottm-forest-arsenal-2026-10-18",
+            "name": "Illan Meslier",
+            "short": "Meslier",
+            "position": "CM",
+            "photo": "assets/photos/people/illan-meslier.jpg",
+            "rating": null
+          },
+          {
+            "id": "cristhian-mosquera-nottm-forest-arsenal-2026-10-18",
+            "name": "Cristhian Mosquera",
+            "short": "Mosquera",
+            "position": "CM",
+            "photo": "assets/photos/people/cristhian-mosquera.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 17,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "neco-williams",
+          "name": "Neco Williams",
+          "short": "Williams",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "noni-madueke-nottm-forest-arsenal-2026-10-18",
+          "name": "Noni Madueke",
+          "short": "Madueke",
+          "position": "LW",
+          "photo": "assets/photos/people/noni-madueke.jpg"
+        },
+        "replaced": {
+          "id": "eberechi-eze-nottm-forest-arsenal-2026-10-18",
+          "name": "Eberechi Eze",
+          "short": "Eze",
+          "position": "LW",
+          "photo": "assets/photos/people/eberechi-eze.jpg"
+        }
+      },
+      {
+        "minute": 53,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "noni-madueke-nottm-forest-arsenal-2026-10-18",
+          "name": "Noni Madueke",
+          "short": "Madueke",
+          "position": "LW",
+          "photo": "assets/photos/people/noni-madueke.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jurrien-timber-nottm-forest-arsenal-2026-10-18",
+          "name": "Jurriën Timber",
+          "short": "Timber",
+          "position": "RB",
+          "photo": "assets/photos/people/jurrien-timber.jpg"
+        },
+        "replaced": {
+          "id": "ben-white-nottm-forest-arsenal-2026-10-18",
+          "name": "Ben White",
+          "short": "White",
+          "position": "RB",
+          "photo": "assets/photos/people/ben-white.jpg"
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "viktor-gyokeres-nottm-forest-arsenal-2026-10-18",
+          "name": "Viktor Gyökeres",
+          "short": "Gyökeres",
+          "position": "ST",
+          "photo": "assets/photos/people/viktor-gyokeres.jpg"
+        },
+        "replaced": {
+          "id": "kai-havertz-nottm-forest-arsenal-2026-10-18",
+          "name": "Kai Havertz",
+          "short": "Havertz",
+          "position": "ST",
+          "photo": "assets/photos/people/kai-havertz.jpg"
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mikel-merino-nottm-forest-arsenal-2026-10-18",
+          "name": "Mikel Merino",
+          "short": "Merino",
+          "position": "DM",
+          "photo": "assets/photos/people/mikel-merino.jpg"
+        },
+        "replaced": {
+          "id": "bruno-guimaraes-nottm-forest-arsenal-2026-10-18",
+          "name": "Bruno Guimarães",
+          "short": "Guimarães",
+          "position": "DM",
+          "photo": "assets/photos/people/bruno-guimaraes.jpg"
+        }
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "arnaud-kalimuendo",
+          "name": "Arnaud Kalimuendo",
+          "short": "Kalimuendo",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "dan-ndoye",
+          "name": "Dan Ndoye",
+          "short": "Ndoye",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ibrahim-sangare",
+          "name": "Ibrahim Sangaré",
+          "short": "Sangaré",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nicolas-dominguez",
+          "name": "Nicolás Domínguez",
+          "short": "Domínguez",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "noni-madueke-nottm-forest-arsenal-2026-10-18",
+          "name": "Noni Madueke",
+          "short": "Madueke",
+          "position": "LW",
+          "photo": "assets/photos/people/noni-madueke.jpg"
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "declan-rice-nottm-forest-arsenal-2026-10-18",
+          "name": "Declan Rice",
+          "short": "Rice",
+          "position": "DM",
+          "photo": "assets/photos/people/declan-rice.jpg"
+        },
+        "goalType": "build",
+        "description": "Substitute Noni Madueke cut inside from the left and fired a right-footed shot that deflected off Jair and wrong-footed Matz Sels; it was Arsenal's only shot on target."
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "chris-wood",
+          "name": "Chris Wood",
+          "short": "Wood",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jair-paula",
+          "name": "Jair Paula",
+          "short": "Cunha",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "callum-hudson-odoi",
+          "name": "Callum Hudson-Odoi",
+          "short": "Hudson-Odoi",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "james-mcatee",
+          "name": "James McAtee",
+          "short": "McAtee",
+          "position": "CM",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        14,
+        9
+      ],
+      "onTarget": [
+        2,
+        1
+      ],
+      "corners": [
+        8,
+        6
+      ],
+      "fouls": [
+        14,
+        8
+      ],
+      "possession": 26
+    },
+    "attendance": 30893,
+    "referee": {
+      "name": "Michael Oliver",
+      "country": "England"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401878769",
+      "https://www.espn.com/soccer/match/_/gameId/401878769",
+      "https://www.skysports.com/football/a-vs-b/report/559512",
+      "https://www.skysports.com/football/a-vs-b/teams/559512",
+      "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

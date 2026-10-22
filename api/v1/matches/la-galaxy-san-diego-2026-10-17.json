@@ -1,0 +1,774 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "la-galaxy-san-diego-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "19:30",
+    "competition": "MLS",
+    "round": "Regular season, matchday 31",
+    "status": "FT",
+    "home": {
+      "name": "LA Galaxy",
+      "id": "la-galaxy",
+      "crest": "assets/clubs/187.png",
+      "country": "US"
+    },
+    "away": {
+      "name": "San Diego",
+      "id": "san-diego",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png",
+      "country": "US"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Dignity Health Sports Park",
+      "city": "Carson",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "greg-vanney",
+          "name": "Greg Vanney",
+          "short": "Vanney",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "jt-marcinkowski",
+            "name": "JT Marcinkowski",
+            "short": "Marcinkowski",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "john-nelson",
+            "name": "John Nelson",
+            "short": "Nelson",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.9
+          },
+          {
+            "id": "carlos-garces",
+            "name": "Carlos Garcés",
+            "short": "Garcés",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7.2
+          },
+          {
+            "id": "justin-haak",
+            "name": "Justin Haak",
+            "short": "Haak",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.1
+          },
+          {
+            "id": "harbor-miller",
+            "name": "Harbor Miller",
+            "short": "Miller",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "sergi-roberto",
+            "name": "Sergi Roberto",
+            "short": "Roberto",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 23,
+            "rating": 7.4
+          },
+          {
+            "id": "marco-reus",
+            "name": "Marco Reus",
+            "short": "Reus",
+            "position": "DM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "pablo-ruiz",
+            "name": "Pablo Ruiz",
+            "short": "Ruiz",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 78,
+            "rating": 7.4
+          },
+          {
+            "id": "erik-thommy",
+            "name": "Erik Thommy",
+            "short": "Thommy",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 7.3
+          },
+          {
+            "id": "joao-klauss",
+            "name": "João Klauss",
+            "short": "Klauss",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.8
+          },
+          {
+            "id": "robert-taylor",
+            "name": "Robert Taylor",
+            "short": "Taylor",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 6.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "joseph-paintsil",
+            "name": "Joseph Paintsil",
+            "short": "Paintsil",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "jakob-glesnes",
+            "name": "Jakob Glesnes",
+            "short": "Glesnes",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "lucas-sanabria",
+            "name": "Lucas Sanabria",
+            "short": "Sanabria",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "calegari",
+            "name": "Calegari",
+            "short": "Calegari",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "elijah-wynder",
+            "name": "Elijah Wynder",
+            "short": "Wynder",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "troy-elgersma",
+            "name": "Troy Elgersma",
+            "short": "Elgersma",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "novak-micovic",
+            "name": "Novak Micovic",
+            "short": "Micovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "julian-aude",
+            "name": "Julián Aude",
+            "short": "Aude",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "maya-yoshida",
+            "name": "Maya Yoshida",
+            "short": "Yoshida",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "mikey-varas",
+          "name": "Mikey Varas",
+          "short": "Varas",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "pablo-sisniega",
+            "name": "Pablo Sisniega",
+            "short": "Sisniega",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "kieran-sargeant",
+            "name": "Kieran Sargeant",
+            "short": "Sargeant",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "manu-duah",
+            "name": "Manu Duah",
+            "short": "Duah",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.3
+          },
+          {
+            "id": "christopher-mcvey",
+            "name": "Christopher McVey",
+            "short": "McVey",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.4
+          },
+          {
+            "id": "oscar-verhoeven",
+            "name": "Oscar Verhoeven",
+            "short": "Verhoeven",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.2
+          },
+          {
+            "id": "gabriel-pirani",
+            "name": "Gabriel Pirani",
+            "short": "Pirani",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 7.1
+          },
+          {
+            "id": "anibal-godoy",
+            "name": "Aníbal Godoy",
+            "short": "Godoy",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "alejandro-alvarado-jr",
+            "name": "Alejandro Alvarado Jr.",
+            "short": "Alvarado Jr.",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 22,
+            "rating": 6.2
+          },
+          {
+            "id": "elias-achouri",
+            "name": "Elias Achouri",
+            "short": "Achouri",
+            "position": "LW",
+            "photo": null,
+            "x": 54,
+            "y": 77,
+            "rating": 7.2
+          },
+          {
+            "id": "cedric-bakambu",
+            "name": "Cédric Bakambu",
+            "short": "Bakambu",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "anders-dreyer",
+            "name": "Anders Dreyer",
+            "short": "Dreyer",
+            "position": "RW",
+            "photo": null,
+            "x": 54,
+            "y": 22,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "jeppe-tverskov",
+            "name": "Jeppe Tverskov",
+            "short": "Tverskov",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "marcus-ingvartsen",
+            "name": "Marcus Ingvartsen",
+            "short": "Ingvartsen",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "onni-valakari",
+            "name": "Onni Valakari",
+            "short": "Valakari",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "dagur-thorhallsson",
+            "name": "Dagur Thórhallsson",
+            "short": "Thórhallsson",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "amahl-pellegrino",
+            "name": "Amahl Pellegrino",
+            "short": "Pellegrino",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "ian-pilcher",
+            "name": "Ian Pilcher",
+            "short": "Pilcher",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "david-evra-mimbang-nyangono",
+            "name": "David Evra Mimbang Nyangono",
+            "short": "Nyangono",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "cj-dos-santos",
+            "name": "CJ dos Santos",
+            "short": "Santos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "bryan-zamble",
+            "name": "Bryan Zamblé",
+            "short": "Zamblé",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 4,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "joao-klauss",
+          "name": "João Klauss",
+          "short": "Klauss",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "sergi-roberto",
+          "name": "Sergi Roberto",
+          "short": "Roberto",
+          "position": "CM",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "João Klauss right footed shot from outside the box to the bottom right corner. Assisted by Sergi Roberto following a fast break."
+      },
+      {
+        "minute": 10,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "anders-dreyer",
+          "name": "Anders Dreyer",
+          "short": "Dreyer",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Cédric Bakambu was fouled in the box by JT Marcinkowski. Anders Dreyer converts the penalty with a left footed shot to the top left corner."
+      },
+      {
+        "minute": 12,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "joao-klauss",
+          "name": "João Klauss",
+          "short": "Klauss",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Goal ruled out after VAR review"
+      },
+      {
+        "minute": 17,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "erik-thommy",
+          "name": "Erik Thommy",
+          "short": "Thommy",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "harbor-miller",
+          "name": "Harbor Miller",
+          "short": "Miller",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Erik Thommy right footed shot from the centre of the box to the bottom left corner. Assisted by Harbor Tarczynski-Miller with a cross."
+      },
+      {
+        "minute": 35,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "anibal-godoy",
+          "name": "Aníbal Godoy",
+          "short": "Godoy",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 39,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "gabriel-pirani",
+          "name": "Gabriel Pirani",
+          "short": "Pirani",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "2 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Gabriel Pirani right footed shot from the centre of the box to the bottom left corner."
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "joao-klauss",
+          "name": "João Klauss",
+          "short": "Klauss",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "joseph-paintsil",
+          "name": "Joseph Paintsil",
+          "short": "Paintsil",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "robert-taylor",
+          "name": "Robert Taylor",
+          "short": "Taylor",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jakob-glesnes",
+          "name": "Jakob Glesnes",
+          "short": "Glesnes",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "carlos-garces",
+          "name": "Carlos Garcés",
+          "short": "Garcés",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jeppe-tverskov",
+          "name": "Jeppe Tverskov",
+          "short": "Tverskov",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alejandro-alvarado-jr",
+          "name": "Alejandro Alvarado Jr.",
+          "short": "Alvarado Jr.",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "marcus-ingvartsen",
+          "name": "Marcus Ingvartsen",
+          "short": "Ingvartsen",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "cedric-bakambu",
+          "name": "Cédric Bakambu",
+          "short": "Bakambu",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "lucas-sanabria",
+          "name": "Lucas Sanabria",
+          "short": "Sanabria",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sergi-roberto",
+          "name": "Sergi Roberto",
+          "short": "Roberto",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "onni-valakari",
+          "name": "Onni Valakari",
+          "short": "Valakari",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gabriel-pirani",
+          "name": "Gabriel Pirani",
+          "short": "Pirani",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "calegari",
+          "name": "Calegari",
+          "short": "Calegari",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "harbor-miller",
+          "name": "Harbor Miller",
+          "short": "Miller",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "dagur-thorhallsson",
+          "name": "Dagur Thórhallsson",
+          "short": "Thórhallsson",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kieran-sargeant",
+          "name": "Kieran Sargeant",
+          "short": "Sargeant",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "amahl-pellegrino",
+          "name": "Amahl Pellegrino",
+          "short": "Pellegrino",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "elias-achouri",
+          "name": "Elias Achouri",
+          "short": "Achouri",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "marco-reus",
+          "name": "Marco Reus",
+          "short": "Reus",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "not specified"
+      }
+    ],
+    "stats": {
+      "shots": [
+        12,
+        14
+      ],
+      "onTarget": [
+        9,
+        5
+      ],
+      "corners": [
+        5,
+        3
+      ],
+      "fouls": [
+        11,
+        10
+      ],
+      "xg": [
+        0.61,
+        2.57
+      ],
+      "possession": 31
+    },
+    "attendance": 21264,
+    "referee": {
+      "name": "Rubiel Vazquez",
+      "country": "USA"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761887",
+      "https://www.espn.com/soccer/match/_/gameId/761887",
+      "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NB",
+      "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NB"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

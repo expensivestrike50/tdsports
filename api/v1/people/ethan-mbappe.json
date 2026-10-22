@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "ethan-mbappe",
+    "name": "Ethan Mbappé",
+    "short": "Mbappé",
+    "position": "RW",
+    "photo": null,
+    "matches": [
+      {
+        "match": "lille-brest-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Lille",
+        "role": "starter"
+      }
+    ]
+  }
+}

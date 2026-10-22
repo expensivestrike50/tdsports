@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "tidiam-gomis-bayern-munchen-rb-leipzig-2026-10-17",
+    "name": "Tidiam Gomis",
+    "short": "Gomis",
+    "position": "ST",
+    "photo": null,
+    "matches": [
+      {
+        "match": "bayern-munchen-rb-leipzig-2026-10-17",
+        "date": "2026-10-17",
+        "team": "RB Leipzig",
+        "role": "bench"
+      }
+    ]
+  }
+}

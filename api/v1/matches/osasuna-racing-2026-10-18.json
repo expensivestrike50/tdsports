@@ -1,0 +1,810 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "osasuna-racing-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "14:00",
+    "competition": "LaLiga",
+    "round": "Matchday 9",
+    "status": "FT",
+    "home": {
+      "name": "Osasuna",
+      "id": "osasuna",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Racing",
+      "id": "racing",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "El Sadar",
+      "city": "Pamplona",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "jagoba-arrasate",
+          "name": "Jagoba Arrasate",
+          "short": "Arrasate",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "aitor-fernandez",
+            "name": "Aitor Fernández",
+            "short": "A. Fernández",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "valentin-rosier",
+            "name": "Valentin Rosier",
+            "short": "V. Rosier",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "alejandro-catena",
+            "name": "Alejandro Catena",
+            "short": "A. Catena",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.4
+          },
+          {
+            "id": "enzo-boyomo",
+            "name": "Enzo Boyomo",
+            "short": "E. Boyomo",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.3
+          },
+          {
+            "id": "abel-bretones",
+            "name": "Abel Bretones",
+            "short": "A. Bretones",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "iker-munoz",
+            "name": "Iker Muñoz",
+            "short": "I. Muñoz",
+            "position": "DM",
+            "photo": null,
+            "x": 32,
+            "y": 23,
+            "rating": 7
+          },
+          {
+            "id": "jon-moncayola",
+            "name": "Jon Moncayola",
+            "short": "J. Moncayola",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "moi-gomez",
+            "name": "Moi Gómez",
+            "short": "Moi Gómez",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 78,
+            "rating": 7.6
+          },
+          {
+            "id": "ruben-garcia",
+            "name": "Rubén García",
+            "short": "R. García",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 6.5
+          },
+          {
+            "id": "ante-budimir",
+            "name": "Ante Budimir",
+            "short": "A. Budimir",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 8
+          },
+          {
+            "id": "jonathan-dubasin",
+            "name": "Jonathan Dubasin",
+            "short": "J. Dubasin",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 6.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "asier-osambela",
+            "name": "Asier Osambela",
+            "short": "Osambela",
+            "position": "CM",
+            "photo": null,
+            "rating": 8.4
+          },
+          {
+            "id": "lucas-torro",
+            "name": "Lucas Torró",
+            "short": "Torró",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "raul-moro",
+            "name": "Raúl Moro",
+            "short": "Moro",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "inigo-arguibide",
+            "name": "Iñigo Arguibide",
+            "short": "Arguibide",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "pablo-garcia",
+            "name": "Pablo García",
+            "short": "García",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "rafa-fernandez",
+            "name": "Rafa Fernández",
+            "short": "Fernández",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rockson-yeboah",
+            "name": "Rockson Yeboah",
+            "short": "Yeboah",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "sergio-herrera",
+            "name": "Sergio Herrera",
+            "short": "Herrera",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "unai-santos",
+            "name": "Unai Santos",
+            "short": "Santos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mauro-echegoyen",
+            "name": "Mauro Echegoyen",
+            "short": "Echegoyen",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "enrique-barja",
+            "name": "Enrique Barja",
+            "short": "Barja",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "diego-rico",
+            "name": "Diego Rico",
+            "short": "Rico",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "jose-alberto-lopez",
+          "name": "José Alberto López",
+          "short": "López",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "julen-agirrezabala",
+            "name": "Julen Agirrezabala",
+            "short": "J. Agirrezabala",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.1
+          },
+          {
+            "id": "alvaro-mantilla",
+            "name": "Alvaro Mantilla",
+            "short": "A. Mantilla",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "pablo-ramon",
+            "name": "Pablo Ramon",
+            "short": "P. Ramon",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.5
+          },
+          {
+            "id": "jeanuel-belocian",
+            "name": "Jeanuël Belocian",
+            "short": "J. Belocian",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.6
+          },
+          {
+            "id": "jorge-salinas",
+            "name": "Jorge Salinas",
+            "short": "J. Salinas",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "ivan-martin",
+            "name": "Iván Martín",
+            "short": "I. Martín",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 6.3
+          },
+          {
+            "id": "matteo-prati",
+            "name": "Matteo Prati",
+            "short": "M. Prati",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 6.2
+          },
+          {
+            "id": "sergio-canales",
+            "name": "Sergio Canales",
+            "short": "S. Canales",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.5
+          },
+          {
+            "id": "andre-almeida",
+            "name": "André Almeida",
+            "short": "A. Almeida",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "inigo-vicente",
+            "name": "Iñigo Vicente",
+            "short": "I. Vicente",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 6.7
+          },
+          {
+            "id": "yassir-zabiri",
+            "name": "Yassir Zabiri",
+            "short": "Y. Zabiri",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "andres-martin",
+            "name": "Andrés Martín",
+            "short": "Martín",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "pablo-garcia",
+            "name": "Pablo García",
+            "short": "García",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "asier-villalibre",
+            "name": "Asier Villalibre",
+            "short": "Villalibre",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "giorgi-guliashvili",
+            "name": "Giorgi Guliashvili",
+            "short": "Guliashvili",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "laro-gomez",
+            "name": "Laro Gómez",
+            "short": "Gómez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "inigo-sainz",
+            "name": "Íñigo Sainz",
+            "short": "Sainz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "iker-luque",
+            "name": "Iker Luque",
+            "short": "Luque",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "pedro-felipe",
+            "name": "Pedro Felipe",
+            "short": "Felipe",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "juan-carlos-arana",
+            "name": "Juan Carlos Arana",
+            "short": "Arana",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "maguette-gueye",
+            "name": "Maguette Gueye",
+            "short": "Gueye",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "facundo-gonzalez",
+            "name": "Facundo González",
+            "short": "González",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 3,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "jonathan-dubasin",
+          "name": "Jonathan Dubasin",
+          "short": "J. Dubasin",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Goal ruled out after VAR review"
+      },
+      {
+        "minute": 6,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "alvaro-mantilla",
+          "name": "Alvaro Mantilla",
+          "short": "A. Mantilla",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 9,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "ante-budimir",
+          "name": "Ante Budimir",
+          "short": "A. Budimir",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Ante Budimir converted the penalty with a left footed shot to the bottom left corner."
+      },
+      {
+        "minute": 28,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "valentin-rosier",
+          "name": "Valentin Rosier",
+          "short": "V. Rosier",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "andres-martin",
+          "name": "Andrés Martín",
+          "short": "Martín",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "andre-almeida",
+          "name": "André Almeida",
+          "short": "A. Almeida",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 51,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "jorge-salinas",
+          "name": "Jorge Salinas",
+          "short": "J. Salinas",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 60,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "ante-budimir",
+          "name": "Ante Budimir",
+          "short": "A. Budimir",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "asier-osambela",
+          "name": "Asier Osambela",
+          "short": "Osambela",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "moi-gomez",
+          "name": "Moi Gómez",
+          "short": "Moi Gómez",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "lucas-torro",
+          "name": "Lucas Torró",
+          "short": "Torró",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "iker-munoz",
+          "name": "Iker Muñoz",
+          "short": "I. Muñoz",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "pablo-garcia",
+          "name": "Pablo García",
+          "short": "García",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sergio-canales",
+          "name": "Sergio Canales",
+          "short": "S. Canales",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "raul-moro",
+          "name": "Raúl Moro",
+          "short": "Moro",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jonathan-dubasin",
+          "name": "Jonathan Dubasin",
+          "short": "J. Dubasin",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "inigo-arguibide",
+          "name": "Iñigo Arguibide",
+          "short": "Arguibide",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "valentin-rosier",
+          "name": "Valentin Rosier",
+          "short": "V. Rosier",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "ivan-martin",
+          "name": "Iván Martín",
+          "short": "I. Martín",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Handball"
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "andres-martin",
+          "name": "Andrés Martín",
+          "short": "Martín",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jorge-salinas",
+          "name": "Jorge Salinas",
+          "short": "J. Salinas",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "asier-villalibre",
+          "name": "Asier Villalibre",
+          "short": "Villalibre",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ivan-martin",
+          "name": "Iván Martín",
+          "short": "I. Martín",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 88,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "asier-osambela",
+          "name": "Asier Osambela",
+          "short": "Osambela",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "counter",
+        "description": "Asier Osambela left footed shot from the centre of the box to the centre of the goal following a fast break."
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "pablo-garcia",
+          "name": "Pablo García",
+          "short": "García",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ruben-garcia",
+          "name": "Rubén García",
+          "short": "R. García",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "giorgi-guliashvili",
+          "name": "Giorgi Guliashvili",
+          "short": "Guliashvili",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "yassir-zabiri",
+          "name": "Yassir Zabiri",
+          "short": "Y. Zabiri",
+          "position": "ST",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        20,
+        9
+      ],
+      "onTarget": [
+        7,
+        1
+      ],
+      "corners": [
+        7,
+        4
+      ],
+      "fouls": [
+        21,
+        9
+      ],
+      "possession": 44
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Juan Martínez Munuera",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882840",
+      "https://www.espn.com/soccer/match/_/gameId/401882840",
+      "https://www.noticiasdenavarra.com/osasuna/2026/10/18/directo-osasuna-racing-santander-11660575.html",
+      "https://navarra.okdiario.com/articulo/osasuna/cronica-partido-futbol-osasuna-racing-estadio-sadar-pamplona/20261018155504664253.html",
+      "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

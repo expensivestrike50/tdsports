@@ -1,0 +1,805 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "villa-viking",
+    "date": "2026-10-21",
+    "kickoff": "20:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Aston Villa",
+      "id": "aston-villa",
+      "crest": "assets/clubs/362.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Viking",
+      "id": "viking",
+      "crest": "assets/clubs/510.png",
+      "country": "NO"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "tv": "Paramount+",
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Villa Park",
+      "city": "Birmingham",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "unai-emery",
+          "name": "Unai Emery",
+          "short": "Emery",
+          "position": "Coach",
+          "photo": "assets/photos/people/unai-emery.jpg"
+        },
+        "starting": [
+          {
+            "id": "zion-suzuki",
+            "name": "Zion Suzuki",
+            "short": "Suzuki",
+            "position": "GK",
+            "photo": "assets/photos/people/zion-suzuki.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "tyrone-mings",
+            "name": "Tyrone Mings",
+            "short": "Mings",
+            "position": "LB",
+            "photo": "assets/photos/people/tyrone-mings.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 7.5
+          },
+          {
+            "id": "pau-torres",
+            "name": "Pau Torres",
+            "short": "Torres",
+            "position": "CB",
+            "photo": "assets/photos/people/pau-torres.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 6.4
+          },
+          {
+            "id": "victor-lindelof",
+            "name": "Victor Lindelöf",
+            "short": "Lindelöf",
+            "position": "CB",
+            "photo": "assets/photos/people/victor-lindelof.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 7.2
+          },
+          {
+            "id": "joao-gomes",
+            "name": "João Gomes",
+            "short": "João Gomes",
+            "position": "RB",
+            "photo": "assets/photos/people/joao-gomes.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "ross-barkley",
+            "name": "Ross Barkley",
+            "short": "Barkley",
+            "position": "DM",
+            "photo": "assets/photos/people/ross-barkley.jpg",
+            "x": 27,
+            "y": 30,
+            "rating": 7.6
+          },
+          {
+            "id": "john-mcginn",
+            "name": "John McGinn",
+            "short": "McGinn",
+            "position": "DM",
+            "photo": "assets/photos/people/john-mcginn.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "ibrahim-mbaye",
+            "name": "Ibrahim Mbaye",
+            "short": "Mbaye",
+            "position": "LW",
+            "photo": "assets/photos/people/ibrahim-mbaye.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 6.9
+          },
+          {
+            "id": "emiliano-buendia",
+            "name": "Emiliano Buendía",
+            "short": "Buendía",
+            "position": "AM",
+            "photo": "assets/photos/people/emiliano-buendia.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 8.2
+          },
+          {
+            "id": "alysson",
+            "name": "Alysson",
+            "short": "Alysson",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.3
+          },
+          {
+            "id": "nicolas-jackson",
+            "name": "Nicolas Jackson",
+            "short": "Jackson",
+            "position": "ST",
+            "photo": "assets/photos/people/nicolas-jackson.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 7.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "leon-goretzka",
+            "name": "Leon Goretzka",
+            "short": "Goretzka",
+            "position": "DM",
+            "photo": "assets/photos/people/leon-goretzka.jpg",
+            "rating": 7.2
+          },
+          {
+            "id": "tammy-abraham",
+            "name": "Tammy Abraham",
+            "short": "Abraham",
+            "position": "ST",
+            "photo": "assets/photos/people/tammy-abraham.jpg",
+            "rating": 7
+          },
+          {
+            "id": "matty-cash",
+            "name": "Matty Cash",
+            "short": "Cash",
+            "position": "RB",
+            "photo": "assets/photos/people/matty-cash.jpg",
+            "rating": 7.4
+          },
+          {
+            "id": "alejandro-garnacho",
+            "name": "Alejandro Garnacho",
+            "short": "Garnacho",
+            "position": "LW",
+            "photo": "assets/photos/people/alejandro-garnacho.jpg",
+            "rating": 7.5
+          },
+          {
+            "id": "george-hemmings",
+            "name": "George Hemmings",
+            "short": "Hemmings",
+            "position": "RW",
+            "photo": "assets/photos/people/george-hemmings.jpg",
+            "rating": 6.9
+          },
+          {
+            "id": "taylor-harwood-bellis",
+            "name": "Taylor Harwood-Bellis",
+            "short": "Harwood-Bellis",
+            "position": "CM",
+            "photo": "assets/photos/people/taylor-harwood-bellis.jpg",
+            "rating": null
+          },
+          {
+            "id": "marco-bizot",
+            "name": "Marco Bizot",
+            "short": "Bizot",
+            "position": "CM",
+            "photo": "assets/photos/people/marco-bizot.jpg",
+            "rating": null
+          },
+          {
+            "id": "ian-maatsen",
+            "name": "Ian Maatsen",
+            "short": "Maatsen",
+            "position": "CM",
+            "photo": "assets/photos/people/ian-maatsen.jpg",
+            "rating": null
+          },
+          {
+            "id": "james-wright",
+            "name": "James Wright",
+            "short": "Wright",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "boubacar-kamara",
+            "name": "Boubacar Kamara",
+            "short": "Kamara",
+            "position": "CM",
+            "photo": "assets/photos/people/boubacar-kamara.jpg",
+            "rating": null
+          },
+          {
+            "id": "lamare-bogarde",
+            "name": "Lamare Bogarde",
+            "short": "Bogarde",
+            "position": "CM",
+            "photo": "assets/photos/people/lamare-bogarde.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-5-1",
+        "coach": {
+          "id": "bjarte-lunde-aarsheim",
+          "name": "Bjarte Lunde Aarsheim",
+          "short": "Aarsheim",
+          "position": "Coach",
+          "photo": "assets/photos/people/bjarte-lunde-aarsheim.jpg"
+        },
+        "starting": [
+          {
+            "id": "arild-stb",
+            "name": "Arild Østbø",
+            "short": "Østbø",
+            "position": "GK",
+            "photo": "assets/photos/people/arild-stb.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "henrik-heggheim",
+            "name": "Henrik Heggheim",
+            "short": "Heggheim",
+            "position": "LB",
+            "photo": "assets/photos/people/henrik-heggheim.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 5.8
+          },
+          {
+            "id": "jesper-daland",
+            "name": "Jesper Daland",
+            "short": "Daland",
+            "position": "CB",
+            "photo": "assets/photos/people/jesper-daland.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "gianni-stensness",
+            "name": "Gianni Stensness",
+            "short": "Stensness",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.5
+          },
+          {
+            "id": "herman-haugen",
+            "name": "Herman Haugen",
+            "short": "Haugen",
+            "position": "RB",
+            "photo": "assets/photos/people/herman-haugen.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "zlatko-tripic",
+            "name": "Zlatko Tripic",
+            "short": "Tripic",
+            "position": "LW",
+            "photo": "assets/photos/people/zlatko-tripic.jpg",
+            "x": 68,
+            "y": 92,
+            "rating": 7
+          },
+          {
+            "id": "tobias-moi",
+            "name": "Tobias Moi",
+            "short": "Moi",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 71,
+            "rating": 6.1
+          },
+          {
+            "id": "joe-bell",
+            "name": "Joe Bell",
+            "short": "Bell",
+            "position": "CM",
+            "photo": "assets/photos/people/joe-bell.jpg",
+            "x": 68,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "kristoffer-askildsen",
+            "name": "Kristoffer Askildsen",
+            "short": "Askildsen",
+            "position": "CM",
+            "photo": "assets/photos/people/kristoffer-askildsen.jpg",
+            "x": 68,
+            "y": 29,
+            "rating": 7.5
+          },
+          {
+            "id": "peter-christiansen",
+            "name": "Peter Christiansen",
+            "short": "Christiansen",
+            "position": "RW",
+            "photo": "assets/photos/people/peter-christiansen.jpg",
+            "x": 68,
+            "y": 8,
+            "rating": 7.2
+          },
+          {
+            "id": "erik-botheim",
+            "name": "Erik Botheim",
+            "short": "Botheim",
+            "position": "ST",
+            "photo": "assets/photos/people/erik-botheim.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "henrik-rorvik-bjordal",
+            "name": "Henrik Rorvik Bjordal",
+            "short": "Bjordal",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "simen-kvia-egeskog",
+            "name": "Simen Kvia-Egeskog",
+            "short": "Kvia-Egeskog",
+            "position": "ST",
+            "photo": "assets/photos/people/simen-kvia-egeskog.jpg",
+            "rating": 7.1
+          },
+          {
+            "id": "amin-cosic",
+            "name": "Amin Cosic",
+            "short": "Cosic",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "vetle-auklend",
+            "name": "Vetle Auklend",
+            "short": "Auklend",
+            "position": "LW",
+            "photo": "assets/photos/people/vetle-auklend.jpg",
+            "rating": 6.3
+          },
+          {
+            "id": "essien-bassey",
+            "name": "Essien Bassey",
+            "short": "Bassey",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "herman-haugen",
+            "name": "Herman Haugen",
+            "short": "Haugen",
+            "position": "RB",
+            "photo": "assets/photos/people/herman-haugen.jpg",
+            "rating": 7.2
+          },
+          {
+            "id": "romano-postema",
+            "name": "Romano Postema",
+            "short": "Postema",
+            "position": "CM",
+            "photo": "assets/photos/people/romano-postema.jpg",
+            "rating": null
+          },
+          {
+            "id": "viljar-vevatne",
+            "name": "Viljar Vevatne",
+            "short": "Vevatne",
+            "position": "CM",
+            "photo": "assets/photos/people/viljar-vevatne.jpg",
+            "rating": null
+          },
+          {
+            "id": "niklas-fuglestad",
+            "name": "Niklas Fuglestad",
+            "short": "Fuglestad",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "henrik-falchener",
+            "name": "Henrik Falchener",
+            "short": "Falchener",
+            "position": "CM",
+            "photo": "assets/photos/people/henrik-falchener.jpg",
+            "rating": null
+          },
+          {
+            "id": "lubomir-belko",
+            "name": "Lubomir Belko",
+            "short": "Belko",
+            "position": "CM",
+            "photo": "assets/photos/people/lubomir-belko.jpg",
+            "rating": null
+          },
+          {
+            "id": "jakob-segadal-hansen",
+            "name": "Jakob Segadal Hansen",
+            "short": "Hansen",
+            "position": "CM",
+            "photo": "assets/photos/people/jakob-segadal-hansen.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 23,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "ross-barkley",
+          "name": "Ross Barkley",
+          "short": "Barkley",
+          "position": "DM",
+          "photo": "assets/photos/people/ross-barkley.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "ibrahim-mbaye",
+          "name": "Ibrahim Mbaye",
+          "short": "Mbaye",
+          "position": "LW",
+          "photo": "assets/photos/people/ibrahim-mbaye.jpg"
+        },
+        "goalType": "set",
+        "description": "From a corner, Ibrahim Mbaye crossed and Ross Barkley headed in from the left side of the six-yard box into the top left corner - his third goal of this Champions League campaign. Buendía had headed narrowly wide from a similar Mbaye corner moments earlier."
+      },
+      {
+        "minute": 35,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "alysson",
+          "name": "Alysson",
+          "short": "Alysson",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Penalty awarded to Aston Villa confirmed by VAR (foul by Zlatko Tripic)"
+      },
+      {
+        "minute": 37,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "emiliano-buendia",
+          "name": "Emiliano Buendía",
+          "short": "Buendía",
+          "position": "AM",
+          "photo": "assets/photos/people/emiliano-buendia.jpg"
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "set",
+        "description": "Alysson was fouled in the box by Zlatko Tripic; the penalty was confirmed by VAR and Emiliano Buendía sent a right-footed spot kick into the bottom right corner."
+      },
+      {
+        "minute": 62,
+        "type": "own_goal",
+        "team": "home",
+        "player": {
+          "id": "henrik-heggheim",
+          "name": "Henrik Heggheim",
+          "short": "Heggheim",
+          "position": "LB",
+          "photo": "assets/photos/people/henrik-heggheim.jpg"
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Henrik Heggheim turned the ball into his own net to make it 3-0 and put the result beyond doubt. Reports give no detail of the build-up; ESPN logs the ball crossing from the right-centre of the box."
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "henrik-rorvik-bjordal",
+          "name": "Henrik Rorvik Bjordal",
+          "short": "Bjordal",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tobias-moi",
+          "name": "Tobias Moi",
+          "short": "Moi",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "simen-kvia-egeskog",
+          "name": "Simen Kvia-Egeskog",
+          "short": "Kvia-Egeskog",
+          "position": "ST",
+          "photo": "assets/photos/people/simen-kvia-egeskog.jpg"
+        },
+        "replaced": {
+          "id": "erik-botheim",
+          "name": "Erik Botheim",
+          "short": "Botheim",
+          "position": "ST",
+          "photo": "assets/photos/people/erik-botheim.jpg"
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "leon-goretzka",
+          "name": "Leon Goretzka",
+          "short": "Goretzka",
+          "position": "DM",
+          "photo": "assets/photos/people/leon-goretzka.jpg"
+        },
+        "replaced": {
+          "id": "ross-barkley",
+          "name": "Ross Barkley",
+          "short": "Barkley",
+          "position": "DM",
+          "photo": "assets/photos/people/ross-barkley.jpg"
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "tammy-abraham",
+          "name": "Tammy Abraham",
+          "short": "Abraham",
+          "position": "ST",
+          "photo": "assets/photos/people/tammy-abraham.jpg"
+        },
+        "replaced": {
+          "id": "nicolas-jackson",
+          "name": "Nicolas Jackson",
+          "short": "Jackson",
+          "position": "ST",
+          "photo": "assets/photos/people/nicolas-jackson.jpg"
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "matty-cash",
+          "name": "Matty Cash",
+          "short": "Cash",
+          "position": "RB",
+          "photo": "assets/photos/people/matty-cash.jpg"
+        },
+        "replaced": {
+          "id": "joao-gomes",
+          "name": "João Gomes",
+          "short": "João Gomes",
+          "position": "RB",
+          "photo": "assets/photos/people/joao-gomes.jpg"
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "alejandro-garnacho",
+          "name": "Alejandro Garnacho",
+          "short": "Garnacho",
+          "position": "LW",
+          "photo": "assets/photos/people/alejandro-garnacho.jpg"
+        },
+        "replaced": {
+          "id": "ibrahim-mbaye",
+          "name": "Ibrahim Mbaye",
+          "short": "Mbaye",
+          "position": "LW",
+          "photo": "assets/photos/people/ibrahim-mbaye.jpg"
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "george-hemmings",
+          "name": "George Hemmings",
+          "short": "Hemmings",
+          "position": "RW",
+          "photo": "assets/photos/people/george-hemmings.jpg"
+        },
+        "replaced": {
+          "id": "alysson",
+          "name": "Alysson",
+          "short": "Alysson",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "amin-cosic",
+          "name": "Amin Cosic",
+          "short": "Cosic",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jesper-daland",
+          "name": "Jesper Daland",
+          "short": "Daland",
+          "position": "CB",
+          "photo": "assets/photos/people/jesper-daland.jpg"
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "vetle-auklend",
+          "name": "Vetle Auklend",
+          "short": "Auklend",
+          "position": "LW",
+          "photo": "assets/photos/people/vetle-auklend.jpg"
+        },
+        "replaced": {
+          "id": "zlatko-tripic",
+          "name": "Zlatko Tripic",
+          "short": "Tripic",
+          "position": "LW",
+          "photo": "assets/photos/people/zlatko-tripic.jpg"
+        }
+      },
+      {
+        "minute": 84,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "peter-christiansen",
+          "name": "Peter Christiansen",
+          "short": "Christiansen",
+          "position": "RW",
+          "photo": "assets/photos/people/peter-christiansen.jpg"
+        },
+        "scoreAfter": "3 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "kristoffer-askildsen",
+          "name": "Kristoffer Askildsen",
+          "short": "Askildsen",
+          "position": "CM",
+          "photo": "assets/photos/people/kristoffer-askildsen.jpg"
+        },
+        "goalType": "build",
+        "description": "Kristoffer Askildsen set up Peter Christiansen, who scored with a left-footed volley from the centre of the box. The goal was awarded after a VAR review, reward for Viking's improved second half."
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "essien-bassey",
+          "name": "Essien Bassey",
+          "short": "Bassey",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "herman-haugen",
+          "name": "Herman Haugen",
+          "short": "Haugen",
+          "position": "RB",
+          "photo": "assets/photos/people/herman-haugen.jpg"
+        }
+      },
+      {
+        "minute": 86,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "peter-christiansen",
+          "name": "Peter Christiansen",
+          "short": "Christiansen",
+          "position": "RW",
+          "photo": "assets/photos/people/peter-christiansen.jpg"
+        },
+        "detail": "Goal awarded following VAR review (Viking 3-1); ESPN's VAR line names Kristoffer Askildsen"
+      }
+    ],
+    "stats": {
+      "shots": [
+        21,
+        10
+      ],
+      "onTarget": [
+        10,
+        3
+      ],
+      "corners": [
+        8,
+        6
+      ],
+      "fouls": [
+        7,
+        14
+      ],
+      "possession": 54
+    },
+    "attendance": 33410,
+    "referee": {
+      "name": "Sebastian Gishamer",
+      "country": "Austria"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401915394",
+      "https://www.espn.com/soccer/report/_/gameId/401915394",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915394",
+      "https://www.uefa.com/uefachampionsleague/match/2049602/",
+      "https://match.uefa.com/v5/matches/2049602/lineups",
+      "https://match.uefa.com/v5/matches?competitionId=1&fromDate=2026-10-21&toDate=2026-10-21"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

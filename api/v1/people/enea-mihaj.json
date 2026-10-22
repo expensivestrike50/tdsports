@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "enea-mihaj",
+    "name": "Enea Mihaj",
+    "short": "Mihaj",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "atlanta-inter-miami-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Atlanta",
+        "role": "bench"
+      }
+    ]
+  }
+}

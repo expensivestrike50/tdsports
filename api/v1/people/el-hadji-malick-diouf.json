@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "el-hadji-malick-diouf",
+    "name": "El Hadji Malick Diouf",
+    "short": "Diouf",
+    "position": "LB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "brentford-liverpool-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Brentford",
+        "role": "bench"
+      }
+    ]
+  }
+}

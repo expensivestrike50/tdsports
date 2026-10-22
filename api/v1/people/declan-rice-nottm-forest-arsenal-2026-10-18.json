@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "declan-rice-nottm-forest-arsenal-2026-10-18",
+    "name": "Declan Rice",
+    "short": "Rice",
+    "position": "DM",
+    "photo": "assets/photos/people/declan-rice.jpg",
+    "matches": [
+      {
+        "match": "nottm-forest-arsenal-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Arsenal",
+        "role": "starter"
+      }
+    ]
+  }
+}

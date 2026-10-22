@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "matvei-safonov",
+    "name": "Matvei Safonov",
+    "short": "Safonov",
+    "position": "GK",
+    "photo": null,
+    "matches": [
+      {
+        "match": "strasbourg-psg-2026-10-17",
+        "date": "2026-10-17",
+        "team": "PSG",
+        "role": "starter"
+      }
+    ]
+  }
+}

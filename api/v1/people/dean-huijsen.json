@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "dean-huijsen",
+    "name": "Dean Huijsen",
+    "short": "Huijsen",
+    "position": "CB",
+    "photo": "assets/photos/people/dean-huijsen.jpg",
+    "matches": [
+      {
+        "match": "madrid-leipzig",
+        "date": "2026-10-21",
+        "team": "Real Madrid",
+        "role": "starter"
+      }
+    ]
+  }
+}

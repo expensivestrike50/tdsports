@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "jean-philippe-mateta",
+    "name": "Jean-Philippe Mateta",
+    "short": "Mateta",
+    "position": "ST",
+    "photo": null,
+    "matches": [
+      {
+        "match": "brighton-c-palace-2026-10-18",
+        "date": "2026-10-18",
+        "team": "C Palace",
+        "role": "bench"
+      }
+    ]
+  }
+}

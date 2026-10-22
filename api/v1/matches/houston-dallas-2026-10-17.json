@@ -1,0 +1,807 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "houston-dallas-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "19:30",
+    "competition": "MLS",
+    "round": "Regular season, matchday 31",
+    "status": "FT",
+    "home": {
+      "name": "Houston",
+      "id": "houston",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
+      "country": "US"
+    },
+    "away": {
+      "name": "Dallas",
+      "id": "dallas",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
+      "country": "US"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Shell Energy Stadium",
+      "city": "Houston",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "5-3-2",
+        "coach": {
+          "id": "ben-olsen",
+          "name": "Ben Olsen",
+          "short": "Olsen",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "jonathan-bond",
+            "name": "Jonathan Bond",
+            "short": "Bond",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "franco-negri",
+            "name": "Franco Negri",
+            "short": "Negri",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 8,
+            "rating": 6.7
+          },
+          {
+            "id": "agustin-resch",
+            "name": "Agustín Resch",
+            "short": "Resch",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 29,
+            "rating": 6.7
+          },
+          {
+            "id": "artur",
+            "name": "Artur",
+            "short": "Artur",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "lucas-halter",
+            "name": "Lucas Halter",
+            "short": "Halter",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 71,
+            "rating": 6.3
+          },
+          {
+            "id": "lawrence-ennali",
+            "name": "Lawrence Ennali",
+            "short": "Ennali",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 92,
+            "rating": 7.1
+          },
+          {
+            "id": "hector-herrera",
+            "name": "Héctor Herrera",
+            "short": "Herrera",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 23,
+            "rating": 8.2
+          },
+          {
+            "id": "diadie-samassekou",
+            "name": "Diadie Samassekou",
+            "short": "Samassekou",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "mateusz-bogusz",
+            "name": "Mateusz Bogusz",
+            "short": "Bogusz",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 78,
+            "rating": 7.7
+          },
+          {
+            "id": "guilherme-augusto",
+            "name": "Guilherme Augusto",
+            "short": "Guilherme Augusto",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 7.7
+          },
+          {
+            "id": "lyle-foster",
+            "name": "Lyle Foster",
+            "short": "Foster",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 7.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "ibrahim-aliyu",
+            "name": "Ibrahim Aliyu",
+            "short": "Aliyu",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "duncan-mcguire",
+            "name": "Duncan McGuire",
+            "short": "McGuire",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "duane-holmes",
+            "name": "Duane Holmes",
+            "short": "Holmes",
+            "position": "RB",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "nicholas-markanich",
+            "name": "Nicholas Markanich",
+            "short": "Markanich",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "marcelo-saracchi",
+            "name": "Marcelo Saracchi",
+            "short": "Saracchi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "matthew-arana",
+            "name": "Matthew Arana",
+            "short": "Arana",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "blake-gillingham",
+            "name": "Blake Gillingham",
+            "short": "Gillingham",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "agustin-bouzat",
+            "name": "Agustín Bouzat",
+            "short": "Bouzat",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "antonio-carlos",
+            "name": "Antônio Carlos",
+            "short": "Carlos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "eric-quill",
+          "name": "Eric Quill",
+          "short": "Quill",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "daniel",
+            "name": "Daniel",
+            "short": "Daniel",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "bernard-kamungo",
+            "name": "Bernard Kamungo",
+            "short": "Kamungo",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.2
+          },
+          {
+            "id": "nolan-norris",
+            "name": "Nolan Norris",
+            "short": "Norris",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.3
+          },
+          {
+            "id": "sebastien-ibeagha",
+            "name": "Sebastien Ibeagha",
+            "short": "Ibeagha",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.1
+          },
+          {
+            "id": "shaq-moore",
+            "name": "Shaq Moore",
+            "short": "Moore",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.2
+          },
+          {
+            "id": "patrickson-delgado",
+            "name": "Patrickson Delgado",
+            "short": "Delgado",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "christian-cappis",
+            "name": "Christian Cappis",
+            "short": "Cappis",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 8.4
+          },
+          {
+            "id": "ramiro",
+            "name": "Ramiro",
+            "short": "Ramiro",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 7
+          },
+          {
+            "id": "herman-johansson",
+            "name": "Herman Johansson",
+            "short": "Johansson",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "petar-musa",
+            "name": "Petar Musa",
+            "short": "Musa",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 7.8
+          },
+          {
+            "id": "daniel-job",
+            "name": "Daniel Job",
+            "short": "Job",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 7.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "santiago-moreno",
+            "name": "Santiago Moreno",
+            "short": "Moreno",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "joaquin-valiente",
+            "name": "Joaquín Valiente",
+            "short": "Valiente",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "ran-binyamin",
+            "name": "Ran Binyamin",
+            "short": "Binyamin",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "samuel-sarver",
+            "name": "Samuel Sarver",
+            "short": "Sarver",
+            "position": "LB",
+            "photo": null,
+            "rating": 5.1
+          },
+          {
+            "id": "clay-holstad",
+            "name": "Clay Holstad",
+            "short": "Holstad",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "osaze-urhoghide",
+            "name": "Osaze Urhoghide",
+            "short": "Urhoghide",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "caleb-swann",
+            "name": "Caleb Swann",
+            "short": "Swann",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jonathan-sirois",
+            "name": "Jonathan Sirois",
+            "short": "Sirois",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lalas-abubakar",
+            "name": "Lalas Abubakar",
+            "short": "Abubakar",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 12,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "christian-cappis",
+          "name": "Christian Cappis",
+          "short": "Cappis",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "daniel-job",
+          "name": "Daniel Job",
+          "short": "Job",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Christian Cappis left footed shot from the left side of the box to the top right corner. Assisted by Daniel Job."
+      },
+      {
+        "minute": 27,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "agustin-resch",
+          "name": "Agustín Resch",
+          "short": "Resch",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 28,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "franco-negri",
+          "name": "Franco Negri",
+          "short": "Negri",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 49,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "hector-herrera",
+          "name": "Héctor Herrera",
+          "short": "Herrera",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "guilherme-augusto",
+          "name": "Guilherme Augusto",
+          "short": "Guilherme Augusto",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Héctor Herrera header from very close range to the top right corner. Assisted by Guilherme with a cross following a corner."
+      },
+      {
+        "minute": 59,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "sebastien-ibeagha",
+          "name": "Sebastien Ibeagha",
+          "short": "Ibeagha",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 60,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "diadie-samassekou",
+          "name": "Diadie Samassekou",
+          "short": "Samassekou",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ibrahim-aliyu",
+          "name": "Ibrahim Aliyu",
+          "short": "Aliyu",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "diadie-samassekou",
+          "name": "Diadie Samassekou",
+          "short": "Samassekou",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "santiago-moreno",
+          "name": "Santiago Moreno",
+          "short": "Moreno",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "daniel-job",
+          "name": "Daniel Job",
+          "short": "Job",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "joaquin-valiente",
+          "name": "Joaquín Valiente",
+          "short": "Valiente",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "patrickson-delgado",
+          "name": "Patrickson Delgado",
+          "short": "Delgado",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "herman-johansson",
+          "name": "Herman Johansson",
+          "short": "Johansson",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Goal ruled out after VAR review"
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "duncan-mcguire",
+          "name": "Duncan McGuire",
+          "short": "McGuire",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lyle-foster",
+          "name": "Lyle Foster",
+          "short": "Foster",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ran-binyamin",
+          "name": "Ran Binyamin",
+          "short": "Binyamin",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "herman-johansson",
+          "name": "Herman Johansson",
+          "short": "Johansson",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "duane-holmes",
+          "name": "Duane Holmes",
+          "short": "Holmes",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lawrence-ennali",
+          "name": "Lawrence Ennali",
+          "short": "Ennali",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 88,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nicholas-markanich",
+          "name": "Nicholas Markanich",
+          "short": "Markanich",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "guilherme-augusto",
+          "name": "Guilherme Augusto",
+          "short": "Guilherme Augusto",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "samuel-sarver",
+          "name": "Samuel Sarver",
+          "short": "Sarver",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bernard-kamungo",
+          "name": "Bernard Kamungo",
+          "short": "Kamungo",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "mateusz-bogusz",
+          "name": "Mateusz Bogusz",
+          "short": "Bogusz",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Ran Binyamin was fouled in the box by Duncan McGuire. Petar Musa converts the penalty with a right footed shot to the bottom left corner."
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "petar-musa",
+          "name": "Petar Musa",
+          "short": "Musa",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 2",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Ran Binyamin was fouled in the box by Duncan McGuire. Petar Musa converts the penalty with a right footed shot to the bottom left corner."
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "lucas-halter",
+          "name": "Lucas Halter",
+          "short": "Halter",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "mateusz-bogusz",
+          "name": "Mateusz Bogusz",
+          "short": "Bogusz",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "red_card",
+        "team": "away",
+        "player": {
+          "id": "samuel-sarver",
+          "name": "Samuel Sarver",
+          "short": "Sarver",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "not specified"
+      }
+    ],
+    "stats": {
+      "shots": [
+        11,
+        15
+      ],
+      "onTarget": [
+        3,
+        6
+      ],
+      "corners": [
+        5,
+        5
+      ],
+      "fouls": [
+        13,
+        20
+      ],
+      "xg": [
+        1.44,
+        2.46
+      ],
+      "possession": 57
+    },
+    "attendance": 20112,
+    "referee": {
+      "name": "Victor Rivas",
+      "country": "USA"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761883",
+      "https://www.espn.com/soccer/match/_/gameId/761883",
+      "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009N9",
+      "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009N9"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

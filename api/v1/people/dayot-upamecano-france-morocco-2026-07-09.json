@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "dayot-upamecano-france-morocco-2026-07-09",
+    "name": "Dayot Upamecano",
+    "short": "Upamecano",
+    "position": "CB",
+    "photo": "assets/photos/people/dayot-upamecano.jpg",
+    "matches": [
+      {
+        "match": "france-morocco-2026-07-09",
+        "date": "2026-07-09",
+        "team": "France",
+        "role": "starter"
+      }
+    ]
+  }
+}

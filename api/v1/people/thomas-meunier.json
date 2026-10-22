@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "thomas-meunier",
+    "name": "Thomas Meunier",
+    "short": "Meunier",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "spain-belgium-2026-07-10",
+        "date": "2026-07-10",
+        "team": "Belgium",
+        "role": "bench"
+      }
+    ]
+  }
+}

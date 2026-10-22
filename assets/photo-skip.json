@@ -1,0 +1,9 @@
+{
+  "reason": "Lead image is not a usable headshot (crest, stadium or distant figure)",
+  "skip": [
+    "alberto-brignoli",
+    "francesco-stante",
+    "joselillo",
+    "lorenzo-luigi-ginelli"
+  ]
+}

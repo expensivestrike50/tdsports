@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "david-raum-bayern-munchen-rb-leipzig-2026-10-17",
+    "name": "David Raum",
+    "short": "Raum",
+    "position": "LB",
+    "photo": "assets/photos/people/david-raum.jpg",
+    "matches": [
+      {
+        "match": "bayern-munchen-rb-leipzig-2026-10-17",
+        "date": "2026-10-17",
+        "team": "RB Leipzig",
+        "role": "starter"
+      }
+    ]
+  }
+}

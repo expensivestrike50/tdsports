@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "domagoj-vida",
+    "name": "Domagoj Vida",
+    "short": "Vida",
+    "position": "CM",
+    "photo": "assets/photos/people/domagoj-vida.jpg",
+    "matches": [
+      {
+        "match": "city-aek",
+        "date": "2026-10-20",
+        "team": "AEK Athens",
+        "role": "bench"
+      }
+    ]
+  }
+}

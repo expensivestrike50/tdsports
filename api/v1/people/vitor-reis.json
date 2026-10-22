@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "vitor-reis",
+    "name": "Vitor Reis",
+    "short": "Reis",
+    "position": "LB",
+    "photo": "assets/photos/people/vitor-reis.jpg",
+    "matches": [
+      {
+        "match": "city-aek",
+        "date": "2026-10-20",
+        "team": "Man City",
+        "role": "bench"
+      }
+    ]
+  }
+}

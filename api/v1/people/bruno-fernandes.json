@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "bruno-fernandes",
+    "name": "Bruno Fernandes",
+    "short": "Bruno Fernandes",
+    "position": "AM",
+    "photo": "assets/photos/people/bruno-fernandes.jpg",
+    "matches": [
+      {
+        "match": "como-man-united",
+        "date": "2026-10-21",
+        "team": "Man United",
+        "role": "starter"
+      }
+    ]
+  }
+}

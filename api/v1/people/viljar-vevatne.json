@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "viljar-vevatne",
+    "name": "Viljar Vevatne",
+    "short": "Vevatne",
+    "position": "CM",
+    "photo": "assets/photos/people/viljar-vevatne.jpg",
+    "matches": [
+      {
+        "match": "villa-viking",
+        "date": "2026-10-21",
+        "team": "Viking",
+        "role": "bench"
+      }
+    ]
+  }
+}

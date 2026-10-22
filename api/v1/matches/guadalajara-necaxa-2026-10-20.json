@@ -1,0 +1,704 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "guadalajara-necaxa-2026-10-20",
+    "date": "2026-10-20",
+    "kickoff": "18:07",
+    "competition": "Liga MX",
+    "round": "Apertura, jornada 13",
+    "status": "FT",
+    "home": {
+      "name": "Guadalajara",
+      "id": "guadalajara",
+      "crest": "assets/clubs/219.png",
+      "country": "MX"
+    },
+    "away": {
+      "name": "Necaxa",
+      "id": "necaxa",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/229.png",
+      "country": "MX"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio Akron",
+      "city": "Guadalajara",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "gabriel-milito",
+          "name": "Gabriel Milito",
+          "short": "Milito",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "raul-rangel",
+            "name": "Raúl Rangel",
+            "short": "Rangel",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "diego-campillo",
+            "name": "Diego Campillo",
+            "short": "Campillo",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 7
+          },
+          {
+            "id": "luis-gabriel-rey",
+            "name": "Luis Gabriel Rey",
+            "short": "Rey",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "daniel-aguirre",
+            "name": "Daniel Aguirre",
+            "short": "Aguirre",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7
+          },
+          {
+            "id": "leonel-calderon-oviedo",
+            "name": "Leonel Calderón Oviedo",
+            "short": "Calderón Oviedo",
+            "position": "LB",
+            "photo": null,
+            "x": 27,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "jordan-carillo",
+            "name": "Jordan Carillo",
+            "short": "Carillo",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "fernando-gonzalez",
+            "name": "Fernando Gonzalez",
+            "short": "Gonzalez",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 64,
+            "rating": 6.8
+          },
+          {
+            "id": "richard-ledezma",
+            "name": "Richard Ledezma",
+            "short": "Ledezma",
+            "position": "RB",
+            "photo": null,
+            "x": 27,
+            "y": 88,
+            "rating": 6.5
+          },
+          {
+            "id": "efrain-alvarez",
+            "name": "Efrain Álvarez",
+            "short": "Álvarez",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 6.5
+          },
+          {
+            "id": "roberto-alvarado",
+            "name": "Roberto Alvarado",
+            "short": "Alvarado",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 6.5
+          },
+          {
+            "id": "ricardo-marin",
+            "name": "Ricardo Marín",
+            "short": "Marín",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "hugo-camberos",
+            "name": "Hugo Camberos",
+            "short": "Camberos",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "santiago-sandoval",
+            "name": "Santiago Sandoval",
+            "short": "Sandoval",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "owen-gonzalez",
+            "name": "Owen González",
+            "short": "González",
+            "position": "RW",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "kevin-castaneda",
+            "name": "Kevin Castañeda",
+            "short": "Castañeda",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "jesus-hernandez",
+            "name": "Jesús Hernández",
+            "short": "Hernández",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "oscar-whalley",
+            "name": "Óscar Whalley",
+            "short": "Whalley",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "miguel-gomez",
+            "name": "Miguel Gómez",
+            "short": "Gómez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jonathan-perez",
+            "name": "Jonathan Pérez",
+            "short": "Pérez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "carlos-enrique-hernandez-palomares",
+            "name": "Carlos Enrique Hernández Palomares",
+            "short": "Palomares",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "cristian-inda",
+            "name": "Cristian Inda",
+            "short": "Inda",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-4-1",
+        "coach": {
+          "id": "martin-varini",
+          "name": "Martín Varini",
+          "short": "Varini",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "javier-orantes",
+            "name": "Javier Orantes",
+            "short": "Orantes",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "mauro-zaleta",
+            "name": "Mauro Zaleta",
+            "short": "Zaleta",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 92,
+            "rating": 6.3
+          },
+          {
+            "id": "agustin-oliveros",
+            "name": "Agustín Oliveros",
+            "short": "Oliveros",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 71,
+            "rating": 6.6
+          },
+          {
+            "id": "diego-ochoa",
+            "name": "Diego Ochoa",
+            "short": "Ochoa",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "kaiky-naves",
+            "name": "Kaiky Naves",
+            "short": "Naves",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 29,
+            "rating": 6.3
+          },
+          {
+            "id": "emilio-martinez",
+            "name": "Emilio Martínez",
+            "short": "Martínez",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 8,
+            "rating": 7.3
+          },
+          {
+            "id": "javier-ruiz",
+            "name": "Javier Ruiz",
+            "short": "Ruiz",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 6.4
+          },
+          {
+            "id": "lorenzo-faravelli",
+            "name": "Lorenzo Faravelli",
+            "short": "Faravelli",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 7
+          },
+          {
+            "id": "daniel-leyva",
+            "name": "Daniel Leyva",
+            "short": "Leyva",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 7.3
+          },
+          {
+            "id": "miguel-rodriguez",
+            "name": "Miguel Rodríguez",
+            "short": "Rodríguez",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 6.2
+          },
+          {
+            "id": "juan-valencia",
+            "name": "Juan Valencia",
+            "short": "Valencia",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "emilio-martinez",
+            "name": "Emilio Martínez",
+            "short": "Martínez",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "owen-gonzalez",
+            "name": "Owen González",
+            "short": "González",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "julian-carranza",
+            "name": "Julián Carranza",
+            "short": "Carranza",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "joshua-palacios",
+            "name": "Joshua Palacios",
+            "short": "Palacios",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "miguel-pedroza",
+            "name": "Miguel Pedroza",
+            "short": "Pedroza",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "christopher-josue-andrade-martin",
+            "name": "Christopher Josué Andrade Martín",
+            "short": "Martín",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "leonardo-abimael-becerra-ramos",
+            "name": "Leonardo Abimael Becerra Ramos",
+            "short": "Ramos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "carlos-vargas",
+            "name": "Carlos Vargas",
+            "short": "Vargas",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rogelio-cortez",
+            "name": "Rogelio Cortéz",
+            "short": "Cortéz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "matias-espindola",
+            "name": "Matías Espíndola",
+            "short": "Espíndola",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 14,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "miguel-rodriguez",
+          "name": "Miguel Rodríguez",
+          "short": "Rodríguez",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "emilio-martinez",
+          "name": "Emilio Martínez",
+          "short": "Martínez",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "emilio-martinez",
+          "name": "Emilio Martínez",
+          "short": "Martínez",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "hugo-camberos",
+          "name": "Hugo Camberos",
+          "short": "Camberos",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "leonel-calderon-oviedo",
+          "name": "Leonel Calderón Oviedo",
+          "short": "Calderón Oviedo",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "santiago-sandoval",
+          "name": "Santiago Sandoval",
+          "short": "Sandoval",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jordan-carillo",
+          "name": "Jordan Carillo",
+          "short": "Carillo",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 54,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "owen-gonzalez",
+          "name": "Owen González",
+          "short": "González",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "miguel-rodriguez",
+          "name": "Miguel Rodríguez",
+          "short": "Rodríguez",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 54,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "julian-carranza",
+          "name": "Julián Carranza",
+          "short": "Carranza",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "juan-valencia",
+          "name": "Juan Valencia",
+          "short": "Valencia",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "owen-gonzalez",
+          "name": "Owen González",
+          "short": "González",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "diego-campillo",
+          "name": "Diego Campillo",
+          "short": "Campillo",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kevin-castaneda",
+          "name": "Kevin Castañeda",
+          "short": "Castañeda",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "richard-ledezma",
+          "name": "Richard Ledezma",
+          "short": "Ledezma",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jesus-hernandez",
+          "name": "Jesús Hernández",
+          "short": "Hernández",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "efrain-alvarez",
+          "name": "Efrain Álvarez",
+          "short": "Álvarez",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "own_goal",
+        "team": "home",
+        "player": {
+          "id": "agustin-oliveros",
+          "name": "Agustín Oliveros",
+          "short": "Oliveros",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "own",
+        "description": "Necaxa defender Agustín Oliveros turned the ball into his own net to give Guadalajara a 1-0 lead in the 77th minute."
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "joshua-palacios",
+          "name": "Joshua Palacios",
+          "short": "Palacios",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lorenzo-faravelli",
+          "name": "Lorenzo Faravelli",
+          "short": "Faravelli",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "miguel-pedroza",
+          "name": "Miguel Pedroza",
+          "short": "Pedroza",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "diego-ochoa",
+          "name": "Diego Ochoa",
+          "short": "Ochoa",
+          "position": "CB",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        10,
+        11
+      ],
+      "onTarget": [
+        3,
+        4
+      ],
+      "corners": [
+        9,
+        5
+      ],
+      "fouls": [
+        14,
+        17
+      ],
+      "possession": 59
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Vicente Jassiel Reynoso Arce",
+      "country": "Mexico"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876934",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876934",
+      "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+      "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+      "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

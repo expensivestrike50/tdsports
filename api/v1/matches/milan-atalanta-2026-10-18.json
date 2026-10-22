@@ -1,0 +1,892 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "milan-atalanta-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "18:00",
+    "competition": "Serie A",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Milan",
+      "id": "milan",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "country": "IT"
+    },
+    "away": {
+      "name": "Atalanta",
+      "id": "atalanta",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+      "country": "IT"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "San Siro",
+      "city": "Milano",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-3",
+        "coach": {
+          "id": "ruben-amorim-milan-atalanta-2026-10-18",
+          "name": "Rúben Amorim",
+          "short": "Amorim",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "mike-maignan-milan-atalanta-2026-10-18",
+            "name": "Mike Maignan",
+            "short": "Maignan",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "strahinja-pavlovic-milan-atalanta-2026-10-18",
+            "name": "Strahinja Pavlovic",
+            "short": "Pavlovic",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 7.3
+          },
+          {
+            "id": "koni-de-winter-milan-atalanta-2026-10-18",
+            "name": "Koni De Winter",
+            "short": "De Winter",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "mario-gila-milan-atalanta-2026-10-18",
+            "name": "Mario Gila",
+            "short": "Gila",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 8
+          },
+          {
+            "id": "diego-moreira-milan-atalanta-2026-10-18",
+            "name": "Diego Moreira",
+            "short": "Moreira",
+            "position": "LB",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 7.8
+          },
+          {
+            "id": "luka-modric-milan-atalanta-2026-10-18",
+            "name": "Luka Modric",
+            "short": "Modric",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 7.1
+          },
+          {
+            "id": "yunus-musah-milan-atalanta-2026-10-18",
+            "name": "Yunus Musah",
+            "short": "Musah",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 6.9
+          },
+          {
+            "id": "samuel-chukwueze-milan-atalanta-2026-10-18",
+            "name": "Samuel Chukwueze",
+            "short": "Chukwueze",
+            "position": "RB",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "christian-pulisic-milan-atalanta-2026-10-18",
+            "name": "Christian Pulisic",
+            "short": "Pulisic",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 6.6
+          },
+          {
+            "id": "goncalo-ramos-milan-atalanta-2026-10-18",
+            "name": "Gonçalo Ramos",
+            "short": "Ramos",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 8
+          },
+          {
+            "id": "adrien-rabiot-milan-atalanta-2026-10-18",
+            "name": "Adrien Rabiot",
+            "short": "Rabiot",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 8.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "omari-hutchinson-milan-atalanta-2026-10-18",
+            "name": "Omari Hutchinson",
+            "short": "Hutchinson",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "ardon-jashari-milan-atalanta-2026-10-18",
+            "name": "Ardon Jashari",
+            "short": "Jashari",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "pervis-estupinan-milan-atalanta-2026-10-18",
+            "name": "Pervis Estupiñán",
+            "short": "Estupiñán",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "ruben-loftus-cheek-milan-atalanta-2026-10-18",
+            "name": "Ruben Loftus-Cheek",
+            "short": "Loftus-Cheek",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "fikayo-tomori-milan-atalanta-2026-10-18",
+            "name": "Fikayo Tomori",
+            "short": "Tomori",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "christian-comotto-milan-atalanta-2026-10-18",
+            "name": "Christian Comotto",
+            "short": "Comotto",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "francesco-camarda-milan-atalanta-2026-10-18",
+            "name": "Francesco Camarda",
+            "short": "Camarda",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "valeri-vladimirov",
+            "name": "Valeri Vladimirov",
+            "short": "Vladimirov",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alphadjo-cisse-milan-atalanta-2026-10-18",
+            "name": "Alphadjo Cissè",
+            "short": "Cissè",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "davide-bartesaghi-milan-atalanta-2026-10-18",
+            "name": "Davide Bartesaghi",
+            "short": "Bartesaghi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "filippo-terracciano-milan-atalanta-2026-10-18",
+            "name": "Filippo Terracciano",
+            "short": "Terracciano",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "sankhoun-diawara-milan-atalanta-2026-10-18",
+            "name": "Sankhoun Diawara",
+            "short": "Diawara",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lorenzo-torriani-milan-atalanta-2026-10-18",
+            "name": "Lorenzo Torriani",
+            "short": "Torriani",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "leo-paul-bouyer",
+            "name": "Léo-Paul Bouyer",
+            "short": "Bouyer",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "maurizio-sarri",
+          "name": "Maurizio Sarri",
+          "short": "Sarri",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "marco-carnesecchi",
+            "name": "Marco Carnesecchi",
+            "short": "Carnesecchi",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.1
+          },
+          {
+            "id": "lorenzo-bernasconi",
+            "name": "Lorenzo Bernasconi",
+            "short": "Bernasconi",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.2
+          },
+          {
+            "id": "sead-kolasinac",
+            "name": "Sead Kolasinac",
+            "short": "Kolasinac",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "thomas-kristensen",
+            "name": "Thomas Kristensen",
+            "short": "Kristensen",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.4
+          },
+          {
+            "id": "raoul-bellanova",
+            "name": "Raoul Bellanova",
+            "short": "Bellanova",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "mario-pasalic",
+            "name": "Mario Pasalic",
+            "short": "Pasalic",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 7.2
+          },
+          {
+            "id": "ederson-milan-atalanta-2026-10-18",
+            "name": "Éderson",
+            "short": "Éderson",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "lazar-samardzic",
+            "name": "Lazar Samardzic",
+            "short": "Samardzic",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 22,
+            "rating": 6.2
+          },
+          {
+            "id": "jon-rowe",
+            "name": "Jon Rowe",
+            "short": "Rowe",
+            "position": "LW",
+            "photo": null,
+            "x": 54,
+            "y": 77,
+            "rating": 6.3
+          },
+          {
+            "id": "nikola-krstovic",
+            "name": "Nikola Krstovic",
+            "short": "Krstovic",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.9
+          },
+          {
+            "id": "charles-de-ketelaere",
+            "name": "Charles De Ketelaere",
+            "short": "De Ketelaere",
+            "position": "RW",
+            "photo": null,
+            "x": 54,
+            "y": 22,
+            "rating": 7.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "relja-obric",
+            "name": "Relja Obric",
+            "short": "Obric",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "gianluca-gaetano",
+            "name": "Gianluca Gaetano",
+            "short": "Gaetano",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.9
+          },
+          {
+            "id": "nicola-zalewski",
+            "name": "Nicola Zalewski",
+            "short": "Zalewski",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "gianluca-scamacca",
+            "name": "Gianluca Scamacca",
+            "short": "Scamacca",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "davide-zappacosta",
+            "name": "Davide Zappacosta",
+            "short": "Zappacosta",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "digne-pounga",
+            "name": "Digne Pounga",
+            "short": "Pounga",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mattia-sonzogni",
+            "name": "Mattia Sonzogni",
+            "short": "Sonzogni",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marco-sportiello",
+            "name": "Marco Sportiello",
+            "short": "Sportiello",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "javison-idele",
+            "name": "Javison Idele",
+            "short": "Idele",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "matteo-plaia",
+            "name": "Matteo Plaia",
+            "short": "Plaia",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 13,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "christian-pulisic-milan-atalanta-2026-10-18",
+          "name": "Christian Pulisic",
+          "short": "Pulisic",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Goal ruled out after VAR review"
+      },
+      {
+        "minute": 20,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "relja-obric",
+          "name": "Relja Obric",
+          "short": "Obric",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sead-kolasinac",
+          "name": "Sead Kolasinac",
+          "short": "Kolasinac",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 22,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "relja-obric",
+          "name": "Relja Obric",
+          "short": "Obric",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Penalty awarded to Milan after VAR review for Obric handball"
+      },
+      {
+        "minute": 24,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "goncalo-ramos-milan-atalanta-2026-10-18",
+          "name": "Gonçalo Ramos",
+          "short": "Ramos",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Gonçalo Ramos converts the penalty with a right footed shot to the bottom right corner."
+      },
+      {
+        "minute": 41,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "adrien-rabiot-milan-atalanta-2026-10-18",
+          "name": "Adrien Rabiot",
+          "short": "Rabiot",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 43,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "adrien-rabiot-milan-atalanta-2026-10-18",
+          "name": "Adrien Rabiot",
+          "short": "Rabiot",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "diego-moreira-milan-atalanta-2026-10-18",
+          "name": "Diego Moreira",
+          "short": "Moreira",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Adrien Rabiot right footed shot from the centre of the box to the bottom left corner. Assisted by Diego Moreira."
+      },
+      {
+        "minute": 53,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "omari-hutchinson-milan-atalanta-2026-10-18",
+          "name": "Omari Hutchinson",
+          "short": "Hutchinson",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "samuel-chukwueze-milan-atalanta-2026-10-18",
+          "name": "Samuel Chukwueze",
+          "short": "Chukwueze",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 55,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "thomas-kristensen",
+          "name": "Thomas Kristensen",
+          "short": "Kristensen",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Penalty awarded to Milan after VAR review for Kristensen handball (Ramos penalty saved)"
+      },
+      {
+        "minute": 57,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "mario-gila-milan-atalanta-2026-10-18",
+          "name": "Mario Gila",
+          "short": "Gila",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "adrien-rabiot-milan-atalanta-2026-10-18",
+          "name": "Adrien Rabiot",
+          "short": "Rabiot",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Mario Gila header from very close range to the bottom right corner. Assisted by Adrien Rabiot with a headed pass following a corner."
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gianluca-gaetano",
+          "name": "Gianluca Gaetano",
+          "short": "Gaetano",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mario-pasalic",
+          "name": "Mario Pasalic",
+          "short": "Pasalic",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "nicola-zalewski",
+          "name": "Nicola Zalewski",
+          "short": "Zalewski",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jon-rowe",
+          "name": "Jon Rowe",
+          "short": "Rowe",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "gianluca-gaetano",
+          "name": "Gianluca Gaetano",
+          "short": "Gaetano",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "3 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "nicola-zalewski",
+          "name": "Nicola Zalewski",
+          "short": "Zalewski",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Gianluca Gaetano left footed shot from the centre of the box to the bottom right corner. Assisted by Nicola Zalewski."
+      },
+      {
+        "minute": 68,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "ederson-milan-atalanta-2026-10-18",
+          "name": "Éderson",
+          "short": "Éderson",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gianluca-scamacca",
+          "name": "Gianluca Scamacca",
+          "short": "Scamacca",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lazar-samardzic",
+          "name": "Lazar Samardzic",
+          "short": "Samardzic",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "davide-zappacosta",
+          "name": "Davide Zappacosta",
+          "short": "Zappacosta",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lorenzo-bernasconi",
+          "name": "Lorenzo Bernasconi",
+          "short": "Bernasconi",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ardon-jashari-milan-atalanta-2026-10-18",
+          "name": "Ardon Jashari",
+          "short": "Jashari",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "christian-pulisic-milan-atalanta-2026-10-18",
+          "name": "Christian Pulisic",
+          "short": "Pulisic",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "pervis-estupinan-milan-atalanta-2026-10-18",
+          "name": "Pervis Estupiñán",
+          "short": "Estupiñán",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "yunus-musah-milan-atalanta-2026-10-18",
+          "name": "Yunus Musah",
+          "short": "Musah",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ruben-loftus-cheek-milan-atalanta-2026-10-18",
+          "name": "Ruben Loftus-Cheek",
+          "short": "Loftus-Cheek",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "luka-modric-milan-atalanta-2026-10-18",
+          "name": "Luka Modric",
+          "short": "Modric",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "relja-obric",
+          "name": "Relja Obric",
+          "short": "Obric",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 81,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "nikola-krstovic",
+          "name": "Nikola Krstovic",
+          "short": "Krstovic",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "3 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "raoul-bellanova",
+          "name": "Raoul Bellanova",
+          "short": "Bellanova",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Nikola Krstovic right footed shot from the centre of the box to the bottom left corner. Assisted by Raoul Bellanova."
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "fikayo-tomori-milan-atalanta-2026-10-18",
+          "name": "Fikayo Tomori",
+          "short": "Tomori",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mario-gila-milan-atalanta-2026-10-18",
+          "name": "Mario Gila",
+          "short": "Gila",
+          "position": "CB",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        11,
+        12
+      ],
+      "onTarget": [
+        6,
+        4
+      ],
+      "corners": [
+        2,
+        2
+      ],
+      "fouls": [
+        3,
+        10
+      ],
+      "possession": 56
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Daniele Chiffi",
+      "country": "Italy"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874978",
+      "https://www.espn.com/soccer/match/_/gameId/401874978",
+      "https://www.calciomercato.com/liste/milan-atalanta-live/blta664269c7ee1a0e3",
+      "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

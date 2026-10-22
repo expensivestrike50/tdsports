@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "bruno-guimaraes",
+    "name": "Bruno Guimarães",
+    "short": "Guimarães",
+    "position": "DM",
+    "photo": "assets/photos/people/bruno-guimaraes.jpg",
+    "matches": [
+      {
+        "match": "bayern-arsenal",
+        "date": "2026-10-21",
+        "team": "Arsenal",
+        "role": "starter"
+      }
+    ]
+  }
+}

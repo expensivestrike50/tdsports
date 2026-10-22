@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "bara-sapoko-ndiaye",
+    "name": "Bara Sapoko Ndiaye",
+    "short": "Ndiaye",
+    "position": "AM",
+    "photo": "assets/photos/people/bara-sapoko-ndiaye.jpg",
+    "matches": [
+      {
+        "match": "bayern-arsenal",
+        "date": "2026-10-21",
+        "team": "Bayern München",
+        "role": "bench"
+      }
+    ]
+  }
+}

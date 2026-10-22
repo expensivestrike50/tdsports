@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "mikel-merino",
+    "name": "Mikel Merino",
+    "short": "Merino",
+    "position": "CM",
+    "photo": "assets/photos/people/mikel-merino.jpg",
+    "matches": [
+      {
+        "match": "bayern-arsenal",
+        "date": "2026-10-21",
+        "team": "Arsenal",
+        "role": "bench"
+      }
+    ]
+  }
+}

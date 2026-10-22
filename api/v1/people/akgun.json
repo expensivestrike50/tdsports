@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "akgun",
+    "name": "Yunus Akgün",
+    "short": "Akgün",
+    "position": "RW",
+    "photo": "assets/photos/people/akgun.jpg",
+    "matches": [
+      {
+        "match": "lille-galatasaray",
+        "date": "2026-10-21",
+        "team": "Galatasaray",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "jan-paul-van-hecke",
+    "name": "Jan Paul van Hecke",
+    "short": "van Hecke",
+    "position": "CB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "spurs-coventry-2026-10-19",
+        "date": "2026-10-19",
+        "team": "Spurs",
+        "role": "starter"
+      }
+    ]
+  }
+}

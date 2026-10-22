@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="TDsports: live scores, lineups, player ratings and match statistics.">
+  <meta name="theme-color" content="#029c5f">
+  <title>TDsports | Scores &amp; player statistics</title>
+  <link rel="icon" type="image/png" href="assets/brand/tdsports-icon.png">
+  <link rel="stylesheet" href="styles.css?v=9c806ead">
+</head>
+<body>
+  <a class="skip-link" href="#app">Skip to content</a>
+  <header class="site-header">
+    <a class="logo" href="#" aria-label="TDsports home"><img class="logo-light" src="assets/brand/tdsports-logo.png" alt=""><img class="logo-dark" src="assets/brand/tdsports-logo-dark.png" alt=""></a>
+    <div class="search-wrap">
+      <input class="search" id="search" type="search" placeholder="Search players, teams" aria-label="Search players and teams"
+        autocomplete="off" role="combobox" aria-controls="search-results" aria-expanded="false">
+      <kbd class="search-key" aria-hidden="true">/</kbd>
+      <div class="search-results" id="search-results" role="listbox" aria-label="Search results" hidden></div>
+    </div>
+    <nav class="site-nav" aria-label="Main">
+      <button data-action="news-nav">News</button>
+      <button data-action="tv">TV schedules</button>
+      <button data-action="about">About</button>
+      <button data-action="api">API</button>
+      <button class="theme-toggle" id="theme-toggle" data-action="theme" aria-label="Toggle theme">☾</button>
+    </nav>
+  </header>
+  <main id="app" tabindex="-1"></main>
+  <div id="overlay"></div>
+  <footer class="footer">
+    <span>TDsports · Football, in detail.</span>
+    <button class="link" data-action="credits">Image credits</button>
+  </footer>
+  <script src="data.js?v=0122dca7"></script>
+  <script src="match-data.js?v=76d2b129"></script>
+  <script src="analytics.js?v=a04981f5"></script>
+  <script src="replays.js?v=00786d8f"></script>
+  <script src="style.js?v=de86e94c"></script>
+  <script src="api-docs.js?v=07387520"></script>
+  <script src="app.js?v=255ea272"></script>
+</body>
+</html>

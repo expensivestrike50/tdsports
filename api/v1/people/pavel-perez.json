@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "pavel-perez",
+    "name": "Pável Pérez",
+    "short": "Pérez",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "toluca-tijuana-2026-10-21",
+        "date": "2026-10-21",
+        "team": "Toluca",
+        "role": "bench"
+      }
+    ]
+  }
+}

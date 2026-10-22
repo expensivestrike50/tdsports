@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "ezequiel-ponce",
+    "name": "Ezequiel Ponce",
+    "short": "Ponce",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "villarreal-elche-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Elche",
+        "role": "bench"
+      }
+    ]
+  }
+}

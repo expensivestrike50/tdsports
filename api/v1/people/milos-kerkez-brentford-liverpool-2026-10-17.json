@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "milos-kerkez-brentford-liverpool-2026-10-17",
+    "name": "Milos Kerkez",
+    "short": "Kerkez",
+    "position": "LB",
+    "photo": "assets/photos/people/milos-kerkez.jpg",
+    "matches": [
+      {
+        "match": "brentford-liverpool-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Liverpool",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "celta-vigo-juventus-2026-10-15",
+    "date": "2026-10-15",
+    "kickoff": "21:00",
+    "competition": "UEFA Europa League",
+    "round": "League phase, matchday 2",
+    "status": "FT",
+    "home": {
+      "name": "Celta Vigo",
+      "id": "celta-vigo",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Juventus",
+      "id": "juventus",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+      "country": "IT"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Balaidos",
+      "city": "Vigo",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-3",
+        "coach": {
+          "id": "claudio-giraldez",
+          "name": "Claudio Giraldez",
+          "short": "Giraldez",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "andrei-radu",
+            "name": "Andrei Radu",
+            "short": "Radu",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "marcos-alonso",
+            "name": "Marcos Alonso",
+            "short": "Alonso",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 7.1
+          },
+          {
+            "id": "yoel-lago",
+            "name": "Yoel Lago",
+            "short": "Lago",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "javi-rodriguez",
+            "name": "Javi Rodríguez",
+            "short": "Rodríguez",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 6.9
+          },
+          {
+            "id": "sergio-carreira",
+            "name": "Sergio Carreira",
+            "short": "Carreira",
+            "position": "LB",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "aleix-febas",
+            "name": "Aleix Febas",
+            "short": "Febas",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "ilaix-moriba",
+            "name": "Ilaix Moriba",
+            "short": "Moriba",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 7.2
+          },
+          {
+            "id": "javi-rueda",
+            "name": "Javi Rueda",
+            "short": "Rueda",
+            "position": "RB",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "williot-swedberg",
+            "name": "Williot Swedberg",
+            "short": "Swedberg",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 7.6
+          },
+          {
+            "id": "ferran-jutgla",
+            "name": "Ferran Jutglà",
+            "short": "Jutglà",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "hugo-alvarez",
+            "name": "Hugo Álvarez",
+            "short": "Álvarez",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 8.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "couhaib-driouech",
+            "name": "Couhaib Driouech",
+            "short": "Driouech",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "iago-aspas",
+            "name": "Iago Aspas",
+            "short": "Aspas",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "hugo-burcio",
+            "name": "Hugo Burcio",
+            "short": "Burcio",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "hugo-gonzalez",
+            "name": "Hugo Gonzalez",
+            "short": "Gonzalez",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "alvaro-nunez",
+            "name": "Álvaro Núñez",
+            "short": "Núñez",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "angel-arcos",
+            "name": "Ángel Arcos",
+            "short": "Arcos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "abdoulaye-faye",
+            "name": "Abdoulaye Faye",
+            "short": "Faye",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "frank-germain-jonathan-miller",
+            "name": "Frank Germain Jonathan Miller",
+            "short": "Miller",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "altay-bayindir",
+            "name": "Altay Bayindir",
+            "short": "Bayindir",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "andres-antanon",
+            "name": "Andrés Antañón",
+            "short": "Antañón",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "javi-galan",
+            "name": "Javi Galán",
+            "short": "Galán",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "sebastian-caceres",
+            "name": "Sebastián Cáceres",
+            "short": "Cáceres",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "luciano-spalletti",
+          "name": "Luciano Spalletti",
+          "short": "Spalletti",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "guglielmo-vicario",
+            "name": "Guglielmo Vicario",
+            "short": "Vicario",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "lloyd-kelly",
+            "name": "Lloyd Kelly",
+            "short": "Kelly",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 6.4
+          },
+          {
+            "id": "federico-gatti",
+            "name": "Federico Gatti",
+            "short": "Gatti",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.7
+          },
+          {
+            "id": "pierre-kalulu",
+            "name": "Pierre Kalulu",
+            "short": "Kalulu",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 6.9
+          },
+          {
+            "id": "andrea-cambiaso",
+            "name": "Andrea Cambiaso",
+            "short": "Cambiaso",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "teun-koopmeiners",
+            "name": "Teun Koopmeiners",
+            "short": "Koopmeiners",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 6.6
+          },
+          {
+            "id": "pape-matar-sarr",
+            "name": "Pape Matar Sarr",
+            "short": "Sarr",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 6.8
+          },
+          {
+            "id": "weston-mckennie",
+            "name": "Weston McKennie",
+            "short": "McKennie",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 7.7
+          },
+          {
+            "id": "kerim-alajbegovic",
+            "name": "Kerim Alajbegovic",
+            "short": "Alajbegovic",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 6.8
+          },
+          {
+            "id": "francisco-conceicao",
+            "name": "Francisco Conceição",
+            "short": "Conceição",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 6.6
+          },
+          {
+            "id": "nick-woltemade",
+            "name": "Nick Woltemade",
+            "short": "Woltemade",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 8.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "nico-gonzalez",
+            "name": "Nico González",
+            "short": "González",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "randal-kolo-muani",
+            "name": "Randal Kolo Muani",
+            "short": "Muani",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.8
+          },
+          {
+            "id": "jhon-lucumi",
+            "name": "Jhon Lucumí",
+            "short": "Lucumí",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "bremer",
+            "name": "Bremer",
+            "short": "Bremer",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "douglas-luiz",
+            "name": "Douglas Luiz",
+            "short": "Luiz",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "zeki-celik",
+            "name": "Zeki Çelik",
+            "short": "Çelik",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "juan-cabal",
+            "name": "Juan Cabal",
+            "short": "Cabal",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "carlo-pinsoglio",
+            "name": "Carlo Pinsoglio",
+            "short": "Pinsoglio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "neto",
+            "name": "Neto",
+            "short": "Neto",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 18,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "hugo-alvarez",
+          "name": "Hugo Álvarez",
+          "short": "Álvarez",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "williot-swedberg",
+          "name": "Williot Swedberg",
+          "short": "Swedberg",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Williot Swedberg provided the assist; Hugo Álvarez scored with a right-footed shot from the left side of the six yard box to the bottom left corner."
+      },
+      {
+        "minute": 39,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "williot-swedberg",
+          "name": "Williot Swedberg",
+          "short": "Swedberg",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 54,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "lloyd-kelly",
+          "name": "Lloyd Kelly",
+          "short": "Kelly",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 58,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "nick-woltemade",
+          "name": "Nick Woltemade",
+          "short": "Woltemade",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Nick Woltemade scored with a right-footed shot from the centre of the box to the bottom right corner."
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "couhaib-driouech",
+          "name": "Couhaib Driouech",
+          "short": "Driouech",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "williot-swedberg",
+          "name": "Williot Swedberg",
+          "short": "Swedberg",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "nico-gonzalez",
+          "name": "Nico González",
+          "short": "González",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "francisco-conceicao",
+          "name": "Francisco Conceição",
+          "short": "Conceição",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "randal-kolo-muani",
+          "name": "Randal Kolo Muani",
+          "short": "Muani",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kerim-alajbegovic",
+          "name": "Kerim Alajbegovic",
+          "short": "Alajbegovic",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jhon-lucumi",
+          "name": "Jhon Lucumí",
+          "short": "Lucumí",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lloyd-kelly",
+          "name": "Lloyd Kelly",
+          "short": "Kelly",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "bremer",
+          "name": "Bremer",
+          "short": "Bremer",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "federico-gatti",
+          "name": "Federico Gatti",
+          "short": "Gatti",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "jhon-lucumi",
+          "name": "Jhon Lucumí",
+          "short": "Lucumí",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "iago-aspas",
+          "name": "Iago Aspas",
+          "short": "Aspas",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ferran-jutgla",
+          "name": "Ferran Jutglà",
+          "short": "Jutglà",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "hugo-burcio",
+          "name": "Hugo Burcio",
+          "short": "Burcio",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "aleix-febas",
+          "name": "Aleix Febas",
+          "short": "Febas",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "douglas-luiz",
+          "name": "Douglas Luiz",
+          "short": "Luiz",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "teun-koopmeiners",
+          "name": "Teun Koopmeiners",
+          "short": "Koopmeiners",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "ilaix-moriba",
+          "name": "Ilaix Moriba",
+          "short": "Moriba",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "hugo-gonzalez",
+          "name": "Hugo Gonzalez",
+          "short": "Gonzalez",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "hugo-alvarez",
+          "name": "Hugo Álvarez",
+          "short": "Álvarez",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "alvaro-nunez",
+          "name": "Álvaro Núñez",
+          "short": "Núñez",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "javi-rueda",
+          "name": "Javi Rueda",
+          "short": "Rueda",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "randal-kolo-muani",
+          "name": "Randal Kolo Muani",
+          "short": "Muani",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "andrea-cambiaso",
+          "name": "Andrea Cambiaso",
+          "short": "Cambiaso",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Andrea Cambiaso provided the assist with a cross; Randal Kolo Muani scored with a header from very close range to the bottom right corner."
+      }
+    ],
+    "stats": {
+      "shots": [
+        9,
+        22
+      ],
+      "onTarget": [
+        2,
+        6
+      ],
+      "corners": [
+        2,
+        7
+      ],
+      "fouls": [
+        12,
+        19
+      ],
+      "possession": 47
+    },
+    "attendance": 21805,
+    "referee": {
+      "name": "Sander van der Eijk",
+      "country": "Netherlands"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/summary?event=401915560",
+      "https://www.espn.com/soccer/match/_/gameId/401915560",
+      "https://match.uefa.com/v5/matches?competitionId=14&fromDate=2026-10-15&toDate=2026-10-15",
+      "https://match.uefa.com/v5/matches/2050089/lineups"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

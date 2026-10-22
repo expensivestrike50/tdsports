@@ -1,0 +1,842 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "madrid-leipzig",
+    "date": "2026-10-21",
+    "kickoff": "21:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Real Madrid",
+      "id": "real-madrid",
+      "crest": "assets/clubs/86.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "RB Leipzig",
+      "id": "rb-leipzig",
+      "crest": "assets/clubs/11420.png",
+      "country": "DE"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "tv": "CBS Sports",
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio Santiago Bernabéu",
+      "city": "Madrid",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "jose-mourinho",
+          "name": "José Mourinho",
+          "short": "Mourinho",
+          "position": "Coach",
+          "photo": "assets/photos/people/jose-mourinho.jpg"
+        },
+        "starting": [
+          {
+            "id": "thibaut-courtois",
+            "name": "Thibaut Courtois",
+            "short": "Courtois",
+            "position": "GK",
+            "photo": "assets/photos/people/thibaut-courtois.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "alvaro-carreras",
+            "name": "Álvaro Carreras",
+            "short": "Carreras",
+            "position": "LB",
+            "photo": "assets/photos/people/alvaro-carreras.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "antonio-rudiger",
+            "name": "Antonio Rüdiger",
+            "short": "Rüdiger",
+            "position": "CB",
+            "photo": "assets/photos/people/antonio-rudiger.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "dean-huijsen",
+            "name": "Dean Huijsen",
+            "short": "Huijsen",
+            "position": "CB",
+            "photo": "assets/photos/people/dean-huijsen.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 6.5
+          },
+          {
+            "id": "federico-valverde",
+            "name": "Federico Valverde",
+            "short": "Valverde",
+            "position": "RB",
+            "photo": "assets/photos/people/federico-valverde.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "eduardo-camavinga",
+            "name": "Eduardo Camavinga",
+            "short": "Camavinga",
+            "position": "DM",
+            "photo": "assets/photos/people/eduardo-camavinga.jpg",
+            "x": 27,
+            "y": 30,
+            "rating": 7
+          },
+          {
+            "id": "bernardo-silva",
+            "name": "Bernardo Silva",
+            "short": "Bernardo Silva",
+            "position": "DM",
+            "photo": "assets/photos/people/bernardo-silva.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 7.4
+          },
+          {
+            "id": "vinicius-junior",
+            "name": "Vinícius Júnior",
+            "short": "Vinícius Júnior",
+            "position": "LW",
+            "photo": "assets/photos/people/vinicius-junior.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 6.8
+          },
+          {
+            "id": "jude-bellingham",
+            "name": "Jude Bellingham",
+            "short": "Bellingham",
+            "position": "AM",
+            "photo": "assets/photos/people/jude-bellingham.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 7.6
+          },
+          {
+            "id": "arda-guler",
+            "name": "Arda Güler",
+            "short": "Güler",
+            "position": "RW",
+            "photo": "assets/photos/people/arda-guler.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 7.7
+          },
+          {
+            "id": "kylian-mbappe",
+            "name": "Kylian Mbappé",
+            "short": "Mbappé",
+            "position": "ST",
+            "photo": "assets/photos/people/kylian-mbappe.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 8.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "yan-diomande",
+            "name": "Yan Diomande",
+            "short": "Diomande",
+            "position": "LW",
+            "photo": "assets/photos/people/yan-diomande.jpg",
+            "rating": 8.4
+          },
+          {
+            "id": "marc-cucurella",
+            "name": "Marc Cucurella",
+            "short": "Cucurella",
+            "position": "LB",
+            "photo": "assets/photos/people/marc-cucurella.jpg",
+            "rating": 6.7
+          },
+          {
+            "id": "brahim-diaz",
+            "name": "Brahim Díaz",
+            "short": "Díaz",
+            "position": "RW",
+            "photo": "assets/photos/people/brahim-diaz.jpg",
+            "rating": 6.9
+          },
+          {
+            "id": "carlos-espi",
+            "name": "Carlos Espí",
+            "short": "Espí",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "endrick",
+            "name": "Endrick",
+            "short": "Endrick",
+            "position": "AM",
+            "photo": "assets/photos/people/endrick.jpg",
+            "rating": 7.1
+          },
+          {
+            "id": "ibrahima-konate",
+            "name": "Ibrahima Konaté",
+            "short": "Konaté",
+            "position": "CM",
+            "photo": "assets/photos/people/ibrahima-konate.jpg",
+            "rating": null
+          },
+          {
+            "id": "eder-militao",
+            "name": "Éder Militão",
+            "short": "Militão",
+            "position": "CM",
+            "photo": "assets/photos/people/eder-militao.jpg",
+            "rating": null
+          },
+          {
+            "id": "thiago-pitarch",
+            "name": "Thiago Pitarch",
+            "short": "Pitarch",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aurelien-tchouameni",
+            "name": "Aurélien Tchouaméni",
+            "short": "Tchouaméni",
+            "position": "CM",
+            "photo": "assets/photos/people/aurelien-tchouameni.jpg",
+            "rating": null
+          },
+          {
+            "id": "denzel-dumfries",
+            "name": "Denzel Dumfries",
+            "short": "Dumfries",
+            "position": "CM",
+            "photo": "assets/photos/people/denzel-dumfries.jpg",
+            "rating": null
+          },
+          {
+            "id": "trent-alexander-arnold",
+            "name": "Trent Alexander-Arnold",
+            "short": "Alexander-Arnold",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "andriy-lunin",
+            "name": "Andriy Lunin",
+            "short": "Lunin",
+            "position": "CM",
+            "photo": "assets/photos/people/andriy-lunin.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "martin-demichelis",
+          "name": "Martín Demichelis",
+          "short": "Demichelis",
+          "position": "Coach",
+          "photo": "assets/photos/people/martin-demichelis.jpg"
+        },
+        "starting": [
+          {
+            "id": "maarten-vandevoordt",
+            "name": "Maarten Vandevoordt",
+            "short": "Vandevoordt",
+            "position": "GK",
+            "photo": "assets/photos/people/maarten-vandevoordt.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "david-raum",
+            "name": "David Raum",
+            "short": "Raum",
+            "position": "LB",
+            "photo": "assets/photos/people/david-raum.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "castello-lukeba",
+            "name": "Castello Lukeba",
+            "short": "Lukeba",
+            "position": "CB",
+            "photo": "assets/photos/people/castello-lukeba.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 6.3
+          },
+          {
+            "id": "willi-orban",
+            "name": "Willi Orbán",
+            "short": "Orbán",
+            "position": "CB",
+            "photo": "assets/photos/people/willi-orban.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 6.7
+          },
+          {
+            "id": "ridle-baku",
+            "name": "Ridle Baku",
+            "short": "Baku",
+            "position": "RB",
+            "photo": "assets/photos/people/ridle-baku.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 6.7
+          },
+          {
+            "id": "neil-el-aynaoui",
+            "name": "Neil El Aynaoui",
+            "short": "El Aynaoui",
+            "position": "DM",
+            "photo": "assets/photos/people/neil-el-aynaoui.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 7.1
+          },
+          {
+            "id": "nicolas-seiwald",
+            "name": "Nicolas Seiwald",
+            "short": "Seiwald",
+            "position": "DM",
+            "photo": "assets/photos/people/nicolas-seiwald.jpg",
+            "x": 73,
+            "y": 30,
+            "rating": 6.9
+          },
+          {
+            "id": "antonio-nusa",
+            "name": "Antonio Nusa",
+            "short": "Nusa",
+            "position": "LW",
+            "photo": "assets/photos/people/antonio-nusa.jpg",
+            "x": 63,
+            "y": 77,
+            "rating": 6.7
+          },
+          {
+            "id": "christopher-nkunku",
+            "name": "Christopher Nkunku",
+            "short": "Nkunku",
+            "position": "AM",
+            "photo": "assets/photos/people/christopher-nkunku.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "brajan-gruda",
+            "name": "Brajan Gruda",
+            "short": "Gruda",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 6.8
+          },
+          {
+            "id": "romulo",
+            "name": "Rômulo",
+            "short": "Rômulo",
+            "position": "ST",
+            "photo": "assets/photos/people/romulo.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 6.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "rocco-reitz",
+            "name": "Rocco Reitz",
+            "short": "Reitz",
+            "position": "DM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "andrija-maksimovic",
+            "name": "Andrija Maksimovic",
+            "short": "Maksimovic",
+            "position": "RW",
+            "photo": "assets/photos/people/andrija-maksimovic.jpg",
+            "rating": 7
+          },
+          {
+            "id": "max-finkgrafe",
+            "name": "Max Finkgrafe",
+            "short": "Finkgrafe",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "tidiam-gomis",
+            "name": "Tidiam Gomis",
+            "short": "Gomis",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "christoph-baumgartner",
+            "name": "Christoph Baumgartner",
+            "short": "Baumgartner",
+            "position": "AM",
+            "photo": "assets/photos/people/christoph-baumgartner.jpg",
+            "rating": 7.1
+          },
+          {
+            "id": "ezechiel-banzuzi",
+            "name": "Ezechiel Banzuzi",
+            "short": "Banzuzi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "maxime-esteve",
+            "name": "Maxime Estève",
+            "short": "Estève",
+            "position": "CM",
+            "photo": "assets/photos/people/maxime-esteve.jpg",
+            "rating": null
+          },
+          {
+            "id": "benjamin-henrichs",
+            "name": "Benjamin Henrichs",
+            "short": "Henrichs",
+            "position": "CM",
+            "photo": "assets/photos/people/benjamin-henrichs.jpg",
+            "rating": null
+          },
+          {
+            "id": "abdoul-kone",
+            "name": "Abdoul Koné",
+            "short": "Koné",
+            "position": "CM",
+            "photo": "assets/photos/people/abdoul-kone.jpg",
+            "rating": null
+          },
+          {
+            "id": "johan-bakayoko",
+            "name": "Johan Bakayoko",
+            "short": "Bakayoko",
+            "position": "CM",
+            "photo": "assets/photos/people/johan-bakayoko.jpg",
+            "rating": null
+          },
+          {
+            "id": "lukas-klostermann",
+            "name": "Lukas Klostermann",
+            "short": "Klostermann",
+            "position": "CM",
+            "photo": "assets/photos/people/lukas-klostermann.jpg",
+            "rating": null
+          },
+          {
+            "id": "rjan-nyland",
+            "name": "Ørjan Nyland",
+            "short": "Nyland",
+            "position": "CM",
+            "photo": "assets/photos/people/rjan-nyland.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 43,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "bernardo-silva",
+          "name": "Bernardo Silva",
+          "short": "Bernardo Silva",
+          "position": "DM",
+          "photo": "assets/photos/people/bernardo-silva.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Vandevoordt blocked Arda Güler's shot with his foot but the ball squirmed between his legs and Bernardo Silva pounced from close range for his first Real Madrid goal, just before half-time."
+      },
+      {
+        "minute": 52,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "arda-guler",
+          "name": "Arda Güler",
+          "short": "Güler",
+          "position": "RW",
+          "photo": "assets/photos/people/arda-guler.jpg"
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "kylian-mbappe",
+          "name": "Kylian Mbappé",
+          "short": "Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        },
+        "goalType": "build",
+        "description": "Jude Bellingham reached the byline and stood up a cross to the back post, Kylian Mbappé headed it back across goal and Arda Güler poked it over the line from very close range."
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "rocco-reitz",
+          "name": "Rocco Reitz",
+          "short": "Reitz",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "neil-el-aynaoui",
+          "name": "Neil El Aynaoui",
+          "short": "El Aynaoui",
+          "position": "DM",
+          "photo": "assets/photos/people/neil-el-aynaoui.jpg"
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "andrija-maksimovic",
+          "name": "Andrija Maksimovic",
+          "short": "Maksimovic",
+          "position": "RW",
+          "photo": "assets/photos/people/andrija-maksimovic.jpg"
+        },
+        "replaced": {
+          "id": "brajan-gruda",
+          "name": "Brajan Gruda",
+          "short": "Gruda",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "alvaro-carreras",
+          "name": "Álvaro Carreras",
+          "short": "Carreras",
+          "position": "LB",
+          "photo": "assets/photos/people/alvaro-carreras.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "yan-diomande",
+          "name": "Yan Diomande",
+          "short": "Diomande",
+          "position": "LW",
+          "photo": "assets/photos/people/yan-diomande.jpg"
+        },
+        "replaced": {
+          "id": "vinicius-junior",
+          "name": "Vinícius Júnior",
+          "short": "Vinícius Júnior",
+          "position": "LW",
+          "photo": "assets/photos/people/vinicius-junior.jpg"
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "marc-cucurella",
+          "name": "Marc Cucurella",
+          "short": "Cucurella",
+          "position": "LB",
+          "photo": "assets/photos/people/marc-cucurella.jpg"
+        },
+        "replaced": {
+          "id": "alvaro-carreras",
+          "name": "Álvaro Carreras",
+          "short": "Carreras",
+          "position": "LB",
+          "photo": "assets/photos/people/alvaro-carreras.jpg"
+        }
+      },
+      {
+        "minute": 70,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "rocco-reitz",
+          "name": "Rocco Reitz",
+          "short": "Reitz",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "max-finkgrafe",
+          "name": "Max Finkgrafe",
+          "short": "Finkgrafe",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "david-raum",
+          "name": "David Raum",
+          "short": "Raum",
+          "position": "LB",
+          "photo": "assets/photos/people/david-raum.jpg"
+        }
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "tidiam-gomis",
+          "name": "Tidiam Gomis",
+          "short": "Gomis",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "antonio-nusa",
+          "name": "Antonio Nusa",
+          "short": "Nusa",
+          "position": "LW",
+          "photo": "assets/photos/people/antonio-nusa.jpg"
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "christoph-baumgartner",
+          "name": "Christoph Baumgartner",
+          "short": "Baumgartner",
+          "position": "AM",
+          "photo": "assets/photos/people/christoph-baumgartner.jpg"
+        },
+        "replaced": {
+          "id": "christopher-nkunku",
+          "name": "Christopher Nkunku",
+          "short": "Nkunku",
+          "position": "AM",
+          "photo": "assets/photos/people/christopher-nkunku.jpg"
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "brahim-diaz",
+          "name": "Brahim Díaz",
+          "short": "Díaz",
+          "position": "RW",
+          "photo": "assets/photos/people/brahim-diaz.jpg"
+        },
+        "replaced": {
+          "id": "arda-guler",
+          "name": "Arda Güler",
+          "short": "Güler",
+          "position": "RW",
+          "photo": "assets/photos/people/arda-guler.jpg"
+        }
+      },
+      {
+        "minute": 83,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "kylian-mbappe",
+          "name": "Kylian Mbappé",
+          "short": "Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "yan-diomande",
+          "name": "Yan Diomande",
+          "short": "Diomande",
+          "position": "LW",
+          "photo": "assets/photos/people/yan-diomande.jpg"
+        },
+        "goalType": "build",
+        "description": "Kylian Mbappé received Yan Diomande's pass on the left edge of the area and curled a right-footed shot into the top corner - his 12th goal of the season."
+      },
+      {
+        "minute": 85,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "tidiam-gomis",
+          "name": "Tidiam Gomis",
+          "short": "Gomis",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "3 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "christoph-baumgartner",
+          "name": "Christoph Baumgartner",
+          "short": "Baumgartner",
+          "position": "AM",
+          "photo": "assets/photos/people/christoph-baumgartner.jpg"
+        },
+        "goalType": "build",
+        "description": "Substitute Christoph Baumgartner cut through the Madrid defence and played in fellow substitute Tidiam Gomis, who finished right-footed from the centre of the box for a consolation."
+      },
+      {
+        "minute": 87,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "yan-diomande",
+          "name": "Yan Diomande",
+          "short": "Diomande",
+          "position": "LW",
+          "photo": "assets/photos/people/yan-diomande.jpg"
+        },
+        "scoreAfter": "4 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "brahim-diaz",
+          "name": "Brahim Díaz",
+          "short": "Díaz",
+          "position": "RW",
+          "photo": "assets/photos/people/brahim-diaz.jpg"
+        },
+        "goalType": "build",
+        "description": "Former Leipzig player Yan Diomande met a Brahim Díaz cross with a thunderous right-footed volley from the left side of the box into the top left corner."
+      },
+      {
+        "minute": 88,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "carlos-espi",
+          "name": "Carlos Espí",
+          "short": "Espí",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kylian-mbappe",
+          "name": "Kylian Mbappé",
+          "short": "Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        }
+      },
+      {
+        "minute": 88,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "endrick",
+          "name": "Endrick",
+          "short": "Endrick",
+          "position": "AM",
+          "photo": "assets/photos/people/endrick.jpg"
+        },
+        "replaced": {
+          "id": "jude-bellingham",
+          "name": "Jude Bellingham",
+          "short": "Bellingham",
+          "position": "AM",
+          "photo": "assets/photos/people/jude-bellingham.jpg"
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        18,
+        11
+      ],
+      "onTarget": [
+        11,
+        6
+      ],
+      "corners": [
+        7,
+        1
+      ],
+      "fouls": [
+        13,
+        12
+      ],
+      "possession": 64
+    },
+    "attendance": 73016,
+    "referee": {
+      "name": "István Kovács",
+      "country": "Romania"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401915313",
+      "https://www.espn.com/soccer/report/_/gameId/401915313",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915313",
+      "https://www.uefa.com/uefachampionsleague/match/2049599/",
+      "https://match.uefa.com/v5/matches/2049599/lineups",
+      "https://match.uefa.com/v5/matches?competitionId=1&fromDate=2026-10-21&toDate=2026-10-21"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

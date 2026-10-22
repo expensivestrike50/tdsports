@@ -1,0 +1,2292 @@
+{
+ "agent": "b",
+ "generated": "2026-10-22T02:16:41Z",
+ "matches": [
+  {
+   "id": "bayern-arsenal",
+   "found": true,
+   "competition": "UEFA Champions League",
+   "round": "League phase, matchday 3",
+   "date": "2026-10-21",
+   "kickoff_local": "21:00",
+   "home": "Bayern München",
+   "away": "Arsenal",
+   "score": [
+    2,
+    2
+   ],
+   "venue": {
+    "name": "Allianz Arena",
+    "city": "Munich",
+    "attendance": 75000
+   },
+   "referee": {
+    "name": "Davide Massa",
+    "country": "Italy"
+   },
+   "coaches": {
+    "home": "Vincent Kompany",
+    "away": "Mikel Arteta"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-3-3"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Manuel Neuer",
+      "short": "Neuer",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Josip Stanišić",
+      "short": "Stanišić",
+      "number": 44,
+      "pos": "LB"
+     },
+     {
+      "name": "Kim Min-jae",
+      "short": "Kim",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Dayot Upamecano",
+      "short": "Upamecano",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Konrad Laimer",
+      "short": "Laimer",
+      "number": 27,
+      "pos": "RB"
+     },
+     {
+      "name": "Aleksandar Pavlović",
+      "short": "Pavlović",
+      "number": 45,
+      "pos": "DM"
+     },
+     {
+      "name": "Tom Bischof",
+      "short": "Bischof",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Alphonso Davies",
+      "short": "Davies",
+      "number": 19,
+      "pos": "LW"
+     },
+     {
+      "name": "Ismael Saibari",
+      "short": "Saibari",
+      "number": 34,
+      "pos": "AM"
+     },
+     {
+      "name": "Serge Gnabry",
+      "short": "Gnabry",
+      "number": 7,
+      "pos": "RW"
+     },
+     {
+      "name": "Harry Kane",
+      "short": "Kane",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "David Raya",
+      "short": "Raya",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Riccardo Calafiori",
+      "short": "Calafiori",
+      "number": 33,
+      "pos": "LB"
+     },
+     {
+      "name": "Gabriel Magalhães",
+      "short": "Gabriel",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Ezri Konsa",
+      "short": "Konsa",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Jurriën Timber",
+      "short": "Timber",
+      "number": 12,
+      "pos": "RB"
+     },
+     {
+      "name": "Declan Rice",
+      "short": "Rice",
+      "number": 41,
+      "pos": "CM"
+     },
+     {
+      "name": "Bruno Guimarães",
+      "short": "Guimarães",
+      "number": 39,
+      "pos": "DM"
+     },
+     {
+      "name": "Martin Ødegaard",
+      "short": "Ødegaard",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Noni Madueke",
+      "short": "Madueke",
+      "number": 20,
+      "pos": "LW"
+     },
+     {
+      "name": "Kai Havertz",
+      "short": "Havertz",
+      "number": 29,
+      "pos": "ST"
+     },
+     {
+      "name": "Bukayo Saka",
+      "short": "Saka",
+      "number": 7,
+      "pos": "RW"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 10,
+     "in": "Eberechi Eze",
+     "out": "Bukayo Saka"
+    },
+    {
+     "side": "home",
+     "minute": 46,
+     "in": "Jonathan Tah",
+     "out": "Kim Min-jae"
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "in": "Luis Díaz",
+     "out": "Ismael Saibari"
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "in": "Lennart Karl",
+     "out": "Serge Gnabry"
+    },
+    {
+     "side": "away",
+     "minute": 68,
+     "in": "Viktor Gyökeres",
+     "out": "Kai Havertz"
+    },
+    {
+     "side": "away",
+     "minute": 69,
+     "in": "Myles Lewis-Skelly",
+     "out": "Bruno Guimarães"
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "in": "Mikel Merino",
+     "out": "Martin Ødegaard"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "in": "Nathaniel Brown",
+     "out": "Alphonso Davies"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "in": "Bara Sapoko Ndiaye",
+     "out": "Luis Díaz"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Sacha Boey",
+     "Tim Binder",
+     "Jonas Urbig",
+     "Hiroki Ito",
+     "Sven Ulreich"
+    ],
+    "away": [
+     "Max Dowman",
+     "Cristhian Mosquera",
+     "Ben White",
+     "Martín Zubimendi",
+     "Kepa Arrizabalaga",
+     "Illan Meslier"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 25,
+     "scorer": "Eberechi Eze",
+     "assist": "Martin Ødegaard",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Ødegaard's ball over the top sent Eze racing into the box and he rifled a left-footed shot from the left side of the area into the bottom-right corner. Initially flagged offside, the goal was awarded after a VAR review.",
+     "shot": {
+      "x": 85,
+      "y": 30,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 35,
+     "scorer": "Alphonso Davies",
+     "assist": "Harry Kane",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Kane, dropping deep, played a through ball from the centre circle; Davies outpaced Timber and slotted a right-footed shot from the centre of the box past Raya into the bottom-right corner.",
+     "shot": {
+      "x": 88,
+      "y": 48,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 61,
+     "scorer": "Harry Kane",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "set",
+     "foot": "right",
+     "description": "After Timber blocked Kane's shot with his arm (handball penalty given 59'), Kane converted the spot kick high into the top-left corner after a stuttering run-up.",
+     "shot": {
+      "x": 89,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "scorer": "Declan Rice",
+     "assist": "Viktor Gyökeres",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Rice latched on to Gyökeres' pass and lashed a low right-footed shot from the right side of the box past Neuer.",
+     "shot": {
+      "x": 85,
+      "y": 66,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 13,
+     "player": "Kai Havertz",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "away",
+     "minute": 39,
+     "player": "Ezri Konsa",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "away",
+     "minute": 26,
+     "player": "Eberechi Eze",
+     "detail": "Offside flag overturned; goal awarded"
+    }
+   ],
+   "stats": {
+    "possession": [
+     46.1,
+     53.9
+    ],
+    "shots": [
+     13,
+     14
+    ],
+    "onTarget": [
+     5,
+     5
+    ],
+    "corners": [
+     3,
+     5
+    ],
+    "fouls": [
+     15,
+     6
+    ],
+    "xg": [
+     null,
+     null
+    ]
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401915312",
+    "https://www.espn.com/soccer/report/_/gameId/401915312",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915312",
+    "https://match.uefa.com/v5/matches/2049598/lineups",
+    "https://www.uefa.com/uefachampionsleague/match/2049598/"
+   ],
+   "notes": "Fixture confirmed on Wed 21 Oct 2026 (20:00 BST / 21:00 CEST, 19:00 UTC). All data from ESPN (summary feed, commentary and PA-based recap). Referee Davide Massa (ITA) and coaches from UEFA match API; attendance 75,000 confirmed by UEFA. Attendance 75,000 is ESPN's figure (likely capacity). xG not available. Tah sub listed at 45' (half-time), recorded as 46. Rice goal: commentary says 'centre of the goal', recap says 'bottom-left corner'. Penalty conceded 59' by Timber handball, taken 61'. Midfield/attack L-R order derived from ESPN formation slots (Pavlović left DM, Bischof right DM; Rice left CM, Guimarães holding, Ødegaard right CM). WebSearch/WebFetch were unavailable (session limit) so data came from ESPN via direct API fetch; no second-source cross-check."
+  },
+  {
+   "id": "liverpool-villarreal",
+   "found": true,
+   "competition": "UEFA Champions League",
+   "round": "League phase, matchday 3",
+   "date": "2026-10-20",
+   "kickoff_local": "20:00",
+   "home": "Liverpool",
+   "away": "Villarreal",
+   "score": [
+    4,
+    3
+   ],
+   "venue": {
+    "name": "Anfield",
+    "city": "Liverpool",
+    "attendance": 59610
+   },
+   "referee": {
+    "name": "Szymon Marciniak",
+    "country": "Poland"
+   },
+   "coaches": {
+    "home": "Andoni Iraola",
+    "away": "Iñigo Pérez"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Alisson Becker",
+      "short": "Alisson",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Kostas Tsimikas",
+      "short": "Tsimikas",
+      "number": 21,
+      "pos": "LB"
+     },
+     {
+      "name": "Virgil van Dijk",
+      "short": "Van Dijk",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Jérémy Jacquet",
+      "short": "Jacquet",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Ronald Araújo",
+      "short": "Araújo",
+      "number": 33,
+      "pos": "RB"
+     },
+     {
+      "name": "Trey Nyoni",
+      "short": "Nyoni",
+      "number": 42,
+      "pos": "DM"
+     },
+     {
+      "name": "Alexis Mac Allister",
+      "short": "Mac Allister",
+      "number": 10,
+      "pos": "DM"
+     },
+     {
+      "name": "Cody Gakpo",
+      "short": "Gakpo",
+      "number": 18,
+      "pos": "LW"
+     },
+     {
+      "name": "Ryan Gravenberch",
+      "short": "Gravenberch",
+      "number": 38,
+      "pos": "AM"
+     },
+     {
+      "name": "Rio Ngumoha",
+      "short": "Ngumoha",
+      "number": 73,
+      "pos": "RW"
+     },
+     {
+      "name": "Lewis Koumas",
+      "short": "Koumas",
+      "number": 67,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Péter Gulácsi",
+      "short": "Gulácsi",
+      "number": 25,
+      "pos": "GK"
+     },
+     {
+      "name": "Sergi Cardona",
+      "short": "Cardona",
+      "number": 23,
+      "pos": "LB"
+     },
+     {
+      "name": "Renato Veiga",
+      "short": "Veiga",
+      "number": 12,
+      "pos": "CB"
+     },
+     {
+      "name": "Pau Navarro",
+      "short": "Navarro",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Santiago Mouriño",
+      "short": "Mouriño",
+      "number": 15,
+      "pos": "RB"
+     },
+     {
+      "name": "Pape Gueye",
+      "short": "Gueye",
+      "number": 18,
+      "pos": "DM"
+     },
+     {
+      "name": "Santi Comesaña",
+      "short": "Comesaña",
+      "number": 14,
+      "pos": "DM"
+     },
+     {
+      "name": "Alberto Moleiro",
+      "short": "Moleiro",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Nathan Saliba",
+      "short": "Saliba",
+      "number": 24,
+      "pos": "AM"
+     },
+     {
+      "name": "Tajon Buchanan",
+      "short": "Buchanan",
+      "number": 17,
+      "pos": "RW"
+     },
+     {
+      "name": "Georges Mikautadze",
+      "short": "Mikautadze",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 46,
+     "in": "Florian Wirtz",
+     "out": "Ronald Araújo"
+    },
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Tani Oluwaseyi",
+     "out": "Nathan Saliba"
+    },
+    {
+     "side": "away",
+     "minute": 54,
+     "in": "Juan Foyth",
+     "out": "Alberto Moleiro"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Alex Freeman",
+     "out": "Tajon Buchanan"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Ayoze Pérez",
+     "out": "Georges Mikautadze"
+    },
+    {
+     "side": "home",
+     "minute": 66,
+     "in": "Alexander Isak",
+     "out": "Lewis Koumas"
+    },
+    {
+     "side": "home",
+     "minute": 74,
+     "in": "Bradley Barcola",
+     "out": "Rio Ngumoha"
+    },
+    {
+     "side": "home",
+     "minute": 74,
+     "in": "Joe Gomez",
+     "out": "Jérémy Jacquet"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "in": "Gerard Moreno",
+     "out": "Santi Comesaña"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "James McConnell",
+     "out": "Trey Nyoni"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Luke Chambers",
+     "Milos Kerkez",
+     "Giorgi Mamardashvili",
+     "Jayden Danns",
+     "Freddie Woodman",
+     "Michael Laffey"
+    ],
+    "away": [
+     "Carlos Macià",
+     "Joselillo",
+     "Luiz Júnior",
+     "Logan Costa",
+     "Nizar El Jmili Ben Hamou",
+     "Ilias Akhomach",
+     "Alassane Diatta"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 4,
+     "scorer": "Georges Mikautadze",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "Van Dijk's misdirected header fell into Mikautadze's path and he finished left-footed from a difficult angle on the left into the bottom-right corner.",
+     "shot": {
+      "x": 92,
+      "y": 18,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 29,
+     "scorer": "Sergi Cardona",
+     "assist": "Nathan Saliba",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "On a fast break Saliba's through ball found the unmarked Cardona, whose run Ngumoha failed to track, and the left-back finished left-footed from the centre of the box into the bottom-left corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 36,
+     "scorer": "Alexis Mac Allister",
+     "assist": "Kostas Tsimikas",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "From a corner, Tsimikas crossed and Mac Allister flicked a header from the centre of the box into the bottom-left corner.",
+     "shot": {
+      "x": 90,
+      "y": 50,
+      "header": true
+     }
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "scorer": "Ronald Araújo",
+     "assist": "Rio Ngumoha",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "In first-half stoppage time (45+2), Ngumoha delivered from a corner and Araújo headed in from the right side of the six-yard box into the bottom-right corner.",
+     "shot": {
+      "x": 95,
+      "y": 60,
+      "header": true
+     }
+    },
+    {
+     "side": "home",
+     "minute": 65,
+     "scorer": "Alexis Mac Allister",
+     "assist": "Rio Ngumoha",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "After one of Ngumoha's drives past Cardona, Mac Allister rammed a right-footed shot home from very close range into the roof of the net.",
+     "shot": {
+      "x": 95,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "scorer": "Florian Wirtz",
+     "assist": "Cody Gakpo",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "Gakpo set up Wirtz on a fast break and the substitute finished left-footed from the centre of the box into the bottom-right corner.",
+     "shot": {
+      "x": 87,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 87,
+     "scorer": "Tani Oluwaseyi",
+     "assist": "Ayoze Pérez",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Ayoze Pérez crossed and Oluwaseyi volleyed left-footed from the centre of the box into the bottom-left corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 27,
+     "player": "Alberto Moleiro",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "away",
+     "minute": 41,
+     "player": "Santiago Mouriño",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     52.5,
+     47.5
+    ],
+    "shots": [
+     22,
+     14
+    ],
+    "onTarget": [
+     7,
+     5
+    ],
+    "corners": [
+     8,
+     2
+    ],
+    "fouls": [
+     12,
+     10
+    ],
+    "xg": [
+     null,
+     null
+    ]
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401915397",
+    "https://www.espn.com/soccer/report/_/gameId/401915397",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915397",
+    "https://match.uefa.com/v5/matches/2049590/lineups",
+    "https://www.uefa.com/uefachampionsleague/match/2049590/"
+   ],
+   "notes": "Played Tuesday 20 Oct 2026 (not Wednesday 21st), 20:00 BST / 19:00 UTC. Events, lineups and stats from ESPN; referee, coaches and attendance from UEFA match API. HT subs (45') recorded as minute 46. Araújo goal at 45+2 recorded as minute 45. Araújo goal: ESPN commentary says it came from a corner, recap says Ngumoha 'crossed'. Mikautadze goal followed a Van Dijk headed error, classed as counter. No VAR incidents listed. xG not available. WebSearch/WebFetch unavailable (session limit); data fetched directly from ESPN/UEFA feeds."
+  },
+  {
+   "id": "city-aek",
+   "found": true,
+   "competition": "UEFA Champions League",
+   "round": "League phase, matchday 3",
+   "date": "2026-10-20",
+   "kickoff_local": "20:00",
+   "home": "Man City",
+   "away": "AEK Athens",
+   "score": [
+    5,
+    1
+   ],
+   "venue": {
+    "name": "Etihad Stadium (City of Manchester Stadium)",
+    "city": "Manchester",
+    "attendance": 40042
+   },
+   "referee": {
+    "name": "Willy Delajod",
+    "country": "France"
+   },
+   "coaches": {
+    "home": "Enzo Maresca",
+    "away": "Marko Nikolić"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-4-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Gianluigi Donnarumma",
+      "short": "Donnarumma",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Joško Gvardiol",
+      "short": "Gvardiol",
+      "number": 24,
+      "pos": "LB"
+     },
+     {
+      "name": "Rúben Dias",
+      "short": "Dias",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Abdukodir Khusanov",
+      "short": "Khusanov",
+      "number": 45,
+      "pos": "CB"
+     },
+     {
+      "name": "Rico Lewis",
+      "short": "Lewis",
+      "number": 82,
+      "pos": "RB"
+     },
+     {
+      "name": "Enzo Fernández",
+      "short": "Enzo",
+      "number": 17,
+      "pos": "DM"
+     },
+     {
+      "name": "Elliot Anderson",
+      "short": "Anderson",
+      "number": 5,
+      "pos": "DM"
+     },
+     {
+      "name": "Allan Elias",
+      "short": "Elias",
+      "number": 37,
+      "pos": "LW"
+     },
+     {
+      "name": "Rayan Cherki",
+      "short": "Cherki",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Phil Foden",
+      "short": "Foden",
+      "number": 47,
+      "pos": "RW"
+     },
+     {
+      "name": "Floyd Samba",
+      "short": "Samba",
+      "number": 75,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Alberto Brignoli",
+      "short": "Brignoli",
+      "number": 91,
+      "pos": "GK"
+     },
+     {
+      "name": "Stavros Pilios",
+      "short": "Pilios",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Filipe Relvas",
+      "short": "Relvas",
+      "number": 44,
+      "pos": "CB"
+     },
+     {
+      "name": "Harold Moukoudi",
+      "short": "Moukoudi",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Lazaros Rota",
+      "short": "Rota",
+      "number": 12,
+      "pos": "RB"
+     },
+     {
+      "name": "João Mário",
+      "short": "João Mário",
+      "number": 23,
+      "pos": "LW"
+     },
+     {
+      "name": "Răzvan Marin",
+      "short": "Marin",
+      "number": 18,
+      "pos": "CM"
+     },
+     {
+      "name": "Kervin Arriaga",
+      "short": "Arriaga",
+      "number": 16,
+      "pos": "CM"
+     },
+     {
+      "name": "Lovro Majer",
+      "short": "Majer",
+      "number": 14,
+      "pos": "RW"
+     },
+     {
+      "name": "Barnabás Varga",
+      "short": "Varga",
+      "number": 19,
+      "pos": "ST"
+     },
+     {
+      "name": "Luka Jović",
+      "short": "Jović",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Aboubakary Koïta",
+     "out": "Răzvan Marin"
+    },
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Zini",
+     "out": "Barnabás Varga"
+    },
+    {
+     "side": "home",
+     "minute": 62,
+     "in": "Ryan McAidoo",
+     "out": "Floyd Samba"
+    },
+    {
+     "side": "away",
+     "minute": 63,
+     "in": "Oleksandr Zubkov",
+     "out": "João Mário"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Vitor Reis",
+     "out": "Joško Gvardiol"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Rayan Aït-Nouri",
+     "out": "Enzo Fernández"
+    },
+    {
+     "side": "home",
+     "minute": 83,
+     "in": "Kaden Braithwaite",
+     "out": "Rúben Dias"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Mijat Gaćinović",
+     "out": "Kervin Arriaga"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Milán Vitális",
+     "out": "Luka Jović"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Ayyoub Bouaddi",
+     "Jérémy Doku",
+     "Gerónimo Rulli",
+     "Iliman Ndiaye",
+     "Marcus Bettinelli",
+     "Marc Guéhi",
+     "Erling Haaland"
+    ],
+    "away": [
+     "Charalampos Lykogiannis",
+     "Domagoj Vida",
+     "Marios Balamotis",
+     "Kaan Kairinen",
+     "Petros Mantalos"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 12,
+     "scorer": "Elliot Anderson",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "left",
+     "description": "Anderson, with his first goal for the club, finished left-footed from very close range into the roof of the net following a set-piece situation.",
+     "shot": {
+      "x": 95,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 34,
+     "scorer": "Phil Foden",
+     "assist": "Rico Lewis",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Rico Lewis set up Foden, who fired a right-footed shot from the right side of the six-yard box into the top-right corner.",
+     "shot": {
+      "x": 95,
+      "y": 62,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 52,
+     "scorer": "Stavros Pilios",
+     "assist": "Zini",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "On a fast break, half-time substitute Zini found left-back Pilios, who struck a left-footed shot from the left side of the box into the bottom-right corner.",
+     "shot": {
+      "x": 84,
+      "y": 30,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 57,
+     "scorer": "Rayan Cherki",
+     "assist": "Phil Foden",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Foden teed up Cherki, who finished left-footed from the centre of the box into the bottom-left corner.",
+     "shot": {
+      "x": 87,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 65,
+     "scorer": "Phil Foden",
+     "assist": "Rico Lewis",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Lewis again provided for Foden, who curled a left-footed shot from the centre of the box into the top-left corner.",
+     "shot": {
+      "x": 87,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "scorer": "Phil Foden",
+     "assist": "Ryan McAidoo",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Substitute McAidoo set up Foden to complete his hat-trick with a left-footed finish from very close range into the top-left corner.",
+     "shot": {
+      "x": 95,
+      "y": 48,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 59,
+     "player": "Joško Gvardiol",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     63.6,
+     36.4
+    ],
+    "shots": [
+     17,
+     11
+    ],
+    "onTarget": [
+     7,
+     3
+    ],
+    "corners": [
+     8,
+     3
+    ],
+    "fouls": [
+     6,
+     10
+    ],
+    "xg": [
+     null,
+     null
+    ]
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401915401",
+    "https://www.espn.com/soccer/report/_/gameId/401915401",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915401",
+    "https://match.uefa.com/v5/matches/2049591/lineups",
+    "https://www.uefa.com/uefachampionsleague/match/2049591/"
+   ],
+   "notes": "Played Tuesday 20 Oct 2026 (not Wednesday), 20:00 BST / 19:00 UTC. Events/lineups/stats from ESPN; referee, coaches, attendance from UEFA match API. AEK 4-4-2 wide midfielders (João Mário left, Majer right) mapped to LW/RW as the schema has no LM/RM. AEK substitute listed as 'Zini' (roster) / 'Zine' (commentary). ESPN recap spells Pilios as 'Palios'. HT subs recorded as minute 46. Haaland was an unused substitute (rested). No VAR incidents reported. xG not available. Goal descriptions are based on ESPN commentary lines (shot location/foot) as the recap gave little goal detail."
+  },
+  {
+   "id": "napoli-bodo",
+   "found": true,
+   "competition": "UEFA Champions League",
+   "round": "League phase, matchday 3",
+   "date": "2026-10-20",
+   "kickoff_local": "21:00",
+   "home": "Napoli",
+   "away": "Bodø/Glimt",
+   "score": [
+    4,
+    3
+   ],
+   "venue": {
+    "name": "Stadio Diego Armando Maradona",
+    "city": "Naples",
+    "attendance": 35096
+   },
+   "referee": {
+    "name": "José María Sánchez",
+    "country": "Spain"
+   },
+   "coaches": {
+    "home": "Massimiliano Allegri",
+    "away": "Kjetil Knutsen"
+   },
+   "formations": {
+    "home": "4-3-3",
+    "away": "4-4-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Alex Meret",
+      "short": "Meret",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Leonardo Spinazzola",
+      "short": "Spinazzola",
+      "number": 37,
+      "pos": "LB"
+     },
+     {
+      "name": "Rafa Marín",
+      "short": "Marín",
+      "number": 16,
+      "pos": "CB"
+     },
+     {
+      "name": "Amir Rrahmani",
+      "short": "Rrahmani",
+      "number": 13,
+      "pos": "CB"
+     },
+     {
+      "name": "Giovanni Di Lorenzo",
+      "short": "Di Lorenzo",
+      "number": 22,
+      "pos": "RB"
+     },
+     {
+      "name": "Scott McTominay",
+      "short": "McTominay",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Kevin De Bruyne",
+      "short": "De Bruyne",
+      "number": 11,
+      "pos": "CM"
+     },
+     {
+      "name": "André-Frank Zambo Anguissa",
+      "short": "Anguissa",
+      "number": 99,
+      "pos": "CM"
+     },
+     {
+      "name": "Noa Lang",
+      "short": "Lang",
+      "number": 70,
+      "pos": "LW"
+     },
+     {
+      "name": "Rasmus Højlund",
+      "short": "Højlund",
+      "number": 19,
+      "pos": "ST"
+     },
+     {
+      "name": "Matteo Politano",
+      "short": "Politano",
+      "number": 21,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Nikita Haykin",
+      "short": "Haykin",
+      "number": 12,
+      "pos": "GK"
+     },
+     {
+      "name": "Fredrik André Bjørkan",
+      "short": "Bjørkan",
+      "number": 15,
+      "pos": "LB"
+     },
+     {
+      "name": "Odin Bjørtuft",
+      "short": "Bjørtuft",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Jostein Gundersen",
+      "short": "Gundersen",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Fredrik Sjøvold",
+      "short": "Sjøvold",
+      "number": 20,
+      "pos": "RB"
+     },
+     {
+      "name": "Jens Petter Hauge",
+      "short": "Hauge",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Sondre Brunstad Fet",
+      "short": "Fet",
+      "number": 19,
+      "pos": "CM"
+     },
+     {
+      "name": "Patrick Berg",
+      "short": "Berg",
+      "number": 7,
+      "pos": "CM"
+     },
+     {
+      "name": "Sondre Auklend",
+      "short": "Auklend",
+      "number": 8,
+      "pos": "RW"
+     },
+     {
+      "name": "Andreas Helmersen",
+      "short": "Helmersen",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Ole Didrik Blomberg",
+      "short": "Blomberg",
+      "number": 11,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 59,
+     "in": "Stanislav Lobotka",
+     "out": "André-Frank Zambo Anguissa"
+    },
+    {
+     "side": "away",
+     "minute": 76,
+     "in": "Ola Brynhildsen",
+     "out": "Andreas Helmersen"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Mathías Olivera",
+     "out": "Matteo Politano"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Giovane",
+     "out": "Noa Lang"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Sam Beukema",
+     "out": "Leonardo Spinazzola"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Ulrik Saltnes",
+     "out": "Sondre Auklend"
+    },
+    {
+     "side": "away",
+     "minute": 84,
+     "in": "Haitam Aleesami",
+     "out": "Jostein Gundersen"
+    },
+    {
+     "side": "away",
+     "minute": 84,
+     "in": "Joel Mvuka",
+     "out": "Ole Didrik Blomberg"
+    },
+    {
+     "side": "away",
+     "minute": 84,
+     "in": "Isak Dybvik Määttä",
+     "out": "Fredrik André Bjørkan"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Vanja Milinković-Savić",
+     "Nikita Contini",
+     "Billy Gilmour",
+     "Benoît Badiashile",
+     "Lorenzo Lucca"
+    ],
+    "away": [
+     "Villads Nielsen",
+     "Joshua Kitolano",
+     "Julian Faye Lund"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 1,
+     "scorer": "Matteo Politano",
+     "assist": "Leonardo Spinazzola",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Inside the first minute Spinazzola crossed from the left and Politano volleyed left-footed from the centre of the box into the roof of the net.",
+     "shot": {
+      "x": 88,
+      "y": 52,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 27,
+     "scorer": "Jens Petter Hauge",
+     "assist": "Sondre Brunstad Fet",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Fet set up Hauge, who cut in and finished right-footed from the left side of the box into the bottom-right corner.",
+     "shot": {
+      "x": 85,
+      "y": 32,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 41,
+     "scorer": "Scott McTominay",
+     "assist": "Kevin De Bruyne",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "De Bruyne's through ball released McTominay, who fired right-footed from the left side of the box into the high centre of the goal.",
+     "shot": {
+      "x": 86,
+      "y": 33,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 62,
+     "scorer": "Andreas Helmersen",
+     "assist": "Sondre Brunstad Fet",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "After efforts from Auklend and Berg were blocked in a goalmouth scramble, Fet found Helmersen, who finished left-footed from the centre of the box into the bottom-right corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 75,
+     "scorer": "Scott McTominay",
+     "assist": "Matteo Politano",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Politano crossed and McTominay headed in from the centre of the box into the high centre of the goal.",
+     "shot": {
+      "x": 90,
+      "y": 50,
+      "header": true
+     }
+    },
+    {
+     "side": "home",
+     "minute": 88,
+     "scorer": "Odin Bjørtuft",
+     "assist": null,
+     "own_goal": true,
+     "penalty": false,
+     "type": "build",
+     "foot": null,
+     "description": "Bodø/Glimt centre-back Bjørtuft put the ball into his own net to make it 4-2; the sources give no further detail on the move.",
+     "shot": {
+      "x": null,
+      "y": null,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "scorer": "Sondre Brunstad Fet",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "In stoppage time (90+4), from a corner Bjørtuft hit the bar and Fet headed the rebound in from very close range into the bottom-left corner.",
+     "shot": {
+      "x": 96,
+      "y": 50,
+      "header": true
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 48,
+     "player": "André-Frank Zambo Anguissa",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 58,
+     "player": "Noa Lang",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 86,
+     "player": "Giovanni Di Lorenzo",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     43.2,
+     56.8
+    ],
+    "shots": [
+     17,
+     15
+    ],
+    "onTarget": [
+     8,
+     6
+    ],
+    "corners": [
+     2,
+     5
+    ],
+    "fouls": [
+     7,
+     5
+    ],
+    "xg": [
+     null,
+     null
+    ]
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401915400",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915400",
+    "https://match.uefa.com/v5/matches/2049594/lineups",
+    "https://www.uefa.com/uefachampionsleague/match/2049594/"
+   ],
+   "notes": "Played Tuesday 20 Oct 2026 (not Wednesday), 21:00 CEST / 19:00 UTC. Events/lineups/stats from ESPN commentary feed (no ESPN written recap available); referee, coaches, attendance from UEFA match API. Fouls are ESPN values (Napoli 7, Bodø/Glimt 5 committed). Own goal (88') has no description or location in sources: shot x/y null, type guessed 'build'. Fet's 90+4 goal recorded as minute 90; his assist for the rebound is not credited by ESPN. Bodø wide midfielders (Hauge left, Auklend right) mapped to LW/RW. xG not available."
+  },
+  {
+   "id": "psg-barcelona",
+   "found": true,
+   "competition": "UEFA Champions League",
+   "round": "League phase, matchday 3",
+   "date": "2026-10-20",
+   "kickoff_local": "21:00",
+   "home": "PSG",
+   "away": "Barcelona",
+   "score": [
+    4,
+    2
+   ],
+   "venue": {
+    "name": "Parc des Princes",
+    "city": "Paris",
+    "attendance": 47421
+   },
+   "referee": {
+    "name": "Michael Oliver",
+    "country": "England"
+   },
+   "coaches": {
+    "home": "Luis Enrique",
+    "away": "Hansi Flick"
+   },
+   "formations": {
+    "home": "4-3-3",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Matvey Safonov",
+      "short": "Safonov",
+      "number": 39,
+      "pos": "GK"
+     },
+     {
+      "name": "Lucas Hernández",
+      "short": "Hernández",
+      "number": 21,
+      "pos": "LB"
+     },
+     {
+      "name": "Willian Pacho",
+      "short": "Pacho",
+      "number": 51,
+      "pos": "CB"
+     },
+     {
+      "name": "Marquinhos",
+      "short": "Marquinhos",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Achraf Hakimi",
+      "short": "Hakimi",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Fabián Ruiz",
+      "short": "Fabián Ruiz",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Vitinha",
+      "short": "Vitinha",
+      "number": 17,
+      "pos": "DM"
+     },
+     {
+      "name": "João Neves",
+      "short": "João Neves",
+      "number": 87,
+      "pos": "CM"
+     },
+     {
+      "name": "Khvicha Kvaratskhelia",
+      "short": "Kvaratskhelia",
+      "number": 7,
+      "pos": "LW"
+     },
+     {
+      "name": "Ousmane Dembélé",
+      "short": "Dembélé",
+      "number": 10,
+      "pos": "ST"
+     },
+     {
+      "name": "Désiré Doué",
+      "short": "Doué",
+      "number": 14,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Joan García",
+      "short": "Joan García",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "João Cancelo",
+      "short": "Cancelo",
+      "number": 2,
+      "pos": "LB"
+     },
+     {
+      "name": "Gerard Martín",
+      "short": "Gerard Martín",
+      "number": 18,
+      "pos": "CB"
+     },
+     {
+      "name": "Pau Cubarsí",
+      "short": "Cubarsí",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Xavi Espart",
+      "short": "Espart",
+      "number": 12,
+      "pos": "RB"
+     },
+     {
+      "name": "Pedri",
+      "short": "Pedri",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Marc Bernal",
+      "short": "Bernal",
+      "number": 22,
+      "pos": "DM"
+     },
+     {
+      "name": "Anthony Gordon",
+      "short": "Gordon",
+      "number": 17,
+      "pos": "LW"
+     },
+     {
+      "name": "Dani Olmo",
+      "short": "Olmo",
+      "number": 20,
+      "pos": "AM"
+     },
+     {
+      "name": "Lamine Yamal",
+      "short": "Yamal",
+      "number": 10,
+      "pos": "RW"
+     },
+     {
+      "name": "Raphinha",
+      "short": "Raphinha",
+      "number": 11,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 20,
+     "in": "Ferran Torres",
+     "out": "Ousmane Dembélé"
+    },
+    {
+     "side": "away",
+     "minute": 27,
+     "in": "Fermín López",
+     "out": "Dani Olmo"
+    },
+    {
+     "side": "home",
+     "minute": 59,
+     "in": "Illia Zabarnyi",
+     "out": "Marquinhos"
+    },
+    {
+     "side": "home",
+     "minute": 59,
+     "in": "Maghnes Akliouche",
+     "out": "Khvicha Kvaratskhelia"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Karim Adeyemi",
+     "out": "Raphinha"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Gavi",
+     "out": "Pedri"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Rodri",
+     "out": "Marc Bernal"
+    },
+    {
+     "side": "away",
+     "minute": 74,
+     "in": "Alejandro Balde",
+     "out": "Xavi Espart"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Warren Zaïre-Emery",
+     "out": "Lucas Hernández"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Senny Mayulu",
+     "out": "Désiré Doué"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Lucas Chevalier",
+     "Dro Fernández",
+     "Lucas Digne",
+     "Adam Mouak",
+     "Mika Godts",
+     "Quentin Ndjantou",
+     "Lucas Beraldo"
+    ],
+    "away": [
+     "Álex Campos",
+     "Dominik Livaković",
+     "Frenkie de Jong",
+     "Gabriel Jesus",
+     "Hamza Abdelkarim",
+     "Wojciech Szczęsny",
+     "Brian Fariñas"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 38,
+     "scorer": "Désiré Doué",
+     "assist": "João Neves",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Barcelona gave the ball away cheaply and PSG pounced; João Neves headed it on to Doué, who tucked a right-footed shot from just outside the box into the bottom-left corner.",
+     "shot": {
+      "x": 80,
+      "y": 45,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 55,
+     "scorer": "Xavi Espart",
+     "assist": "Fermín López",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Right-back Espart played a one-two with Fermín López, whose through ball released him to finish slickly right-footed from the centre of the box into the bottom-right corner.",
+     "shot": {
+      "x": 87,
+      "y": 54,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "scorer": "Lucas Hernández",
+     "assist": "Désiré Doué",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "Moments after Torres hit the post, Doué's corner was powered home by Hernández with a header from the centre of the box into the top-right corner.",
+     "shot": {
+      "x": 90,
+      "y": 50,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "scorer": "Lamine Yamal",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "A solo goal: Yamal glided past Zaïre-Emery and struck a left-footed shot from a difficult angle on the right into the top-right corner.",
+     "shot": {
+      "x": 92,
+      "y": 80,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "scorer": "Vitinha",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Vitinha took the ball on his chest and drilled a right-footed shot from just outside the area into the bottom-right corner.",
+     "shot": {
+      "x": 79,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 86,
+     "scorer": "Fabián Ruiz",
+     "assist": "Achraf Hakimi",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Hakimi set up Fabián Ruiz, who finished left-footed from very close range into the bottom-left corner.",
+     "shot": {
+      "x": 95,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 17,
+     "player": "João Cancelo",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     47.1,
+     52.9
+    ],
+    "shots": [
+     22,
+     18
+    ],
+    "onTarget": [
+     14,
+     5
+    ],
+    "corners": [
+     2,
+     3
+    ],
+    "fouls": [
+     11,
+     10
+    ],
+    "xg": [
+     null,
+     null
+    ]
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401915399",
+    "https://www.espn.com/soccer/report/_/gameId/401915399",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915399",
+    "https://match.uefa.com/v5/matches/2049589/lineups",
+    "https://www.uefa.com/uefachampionsleague/match/2049589/"
+   ],
+   "notes": "Played Tuesday 20 Oct 2026 (not Wednesday), 21:00 CEST / 19:00 UTC. Events/lineups/stats from ESPN (commentary + recap); referee, coaches, attendance from UEFA match API. Espart goal is 55' in ESPN commentary, 56th minute in recap. Injury subs: Dembélé (20'), Olmo (27'), Marquinhos and Kvaratskhelia (59'). Doué's goal followed a Barcelona turnover, classed as counter. No VAR incidents listed. xG not available. Barcelona saves listed as 10 by ESPN (García)."
+  },
+  {
+   "id": "porto-psv",
+   "found": true,
+   "competition": "UEFA Champions League",
+   "round": "League phase, matchday 3",
+   "date": "2026-10-20",
+   "kickoff_local": "20:00",
+   "home": "FC Porto",
+   "away": "PSV Eindhoven",
+   "score": [
+    0,
+    1
+   ],
+   "venue": {
+    "name": "Estádio do Dragão",
+    "city": "Porto",
+    "attendance": 48935
+   },
+   "referee": {
+    "name": "Daniel Siebert",
+    "country": "Germany"
+   },
+   "coaches": {
+    "home": "Francesco Farioli",
+    "away": "Peter Bosz"
+   },
+   "formations": {
+    "home": "4-3-3",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Diogo Costa",
+      "short": "Diogo Costa",
+      "number": 99,
+      "pos": "GK"
+     },
+     {
+      "name": "Zaidu Sanusi",
+      "short": "Zaidu",
+      "number": 12,
+      "pos": "LB"
+     },
+     {
+      "name": "Jakub Kiwior",
+      "short": "Kiwior",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Jan Bednarek",
+      "short": "Bednarek",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Alberto Costa",
+      "short": "Alberto Costa",
+      "number": 20,
+      "pos": "RB"
+     },
+     {
+      "name": "Gabri Veiga",
+      "short": "Gabri Veiga",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Pablo Rosario",
+      "short": "Rosario",
+      "number": 13,
+      "pos": "DM"
+     },
+     {
+      "name": "Victor Froholdt",
+      "short": "Froholdt",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Oskar Pietuszewski",
+      "short": "Pietuszewski",
+      "number": 77,
+      "pos": "LW"
+     },
+     {
+      "name": "Samu Aghehowa",
+      "short": "Samu",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Pepê",
+      "short": "Pepê",
+      "number": 11,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Matěj Kovář",
+      "short": "Kovář",
+      "number": 32,
+      "pos": "GK"
+     },
+     {
+      "name": "Filip Kostić",
+      "short": "Kostić",
+      "number": 18,
+      "pos": "LB"
+     },
+     {
+      "name": "Yarek Gasiorowski",
+      "short": "Gasiorowski",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Lutsharel Geertruida",
+      "short": "Geertruida",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Sergiño Dest",
+      "short": "Dest",
+      "number": 8,
+      "pos": "RB"
+     },
+     {
+      "name": "Mauro Júnior",
+      "short": "Mauro Júnior",
+      "number": 17,
+      "pos": "DM"
+     },
+     {
+      "name": "Kodai Sano",
+      "short": "Sano",
+      "number": 24,
+      "pos": "DM"
+     },
+     {
+      "name": "Ivan Perišić",
+      "short": "Perišić",
+      "number": 5,
+      "pos": "LW"
+     },
+     {
+      "name": "Sven Mijnans",
+      "short": "Mijnans",
+      "number": 21,
+      "pos": "AM"
+     },
+     {
+      "name": "Esmir Bajraktarević",
+      "short": "Bajraktarević",
+      "number": 19,
+      "pos": "RW"
+     },
+     {
+      "name": "Guus Til",
+      "short": "Til",
+      "number": 20,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 58,
+     "in": "André Silva",
+     "out": "Samu Aghehowa"
+    },
+    {
+     "side": "home",
+     "minute": 58,
+     "in": "Borja Sainz",
+     "out": "Oskar Pietuszewski"
+    },
+    {
+     "side": "home",
+     "minute": 58,
+     "in": "Hwang In-beom",
+     "out": "Gabri Veiga"
+    },
+    {
+     "side": "home",
+     "minute": 69,
+     "in": "Souza",
+     "out": "Zaidu Sanusi"
+    },
+    {
+     "side": "away",
+     "minute": 74,
+     "in": "Armando Obispo",
+     "out": "Yarek Gasiorowski"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "in": "Seko Fofana",
+     "out": "Victor Froholdt"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Noah Fernandez",
+     "out": "Mauro Júnior"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Dennis Man",
+     "out": "Esmir Bajraktarević"
+    },
+    {
+     "side": "away",
+     "minute": 88,
+     "in": "Amir Bouhamdi",
+     "out": "Ivan Perišić"
+    },
+    {
+     "side": "away",
+     "minute": 88,
+     "in": "Ryan Flamingo",
+     "out": "Filip Kostić"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Martim Fernandes",
+     "Santiago Giménez",
+     "Nehuén Pérez",
+     "Moura",
+     "João Costa",
+     "Alan Varela",
+     "Cláudio Ramos"
+    ],
+    "away": [
+     "Shuryjano Cornecion",
+     "Mikkel Hansen",
+     "Tijn Smolenaars",
+     "Ayoni Santos",
+     "Nick Olij"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 57,
+     "scorer": "Guus Til",
+     "assist": "Sven Mijnans",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "In a sustained spell of PSV pressure, Bajraktarević hit the right post from Perišić's cross and Mijnans then shot wide before Mijnans teed up Til to finish left-footed from very close range into the bottom-left corner.",
+     "shot": {
+      "x": 95,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 39,
+     "player": "Lutsharel Geertruida",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "away",
+     "minute": 75,
+     "player": "Mauro Júnior",
+     "card": "yellow",
+     "reason": null
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     40.4,
+     59.6
+    ],
+    "shots": [
+     14,
+     18
+    ],
+    "onTarget": [
+     4,
+     3
+    ],
+    "corners": [
+     2,
+     3
+    ],
+    "fouls": [
+     7,
+     9
+    ],
+    "xg": [
+     null,
+     null
+    ]
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401915398",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915398",
+    "https://match.uefa.com/v5/matches/2049593/lineups",
+    "https://www.uefa.com/uefachampionsleague/match/2049593/"
+   ],
+   "notes": "Played Tuesday 20 Oct 2026 (not Wednesday), 20:00 WEST / 19:00 UTC. Events/lineups/stats from ESPN commentary feed (no ESPN written recap available); referee, coaches, attendance from UEFA match API. Goal description assembled from consecutive 57' commentary lines; whether Til's goal came directly from the same sequence is inferred. Kostić went off injured (88'). Bednarek had an injury stoppage at 49' but stayed on. No VAR incidents listed. xG not available."
+  }
+ ]
+}

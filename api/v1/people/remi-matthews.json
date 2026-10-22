@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "remi-matthews",
+    "name": "Remi Matthews",
+    "short": "Matthews",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "lyon-c-palace-2026-10-15",
+        "date": "2026-10-15",
+        "team": "C Palace",
+        "role": "bench"
+      }
+    ]
+  }
+}

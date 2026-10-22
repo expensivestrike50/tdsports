@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "simen-kvia-egeskog",
+    "name": "Simen Kvia-Egeskog",
+    "short": "Kvia-Egeskog",
+    "position": "ST",
+    "photo": "assets/photos/people/simen-kvia-egeskog.jpg",
+    "matches": [
+      {
+        "match": "villa-viking",
+        "date": "2026-10-21",
+        "team": "Viking",
+        "role": "bench"
+      }
+    ]
+  }
+}

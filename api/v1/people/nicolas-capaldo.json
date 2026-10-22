@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "nicolas-capaldo",
+    "name": "Nicolás Capaldo",
+    "short": "Capaldo",
+    "position": "CB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "hamburg-vfb-stuttgart-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Hamburg",
+        "role": "starter"
+      }
+    ]
+  }
+}

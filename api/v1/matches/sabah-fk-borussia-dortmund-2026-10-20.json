@@ -1,0 +1,802 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "sabah-fk-borussia-dortmund-2026-10-20",
+    "date": "2026-10-20",
+    "kickoff": "20:45",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Sabah FK",
+      "id": "sabah-fk",
+      "crest": "assets/clubs/21922.png",
+      "country": "AZ"
+    },
+    "away": {
+      "name": "Borussia Dortmund",
+      "id": "borussia-dortmund",
+      "crest": "assets/clubs/124.png",
+      "country": "DE"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Baku Olympic Stadium",
+      "city": "Baku",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "valdas-dambrauskas",
+          "name": "Valdas Dambrauskas",
+          "short": "Dambrauskas",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "stas-pokatilov",
+            "name": "Stas Pokatilov",
+            "short": "Pokatilov",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "tymoteusz-puchacz",
+            "name": "Tymoteusz Puchacz",
+            "short": "Puchacz",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "aden-mccarthy",
+            "name": "Aden McCarthy",
+            "short": "McCarthy",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 8.2
+          },
+          {
+            "id": "steve-solvet",
+            "name": "Steve Solvet",
+            "short": "Solvet",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.8
+          },
+          {
+            "id": "akim-zedadka",
+            "name": "Akim Zedadka",
+            "short": "Zedadka",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "ivan-lepinjica",
+            "name": "Ivan Lepinjica",
+            "short": "Lepinjica",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.5
+          },
+          {
+            "id": "umarali-rakhmonaliev",
+            "name": "Umarali Rakhmonaliev",
+            "short": "Rakhmonaliev",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.9
+          },
+          {
+            "id": "veljko-simic",
+            "name": "Veljko Simic",
+            "short": "Simic",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.1
+          },
+          {
+            "id": "du-queiroz",
+            "name": "Du Queiroz",
+            "short": "Du Queiroz",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "kaheem-parris",
+            "name": "Kaheem Parris",
+            "short": "Parris",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 6.7
+          },
+          {
+            "id": "joy-lance-mickels",
+            "name": "Joy-Lance Mickels",
+            "short": "Mickels",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "aleksey-isayev",
+            "name": "Aleksey Isayev",
+            "short": "Isayev",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "patrick-orphe-m-bina",
+            "name": "Patrick Orphe M'Bina",
+            "short": "M'Bina",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "abdulakh-khaybulaev",
+            "name": "Abdulakh Khaybulaev",
+            "short": "Khaybulaev",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "christian-nwachukwu",
+            "name": "Christian Nwachukwu",
+            "short": "Nwachukwu",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "xander-severina",
+            "name": "Xander Severina",
+            "short": "Severina",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "khayal-aliyev",
+            "name": "Khayal Aliyev",
+            "short": "Aliyev",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rahman-dashdamirov",
+            "name": "Rahman Dashdamirov",
+            "short": "Dashdamirov",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tellur-mutallimov",
+            "name": "Tellur Mutallimov",
+            "short": "Mutallimov",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "amin-ramazanov",
+            "name": "Amin Ramazanov",
+            "short": "Ramazanov",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rodrigo-fernandes",
+            "name": "Rodrigo Fernandes",
+            "short": "Fernandes",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ravan-mirzammadov",
+            "name": "Ravan Mirzammadov",
+            "short": "Mirzammadov",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "junior-almeida",
+            "name": "Júnior Almeida",
+            "short": "Almeida",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-1-4-2",
+        "coach": {
+          "id": "niko-kovac-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Niko Kovač",
+          "short": "Kovač",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "gregor-kobel-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Gregor Kobel",
+            "short": "Kobel",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "ramy-bensebaini-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Ramy Bensebaini",
+            "short": "Bensebaini",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 6.9
+          },
+          {
+            "id": "nico-schlotterbeck-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Nico Schlotterbeck",
+            "short": "Schlotterbeck",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "waldemar-anton-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Waldemar Anton",
+            "short": "Anton",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 6.4
+          },
+          {
+            "id": "joey-veerman-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Joey Veerman",
+            "short": "Veerman",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 50,
+            "rating": 7.6
+          },
+          {
+            "id": "daniel-svensson-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Daniel Svensson",
+            "short": "Svensson",
+            "position": "LB",
+            "photo": null,
+            "x": 63,
+            "y": 88,
+            "rating": 7.7
+          },
+          {
+            "id": "felix-nmecha-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Felix Nmecha",
+            "short": "Nmecha",
+            "position": "CM",
+            "photo": null,
+            "x": 63,
+            "y": 62,
+            "rating": 7
+          },
+          {
+            "id": "carney-chukwuemeka-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Carney Chukwuemeka",
+            "short": "Chukwuemeka",
+            "position": "CM",
+            "photo": null,
+            "x": 63,
+            "y": 36,
+            "rating": 6.7
+          },
+          {
+            "id": "julian-ryerson-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Julian Ryerson",
+            "short": "Ryerson",
+            "position": "RB",
+            "photo": null,
+            "x": 63,
+            "y": 12,
+            "rating": 6.3
+          },
+          {
+            "id": "fabio-silva-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Fábio Silva",
+            "short": "Silva",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 6.3
+          },
+          {
+            "id": "serhou-guirassy-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Serhou Guirassy",
+            "short": "Guirassy",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 8.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "marcel-sabitzer-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Marcel Sabitzer",
+            "short": "Sabitzer",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "jobe-bellingham-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Jobe Bellingham",
+            "short": "Bellingham",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "kouakou-gadou-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Kouakou Gadou",
+            "short": "Gadou",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "maximilian-beier-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Maximilian Beier",
+            "short": "Beier",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "ethan-nwaneri-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Ethan Nwaneri",
+            "short": "Nwaneri",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "patrick-drewes",
+            "name": "Patrick Drewes",
+            "short": "Drewes",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "samuele-inacio",
+            "name": "Samuele Inácio",
+            "short": "Inácio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "filippo-mane",
+            "name": "Filippo Mané",
+            "short": "Mané",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mathis-albert-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Mathis Albert",
+            "short": "Albert",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "enzo-de-pina-duarte-dos-santos",
+            "name": "Enzo De Pina Duarte Dos Santos",
+            "short": "Santos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-reggiani",
+            "name": "Luca Reggiani",
+            "short": "Reggiani",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alexander-meyer-sabah-fk-borussia-dortmund-2026-10-20",
+            "name": "Alexander Meyer",
+            "short": "Meyer",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 10,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "serhou-guirassy-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Serhou Guirassy",
+          "short": "Guirassy",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Serhou Guirassy put Dortmund ahead after Felix Nmecha's shot had been saved by Stas Pokatilov, finishing left-footed from the centre of the box into the bottom right corner."
+      },
+      {
+        "minute": 22,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "steve-solvet",
+          "name": "Steve Solvet",
+          "short": "Solvet",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 39,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "aden-mccarthy",
+          "name": "Aden McCarthy",
+          "short": "McCarthy",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "tymoteusz-puchacz",
+          "name": "Tymoteusz Puchacz",
+          "short": "Puchacz",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Sabah equalised from a set piece: Tymoteusz Puchacz delivered a cross from a free kick and Aden McCarthy headed in from very close range into the bottom left corner."
+      },
+      {
+        "minute": 49,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "ivan-lepinjica",
+          "name": "Ivan Lepinjica",
+          "short": "Lepinjica",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 53,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "serhou-guirassy-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Serhou Guirassy",
+          "short": "Guirassy",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "joey-veerman-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Joey Veerman",
+          "short": "Veerman",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Guirassy scored his second to restore Dortmund's lead, volleying Joey Veerman's cross in left-footed from the left side of the six-yard box."
+      },
+      {
+        "minute": 57,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "aden-mccarthy",
+          "name": "Aden McCarthy",
+          "short": "McCarthy",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "aleksey-isayev",
+          "name": "Aleksey Isayev",
+          "short": "Isayev",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "du-queiroz",
+          "name": "Du Queiroz",
+          "short": "Du Queiroz",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "patrick-orphe-m-bina",
+          "name": "Patrick Orphe M'Bina",
+          "short": "M'Bina",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kaheem-parris",
+          "name": "Kaheem Parris",
+          "short": "Parris",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "marcel-sabitzer-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Marcel Sabitzer",
+          "short": "Sabitzer",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "carney-chukwuemeka-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Carney Chukwuemeka",
+          "short": "Chukwuemeka",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jobe-bellingham-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Jobe Bellingham",
+          "short": "Bellingham",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "felix-nmecha-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Felix Nmecha",
+          "short": "Nmecha",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "kouakou-gadou-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Kouakou Gadou",
+          "short": "Gadou",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ramy-bensebaini-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Ramy Bensebaini",
+          "short": "Bensebaini",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "maximilian-beier-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Maximilian Beier",
+          "short": "Beier",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "daniel-svensson-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Daniel Svensson",
+          "short": "Svensson",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "abdulakh-khaybulaev",
+          "name": "Abdulakh Khaybulaev",
+          "short": "Khaybulaev",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "umarali-rakhmonaliev",
+          "name": "Umarali Rakhmonaliev",
+          "short": "Rakhmonaliev",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "christian-nwachukwu",
+          "name": "Christian Nwachukwu",
+          "short": "Nwachukwu",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "joy-lance-mickels",
+          "name": "Joy-Lance Mickels",
+          "short": "Mickels",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "akim-zedadka",
+          "name": "Akim Zedadka",
+          "short": "Zedadka",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Not specified in ESPN feed"
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ethan-nwaneri-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Ethan Nwaneri",
+          "short": "Nwaneri",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "fabio-silva-sabah-fk-borussia-dortmund-2026-10-20",
+          "name": "Fábio Silva",
+          "short": "Silva",
+          "position": "ST",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        13,
+        22
+      ],
+      "onTarget": [
+        4,
+        9
+      ],
+      "corners": [
+        4,
+        9
+      ],
+      "fouls": [
+        8,
+        12
+      ],
+      "possession": 45
+    },
+    "attendance": 47221,
+    "referee": {
+      "name": "Javier Alberola Rojas",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915404",
+      "https://www.espn.com/soccer/match/_/gameId/401915404",
+      "https://match.uefa.com/v5/matches/2049597/lineups",
+      "https://match.uefa.com/v5/matches?competitionId=1&fromDate=2026-10-20&toDate=2026-10-21",
+      "https://www.uefa.com/uefachampionsleague/news/02a9-218880e7a2aa-96adf63aa534-1000--who-is-the-referee-which-officials-are-in-charge-of-the-uefa/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

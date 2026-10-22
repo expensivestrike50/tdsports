@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "manuel-akanji-bologna-inter-2026-10-17",
+    "name": "Manuel Akanji",
+    "short": "Akanji",
+    "position": "CB",
+    "photo": "assets/photos/people/manuel-akanji.jpg",
+    "matches": [
+      {
+        "match": "bologna-inter-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Inter",
+        "role": "starter"
+      }
+    ]
+  }
+}

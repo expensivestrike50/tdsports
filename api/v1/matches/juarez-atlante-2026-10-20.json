@@ -1,0 +1,802 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "juarez-atlante-2026-10-20",
+    "date": "2026-10-20",
+    "kickoff": "19:00",
+    "competition": "Liga MX",
+    "round": "Apertura, jornada 13",
+    "status": "FT",
+    "home": {
+      "name": "Juárez",
+      "id": "juarez",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/17851.png",
+      "country": "MX"
+    },
+    "away": {
+      "name": "Atlante",
+      "id": "atlante",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
+      "country": "MX"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio Olímpico Benito Juárez",
+      "city": "Ciudad Juárez",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "gustavo-lema",
+          "name": "Gustavo Lema",
+          "short": "Lema",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "sebastian-jurado",
+            "name": "Sebastián Jurado",
+            "short": "Jurado",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "daniel-pina",
+            "name": "Daniel Piña",
+            "short": "Piña",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "gilberto-sepulveda",
+            "name": "Gilberto Sepúlveda",
+            "short": "Sepúlveda",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.8
+          },
+          {
+            "id": "jesus-murillo",
+            "name": "Jesús Murillo",
+            "short": "Murillo",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7
+          },
+          {
+            "id": "denzell-garcia",
+            "name": "Denzell García",
+            "short": "García",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "rodrigo-dourado",
+            "name": "Rodrigo Dourado",
+            "short": "Dourado",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.4
+          },
+          {
+            "id": "leonardo-silva",
+            "name": "Leonardo Silva",
+            "short": "Silva",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.1
+          },
+          {
+            "id": "ricardinho",
+            "name": "Ricardinho",
+            "short": "Ricardinho",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.4
+          },
+          {
+            "id": "guilherme-castilho",
+            "name": "Guilherme Castilho",
+            "short": "Castilho",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "madson",
+            "name": "Madson",
+            "short": "Madson",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.1
+          },
+          {
+            "id": "oscar-estupinan",
+            "name": "Óscar Estupiñán",
+            "short": "Estupiñán",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "monchu",
+            "name": "Monchu",
+            "short": "Monchu",
+            "position": "AM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "jose-luis-rodriguez",
+            "name": "José Luis Rodríguez",
+            "short": "Rodríguez",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "luca-martinez",
+            "name": "Luca Martinez",
+            "short": "Martinez",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "brayan-adrian-molina-hernandez",
+            "name": "Brayan Adrián Molina Hernández",
+            "short": "Hernández",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "alejandro-mayorga",
+            "name": "Alejandro Mayorga",
+            "short": "Mayorga",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "javier-aquino",
+            "name": "Javier Aquino",
+            "short": "Aquino",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "eder-lopez",
+            "name": "Eder López",
+            "short": "López",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "benny-diaz",
+            "name": "Benny Díaz",
+            "short": "Díaz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jan-carmona",
+            "name": "Jan Carmona",
+            "short": "Carmona",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "oscar-ortega",
+            "name": "Oscar Ortega",
+            "short": "Ortega",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-3-2",
+        "coach": {
+          "id": "miguel-herrera",
+          "name": "Miguel Herrera",
+          "short": "Herrera",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "oscar-jimenez",
+            "name": "Óscar Jiménez",
+            "short": "Jiménez",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "edgar-jimenez",
+            "name": "Edgar Jiménez",
+            "short": "Jiménez",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 92,
+            "rating": 6.4
+          },
+          {
+            "id": "aaron-quiros",
+            "name": "Aarón Quirós",
+            "short": "Quirós",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 71,
+            "rating": 6.4
+          },
+          {
+            "id": "eduardo-tercero",
+            "name": "Eduardo Tercero",
+            "short": "Tercero",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "nicolas-carrera",
+            "name": "Nicolás Carrera",
+            "short": "Carrera",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 29,
+            "rating": 7.3
+          },
+          {
+            "id": "walter-portales",
+            "name": "Walter Portales",
+            "short": "Portales",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 8,
+            "rating": 6.5
+          },
+          {
+            "id": "luis-calzadilla",
+            "name": "Luis Calzadilla",
+            "short": "Calzadilla",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 7.4
+          },
+          {
+            "id": "eugenio-pizzuto",
+            "name": "Eugenio Pizzuto",
+            "short": "Pizzuto",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "martin-sarrafiore",
+            "name": "Martín Sarrafiore",
+            "short": "Sarrafiore",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 22,
+            "rating": 6.9
+          },
+          {
+            "id": "jhojan-julio",
+            "name": "Jhojan Julio",
+            "short": "Julio",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 7.5
+          },
+          {
+            "id": "luis-puente",
+            "name": "Luis Puente",
+            "short": "Puente",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "joaquin-moxica",
+            "name": "Joaquín Moxica",
+            "short": "Moxica",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "diogo-bagui",
+            "name": "Diogo Bagüí",
+            "short": "Bagüí",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "walter-clar",
+            "name": "Walter Clar",
+            "short": "Clar",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "jose-gonzalez",
+            "name": "José González",
+            "short": "González",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "maximiliano-garcia",
+            "name": "Maximiliano Garcia",
+            "short": "Garcia",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "roberto-barragan",
+            "name": "Roberto Barragán",
+            "short": "Barragán",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jairon-charcopa",
+            "name": "Jairon Charcopa",
+            "short": "Charcopa",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "martin-fernandez",
+            "name": "Martín Fernández",
+            "short": "Fernández",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "christian-bermudez",
+            "name": "Christian Bermúdez",
+            "short": "Bermúdez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luis-sanchez-cedres",
+            "name": "Luis Sánchez Cedrés",
+            "short": "Cedrés",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 29,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "martin-sarrafiore",
+          "name": "Martín Sarrafiore",
+          "short": "Sarrafiore",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Sarrafiore's goal ruled out after a VAR review; ESPN commentary records a handball by him"
+      },
+      {
+        "minute": 37,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "rodrigo-dourado",
+          "name": "Rodrigo Dourado",
+          "short": "Dourado",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "monchu",
+          "name": "Monchu",
+          "short": "Monchu",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "guilherme-castilho",
+          "name": "Guilherme Castilho",
+          "short": "Castilho",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jose-luis-rodriguez",
+          "name": "José Luis Rodríguez",
+          "short": "Rodríguez",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rodrigo-dourado",
+          "name": "Rodrigo Dourado",
+          "short": "Dourado",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "jhojan-julio",
+          "name": "Jhojan Julio",
+          "short": "Julio",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "joaquin-moxica",
+          "name": "Joaquín Moxica",
+          "short": "Moxica",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "luis-puente",
+          "name": "Luis Puente",
+          "short": "Puente",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "diogo-bagui",
+          "name": "Diogo Bagüí",
+          "short": "Bagüí",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "walter-portales",
+          "name": "Walter Portales",
+          "short": "Portales",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "luca-martinez",
+          "name": "Luca Martinez",
+          "short": "Martinez",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ricardinho",
+          "name": "Ricardinho",
+          "short": "Ricardinho",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "brayan-adrian-molina-hernandez",
+          "name": "Brayan Adrián Molina Hernández",
+          "short": "Hernández",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "madson",
+          "name": "Madson",
+          "short": "Madson",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "edgar-jimenez",
+          "name": "Edgar Jiménez",
+          "short": "Jiménez",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 76,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "nicolas-carrera",
+          "name": "Nicolás Carrera",
+          "short": "Carrera",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "martin-sarrafiore",
+          "name": "Martín Sarrafiore",
+          "short": "Sarrafiore",
+          "position": "CM",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "From a corner Martín Sarrafiore crossed and Nicolás Carrera headed in from the centre of the box into the high centre of the goal."
+      },
+      {
+        "minute": 78,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "daniel-pina",
+          "name": "Daniel Piña",
+          "short": "Piña",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "walter-clar",
+          "name": "Walter Clar",
+          "short": "Clar",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "edgar-jimenez",
+          "name": "Edgar Jiménez",
+          "short": "Jiménez",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jose-gonzalez",
+          "name": "José González",
+          "short": "González",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jhojan-julio",
+          "name": "Jhojan Julio",
+          "short": "Julio",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "alejandro-mayorga",
+          "name": "Alejandro Mayorga",
+          "short": "Mayorga",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "daniel-pina",
+          "name": "Daniel Piña",
+          "short": "Piña",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "leonardo-silva",
+          "name": "Leonardo Silva",
+          "short": "Silva",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "maximiliano-garcia",
+          "name": "Maximiliano Garcia",
+          "short": "Garcia",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "martin-sarrafiore",
+          "name": "Martín Sarrafiore",
+          "short": "Sarrafiore",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "jose-luis-rodriguez",
+          "name": "José Luis Rodríguez",
+          "short": "Rodríguez",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "eugenio-pizzuto",
+          "name": "Eugenio Pizzuto",
+          "short": "Pizzuto",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        7,
+        10
+      ],
+      "onTarget": [
+        1,
+        3
+      ],
+      "corners": [
+        8,
+        9
+      ],
+      "fouls": [
+        18,
+        22
+      ],
+      "possession": 61
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Katia Itzel García Mendoza",
+      "country": "Mexico"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876936",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876936",
+      "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+      "https://www.tudn.com/futbol/liga-mx/gustavo-lema-es-el-nuevo-director-tecnico-de-fc-juarez-para-la-liga-mx-video",
+      "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+      "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

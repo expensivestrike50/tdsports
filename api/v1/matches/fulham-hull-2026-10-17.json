@@ -1,0 +1,708 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "fulham-hull-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "15:00",
+    "competition": "Premier League",
+    "round": "Matchweek 7",
+    "status": "FT",
+    "home": {
+      "name": "Fulham",
+      "id": "fulham",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Hull",
+      "id": "hull",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Craven Cottage",
+      "city": "London",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "alvaro-arbeloa",
+          "name": "Álvaro Arbeloa",
+          "short": "Arbeloa",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "bernd-leno",
+            "name": "Bernd Leno",
+            "short": "Leno",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "timothy-castagne",
+            "name": "Timothy Castagne",
+            "short": "Castagne",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "david-affengruber",
+            "name": "David Affengruber",
+            "short": "Affengruber",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "calvin-bassey",
+            "name": "Calvin Bassey",
+            "short": "Bassey",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.6
+          },
+          {
+            "id": "antonee-robinson",
+            "name": "Antonee Robinson",
+            "short": "Robinson",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.6
+          },
+          {
+            "id": "sander-berge",
+            "name": "Sander Berge",
+            "short": "Berge",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.5
+          },
+          {
+            "id": "shea-charles",
+            "name": "Shea Charles",
+            "short": "Charles",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.3
+          },
+          {
+            "id": "oscar-bobb",
+            "name": "Oscar Bobb",
+            "short": "Bobb",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.4
+          },
+          {
+            "id": "josh-king",
+            "name": "Josh King",
+            "short": "King",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "alex-iwobi",
+            "name": "Alex Iwobi",
+            "short": "Iwobi",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.3
+          },
+          {
+            "id": "gonzalo-garcia",
+            "name": "Gonzalo García",
+            "short": "García",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "ryan-sessegnon",
+            "name": "Ryan Sessegnon",
+            "short": "Sessegnon",
+            "position": "AM",
+            "photo": null,
+            "rating": 6
+          },
+          {
+            "id": "tom-cairney",
+            "name": "Tom Cairney",
+            "short": "Cairney",
+            "position": "RW",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "cesar-palacios",
+            "name": "César Palacios",
+            "short": "Palacios",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "benjamin-lecomte",
+            "name": "Benjamin Lecomte",
+            "short": "Lecomte",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "manuel-angel",
+            "name": "Manuel Ángel",
+            "short": "Ángel",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "joachim-andersen",
+            "name": "Joachim Andersen",
+            "short": "Andersen",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kevin",
+            "name": "Kevin",
+            "short": "Kevin",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rodrigo-muniz",
+            "name": "Rodrigo Muniz",
+            "short": "Muniz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kenny-tete",
+            "name": "Kenny Tete",
+            "short": "Tete",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-4-1",
+        "coach": {
+          "id": "sergej-jakirovic",
+          "name": "Sergej Jakirović",
+          "short": "Jakirović",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "konstantinos-tzolakis",
+            "name": "Konstantinos Tzolakis",
+            "short": "Tzolakis",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "lewie-coyle",
+            "name": "Lewie Coyle",
+            "short": "Coyle",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 92,
+            "rating": 6.5
+          },
+          {
+            "id": "semi-ajayi",
+            "name": "Semi Ajayi",
+            "short": "Ajayi",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 71,
+            "rating": 7.3
+          },
+          {
+            "id": "john-egan",
+            "name": "John Egan",
+            "short": "Egan",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "lucas-herrington",
+            "name": "Lucas Herrington",
+            "short": "Herrington",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 29,
+            "rating": 7.3
+          },
+          {
+            "id": "brooke-norton-cuffy",
+            "name": "Brooke Norton-Cuffy",
+            "short": "Norton-Cuffy",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 8,
+            "rating": 6.9
+          },
+          {
+            "id": "mohamed-belloumi",
+            "name": "Mohamed Belloumi",
+            "short": "Belloumi",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "matt-crooks",
+            "name": "Matt Crooks",
+            "short": "Crooks",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 6.2
+          },
+          {
+            "id": "regan-slater",
+            "name": "Regan Slater",
+            "short": "Slater",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 7.2
+          },
+          {
+            "id": "sorba-thomas",
+            "name": "Sorba Thomas",
+            "short": "Thomas",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "oliver-mcburnie",
+            "name": "Oliver McBurnie",
+            "short": "McBurnie",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "tim-iroegbunam",
+            "name": "Tim Iroegbunam",
+            "short": "Iroegbunam",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "robinio-vaz",
+            "name": "Robinio Vaz",
+            "short": "Vaz",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "joe-gelhardt",
+            "name": "Joe Gelhardt",
+            "short": "Gelhardt",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "ryan-giles",
+            "name": "Ryan Giles",
+            "short": "Giles",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "hidemasa-morita",
+            "name": "Hidemasa Morita",
+            "short": "Morita",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "jens-hjerto-dahl",
+            "name": "Jens Hjerto Dahl",
+            "short": "Dahl",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dillon-phillips",
+            "name": "Dillon Phillips",
+            "short": "Phillips",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "paddy-mcnair",
+            "name": "Paddy McNair",
+            "short": "McNair",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "elliot-stroud",
+            "name": "Elliot Stroud",
+            "short": "Stroud",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 22,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "lucas-herrington",
+          "name": "Lucas Herrington",
+          "short": "Herrington",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 27,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "josh-king",
+          "name": "Josh King",
+          "short": "King",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 27,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "regan-slater",
+          "name": "Regan Slater",
+          "short": "Slater",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 33,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "alex-iwobi",
+          "name": "Alex Iwobi",
+          "short": "Iwobi",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "sander-berge",
+          "name": "Sander Berge",
+          "short": "Berge",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Alex Iwobi finished a sweeping move with a right-footed shot from the centre of the box that trickled through goalkeeper Konstantinos Tzolakis' arms, assisted by Sander Berge."
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "tim-iroegbunam",
+          "name": "Tim Iroegbunam",
+          "short": "Iroegbunam",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lucas-herrington",
+          "name": "Lucas Herrington",
+          "short": "Herrington",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "robinio-vaz",
+          "name": "Robinio Vaz",
+          "short": "Vaz",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "matt-crooks",
+          "name": "Matt Crooks",
+          "short": "Crooks",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "joe-gelhardt",
+          "name": "Joe Gelhardt",
+          "short": "Gelhardt",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sorba-thomas",
+          "name": "Sorba Thomas",
+          "short": "Thomas",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ryan-giles",
+          "name": "Ryan Giles",
+          "short": "Giles",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "brooke-norton-cuffy",
+          "name": "Brooke Norton-Cuffy",
+          "short": "Norton-Cuffy",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "hidemasa-morita",
+          "name": "Hidemasa Morita",
+          "short": "Morita",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "regan-slater",
+          "name": "Regan Slater",
+          "short": "Slater",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ryan-sessegnon",
+          "name": "Ryan Sessegnon",
+          "short": "Sessegnon",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "josh-king",
+          "name": "Josh King",
+          "short": "King",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "tom-cairney",
+          "name": "Tom Cairney",
+          "short": "Cairney",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "oscar-bobb",
+          "name": "Oscar Bobb",
+          "short": "Bobb",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "sander-berge",
+          "name": "Sander Berge",
+          "short": "Berge",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "cesar-palacios",
+          "name": "César Palacios",
+          "short": "Palacios",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gonzalo-garcia",
+          "name": "Gonzalo García",
+          "short": "García",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "red_card",
+        "team": "home",
+        "player": {
+          "id": "ryan-sessegnon",
+          "name": "Ryan Sessegnon",
+          "short": "Sessegnon",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Late challenge on Robinio Vaz"
+      }
+    ],
+    "stats": {
+      "shots": [
+        18,
+        5
+      ],
+      "onTarget": [
+        6,
+        0
+      ],
+      "corners": [
+        10,
+        2
+      ],
+      "fouls": [
+        13,
+        11
+      ],
+      "possession": 76
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Chris Kavanagh",
+      "country": "England"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401878770",
+      "https://www.espn.com/soccer/match/_/gameId/401878770",
+      "https://www.skysports.com/football/a-vs-b/report/559508",
+      "https://www.skysports.com/football/a-vs-b/teams/559508",
+      "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

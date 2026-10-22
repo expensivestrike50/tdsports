@@ -1,0 +1,24 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "timo-becker",
+    "name": "Timo Becker",
+    "short": "Becker",
+    "position": "CB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "schalke-mainz-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Schalke",
+        "role": "starter"
+      },
+      {
+        "match": "schalke-mainz-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Schalke",
+        "role": "bench"
+      }
+    ]
+  }
+}

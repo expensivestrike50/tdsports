@@ -1,0 +1,811 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "spain-belgium-2026-07-10",
+    "date": "2026-07-10",
+    "kickoff": "12:00",
+    "competition": "FIFA World Cup",
+    "round": "Quarter-final",
+    "status": "FT",
+    "home": {
+      "name": "Spain",
+      "id": "spain",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Belgium",
+      "id": "belgium",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+      "country": "BE"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "SoFi Stadium",
+      "city": "Inglewood, California",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "luis-de-la-fuente",
+          "name": "Luis de la Fuente",
+          "short": "Fuente",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "unai-simon-spain-belgium-2026-07-10",
+            "name": "Unai Simón",
+            "short": "Simón",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "marc-cucurella-spain-belgium-2026-07-10",
+            "name": "Marc Cucurella",
+            "short": "Cucurella",
+            "position": "LB",
+            "photo": "assets/photos/people/marc-cucurella.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "aymeric-laporte-spain-belgium-2026-07-10",
+            "name": "Aymeric Laporte",
+            "short": "Laporte",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.4
+          },
+          {
+            "id": "pau-cubarsi-spain-belgium-2026-07-10",
+            "name": "Pau Cubarsí",
+            "short": "Cubarsí",
+            "position": "CB",
+            "photo": "assets/photos/people/pau-cubarsi.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 7.2
+          },
+          {
+            "id": "pedro-porro",
+            "name": "Pedro Porro",
+            "short": "Porro",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "fabian-ruiz-spain-belgium-2026-07-10",
+            "name": "Fabián Ruiz",
+            "short": "Ruiz",
+            "position": "DM",
+            "photo": "assets/photos/people/fabian-ruiz.jpg",
+            "x": 27,
+            "y": 30,
+            "rating": 8
+          },
+          {
+            "id": "rodri-spain-belgium-2026-07-10",
+            "name": "Rodri",
+            "short": "Rodri",
+            "position": "DM",
+            "photo": "assets/photos/people/rodri.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 6.4
+          },
+          {
+            "id": "alex-baena-spain-belgium-2026-07-10",
+            "name": "Álex Baena",
+            "short": "Baena",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.7
+          },
+          {
+            "id": "dani-olmo-spain-belgium-2026-07-10",
+            "name": "Dani Olmo",
+            "short": "Olmo",
+            "position": "AM",
+            "photo": "assets/photos/people/dani-olmo.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "lamine-yamal-spain-belgium-2026-07-10",
+            "name": "Lamine Yamal",
+            "short": "Yamal",
+            "position": "RW",
+            "photo": "assets/photos/people/lamine-yamal.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 7.1
+          },
+          {
+            "id": "mikel-oyarzabal-spain-belgium-2026-07-10",
+            "name": "Mikel Oyarzabal",
+            "short": "Oyarzabal",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "ferran-torres-spain-belgium-2026-07-10",
+            "name": "Ferran Torres",
+            "short": "Torres",
+            "position": "LW",
+            "photo": "assets/photos/people/ferran-torres.jpg",
+            "rating": 6.9
+          },
+          {
+            "id": "pedri-spain-belgium-2026-07-10",
+            "name": "Pedri",
+            "short": "Pedri",
+            "position": "DM",
+            "photo": "assets/photos/people/pedri.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "nico-williams",
+            "name": "Nico Williams",
+            "short": "Williams",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "mikel-merino-spain-belgium-2026-07-10",
+            "name": "Mikel Merino",
+            "short": "Merino",
+            "position": "AM",
+            "photo": "assets/photos/people/mikel-merino.jpg",
+            "rating": 7.6
+          },
+          {
+            "id": "yeremy-pino-spain-belgium-2026-07-10",
+            "name": "Yéremy Pino",
+            "short": "Pino",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alejandro-grimaldo-spain-belgium-2026-07-10",
+            "name": "Alejandro Grimaldo",
+            "short": "Grimaldo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "victor-munoz-spain-belgium-2026-07-10",
+            "name": "Víctor Muñoz",
+            "short": "Muñoz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "joan-garcia-spain-belgium-2026-07-10",
+            "name": "Joan García",
+            "short": "García",
+            "position": "CM",
+            "photo": "assets/photos/people/joan-garcia.jpg",
+            "rating": null
+          },
+          {
+            "id": "borja-iglesias",
+            "name": "Borja Iglesias",
+            "short": "Iglesias",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gavi-spain-belgium-2026-07-10",
+            "name": "Gavi",
+            "short": "Gavi",
+            "position": "CM",
+            "photo": "assets/photos/people/gavi.jpg",
+            "rating": null
+          },
+          {
+            "id": "david-raya-spain-belgium-2026-07-10",
+            "name": "David Raya",
+            "short": "Raya",
+            "position": "CM",
+            "photo": "assets/photos/people/david-raya.jpg",
+            "rating": null
+          },
+          {
+            "id": "marc-pubill-spain-belgium-2026-07-10",
+            "name": "Marc Pubill",
+            "short": "Pubill",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "martin-zubimendi-spain-belgium-2026-07-10",
+            "name": "Martín Zubimendi",
+            "short": "Zubimendi",
+            "position": "CM",
+            "photo": "assets/photos/people/martin-zubimendi.jpg",
+            "rating": null
+          },
+          {
+            "id": "marcos-llorente-spain-belgium-2026-07-10",
+            "name": "Marcos Llorente",
+            "short": "Llorente",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "rudi-garcia",
+          "name": "Rudi Garcia",
+          "short": "Garcia",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "thibaut-courtois-spain-belgium-2026-07-10",
+            "name": "Thibaut Courtois",
+            "short": "Courtois",
+            "position": "GK",
+            "photo": "assets/photos/people/thibaut-courtois.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "maxim-de-cuyper-spain-belgium-2026-07-10",
+            "name": "Maxim De Cuyper",
+            "short": "De Cuyper",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.6
+          },
+          {
+            "id": "brandon-mechele-spain-belgium-2026-07-10",
+            "name": "Brandon Mechele",
+            "short": "Mechele",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.6
+          },
+          {
+            "id": "nathan-ngoy-spain-belgium-2026-07-10",
+            "name": "Nathan Ngoy",
+            "short": "Ngoy",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.8
+          },
+          {
+            "id": "timothy-castagne-spain-belgium-2026-07-10",
+            "name": "Timothy Castagne",
+            "short": "Castagne",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "nicolas-raskin",
+            "name": "Nicolas Raskin",
+            "short": "Raskin",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 6.9
+          },
+          {
+            "id": "hans-vanaken-spain-belgium-2026-07-10",
+            "name": "Hans Vanaken",
+            "short": "Vanaken",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.1
+          },
+          {
+            "id": "jeremy-doku-spain-belgium-2026-07-10",
+            "name": "Jérémy Doku",
+            "short": "Doku",
+            "position": "LW",
+            "photo": "assets/photos/people/jeremy-doku.jpg",
+            "x": 63,
+            "y": 77,
+            "rating": 7.4
+          },
+          {
+            "id": "kevin-de-bruyne-spain-belgium-2026-07-10",
+            "name": "Kevin De Bruyne",
+            "short": "De Bruyne",
+            "position": "AM",
+            "photo": "assets/photos/people/kevin-de-bruyne.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "leandro-trossard-spain-belgium-2026-07-10",
+            "name": "Leandro Trossard",
+            "short": "Trossard",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 6.4
+          },
+          {
+            "id": "charles-de-ketelaere-spain-belgium-2026-07-10",
+            "name": "Charles De Ketelaere",
+            "short": "De Ketelaere",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "axel-witsel-spain-belgium-2026-07-10",
+            "name": "Axel Witsel",
+            "short": "Witsel",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "romelu-lukaku-spain-belgium-2026-07-10",
+            "name": "Romelu Lukaku",
+            "short": "Lukaku",
+            "position": "DM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "joaquin-seys-spain-belgium-2026-07-10",
+            "name": "Joaquin Seys",
+            "short": "Seys",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "senne-lammens-spain-belgium-2026-07-10",
+            "name": "Senne Lammens",
+            "short": "Lammens",
+            "position": "GK",
+            "photo": "assets/photos/people/senne-lammens.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "alexis-saelemaekers",
+            "name": "Alexis Saelemaekers",
+            "short": "Saelemaekers",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "koni-de-winter-spain-belgium-2026-07-10",
+            "name": "Koni De Winter",
+            "short": "Winter",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "diego-moreira-spain-belgium-2026-07-10",
+            "name": "Diego Moreira",
+            "short": "Moreira",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dodi-lukebakio-spain-belgium-2026-07-10",
+            "name": "Dodi Lukébakio",
+            "short": "Lukébakio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "arthur-theate-spain-belgium-2026-07-10",
+            "name": "Arthur Theate",
+            "short": "Theate",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "matias-fernandez-pardo-spain-belgium-2026-07-10",
+            "name": "Matias Fernandez-Pardo",
+            "short": "Fernandez-Pardo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "thomas-meunier",
+            "name": "Thomas Meunier",
+            "short": "Meunier",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mike-penders-spain-belgium-2026-07-10",
+            "name": "Mike Penders",
+            "short": "Penders",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 30,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "fabian-ruiz-spain-belgium-2026-07-10",
+          "name": "Fabián Ruiz",
+          "short": "Ruiz",
+          "position": "DM",
+          "photo": "assets/photos/people/fabian-ruiz.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Fabián Ruiz finished with a right-footed shot from the centre of the box into the high centre of the goal."
+      },
+      {
+        "minute": 41,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "charles-de-ketelaere-spain-belgium-2026-07-10",
+          "name": "Charles De Ketelaere",
+          "short": "De Ketelaere",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "timothy-castagne-spain-belgium-2026-07-10",
+          "name": "Timothy Castagne",
+          "short": "Castagne",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Timothy Castagne crossed and Charles De Ketelaere headed in from the centre of the box to equalise."
+      },
+      {
+        "minute": 43,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "pau-cubarsi-spain-belgium-2026-07-10",
+          "name": "Pau Cubarsí",
+          "short": "Cubarsí",
+          "position": "CB",
+          "photo": "assets/photos/people/pau-cubarsi.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 55,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ferran-torres-spain-belgium-2026-07-10",
+          "name": "Ferran Torres",
+          "short": "Torres",
+          "position": "LW",
+          "photo": "assets/photos/people/ferran-torres.jpg"
+        },
+        "replaced": {
+          "id": "alex-baena-spain-belgium-2026-07-10",
+          "name": "Álex Baena",
+          "short": "Baena",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 55,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "pedri-spain-belgium-2026-07-10",
+          "name": "Pedri",
+          "short": "Pedri",
+          "position": "DM",
+          "photo": "assets/photos/people/pedri.jpg"
+        },
+        "replaced": {
+          "id": "fabian-ruiz-spain-belgium-2026-07-10",
+          "name": "Fabián Ruiz",
+          "short": "Ruiz",
+          "position": "DM",
+          "photo": "assets/photos/people/fabian-ruiz.jpg"
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "axel-witsel-spain-belgium-2026-07-10",
+          "name": "Axel Witsel",
+          "short": "Witsel",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "leandro-trossard-spain-belgium-2026-07-10",
+          "name": "Leandro Trossard",
+          "short": "Trossard",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "romelu-lukaku-spain-belgium-2026-07-10",
+          "name": "Romelu Lukaku",
+          "short": "Lukaku",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "hans-vanaken-spain-belgium-2026-07-10",
+          "name": "Hans Vanaken",
+          "short": "Vanaken",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "joaquin-seys-spain-belgium-2026-07-10",
+          "name": "Joaquin Seys",
+          "short": "Seys",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "maxim-de-cuyper-spain-belgium-2026-07-10",
+          "name": "Maxim De Cuyper",
+          "short": "De Cuyper",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "senne-lammens-spain-belgium-2026-07-10",
+          "name": "Senne Lammens",
+          "short": "Lammens",
+          "position": "GK",
+          "photo": "assets/photos/people/senne-lammens.jpg"
+        },
+        "replaced": {
+          "id": "thibaut-courtois-spain-belgium-2026-07-10",
+          "name": "Thibaut Courtois",
+          "short": "Courtois",
+          "position": "GK",
+          "photo": "assets/photos/people/thibaut-courtois.jpg"
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nico-williams",
+          "name": "Nico Williams",
+          "short": "Williams",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mikel-oyarzabal-spain-belgium-2026-07-10",
+          "name": "Mikel Oyarzabal",
+          "short": "Oyarzabal",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "kevin-de-bruyne-spain-belgium-2026-07-10",
+          "name": "Kevin De Bruyne",
+          "short": "De Bruyne",
+          "position": "AM",
+          "photo": "assets/photos/people/kevin-de-bruyne.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alexis-saelemaekers",
+          "name": "Alexis Saelemaekers",
+          "short": "Saelemaekers",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kevin-de-bruyne-spain-belgium-2026-07-10",
+          "name": "Kevin De Bruyne",
+          "short": "De Bruyne",
+          "position": "AM",
+          "photo": "assets/photos/people/kevin-de-bruyne.jpg"
+        }
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mikel-merino-spain-belgium-2026-07-10",
+          "name": "Mikel Merino",
+          "short": "Merino",
+          "position": "AM",
+          "photo": "assets/photos/people/mikel-merino.jpg"
+        },
+        "replaced": {
+          "id": "dani-olmo-spain-belgium-2026-07-10",
+          "name": "Dani Olmo",
+          "short": "Olmo",
+          "position": "AM",
+          "photo": "assets/photos/people/dani-olmo.jpg"
+        }
+      },
+      {
+        "minute": 88,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "mikel-merino-spain-belgium-2026-07-10",
+          "name": "Mikel Merino",
+          "short": "Merino",
+          "position": "AM",
+          "photo": "assets/photos/people/mikel-merino.jpg"
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Substitute Mikel Merino scored with a left-footed shot from very close range into the top left corner."
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "aymeric-laporte-spain-belgium-2026-07-10",
+          "name": "Aymeric Laporte",
+          "short": "Laporte",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "axel-witsel-spain-belgium-2026-07-10",
+          "name": "Axel Witsel",
+          "short": "Witsel",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        17,
+        5
+      ],
+      "onTarget": [
+        8,
+        2
+      ],
+      "corners": [
+        5,
+        1
+      ],
+      "fouls": [
+        13,
+        18
+      ],
+      "possession": 68
+    },
+    "attendance": 70492,
+    "referee": {
+      "name": "Michael Oliver",
+      "country": "England"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760511",
+      "https://www.espn.com/soccer/match/_/gameId/760511",
+      "https://citizen.digital/article/everyone-expects-spain-to-beat-us-says-belgium-coach-garcia-n386186",
+      "https://www.thestatesman.com/sports/fifa-world-cup-2026-spain-yet-to-concede-as-belgium-eye-semifinal-upset-everything-you-need-to-know-1503615114.html"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

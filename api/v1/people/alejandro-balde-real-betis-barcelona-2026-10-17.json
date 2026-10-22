@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "alejandro-balde-real-betis-barcelona-2026-10-17",
+    "name": "Alejandro Balde",
+    "short": "Balde",
+    "position": "CM",
+    "photo": "assets/photos/people/alejandro-balde.jpg",
+    "matches": [
+      {
+        "match": "real-betis-barcelona-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Barcelona",
+        "role": "bench"
+      }
+    ]
+  }
+}

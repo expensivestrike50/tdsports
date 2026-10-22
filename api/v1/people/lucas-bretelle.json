@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "lucas-bretelle",
+    "name": "Lucas Bretelle",
+    "short": "Bretelle",
+    "position": "DM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "le-mans-toulouse-2026-10-16",
+        "date": "2026-10-16",
+        "team": "Le Mans",
+        "role": "starter"
+      }
+    ]
+  }
+}

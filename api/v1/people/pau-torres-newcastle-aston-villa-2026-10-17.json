@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "pau-torres-newcastle-aston-villa-2026-10-17",
+    "name": "Pau Torres",
+    "short": "Torres",
+    "position": "LB",
+    "photo": "assets/photos/people/pau-torres.jpg",
+    "matches": [
+      {
+        "match": "newcastle-aston-villa-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Aston Villa",
+        "role": "bench"
+      }
+    ]
+  }
+}

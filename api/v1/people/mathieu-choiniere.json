@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "mathieu-choiniere",
+    "name": "Mathieu Choinière",
+    "short": "Choinière",
+    "position": "DM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "nycfc-lafc-2026-10-17",
+        "date": "2026-10-17",
+        "team": "LAFC",
+        "role": "bench"
+      }
+    ]
+  }
+}

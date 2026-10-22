@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "youri-tielemans-leeds-man-united-2026-10-18",
+    "name": "Youri Tielemans",
+    "short": "Tielemans",
+    "position": "AM",
+    "photo": "assets/photos/people/youri-tielemans.jpg",
+    "matches": [
+      {
+        "match": "leeds-man-united-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Man United",
+        "role": "starter"
+      }
+    ]
+  }
+}

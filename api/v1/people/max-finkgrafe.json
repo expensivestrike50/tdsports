@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "max-finkgrafe",
+    "name": "Max Finkgrafe",
+    "short": "Finkgrafe",
+    "position": "LB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "madrid-leipzig",
+        "date": "2026-10-21",
+        "team": "RB Leipzig",
+        "role": "bench"
+      }
+    ]
+  }
+}

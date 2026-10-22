@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "daniel-braganca",
+    "name": "Daniel Bragança",
+    "short": "Bragança",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "parma-torino-2026-10-19",
+        "date": "2026-10-19",
+        "team": "Torino",
+        "role": "starter"
+      }
+    ]
+  }
+}

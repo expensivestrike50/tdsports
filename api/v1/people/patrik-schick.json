@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "patrik-schick",
+    "name": "Patrik Schick",
+    "short": "Schick",
+    "position": "ST",
+    "photo": null,
+    "matches": [
+      {
+        "match": "leverkusen-freiburg-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Leverkusen",
+        "role": "starter"
+      }
+    ]
+  }
+}

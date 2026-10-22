@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "petar-sucic",
+    "name": "Petar Sucic",
+    "short": "Sucic",
+    "position": "CM",
+    "photo": "assets/photos/people/petar-sucic.jpg",
+    "matches": [
+      {
+        "match": "inter-shakhtar",
+        "date": "2026-10-21",
+        "team": "Inter",
+        "role": "starter"
+      }
+    ]
+  }
+}

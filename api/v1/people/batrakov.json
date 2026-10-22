@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "batrakov",
+    "name": "Aleksey Batrakov",
+    "short": "Batrakov",
+    "position": "AM",
+    "photo": "assets/photos/people/batrakov.jpg",
+    "matches": [
+      {
+        "match": "lille-galatasaray",
+        "date": "2026-10-21",
+        "team": "Galatasaray",
+        "role": "starter"
+      }
+    ]
+  }
+}

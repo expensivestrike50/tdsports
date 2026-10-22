@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "henrik-heggheim",
+    "name": "Henrik Heggheim",
+    "short": "Heggheim",
+    "position": "LB",
+    "photo": "assets/photos/people/henrik-heggheim.jpg",
+    "matches": [
+      {
+        "match": "villa-viking",
+        "date": "2026-10-21",
+        "team": "Viking",
+        "role": "starter"
+      }
+    ]
+  }
+}

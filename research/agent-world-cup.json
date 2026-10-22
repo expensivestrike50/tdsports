@@ -1,0 +1,3040 @@
+{
+ "agent": "FIFA World Cup agent",
+ "league": "FIFA World Cup",
+ "generated": "2026-10-22T10:32:38Z",
+ "matches": [
+  {
+   "id": "france-morocco-2026-07-09",
+   "found": true,
+   "competition": "FIFA World Cup",
+   "round": "Quarter-final",
+   "date": "2026-07-09",
+   "kickoff_local": "16:00",
+   "home": "France",
+   "away": "Morocco",
+   "score": [
+    2,
+    0
+   ],
+   "venue": {
+    "name": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "attendance": 63811
+   },
+   "referee": {
+    "name": "Facundo Tello",
+    "country": "Argentina"
+   },
+   "coaches": {
+    "home": "Didier Deschamps",
+    "away": "Mohamed Ouahbi"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Mike Maignan",
+      "short": "Maignan",
+      "number": 16,
+      "pos": "GK"
+     },
+     {
+      "name": "Lucas Digne",
+      "short": "Digne",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "William Saliba",
+      "short": "Saliba",
+      "number": 17,
+      "pos": "CB"
+     },
+     {
+      "name": "Dayot Upamecano",
+      "short": "Upamecano",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Jules Koundé",
+      "short": "Koundé",
+      "number": 5,
+      "pos": "RB"
+     },
+     {
+      "name": "Adrien Rabiot",
+      "short": "Rabiot",
+      "number": 14,
+      "pos": "DM"
+     },
+     {
+      "name": "Manu Koné",
+      "short": "Koné",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Désiré Doué",
+      "short": "Doué",
+      "number": 20,
+      "pos": "LW"
+     },
+     {
+      "name": "Michael Olise",
+      "short": "Olise",
+      "number": 11,
+      "pos": "AM"
+     },
+     {
+      "name": "Ousmane Dembélé",
+      "short": "Dembélé",
+      "number": 7,
+      "pos": "RW"
+     },
+     {
+      "name": "Kylian Mbappé",
+      "short": "Mbappé",
+      "number": 10,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Yassine Bounou",
+      "short": "Bounou",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Anass Salah-Eddine",
+      "short": "Salah-Eddine",
+      "number": 26,
+      "pos": "LB"
+     },
+     {
+      "name": "Noussair Mazraoui",
+      "short": "Mazraoui",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Issa Diop",
+      "short": "Diop",
+      "number": 14,
+      "pos": "CB"
+     },
+     {
+      "name": "Achraf Hakimi",
+      "short": "Hakimi",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Neil El Aynaoui",
+      "short": "El Aynaoui",
+      "number": 24,
+      "pos": "DM"
+     },
+     {
+      "name": "Ayyoub Bouaddi",
+      "short": "Bouaddi",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Chemsdine Talbi",
+      "short": "Talbi",
+      "number": 7,
+      "pos": "LW"
+     },
+     {
+      "name": "Azzedine Ounahi",
+      "short": "Ounahi",
+      "number": 8,
+      "pos": "AM"
+     },
+     {
+      "name": "Brahim Díaz",
+      "short": "Díaz",
+      "number": 10,
+      "pos": "RW"
+     },
+     {
+      "name": "Bilal El Khannouss",
+      "short": "El Khannouss",
+      "number": 23,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 62,
+     "in": "Soufiane Rahimi",
+     "out": "Bilal El Khannouss"
+    },
+    {
+     "side": "away",
+     "minute": 62,
+     "in": "Sofyan Amrabat",
+     "out": "Ayyoub Bouaddi"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Warren Zaïre-Emery",
+     "out": "Manu Koné"
+    },
+    {
+     "side": "away",
+     "minute": 74,
+     "in": "Zakaria El Ouahdi",
+     "out": "Anass Salah-Eddine"
+    },
+    {
+     "side": "away",
+     "minute": 74,
+     "in": "Gessime Yassine",
+     "out": "Brahim Díaz"
+    },
+    {
+     "side": "home",
+     "minute": 77,
+     "in": "Jean-Philippe Mateta",
+     "out": "Kylian Mbappé"
+    },
+    {
+     "side": "home",
+     "minute": 77,
+     "in": "Bradley Barcola",
+     "out": "Désiré Doué"
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "in": "Amine Sbaï",
+     "out": "Chemsdine Talbi"
+    },
+    {
+     "side": "home",
+     "minute": 87,
+     "in": "Malo Gusto",
+     "out": "Jules Koundé"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "N'Golo Kanté",
+     "Ibrahima Konaté",
+     "Robin Risser",
+     "Rayan Cherki",
+     "Theo Hernández",
+     "Lucas Hernández",
+     "Marcus Thuram",
+     "Brice Samba",
+     "Maxence Lacroix",
+     "Maghnes Akliouche",
+     "Aurélien Tchouaméni"
+    ],
+    "away": [
+     "Ahmed Reda Tagnaouti",
+     "Youssef Belammari",
+     "Samir El Mourabet",
+     "Redouane Halhal",
+     "Marwane Saadane",
+     "Ismael Saibari",
+     "Chadi Riad",
+     "Munir El Kajoui",
+     "Ayoube Amaimouni",
+     "Ayoub El Kaabi"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 60,
+     "scorer": "Kylian Mbappé",
+     "assist": "Désiré Doué",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Mbappé cut in from the left side of the box and fired a right-footed shot into the top right corner after a pass from Désiré Doué.",
+     "shot": {
+      "x": 86,
+      "y": 32,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 66,
+     "scorer": "Ousmane Dembélé",
+     "assist": "Kylian Mbappé",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Dembélé struck a right-footed shot from outside the box into the bottom right corner, set up by Mbappé.",
+     "shot": {
+      "x": 75,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 63,
+     "player": "Issa Diop",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     48,
+     52
+    ],
+    "shots": [
+     22,
+     5
+    ],
+    "onTarget": [
+     8,
+     1
+    ],
+    "corners": [
+     5,
+     5
+    ],
+    "fouls": [
+     10,
+     13
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760510",
+    "https://www.espn.com/soccer/match/_/gameId/760510",
+    "https://citizen.digital/article/france-v-morocco-rematch-as-world-cup-quarter-finals-get-under-way-n386086",
+    "https://blog.wego.com/morocco-match-at-the-world-cup/"
+   ],
+   "notes": "France won 2-0 in 90 minutes. Kylian Mbappé had a 28th-minute penalty saved by Yassine Bounou after Noussair Mazraoui fouled him; Mbappé later scored and assisted before going off injured at 77'.",
+   "league": "FIFA World Cup",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+   "home_country": "FR",
+   "away_country": "MA"
+  },
+  {
+   "id": "spain-belgium-2026-07-10",
+   "found": true,
+   "competition": "FIFA World Cup",
+   "round": "Quarter-final",
+   "date": "2026-07-10",
+   "kickoff_local": "12:00",
+   "home": "Spain",
+   "away": "Belgium",
+   "score": [
+    2,
+    1
+   ],
+   "venue": {
+    "name": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "attendance": 70492
+   },
+   "referee": {
+    "name": "Michael Oliver",
+    "country": "England"
+   },
+   "coaches": {
+    "home": "Luis de la Fuente",
+    "away": "Rudi Garcia"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Unai Simón",
+      "short": "Simón",
+      "number": 23,
+      "pos": "GK"
+     },
+     {
+      "name": "Marc Cucurella",
+      "short": "Cucurella",
+      "number": 24,
+      "pos": "LB"
+     },
+     {
+      "name": "Aymeric Laporte",
+      "short": "Laporte",
+      "number": 14,
+      "pos": "CB"
+     },
+     {
+      "name": "Pau Cubarsí",
+      "short": "Cubarsí",
+      "number": 22,
+      "pos": "CB"
+     },
+     {
+      "name": "Pedro Porro",
+      "short": "Porro",
+      "number": 12,
+      "pos": "RB"
+     },
+     {
+      "name": "Fabián Ruiz",
+      "short": "Ruiz",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Rodri",
+      "short": "Rodri",
+      "number": 16,
+      "pos": "DM"
+     },
+     {
+      "name": "Álex Baena",
+      "short": "Baena",
+      "number": 15,
+      "pos": "LW"
+     },
+     {
+      "name": "Dani Olmo",
+      "short": "Olmo",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Lamine Yamal",
+      "short": "Yamal",
+      "number": 19,
+      "pos": "RW"
+     },
+     {
+      "name": "Mikel Oyarzabal",
+      "short": "Oyarzabal",
+      "number": 21,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Thibaut Courtois",
+      "short": "Courtois",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Maxim De Cuyper",
+      "short": "De Cuyper",
+      "number": 5,
+      "pos": "LB"
+     },
+     {
+      "name": "Brandon Mechele",
+      "short": "Mechele",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Nathan Ngoy",
+      "short": "Ngoy",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Timothy Castagne",
+      "short": "Castagne",
+      "number": 21,
+      "pos": "RB"
+     },
+     {
+      "name": "Nicolas Raskin",
+      "short": "Raskin",
+      "number": 23,
+      "pos": "DM"
+     },
+     {
+      "name": "Hans Vanaken",
+      "short": "Vanaken",
+      "number": 20,
+      "pos": "DM"
+     },
+     {
+      "name": "Jérémy Doku",
+      "short": "Doku",
+      "number": 11,
+      "pos": "LW"
+     },
+     {
+      "name": "Kevin De Bruyne",
+      "short": "De Bruyne",
+      "number": 7,
+      "pos": "AM"
+     },
+     {
+      "name": "Leandro Trossard",
+      "short": "Trossard",
+      "number": 10,
+      "pos": "RW"
+     },
+     {
+      "name": "Charles De Ketelaere",
+      "short": "De Ketelaere",
+      "number": 17,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 55,
+     "in": "Ferran Torres",
+     "out": "Álex Baena"
+    },
+    {
+     "side": "home",
+     "minute": 55,
+     "in": "Pedri",
+     "out": "Fabián Ruiz"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Axel Witsel",
+     "out": "Leandro Trossard"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Romelu Lukaku",
+     "out": "Hans Vanaken"
+    },
+    {
+     "side": "away",
+     "minute": 61,
+     "in": "Joaquin Seys",
+     "out": "Maxim De Cuyper"
+    },
+    {
+     "side": "away",
+     "minute": 71,
+     "in": "Senne Lammens",
+     "out": "Thibaut Courtois"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Nico Williams",
+     "out": "Mikel Oyarzabal"
+    },
+    {
+     "side": "away",
+     "minute": 86,
+     "in": "Alexis Saelemaekers",
+     "out": "Kevin De Bruyne"
+    },
+    {
+     "side": "home",
+     "minute": 86,
+     "in": "Mikel Merino",
+     "out": "Dani Olmo"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Yéremy Pino",
+     "Alejandro Grimaldo",
+     "Víctor Muñoz",
+     "Joan García",
+     "Eric García",
+     "Borja Iglesias",
+     "Gavi",
+     "David Raya",
+     "Marc Pubill",
+     "Martín Zubimendi",
+     "Marcos Llorente"
+    ],
+    "away": [
+     "Koni De Winter",
+     "Diego Moreira",
+     "Dodi Lukébakio",
+     "Arthur Theate",
+     "Matias Fernandez-Pardo",
+     "Thomas Meunier",
+     "Mike Penders"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 30,
+     "scorer": "Fabián Ruiz",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Fabián Ruiz finished with a right-footed shot from the centre of the box into the high centre of the goal.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 41,
+     "scorer": "Charles De Ketelaere",
+     "assist": "Timothy Castagne",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Timothy Castagne crossed and Charles De Ketelaere headed in from the centre of the box to equalise.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": true
+     }
+    },
+    {
+     "side": "home",
+     "minute": 88,
+     "scorer": "Mikel Merino",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Substitute Mikel Merino scored with a left-footed shot from very close range into the top left corner.",
+     "shot": {
+      "x": 96,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 43,
+     "player": "Pau Cubarsí",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "player": "Kevin De Bruyne",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Aymeric Laporte",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Axel Witsel",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     67.9,
+     32.1
+    ],
+    "shots": [
+     17,
+     5
+    ],
+    "onTarget": [
+     8,
+     2
+    ],
+    "corners": [
+     5,
+     1
+    ],
+    "fouls": [
+     13,
+     18
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760511",
+    "https://www.espn.com/soccer/match/_/gameId/760511",
+    "https://citizen.digital/article/everyone-expects-spain-to-beat-us-says-belgium-coach-garcia-n386186",
+    "https://www.thestatesman.com/sports/fifa-world-cup-2026-spain-yet-to-concede-as-belgium-eye-semifinal-upset-everything-you-need-to-know-1503615114.html"
+   ],
+   "notes": "Spain won 2-1 in 90 minutes; substitute Mikel Merino scored the 88th-minute winner two minutes after coming on. Belgium goalkeeper Thibaut Courtois went off injured at 71'.",
+   "league": "FIFA World Cup",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+   "home_country": "ES",
+   "away_country": "BE"
+  },
+  {
+   "id": "norway-england-2026-07-11",
+   "found": true,
+   "competition": "FIFA World Cup",
+   "round": "Quarter-final",
+   "date": "2026-07-11",
+   "kickoff_local": "17:00",
+   "home": "Norway",
+   "away": "England",
+   "score": [
+    1,
+    2
+   ],
+   "venue": {
+    "name": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "attendance": 64478
+   },
+   "referee": {
+    "name": "Clément Turpin",
+    "country": "France"
+   },
+   "coaches": {
+    "home": "Ståle Solbakken",
+    "away": "Thomas Tuchel"
+   },
+   "formations": {
+    "home": "4-3-3",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Ørjan Nyland",
+      "short": "Nyland",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "David Møller Wolfe",
+      "short": "Møller Wolfe",
+      "number": 5,
+      "pos": "LB"
+     },
+     {
+      "name": "Torbjørn Heggem",
+      "short": "Heggem",
+      "number": 17,
+      "pos": "CB"
+     },
+     {
+      "name": "Kristoffer Ajer",
+      "short": "Ajer",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Julian Ryerson",
+      "short": "Ryerson",
+      "number": 26,
+      "pos": "RB"
+     },
+     {
+      "name": "Patrick Berg",
+      "short": "Berg",
+      "number": 6,
+      "pos": "CM"
+     },
+     {
+      "name": "Sander Berge",
+      "short": "Berge",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Martin Ødegaard",
+      "short": "Ødegaard",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Andreas Schjelderup",
+      "short": "Schjelderup",
+      "number": 21,
+      "pos": "LW"
+     },
+     {
+      "name": "Alexander Sørloth",
+      "short": "Sørloth",
+      "number": 7,
+      "pos": "RW"
+     },
+     {
+      "name": "Erling Haaland",
+      "short": "Haaland",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Jordan Pickford",
+      "short": "Pickford",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Nico O'Reilly",
+      "short": "O'Reilly",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Marc Guéhi",
+      "short": "Guéhi",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "John Stones",
+      "short": "Stones",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Ezri Konsa",
+      "short": "Konsa",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Elliot Anderson",
+      "short": "Anderson",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Declan Rice",
+      "short": "Rice",
+      "number": 4,
+      "pos": "DM"
+     },
+     {
+      "name": "Anthony Gordon",
+      "short": "Gordon",
+      "number": 18,
+      "pos": "LW"
+     },
+     {
+      "name": "Jude Bellingham",
+      "short": "Bellingham",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Noni Madueke",
+      "short": "Madueke",
+      "number": 20,
+      "pos": "RW"
+     },
+     {
+      "name": "Harry Kane",
+      "short": "Kane",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Bukayo Saka",
+     "out": "Noni Madueke"
+    },
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Eberechi Eze",
+     "out": "Declan Rice"
+    },
+    {
+     "side": "home",
+     "minute": 60,
+     "in": "Fredrik Aursnes",
+     "out": "Julian Ryerson"
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "in": "Oscar Bobb",
+     "out": "Alexander Sørloth"
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "in": "Antonio Nusa",
+     "out": "Andreas Schjelderup"
+    },
+    {
+     "side": "away",
+     "minute": 71,
+     "in": "Reece James",
+     "out": "Anthony Gordon"
+    },
+    {
+     "side": "away",
+     "minute": 86,
+     "in": "Djed Spence",
+     "out": "Nico O'Reilly"
+    },
+    {
+     "side": "away",
+     "minute": 89,
+     "in": "Morgan Rogers",
+     "out": "Ezri Konsa"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "in": "Marcus Holmgren Pedersen",
+     "out": "David Møller Wolfe"
+    },
+    {
+     "side": "home",
+     "minute": 91,
+     "in": "Leo Østigard",
+     "out": "Torbjørn Heggem"
+    },
+    {
+     "side": "home",
+     "minute": 106,
+     "in": "Jørgen Strand Larsen",
+     "out": "Erling Haaland"
+    },
+    {
+     "side": "away",
+     "minute": 111,
+     "in": "Dan Burn",
+     "out": "Jude Bellingham"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Thelo Aasgaard",
+     "Jens Petter Hauge",
+     "Henrik Falchener",
+     "Sondre Langas",
+     "Kristian Thorstvedt",
+     "Morten Thorsby",
+     "Sander Tangvik",
+     "Egil Selvik",
+     "Fredrik André Bjørkan"
+    ],
+    "away": [
+     "Dean Henderson",
+     "Marcus Rashford",
+     "Ollie Watkins",
+     "James Trafford",
+     "Trevoh Chalobah",
+     "Ivan Toney",
+     "Jordan Henderson",
+     "Kobbie Mainoo"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 36,
+     "scorer": "Andreas Schjelderup",
+     "assist": "Martin Ødegaard",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Andreas Schjelderup received from Martin Ødegaard on the left side of the box and curled a left-footed shot into the top right corner.",
+     "shot": {
+      "x": 86,
+      "y": 32,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "scorer": "Jude Bellingham",
+     "assist": "Anthony Gordon",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Anthony Gordon set up Jude Bellingham, who finished low with his left foot from the left side of the box beyond Ørjan Nyland in first-half stoppage time.",
+     "shot": {
+      "x": 86,
+      "y": 32,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 93,
+     "scorer": "Jude Bellingham",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "After a corner, Nyland could only parry Morgan Rogers' effort and Bellingham reacted first to force the rebound in with his right foot.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 117,
+     "player": "Kristoffer Ajer",
+     "card": "yellow",
+     "reason": "Not specified by source"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 55,
+     "player": "Torbjørn Heggem",
+     "detail": "Goal by Torbjørn Heggem (55') ruled out after VAR review for a foul by Erling Haaland. VAR Decision: No Goal Norway 1-1 England."
+    },
+    {
+     "side": "away",
+     "minute": 101,
+     "player": "Djed Spence",
+     "detail": "VAR Decision: No Penalty England."
+    }
+   ],
+   "stats": {
+    "possession": [
+     47.6,
+     52.4
+    ],
+    "shots": [
+     13,
+     14
+    ],
+    "onTarget": [
+     4,
+     8
+    ],
+    "corners": [
+     7,
+     4
+    ],
+    "fouls": [
+     10,
+     8
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760512",
+    "https://www.espn.com/soccer/match/_/gameId/760512",
+    "https://www.khaleejtimes.com/sports/fifa-world-cup/bellingham-double-guides-england-to-world-cup-semis-in-extra-time-win-over-norway",
+    "https://www.brentfordfc.com/en/news/article/international-kristoffer-ajer-norway-1-england-2-extra-time-2026-fifa-world-cup-quarter-final"
+   ],
+   "notes": "England won 2-1 after extra time (1-1 after 90 minutes). Torbjørn Heggem's 55th-minute goal for Norway was disallowed after a VAR review (foul by Haaland). Jude Bellingham scored both England goals.",
+   "league": "FIFA World Cup",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+   "home_country": "NO",
+   "away_country": "GB"
+  },
+  {
+   "id": "argentina-switzerland-2026-07-11",
+   "found": true,
+   "competition": "FIFA World Cup",
+   "round": "Quarter-final",
+   "date": "2026-07-11",
+   "kickoff_local": "20:00",
+   "home": "Argentina",
+   "away": "Switzerland",
+   "score": [
+    3,
+    1
+   ],
+   "venue": {
+    "name": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "attendance": 69045
+   },
+   "referee": {
+    "name": "João Pinheiro",
+    "country": "Portugal"
+   },
+   "coaches": {
+    "home": "Lionel Scaloni",
+    "away": "Murat Yakin"
+   },
+   "formations": {
+    "home": "4-1-3-2",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Emiliano Martínez",
+      "short": "E. Martínez",
+      "number": 23,
+      "pos": "GK"
+     },
+     {
+      "name": "Nicolás Tagliafico",
+      "short": "Tagliafico",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Lisandro Martínez",
+      "short": "Lisandro",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Cristian Romero",
+      "short": "Romero",
+      "number": 13,
+      "pos": "CB"
+     },
+     {
+      "name": "Nahuel Molina",
+      "short": "Molina",
+      "number": 26,
+      "pos": "RB"
+     },
+     {
+      "name": "Leandro Paredes",
+      "short": "Paredes",
+      "number": 5,
+      "pos": "DM"
+     },
+     {
+      "name": "Alexis Mac Allister",
+      "short": "Mac Allister",
+      "number": 20,
+      "pos": "CM"
+     },
+     {
+      "name": "Enzo Fernández",
+      "short": "Fernández",
+      "number": 24,
+      "pos": "CM"
+     },
+     {
+      "name": "Rodrigo De Paul",
+      "short": "De Paul",
+      "number": 7,
+      "pos": "CM"
+     },
+     {
+      "name": "Julián Álvarez",
+      "short": "Álvarez",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Lionel Messi",
+      "short": "Messi",
+      "number": 10,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Gregor Kobel",
+      "short": "Kobel",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Ricardo Rodríguez",
+      "short": "Rodríguez",
+      "number": 13,
+      "pos": "LB"
+     },
+     {
+      "name": "Manuel Akanji",
+      "short": "Akanji",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Nico Elvedi",
+      "short": "Elvedi",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Denis Zakaria",
+      "short": "Zakaria",
+      "number": 6,
+      "pos": "RB"
+     },
+     {
+      "name": "Granit Xhaka",
+      "short": "Xhaka",
+      "number": 10,
+      "pos": "DM"
+     },
+     {
+      "name": "Remo Freuler",
+      "short": "Freuler",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Dan Ndoye",
+      "short": "Ndoye",
+      "number": 11,
+      "pos": "LW"
+     },
+     {
+      "name": "Fabian Rieder",
+      "short": "Rieder",
+      "number": 22,
+      "pos": "AM"
+     },
+     {
+      "name": "Djibril Sow",
+      "short": "Sow",
+      "number": 15,
+      "pos": "RW"
+     },
+     {
+      "name": "Breel Embolo",
+      "short": "Embolo",
+      "number": 7,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Nico González",
+     "out": "Nicolás Tagliafico"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "in": "Lautaro Martínez",
+     "out": "Rodrigo De Paul"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "in": "Gonzalo Montiel",
+     "out": "Nahuel Molina"
+    },
+    {
+     "side": "away",
+     "minute": 86,
+     "in": "Silvan Widmer",
+     "out": "Djibril Sow"
+    },
+    {
+     "side": "away",
+     "minute": 86,
+     "in": "Zeki Amdouni",
+     "out": "Dan Ndoye"
+    },
+    {
+     "side": "away",
+     "minute": 86,
+     "in": "Miro Muheim",
+     "out": "Fabian Rieder"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Eray Cömert",
+     "out": "Ricardo Rodríguez"
+    },
+    {
+     "side": "home",
+     "minute": 91,
+     "in": "Thiago Almada",
+     "out": "Enzo Fernández"
+    },
+    {
+     "side": "away",
+     "minute": 96,
+     "in": "Ardon Jashari",
+     "out": "Denis Zakaria"
+    },
+    {
+     "side": "home",
+     "minute": 106,
+     "in": "Nicolás Otamendi",
+     "out": "Cristian Romero"
+    },
+    {
+     "side": "home",
+     "minute": 110,
+     "in": "José Manuel López",
+     "out": "Leandro Paredes"
+    },
+    {
+     "side": "away",
+     "minute": 115,
+     "in": "Rubén Vargas",
+     "out": "Remo Freuler"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Giuliano Simeone",
+     "Exequiel Palacios",
+     "Nico Paz",
+     "Facundo Medina",
+     "Gerónimo Rulli",
+     "Juan Musso",
+     "Valentín Barco",
+     "Marcos Senesi",
+     "Giovani Lo Celso"
+    ],
+    "away": [
+     "Marvin Keller",
+     "Noah Okafor",
+     "Michel Aebischer",
+     "Yvon Mvogo",
+     "Aurèle Amenda",
+     "Luca Jaquez",
+     "Christian Fassnacht",
+     "Cedric Itten"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 10,
+     "scorer": "Alexis Mac Allister",
+     "assist": "Lionel Messi",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "From a corner, Lionel Messi crossed and Alexis Mac Allister headed in from the left side of the six-yard box.",
+     "shot": {
+      "x": 95,
+      "y": 42,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 67,
+     "scorer": "Dan Ndoye",
+     "assist": "Ricardo Rodríguez",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Ricardo Rodríguez's through ball found Dan Ndoye, who scored with a right-footed shot from a difficult angle on the left.",
+     "shot": {
+      "x": 94,
+      "y": 22,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 112,
+     "scorer": "Julián Álvarez",
+     "assist": "José Manuel López",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Julián Álvarez hit a right-footed shot from outside the box into the top right corner after a pass from José Manuel López.",
+     "shot": {
+      "x": 75,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 120,
+     "scorer": "Lautaro Martínez",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "On a fast break in added time, Lautaro Martínez finished with a right-footed shot from the centre of the box into the bottom right corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 44,
+     "player": "Breel Embolo",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 72,
+     "player": "Breel Embolo",
+     "card": "red",
+     "reason": "Second yellow card (simulation, confirmed after VAR review)"
+    },
+    {
+     "side": "home",
+     "minute": 97,
+     "player": "Thiago Almada",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 98,
+     "player": "Lautaro Martínez",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 114,
+     "player": "José Manuel López",
+     "card": "yellow",
+     "reason": "Not specified by source"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 70,
+     "player": "Leandro Paredes",
+     "detail": "VAR Decision: Card Changed. (ESPN commentary; reports say Breel Embolo's second yellow for simulation followed a VAR review)"
+    }
+   ],
+   "stats": {
+    "possession": [
+     59,
+     41
+    ],
+    "shots": [
+     22,
+     11
+    ],
+    "onTarget": [
+     7,
+     5
+    ],
+    "corners": [
+     8,
+     2
+    ],
+    "fouls": [
+     14,
+     18
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760513",
+    "https://www.espn.com/soccer/match/_/gameId/760513",
+    "https://www.thestatesman.com/sports/fifa-world-cup-2026-argentina-beat-switzerland-3-1-after-extra-time-to-reach-semi-finals-1503615660.html",
+    "https://www.nst.com.my/amp/sports/football/2026/07/1487327/swiss-anger-tinged-pride-after-top-eight-world-cup-finish"
+   ],
+   "notes": "Argentina won 3-1 after extra time (1-1 after 90 minutes). Switzerland's Breel Embolo was sent off with a second yellow card for simulation in the 72nd minute after a VAR review; Julián Álvarez and Lautaro Martínez scored in extra time.",
+   "league": "FIFA World Cup",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+   "home_country": "AR",
+   "away_country": "CH"
+  },
+  {
+   "id": "france-spain-2026-07-14",
+   "found": true,
+   "competition": "FIFA World Cup",
+   "round": "Semi-final",
+   "date": "2026-07-14",
+   "kickoff_local": "14:00",
+   "home": "France",
+   "away": "Spain",
+   "score": [
+    0,
+    2
+   ],
+   "venue": {
+    "name": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "attendance": 70176
+   },
+   "referee": {
+    "name": "Iván Barton",
+    "country": "El Salvador"
+   },
+   "coaches": {
+    "home": "Didier Deschamps",
+    "away": "Luis de la Fuente"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Mike Maignan",
+      "short": "Maignan",
+      "number": 16,
+      "pos": "GK"
+     },
+     {
+      "name": "Lucas Digne",
+      "short": "Digne",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "William Saliba",
+      "short": "Saliba",
+      "number": 17,
+      "pos": "CB"
+     },
+     {
+      "name": "Dayot Upamecano",
+      "short": "Upamecano",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Jules Koundé",
+      "short": "Koundé",
+      "number": 5,
+      "pos": "RB"
+     },
+     {
+      "name": "Adrien Rabiot",
+      "short": "Rabiot",
+      "number": 14,
+      "pos": "DM"
+     },
+     {
+      "name": "Aurélien Tchouaméni",
+      "short": "Tchouaméni",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Bradley Barcola",
+      "short": "Barcola",
+      "number": 12,
+      "pos": "LW"
+     },
+     {
+      "name": "Michael Olise",
+      "short": "Olise",
+      "number": 11,
+      "pos": "AM"
+     },
+     {
+      "name": "Ousmane Dembélé",
+      "short": "Dembélé",
+      "number": 7,
+      "pos": "RW"
+     },
+     {
+      "name": "Kylian Mbappé",
+      "short": "Mbappé",
+      "number": 10,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Unai Simón",
+      "short": "Simón",
+      "number": 23,
+      "pos": "GK"
+     },
+     {
+      "name": "Marc Cucurella",
+      "short": "Cucurella",
+      "number": 24,
+      "pos": "LB"
+     },
+     {
+      "name": "Aymeric Laporte",
+      "short": "Laporte",
+      "number": 14,
+      "pos": "CB"
+     },
+     {
+      "name": "Pau Cubarsí",
+      "short": "Cubarsí",
+      "number": 22,
+      "pos": "CB"
+     },
+     {
+      "name": "Pedro Porro",
+      "short": "Porro",
+      "number": 12,
+      "pos": "RB"
+     },
+     {
+      "name": "Fabián Ruiz",
+      "short": "Ruiz",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Rodri",
+      "short": "Rodri",
+      "number": 16,
+      "pos": "DM"
+     },
+     {
+      "name": "Álex Baena",
+      "short": "Baena",
+      "number": 15,
+      "pos": "LW"
+     },
+     {
+      "name": "Dani Olmo",
+      "short": "Olmo",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Lamine Yamal",
+      "short": "Yamal",
+      "number": 19,
+      "pos": "RW"
+     },
+     {
+      "name": "Mikel Oyarzabal",
+      "short": "Oyarzabal",
+      "number": 21,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 30,
+     "in": "Maxence Lacroix",
+     "out": "William Saliba"
+    },
+    {
+     "side": "home",
+     "minute": 46,
+     "in": "Manu Koné",
+     "out": "Adrien Rabiot"
+    },
+    {
+     "side": "home",
+     "minute": 57,
+     "in": "Désiré Doué",
+     "out": "Bradley Barcola"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Theo Hernández",
+     "out": "Lucas Digne"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Rayan Cherki",
+     "out": "Michael Olise"
+    },
+    {
+     "side": "away",
+     "minute": 74,
+     "in": "Ferran Torres",
+     "out": "Mikel Oyarzabal"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "in": "Mikel Merino",
+     "out": "Dani Olmo"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "in": "Pedri",
+     "out": "Fabián Ruiz"
+    },
+    {
+     "side": "away",
+     "minute": 84,
+     "in": "Marcos Llorente",
+     "out": "Pedro Porro"
+    },
+    {
+     "side": "away",
+     "minute": 84,
+     "in": "Nico Williams",
+     "out": "Álex Baena"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Brice Samba",
+     "Robin Risser",
+     "Ibrahima Konaté",
+     "Malo Gusto",
+     "Jean-Philippe Mateta",
+     "Marcus Thuram",
+     "Lucas Hernández",
+     "Maghnes Akliouche",
+     "N'Golo Kanté",
+     "Warren Zaïre-Emery"
+    ],
+    "away": [
+     "Alejandro Grimaldo",
+     "Marc Pubill",
+     "Borja Iglesias",
+     "Víctor Muñoz",
+     "Yéremy Pino",
+     "Eric García",
+     "Gavi",
+     "Martín Zubimendi",
+     "Joan García",
+     "David Raya"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 22,
+     "scorer": "Mikel Oyarzabal",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "left",
+     "description": "Lamine Yamal drew a foul from Lucas Digne in the box and Mikel Oyarzabal converted the penalty with his left foot into the top right corner.",
+     "shot": {
+      "x": 89,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 58,
+     "scorer": "Pedro Porro",
+     "assist": "Dani Olmo",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Pedro Porro played a give-and-go with Dani Olmo and finished with a right-footed shot from the centre of the box into the bottom right corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 9,
+     "player": "Adrien Rabiot",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 31,
+     "player": "Marc Cucurella",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 86,
+     "player": "Kylian Mbappé",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 83,
+     "player": "Theo Hernández",
+     "detail": "VAR Decision: Other Decision Cancelled."
+    }
+   ],
+   "stats": {
+    "possession": [
+     49.1,
+     50.9
+    ],
+    "shots": [
+     10,
+     10
+    ],
+    "onTarget": [
+     3,
+     2
+    ],
+    "corners": [
+     7,
+     1
+    ],
+    "fouls": [
+     11,
+     12
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760514",
+    "https://www.espn.com/soccer/match/_/gameId/760514",
+    "https://www.outlookindia.com/sports/football/france-vs-spain-fifa-world-cup-2026-match-report-who-won-fra-vs-esp-semi-final-match-dallas-stadium-arlington",
+    "https://www.easternmirrornagaland.com/spain-blank-france-2-0-to-reach-fifa-world-cup-final"
+   ],
+   "notes": "Spain won 2-0 in 90 minutes to reach their first World Cup final since 2010. France lost William Saliba to injury after 30 minutes.",
+   "league": "FIFA World Cup",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+   "home_country": "FR",
+   "away_country": "ES"
+  },
+  {
+   "id": "england-argentina-2026-07-15",
+   "found": true,
+   "competition": "FIFA World Cup",
+   "round": "Semi-final",
+   "date": "2026-07-15",
+   "kickoff_local": "15:00",
+   "home": "England",
+   "away": "Argentina",
+   "score": [
+    1,
+    2
+   ],
+   "venue": {
+    "name": "Mercedes-Benz Stadium",
+    "city": "Atlanta, Georgia",
+    "attendance": 68239
+   },
+   "referee": {
+    "name": "Ismail Elfath",
+    "country": "USA"
+   },
+   "coaches": {
+    "home": "Thomas Tuchel",
+    "away": "Lionel Scaloni"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-1-4-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Jordan Pickford",
+      "short": "Pickford",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Djed Spence",
+      "short": "Spence",
+      "number": 25,
+      "pos": "LB"
+     },
+     {
+      "name": "Marc Guéhi",
+      "short": "Guéhi",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "John Stones",
+      "short": "Stones",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Reece James",
+      "short": "James",
+      "number": 24,
+      "pos": "RB"
+     },
+     {
+      "name": "Elliot Anderson",
+      "short": "Anderson",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Declan Rice",
+      "short": "Rice",
+      "number": 4,
+      "pos": "DM"
+     },
+     {
+      "name": "Anthony Gordon",
+      "short": "Gordon",
+      "number": 18,
+      "pos": "LW"
+     },
+     {
+      "name": "Jude Bellingham",
+      "short": "Bellingham",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Morgan Rogers",
+      "short": "Rogers",
+      "number": 17,
+      "pos": "RW"
+     },
+     {
+      "name": "Harry Kane",
+      "short": "Kane",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Emiliano Martínez",
+      "short": "E. Martínez",
+      "number": 23,
+      "pos": "GK"
+     },
+     {
+      "name": "Nicolás Tagliafico",
+      "short": "Tagliafico",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Lisandro Martínez",
+      "short": "Lisandro",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Cristian Romero",
+      "short": "Romero",
+      "number": 13,
+      "pos": "CB"
+     },
+     {
+      "name": "Nahuel Molina",
+      "short": "Molina",
+      "number": 26,
+      "pos": "RB"
+     },
+     {
+      "name": "Leandro Paredes",
+      "short": "Paredes",
+      "number": 5,
+      "pos": "DM"
+     },
+     {
+      "name": "Julián Álvarez",
+      "short": "Álvarez",
+      "number": 9,
+      "pos": "LW"
+     },
+     {
+      "name": "Alexis Mac Allister",
+      "short": "Mac Allister",
+      "number": 20,
+      "pos": "CM"
+     },
+     {
+      "name": "Enzo Fernández",
+      "short": "Fernández",
+      "number": 24,
+      "pos": "CM"
+     },
+     {
+      "name": "Giuliano Simeone",
+      "short": "Simeone",
+      "number": 17,
+      "pos": "RW"
+     },
+     {
+      "name": "Lionel Messi",
+      "short": "Messi",
+      "number": 10,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 64,
+     "in": "Nico González",
+     "out": "Leandro Paredes"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Ezri Konsa",
+     "out": "Anthony Gordon"
+    },
+    {
+     "side": "away",
+     "minute": 72,
+     "in": "Gonzalo Montiel",
+     "out": "Nahuel Molina"
+    },
+    {
+     "side": "away",
+     "minute": 72,
+     "in": "Rodrigo De Paul",
+     "out": "Giuliano Simeone"
+    },
+    {
+     "side": "away",
+     "minute": 72,
+     "in": "Nicolás Otamendi",
+     "out": "Lisandro Martínez"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Lautaro Martínez",
+     "out": "Nicolás Tagliafico"
+    },
+    {
+     "side": "home",
+     "minute": 82,
+     "in": "Dan Burn",
+     "out": "Reece James"
+    },
+    {
+     "side": "home",
+     "minute": 82,
+     "in": "Nico O'Reilly",
+     "out": "Declan Rice"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "in": "Ivan Toney",
+     "out": "John Stones"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "in": "Marcus Rashford",
+     "out": "Djed Spence"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Jordan Henderson",
+     "Noni Madueke",
+     "Eberechi Eze",
+     "Ollie Watkins",
+     "Bukayo Saka",
+     "Trevoh Chalobah",
+     "James Trafford",
+     "Dean Henderson",
+     "Kobbie Mainoo"
+    ],
+    "away": [
+     "Marcos Senesi",
+     "Facundo Medina",
+     "Juan Musso",
+     "Valentín Barco",
+     "Gerónimo Rulli",
+     "Giovani Lo Celso",
+     "Nico Paz",
+     "Thiago Almada",
+     "Exequiel Palacios",
+     "José Manuel López"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 55,
+     "scorer": "Anthony Gordon",
+     "assist": "Morgan Rogers",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Morgan Rogers crossed and Anthony Gordon finished with his right foot from very close range into the bottom left corner.",
+     "shot": {
+      "x": 96,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "scorer": "Enzo Fernández",
+     "assist": "Lionel Messi",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "After a corner, Lionel Messi laid the ball off and Enzo Fernández drove a right-footed shot from outside the box into the bottom left corner.",
+     "shot": {
+      "x": 75,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "scorer": "Lautaro Martínez",
+     "assist": "Lionel Messi",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Lionel Messi crossed and substitute Lautaro Martínez headed in from very close range in stoppage time.",
+     "shot": {
+      "x": 96,
+      "y": 50,
+      "header": true
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 37,
+     "player": "Elliot Anderson",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 42,
+     "player": "Lisandro Martínez",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 51,
+     "player": "Cristian Romero",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Rodrigo De Paul",
+     "card": "yellow",
+     "reason": "Not specified by source"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     35.8,
+     64.2
+    ],
+    "shots": [
+     5,
+     15
+    ],
+    "onTarget": [
+     2,
+     5
+    ],
+    "corners": [
+     2,
+     6
+    ],
+    "fouls": [
+     11,
+     15
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760515",
+    "https://www.espn.com/soccer/match/_/gameId/760515",
+    "https://www.sportsmole.co.uk/football/england/world-cup-2026/result/utter-agony-late-show-from-argentina-ends-englands-world-cup-hopes_601272.html",
+    "https://capeargus.co.za/fifa-world-cup-2026/updates/2026-07-15-argentina-beat-england-2-1-to-meat-spain-in-the-final/"
+   ],
+   "notes": "Argentina came from behind to win 2-1 in 90 minutes, with both goals from Lionel Messi assists: Enzo Fernández equalised in the 85th minute and Lautaro Martínez headed the winner in stoppage time.",
+   "league": "FIFA World Cup",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+   "home_country": "GB",
+   "away_country": "AR"
+  },
+  {
+   "id": "france-england-2026-07-18",
+   "found": true,
+   "competition": "FIFA World Cup",
+   "round": "Third place",
+   "date": "2026-07-18",
+   "kickoff_local": "17:00",
+   "home": "France",
+   "away": "England",
+   "score": [
+    4,
+    6
+   ],
+   "venue": {
+    "name": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "attendance": 64478
+   },
+   "referee": {
+    "name": "Jesús Valenzuela",
+    "country": "Venezuela"
+   },
+   "coaches": {
+    "home": "Didier Deschamps",
+    "away": "Thomas Tuchel"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-1-4-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Mike Maignan",
+      "short": "Maignan",
+      "number": 16,
+      "pos": "GK"
+     },
+     {
+      "name": "Theo Hernández",
+      "short": "T. Hernández",
+      "number": 19,
+      "pos": "LB"
+     },
+     {
+      "name": "Maxence Lacroix",
+      "short": "Lacroix",
+      "number": 26,
+      "pos": "CB"
+     },
+     {
+      "name": "Ibrahima Konaté",
+      "short": "Konaté",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Malo Gusto",
+      "short": "Gusto",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Adrien Rabiot",
+      "short": "Rabiot",
+      "number": 14,
+      "pos": "DM"
+     },
+     {
+      "name": "Warren Zaïre-Emery",
+      "short": "Zaïre-Emery",
+      "number": 18,
+      "pos": "DM"
+     },
+     {
+      "name": "Désiré Doué",
+      "short": "Doué",
+      "number": 20,
+      "pos": "LW"
+     },
+     {
+      "name": "Rayan Cherki",
+      "short": "Cherki",
+      "number": 24,
+      "pos": "AM"
+     },
+     {
+      "name": "Michael Olise",
+      "short": "Olise",
+      "number": 11,
+      "pos": "RW"
+     },
+     {
+      "name": "Kylian Mbappé",
+      "short": "Mbappé",
+      "number": 10,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Dean Henderson",
+      "short": "Henderson",
+      "number": 13,
+      "pos": "GK"
+     },
+     {
+      "name": "Djed Spence",
+      "short": "Spence",
+      "number": 25,
+      "pos": "LB"
+     },
+     {
+      "name": "Marc Guéhi",
+      "short": "Guéhi",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Ezri Konsa",
+      "short": "Konsa",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Jarell Quansah",
+      "short": "Quansah",
+      "number": 26,
+      "pos": "RB"
+     },
+     {
+      "name": "Declan Rice",
+      "short": "Rice",
+      "number": 4,
+      "pos": "DM"
+     },
+     {
+      "name": "Marcus Rashford",
+      "short": "Rashford",
+      "number": 11,
+      "pos": "LW"
+     },
+     {
+      "name": "Eberechi Eze",
+      "short": "Eze",
+      "number": 21,
+      "pos": "CM"
+     },
+     {
+      "name": "Morgan Rogers",
+      "short": "Rogers",
+      "number": 17,
+      "pos": "CM"
+     },
+     {
+      "name": "Bukayo Saka",
+      "short": "Saka",
+      "number": 7,
+      "pos": "RW"
+     },
+     {
+      "name": "Ivan Toney",
+      "short": "Toney",
+      "number": 22,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 46,
+     "in": "Ousmane Dembélé",
+     "out": "Rayan Cherki"
+    },
+    {
+     "side": "home",
+     "minute": 46,
+     "in": "Bradley Barcola",
+     "out": "Désiré Doué"
+    },
+    {
+     "side": "home",
+     "minute": 46,
+     "in": "Lucas Digne",
+     "out": "Theo Hernández"
+    },
+    {
+     "side": "home",
+     "minute": 46,
+     "in": "Dayot Upamecano",
+     "out": "Ibrahima Konaté"
+    },
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Ollie Watkins",
+     "out": "Marcus Rashford"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Elliot Anderson",
+     "out": "Ivan Toney"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Jude Bellingham",
+     "out": "Eberechi Eze"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Reece James",
+     "out": "Jarell Quansah"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "in": "Jules Koundé",
+     "out": "Malo Gusto"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Trevoh Chalobah",
+     "out": "Marc Guéhi"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Marcus Thuram",
+     "Robin Risser",
+     "Manu Koné",
+     "Maghnes Akliouche",
+     "Jean-Philippe Mateta",
+     "Brice Samba",
+     "William Saliba",
+     "N'Golo Kanté",
+     "Lucas Hernández",
+     "Aurélien Tchouaméni"
+    ],
+    "away": [
+     "Jordan Pickford",
+     "Harry Kane",
+     "Nico O'Reilly",
+     "James Trafford",
+     "John Stones",
+     "Dan Burn",
+     "Jordan Henderson",
+     "Noni Madueke",
+     "Anthony Gordon"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 3,
+     "scorer": "Declan Rice",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Declan Rice opened the scoring inside three minutes with a right-footed shot from outside the box into the bottom right corner.",
+     "shot": {
+      "x": 75,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 18,
+     "scorer": "Ezri Konsa",
+     "assist": "Declan Rice",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "Declan Rice's corner was headed in by Ezri Konsa from the centre of the box.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 37,
+     "scorer": "Bukayo Saka",
+     "assist": "Marcus Rashford",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "England broke quickly and Marcus Rashford set up Bukayo Saka, who finished left-footed from the left side of the box.",
+     "shot": {
+      "x": 86,
+      "y": 32,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "scorer": "Bukayo Saka",
+     "assist": "Eberechi Eze",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Eberechi Eze's through ball sent Saka clear to score left-footed into the bottom right corner in first-half stoppage time.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 48,
+     "scorer": "Kylian Mbappé",
+     "assist": "Michael Olise",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "On a counter-attack, Michael Olise's through ball found Kylian Mbappé, who finished left-footed into the bottom right corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 54,
+     "scorer": "Bradley Barcola",
+     "assist": "Kylian Mbappé",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Mbappé slipped a through ball to substitute Bradley Barcola, who scored right-footed into the bottom left corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 66,
+     "scorer": "Kylian Mbappé",
+     "assist": "Michael Olise",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Olise set up Mbappé again for a left-footed finish from the centre of the box to make it 3-4.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 87,
+     "scorer": "Bukayo Saka",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "left",
+     "description": "Djed Spence was fouled in the box by Malo Gusto and Saka converted the penalty left-footed into the bottom right corner to complete his hat-trick.",
+     "shot": {
+      "x": 89,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "scorer": "Ousmane Dembélé",
+     "assist": "Dayot Upamecano",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "On a fast break, Dayot Upamecano set up Ousmane Dembélé for a left-footed finish into the bottom left corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "scorer": "Jude Bellingham",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Jude Bellingham sealed the win on a fast break with a right-footed shot from the centre of the box into the bottom right corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [],
+   "var": [],
+   "stats": {
+    "possession": [
+     45.9,
+     54.1
+    ],
+    "shots": [
+     19,
+     19
+    ],
+    "onTarget": [
+     9,
+     11
+    ],
+    "corners": [
+     3,
+     4
+    ],
+    "fouls": [
+     14,
+     8
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760516",
+    "https://www.espn.com/soccer/match/_/gameId/760516",
+    "https://www.thescore.com/news/3567778",
+    "https://iol.co.za/2026-07-19-absolute-madness-england-edge-france-in-historic-10-goal-world-cup-third-place-thriller/",
+    "https://www.itv.com/news/2026-07-18/england-v-france-world-cup-third-place-play-off-kick-off-time-latest-updates"
+   ],
+   "notes": "England won the third-place match 6-4 in 90 minutes after leading 4-0 at half-time. Bukayo Saka scored a hat-trick; Kylian Mbappé scored twice. It was Didier Deschamps' last match as France coach.",
+   "league": "FIFA World Cup",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+   "home_country": "FR",
+   "away_country": "GB"
+  },
+  {
+   "id": "spain-argentina-2026-07-19",
+   "found": true,
+   "competition": "FIFA World Cup",
+   "round": "Final",
+   "date": "2026-07-19",
+   "kickoff_local": "15:00",
+   "home": "Spain",
+   "away": "Argentina",
+   "score": [
+    1,
+    0
+   ],
+   "venue": {
+    "name": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "attendance": 80663
+   },
+   "referee": {
+    "name": "Slavko Vinčić",
+    "country": "Slovenia"
+   },
+   "coaches": {
+    "home": "Luis de la Fuente",
+    "away": "Lionel Scaloni"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-4-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Unai Simón",
+      "short": "Simón",
+      "number": 23,
+      "pos": "GK"
+     },
+     {
+      "name": "Marc Cucurella",
+      "short": "Cucurella",
+      "number": 24,
+      "pos": "LB"
+     },
+     {
+      "name": "Aymeric Laporte",
+      "short": "Laporte",
+      "number": 14,
+      "pos": "CB"
+     },
+     {
+      "name": "Pau Cubarsí",
+      "short": "Cubarsí",
+      "number": 22,
+      "pos": "CB"
+     },
+     {
+      "name": "Pedro Porro",
+      "short": "Porro",
+      "number": 12,
+      "pos": "RB"
+     },
+     {
+      "name": "Fabián Ruiz",
+      "short": "Ruiz",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Rodri",
+      "short": "Rodri",
+      "number": 16,
+      "pos": "DM"
+     },
+     {
+      "name": "Álex Baena",
+      "short": "Baena",
+      "number": 15,
+      "pos": "LW"
+     },
+     {
+      "name": "Dani Olmo",
+      "short": "Olmo",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Lamine Yamal",
+      "short": "Yamal",
+      "number": 19,
+      "pos": "RW"
+     },
+     {
+      "name": "Mikel Oyarzabal",
+      "short": "Oyarzabal",
+      "number": 21,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Emiliano Martínez",
+      "short": "E. Martínez",
+      "number": 23,
+      "pos": "GK"
+     },
+     {
+      "name": "Nicolás Tagliafico",
+      "short": "Tagliafico",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Lisandro Martínez",
+      "short": "Lisandro",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Cristian Romero",
+      "short": "Romero",
+      "number": 13,
+      "pos": "CB"
+     },
+     {
+      "name": "Gonzalo Montiel",
+      "short": "Montiel",
+      "number": 4,
+      "pos": "RB"
+     },
+     {
+      "name": "Nico González",
+      "short": "González",
+      "number": 15,
+      "pos": "LW"
+     },
+     {
+      "name": "Alexis Mac Allister",
+      "short": "Mac Allister",
+      "number": 20,
+      "pos": "CM"
+     },
+     {
+      "name": "Enzo Fernández",
+      "short": "Fernández",
+      "number": 24,
+      "pos": "CM"
+     },
+     {
+      "name": "Rodrigo De Paul",
+      "short": "De Paul",
+      "number": 7,
+      "pos": "RW"
+     },
+     {
+      "name": "Julián Álvarez",
+      "short": "Álvarez",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Lionel Messi",
+      "short": "Messi",
+      "number": 10,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 44,
+     "in": "Nicolás Otamendi",
+     "out": "Lisandro Martínez"
+    },
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Leandro Paredes",
+     "out": "Nico González"
+    },
+    {
+     "side": "away",
+     "minute": 58,
+     "in": "Nahuel Molina",
+     "out": "Gonzalo Montiel"
+    },
+    {
+     "side": "home",
+     "minute": 62,
+     "in": "Ferran Torres",
+     "out": "Mikel Oyarzabal"
+    },
+    {
+     "side": "home",
+     "minute": 62,
+     "in": "Pedri",
+     "out": "Fabián Ruiz"
+    },
+    {
+     "side": "away",
+     "minute": 70,
+     "in": "Facundo Medina",
+     "out": "Cristian Romero"
+    },
+    {
+     "side": "away",
+     "minute": 70,
+     "in": "Giuliano Simeone",
+     "out": "Rodrigo De Paul"
+    },
+    {
+     "side": "home",
+     "minute": 75,
+     "in": "Nico Williams",
+     "out": "Álex Baena"
+    },
+    {
+     "side": "home",
+     "minute": 75,
+     "in": "Mikel Merino",
+     "out": "Dani Olmo"
+    },
+    {
+     "side": "home",
+     "minute": 99,
+     "in": "Martín Zubimendi",
+     "out": "Rodri"
+    },
+    {
+     "side": "home",
+     "minute": 99,
+     "in": "Eric García",
+     "out": "Aymeric Laporte"
+    },
+    {
+     "side": "away",
+     "minute": 102,
+     "in": "Marcos Senesi",
+     "out": "Julián Álvarez"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Alejandro Grimaldo",
+     "Borja Iglesias",
+     "Víctor Muñoz",
+     "Marc Pubill",
+     "Gavi",
+     "David Raya",
+     "Marcos Llorente",
+     "Yéremy Pino",
+     "Joan García"
+    ],
+    "away": [
+     "Exequiel Palacios",
+     "Valentín Barco",
+     "Gerónimo Rulli",
+     "Giovani Lo Celso",
+     "José Manuel López",
+     "Thiago Almada",
+     "Lautaro Martínez",
+     "Juan Musso",
+     "Nico Paz"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 106,
+     "scorer": "Ferran Torres",
+     "assist": "Nico Williams",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Nico Williams nodded the ball on and Ferran Torres struck a left-footed shot from the centre of the box into the high centre of the goal.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 41,
+     "player": "Lisandro Martínez",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 52,
+     "player": "Leandro Paredes",
+     "card": "yellow",
+     "reason": "Not specified by source"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "player": "Enzo Fernández",
+     "card": "yellow",
+     "reason": "Not specified by source"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Cristian Romero",
+     "card": "yellow",
+     "reason": "Not specified by source"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Enzo Fernández",
+     "card": "red",
+     "reason": "Second yellow card (bad foul)"
+    },
+    {
+     "side": "away",
+     "minute": 111,
+     "player": "Alexis Mac Allister",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     65.1,
+     34.9
+    ],
+    "shots": [
+     20,
+     2
+    ],
+    "onTarget": [
+     12,
+     0
+    ],
+    "corners": [
+     9,
+     4
+    ],
+    "fouls": [
+     21,
+     25
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760517",
+    "https://www.espn.com/soccer/match/_/gameId/760517",
+    "https://www.nbcnewyork.com/world-cup/spain-argentina-final-messi-yamal-score/",
+    "https://santamariatimes.com/ap/sports/ferran-torres-scores-in-extra-time-as-spain-beats-argentina-1-0-to-win-the/article_a8e21e5c-8c25-54ce-b065-7ebb7225d56f.html",
+    "https://foot-africa.com/en/news/2026-world-cup-final-summary-goals-and-result-of-spain-vs-argentina-1-0-1287025/"
+   ],
+   "notes": "Spain won the World Cup 1-0 after extra time (0-0 after 90 minutes), their second title. Argentina played with ten men from 90+3' after Enzo Fernández's second yellow card; Ferran Torres scored in the 106th minute.",
+   "league": "FIFA World Cup",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+   "home_country": "ES",
+   "away_country": "AR"
+  }
+ ]
+}

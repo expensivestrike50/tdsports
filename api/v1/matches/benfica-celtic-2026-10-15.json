@@ -1,0 +1,845 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "benfica-celtic-2026-10-15",
+    "date": "2026-10-15",
+    "kickoff": "20:00",
+    "competition": "UEFA Europa League",
+    "round": "League phase, matchday 2",
+    "status": "FT",
+    "home": {
+      "name": "Benfica",
+      "id": "benfica",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
+      "country": "PT"
+    },
+    "away": {
+      "name": "Celtic",
+      "id": "celtic",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estádio da Luz",
+      "city": "Lisbon",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "marco-silva",
+          "name": "Marco Silva",
+          "short": "Silva",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "anatoliy-trubin",
+            "name": "Anatoliy Trubin",
+            "short": "Trubin",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "samuel-dahl",
+            "name": "Samuel Dahl",
+            "short": "Dahl",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "clement-lenglet",
+            "name": "Clément Lenglet",
+            "short": "Lenglet",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7
+          },
+          {
+            "id": "tomas-araujo",
+            "name": "Tomás Araújo",
+            "short": "Araújo",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.6
+          },
+          {
+            "id": "alexander-bah",
+            "name": "Alexander Bah",
+            "short": "Bah",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 8.2
+          },
+          {
+            "id": "joao-palhinha",
+            "name": "João Palhinha",
+            "short": "Palhinha",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.7
+          },
+          {
+            "id": "fredrik-aursnes",
+            "name": "Fredrik Aursnes",
+            "short": "Aursnes",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.7
+          },
+          {
+            "id": "gianluca-prestianni",
+            "name": "Gianluca Prestianni",
+            "short": "Prestianni",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.7
+          },
+          {
+            "id": "georgiy-sudakov",
+            "name": "Georgiy Sudakov",
+            "short": "Sudakov",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "dodi-lukebakio",
+            "name": "Dodi Lukébakio",
+            "short": "Lukébakio",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.2
+          },
+          {
+            "id": "jhon-duran",
+            "name": "Jhon Durán",
+            "short": "Durán",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 8.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "claudio-echeverri",
+            "name": "Claudio Echeverri",
+            "short": "Echeverri",
+            "position": "AM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "souffian-el-karouani",
+            "name": "Souffian El Karouani",
+            "short": "Karouani",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "vangelis-pavlidis",
+            "name": "Vangelis Pavlidis",
+            "short": "Pavlidis",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "andreas-schjelderup",
+            "name": "Andreas Schjelderup",
+            "short": "Schjelderup",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "alessandro-circati",
+            "name": "Alessandro Circati",
+            "short": "Circati",
+            "position": "RB",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "anisio-cabral",
+            "name": "Anísio Cabral",
+            "short": "Cabral",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "manu-silva",
+            "name": "Manu Silva",
+            "short": "Silva",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "leandro-barreiro",
+            "name": "Leandro Barreiro",
+            "short": "Barreiro",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "samuel-soares",
+            "name": "Samuel Soares",
+            "short": "Soares",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gabriel-indio",
+            "name": "Gabriel Índio",
+            "short": "Índio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tiago-dias-freitas",
+            "name": "Tiago Dias Freitas",
+            "short": "Freitas",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "martin-o-neill",
+          "name": "Martin O'Neill",
+          "short": "O'Neill",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "viljami-sinisalo",
+            "name": "Viljami Sinisalo",
+            "short": "Sinisalo",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "kieran-tierney",
+            "name": "Kieran Tierney",
+            "short": "Tierney",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "auston-trusty",
+            "name": "Auston Trusty",
+            "short": "Trusty",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7
+          },
+          {
+            "id": "dane-murray",
+            "name": "Dane Murray",
+            "short": "Murray",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.6
+          },
+          {
+            "id": "colby-donovan",
+            "name": "Colby Donovan",
+            "short": "Donovan",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.2
+          },
+          {
+            "id": "mika-baur",
+            "name": "Mika Baur",
+            "short": "Baur",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 6.4
+          },
+          {
+            "id": "callum-mcgregor",
+            "name": "Callum McGregor",
+            "short": "McGregor",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 6.2
+          },
+          {
+            "id": "sebastian-tounekti",
+            "name": "Sebastian Tounekti",
+            "short": "Tounekti",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.9
+          },
+          {
+            "id": "oliver-srensen",
+            "name": "Oliver Sørensen",
+            "short": "Sørensen",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "camilo-duran",
+            "name": "Camilo Durán",
+            "short": "Durán",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 8.2
+          },
+          {
+            "id": "kasper-hgh",
+            "name": "Kasper Høgh",
+            "short": "Høgh",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "haissem-hassan",
+            "name": "Haissem Hassan",
+            "short": "Hassan",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.9
+          },
+          {
+            "id": "callum-osmand",
+            "name": "Callum Osmand",
+            "short": "Osmand",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "benjamin-nygren",
+            "name": "Benjamin Nygren",
+            "short": "Nygren",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "alex-oxlade-chamberlain",
+            "name": "Alex Oxlade-Chamberlain",
+            "short": "Oxlade-Chamberlain",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "jordan-lotomba",
+            "name": "Jordan Lotomba",
+            "short": "Lotomba",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "liam-scales",
+            "name": "Liam Scales",
+            "short": "Scales",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "liam-kennedy",
+            "name": "Liam Kennedy",
+            "short": "Kennedy",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lucas-clearie",
+            "name": "Lucas Clearie",
+            "short": "Clearie",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "anthony-ralston",
+            "name": "Anthony Ralston",
+            "short": "Ralston",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luke-mccowan",
+            "name": "Luke McCowan",
+            "short": "McCowan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "sam-johnstone",
+            "name": "Sam Johnstone",
+            "short": "Johnstone",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "james-forrest",
+            "name": "James Forrest",
+            "short": "Forrest",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 5,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "jhon-duran",
+          "name": "Jhon Durán",
+          "short": "Durán",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Jhon Durán converted the penalty with a left-footed shot to the centre of the goal."
+      },
+      {
+        "minute": 23,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "alexander-bah",
+          "name": "Alexander Bah",
+          "short": "Bah",
+          "position": "RB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "gianluca-prestianni",
+          "name": "Gianluca Prestianni",
+          "short": "Prestianni",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Gianluca Prestianni provided the assist with a through ball; Alexander Bah scored with a right-footed shot from the centre of the box to the top left corner."
+      },
+      {
+        "minute": 36,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "jhon-duran",
+          "name": "Jhon Durán",
+          "short": "Durán",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "gianluca-prestianni",
+          "name": "Gianluca Prestianni",
+          "short": "Prestianni",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Gianluca Prestianni provided the assist with a through ball following a fast break; Jhon Durán scored with a left-footed shot from a difficult angle on the left to the bottom left corner."
+      },
+      {
+        "minute": 44,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "samuel-dahl",
+          "name": "Samuel Dahl",
+          "short": "Dahl",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "haissem-hassan",
+          "name": "Haissem Hassan",
+          "short": "Hassan",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kasper-hgh",
+          "name": "Kasper Høgh",
+          "short": "Høgh",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "callum-osmand",
+          "name": "Callum Osmand",
+          "short": "Osmand",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sebastian-tounekti",
+          "name": "Sebastian Tounekti",
+          "short": "Tounekti",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 57,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "benjamin-nygren",
+          "name": "Benjamin Nygren",
+          "short": "Nygren",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "oliver-srensen",
+          "name": "Oliver Sørensen",
+          "short": "Sørensen",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 57,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alex-oxlade-chamberlain",
+          "name": "Alex Oxlade-Chamberlain",
+          "short": "Oxlade-Chamberlain",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mika-baur",
+          "name": "Mika Baur",
+          "short": "Baur",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "camilo-duran",
+          "name": "Camilo Durán",
+          "short": "Durán",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "3 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "haissem-hassan",
+          "name": "Haissem Hassan",
+          "short": "Hassan",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Haissem Hassan provided the assist with a cross; Camilo Durán scored with a header from very close range to the bottom right corner."
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "claudio-echeverri",
+          "name": "Claudio Echeverri",
+          "short": "Echeverri",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "georgiy-sudakov",
+          "name": "Georgiy Sudakov",
+          "short": "Sudakov",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "souffian-el-karouani",
+          "name": "Souffian El Karouani",
+          "short": "Karouani",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "samuel-dahl",
+          "name": "Samuel Dahl",
+          "short": "Dahl",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "vangelis-pavlidis",
+          "name": "Vangelis Pavlidis",
+          "short": "Pavlidis",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jhon-duran",
+          "name": "Jhon Durán",
+          "short": "Durán",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "andreas-schjelderup",
+          "name": "Andreas Schjelderup",
+          "short": "Schjelderup",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "dodi-lukebakio",
+          "name": "Dodi Lukébakio",
+          "short": "Lukébakio",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "alexander-bah",
+          "name": "Alexander Bah",
+          "short": "Bah",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jordan-lotomba",
+          "name": "Jordan Lotomba",
+          "short": "Lotomba",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "colby-donovan",
+          "name": "Colby Donovan",
+          "short": "Donovan",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "alessandro-circati",
+          "name": "Alessandro Circati",
+          "short": "Circati",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alexander-bah",
+          "name": "Alexander Bah",
+          "short": "Bah",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "joao-palhinha",
+          "name": "João Palhinha",
+          "short": "Palhinha",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 89,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "vangelis-pavlidis",
+          "name": "Vangelis Pavlidis",
+          "short": "Pavlidis",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "4 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "tomas-araujo",
+          "name": "Tomás Araújo",
+          "short": "Araújo",
+          "position": "CB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Tomás Araújo provided the assist with a through ball; Vangelis Pavlidis scored with a right-footed shot from outside the box to the bottom left corner."
+      }
+    ],
+    "stats": {
+      "shots": [
+        26,
+        14
+      ],
+      "onTarget": [
+        7,
+        7
+      ],
+      "corners": [
+        8,
+        6
+      ],
+      "fouls": [
+        9,
+        7
+      ],
+      "possession": 53
+    },
+    "attendance": 58870,
+    "referee": {
+      "name": "Nikola Dabanović",
+      "country": "Montenegro"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/summary?event=401915562",
+      "https://www.espn.com/soccer/match/_/gameId/401915562",
+      "https://match.uefa.com/v5/matches?competitionId=14&fromDate=2026-10-15&toDate=2026-10-15",
+      "https://match.uefa.com/v5/matches/2050075/lineups"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

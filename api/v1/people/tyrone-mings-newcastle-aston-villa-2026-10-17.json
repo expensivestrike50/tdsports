@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "tyrone-mings-newcastle-aston-villa-2026-10-17",
+    "name": "Tyrone Mings",
+    "short": "Mings",
+    "position": "CB",
+    "photo": "assets/photos/people/tyrone-mings.jpg",
+    "matches": [
+      {
+        "match": "newcastle-aston-villa-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Aston Villa",
+        "role": "starter"
+      }
+    ]
+  }
+}

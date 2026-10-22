@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "senne-lammens-spain-belgium-2026-07-10",
+    "name": "Senne Lammens",
+    "short": "Lammens",
+    "position": "GK",
+    "photo": "assets/photos/people/senne-lammens.jpg",
+    "matches": [
+      {
+        "match": "spain-belgium-2026-07-10",
+        "date": "2026-07-10",
+        "team": "Belgium",
+        "role": "bench"
+      }
+    ]
+  }
+}

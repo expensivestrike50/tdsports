@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "jose-bordalas",
+    "name": "José Bordalás",
+    "short": "Bordalás",
+    "position": "Coach",
+    "photo": null,
+    "matches": [
+      {
+        "match": "getafe-rayo-2026-10-19",
+        "date": "2026-10-19",
+        "team": "Getafe",
+        "role": "coach"
+      }
+    ]
+  }
+}

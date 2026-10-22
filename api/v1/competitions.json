@@ -1,0 +1,65 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": [
+    {
+      "id": "premier-league",
+      "name": "Premier League",
+      "country": "England",
+      "logo": "assets/leagues/23.png"
+    },
+    {
+      "id": "champions-league",
+      "name": "Champions League",
+      "country": "Europe",
+      "logo": "assets/leagues/2.png"
+    },
+    {
+      "id": "laliga",
+      "name": "LaLiga",
+      "country": "Spain",
+      "logo": "assets/leagues/15.png"
+    },
+    {
+      "id": "fifa-world-cup",
+      "name": "FIFA World Cup",
+      "country": "International",
+      "logo": "assets/leagues/4.png"
+    },
+    {
+      "id": "bundesliga",
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "assets/leagues/10.png"
+    },
+    {
+      "id": "mls",
+      "name": "MLS",
+      "country": "United States",
+      "logo": "assets/leagues/19.png"
+    },
+    {
+      "id": "serie-a",
+      "name": "Serie A",
+      "country": "Italy",
+      "logo": "assets/leagues/12.png"
+    },
+    {
+      "id": "europa-league",
+      "name": "Europa League",
+      "country": "Europe",
+      "logo": "assets/leagues/2310.png"
+    },
+    {
+      "id": "ligue-1",
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "assets/leagues/9.png"
+    },
+    {
+      "id": "liga-mx",
+      "name": "Liga MX",
+      "country": "Mexico",
+      "logo": "assets/leagues/22.png"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "florian-neuhaus",
+    "name": "Florian Neuhaus",
+    "short": "Neuhaus",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "gladbach-hoffenheim-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Gladbach",
+        "role": "starter"
+      }
+    ]
+  }
+}

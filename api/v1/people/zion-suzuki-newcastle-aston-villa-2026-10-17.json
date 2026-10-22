@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "zion-suzuki-newcastle-aston-villa-2026-10-17",
+    "name": "Zion Suzuki",
+    "short": "Suzuki",
+    "position": "GK",
+    "photo": "assets/photos/people/zion-suzuki.jpg",
+    "matches": [
+      {
+        "match": "newcastle-aston-villa-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Aston Villa",
+        "role": "starter"
+      }
+    ]
+  }
+}

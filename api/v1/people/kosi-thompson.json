@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "kosi-thompson",
+    "name": "Kosi Thompson",
+    "short": "Thompson",
+    "position": "RB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "portland-colorado-rapids-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Colorado Rapids",
+        "role": "starter"
+      }
+    ]
+  }
+}

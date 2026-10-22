@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "mikel-merino-spain-belgium-2026-07-10",
+    "name": "Mikel Merino",
+    "short": "Merino",
+    "position": "AM",
+    "photo": "assets/photos/people/mikel-merino.jpg",
+    "matches": [
+      {
+        "match": "spain-belgium-2026-07-10",
+        "date": "2026-07-10",
+        "team": "Spain",
+        "role": "bench"
+      }
+    ]
+  }
+}

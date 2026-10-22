@@ -1,0 +1,885 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "spain-argentina-2026-07-19",
+    "date": "2026-07-19",
+    "kickoff": "15:00",
+    "competition": "FIFA World Cup",
+    "round": "Final",
+    "status": "FT",
+    "home": {
+      "name": "Spain",
+      "id": "spain",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Argentina",
+      "id": "argentina",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "country": "AR"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "MetLife Stadium",
+      "city": "East Rutherford, New Jersey",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "luis-de-la-fuente-spain-argentina-2026-07-19",
+          "name": "Luis de la Fuente",
+          "short": "Fuente",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "unai-simon-spain-argentina-2026-07-19",
+            "name": "Unai Simón",
+            "short": "Simón",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "marc-cucurella-spain-argentina-2026-07-19",
+            "name": "Marc Cucurella",
+            "short": "Cucurella",
+            "position": "LB",
+            "photo": "assets/photos/people/marc-cucurella.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "aymeric-laporte-spain-argentina-2026-07-19",
+            "name": "Aymeric Laporte",
+            "short": "Laporte",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.6
+          },
+          {
+            "id": "pau-cubarsi-spain-argentina-2026-07-19",
+            "name": "Pau Cubarsí",
+            "short": "Cubarsí",
+            "position": "CB",
+            "photo": "assets/photos/people/pau-cubarsi.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 7.6
+          },
+          {
+            "id": "pedro-porro-spain-argentina-2026-07-19",
+            "name": "Pedro Porro",
+            "short": "Porro",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "fabian-ruiz-spain-argentina-2026-07-19",
+            "name": "Fabián Ruiz",
+            "short": "Ruiz",
+            "position": "DM",
+            "photo": "assets/photos/people/fabian-ruiz.jpg",
+            "x": 27,
+            "y": 30,
+            "rating": 7.5
+          },
+          {
+            "id": "rodri-spain-argentina-2026-07-19",
+            "name": "Rodri",
+            "short": "Rodri",
+            "position": "DM",
+            "photo": "assets/photos/people/rodri.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 6.6
+          },
+          {
+            "id": "alex-baena-spain-argentina-2026-07-19",
+            "name": "Álex Baena",
+            "short": "Baena",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.1
+          },
+          {
+            "id": "dani-olmo-spain-argentina-2026-07-19",
+            "name": "Dani Olmo",
+            "short": "Olmo",
+            "position": "AM",
+            "photo": "assets/photos/people/dani-olmo.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "lamine-yamal-spain-argentina-2026-07-19",
+            "name": "Lamine Yamal",
+            "short": "Yamal",
+            "position": "RW",
+            "photo": "assets/photos/people/lamine-yamal.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 7
+          },
+          {
+            "id": "mikel-oyarzabal-spain-argentina-2026-07-19",
+            "name": "Mikel Oyarzabal",
+            "short": "Oyarzabal",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "ferran-torres-spain-argentina-2026-07-19",
+            "name": "Ferran Torres",
+            "short": "Torres",
+            "position": "ST",
+            "photo": "assets/photos/people/ferran-torres.jpg",
+            "rating": 8.3
+          },
+          {
+            "id": "pedri-spain-argentina-2026-07-19",
+            "name": "Pedri",
+            "short": "Pedri",
+            "position": "DM",
+            "photo": "assets/photos/people/pedri.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "nico-williams-spain-argentina-2026-07-19",
+            "name": "Nico Williams",
+            "short": "Williams",
+            "position": "LW",
+            "photo": null,
+            "rating": 8.1
+          },
+          {
+            "id": "mikel-merino-spain-argentina-2026-07-19",
+            "name": "Mikel Merino",
+            "short": "Merino",
+            "position": "AM",
+            "photo": "assets/photos/people/mikel-merino.jpg",
+            "rating": 6.3
+          },
+          {
+            "id": "martin-zubimendi-spain-argentina-2026-07-19",
+            "name": "Martín Zubimendi",
+            "short": "Zubimendi",
+            "position": "DM",
+            "photo": "assets/photos/people/martin-zubimendi.jpg",
+            "rating": 7.4
+          },
+          {
+            "id": "eric-garcia-spain-argentina-2026-07-19",
+            "name": "Eric García",
+            "short": "García",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "alejandro-grimaldo-spain-argentina-2026-07-19",
+            "name": "Alejandro Grimaldo",
+            "short": "Grimaldo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "borja-iglesias-spain-argentina-2026-07-19",
+            "name": "Borja Iglesias",
+            "short": "Iglesias",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "victor-munoz-spain-argentina-2026-07-19",
+            "name": "Víctor Muñoz",
+            "short": "Muñoz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marc-pubill-spain-argentina-2026-07-19",
+            "name": "Marc Pubill",
+            "short": "Pubill",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gavi-spain-argentina-2026-07-19",
+            "name": "Gavi",
+            "short": "Gavi",
+            "position": "CM",
+            "photo": "assets/photos/people/gavi.jpg",
+            "rating": null
+          },
+          {
+            "id": "david-raya-spain-argentina-2026-07-19",
+            "name": "David Raya",
+            "short": "Raya",
+            "position": "CM",
+            "photo": "assets/photos/people/david-raya.jpg",
+            "rating": null
+          },
+          {
+            "id": "marcos-llorente-spain-argentina-2026-07-19",
+            "name": "Marcos Llorente",
+            "short": "Llorente",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "yeremy-pino-spain-argentina-2026-07-19",
+            "name": "Yéremy Pino",
+            "short": "Pino",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "lionel-scaloni-spain-argentina-2026-07-19",
+          "name": "Lionel Scaloni",
+          "short": "Scaloni",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "emiliano-martinez-spain-argentina-2026-07-19",
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "nicolas-tagliafico-spain-argentina-2026-07-19",
+            "name": "Nicolás Tagliafico",
+            "short": "Tagliafico",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "lisandro-martinez-spain-argentina-2026-07-19",
+            "name": "Lisandro Martínez",
+            "short": "Lisandro",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "cristian-romero-spain-argentina-2026-07-19",
+            "name": "Cristian Romero",
+            "short": "Romero",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.6
+          },
+          {
+            "id": "gonzalo-montiel-spain-argentina-2026-07-19",
+            "name": "Gonzalo Montiel",
+            "short": "Montiel",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.3
+          },
+          {
+            "id": "nico-gonzalez-spain-argentina-2026-07-19",
+            "name": "Nico González",
+            "short": "González",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 6.2
+          },
+          {
+            "id": "alexis-mac-allister-spain-argentina-2026-07-19",
+            "name": "Alexis Mac Allister",
+            "short": "Mac Allister",
+            "position": "CM",
+            "photo": "assets/photos/people/alexis-mac-allister.jpg",
+            "x": 68,
+            "y": 62,
+            "rating": 7.3
+          },
+          {
+            "id": "enzo-fernandez-spain-argentina-2026-07-19",
+            "name": "Enzo Fernández",
+            "short": "Fernández",
+            "position": "CM",
+            "photo": "assets/photos/people/enzo-fernandez.jpg",
+            "x": 68,
+            "y": 36,
+            "rating": 5.3
+          },
+          {
+            "id": "rodrigo-de-paul-spain-argentina-2026-07-19",
+            "name": "Rodrigo De Paul",
+            "short": "De Paul",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 7.3
+          },
+          {
+            "id": "julian-alvarez-spain-argentina-2026-07-19",
+            "name": "Julián Álvarez",
+            "short": "Álvarez",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 7
+          },
+          {
+            "id": "lionel-messi-spain-argentina-2026-07-19",
+            "name": "Lionel Messi",
+            "short": "Messi",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 7.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "nicolas-otamendi-spain-argentina-2026-07-19",
+            "name": "Nicolás Otamendi",
+            "short": "Otamendi",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "leandro-paredes-spain-argentina-2026-07-19",
+            "name": "Leandro Paredes",
+            "short": "Paredes",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "nahuel-molina-spain-argentina-2026-07-19",
+            "name": "Nahuel Molina",
+            "short": "Molina",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "facundo-medina-spain-argentina-2026-07-19",
+            "name": "Facundo Medina",
+            "short": "Medina",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "giuliano-simeone-spain-argentina-2026-07-19",
+            "name": "Giuliano Simeone",
+            "short": "Simeone",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "marcos-senesi-spain-argentina-2026-07-19",
+            "name": "Marcos Senesi",
+            "short": "Senesi",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "exequiel-palacios-spain-argentina-2026-07-19",
+            "name": "Exequiel Palacios",
+            "short": "Palacios",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "valentin-barco-spain-argentina-2026-07-19",
+            "name": "Valentín Barco",
+            "short": "Barco",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "geronimo-rulli-spain-argentina-2026-07-19",
+            "name": "Gerónimo Rulli",
+            "short": "Rulli",
+            "position": "CM",
+            "photo": "assets/photos/people/geronimo-rulli.jpg",
+            "rating": null
+          },
+          {
+            "id": "giovani-lo-celso-spain-argentina-2026-07-19",
+            "name": "Giovani Lo Celso",
+            "short": "Celso",
+            "position": "CM",
+            "photo": "assets/photos/people/giovani-lo-celso.jpg",
+            "rating": null
+          },
+          {
+            "id": "jose-manuel-lopez-spain-argentina-2026-07-19",
+            "name": "José Manuel López",
+            "short": "López",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "thiago-almada-spain-argentina-2026-07-19",
+            "name": "Thiago Almada",
+            "short": "Almada",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lautaro-martinez-spain-argentina-2026-07-19",
+            "name": "Lautaro Martínez",
+            "short": "Martínez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "juan-musso-spain-argentina-2026-07-19",
+            "name": "Juan Musso",
+            "short": "Musso",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nico-paz-spain-argentina-2026-07-19",
+            "name": "Nico Paz",
+            "short": "Paz",
+            "position": "CM",
+            "photo": "assets/photos/people/nico-paz.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 41,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "lisandro-martinez-spain-argentina-2026-07-19",
+          "name": "Lisandro Martínez",
+          "short": "Lisandro",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 44,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "nicolas-otamendi-spain-argentina-2026-07-19",
+          "name": "Nicolás Otamendi",
+          "short": "Otamendi",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lisandro-martinez-spain-argentina-2026-07-19",
+          "name": "Lisandro Martínez",
+          "short": "Lisandro",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "leandro-paredes-spain-argentina-2026-07-19",
+          "name": "Leandro Paredes",
+          "short": "Paredes",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nico-gonzalez-spain-argentina-2026-07-19",
+          "name": "Nico González",
+          "short": "González",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 52,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "leandro-paredes-spain-argentina-2026-07-19",
+          "name": "Leandro Paredes",
+          "short": "Paredes",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Not specified by source"
+      },
+      {
+        "minute": 58,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "nahuel-molina-spain-argentina-2026-07-19",
+          "name": "Nahuel Molina",
+          "short": "Molina",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gonzalo-montiel-spain-argentina-2026-07-19",
+          "name": "Gonzalo Montiel",
+          "short": "Montiel",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ferran-torres-spain-argentina-2026-07-19",
+          "name": "Ferran Torres",
+          "short": "Torres",
+          "position": "ST",
+          "photo": "assets/photos/people/ferran-torres.jpg"
+        },
+        "replaced": {
+          "id": "mikel-oyarzabal-spain-argentina-2026-07-19",
+          "name": "Mikel Oyarzabal",
+          "short": "Oyarzabal",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "pedri-spain-argentina-2026-07-19",
+          "name": "Pedri",
+          "short": "Pedri",
+          "position": "DM",
+          "photo": "assets/photos/people/pedri.jpg"
+        },
+        "replaced": {
+          "id": "fabian-ruiz-spain-argentina-2026-07-19",
+          "name": "Fabián Ruiz",
+          "short": "Ruiz",
+          "position": "DM",
+          "photo": "assets/photos/people/fabian-ruiz.jpg"
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "facundo-medina-spain-argentina-2026-07-19",
+          "name": "Facundo Medina",
+          "short": "Medina",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "cristian-romero-spain-argentina-2026-07-19",
+          "name": "Cristian Romero",
+          "short": "Romero",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "giuliano-simeone-spain-argentina-2026-07-19",
+          "name": "Giuliano Simeone",
+          "short": "Simeone",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rodrigo-de-paul-spain-argentina-2026-07-19",
+          "name": "Rodrigo De Paul",
+          "short": "De Paul",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nico-williams-spain-argentina-2026-07-19",
+          "name": "Nico Williams",
+          "short": "Williams",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alex-baena-spain-argentina-2026-07-19",
+          "name": "Álex Baena",
+          "short": "Baena",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mikel-merino-spain-argentina-2026-07-19",
+          "name": "Mikel Merino",
+          "short": "Merino",
+          "position": "AM",
+          "photo": "assets/photos/people/mikel-merino.jpg"
+        },
+        "replaced": {
+          "id": "dani-olmo-spain-argentina-2026-07-19",
+          "name": "Dani Olmo",
+          "short": "Olmo",
+          "position": "AM",
+          "photo": "assets/photos/people/dani-olmo.jpg"
+        }
+      },
+      {
+        "minute": 82,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "enzo-fernandez-spain-argentina-2026-07-19",
+          "name": "Enzo Fernández",
+          "short": "Fernández",
+          "position": "CM",
+          "photo": "assets/photos/people/enzo-fernandez.jpg"
+        },
+        "detail": "Not specified by source"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "cristian-romero-spain-argentina-2026-07-19",
+          "name": "Cristian Romero",
+          "short": "Romero",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Not specified by source"
+      },
+      {
+        "minute": 90,
+        "type": "red_card",
+        "team": "away",
+        "player": {
+          "id": "enzo-fernandez-spain-argentina-2026-07-19",
+          "name": "Enzo Fernández",
+          "short": "Fernández",
+          "position": "CM",
+          "photo": "assets/photos/people/enzo-fernandez.jpg"
+        },
+        "detail": "Second yellow card (bad foul)"
+      },
+      {
+        "minute": 99,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "martin-zubimendi-spain-argentina-2026-07-19",
+          "name": "Martín Zubimendi",
+          "short": "Zubimendi",
+          "position": "DM",
+          "photo": "assets/photos/people/martin-zubimendi.jpg"
+        },
+        "replaced": {
+          "id": "rodri-spain-argentina-2026-07-19",
+          "name": "Rodri",
+          "short": "Rodri",
+          "position": "DM",
+          "photo": "assets/photos/people/rodri.jpg"
+        }
+      },
+      {
+        "minute": 99,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "eric-garcia-spain-argentina-2026-07-19",
+          "name": "Eric García",
+          "short": "García",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "aymeric-laporte-spain-argentina-2026-07-19",
+          "name": "Aymeric Laporte",
+          "short": "Laporte",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 102,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "marcos-senesi-spain-argentina-2026-07-19",
+          "name": "Marcos Senesi",
+          "short": "Senesi",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "julian-alvarez-spain-argentina-2026-07-19",
+          "name": "Julián Álvarez",
+          "short": "Álvarez",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 106,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "ferran-torres-spain-argentina-2026-07-19",
+          "name": "Ferran Torres",
+          "short": "Torres",
+          "position": "ST",
+          "photo": "assets/photos/people/ferran-torres.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "nico-williams-spain-argentina-2026-07-19",
+          "name": "Nico Williams",
+          "short": "Williams",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Nico Williams nodded the ball on and Ferran Torres struck a left-footed shot from the centre of the box into the high centre of the goal."
+      },
+      {
+        "minute": 111,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "alexis-mac-allister-spain-argentina-2026-07-19",
+          "name": "Alexis Mac Allister",
+          "short": "Mac Allister",
+          "position": "CM",
+          "photo": "assets/photos/people/alexis-mac-allister.jpg"
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        20,
+        2
+      ],
+      "onTarget": [
+        12,
+        0
+      ],
+      "corners": [
+        9,
+        4
+      ],
+      "fouls": [
+        21,
+        25
+      ],
+      "possession": 65
+    },
+    "attendance": 80663,
+    "referee": {
+      "name": "Slavko Vinčić",
+      "country": "Slovenia"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760517",
+      "https://www.espn.com/soccer/match/_/gameId/760517",
+      "https://www.nbcnewyork.com/world-cup/spain-argentina-final-messi-yamal-score/",
+      "https://santamariatimes.com/ap/sports/ferran-torres-scores-in-extra-time-as-spain-beats-argentina-1-0-to-win-the/article_a8e21e5c-8c25-54ce-b065-7ebb7225d56f.html",
+      "https://foot-africa.com/en/news/2026-world-cup-final-summary-goals-and-result-of-spain-vs-argentina-1-0-1287025/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

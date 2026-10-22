@@ -1,0 +1,3256 @@
+{
+ "agent": "Liga MX agent",
+ "league": "Liga MX",
+ "generated": "2026-10-22T13:32:12Z",
+ "matches": [
+  {
+   "id": "atl-san-luis-queretaro-2026-10-20",
+   "found": true,
+   "competition": "Liga MX",
+   "round": "Apertura, jornada 13",
+   "date": "2026-10-20",
+   "kickoff_local": "19:00",
+   "home": "Atl. San Luis",
+   "away": "Queretaro",
+   "score": [
+    2,
+    1
+   ],
+   "venue": {
+    "name": "Estadio Libertad Financiera",
+    "city": "San Luis Potosi",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Adonai Escobedo González",
+    "country": "Mexico"
+   },
+   "coaches": {
+    "home": "Diego Mejía",
+    "away": "Esteban González"
+   },
+   "formations": {
+    "home": "3-4-2-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Gibrán Lajud",
+      "short": "Lajud",
+      "number": 25,
+      "pos": "GK"
+     },
+     {
+      "name": "Aldo Cruz",
+      "short": "Cruz",
+      "number": 18,
+      "pos": "CB"
+     },
+     {
+      "name": "Eduardo Águila",
+      "short": "Águila",
+      "number": 31,
+      "pos": "CB"
+     },
+     {
+      "name": "Robson Bambu",
+      "short": "Robson Bambu",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Anderson Duarte",
+      "short": "Duarte",
+      "number": 17,
+      "pos": "LB"
+     },
+     {
+      "name": "Sébastien Salles-Lamonge",
+      "short": "Salles-Lamonge",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Oscar Macías",
+      "short": "Macías",
+      "number": 21,
+      "pos": "CM"
+     },
+     {
+      "name": "Benjamín Galdames",
+      "short": "Galdames",
+      "number": 7,
+      "pos": "RB"
+     },
+     {
+      "name": "Rafa Llorente",
+      "short": "Llorente",
+      "number": 22,
+      "pos": "AM"
+     },
+     {
+      "name": "David Rodriguez",
+      "short": "Rodriguez",
+      "number": 11,
+      "pos": "AM"
+     },
+     {
+      "name": "Felipe Mora",
+      "short": "Mora",
+      "number": 99,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Guillermo Allison",
+      "short": "Allison",
+      "number": 25,
+      "pos": "GK"
+     },
+     {
+      "name": "Daniel Parra",
+      "short": "Parra",
+      "number": 27,
+      "pos": "LB"
+     },
+     {
+      "name": "Lucas Abascia",
+      "short": "Abascia",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Carlos Villanueva",
+      "short": "Villanueva",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Bayron Duarte",
+      "short": "Duarte",
+      "number": 24,
+      "pos": "RB"
+     },
+     {
+      "name": "Bernardo Parra",
+      "short": "Parra",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Carlo García",
+      "short": "García",
+      "number": 4,
+      "pos": "DM"
+     },
+     {
+      "name": "Paulo Victor",
+      "short": "Victor",
+      "number": 12,
+      "pos": "LW"
+     },
+     {
+      "name": "Mateo Coronel",
+      "short": "Coronel",
+      "number": 11,
+      "pos": "AM"
+     },
+     {
+      "name": "Enzo Giménez",
+      "short": "Giménez",
+      "number": 16,
+      "pos": "RW"
+     },
+     {
+      "name": "Ali Avila",
+      "short": "Avila",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 38,
+     "in": "Iker Benito",
+     "out": "Paulo Victor"
+    },
+    {
+     "side": "home",
+     "minute": 59,
+     "in": "Johan Caicedo",
+     "out": "Oscar Macías"
+    },
+    {
+     "side": "away",
+     "minute": 71,
+     "in": "Alejandro Alcala",
+     "out": "Mateo Coronel"
+    },
+    {
+     "side": "away",
+     "minute": 71,
+     "in": "Denilson Muñoz",
+     "out": "Bayron Duarte"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "in": "Román Torres",
+     "out": "Benjamín Galdames"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "in": "Sebastián Pérez-Bouquet",
+     "out": "Felipe Mora"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "in": "Leonardo Flores",
+     "out": "Rafa Llorente"
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "in": "Juan Eduardo Robles",
+     "out": "Enzo Giménez"
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "in": "Waldo Madrid",
+     "out": "Bernardo Parra"
+    },
+    {
+     "side": "home",
+     "minute": 88,
+     "in": "Roberto Meraz",
+     "out": "David Rodriguez"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Benjamín Galindo",
+     "Santiago Muñoz",
+     "Andrés Sánchez",
+     "Lucas Esteves",
+     "Juanpe"
+    ],
+    "away": [
+     "Eduardo Pérez",
+     "Jesús Arellano",
+     "Juan Carlos Martínez Jr.",
+     "Emiliano Guerrero Ramírez",
+     "José Hernández"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 52,
+     "scorer": "Felipe Mora",
+     "assist": "Rafa Llorente",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Rafa Llorente headed the ball on to Felipe Mora, who finished with his left foot from very close range into the bottom right corner.",
+     "shot": {
+      "x": 97,
+      "y": 54,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 67,
+     "scorer": "Daniel Parra",
+     "assist": null,
+     "own_goal": true,
+     "penalty": false,
+     "type": "own",
+     "foot": null,
+     "description": "Querétaro's Daniel Parra turned the ball into his own net to double Atlético de San Luis's lead.",
+     "shot": {
+      "x": 96,
+      "y": 49,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 74,
+     "scorer": "Ali Avila",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "Ali Avila converted the penalty with a right-footed shot into the high centre of the goal after Benjamín Galdames fouled substitute Denilson Muñoz.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [],
+   "var": [
+    {
+     "side": "home",
+     "minute": 43,
+     "player": null,
+     "detail": "VAR decision: no penalty for Atlético de San Luis"
+    }
+   ],
+   "stats": {
+    "possession": [
+     55.2,
+     44.8
+    ],
+    "shots": [
+     12,
+     9
+    ],
+    "onTarget": [
+     4,
+     4
+    ],
+    "corners": [
+     5,
+     2
+    ],
+    "fouls": [
+     9,
+     7
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876937",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876937",
+    "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+    "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+    "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+   ],
+   "notes": "Events, line-ups, formations, stats and shot locations from ESPN (mex.1 summary API); player names use ESPN roster names, resolved by athlete id because ESPN commentary text sometimes uses different first names. Referee from the FMF Comisión de Árbitros jornada 13 designations. Attendance not published by ESPN (0) - null. xG not available - null. Positions mapped from ESPN/Opta formation places; in back-three systems wing-backs are listed as RB/LB. Shot x/y from ESPN field position (y mirrored so attacker's left = 0). Coaches taken from pre-season/season coach lists and appointment reports (not from a match-day line-up sheet), so treat as likely but not match-verified.",
+   "league": "Liga MX",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/222.png",
+   "home_country": "MX",
+   "away_country": "MX"
+  },
+  {
+   "id": "juarez-atlante-2026-10-20",
+   "found": true,
+   "competition": "Liga MX",
+   "round": "Apertura, jornada 13",
+   "date": "2026-10-20",
+   "kickoff_local": "19:00",
+   "home": "Juárez",
+   "away": "Atlante",
+   "score": [
+    0,
+    1
+   ],
+   "venue": {
+    "name": "Estadio Olímpico Benito Juárez",
+    "city": "Ciudad Juárez",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Katia Itzel García Mendoza",
+    "country": "Mexico"
+   },
+   "coaches": {
+    "home": "Gustavo Lema",
+    "away": "Miguel Herrera"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "5-3-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Sebastián Jurado",
+      "short": "Jurado",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Daniel Piña",
+      "short": "Piña",
+      "number": 26,
+      "pos": "LB"
+     },
+     {
+      "name": "Gilberto Sepúlveda",
+      "short": "Sepúlveda",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Jesús Murillo",
+      "short": "Murillo",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Denzell García",
+      "short": "García",
+      "number": 5,
+      "pos": "RB"
+     },
+     {
+      "name": "Rodrigo Dourado",
+      "short": "Dourado",
+      "number": 13,
+      "pos": "DM"
+     },
+     {
+      "name": "Leonardo Silva",
+      "short": "Silva",
+      "number": 183,
+      "pos": "DM"
+     },
+     {
+      "name": "Ricardinho",
+      "short": "Ricardinho",
+      "number": 21,
+      "pos": "LW"
+     },
+     {
+      "name": "Guilherme Castilho",
+      "short": "Castilho",
+      "number": 8,
+      "pos": "AM"
+     },
+     {
+      "name": "Madson",
+      "short": "Madson",
+      "number": 9,
+      "pos": "RW"
+     },
+     {
+      "name": "Óscar Estupiñán",
+      "short": "Estupiñán",
+      "number": 19,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Óscar Jiménez",
+      "short": "Jiménez",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Edgar Jiménez",
+      "short": "Jiménez",
+      "number": 34,
+      "pos": "LB"
+     },
+     {
+      "name": "Aarón Quirós",
+      "short": "Quirós",
+      "number": 44,
+      "pos": "CB"
+     },
+     {
+      "name": "Eduardo Tercero",
+      "short": "Tercero",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Nicolás Carrera",
+      "short": "Carrera",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Walter Portales",
+      "short": "Portales",
+      "number": 29,
+      "pos": "RB"
+     },
+     {
+      "name": "Luis Calzadilla",
+      "short": "Calzadilla",
+      "number": 19,
+      "pos": "CM"
+     },
+     {
+      "name": "Eugenio Pizzuto",
+      "short": "Pizzuto",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Martín Sarrafiore",
+      "short": "Sarrafiore",
+      "number": 30,
+      "pos": "CM"
+     },
+     {
+      "name": "Jhojan Julio",
+      "short": "Julio",
+      "number": 7,
+      "pos": "ST"
+     },
+     {
+      "name": "Luis Puente",
+      "short": "Puente",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 60,
+     "in": "Monchu",
+     "out": "Guilherme Castilho"
+    },
+    {
+     "side": "home",
+     "minute": 60,
+     "in": "José Luis Rodríguez",
+     "out": "Rodrigo Dourado"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "in": "Joaquín Moxica",
+     "out": "Luis Puente"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "in": "Diogo Bagüí",
+     "out": "Walter Portales"
+    },
+    {
+     "side": "home",
+     "minute": 70,
+     "in": "Luca Martinez",
+     "out": "Ricardinho"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Brayan Adrián Molina Hernández",
+     "out": "Madson"
+    },
+    {
+     "side": "away",
+     "minute": 80,
+     "in": "Walter Clar",
+     "out": "Edgar Jiménez"
+    },
+    {
+     "side": "away",
+     "minute": 80,
+     "in": "José González",
+     "out": "Jhojan Julio"
+    },
+    {
+     "side": "home",
+     "minute": 80,
+     "in": "Alejandro Mayorga",
+     "out": "Daniel Piña"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Maximiliano Garcia",
+     "out": "Martín Sarrafiore"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Javier Aquino",
+     "Eder López",
+     "Benny Díaz",
+     "Jan Carmona",
+     "Oscar Ortega"
+    ],
+    "away": [
+     "Roberto Barragán",
+     "Jairon Charcopa",
+     "Martín Fernández",
+     "Christian Bermúdez",
+     "Luis Sánchez Cedrés"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 76,
+     "scorer": "Nicolás Carrera",
+     "assist": "Martín Sarrafiore",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "From a corner Martín Sarrafiore crossed and Nicolás Carrera headed in from the centre of the box into the high centre of the goal.",
+     "shot": {
+      "x": 91,
+      "y": 53,
+      "header": true
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 37,
+     "player": "Rodrigo Dourado",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 64,
+     "player": "Jhojan Julio",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 73,
+     "player": "Edgar Jiménez",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "player": "Daniel Piña",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "player": "Leonardo Silva",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "José Luis Rodríguez",
+     "card": "yellow",
+     "reason": null
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Eugenio Pizzuto",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "away",
+     "minute": 29,
+     "player": "Martín Sarrafiore",
+     "detail": "Sarrafiore's goal ruled out after a VAR review; ESPN commentary records a handball by him"
+    }
+   ],
+   "stats": {
+    "possession": [
+     60.7,
+     39.3
+    ],
+    "shots": [
+     7,
+     10
+    ],
+    "onTarget": [
+     1,
+     3
+    ],
+    "corners": [
+     8,
+     9
+    ],
+    "fouls": [
+     18,
+     22
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876936",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876936",
+    "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+    "https://www.tudn.com/futbol/liga-mx/gustavo-lema-es-el-nuevo-director-tecnico-de-fc-juarez-para-la-liga-mx-video",
+    "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+    "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+   ],
+   "notes": "Events, line-ups, formations, stats and shot locations from ESPN (mex.1 summary API); player names use ESPN roster names, resolved by athlete id because ESPN commentary text sometimes uses different first names. Referee from the FMF Comisión de Árbitros jornada 13 designations. Attendance not published by ESPN (0) - null. xG not available - null. Positions mapped from ESPN/Opta formation places; in back-three systems wing-backs are listed as RB/LB. Shot x/y from ESPN field position (y mirrored so attacker's left = 0). Coaches taken from pre-season/season coach lists and appointment reports (not from a match-day line-up sheet), so treat as likely but not match-verified. Juárez coach Gustavo Lema per his 2 Sep 2026 appointment report.",
+   "league": "Liga MX",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17851.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
+   "home_country": "MX",
+   "away_country": "MX"
+  },
+  {
+   "id": "guadalajara-necaxa-2026-10-20",
+   "found": true,
+   "competition": "Liga MX",
+   "round": "Apertura, jornada 13",
+   "date": "2026-10-20",
+   "kickoff_local": "18:07",
+   "home": "Guadalajara",
+   "away": "Necaxa",
+   "score": [
+    1,
+    0
+   ],
+   "venue": {
+    "name": "Estadio Akron",
+    "city": "Guadalajara",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Vicente Jassiel Reynoso Arce",
+    "country": "Mexico"
+   },
+   "coaches": {
+    "home": "Gabriel Milito",
+    "away": "Martín Varini"
+   },
+   "formations": {
+    "home": "3-4-2-1",
+    "away": "5-4-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Raúl Rangel",
+      "short": "Rangel",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Diego Campillo",
+      "short": "Campillo",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Luis Gabriel Rey",
+      "short": "Rey",
+      "number": 16,
+      "pos": "CB"
+     },
+     {
+      "name": "Daniel Aguirre",
+      "short": "Aguirre",
+      "number": 23,
+      "pos": "CB"
+     },
+     {
+      "name": "Leonel Calderón Oviedo",
+      "short": "Calderón Oviedo",
+      "number": 182,
+      "pos": "LB"
+     },
+     {
+      "name": "Jordan Carillo",
+      "short": "Carillo",
+      "number": 33,
+      "pos": "CM"
+     },
+     {
+      "name": "Fernando Gonzalez",
+      "short": "Gonzalez",
+      "number": 28,
+      "pos": "CM"
+     },
+     {
+      "name": "Richard Ledezma",
+      "short": "Ledezma",
+      "number": 37,
+      "pos": "RB"
+     },
+     {
+      "name": "Efrain Álvarez",
+      "short": "Álvarez",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Roberto Alvarado",
+      "short": "Alvarado",
+      "number": 25,
+      "pos": "AM"
+     },
+     {
+      "name": "Ricardo Marín",
+      "short": "Marín",
+      "number": 17,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Javier Orantes",
+      "short": "Orantes",
+      "number": 181,
+      "pos": "GK"
+     },
+     {
+      "name": "Mauro Zaleta",
+      "short": "Zaleta",
+      "number": 14,
+      "pos": "LB"
+     },
+     {
+      "name": "Agustín Oliveros",
+      "short": "Oliveros",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Diego Ochoa",
+      "short": "Ochoa",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Kaiky Naves",
+      "short": "Naves",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Emilio Martínez",
+      "short": "Martínez",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Javier Ruiz",
+      "short": "Ruiz",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Lorenzo Faravelli",
+      "short": "Faravelli",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Daniel Leyva",
+      "short": "Leyva",
+      "number": 6,
+      "pos": "CM"
+     },
+     {
+      "name": "Miguel Rodríguez",
+      "short": "Rodríguez",
+      "number": 99,
+      "pos": "RW"
+     },
+     {
+      "name": "Juan Valencia",
+      "short": "Valencia",
+      "number": 90,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Raúl Martínez",
+     "out": "Emilio Martínez"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Hugo Camberos",
+     "out": "Leonel Calderón Oviedo"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Santiago Sandoval",
+     "out": "Jordan Carillo"
+    },
+    {
+     "side": "away",
+     "minute": 54,
+     "in": "Owen González",
+     "out": "Miguel Rodríguez"
+    },
+    {
+     "side": "away",
+     "minute": 54,
+     "in": "Julián Carranza",
+     "out": "Juan Valencia"
+    },
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Bryan González",
+     "out": "Diego Campillo"
+    },
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Kevin Castañeda",
+     "out": "Richard Ledezma"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Jesús Hernández",
+     "out": "Efrain Álvarez"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "in": "Joshua Palacios",
+     "out": "Lorenzo Faravelli"
+    },
+    {
+     "side": "away",
+     "minute": 84,
+     "in": "Miguel Pedroza",
+     "out": "Diego Ochoa"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Óscar Whalley",
+     "Miguel Gómez",
+     "Jonathan Pérez",
+     "Carlos Enrique Hernández Palomares",
+     "Cristian Inda"
+    ],
+    "away": [
+     "Christopher Josué Andrade Martín",
+     "Leonardo Abimael Becerra Ramos",
+     "Carlos Vargas",
+     "Rogelio Cortéz",
+     "Matías Espíndola"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 77,
+     "scorer": "Agustín Oliveros",
+     "assist": null,
+     "own_goal": true,
+     "penalty": false,
+     "type": "own",
+     "foot": null,
+     "description": "Necaxa defender Agustín Oliveros turned the ball into his own net to give Guadalajara a 1-0 lead in the 77th minute.",
+     "shot": {
+      "x": 98,
+      "y": 56,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 14,
+     "player": "Miguel Rodríguez",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     59.4,
+     40.6
+    ],
+    "shots": [
+     10,
+     11
+    ],
+    "onTarget": [
+     3,
+     4
+    ],
+    "corners": [
+     9,
+     5
+    ],
+    "fouls": [
+     14,
+     17
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876934",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876934",
+    "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+    "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+    "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+   ],
+   "notes": "Events, line-ups, formations, stats and shot locations from ESPN (mex.1 summary API); player names use ESPN roster names, resolved by athlete id because ESPN commentary text sometimes uses different first names. Referee from the FMF Comisión de Árbitros jornada 13 designations. Attendance not published by ESPN (0) - null. xG not available - null. Positions mapped from ESPN/Opta formation places; in back-three systems wing-backs are listed as RB/LB. Shot x/y from ESPN field position (y mirrored so attacker's left = 0). Coaches taken from pre-season/season coach lists and appointment reports (not from a match-day line-up sheet), so treat as likely but not match-verified. Necaxa's yellow card at 14' is credited by ESPN to Miguel Rodríguez (commentary says 'Emilio Rodríguez').",
+   "league": "Liga MX",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/229.png",
+   "home_country": "MX",
+   "away_country": "MX"
+  },
+  {
+   "id": "tigres-uanl-leon-2026-10-20",
+   "found": true,
+   "competition": "Liga MX",
+   "round": "Apertura, jornada 13",
+   "date": "2026-10-20",
+   "kickoff_local": "21:10",
+   "home": "Tigres UANL",
+   "away": "León",
+   "score": [
+    0,
+    2
+   ],
+   "venue": {
+    "name": "Estadio Universitario",
+    "city": "San Nicolás de los Garza",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Marco Antonio Ortiz Nava",
+    "country": "Mexico"
+   },
+   "coaches": {
+    "home": "Víctor Manuel Vucetich",
+    "away": "Javier Gandolfi"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-1-4-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Nahuel Guzmán",
+      "short": "Guzmán",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Mauro Laínez",
+      "short": "Laínez",
+      "number": 19,
+      "pos": "LB"
+     },
+     {
+      "name": "Rafael Guerrero",
+      "short": "Guerrero",
+      "number": 33,
+      "pos": "CB"
+     },
+     {
+      "name": "Alan Franco",
+      "short": "Franco",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Jesús Garza",
+      "short": "Garza",
+      "number": 14,
+      "pos": "RB"
+     },
+     {
+      "name": "Henrique Simeone Koifman",
+      "short": "Simeone Koifman",
+      "number": 34,
+      "pos": "DM"
+     },
+     {
+      "name": "Fernando Gorriarán",
+      "short": "Gorriarán",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Ozziel Herrera",
+      "short": "Herrera",
+      "number": 77,
+      "pos": "LW"
+     },
+     {
+      "name": "Emiliano Gomez",
+      "short": "Gomez",
+      "number": 9,
+      "pos": "AM"
+     },
+     {
+      "name": "Diego Lainez",
+      "short": "Lainez",
+      "number": 16,
+      "pos": "RW"
+     },
+     {
+      "name": "Guillermo Martínez",
+      "short": "Martínez",
+      "number": 22,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Oscar García",
+      "short": "García",
+      "number": 23,
+      "pos": "GK"
+     },
+     {
+      "name": "Sebastian Vegas",
+      "short": "Vegas",
+      "number": 5,
+      "pos": "LB"
+     },
+     {
+      "name": "Juan Guevara",
+      "short": "Guevara",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Jhohan Romaña",
+      "short": "Romaña",
+      "number": 14,
+      "pos": "CB"
+     },
+     {
+      "name": "Iván Moreno",
+      "short": "Moreno",
+      "number": 7,
+      "pos": "RB"
+     },
+     {
+      "name": "Rodrigo Echeverría",
+      "short": "Echeverría",
+      "number": 20,
+      "pos": "DM"
+     },
+     {
+      "name": "Ismael Díaz",
+      "short": "Díaz",
+      "number": 11,
+      "pos": "LW"
+     },
+     {
+      "name": "Daniel Arcila",
+      "short": "Arcila",
+      "number": 13,
+      "pos": "CM"
+     },
+     {
+      "name": "Fernando Beltrán",
+      "short": "Beltrán",
+      "number": 6,
+      "pos": "CM"
+     },
+     {
+      "name": "Edgar Guerra",
+      "short": "Guerra",
+      "number": 18,
+      "pos": "RW"
+     },
+     {
+      "name": "José Alvarado",
+      "short": "Alvarado",
+      "number": 19,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 58,
+     "in": "Rodrigo Aguirre",
+     "out": "Ozziel Herrera"
+    },
+    {
+     "side": "home",
+     "minute": 58,
+     "in": "Diego Sánchez",
+     "out": "Henrique Simeone Koifman"
+    },
+    {
+     "side": "away",
+     "minute": 64,
+     "in": "Bryan Colula",
+     "out": "Iván Moreno"
+    },
+    {
+     "side": "away",
+     "minute": 64,
+     "in": "José Rodríguez",
+     "out": "Fernando Beltrán"
+    },
+    {
+     "side": "away",
+     "minute": 73,
+     "in": "Diber Cambindo",
+     "out": "Sebastian Vegas"
+    },
+    {
+     "side": "away",
+     "minute": 73,
+     "in": "Christopher Mora",
+     "out": "José Alvarado"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Ricardo Monreal",
+     "out": "Emiliano Gomez"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "César Araujo",
+     "out": "Fernando Gorriarán"
+    },
+    {
+     "side": "away",
+     "minute": 84,
+     "in": "Paul Saracho",
+     "out": "Edgar Guerra"
+    },
+    {
+     "side": "home",
+     "minute": 86,
+     "in": "Jaidyn Contreras",
+     "out": "Jesús Garza"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Edgar Joshimar Villavicencio Ávila",
+     "Carlos Rodríguez",
+     "Vladimir Loroña",
+     "Israel Aceves",
+     "Juan Pablo Vigón"
+    ],
+    "away": [
+     "Santiago Londoño",
+     "Isaac Alfredo Espinosa Salinas",
+     "Jesús Lara",
+     "Salvador Reyes",
+     "Irving Omar Martínez Gutiérrez"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 19,
+     "scorer": "Ismael Díaz",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Ismael Díaz put León ahead with a right-footed finish from very close range into the centre of the goal.",
+     "shot": {
+      "x": 99,
+      "y": 49,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 89,
+     "scorer": "Diber Cambindo",
+     "assist": "Rodrigo Echeverría",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Substitute Diber Cambindo, assisted by Rodrigo Echeverría, hit a right-footed shot from outside the box into the bottom right corner to seal the win.",
+     "shot": {
+      "x": 82,
+      "y": 55,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 46,
+     "player": "Sebastian Vegas",
+     "card": "yellow",
+     "reason": null
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     70.4,
+     29.6
+    ],
+    "shots": [
+     20,
+     12
+    ],
+    "onTarget": [
+     6,
+     5
+    ],
+    "corners": [
+     16,
+     4
+    ],
+    "fouls": [
+     5,
+     18
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876935",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876935",
+    "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+    "https://www.flashscore.com.mx/noticias/futbol-liga-mx-tigres-toma-aire-en-plena-crisis-y-vence-al-toluca-en-el-futbol-mexicano/vcGyv0Hr/",
+    "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+    "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+   ],
+   "notes": "Events, line-ups, formations, stats and shot locations from ESPN (mex.1 summary API); player names use ESPN roster names, resolved by athlete id because ESPN commentary text sometimes uses different first names. Referee from the FMF Comisión de Árbitros jornada 13 designations. Attendance not published by ESPN (0) - null. xG not available - null. Positions mapped from ESPN/Opta formation places; in back-three systems wing-backs are listed as RB/LB. Shot x/y from ESPN field position (y mirrored so attacker's left = 0). Coaches taken from pre-season/season coach lists and appointment reports (not from a match-day line-up sheet), so treat as likely but not match-verified. Tigres coach Víctor Manuel Vucetich (interim) confirmed in charge as of 10 Oct 2026 reports.",
+   "league": "Liga MX",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
+   "home_country": "MX",
+   "away_country": "MX"
+  },
+  {
+   "id": "toluca-tijuana-2026-10-21",
+   "found": true,
+   "competition": "Liga MX",
+   "round": "Apertura, jornada 13",
+   "date": "2026-10-21",
+   "kickoff_local": "19:00",
+   "home": "Toluca",
+   "away": "Tijuana",
+   "score": [
+    2,
+    2
+   ],
+   "venue": {
+    "name": "Estadio Nemesio Díez Riega",
+    "city": "Toluca",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Joaquín Alberto Vizcarra Armenta",
+    "country": "Mexico"
+   },
+   "coaches": {
+    "home": "Antonio Mohamed",
+    "away": "Sebastián Abreu"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "5-4-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Luis García",
+      "short": "García",
+      "number": 22,
+      "pos": "GK"
+     },
+     {
+      "name": "Jesús Gallardo",
+      "short": "Gallardo",
+      "number": 20,
+      "pos": "LB"
+     },
+     {
+      "name": "Everardo López",
+      "short": "López",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Federico Pereira",
+      "short": "Pereira",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Diego Zaragoza",
+      "short": "Zaragoza",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Nicolás Castro",
+      "short": "Castro",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Franco Romero",
+      "short": "Romero",
+      "number": 5,
+      "pos": "DM"
+     },
+     {
+      "name": "Alexis Vega",
+      "short": "Vega",
+      "number": 9,
+      "pos": "LW"
+     },
+     {
+      "name": "Jesús Angulo",
+      "short": "Angulo",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Helinho",
+      "short": "Helinho",
+      "number": 11,
+      "pos": "RW"
+     },
+     {
+      "name": "Paulinho",
+      "short": "Paulinho",
+      "number": 26,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Antonio Rodríguez",
+      "short": "Rodríguez",
+      "number": 2,
+      "pos": "GK"
+     },
+     {
+      "name": "Pablo Nicolás Ortíz",
+      "short": "Ortíz",
+      "number": 33,
+      "pos": "LB"
+     },
+     {
+      "name": "Unai Bilbao",
+      "short": "Bilbao",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Jackson Porozo",
+      "short": "Porozo",
+      "number": 12,
+      "pos": "CB"
+     },
+     {
+      "name": "Rafael Fernández",
+      "short": "Fernández",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Ramiro Árciga",
+      "short": "Árciga",
+      "number": 17,
+      "pos": "RB"
+     },
+     {
+      "name": "Joban González",
+      "short": "González",
+      "number": 202,
+      "pos": "LW"
+     },
+     {
+      "name": "Ángel Zapata",
+      "short": "Zapata",
+      "number": 20,
+      "pos": "CM"
+     },
+     {
+      "name": "Frank Thierry Boya",
+      "short": "Boya",
+      "number": 34,
+      "pos": "CM"
+     },
+     {
+      "name": "Jonathan Padilla",
+      "short": "Padilla",
+      "number": 31,
+      "pos": "RW"
+     },
+     {
+      "name": "Elias Manoel",
+      "short": "Elias Manoel",
+      "number": 13,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Federico Viñas",
+     "out": "Jesús Angulo"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Brian García",
+     "out": "Diego Zaragoza"
+    },
+    {
+     "side": "away",
+     "minute": 57,
+     "in": "Mourad El Ghezouani",
+     "out": "Elias Manoel"
+    },
+    {
+     "side": "away",
+     "minute": 57,
+     "in": "Adonis Preciado",
+     "out": "Joban González"
+    },
+    {
+     "side": "away",
+     "minute": 67,
+     "in": "Ignacio Rivero",
+     "out": "Ángel Zapata"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "in": "Jesús Gómez",
+     "out": "Ramiro Árciga"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "in": "Francisco González",
+     "out": "Jonathan Padilla"
+    },
+    {
+     "side": "home",
+     "minute": 83,
+     "in": "Érick Gutiérrez",
+     "out": "Nicolás Castro"
+    },
+    {
+     "side": "home",
+     "minute": 83,
+     "in": "Jorge Díaz",
+     "out": "Alexis Vega"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Luan",
+     "Pável Pérez",
+     "Fernando Arce",
+     "Bruno Méndez",
+     "Santiago Simón",
+     "Hugo González"
+    ],
+    "away": [
+     "Iván Tona",
+     "Diego Abreu",
+     "Aaron Mejía",
+     "Jorge Hernández",
+     "Ian Olvera"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 38,
+     "scorer": "Elias Manoel",
+     "assist": "Jonathan Padilla",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Tijuana broke quickly and Jonathan Padilla set up Elias Manoel, who finished with his right foot from the centre of the box into the bottom right corner.",
+     "shot": {
+      "x": 91,
+      "y": 51,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 61,
+     "scorer": "Federico Viñas",
+     "assist": "Helinho",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Half-time substitute Federico Viñas took Helinho's pass and scored with a left-footed shot from the centre of the box into the bottom right corner.",
+     "shot": {
+      "x": 90,
+      "y": 42,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 65,
+     "scorer": "Helinho",
+     "assist": "Nicolás Castro",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "On a fast break Nicolás Castro found Helinho, who finished left-footed from the centre of the box into the bottom left corner.",
+     "shot": {
+      "x": 89,
+      "y": 56,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 75,
+     "scorer": "Jonathan Padilla",
+     "assist": "Rafael Fernández",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "Following a corner, Rafael Fernández set up Jonathan Padilla, who struck a right-footed shot from the centre of the box into the top right corner.",
+     "shot": {
+      "x": 86,
+      "y": 62,
+      "header": false
+     }
+    }
+   ],
+   "cards": [],
+   "var": [],
+   "stats": {
+    "possession": [
+     75.9,
+     24.1
+    ],
+    "shots": [
+     32,
+     12
+    ],
+    "onTarget": [
+     6,
+     4
+    ],
+    "corners": [
+     17,
+     5
+    ],
+    "fouls": [
+     12,
+     9
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876931",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876931",
+    "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+    "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+    "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+   ],
+   "notes": "Events, line-ups, formations, stats and shot locations from ESPN (mex.1 summary API); player names use ESPN roster names, resolved by athlete id because ESPN commentary text sometimes uses different first names. Referee from the FMF Comisión de Árbitros jornada 13 designations. Attendance not published by ESPN (0) - null. xG not available - null. Positions mapped from ESPN/Opta formation places; in back-three systems wing-backs are listed as RB/LB. Shot x/y from ESPN field position (y mirrored so attacker's left = 0). Coaches taken from pre-season/season coach lists and appointment reports (not from a match-day line-up sheet), so treat as likely but not match-verified. ESPN commentary calls Jonathan Padilla 'Yael Padilla', Diego Zaragoza 'Diego Barbosa' and Jesús Gómez 'Alejandro Gómez'.",
+   "league": "Liga MX",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10125.png",
+   "home_country": "MX",
+   "away_country": "MX"
+  },
+  {
+   "id": "atlas-club-america-2026-10-21",
+   "found": true,
+   "competition": "Liga MX",
+   "round": "Apertura, jornada 13",
+   "date": "2026-10-21",
+   "kickoff_local": "19:00",
+   "home": "Atlas",
+   "away": "Club América",
+   "score": [
+    2,
+    5
+   ],
+   "venue": {
+    "name": "Estadio Jalisco",
+    "city": "Guadalajara",
+    "attendance": null
+   },
+   "referee": {
+    "name": "César Arturo Ramos Palazuelos",
+    "country": "Mexico"
+   },
+   "coaches": {
+    "home": "Hernán Crespo",
+    "away": "Guillermo Almada"
+   },
+   "formations": {
+    "home": "4-2-2-2",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Camilo Vargas",
+      "short": "Vargas",
+      "number": 12,
+      "pos": "GK"
+     },
+     {
+      "name": "Milton Valenzuela",
+      "short": "Valenzuela",
+      "number": 16,
+      "pos": "LB"
+     },
+     {
+      "name": "Juanjo Purata",
+      "short": "Purata",
+      "number": 44,
+      "pos": "CB"
+     },
+     {
+      "name": "Adonis Frias",
+      "short": "Frias",
+      "number": 19,
+      "pos": "CB"
+     },
+     {
+      "name": "Jorge Sánchez",
+      "short": "Sánchez",
+      "number": 3,
+      "pos": "RB"
+     },
+     {
+      "name": "Paulo Ramírez",
+      "short": "Ramírez",
+      "number": 15,
+      "pos": "DM"
+     },
+     {
+      "name": "Elías Montiel",
+      "short": "Montiel",
+      "number": 18,
+      "pos": "DM"
+     },
+     {
+      "name": "Luís Esteves",
+      "short": "Esteves",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Alfonso González",
+      "short": "González",
+      "number": 58,
+      "pos": "AM"
+     },
+     {
+      "name": "Ryan Mmaee",
+      "short": "Mmaee",
+      "number": 8,
+      "pos": "ST"
+     },
+     {
+      "name": "Florián Monzón",
+      "short": "Monzón",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Ángel Malagón",
+      "short": "Malagón",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Franco Rossano",
+      "short": "Rossano",
+      "number": 24,
+      "pos": "LB"
+     },
+     {
+      "name": "Santiago Ramos",
+      "short": "Ramos",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Santiago Bueno",
+      "short": "Bueno",
+      "number": 14,
+      "pos": "CB"
+     },
+     {
+      "name": "Kevin Álvarez",
+      "short": "Álvarez",
+      "number": 5,
+      "pos": "RB"
+     },
+     {
+      "name": "Érick Sánchez",
+      "short": "Sánchez",
+      "number": 28,
+      "pos": "DM"
+     },
+     {
+      "name": "Israel Reyes",
+      "short": "Reyes",
+      "number": 3,
+      "pos": "DM"
+     },
+     {
+      "name": "Brian Rodríguez",
+      "short": "Rodríguez",
+      "number": 7,
+      "pos": "LW"
+     },
+     {
+      "name": "Carlos Álvarez",
+      "short": "Álvarez",
+      "number": 8,
+      "pos": "AM"
+     },
+     {
+      "name": "Alejandro Zendejas",
+      "short": "Zendejas",
+      "number": 10,
+      "pos": "RW"
+     },
+     {
+      "name": "Miguel Borja",
+      "short": "Borja",
+      "number": 93,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Isaías Violante",
+     "out": "Carlos Álvarez"
+    },
+    {
+     "side": "away",
+     "minute": 68,
+     "in": "Henry Martín",
+     "out": "Miguel Borja"
+    },
+    {
+     "side": "away",
+     "minute": 68,
+     "in": "Óscar Perea",
+     "out": "Alejandro Zendejas"
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "in": "Sergio Hernandez",
+     "out": "Paulo Ramírez"
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "in": "Edgar Zaldivar",
+     "out": "Alfonso González"
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "in": "José Martín",
+     "out": "Florián Monzón"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "in": "Emilio Lara",
+     "out": "Franco Rossano"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "in": "Alan Cervantes",
+     "out": "Israel Reyes"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Jorge Rodríguez",
+     "out": "Milton Valenzuela"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "in": "Víctor Ríos",
+     "out": "Elías Montiel"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "José Lozano",
+     "Antonio Sánchez",
+     "Gaddi Aguirre",
+     "Aldo Rocha",
+     "Manuel Capasso"
+    ],
+    "away": [
+     "Edwin Cerrillo",
+     "Alexis Gutierrez",
+     "Miguel Vazquez",
+     "Rodolfo Cota",
+     "Ícaro ca Conceição"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 26,
+     "scorer": "Miguel Borja",
+     "assist": "Brian Rodríguez",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Brian Rodríguez set up Miguel Borja, who finished with his right foot from the centre of the box into the bottom right corner.",
+     "shot": {
+      "x": 89,
+      "y": 47,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 28,
+     "scorer": "Érick Sánchez",
+     "assist": "Carlos Álvarez",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Two minutes later Carlos Álvarez found Érick Sánchez on the left side of the box and he scored with a left-footed shot into the centre of the goal.",
+     "shot": {
+      "x": 90,
+      "y": 36,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 58,
+     "scorer": "Brian Rodríguez",
+     "assist": "Alejandro Zendejas",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "América countered and Alejandro Zendejas laid the ball off to Brian Rodríguez, who hit a right-footed shot from outside the box into the centre of the goal.",
+     "shot": {
+      "x": 82,
+      "y": 48,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 63,
+     "scorer": "Alejandro Zendejas",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Alejandro Zendejas made it 4-0 with a left-footed shot from the centre of the box into the top left corner.",
+     "shot": {
+      "x": 91,
+      "y": 42,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 73,
+     "scorer": "Luís Esteves",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "Luís Esteves converted a penalty, awarded after a VAR review for a Santiago Bueno handball, with a right-footed shot into the top right corner.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "scorer": "Ryan Mmaee",
+     "assist": "Sergio Hernandez",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Sergio Hernandez teed up Ryan Mmaee, who scored with a right-footed shot from outside the box into the bottom right corner.",
+     "shot": {
+      "x": 82,
+      "y": 45,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "scorer": "Kevin Álvarez",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "A minute later Kevin Álvarez restored América's three-goal margin with a right-footed finish from very close range into the bottom right corner.",
+     "shot": {
+      "x": 96,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 22,
+     "player": "Franco Rossano",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "player": "Juanjo Purata",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Sergio Hernandez",
+     "card": "yellow",
+     "reason": null
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 70,
+     "player": "Santiago Bueno",
+     "detail": "Penalty awarded to Atlas after a VAR review for a handball by América's Santiago Bueno"
+    }
+   ],
+   "stats": {
+    "possession": [
+     56.4,
+     43.6
+    ],
+    "shots": [
+     23,
+     14
+    ],
+    "onTarget": [
+     6,
+     6
+    ],
+    "corners": [
+     9,
+     4
+    ],
+    "fouls": [
+     8,
+     14
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876932",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876932",
+    "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+    "https://www.record.com.mx/historia/cesar-ramos-pitara-el-atlas-vs-america-en-la-jornada-13-suma-cuatro-partidos-seguidos-marcando-penales-2026102006450590079",
+    "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+    "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+   ],
+   "notes": "Events, line-ups, formations, stats and shot locations from ESPN (mex.1 summary API); player names use ESPN roster names, resolved by athlete id because ESPN commentary text sometimes uses different first names. Referee from the FMF Comisión de Árbitros jornada 13 designations. Attendance not published by ESPN (0) - null. xG not available - null. Positions mapped from ESPN/Opta formation places; in back-three systems wing-backs are listed as RB/LB. Shot x/y from ESPN field position (y mirrored so attacker's left = 0). Coaches taken from pre-season/season coach lists and appointment reports (not from a match-day line-up sheet), so treat as likely but not match-verified. ESPN commentary calls Alfonso González 'Arturo González'.",
+   "league": "Liga MX",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png",
+   "home_country": "MX",
+   "away_country": "MX"
+  },
+  {
+   "id": "puebla-monterrey-2026-10-21",
+   "found": true,
+   "competition": "Liga MX",
+   "round": "Apertura, jornada 13",
+   "date": "2026-10-21",
+   "kickoff_local": "19:00",
+   "home": "Puebla",
+   "away": "Monterrey",
+   "score": [
+    1,
+    4
+   ],
+   "venue": {
+    "name": "Estadio Cuauhtémoc",
+    "city": "Puebla",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Ismael Rosario López Peñuelas",
+    "country": "Mexico"
+   },
+   "coaches": {
+    "home": "Gerardo Espinoza",
+    "away": "Matías Almeyda"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Ricardo Gutiérrez",
+      "short": "Gutiérrez",
+      "number": 28,
+      "pos": "GK"
+     },
+     {
+      "name": "Fernando Monarrez",
+      "short": "Monarrez",
+      "number": 7,
+      "pos": "LB"
+     },
+     {
+      "name": "Juan Pablo Vargas",
+      "short": "Vargas",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Facundo Almada",
+      "short": "Almada",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Iker Moreno",
+      "short": "Moreno",
+      "number": 12,
+      "pos": "RB"
+     },
+     {
+      "name": "Alonso Ramirez",
+      "short": "Ramirez",
+      "number": 16,
+      "pos": "DM"
+     },
+     {
+      "name": "Alejandro Organista",
+      "short": "Organista",
+      "number": 24,
+      "pos": "DM"
+     },
+     {
+      "name": "Heriberto De Jesus",
+      "short": "De Jesus",
+      "number": 25,
+      "pos": "LW"
+     },
+     {
+      "name": "Mathías Tomás",
+      "short": "Tomás",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Brayan Garnica",
+      "short": "Garnica",
+      "number": 27,
+      "pos": "RW"
+     },
+     {
+      "name": "Eduardo Mustre",
+      "short": "Mustre",
+      "number": 29,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Esteban Andrada",
+      "short": "Andrada",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Gerardo Arteaga",
+      "short": "Arteaga",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Carlos Salcedo",
+      "short": "Salcedo",
+      "number": 13,
+      "pos": "CB"
+     },
+     {
+      "name": "Víctor Guzmán",
+      "short": "Guzmán",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Ricardo Chávez",
+      "short": "Chávez",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Orbelín Pineda",
+      "short": "Pineda",
+      "number": 25,
+      "pos": "DM"
+     },
+     {
+      "name": "Óliver Torres",
+      "short": "Torres",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Lucas Ocampos",
+      "short": "Ocampos",
+      "number": 7,
+      "pos": "LW"
+     },
+     {
+      "name": "Diego Rossi",
+      "short": "Rossi",
+      "number": 9,
+      "pos": "AM"
+     },
+     {
+      "name": "Cesar Garza",
+      "short": "Garza",
+      "number": 18,
+      "pos": "RW"
+     },
+     {
+      "name": "Hugo Cuypers",
+      "short": "Cuypers",
+      "number": 99,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Omar Moreno",
+     "out": "Heriberto De Jesus"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Eduardo Armenta",
+     "out": "Mathías Tomás"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Daniel Aceves",
+     "out": "Carlos Salcedo"
+    },
+    {
+     "side": "home",
+     "minute": 56,
+     "in": "Luifer Hernández",
+     "out": "Eduardo Mustre"
+    },
+    {
+     "side": "away",
+     "minute": 57,
+     "in": "Roberto de la Rosa",
+     "out": "Orbelín Pineda"
+    },
+    {
+     "side": "away",
+     "minute": 57,
+     "in": "Luca Orellano",
+     "out": "Hugo Cuypers"
+    },
+    {
+     "side": "away",
+     "minute": 58,
+     "in": "Iker Fimbres",
+     "out": "Diego Rossi"
+    },
+    {
+     "side": "home",
+     "minute": 65,
+     "in": "Ignacio Maestro Puch",
+     "out": "Alonso Ramirez"
+    },
+    {
+     "side": "away",
+     "minute": 76,
+     "in": "Jesús Corona",
+     "out": "Lucas Ocampos"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Jose Pachuca",
+     "out": "Iker Moreno"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Jair Díaz",
+     "Alvaro Burgos",
+     "Alberto Herrera",
+     "Jesus Rodriguez",
+     "Oscar Villa"
+    ],
+    "away": [
+     "Stefan Medina",
+     "Fidel Ambríz",
+     "Jorge Rodríguez",
+     "Luis Cárdenas",
+     "Luis Reyes"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 17,
+     "scorer": "Diego Rossi",
+     "assist": "Lucas Ocampos",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Lucas Ocampos supplied Diego Rossi, who headed in from the left side of the six-yard box into the bottom left corner.",
+     "shot": {
+      "x": 97,
+      "y": 43,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 31,
+     "scorer": "Hugo Cuypers",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "Following a corner, Hugo Cuypers scored from very close range with a right-footed shot into the top left corner.",
+     "shot": {
+      "x": 94,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 34,
+     "scorer": "Lucas Ocampos",
+     "assist": "Óliver Torres",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Óliver Torres set up Lucas Ocampos, who finished right-footed from the centre of the box into the top right corner.",
+     "shot": {
+      "x": 86,
+      "y": 58,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 61,
+     "scorer": "Roberto de la Rosa",
+     "assist": "Óliver Torres",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Substitute Roberto de la Rosa, assisted by Óliver Torres, scored with a right-footed shot from the right side of the box into the bottom left corner.",
+     "shot": {
+      "x": 85,
+      "y": 67,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 66,
+     "scorer": "Facundo Almada",
+     "assist": "Juan Pablo Vargas",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "left",
+     "description": "From a set-piece situation Juan Pablo Vargas assisted Facundo Almada, who scored with a left-footed shot from the centre of the box into the bottom left corner.",
+     "shot": {
+      "x": 93,
+      "y": 42,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Luca Orellano",
+     "card": "yellow",
+     "reason": null
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Ricardo Chávez",
+     "card": "yellow",
+     "reason": null
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     40.1,
+     59.9
+    ],
+    "shots": [
+     12,
+     14
+    ],
+    "onTarget": [
+     4,
+     6
+    ],
+    "corners": [
+     2,
+     8
+    ],
+    "fouls": [
+     5,
+     5
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876933",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876933",
+    "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+    "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+    "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+   ],
+   "notes": "Events, line-ups, formations, stats and shot locations from ESPN (mex.1 summary API); player names use ESPN roster names, resolved by athlete id because ESPN commentary text sometimes uses different first names. Referee from the FMF Comisión de Árbitros jornada 13 designations. Attendance not published by ESPN (0) - null. xG not available - null. Positions mapped from ESPN/Opta formation places; in back-three systems wing-backs are listed as RB/LB. Shot x/y from ESPN field position (y mirrored so attacker's left = 0). Coaches taken from pre-season/season coach lists and appointment reports (not from a match-day line-up sheet), so treat as likely but not match-verified. ESPN commentary calls Daniel Aceves 'Alonso Aceves' and Heriberto De Jesus 'Heriberto Jurado'.",
+   "league": "Liga MX",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
+   "home_country": "MX",
+   "away_country": "MX"
+  },
+  {
+   "id": "pachuca-cruz-azul-2026-10-21",
+   "found": true,
+   "competition": "Liga MX",
+   "round": "Apertura, jornada 13",
+   "date": "2026-10-21",
+   "kickoff_local": "21:10",
+   "home": "Pachuca",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    2
+   ],
+   "venue": {
+    "name": "Estadio Hidalgo",
+    "city": "Pachuca",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Daniel Quintero Huitrón",
+    "country": "Mexico"
+   },
+   "coaches": {
+    "home": "Benjamín Mora",
+    "away": "Joel Huiqui"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "3-4-2-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Carlos Moreno",
+      "short": "Moreno",
+      "number": 25,
+      "pos": "GK"
+     },
+     {
+      "name": "Francisco Venegas",
+      "short": "Venegas",
+      "number": 15,
+      "pos": "LB"
+     },
+     {
+      "name": "Pedro Budib",
+      "short": "Budib",
+      "number": 32,
+      "pos": "CB"
+     },
+     {
+      "name": "Eduardo Bauermann",
+      "short": "Bauermann",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Jorge Berlanga",
+      "short": "Berlanga",
+      "number": 13,
+      "pos": "RB"
+     },
+     {
+      "name": "Alan Bautista",
+      "short": "Bautista",
+      "number": 26,
+      "pos": "DM"
+     },
+     {
+      "name": "Christian Rivera",
+      "short": "Rivera",
+      "number": 16,
+      "pos": "DM"
+     },
+     {
+      "name": "Oussama Idrissi",
+      "short": "Idrissi",
+      "number": 11,
+      "pos": "LW"
+     },
+     {
+      "name": "Rodolfo Pizarro",
+      "short": "Pizarro",
+      "number": 7,
+      "pos": "AM"
+     },
+     {
+      "name": "Javier Vallejo",
+      "short": "Vallejo",
+      "number": 21,
+      "pos": "RW"
+     },
+     {
+      "name": "Salomón Rondón",
+      "short": "Rondón",
+      "number": 23,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Andrés Gudiño",
+      "short": "Gudiño",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Gonzalo Piovi",
+      "short": "Piovi",
+      "number": 33,
+      "pos": "CB"
+     },
+     {
+      "name": "Alán Montes",
+      "short": "Montes",
+      "number": 12,
+      "pos": "CB"
+     },
+     {
+      "name": "Amaury García",
+      "short": "García",
+      "number": 17,
+      "pos": "CB"
+     },
+     {
+      "name": "Omar Campos",
+      "short": "Campos",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Ángel Márquez",
+      "short": "Márquez",
+      "number": 16,
+      "pos": "CM"
+     },
+     {
+      "name": "Érik Lira",
+      "short": "Lira",
+      "number": 6,
+      "pos": "CM"
+     },
+     {
+      "name": "Alan Mozo",
+      "short": "Mozo",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Carlos Rodríguez",
+      "short": "Rodríguez",
+      "number": 19,
+      "pos": "AM"
+     },
+     {
+      "name": "Agustín Palavecino",
+      "short": "Palavecino",
+      "number": 8,
+      "pos": "AM"
+     },
+     {
+      "name": "Gabriel Fernandez",
+      "short": "Fernandez",
+      "number": 21,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 61,
+     "in": "Luka Romero",
+     "out": "Ángel Márquez"
+    },
+    {
+     "side": "away",
+     "minute": 61,
+     "in": "Rogelio González",
+     "out": "Omar Campos"
+    },
+    {
+     "side": "home",
+     "minute": 67,
+     "in": "Adrián Alcaraz",
+     "out": "Rodolfo Pizarro"
+    },
+    {
+     "side": "home",
+     "minute": 67,
+     "in": "Gael Álvarez",
+     "out": "Oussama Idrissi"
+    },
+    {
+     "side": "away",
+     "minute": 70,
+     "in": "Rodolfo Rotondi",
+     "out": "Alan Mozo"
+    },
+    {
+     "side": "away",
+     "minute": 70,
+     "in": "Andres Montaño",
+     "out": "Agustín Palavecino"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Cristóbal Hernández",
+     "out": "Jorge Berlanga"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Kenedy",
+     "out": "Javier Vallejo"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "in": "Jesús Orozco",
+     "out": "Carlos Rodríguez"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "in": "Mauricio Isais",
+     "out": "Francisco Venegas"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Ulises Natanael Martínez Reynoso",
+     "Jose Eulogio Téllez",
+     "Ángel López Bustamante",
+     "Sergio Rodríguez",
+     "Sebastian Santos"
+    ],
+    "away": [
+     "Kevin Mier",
+     "Nicolás Ibáñez",
+     "Ariel Castro",
+     "Juan José Calero",
+     "Osinachi Ebere"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 13,
+     "scorer": "Gabriel Fernandez",
+     "assist": "Alan Mozo",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "From a set-piece situation Alan Mozo crossed and Gabriel Fernandez finished with a right-footed shot from the centre of the box into the bottom left corner.",
+     "shot": {
+      "x": 92,
+      "y": 53,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 20,
+     "scorer": "Francisco Venegas",
+     "assist": "Rodolfo Pizarro",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Francisco Venegas met Rodolfo Pizarro's pass with a left-footed shot from the centre of the box into the top right corner.",
+     "shot": {
+      "x": 88,
+      "y": 40,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "scorer": "Andres Montaño",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "left",
+     "description": "Substitute Andres Montaño converted the penalty with his left foot into the bottom left corner after Pedro Budib fouled Gabriel Fernandez in the area.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 11,
+     "player": "Eduardo Bauermann",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 39,
+     "player": "Carlos Rodríguez",
+     "card": "yellow",
+     "reason": null
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "player": "Oussama Idrissi",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 48,
+     "player": "Francisco Venegas",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 63,
+     "player": "Rodolfo Pizarro",
+     "card": "yellow",
+     "reason": null
+    },
+    {
+     "side": "home",
+     "minute": 75,
+     "player": "Pedro Budib",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 85,
+     "player": "Amaury García",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Luka Romero",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 86,
+     "player": "Salomón Rondón",
+     "detail": "Rondón's goal ruled out after a VAR review (would have made it 2-2)"
+    }
+   ],
+   "stats": {
+    "possession": [
+     43.5,
+     56.5
+    ],
+    "shots": [
+     14,
+     11
+    ],
+    "onTarget": [
+     5,
+     5
+    ],
+    "corners": [
+     0,
+     8
+    ],
+    "fouls": [
+     20,
+     11
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876930",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876930",
+    "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+    "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+    "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+   ],
+   "notes": "Events, line-ups, formations, stats and shot locations from ESPN (mex.1 summary API); player names use ESPN roster names, resolved by athlete id because ESPN commentary text sometimes uses different first names. Referee from the FMF Comisión de Árbitros jornada 13 designations. Attendance not published by ESPN (0) - null. xG not available - null. Positions mapped from ESPN/Opta formation places; in back-three systems wing-backs are listed as RB/LB. Shot x/y from ESPN field position (y mirrored so attacker's left = 0). Coaches taken from pre-season/season coach lists and appointment reports (not from a match-day line-up sheet), so treat as likely but not match-verified. ESPN commentary calls Ángel Márquez 'Jeremy Márquez' and Javier Vallejo 'Nicolás Vallejo'.",
+   "league": "Liga MX",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png",
+   "home_country": "MX",
+   "away_country": "MX"
+  },
+  {
+   "id": "santos-unam-2026-10-21",
+   "found": true,
+   "competition": "Liga MX",
+   "round": "Apertura, jornada 13",
+   "date": "2026-10-21",
+   "kickoff_local": "21:10",
+   "home": "Santos",
+   "away": "UNAM",
+   "score": [
+    2,
+    0
+   ],
+   "venue": {
+    "name": "Estadio Corona",
+    "city": "Torreón",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Guillermo Pacheco Larios",
+    "country": "Mexico"
+   },
+   "coaches": {
+    "home": "Renato Paiva",
+    "away": "Esteban Solari"
+   },
+   "formations": {
+    "home": "3-4-3",
+    "away": "5-4-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Carlos Acevedo",
+      "short": "Acevedo",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Efraín Orona",
+      "short": "Orona",
+      "number": 14,
+      "pos": "CB"
+     },
+     {
+      "name": "Felipe Sanchez",
+      "short": "Sanchez",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Franco Pardo",
+      "short": "Pardo",
+      "number": 18,
+      "pos": "CB"
+     },
+     {
+      "name": "Diego González",
+      "short": "González",
+      "number": 7,
+      "pos": "LB"
+     },
+     {
+      "name": "Facundo Cáseres",
+      "short": "Cáseres",
+      "number": 23,
+      "pos": "CM"
+     },
+     {
+      "name": "Francisco Villalba",
+      "short": "Villalba",
+      "number": 21,
+      "pos": "CM"
+     },
+     {
+      "name": "Mauricio Cuevas",
+      "short": "Cuevas",
+      "number": 3,
+      "pos": "RB"
+     },
+     {
+      "name": "Ezequiel Bullaude",
+      "short": "Bullaude",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Tahiel Jiménez",
+      "short": "Jiménez",
+      "number": 29,
+      "pos": "ST"
+     },
+     {
+      "name": "Eduardo Aguirre",
+      "short": "Aguirre",
+      "number": 19,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Keylor Navas",
+      "short": "Navas",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Pablo Bennevendo",
+      "short": "Bennevendo",
+      "number": 2,
+      "pos": "LB"
+     },
+     {
+      "name": "Rubén Duarte",
+      "short": "Duarte",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Nathan Silva",
+      "short": "Silva",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Rodrigo López",
+      "short": "López",
+      "number": 7,
+      "pos": "CB"
+     },
+     {
+      "name": "Uriel Antuna",
+      "short": "Antuna",
+      "number": 21,
+      "pos": "RB"
+     },
+     {
+      "name": "César Huerta",
+      "short": "Huerta",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Pedro Vite",
+      "short": "Vite",
+      "number": 45,
+      "pos": "CM"
+     },
+     {
+      "name": "Adalberto Carrasquilla",
+      "short": "Carrasquilla",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Juninho",
+      "short": "Juninho",
+      "number": 23,
+      "pos": "RW"
+     },
+     {
+      "name": "Robert Morales",
+      "short": "Morales",
+      "number": 31,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 21,
+     "in": "Jonathan Pérez",
+     "out": "Efraín Orona"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Emmanuel Echeverría",
+     "out": "Diego González"
+    },
+    {
+     "side": "away",
+     "minute": 50,
+     "in": "Victor Arteaga",
+     "out": "Adalberto Carrasquilla"
+    },
+    {
+     "side": "home",
+     "minute": 73,
+     "in": "Esteban Lozano",
+     "out": "Tahiel Jiménez"
+    },
+    {
+     "side": "home",
+     "minute": 73,
+     "in": "Aldo López",
+     "out": "Francisco Villalba"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "in": "Álvaro Angulo",
+     "out": "Rodrigo López"
+    },
+    {
+     "side": "home",
+     "minute": 82,
+     "in": "Luis Gómez",
+     "out": "Eduardo Aguirre"
+    },
+    {
+     "side": "away",
+     "minute": 86,
+     "in": "Santiago López",
+     "out": "Juninho"
+    },
+    {
+     "side": "away",
+     "minute": 86,
+     "in": "Antonio Leone",
+     "out": "Pablo Bennevendo"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Kevin Palacios",
+     "Hector Holguin Perez",
+     "Salvador Mariscal",
+     "José Abella",
+     "Javier Güemez"
+    ],
+    "away": [
+     "Pablo Lara",
+     "Luciano Herrera",
+     "Israel Luna",
+     "Angel Azuaje",
+     "Jesús Rivas",
+     "Alan Medina"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 6,
+     "scorer": "Eduardo Aguirre",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "Eduardo Aguirre converted the penalty with a right-footed shot into the bottom right corner. The kick was awarded when Nathan Silva fouled Ezequiel Bullaude in the box in the 2nd minute, for which Silva was sent off.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 80,
+     "scorer": "Franco Pardo",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "Franco Pardo sent his right-footed penalty into the centre of the goal after Rubén Duarte was penalised for handball in the area.",
+     "shot": {
+      "x": 88,
+      "y": 50,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 2,
+     "player": "Nathan Silva",
+     "card": "red",
+     "reason": "Foul in the penalty area (penalty conceded)"
+    },
+    {
+     "side": "home",
+     "minute": 42,
+     "player": "Diego González",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 66,
+     "player": "Mauricio Cuevas",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "player": "Robert Morales",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Emmanuel Echeverría",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     65.0,
+     35.0
+    ],
+    "shots": [
+     9,
+     5
+    ],
+    "onTarget": [
+     2,
+     1
+    ],
+    "corners": [
+     9,
+     3
+    ],
+    "fouls": [
+     15,
+     9
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://www.espn.com/soccer/match/_/gameId/401876929",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876929",
+    "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+    "https://www.enjuegodeportes.com/liga-mx/solari-tras-la-expulsion-de-nathan-silva-fue-escandaloso",
+    "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+    "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+   ],
+   "notes": "Events, line-ups, formations, stats and shot locations from ESPN (mex.1 summary API); player names use ESPN roster names, resolved by athlete id because ESPN commentary text sometimes uses different first names. Referee from the FMF Comisión de Árbitros jornada 13 designations. Attendance not published by ESPN (0) - null. xG not available - null. Positions mapped from ESPN/Opta formation places; in back-three systems wing-backs are listed as RB/LB. Shot x/y from ESPN field position (y mirrored so attacker's left = 0). Coaches taken from pre-season/season coach lists and appointment reports (not from a match-day line-up sheet), so treat as likely but not match-verified. Pumas coach Esteban Solari confirmed by a post-match report; Santos coach (Renato Paiva) from the pre-season list. Nathan Silva sent off in the 2nd minute for the foul that gave Santos their first penalty.",
+   "league": "Liga MX",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/225.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
+   "home_country": "MX",
+   "away_country": "MX"
+  }
+ ]
+}

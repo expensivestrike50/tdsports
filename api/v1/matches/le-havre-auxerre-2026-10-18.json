@@ -1,0 +1,731 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "le-havre-auxerre-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "17:15",
+    "competition": "Ligue 1",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Le Havre",
+      "id": "le-havre",
+      "crest": "assets/clubs/3236.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Auxerre",
+      "id": "auxerre",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
+      "country": "FR"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stade Océane",
+      "city": "Le Havre",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "didier-digard",
+          "name": "Didier Digard",
+          "short": "Digard",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "gauthier-gallon",
+            "name": "Gauthier Gallon",
+            "short": "Gallon",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "mouhamed-n-diaye",
+            "name": "Mouhamed N'Diaye",
+            "short": "N'Diaye",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.5
+          },
+          {
+            "id": "ahmed-touba",
+            "name": "Ahmed Touba",
+            "short": "Touba",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.4
+          },
+          {
+            "id": "junior-mwanga",
+            "name": "Junior Mwanga",
+            "short": "Mwanga",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.3
+          },
+          {
+            "id": "djibril-ouziad",
+            "name": "Djibril Ouziad",
+            "short": "Ouziad",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "amir-richardson",
+            "name": "Amir Richardson",
+            "short": "Richardson",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 23,
+            "rating": 6.8
+          },
+          {
+            "id": "simon-ebonog",
+            "name": "Simon Ebonog",
+            "short": "Ebonog",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "rassoul-ndiaye",
+            "name": "Rassoul Ndiaye",
+            "short": "Ndiaye",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 78,
+            "rating": 7.3
+          },
+          {
+            "id": "mbwana-samatta",
+            "name": "Mbwana Samatta",
+            "short": "Samatta",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 6.8
+          },
+          {
+            "id": "josh-maja",
+            "name": "Josh Maja",
+            "short": "Maja",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "sota-nakamura",
+            "name": "Sota Nakamura",
+            "short": "Nakamura",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 6.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "rayan-fofana",
+            "name": "Rayan Fofana",
+            "short": "Fofana",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "hakim-dongopandji",
+            "name": "Hakim Dongopandji",
+            "short": "Dongopandji",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "enzo-koffi",
+            "name": "Enzo Koffi",
+            "short": "Koffi",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "kaito-mizuta",
+            "name": "Kaito Mizuta",
+            "short": "Mizuta",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "guy-zohouri",
+            "name": "Guy Zohouri",
+            "short": "Zohouri",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "arnaud-bodart",
+            "name": "Arnaud Bodart",
+            "short": "Bodart",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ismail-bouneb",
+            "name": "Ismail Bouneb",
+            "short": "Bouneb",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "vincent-sasso",
+            "name": "Vincent Sasso",
+            "short": "Sasso",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "daren-mosengo",
+            "name": "Daren Mosengo",
+            "short": "Mosengo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "will-still",
+          "name": "Will Still",
+          "short": "Still",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "paul-nardi",
+            "name": "Paul Nardi",
+            "short": "Nardi",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "clement-akpa",
+            "name": "Clément Akpa",
+            "short": "Akpa",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 7
+          },
+          {
+            "id": "axel-tuanzebe",
+            "name": "Axel Tuanzebe",
+            "short": "Tuanzebe",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "christ-makosso",
+            "name": "Christ Makosso",
+            "short": "Makosso",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 6.7
+          },
+          {
+            "id": "fredrik-oppegard",
+            "name": "Fredrik Oppegard",
+            "short": "Oppegard",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "kevin-danois",
+            "name": "Kévin Danois",
+            "short": "Danois",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "naouirou-ahamada",
+            "name": "Naouirou Ahamada",
+            "short": "Ahamada",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 7.6
+          },
+          {
+            "id": "lamine-sy",
+            "name": "Lamine Sy",
+            "short": "Sy",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "danny-namaso",
+            "name": "Danny Namaso",
+            "short": "Namaso",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 9.5
+          },
+          {
+            "id": "romain-faivre",
+            "name": "Romain Faivre",
+            "short": "Faivre",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 8.5
+          },
+          {
+            "id": "cameron-archer",
+            "name": "Cameron Archer",
+            "short": "Archer",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "arthur-piedfort",
+            "name": "Arthur Piedfort",
+            "short": "Piedfort",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "elikya-legros",
+            "name": "Elikya Legros",
+            "short": "Legros",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "youssef-khoudda",
+            "name": "Youssef Khoudda",
+            "short": "Khoudda",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aristide-zossou",
+            "name": "Aristide Zossou",
+            "short": "Zossou",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mamadou-diop",
+            "name": "Mamadou Diop",
+            "short": "Diop",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mamoudou-cissokho",
+            "name": "Mamoudou Cissokho",
+            "short": "Cissokho",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "sinaly-diomande",
+            "name": "Sinaly Diomande",
+            "short": "Diomande",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "pierre-ekwah",
+            "name": "Pierre Ekwah",
+            "short": "Ekwah",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lamfia-dioubate",
+            "name": "Lamfia Dioubaté",
+            "short": "Dioubaté",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 40,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "danny-namaso",
+          "name": "Danny Namaso",
+          "short": "Namaso",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "kevin-danois",
+          "name": "Kévin Danois",
+          "short": "Danois",
+          "position": "CM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Danny Namaso opened the scoring for Auxerre, finishing Kévin Danois's pass right-footed from the right side of the six-yard box."
+      },
+      {
+        "minute": 43,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "clement-akpa",
+          "name": "Clément Akpa",
+          "short": "Akpa",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 50,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "naouirou-ahamada",
+          "name": "Naouirou Ahamada",
+          "short": "Ahamada",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 54,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "mouhamed-n-diaye",
+          "name": "Mouhamed N'Diaye",
+          "short": "N'Diaye",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 61,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "danny-namaso",
+          "name": "Danny Namaso",
+          "short": "Namaso",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "romain-faivre",
+          "name": "Romain Faivre",
+          "short": "Faivre",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Romain Faivre's through ball sent Danny Namaso clear and he slotted a right-footed shot from the centre of the box into the bottom left corner."
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "rayan-fofana",
+          "name": "Rayan Fofana",
+          "short": "Fofana",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sota-nakamura",
+          "name": "Sota Nakamura",
+          "short": "Nakamura",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "hakim-dongopandji",
+          "name": "Hakim Dongopandji",
+          "short": "Dongopandji",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "josh-maja",
+          "name": "Josh Maja",
+          "short": "Maja",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "enzo-koffi",
+          "name": "Enzo Koffi",
+          "short": "Koffi",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mouhamed-n-diaye",
+          "name": "Mouhamed N'Diaye",
+          "short": "N'Diaye",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "rayan-fofana",
+          "name": "Rayan Fofana",
+          "short": "Fofana",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "hakim-dongopandji",
+          "name": "Hakim Dongopandji",
+          "short": "Dongopandji",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "On a fast break, substitute Hakim Dongopandji set up fellow substitute Rayan Fofana, who scored right-footed from the centre of the box."
+      },
+      {
+        "minute": 80,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "romain-faivre",
+          "name": "Romain Faivre",
+          "short": "Faivre",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "danny-namaso",
+          "name": "Danny Namaso",
+          "short": "Namaso",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Romain Faivre settled the game with a right-footed shot from outside the box into the bottom right corner after a pass from Danny Namaso."
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "arthur-piedfort",
+          "name": "Arthur Piedfort",
+          "short": "Piedfort",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "naouirou-ahamada",
+          "name": "Naouirou Ahamada",
+          "short": "Ahamada",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kaito-mizuta",
+          "name": "Kaito Mizuta",
+          "short": "Mizuta",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "djibril-ouziad",
+          "name": "Djibril Ouziad",
+          "short": "Ouziad",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "guy-zohouri",
+          "name": "Guy Zohouri",
+          "short": "Zohouri",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rassoul-ndiaye",
+          "name": "Rassoul Ndiaye",
+          "short": "Ndiaye",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "elikya-legros",
+          "name": "Elikya Legros",
+          "short": "Legros",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lamine-sy",
+          "name": "Lamine Sy",
+          "short": "Sy",
+          "position": "RB",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        15,
+        13
+      ],
+      "onTarget": [
+        6,
+        6
+      ],
+      "corners": [
+        7,
+        4
+      ],
+      "fouls": [
+        16,
+        22
+      ],
+      "possession": 52
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Éric Wattellier",
+      "country": "France"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876438",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876438",
+      "https://ligue1.com/fr/articles/l1_article_5927-",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

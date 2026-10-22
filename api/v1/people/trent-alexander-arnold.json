@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "trent-alexander-arnold",
+    "name": "Trent Alexander-Arnold",
+    "short": "Alexander-Arnold",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "madrid-leipzig",
+        "date": "2026-10-21",
+        "team": "Real Madrid",
+        "role": "bench"
+      }
+    ]
+  }
+}

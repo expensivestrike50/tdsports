@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "pablo-fornals-real-betis-barcelona-2026-10-17",
+    "name": "Pablo Fornals",
+    "short": "P. Fornals",
+    "position": "AM",
+    "photo": "assets/photos/people/pablo-fornals.jpg",
+    "matches": [
+      {
+        "match": "real-betis-barcelona-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Real Betis",
+        "role": "starter"
+      }
+    ]
+  }
+}

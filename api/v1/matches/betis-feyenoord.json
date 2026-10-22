@@ -1,0 +1,736 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "betis-feyenoord",
+    "date": "2026-10-21",
+    "kickoff": "21:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Real Betis",
+      "id": "real-betis",
+      "crest": "assets/clubs/244.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Feyenoord",
+      "id": "feyenoord",
+      "crest": "assets/clubs/142.png",
+      "country": "NL"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "La Cartuja de Sevilla",
+      "city": "Sevilla",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "manuel-pellegrini",
+          "name": "Manuel Pellegrini",
+          "short": "Pellegrini",
+          "position": "Coach",
+          "photo": "assets/photos/people/manuel-pellegrini.jpg"
+        },
+        "starting": [
+          {
+            "id": "alvaro-valles",
+            "name": "Álvaro Valles",
+            "short": "Valles",
+            "position": "GK",
+            "photo": "assets/photos/people/alvaro-valles.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "fran-garcia",
+            "name": "Fran García",
+            "short": "Fran García",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "natan",
+            "name": "Natan",
+            "short": "Natan",
+            "position": "CB",
+            "photo": "assets/photos/people/natan.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 7.5
+          },
+          {
+            "id": "marc-bartra",
+            "name": "Marc Bartra",
+            "short": "Bartra",
+            "position": "CB",
+            "photo": "assets/photos/people/marc-bartra.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 7
+          },
+          {
+            "id": "hector-bellerin",
+            "name": "Héctor Bellerín",
+            "short": "Bellerín",
+            "position": "RB",
+            "photo": "assets/photos/people/hector-bellerin.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "marc-roca",
+            "name": "Marc Roca",
+            "short": "Roca",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7
+          },
+          {
+            "id": "pablo-fornals",
+            "name": "Pablo Fornals",
+            "short": "Fornals",
+            "position": "DM",
+            "photo": "assets/photos/people/pablo-fornals.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 6.3
+          },
+          {
+            "id": "abde-ezzalzouli",
+            "name": "Abde Ezzalzouli",
+            "short": "Abde",
+            "position": "LW",
+            "photo": "assets/photos/people/abde-ezzalzouli.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 6.8
+          },
+          {
+            "id": "isco",
+            "name": "Isco",
+            "short": "Isco",
+            "position": "AM",
+            "photo": "assets/photos/people/isco.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "antony",
+            "name": "Antony",
+            "short": "Antony",
+            "position": "RW",
+            "photo": "assets/photos/people/antony.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 6.4
+          },
+          {
+            "id": "troy-parrott",
+            "name": "Troy Parrott",
+            "short": "Parrott",
+            "position": "ST",
+            "photo": "assets/photos/people/troy-parrott.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 6.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "dani-ceballos",
+            "name": "Dani Ceballos",
+            "short": "Ceballos",
+            "position": "DM",
+            "photo": "assets/photos/people/dani-ceballos.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "rodrigo-riquelme",
+            "name": "Rodrigo Riquelme",
+            "short": "Riquelme",
+            "position": "RW",
+            "photo": "assets/photos/people/rodrigo-riquelme.jpg",
+            "rating": 7.1
+          },
+          {
+            "id": "giovani-lo-celso",
+            "name": "Giovani Lo Celso",
+            "short": "Celso",
+            "position": "AM",
+            "photo": "assets/photos/people/giovani-lo-celso.jpg",
+            "rating": 6.5
+          },
+          {
+            "id": "nelson-deossa",
+            "name": "Nelson Deossa",
+            "short": "Deossa",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "angel-ortiz",
+            "name": "Ángel Ortiz",
+            "short": "Ortiz",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "diego-llorente",
+            "name": "Diego Llorente",
+            "short": "Llorente",
+            "position": "CM",
+            "photo": "assets/photos/people/diego-llorente.jpg",
+            "rating": null
+          },
+          {
+            "id": "jose-morante",
+            "name": "José Morante",
+            "short": "Morante",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aitor-ruibal",
+            "name": "Aitor Ruibal",
+            "short": "Ruibal",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "valentin-gomez",
+            "name": "Valentín Gómez",
+            "short": "Gómez",
+            "position": "CM",
+            "photo": "assets/photos/people/valentin-gomez.jpg",
+            "rating": null
+          },
+          {
+            "id": "diego-conde",
+            "name": "Diego Conde",
+            "short": "Conde",
+            "position": "CM",
+            "photo": "assets/photos/people/diego-conde.jpg",
+            "rating": null
+          },
+          {
+            "id": "facundo-bernal",
+            "name": "Facundo Bernal",
+            "short": "Bernal",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alvaro-fidalgo",
+            "name": "Álvaro Fidalgo",
+            "short": "Fidalgo",
+            "position": "CM",
+            "photo": "assets/photos/people/alvaro-fidalgo.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "giovanni-van-bronckhorst",
+          "name": "Giovanni van Bronckhorst",
+          "short": "Bronckhorst",
+          "position": "Coach",
+          "photo": "assets/photos/people/giovanni-van-bronckhorst.jpg"
+        },
+        "starting": [
+          {
+            "id": "tjark-ernst",
+            "name": "Tjark Ernst",
+            "short": "Ernst",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "javi-lopez",
+            "name": "Javi López",
+            "short": "Javi López",
+            "position": "LB",
+            "photo": "assets/photos/people/javi-lopez.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "mika-marmol",
+            "name": "Mika Mármol",
+            "short": "Mármol",
+            "position": "CB",
+            "photo": "assets/photos/people/mika-marmol.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 6.5
+          },
+          {
+            "id": "jerry-st-juste",
+            "name": "Jerry St. Juste",
+            "short": "St. Juste",
+            "position": "CB",
+            "photo": "assets/photos/people/jerry-st-juste.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 7
+          },
+          {
+            "id": "givairo-read",
+            "name": "Givairo Read",
+            "short": "Read",
+            "position": "RB",
+            "photo": "assets/photos/people/givairo-read.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "oussama-targhaline",
+            "name": "Oussama Targhaline",
+            "short": "Targhaline",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 6.3
+          },
+          {
+            "id": "charles-vanhoutte",
+            "name": "Charles Vanhoutte",
+            "short": "Vanhoutte",
+            "position": "CM",
+            "photo": "assets/photos/people/charles-vanhoutte.jpg",
+            "x": 68,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "gjivai-zechiel",
+            "name": "Gjivai Zechiël",
+            "short": "Zechiël",
+            "position": "CM",
+            "photo": "assets/photos/people/gjivai-zechiel.jpg",
+            "x": 68,
+            "y": 22,
+            "rating": 7.1
+          },
+          {
+            "id": "luciano-valente",
+            "name": "Luciano Valente",
+            "short": "Valente",
+            "position": "LW",
+            "photo": "assets/photos/people/luciano-valente.jpg",
+            "x": 54,
+            "y": 77,
+            "rating": 6.9
+          },
+          {
+            "id": "nacho-ferri",
+            "name": "Nacho Ferri",
+            "short": "Ferri",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "anis-hadj-moussa",
+            "name": "Anis Hadj Moussa",
+            "short": "Hadj Moussa",
+            "position": "RW",
+            "photo": "assets/photos/people/anis-hadj-moussa.jpg",
+            "x": 54,
+            "y": 22,
+            "rating": 7.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "tsuyoshi-watanabe",
+            "name": "Tsuyoshi Watanabe",
+            "short": "Watanabe",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "gaoussou-diarra",
+            "name": "Gaoussou Diarra",
+            "short": "Diarra",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "sem-steijn",
+            "name": "Sem Steijn",
+            "short": "Steijn",
+            "position": "LW",
+            "photo": "assets/photos/people/sem-steijn.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "tobias-van-den-elshout",
+            "name": "Tobias van den Elshout",
+            "short": "Elshout",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "liam-bossin",
+            "name": "Liam Bossin",
+            "short": "Bossin",
+            "position": "CM",
+            "photo": "assets/photos/people/liam-bossin.jpg",
+            "rating": null
+          },
+          {
+            "id": "florian-kastenmeier",
+            "name": "Florian Kastenmeier",
+            "short": "Kastenmeier",
+            "position": "CM",
+            "photo": "assets/photos/people/florian-kastenmeier.jpg",
+            "rating": null
+          },
+          {
+            "id": "thijs-kraaijeveld",
+            "name": "Thijs Kraaijeveld",
+            "short": "Kraaijeveld",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "goncalo-borges",
+            "name": "Gonçalo Borges",
+            "short": "Borges",
+            "position": "CM",
+            "photo": "assets/photos/people/goncalo-borges.jpg",
+            "rating": null
+          },
+          {
+            "id": "mats-deijl",
+            "name": "Mats Deijl",
+            "short": "Deijl",
+            "position": "CM",
+            "photo": "assets/photos/people/mats-deijl.jpg",
+            "rating": null
+          },
+          {
+            "id": "tijme-wessels",
+            "name": "Tijme Wessels",
+            "short": "Wessels",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jerayno-schaken",
+            "name": "Jerayno Schaken",
+            "short": "Schaken",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 14,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "mika-marmol",
+          "name": "Mika Mármol",
+          "short": "Mármol",
+          "position": "CB",
+          "photo": "assets/photos/people/mika-marmol.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 52,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "charles-vanhoutte",
+          "name": "Charles Vanhoutte",
+          "short": "Vanhoutte",
+          "position": "CM",
+          "photo": "assets/photos/people/charles-vanhoutte.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 59,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "isco",
+          "name": "Isco",
+          "short": "Isco",
+          "position": "AM",
+          "photo": "assets/photos/people/isco.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "set",
+        "description": "Jerry St. Juste was penalised for handball in the area moments after Abde Ezzalzouli had shot wide; Isco converted the penalty with a right-footed shot into the bottom right corner."
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "dani-ceballos",
+          "name": "Dani Ceballos",
+          "short": "Ceballos",
+          "position": "DM",
+          "photo": "assets/photos/people/dani-ceballos.jpg"
+        },
+        "replaced": {
+          "id": "pablo-fornals",
+          "name": "Pablo Fornals",
+          "short": "Fornals",
+          "position": "DM",
+          "photo": "assets/photos/people/pablo-fornals.jpg"
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "rodrigo-riquelme",
+          "name": "Rodrigo Riquelme",
+          "short": "Riquelme",
+          "position": "RW",
+          "photo": "assets/photos/people/rodrigo-riquelme.jpg"
+        },
+        "replaced": {
+          "id": "antony",
+          "name": "Antony",
+          "short": "Antony",
+          "position": "RW",
+          "photo": "assets/photos/people/antony.jpg"
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "tsuyoshi-watanabe",
+          "name": "Tsuyoshi Watanabe",
+          "short": "Watanabe",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jerry-st-juste",
+          "name": "Jerry St. Juste",
+          "short": "St. Juste",
+          "position": "CB",
+          "photo": "assets/photos/people/jerry-st-juste.jpg"
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gaoussou-diarra",
+          "name": "Gaoussou Diarra",
+          "short": "Diarra",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "charles-vanhoutte",
+          "name": "Charles Vanhoutte",
+          "short": "Vanhoutte",
+          "position": "CM",
+          "photo": "assets/photos/people/charles-vanhoutte.jpg"
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "giovani-lo-celso",
+          "name": "Giovani Lo Celso",
+          "short": "Celso",
+          "position": "AM",
+          "photo": "assets/photos/people/giovani-lo-celso.jpg"
+        },
+        "replaced": {
+          "id": "isco",
+          "name": "Isco",
+          "short": "Isco",
+          "position": "AM",
+          "photo": "assets/photos/people/isco.jpg"
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nelson-deossa",
+          "name": "Nelson Deossa",
+          "short": "Deossa",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "troy-parrott",
+          "name": "Troy Parrott",
+          "short": "Parrott",
+          "position": "ST",
+          "photo": "assets/photos/people/troy-parrott.jpg"
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "angel-ortiz",
+          "name": "Ángel Ortiz",
+          "short": "Ortiz",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "hector-bellerin",
+          "name": "Héctor Bellerín",
+          "short": "Bellerín",
+          "position": "RB",
+          "photo": "assets/photos/people/hector-bellerin.jpg"
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "sem-steijn",
+          "name": "Sem Steijn",
+          "short": "Steijn",
+          "position": "LW",
+          "photo": "assets/photos/people/sem-steijn.jpg"
+        },
+        "replaced": {
+          "id": "luciano-valente",
+          "name": "Luciano Valente",
+          "short": "Valente",
+          "position": "LW",
+          "photo": "assets/photos/people/luciano-valente.jpg"
+        }
+      },
+      {
+        "minute": 86,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "rodrigo-riquelme",
+          "name": "Rodrigo Riquelme",
+          "short": "Riquelme",
+          "position": "RW",
+          "photo": "assets/photos/people/rodrigo-riquelme.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 92,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "tobias-van-den-elshout",
+          "name": "Tobias van den Elshout",
+          "short": "Elshout",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "oussama-targhaline",
+          "name": "Oussama Targhaline",
+          "short": "Targhaline",
+          "position": "CM",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        23,
+        12
+      ],
+      "onTarget": [
+        10,
+        2
+      ],
+      "corners": [
+        4,
+        4
+      ],
+      "fouls": [
+        8,
+        10
+      ],
+      "possession": 47
+    },
+    "attendance": 67524,
+    "referee": {
+      "name": "Simone Sozza",
+      "country": "Italy"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401915389",
+      "https://www.espn.com/soccer/report/_/gameId/401915389",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915389",
+      "https://www.uefa.com/uefachampionsleague/match/2049604/",
+      "https://match.uefa.com/v5/matches/2049604/lineups",
+      "https://match.uefa.com/v5/matches?competitionId=1&fromDate=2026-10-21&toDate=2026-10-21"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

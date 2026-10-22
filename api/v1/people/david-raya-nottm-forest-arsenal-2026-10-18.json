@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "david-raya-nottm-forest-arsenal-2026-10-18",
+    "name": "David Raya",
+    "short": "Raya",
+    "position": "GK",
+    "photo": "assets/photos/people/david-raya.jpg",
+    "matches": [
+      {
+        "match": "nottm-forest-arsenal-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Arsenal",
+        "role": "starter"
+      }
+    ]
+  }
+}

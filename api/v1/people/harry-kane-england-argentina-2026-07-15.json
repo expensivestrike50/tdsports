@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "harry-kane-england-argentina-2026-07-15",
+    "name": "Harry Kane",
+    "short": "Kane",
+    "position": "ST",
+    "photo": "assets/photos/people/harry-kane.jpg",
+    "matches": [
+      {
+        "match": "england-argentina-2026-07-15",
+        "date": "2026-07-15",
+        "team": "England",
+        "role": "starter"
+      }
+    ]
+  }
+}

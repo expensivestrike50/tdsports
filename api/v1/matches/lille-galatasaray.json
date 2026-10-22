@@ -1,0 +1,741 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "lille-galatasaray",
+    "date": "2026-10-21",
+    "kickoff": "18:45",
+    "competition": "UEFA Champions League",
+    "round": "League Stage · Round 3",
+    "status": "FT",
+    "home": {
+      "name": "Lille",
+      "id": "lille",
+      "crest": "assets/clubs/166.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Galatasaray",
+      "id": "galatasaray",
+      "crest": "assets/clubs/432.png",
+      "country": "TR"
+    },
+    "score": {
+      "home": 2,
+      "away": 4
+    },
+    "tv": "Paramount+",
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Decathlon Arena - Stade Pierre-Mauroy",
+      "city": "Lille",
+      "capacity": 50083
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "ancelotti",
+          "name": "Davide Ancelotti",
+          "short": "Ancelotti",
+          "position": "Coach",
+          "photo": "assets/photos/people/davide-ancelotti.jpg"
+        },
+        "starting": [
+          {
+            "id": "ozer",
+            "name": "Berke Özer",
+            "short": "Özer",
+            "position": "GK",
+            "photo": "assets/photos/people/ozer.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 3.9
+          },
+          {
+            "id": "verdonk",
+            "name": "Calvin Verdonk",
+            "short": "Verdonk",
+            "position": "LB",
+            "photo": "assets/photos/people/verdonk.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 6
+          },
+          {
+            "id": "alexsandro",
+            "name": "Alexsandro Ribeiro",
+            "short": "Alexsandro",
+            "position": "CB",
+            "photo": "assets/photos/people/alexsandro.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 6.6
+          },
+          {
+            "id": "ngoy",
+            "name": "Nathan Ngoy",
+            "short": "Ngoy",
+            "position": "CB",
+            "photo": "assets/photos/people/ngoy.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 6
+          },
+          {
+            "id": "goffi",
+            "name": "Maxima Goffi",
+            "short": "Goffi",
+            "position": "RB",
+            "photo": "assets/photos/people/goffi.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 5
+          },
+          {
+            "id": "andre",
+            "name": "Benjamin André",
+            "short": "André",
+            "position": "CM",
+            "photo": "assets/photos/people/andre.jpg",
+            "x": 31,
+            "y": 23,
+            "rating": 6.3
+          },
+          {
+            "id": "bentaleb",
+            "name": "Nabil Bentaleb",
+            "short": "Bentaleb",
+            "position": "DM",
+            "photo": "assets/photos/people/bentaleb.jpg",
+            "x": 31,
+            "y": 49,
+            "rating": 6.8
+          },
+          {
+            "id": "mukau",
+            "name": "Ngal'ayel Mukau",
+            "short": "Mukau",
+            "position": "CM",
+            "photo": "assets/photos/people/mukau.jpg",
+            "x": 31,
+            "y": 78,
+            "rating": 6.3
+          },
+          {
+            "id": "diaoune",
+            "name": "Soriba Diaoune",
+            "short": "Diaoune",
+            "position": "LW",
+            "photo": "assets/photos/people/diaoune.jpg",
+            "x": 44,
+            "y": 23,
+            "rating": 8.8
+          },
+          {
+            "id": "haraldsson",
+            "name": "Hákon Arnar Haraldsson",
+            "short": "Haraldsson",
+            "position": "AM",
+            "photo": "assets/photos/people/haraldsson.jpg",
+            "x": 44,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "bakwa",
+            "name": "Dilane Bakwa",
+            "short": "Bakwa",
+            "position": "RW",
+            "photo": "assets/photos/people/bakwa.jpg",
+            "x": 44,
+            "y": 80,
+            "rating": 6.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "kjaergaard",
+            "name": "Maurits Kjærgaard",
+            "short": "Kjærgaard",
+            "position": "CM",
+            "photo": "assets/photos/people/maurits-kjaergaard.jpg",
+            "rating": 6.5
+          },
+          {
+            "id": "giroud",
+            "name": "Olivier Giroud",
+            "short": "Giroud",
+            "position": "ST",
+            "photo": "assets/photos/people/olivier-giroud.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "nianzou",
+            "name": "Tanguy Nianzou",
+            "short": "Nianzou",
+            "position": "CB",
+            "photo": "assets/photos/people/tanguy-nianzou.jpg",
+            "rating": 6.2
+          },
+          {
+            "id": "perrin",
+            "name": "Gaëtan Perrin",
+            "short": "Perrin",
+            "position": "AM",
+            "photo": "assets/photos/people/gaetan-perrin.jpg",
+            "rating": 6.1
+          },
+          {
+            "id": "onal",
+            "name": "Başar Önal",
+            "short": "Önal",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.3
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "buruk",
+          "name": "Okan Buruk",
+          "short": "Buruk",
+          "position": "Coach",
+          "photo": "assets/photos/people/okan-buruk.jpg"
+        },
+        "starting": [
+          {
+            "id": "cakir",
+            "name": "Uğurcan Çakır",
+            "short": "Çakır",
+            "position": "GK",
+            "photo": "assets/photos/people/cakir.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "sallai",
+            "name": "Roland Sallai",
+            "short": "Sallai",
+            "position": "RB",
+            "photo": "assets/photos/people/sallai.jpg",
+            "x": 86,
+            "y": 12,
+            "rating": 7.8
+          },
+          {
+            "id": "sanchez",
+            "name": "Davinson Sánchez",
+            "short": "Sánchez",
+            "position": "CB",
+            "photo": null,
+            "x": 86,
+            "y": 38,
+            "rating": 7.1
+          },
+          {
+            "id": "bardakci",
+            "name": "Abdülkerim Bardakcı",
+            "short": "Bardakcı",
+            "position": "CB",
+            "photo": "assets/photos/people/bardakci.jpg",
+            "x": 86,
+            "y": 64,
+            "rating": 6.7
+          },
+          {
+            "id": "jakobs",
+            "name": "Ismail Jakobs",
+            "short": "Jakobs",
+            "position": "LB",
+            "photo": "assets/photos/people/jakobs.jpg",
+            "x": 86,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "akgun",
+            "name": "Yunus Akgün",
+            "short": "Akgün",
+            "position": "RW",
+            "photo": "assets/photos/people/akgun.jpg",
+            "x": 66,
+            "y": 16,
+            "rating": 8.3
+          },
+          {
+            "id": "torreira",
+            "name": "Lucas Torreira",
+            "short": "Torreira",
+            "position": "DM",
+            "photo": "assets/photos/people/torreira.jpg",
+            "x": 76,
+            "y": 31,
+            "rating": 7
+          },
+          {
+            "id": "sara",
+            "name": "Gabriel Sara",
+            "short": "Sara",
+            "position": "DM",
+            "photo": "assets/photos/people/sara.jpg",
+            "x": 76,
+            "y": 72,
+            "rating": 6.7
+          },
+          {
+            "id": "osimhen",
+            "name": "Victor Osimhen",
+            "short": "Osimhen",
+            "position": "ST",
+            "photo": "assets/photos/people/osimhen.jpg",
+            "x": 57,
+            "y": 50,
+            "rating": 7.9
+          },
+          {
+            "id": "batrakov",
+            "name": "Aleksey Batrakov",
+            "short": "Batrakov",
+            "position": "AM",
+            "photo": "assets/photos/people/batrakov.jpg",
+            "x": 66,
+            "y": 50,
+            "rating": 8
+          },
+          {
+            "id": "yilmaz",
+            "name": "Barış Alper Yılmaz",
+            "short": "Yılmaz",
+            "position": "LW",
+            "photo": "assets/photos/people/yilmaz.jpg",
+            "x": 66,
+            "y": 88,
+            "rating": 8
+          }
+        ],
+        "bench": [
+          {
+            "id": "lemina",
+            "name": "Mario Lemina",
+            "short": "Lemina",
+            "position": "DM",
+            "photo": "assets/photos/people/mario-lemina.jpg",
+            "rating": 6.9
+          },
+          {
+            "id": "elmali",
+            "name": "Eren Elmalı",
+            "short": "Elmalı",
+            "position": "LB",
+            "photo": "assets/photos/people/eren-elmali.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "sane",
+            "name": "Leroy Sané",
+            "short": "Sané",
+            "position": "RW",
+            "photo": "assets/photos/people/leroy-sane.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "gul",
+            "name": "Deniz Gül",
+            "short": "Gül",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "gundogan",
+            "name": "İlkay Gündoğan",
+            "short": "Gündoğan",
+            "position": "CM",
+            "photo": "assets/photos/people/ilkay-gundogan.jpg",
+            "rating": 6.7
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 2,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "akgun",
+          "name": "Yunus Akgün",
+          "short": "Akgün",
+          "position": "RW",
+          "photo": "assets/photos/people/akgun.jpg"
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false
+      },
+      {
+        "minute": 7,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "diaoune",
+          "name": "Soriba Diaoune",
+          "short": "Diaoune",
+          "position": "LW",
+          "photo": "assets/photos/people/diaoune.jpg"
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false
+      },
+      {
+        "minute": 27,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "osimhen",
+          "name": "Victor Osimhen",
+          "short": "Osimhen",
+          "position": "ST",
+          "photo": "assets/photos/people/osimhen.jpg"
+        },
+        "detail": "Penalty overturned"
+      },
+      {
+        "minute": 39,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "diaoune",
+          "name": "Soriba Diaoune",
+          "short": "Diaoune",
+          "position": "LW",
+          "photo": "assets/photos/people/diaoune.jpg"
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false
+      },
+      {
+        "minute": 44,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "batrakov",
+          "name": "Aleksey Batrakov",
+          "short": "Batrakov",
+          "position": "AM",
+          "photo": "assets/photos/people/batrakov.jpg"
+        },
+        "scoreAfter": "2 - 2",
+        "penalty": false
+      },
+      {
+        "minute": 52,
+        "type": "own_goal",
+        "team": "away",
+        "player": {
+          "id": "ozer",
+          "name": "Berke Özer",
+          "short": "Özer",
+          "position": "GK",
+          "photo": "assets/photos/people/ozer.jpg"
+        },
+        "scoreAfter": "2 - 3",
+        "penalty": false
+      },
+      {
+        "minute": 59,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "andre",
+          "name": "Benjamin André",
+          "short": "André",
+          "position": "CM",
+          "photo": "assets/photos/people/andre.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 61,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "osimhen",
+          "name": "Victor Osimhen",
+          "short": "Osimhen",
+          "position": "ST",
+          "photo": "assets/photos/people/osimhen.jpg"
+        },
+        "scoreAfter": "2 - 4",
+        "penalty": false
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "lemina",
+          "name": "Mario Lemina",
+          "short": "Lemina",
+          "position": "DM",
+          "photo": "assets/photos/people/mario-lemina.jpg"
+        },
+        "replaced": {
+          "id": "sara",
+          "name": "Gabriel Sara",
+          "short": "Sara",
+          "position": "DM",
+          "photo": "assets/photos/people/sara.jpg"
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kjaergaard",
+          "name": "Maurits Kjærgaard",
+          "short": "Kjærgaard",
+          "position": "CM",
+          "photo": "assets/photos/people/maurits-kjaergaard.jpg"
+        },
+        "replaced": {
+          "id": "andre",
+          "name": "Benjamin André",
+          "short": "André",
+          "position": "CM",
+          "photo": "assets/photos/people/andre.jpg"
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "giroud",
+          "name": "Olivier Giroud",
+          "short": "Giroud",
+          "position": "ST",
+          "photo": "assets/photos/people/olivier-giroud.jpg"
+        },
+        "replaced": {
+          "id": "mukau",
+          "name": "Ngal'ayel Mukau",
+          "short": "Mukau",
+          "position": "CM",
+          "photo": "assets/photos/people/mukau.jpg"
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nianzou",
+          "name": "Tanguy Nianzou",
+          "short": "Nianzou",
+          "position": "CB",
+          "photo": "assets/photos/people/tanguy-nianzou.jpg"
+        },
+        "replaced": {
+          "id": "goffi",
+          "name": "Maxima Goffi",
+          "short": "Goffi",
+          "position": "RB",
+          "photo": "assets/photos/people/goffi.jpg"
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "elmali",
+          "name": "Eren Elmalı",
+          "short": "Elmalı",
+          "position": "LB",
+          "photo": "assets/photos/people/eren-elmali.jpg"
+        },
+        "replaced": {
+          "id": "yilmaz",
+          "name": "Barış Alper Yılmaz",
+          "short": "Yılmaz",
+          "position": "LW",
+          "photo": "assets/photos/people/yilmaz.jpg"
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "perrin",
+          "name": "Gaëtan Perrin",
+          "short": "Perrin",
+          "position": "AM",
+          "photo": "assets/photos/people/gaetan-perrin.jpg"
+        },
+        "replaced": {
+          "id": "diaoune",
+          "name": "Soriba Diaoune",
+          "short": "Diaoune",
+          "position": "LW",
+          "photo": "assets/photos/people/diaoune.jpg"
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "onal",
+          "name": "Başar Önal",
+          "short": "Önal",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bentaleb",
+          "name": "Nabil Bentaleb",
+          "short": "Bentaleb",
+          "position": "DM",
+          "photo": "assets/photos/people/bentaleb.jpg"
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "sane",
+          "name": "Leroy Sané",
+          "short": "Sané",
+          "position": "RW",
+          "photo": "assets/photos/people/leroy-sane.jpg"
+        },
+        "replaced": {
+          "id": "akgun",
+          "name": "Yunus Akgün",
+          "short": "Akgün",
+          "position": "RW",
+          "photo": "assets/photos/people/akgun.jpg"
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gul",
+          "name": "Deniz Gül",
+          "short": "Gül",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "osimhen",
+          "name": "Victor Osimhen",
+          "short": "Osimhen",
+          "position": "ST",
+          "photo": "assets/photos/people/osimhen.jpg"
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gundogan",
+          "name": "İlkay Gündoğan",
+          "short": "Gündoğan",
+          "position": "CM",
+          "photo": "assets/photos/people/ilkay-gundogan.jpg"
+        },
+        "replaced": {
+          "id": "batrakov",
+          "name": "Aleksey Batrakov",
+          "short": "Batrakov",
+          "position": "AM",
+          "photo": "assets/photos/people/batrakov.jpg"
+        }
+      },
+      {
+        "minute": 85,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "jakobs",
+          "name": "Ismail Jakobs",
+          "short": "Jakobs",
+          "position": "LB",
+          "photo": "assets/photos/people/jakobs.jpg"
+        },
+        "detail": "High boot"
+      },
+      {
+        "minute": 89,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "perrin",
+          "name": "Gaëtan Perrin",
+          "short": "Perrin",
+          "position": "AM",
+          "photo": "assets/photos/people/gaetan-perrin.jpg"
+        },
+        "detail": "Foul"
+      }
+    ],
+    "stats": {
+      "possession": 56,
+      "xg": [
+        1.88,
+        1.64
+      ],
+      "shots": [
+        15,
+        10
+      ],
+      "onTarget": [
+        6,
+        6
+      ],
+      "boxTouches": [
+        22,
+        27
+      ],
+      "bigChances": [
+        4,
+        3
+      ],
+      "passes": [
+        481,
+        372
+      ],
+      "corners": [
+        7,
+        4
+      ],
+      "fouls": [
+        11,
+        14
+      ],
+      "yellows": [
+        2,
+        1
+      ]
+    },
+    "attendance": 44142,
+    "referee": null,
+    "sources": [],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "sample",
+      "ratings": "sample"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "diego-mejia",
+    "name": "Diego Mejía",
+    "short": "Mejía",
+    "position": "Coach",
+    "photo": null,
+    "matches": [
+      {
+        "match": "atl-san-luis-queretaro-2026-10-20",
+        "date": "2026-10-20",
+        "team": "Atl. San Luis",
+        "role": "coach"
+      }
+    ]
+  }
+}

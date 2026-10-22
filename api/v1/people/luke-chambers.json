@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "luke-chambers",
+    "name": "Luke Chambers",
+    "short": "Chambers",
+    "position": "CM",
+    "photo": "assets/photos/people/luke-chambers.jpg",
+    "matches": [
+      {
+        "match": "liverpool-villarreal",
+        "date": "2026-10-20",
+        "team": "Liverpool",
+        "role": "bench"
+      }
+    ]
+  }
+}

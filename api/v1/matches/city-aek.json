@@ -1,0 +1,808 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "city-aek",
+    "date": "2026-10-20",
+    "kickoff": "20:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Man City",
+      "id": "man-city",
+      "crest": "assets/clubs/382.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "AEK Athens",
+      "id": "aek-athens",
+      "crest": "assets/clubs/887.png",
+      "country": "GR"
+    },
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Etihad Stadium (City of Manchester Stadium)",
+      "city": "Manchester",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "enzo-maresca",
+          "name": "Enzo Maresca",
+          "short": "Maresca",
+          "position": "Coach",
+          "photo": "assets/photos/people/enzo-maresca.jpg"
+        },
+        "starting": [
+          {
+            "id": "gianluigi-donnarumma",
+            "name": "Gianluigi Donnarumma",
+            "short": "Donnarumma",
+            "position": "GK",
+            "photo": "assets/photos/people/gianluigi-donnarumma.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "josko-gvardiol",
+            "name": "Joško Gvardiol",
+            "short": "Gvardiol",
+            "position": "LB",
+            "photo": "assets/photos/people/josko-gvardiol.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 7.5
+          },
+          {
+            "id": "ruben-dias",
+            "name": "Rúben Dias",
+            "short": "Dias",
+            "position": "CB",
+            "photo": "assets/photos/people/ruben-dias.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 6.9
+          },
+          {
+            "id": "abdukodir-khusanov",
+            "name": "Abdukodir Khusanov",
+            "short": "Khusanov",
+            "position": "CB",
+            "photo": "assets/photos/people/abdukodir-khusanov.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 6.5
+          },
+          {
+            "id": "rico-lewis",
+            "name": "Rico Lewis",
+            "short": "Lewis",
+            "position": "RB",
+            "photo": "assets/photos/people/rico-lewis.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 7.5
+          },
+          {
+            "id": "enzo-fernandez",
+            "name": "Enzo Fernández",
+            "short": "Enzo",
+            "position": "DM",
+            "photo": "assets/photos/people/enzo-fernandez.jpg",
+            "x": 27,
+            "y": 30,
+            "rating": 7.4
+          },
+          {
+            "id": "elliot-anderson",
+            "name": "Elliot Anderson",
+            "short": "Anderson",
+            "position": "DM",
+            "photo": "assets/photos/people/elliot-anderson.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 7.9
+          },
+          {
+            "id": "allan-elias",
+            "name": "Allan Elias",
+            "short": "Elias",
+            "position": "LW",
+            "photo": "assets/photos/people/allan-elias.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 7.2
+          },
+          {
+            "id": "rayan-cherki",
+            "name": "Rayan Cherki",
+            "short": "Cherki",
+            "position": "AM",
+            "photo": "assets/photos/people/rayan-cherki.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 8.4
+          },
+          {
+            "id": "phil-foden",
+            "name": "Phil Foden",
+            "short": "Foden",
+            "position": "RW",
+            "photo": "assets/photos/people/phil-foden.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 9.6
+          },
+          {
+            "id": "floyd-samba",
+            "name": "Floyd Samba",
+            "short": "Samba",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "ryan-mcaidoo",
+            "name": "Ryan McAidoo",
+            "short": "McAidoo",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "vitor-reis",
+            "name": "Vitor Reis",
+            "short": "Reis",
+            "position": "LB",
+            "photo": "assets/photos/people/vitor-reis.jpg",
+            "rating": 7.2
+          },
+          {
+            "id": "rayan-ait-nouri",
+            "name": "Rayan Aït-Nouri",
+            "short": "Aït-Nouri",
+            "position": "DM",
+            "photo": "assets/photos/people/rayan-ait-nouri.jpg",
+            "rating": 7
+          },
+          {
+            "id": "kaden-braithwaite",
+            "name": "Kaden Braithwaite",
+            "short": "Braithwaite",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "ayyoub-bouaddi",
+            "name": "Ayyoub Bouaddi",
+            "short": "Bouaddi",
+            "position": "CM",
+            "photo": "assets/photos/people/ayyoub-bouaddi.jpg",
+            "rating": null
+          },
+          {
+            "id": "jeremy-doku",
+            "name": "Jérémy Doku",
+            "short": "Doku",
+            "position": "CM",
+            "photo": "assets/photos/people/jeremy-doku.jpg",
+            "rating": null
+          },
+          {
+            "id": "geronimo-rulli",
+            "name": "Gerónimo Rulli",
+            "short": "Rulli",
+            "position": "CM",
+            "photo": "assets/photos/people/geronimo-rulli.jpg",
+            "rating": null
+          },
+          {
+            "id": "iliman-ndiaye",
+            "name": "Iliman Ndiaye",
+            "short": "Ndiaye",
+            "position": "CM",
+            "photo": "assets/photos/people/iliman-ndiaye.jpg",
+            "rating": null
+          },
+          {
+            "id": "marcus-bettinelli",
+            "name": "Marcus Bettinelli",
+            "short": "Bettinelli",
+            "position": "CM",
+            "photo": "assets/photos/people/marcus-bettinelli.jpg",
+            "rating": null
+          },
+          {
+            "id": "marc-guehi",
+            "name": "Marc Guéhi",
+            "short": "Guéhi",
+            "position": "CM",
+            "photo": "assets/photos/people/marc-guehi.jpg",
+            "rating": null
+          },
+          {
+            "id": "erling-haaland",
+            "name": "Erling Haaland",
+            "short": "Haaland",
+            "position": "CM",
+            "photo": "assets/photos/people/erling-haaland.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "marko-nikolic",
+          "name": "Marko Nikolić",
+          "short": "Nikolić",
+          "position": "Coach",
+          "photo": "assets/photos/people/marko-nikolic.jpg"
+        },
+        "starting": [
+          {
+            "id": "alberto-brignoli",
+            "name": "Alberto Brignoli",
+            "short": "Brignoli",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.1
+          },
+          {
+            "id": "stavros-pilios",
+            "name": "Stavros Pilios",
+            "short": "Pilios",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.9
+          },
+          {
+            "id": "filipe-relvas",
+            "name": "Filipe Relvas",
+            "short": "Relvas",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.3
+          },
+          {
+            "id": "harold-moukoudi",
+            "name": "Harold Moukoudi",
+            "short": "Moukoudi",
+            "position": "CB",
+            "photo": "assets/photos/people/harold-moukoudi.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 7
+          },
+          {
+            "id": "lazaros-rota",
+            "name": "Lazaros Rota",
+            "short": "Rota",
+            "position": "RB",
+            "photo": "assets/photos/people/lazaros-rota.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 7.3
+          },
+          {
+            "id": "joao-mario",
+            "name": "João Mário",
+            "short": "João Mário",
+            "position": "LW",
+            "photo": "assets/photos/people/joao-mario.jpg",
+            "x": 68,
+            "y": 88,
+            "rating": 6.4
+          },
+          {
+            "id": "razvan-marin",
+            "name": "Răzvan Marin",
+            "short": "Marin",
+            "position": "CM",
+            "photo": "assets/photos/people/razvan-marin.jpg",
+            "x": 68,
+            "y": 62,
+            "rating": 6.6
+          },
+          {
+            "id": "kervin-arriaga",
+            "name": "Kervin Arriaga",
+            "short": "Arriaga",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 6.2
+          },
+          {
+            "id": "lovro-majer",
+            "name": "Lovro Majer",
+            "short": "Majer",
+            "position": "RW",
+            "photo": "assets/photos/people/lovro-majer.jpg",
+            "x": 68,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "barnabas-varga",
+            "name": "Barnabás Varga",
+            "short": "Varga",
+            "position": "ST",
+            "photo": "assets/photos/people/barnabas-varga.jpg",
+            "x": 54,
+            "y": 70,
+            "rating": 7.1
+          },
+          {
+            "id": "luka-jovic",
+            "name": "Luka Jović",
+            "short": "Jović",
+            "position": "ST",
+            "photo": "assets/photos/people/luka-jovic.jpg",
+            "x": 54,
+            "y": 30,
+            "rating": 7.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "aboubakary-koita",
+            "name": "Aboubakary Koïta",
+            "short": "Koïta",
+            "position": "CM",
+            "photo": "assets/photos/people/aboubakary-koita.jpg",
+            "rating": 6.1
+          },
+          {
+            "id": "zini",
+            "name": "Zini",
+            "short": "Zini",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "oleksandr-zubkov",
+            "name": "Oleksandr Zubkov",
+            "short": "Zubkov",
+            "position": "LW",
+            "photo": "assets/photos/people/oleksandr-zubkov.jpg",
+            "rating": 6.3
+          },
+          {
+            "id": "mijat-gacinovic",
+            "name": "Mijat Gaćinović",
+            "short": "Gaćinović",
+            "position": "CM",
+            "photo": "assets/photos/people/mijat-gacinovic.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "milan-vitalis",
+            "name": "Milán Vitális",
+            "short": "Vitális",
+            "position": "ST",
+            "photo": "assets/photos/people/milan-vitalis.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "charalampos-lykogiannis",
+            "name": "Charalampos Lykogiannis",
+            "short": "Lykogiannis",
+            "position": "CM",
+            "photo": "assets/photos/people/charalampos-lykogiannis.jpg",
+            "rating": null
+          },
+          {
+            "id": "domagoj-vida",
+            "name": "Domagoj Vida",
+            "short": "Vida",
+            "position": "CM",
+            "photo": "assets/photos/people/domagoj-vida.jpg",
+            "rating": null
+          },
+          {
+            "id": "marios-balamotis",
+            "name": "Marios Balamotis",
+            "short": "Balamotis",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kaan-kairinen",
+            "name": "Kaan Kairinen",
+            "short": "Kairinen",
+            "position": "CM",
+            "photo": "assets/photos/people/kaan-kairinen.jpg",
+            "rating": null
+          },
+          {
+            "id": "petros-mantalos",
+            "name": "Petros Mantalos",
+            "short": "Mantalos",
+            "position": "CM",
+            "photo": "assets/photos/people/petros-mantalos.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 12,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "elliot-anderson",
+          "name": "Elliot Anderson",
+          "short": "Anderson",
+          "position": "DM",
+          "photo": "assets/photos/people/elliot-anderson.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "Anderson, with his first goal for the club, finished left-footed from very close range into the roof of the net following a set-piece situation."
+      },
+      {
+        "minute": 34,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "phil-foden",
+          "name": "Phil Foden",
+          "short": "Foden",
+          "position": "RW",
+          "photo": "assets/photos/people/phil-foden.jpg"
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "rico-lewis",
+          "name": "Rico Lewis",
+          "short": "Lewis",
+          "position": "RB",
+          "photo": "assets/photos/people/rico-lewis.jpg"
+        },
+        "goalType": "build",
+        "description": "Rico Lewis set up Foden, who fired a right-footed shot from the right side of the six-yard box into the top-right corner."
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "aboubakary-koita",
+          "name": "Aboubakary Koïta",
+          "short": "Koïta",
+          "position": "CM",
+          "photo": "assets/photos/people/aboubakary-koita.jpg"
+        },
+        "replaced": {
+          "id": "razvan-marin",
+          "name": "Răzvan Marin",
+          "short": "Marin",
+          "position": "CM",
+          "photo": "assets/photos/people/razvan-marin.jpg"
+        }
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "zini",
+          "name": "Zini",
+          "short": "Zini",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "barnabas-varga",
+          "name": "Barnabás Varga",
+          "short": "Varga",
+          "position": "ST",
+          "photo": "assets/photos/people/barnabas-varga.jpg"
+        }
+      },
+      {
+        "minute": 52,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "stavros-pilios",
+          "name": "Stavros Pilios",
+          "short": "Pilios",
+          "position": "LB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "zini",
+          "name": "Zini",
+          "short": "Zini",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "On a fast break, half-time substitute Zini found left-back Pilios, who struck a left-footed shot from the left side of the box into the bottom-right corner."
+      },
+      {
+        "minute": 57,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "rayan-cherki",
+          "name": "Rayan Cherki",
+          "short": "Cherki",
+          "position": "AM",
+          "photo": "assets/photos/people/rayan-cherki.jpg"
+        },
+        "scoreAfter": "3 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "phil-foden",
+          "name": "Phil Foden",
+          "short": "Foden",
+          "position": "RW",
+          "photo": "assets/photos/people/phil-foden.jpg"
+        },
+        "goalType": "build",
+        "description": "Foden teed up Cherki, who finished left-footed from the centre of the box into the bottom-left corner."
+      },
+      {
+        "minute": 59,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "josko-gvardiol",
+          "name": "Joško Gvardiol",
+          "short": "Gvardiol",
+          "position": "LB",
+          "photo": "assets/photos/people/josko-gvardiol.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ryan-mcaidoo",
+          "name": "Ryan McAidoo",
+          "short": "McAidoo",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "floyd-samba",
+          "name": "Floyd Samba",
+          "short": "Samba",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "oleksandr-zubkov",
+          "name": "Oleksandr Zubkov",
+          "short": "Zubkov",
+          "position": "LW",
+          "photo": "assets/photos/people/oleksandr-zubkov.jpg"
+        },
+        "replaced": {
+          "id": "joao-mario",
+          "name": "João Mário",
+          "short": "João Mário",
+          "position": "LW",
+          "photo": "assets/photos/people/joao-mario.jpg"
+        }
+      },
+      {
+        "minute": 65,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "phil-foden",
+          "name": "Phil Foden",
+          "short": "Foden",
+          "position": "RW",
+          "photo": "assets/photos/people/phil-foden.jpg"
+        },
+        "scoreAfter": "4 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "rico-lewis",
+          "name": "Rico Lewis",
+          "short": "Lewis",
+          "position": "RB",
+          "photo": "assets/photos/people/rico-lewis.jpg"
+        },
+        "goalType": "build",
+        "description": "Lewis again provided for Foden, who curled a left-footed shot from the centre of the box into the top-left corner."
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "vitor-reis",
+          "name": "Vitor Reis",
+          "short": "Reis",
+          "position": "LB",
+          "photo": "assets/photos/people/vitor-reis.jpg"
+        },
+        "replaced": {
+          "id": "josko-gvardiol",
+          "name": "Joško Gvardiol",
+          "short": "Gvardiol",
+          "position": "LB",
+          "photo": "assets/photos/people/josko-gvardiol.jpg"
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "rayan-ait-nouri",
+          "name": "Rayan Aït-Nouri",
+          "short": "Aït-Nouri",
+          "position": "DM",
+          "photo": "assets/photos/people/rayan-ait-nouri.jpg"
+        },
+        "replaced": {
+          "id": "enzo-fernandez",
+          "name": "Enzo Fernández",
+          "short": "Enzo",
+          "position": "DM",
+          "photo": "assets/photos/people/enzo-fernandez.jpg"
+        }
+      },
+      {
+        "minute": 76,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "phil-foden",
+          "name": "Phil Foden",
+          "short": "Foden",
+          "position": "RW",
+          "photo": "assets/photos/people/phil-foden.jpg"
+        },
+        "scoreAfter": "5 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "ryan-mcaidoo",
+          "name": "Ryan McAidoo",
+          "short": "McAidoo",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Substitute McAidoo set up Foden to complete his hat-trick with a left-footed finish from very close range into the top-left corner."
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kaden-braithwaite",
+          "name": "Kaden Braithwaite",
+          "short": "Braithwaite",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ruben-dias",
+          "name": "Rúben Dias",
+          "short": "Dias",
+          "position": "CB",
+          "photo": "assets/photos/people/ruben-dias.jpg"
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mijat-gacinovic",
+          "name": "Mijat Gaćinović",
+          "short": "Gaćinović",
+          "position": "CM",
+          "photo": "assets/photos/people/mijat-gacinovic.jpg"
+        },
+        "replaced": {
+          "id": "kervin-arriaga",
+          "name": "Kervin Arriaga",
+          "short": "Arriaga",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "milan-vitalis",
+          "name": "Milán Vitális",
+          "short": "Vitális",
+          "position": "ST",
+          "photo": "assets/photos/people/milan-vitalis.jpg"
+        },
+        "replaced": {
+          "id": "luka-jovic",
+          "name": "Luka Jović",
+          "short": "Jović",
+          "position": "ST",
+          "photo": "assets/photos/people/luka-jovic.jpg"
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        17,
+        11
+      ],
+      "onTarget": [
+        7,
+        3
+      ],
+      "corners": [
+        8,
+        3
+      ],
+      "fouls": [
+        6,
+        10
+      ],
+      "possession": 64
+    },
+    "attendance": 40042,
+    "referee": {
+      "name": "Willy Delajod",
+      "country": "France"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401915401",
+      "https://www.espn.com/soccer/report/_/gameId/401915401",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915401",
+      "https://match.uefa.com/v5/matches/2049591/lineups",
+      "https://www.uefa.com/uefachampionsleague/match/2049591/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

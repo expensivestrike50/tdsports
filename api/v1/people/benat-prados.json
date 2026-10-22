@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "benat-prados",
+    "name": "Beñat Prados",
+    "short": "Prados",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "valencia-athletic-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Athletic",
+        "role": "bench"
+      }
+    ]
+  }
+}

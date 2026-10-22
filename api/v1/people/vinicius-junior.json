@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "vinicius-junior",
+    "name": "Vinícius Júnior",
+    "short": "Vinícius Júnior",
+    "position": "LW",
+    "photo": "assets/photos/people/vinicius-junior.jpg",
+    "matches": [
+      {
+        "match": "madrid-leipzig",
+        "date": "2026-10-21",
+        "team": "Real Madrid",
+        "role": "starter"
+      }
+    ]
+  }
+}

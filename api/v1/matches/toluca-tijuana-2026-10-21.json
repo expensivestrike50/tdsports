@@ -1,0 +1,747 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "toluca-tijuana-2026-10-21",
+    "date": "2026-10-21",
+    "kickoff": "19:00",
+    "competition": "Liga MX",
+    "round": "Apertura, jornada 13",
+    "status": "FT",
+    "home": {
+      "name": "Toluca",
+      "id": "toluca",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
+      "country": "MX"
+    },
+    "away": {
+      "name": "Tijuana",
+      "id": "tijuana",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/10125.png",
+      "country": "MX"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio Nemesio Díez Riega",
+      "city": "Toluca",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "antonio-mohamed",
+          "name": "Antonio Mohamed",
+          "short": "Mohamed",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "luis-garcia",
+            "name": "Luis García",
+            "short": "García",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "jesus-gallardo",
+            "name": "Jesús Gallardo",
+            "short": "Gallardo",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "everardo-lopez",
+            "name": "Everardo López",
+            "short": "López",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.9
+          },
+          {
+            "id": "federico-pereira",
+            "name": "Federico Pereira",
+            "short": "Pereira",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.3
+          },
+          {
+            "id": "diego-zaragoza",
+            "name": "Diego Zaragoza",
+            "short": "Zaragoza",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "nicolas-castro",
+            "name": "Nicolás Castro",
+            "short": "Castro",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 8
+          },
+          {
+            "id": "franco-romero",
+            "name": "Franco Romero",
+            "short": "Romero",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.3
+          },
+          {
+            "id": "alexis-vega",
+            "name": "Alexis Vega",
+            "short": "Vega",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.3
+          },
+          {
+            "id": "jesus-angulo",
+            "name": "Jesús Angulo",
+            "short": "Angulo",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "helinho",
+            "name": "Helinho",
+            "short": "Helinho",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 8.3
+          },
+          {
+            "id": "paulinho",
+            "name": "Paulinho",
+            "short": "Paulinho",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "federico-vinas",
+            "name": "Federico Viñas",
+            "short": "Viñas",
+            "position": "AM",
+            "photo": null,
+            "rating": 8
+          },
+          {
+            "id": "luis-garcia",
+            "name": "Luis García",
+            "short": "García",
+            "position": "GK",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "erick-gutierrez",
+            "name": "Érick Gutiérrez",
+            "short": "Gutiérrez",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "jorge-diaz",
+            "name": "Jorge Díaz",
+            "short": "Díaz",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "joban-gonzalez",
+            "name": "Joban González",
+            "short": "González",
+            "position": "LW",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "luan",
+            "name": "Luan",
+            "short": "Luan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "pavel-perez",
+            "name": "Pável Pérez",
+            "short": "Pérez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "fernando-arce",
+            "name": "Fernando Arce",
+            "short": "Arce",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "bruno-mendez",
+            "name": "Bruno Méndez",
+            "short": "Méndez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "santiago-simon",
+            "name": "Santiago Simón",
+            "short": "Simón",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-4-1",
+        "coach": {
+          "id": "sebastian-abreu",
+          "name": "Sebastián Abreu",
+          "short": "Abreu",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "antonio-rodriguez",
+            "name": "Antonio Rodríguez",
+            "short": "Rodríguez",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "pablo-nicolas-ortiz",
+            "name": "Pablo Nicolás Ortíz",
+            "short": "Ortíz",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 92,
+            "rating": 6.9
+          },
+          {
+            "id": "unai-bilbao",
+            "name": "Unai Bilbao",
+            "short": "Bilbao",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 71,
+            "rating": 6.8
+          },
+          {
+            "id": "jackson-porozo",
+            "name": "Jackson Porozo",
+            "short": "Porozo",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "rafael-fernandez",
+            "name": "Rafael Fernández",
+            "short": "Fernández",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 29,
+            "rating": 6.7
+          },
+          {
+            "id": "ramiro-arciga",
+            "name": "Ramiro Árciga",
+            "short": "Árciga",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 8,
+            "rating": 7.3
+          },
+          {
+            "id": "joban-gonzalez",
+            "name": "Joban González",
+            "short": "González",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "angel-zapata",
+            "name": "Ángel Zapata",
+            "short": "Zapata",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 6.5
+          },
+          {
+            "id": "frank-thierry-boya",
+            "name": "Frank Thierry Boya",
+            "short": "Boya",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 7.1
+          },
+          {
+            "id": "jonathan-padilla",
+            "name": "Jonathan Padilla",
+            "short": "Padilla",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 8.1
+          },
+          {
+            "id": "elias-manoel",
+            "name": "Elias Manoel",
+            "short": "Elias Manoel",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "mourad-el-ghezouani",
+            "name": "Mourad El Ghezouani",
+            "short": "Ghezouani",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "adonis-preciado",
+            "name": "Adonis Preciado",
+            "short": "Preciado",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "ignacio-rivero",
+            "name": "Ignacio Rivero",
+            "short": "Rivero",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "jesus-gomez",
+            "name": "Jesús Gómez",
+            "short": "Gómez",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "joban-gonzalez",
+            "name": "Joban González",
+            "short": "González",
+            "position": "LW",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "ivan-tona",
+            "name": "Iván Tona",
+            "short": "Tona",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "diego-abreu",
+            "name": "Diego Abreu",
+            "short": "Abreu",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aaron-mejia",
+            "name": "Aaron Mejía",
+            "short": "Mejía",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jorge-hernandez",
+            "name": "Jorge Hernández",
+            "short": "Hernández",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ian-olvera",
+            "name": "Ian Olvera",
+            "short": "Olvera",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 38,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "elias-manoel",
+          "name": "Elias Manoel",
+          "short": "Elias Manoel",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "jonathan-padilla",
+          "name": "Jonathan Padilla",
+          "short": "Padilla",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Tijuana broke quickly and Jonathan Padilla set up Elias Manoel, who finished with his right foot from the centre of the box into the bottom right corner."
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "federico-vinas",
+          "name": "Federico Viñas",
+          "short": "Viñas",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jesus-angulo",
+          "name": "Jesús Angulo",
+          "short": "Angulo",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "luis-garcia",
+          "name": "Luis García",
+          "short": "García",
+          "position": "GK",
+          "photo": null
+        },
+        "replaced": {
+          "id": "diego-zaragoza",
+          "name": "Diego Zaragoza",
+          "short": "Zaragoza",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 57,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mourad-el-ghezouani",
+          "name": "Mourad El Ghezouani",
+          "short": "Ghezouani",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "elias-manoel",
+          "name": "Elias Manoel",
+          "short": "Elias Manoel",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 57,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "adonis-preciado",
+          "name": "Adonis Preciado",
+          "short": "Preciado",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "joban-gonzalez",
+          "name": "Joban González",
+          "short": "González",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "federico-vinas",
+          "name": "Federico Viñas",
+          "short": "Viñas",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "helinho",
+          "name": "Helinho",
+          "short": "Helinho",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Half-time substitute Federico Viñas took Helinho's pass and scored with a left-footed shot from the centre of the box into the bottom right corner."
+      },
+      {
+        "minute": 65,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "helinho",
+          "name": "Helinho",
+          "short": "Helinho",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "nicolas-castro",
+          "name": "Nicolás Castro",
+          "short": "Castro",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "On a fast break Nicolás Castro found Helinho, who finished left-footed from the centre of the box into the bottom left corner."
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ignacio-rivero",
+          "name": "Ignacio Rivero",
+          "short": "Rivero",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "angel-zapata",
+          "name": "Ángel Zapata",
+          "short": "Zapata",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "jonathan-padilla",
+          "name": "Jonathan Padilla",
+          "short": "Padilla",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "2 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "rafael-fernandez",
+          "name": "Rafael Fernández",
+          "short": "Fernández",
+          "position": "CB",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Following a corner, Rafael Fernández set up Jonathan Padilla, who struck a right-footed shot from the centre of the box into the top right corner."
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jesus-gomez",
+          "name": "Jesús Gómez",
+          "short": "Gómez",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ramiro-arciga",
+          "name": "Ramiro Árciga",
+          "short": "Árciga",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "joban-gonzalez",
+          "name": "Joban González",
+          "short": "González",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jonathan-padilla",
+          "name": "Jonathan Padilla",
+          "short": "Padilla",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "erick-gutierrez",
+          "name": "Érick Gutiérrez",
+          "short": "Gutiérrez",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nicolas-castro",
+          "name": "Nicolás Castro",
+          "short": "Castro",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jorge-diaz",
+          "name": "Jorge Díaz",
+          "short": "Díaz",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alexis-vega",
+          "name": "Alexis Vega",
+          "short": "Vega",
+          "position": "LW",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        32,
+        12
+      ],
+      "onTarget": [
+        6,
+        4
+      ],
+      "corners": [
+        17,
+        5
+      ],
+      "fouls": [
+        12,
+        9
+      ],
+      "possession": 76
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Joaquín Alberto Vizcarra Armenta",
+      "country": "Mexico"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876931",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876931",
+      "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+      "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+      "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "roberto-fernandez",
+    "name": "Roberto Fernández",
+    "short": "R. Fernández",
+    "position": "ST",
+    "photo": null,
+    "matches": [
+      {
+        "match": "espanyol-atletico-madrid-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Espanyol",
+        "role": "starter"
+      }
+    ]
+  }
+}

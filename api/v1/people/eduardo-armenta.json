@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "eduardo-armenta",
+    "name": "Eduardo Armenta",
+    "short": "Armenta",
+    "position": "AM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "puebla-monterrey-2026-10-21",
+        "date": "2026-10-21",
+        "team": "Puebla",
+        "role": "bench"
+      }
+    ]
+  }
+}

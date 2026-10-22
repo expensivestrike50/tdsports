@@ -1,0 +1,789 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "juventus-lazio-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "20:45",
+    "competition": "Serie A",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Juventus",
+      "id": "juventus",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+      "country": "IT"
+    },
+    "away": {
+      "name": "Lazio",
+      "id": "lazio",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+      "country": "IT"
+    },
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Allianz Stadium",
+      "city": "Torino",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "luciano-spalletti-juventus-lazio-2026-10-18",
+          "name": "Luciano Spalletti",
+          "short": "Spalletti",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "guglielmo-vicario-juventus-lazio-2026-10-18",
+            "name": "Guglielmo Vicario",
+            "short": "Vicario",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "zeki-celik-juventus-lazio-2026-10-18",
+            "name": "Zeki Çelik",
+            "short": "Çelik",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "jhon-lucumi-juventus-lazio-2026-10-18",
+            "name": "Jhon Lucumí",
+            "short": "Lucumí",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.3
+          },
+          {
+            "id": "bremer-juventus-lazio-2026-10-18",
+            "name": "Bremer",
+            "short": "Bremer",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.2
+          },
+          {
+            "id": "pierre-kalulu-juventus-lazio-2026-10-18",
+            "name": "Pierre Kalulu",
+            "short": "Kalulu",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "pape-matar-sarr-juventus-lazio-2026-10-18",
+            "name": "Pape Matar Sarr",
+            "short": "Sarr",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.7
+          },
+          {
+            "id": "douglas-luiz-juventus-lazio-2026-10-18",
+            "name": "Douglas Luiz",
+            "short": "Luiz",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.1
+          },
+          {
+            "id": "kerim-alajbegovic-juventus-lazio-2026-10-18",
+            "name": "Kerim Alajbegovic",
+            "short": "Alajbegovic",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.8
+          },
+          {
+            "id": "weston-mckennie-juventus-lazio-2026-10-18",
+            "name": "Weston McKennie",
+            "short": "McKennie",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "nico-gonzalez-juventus-lazio-2026-10-18",
+            "name": "Nico González",
+            "short": "González",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.5
+          },
+          {
+            "id": "randal-kolo-muani-juventus-lazio-2026-10-18",
+            "name": "Randal Kolo Muani",
+            "short": "Kolo Muani",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "nick-woltemade-juventus-lazio-2026-10-18",
+            "name": "Nick Woltemade",
+            "short": "Woltemade",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "francisco-conceicao-juventus-lazio-2026-10-18",
+            "name": "Francisco Conceição",
+            "short": "Conceição",
+            "position": "DM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "edon-zhegrova",
+            "name": "Edon Zhegrova",
+            "short": "Zhegrova",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "andrea-cambiaso-juventus-lazio-2026-10-18",
+            "name": "Andrea Cambiaso",
+            "short": "Cambiaso",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "jeremie-boga",
+            "name": "Jérémie Boga",
+            "short": "Boga",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "daniele-rugani",
+            "name": "Daniele Rugani",
+            "short": "Rugani",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "carlo-pinsoglio-juventus-lazio-2026-10-18",
+            "name": "Carlo Pinsoglio",
+            "short": "Pinsoglio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lloyd-kelly-juventus-lazio-2026-10-18",
+            "name": "Lloyd Kelly",
+            "short": "Kelly",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "neto-juventus-lazio-2026-10-18",
+            "name": "Neto",
+            "short": "Neto",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "federico-gatti-juventus-lazio-2026-10-18",
+            "name": "Federico Gatti",
+            "short": "Gatti",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "teun-koopmeiners-juventus-lazio-2026-10-18",
+            "name": "Teun Koopmeiners",
+            "short": "Koopmeiners",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "juan-cabal-juventus-lazio-2026-10-18",
+            "name": "Juan Cabal",
+            "short": "Cabal",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "gennaro-gattuso",
+          "name": "Gennaro Gattuso",
+          "short": "Gattuso",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "christos-mandas",
+            "name": "Christos Mandas",
+            "short": "Mandas",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "nuno-tavares",
+            "name": "Nuno Tavares",
+            "short": "Tavares",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "oliver-provstgaard",
+            "name": "Oliver Provstgaard",
+            "short": "Provstgaard",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.7
+          },
+          {
+            "id": "josip-sutalo",
+            "name": "Josip Sutalo",
+            "short": "Sutalo",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.4
+          },
+          {
+            "id": "romano-floriani",
+            "name": "Romano Floriani",
+            "short": "Floriani",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.7
+          },
+          {
+            "id": "kenneth-taylor",
+            "name": "Kenneth Taylor",
+            "short": "Taylor",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 6.5
+          },
+          {
+            "id": "reda-belahyane",
+            "name": "Reda Belahyane",
+            "short": "Belahyane",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "davide-frattesi",
+            "name": "Davide Frattesi",
+            "short": "Frattesi",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 22,
+            "rating": 7.5
+          },
+          {
+            "id": "mattia-zaccagni",
+            "name": "Mattia Zaccagni",
+            "short": "Zaccagni",
+            "position": "LW",
+            "photo": null,
+            "x": 54,
+            "y": 77,
+            "rating": 8
+          },
+          {
+            "id": "tijjani-noslin",
+            "name": "Tijjani Noslin",
+            "short": "Noslin",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "gustav-isaksen",
+            "name": "Gustav Isaksen",
+            "short": "Isaksen",
+            "position": "RW",
+            "photo": null,
+            "x": 54,
+            "y": 22,
+            "rating": 8.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "fisayo-dele-bashiru",
+            "name": "Fisayo Dele-Bashiru",
+            "short": "Dele-Bashiru",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "andrea-pinamonti",
+            "name": "Andrea Pinamonti",
+            "short": "Pinamonti",
+            "position": "ST",
+            "photo": null,
+            "rating": 8.1
+          },
+          {
+            "id": "manuel-lazzari",
+            "name": "Manuel Lazzari",
+            "short": "Lazzari",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "alfonso-pedraza",
+            "name": "Alfonso Pedraza",
+            "short": "Pedraza",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "adrian-przyborek",
+            "name": "Adrian Przyborek",
+            "short": "Przyborek",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "davide-renzetti",
+            "name": "Davide Renzetti",
+            "short": "Renzetti",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "diogo-leite",
+            "name": "Diogo Leite",
+            "short": "Leite",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-pellegrini",
+            "name": "Luca Pellegrini",
+            "short": "Pellegrini",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "danilo-cataldi",
+            "name": "Danilo Cataldi",
+            "short": "Cataldi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "edoardo-motta",
+            "name": "Edoardo Motta",
+            "short": "Motta",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "valerio-farcomeni",
+            "name": "Valerio Farcomeni",
+            "short": "Farcomeni",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "federico-serra",
+            "name": "Federico Serra",
+            "short": "Serra",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "danilho-doekhi",
+            "name": "Danilho Doekhi",
+            "short": "Doekhi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 37,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "oliver-provstgaard",
+          "name": "Oliver Provstgaard",
+          "short": "Provstgaard",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "mattia-zaccagni",
+          "name": "Mattia Zaccagni",
+          "short": "Zaccagni",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Oliver Provstgaard header from the centre of the box to the bottom right corner. Assisted by Mattia Zaccagni with a cross following a corner."
+      },
+      {
+        "minute": 41,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "kenneth-taylor",
+          "name": "Kenneth Taylor",
+          "short": "Taylor",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nick-woltemade-juventus-lazio-2026-10-18",
+          "name": "Nick Woltemade",
+          "short": "Woltemade",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kerim-alajbegovic-juventus-lazio-2026-10-18",
+          "name": "Kerim Alajbegovic",
+          "short": "Alajbegovic",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 48,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "mattia-zaccagni",
+          "name": "Mattia Zaccagni",
+          "short": "Zaccagni",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 66,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "gustav-isaksen",
+          "name": "Gustav Isaksen",
+          "short": "Isaksen",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "nuno-tavares",
+          "name": "Nuno Tavares",
+          "short": "Tavares",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Gustav Isaksen left footed shot from the right side of the box to the bottom left corner. Assisted by Nuno Tavares."
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "francisco-conceicao-juventus-lazio-2026-10-18",
+          "name": "Francisco Conceição",
+          "short": "Conceição",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "douglas-luiz-juventus-lazio-2026-10-18",
+          "name": "Douglas Luiz",
+          "short": "Luiz",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "edon-zhegrova",
+          "name": "Edon Zhegrova",
+          "short": "Zhegrova",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nico-gonzalez-juventus-lazio-2026-10-18",
+          "name": "Nico González",
+          "short": "González",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "fisayo-dele-bashiru",
+          "name": "Fisayo Dele-Bashiru",
+          "short": "Dele-Bashiru",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kenneth-taylor",
+          "name": "Kenneth Taylor",
+          "short": "Taylor",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "andrea-pinamonti",
+          "name": "Andrea Pinamonti",
+          "short": "Pinamonti",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tijjani-noslin",
+          "name": "Tijjani Noslin",
+          "short": "Noslin",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "andrea-cambiaso-juventus-lazio-2026-10-18",
+          "name": "Andrea Cambiaso",
+          "short": "Cambiaso",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "zeki-celik-juventus-lazio-2026-10-18",
+          "name": "Zeki Çelik",
+          "short": "Çelik",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "manuel-lazzari",
+          "name": "Manuel Lazzari",
+          "short": "Lazzari",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gustav-isaksen",
+          "name": "Gustav Isaksen",
+          "short": "Isaksen",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alfonso-pedraza",
+          "name": "Alfonso Pedraza",
+          "short": "Pedraza",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mattia-zaccagni",
+          "name": "Mattia Zaccagni",
+          "short": "Zaccagni",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jeremie-boga",
+          "name": "Jérémie Boga",
+          "short": "Boga",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pape-matar-sarr-juventus-lazio-2026-10-18",
+          "name": "Pape Matar Sarr",
+          "short": "Sarr",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "fisayo-dele-bashiru",
+          "name": "Fisayo Dele-Bashiru",
+          "short": "Dele-Bashiru",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "andrea-pinamonti",
+          "name": "Andrea Pinamonti",
+          "short": "Pinamonti",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Fisayo Dele-Bashiru right footed shot from the right side of the box to the centre of the goal. Assisted by Andrea Pinamonti following a fast break."
+      }
+    ],
+    "stats": {
+      "shots": [
+        9,
+        9
+      ],
+      "onTarget": [
+        2,
+        3
+      ],
+      "corners": [
+        5,
+        7
+      ],
+      "fouls": [
+        7,
+        7
+      ],
+      "possession": 58
+    },
+    "attendance": 41112,
+    "referee": {
+      "name": "Davide Massa",
+      "country": "Italy"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874765",
+      "https://www.espn.com/soccer/match/_/gameId/401874765",
+      "https://www.calciomercato.com/liste/serie-a-juventus-lazio-live/blt440dd5b1f7b7a961",
+      "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

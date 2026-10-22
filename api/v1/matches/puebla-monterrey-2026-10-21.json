@@ -1,0 +1,809 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "puebla-monterrey-2026-10-21",
+    "date": "2026-10-21",
+    "kickoff": "19:00",
+    "competition": "Liga MX",
+    "round": "Apertura, jornada 13",
+    "status": "FT",
+    "home": {
+      "name": "Puebla",
+      "id": "puebla",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
+      "country": "MX"
+    },
+    "away": {
+      "name": "Monterrey",
+      "id": "monterrey",
+      "crest": "assets/clubs/220.png",
+      "country": "MX"
+    },
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "gerardo-espinoza",
+          "name": "Gerardo Espinoza",
+          "short": "Espinoza",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "ricardo-gutierrez",
+            "name": "Ricardo Gutiérrez",
+            "short": "Gutiérrez",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "fernando-monarrez",
+            "name": "Fernando Monarrez",
+            "short": "Monarrez",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.3
+          },
+          {
+            "id": "juan-pablo-vargas",
+            "name": "Juan Pablo Vargas",
+            "short": "Vargas",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.6
+          },
+          {
+            "id": "facundo-almada",
+            "name": "Facundo Almada",
+            "short": "Almada",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 8
+          },
+          {
+            "id": "iker-moreno",
+            "name": "Iker Moreno",
+            "short": "Moreno",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.4
+          },
+          {
+            "id": "alonso-ramirez",
+            "name": "Alonso Ramirez",
+            "short": "Ramirez",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.5
+          },
+          {
+            "id": "alejandro-organista",
+            "name": "Alejandro Organista",
+            "short": "Organista",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.1
+          },
+          {
+            "id": "heriberto-de-jesus",
+            "name": "Heriberto De Jesus",
+            "short": "De Jesus",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.4
+          },
+          {
+            "id": "mathias-tomas",
+            "name": "Mathías Tomás",
+            "short": "Tomás",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "brayan-garnica",
+            "name": "Brayan Garnica",
+            "short": "Garnica",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.1
+          },
+          {
+            "id": "eduardo-mustre",
+            "name": "Eduardo Mustre",
+            "short": "Mustre",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "iker-moreno",
+            "name": "Iker Moreno",
+            "short": "Moreno",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "eduardo-armenta",
+            "name": "Eduardo Armenta",
+            "short": "Armenta",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "luifer-hernandez",
+            "name": "Luifer Hernández",
+            "short": "Hernández",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "ignacio-maestro-puch",
+            "name": "Ignacio Maestro Puch",
+            "short": "Puch",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "jose-pachuca",
+            "name": "Jose Pachuca",
+            "short": "Pachuca",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "jair-diaz",
+            "name": "Jair Díaz",
+            "short": "Díaz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alvaro-burgos",
+            "name": "Alvaro Burgos",
+            "short": "Burgos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alberto-herrera",
+            "name": "Alberto Herrera",
+            "short": "Herrera",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jesus-rodriguez",
+            "name": "Jesus Rodriguez",
+            "short": "Rodriguez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "oscar-villa",
+            "name": "Oscar Villa",
+            "short": "Villa",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "matias-almeyda",
+          "name": "Matías Almeyda",
+          "short": "Almeyda",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "esteban-andrada",
+            "name": "Esteban Andrada",
+            "short": "Andrada",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "gerardo-arteaga",
+            "name": "Gerardo Arteaga",
+            "short": "Arteaga",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "carlos-salcedo",
+            "name": "Carlos Salcedo",
+            "short": "Salcedo",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7
+          },
+          {
+            "id": "victor-guzman",
+            "name": "Víctor Guzmán",
+            "short": "Guzmán",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.5
+          },
+          {
+            "id": "ricardo-chavez",
+            "name": "Ricardo Chávez",
+            "short": "Chávez",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.7
+          },
+          {
+            "id": "orbelin-pineda",
+            "name": "Orbelín Pineda",
+            "short": "Pineda",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 6.4
+          },
+          {
+            "id": "oliver-torres",
+            "name": "Óliver Torres",
+            "short": "Torres",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.9
+          },
+          {
+            "id": "lucas-ocampos",
+            "name": "Lucas Ocampos",
+            "short": "Ocampos",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 9.1
+          },
+          {
+            "id": "diego-rossi",
+            "name": "Diego Rossi",
+            "short": "Rossi",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "cesar-garza",
+            "name": "Cesar Garza",
+            "short": "Garza",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 7.1
+          },
+          {
+            "id": "hugo-cuypers",
+            "name": "Hugo Cuypers",
+            "short": "Cuypers",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 8.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "daniel-aceves",
+            "name": "Daniel Aceves",
+            "short": "Aceves",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.7
+          },
+          {
+            "id": "roberto-de-la-rosa",
+            "name": "Roberto de la Rosa",
+            "short": "Rosa",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "luca-orellano",
+            "name": "Luca Orellano",
+            "short": "Orellano",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "iker-fimbres",
+            "name": "Iker Fimbres",
+            "short": "Fimbres",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "jesus-corona",
+            "name": "Jesús Corona",
+            "short": "Corona",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "stefan-medina",
+            "name": "Stefan Medina",
+            "short": "Medina",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "fidel-ambriz",
+            "name": "Fidel Ambríz",
+            "short": "Ambríz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jorge-rodriguez",
+            "name": "Jorge Rodríguez",
+            "short": "Rodríguez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luis-cardenas",
+            "name": "Luis Cárdenas",
+            "short": "Cárdenas",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luis-reyes",
+            "name": "Luis Reyes",
+            "short": "Reyes",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 17,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "diego-rossi",
+          "name": "Diego Rossi",
+          "short": "Rossi",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "lucas-ocampos",
+          "name": "Lucas Ocampos",
+          "short": "Ocampos",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Lucas Ocampos supplied Diego Rossi, who headed in from the left side of the six-yard box into the bottom left corner."
+      },
+      {
+        "minute": 31,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "hugo-cuypers",
+          "name": "Hugo Cuypers",
+          "short": "Cuypers",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "Following a corner, Hugo Cuypers scored from very close range with a right-footed shot into the top left corner."
+      },
+      {
+        "minute": 34,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "lucas-ocampos",
+          "name": "Lucas Ocampos",
+          "short": "Ocampos",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "oliver-torres",
+          "name": "Óliver Torres",
+          "short": "Torres",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Óliver Torres set up Lucas Ocampos, who finished right-footed from the centre of the box into the top right corner."
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "iker-moreno",
+          "name": "Iker Moreno",
+          "short": "Moreno",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "heriberto-de-jesus",
+          "name": "Heriberto De Jesus",
+          "short": "De Jesus",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "eduardo-armenta",
+          "name": "Eduardo Armenta",
+          "short": "Armenta",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mathias-tomas",
+          "name": "Mathías Tomás",
+          "short": "Tomás",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "daniel-aceves",
+          "name": "Daniel Aceves",
+          "short": "Aceves",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "carlos-salcedo",
+          "name": "Carlos Salcedo",
+          "short": "Salcedo",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 56,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "luifer-hernandez",
+          "name": "Luifer Hernández",
+          "short": "Hernández",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "eduardo-mustre",
+          "name": "Eduardo Mustre",
+          "short": "Mustre",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 57,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "roberto-de-la-rosa",
+          "name": "Roberto de la Rosa",
+          "short": "Rosa",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "orbelin-pineda",
+          "name": "Orbelín Pineda",
+          "short": "Pineda",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 57,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "luca-orellano",
+          "name": "Luca Orellano",
+          "short": "Orellano",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "hugo-cuypers",
+          "name": "Hugo Cuypers",
+          "short": "Cuypers",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 58,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "iker-fimbres",
+          "name": "Iker Fimbres",
+          "short": "Fimbres",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "diego-rossi",
+          "name": "Diego Rossi",
+          "short": "Rossi",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "roberto-de-la-rosa",
+          "name": "Roberto de la Rosa",
+          "short": "Rosa",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 4",
+        "penalty": false,
+        "assist": {
+          "id": "oliver-torres",
+          "name": "Óliver Torres",
+          "short": "Torres",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Substitute Roberto de la Rosa, assisted by Óliver Torres, scored with a right-footed shot from the right side of the box into the bottom left corner."
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ignacio-maestro-puch",
+          "name": "Ignacio Maestro Puch",
+          "short": "Puch",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alonso-ramirez",
+          "name": "Alonso Ramirez",
+          "short": "Ramirez",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "facundo-almada",
+          "name": "Facundo Almada",
+          "short": "Almada",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 4",
+        "penalty": false,
+        "assist": {
+          "id": "juan-pablo-vargas",
+          "name": "Juan Pablo Vargas",
+          "short": "Vargas",
+          "position": "CB",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "From a set-piece situation Juan Pablo Vargas assisted Facundo Almada, who scored with a left-footed shot from the centre of the box into the bottom left corner."
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jesus-corona",
+          "name": "Jesús Corona",
+          "short": "Corona",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lucas-ocampos",
+          "name": "Lucas Ocampos",
+          "short": "Ocampos",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jose-pachuca",
+          "name": "Jose Pachuca",
+          "short": "Pachuca",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "iker-moreno",
+          "name": "Iker Moreno",
+          "short": "Moreno",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "luca-orellano",
+          "name": "Luca Orellano",
+          "short": "Orellano",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "ricardo-chavez",
+          "name": "Ricardo Chávez",
+          "short": "Chávez",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        12,
+        14
+      ],
+      "onTarget": [
+        4,
+        6
+      ],
+      "corners": [
+        2,
+        8
+      ],
+      "fouls": [
+        5,
+        5
+      ],
+      "possession": 40
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Ismael Rosario López Peñuelas",
+      "country": "Mexico"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876933",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876933",
+      "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+      "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+      "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

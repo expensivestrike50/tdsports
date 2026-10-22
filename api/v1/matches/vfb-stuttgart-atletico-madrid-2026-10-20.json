@@ -1,0 +1,746 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "vfb-stuttgart-atletico-madrid-2026-10-20",
+    "date": "2026-10-20",
+    "kickoff": "21:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "VfB Stuttgart",
+      "id": "vfb-stuttgart",
+      "crest": "assets/clubs/134.png",
+      "country": "DE"
+    },
+    "away": {
+      "name": "Atlético Madrid",
+      "id": "atletico-madrid",
+      "crest": "assets/clubs/1068.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "MHPArena",
+      "city": "Stuttgart",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "sebastian-hoene-vfb-stuttgart-atletico-madrid-2026-10-20",
+          "name": "Sebastian Hoeneß",
+          "short": "Hoeneß",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "dennis-seimen-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Dennis Seimen",
+            "short": "Seimen",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "maximilian-mittelstadt",
+            "name": "Maximilian Mittelstädt",
+            "short": "Mittelstädt",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "jeff-chabot-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Jeff Chabot",
+            "short": "Chabot",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7.4
+          },
+          {
+            "id": "ramon-hendriks-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Ramon Hendriks",
+            "short": "Hendriks",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.2
+          },
+          {
+            "id": "josha-vagnoman-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Josha Vagnoman",
+            "short": "Vagnoman",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.5
+          },
+          {
+            "id": "angelo-stiller-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Angelo Stiller",
+            "short": "Stiller",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.3
+          },
+          {
+            "id": "grischa-promel-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Grischa Prömel",
+            "short": "Prömel",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "chris-fuhrich-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Chris Führich",
+            "short": "Führich",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.3
+          },
+          {
+            "id": "bilal-el-khannouss-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Bilal El Khannouss",
+            "short": "El Khannouss",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "jamie-leweling-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Jamie Leweling",
+            "short": "Leweling",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 8.1
+          },
+          {
+            "id": "deniz-undav-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Deniz Undav",
+            "short": "Undav",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "lorenz-assignon-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Lorenz Assignon",
+            "short": "Assignon",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "ermedin-demirovic-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Ermedin Demirovic",
+            "short": "Demirovic",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "dzenan-pejcinovic-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Dzenan Pejcinovic",
+            "short": "Pejcinovic",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "leo-sauer-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Leo Sauer",
+            "short": "Sauer",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "marius-funk",
+            "name": "Marius Funk",
+            "short": "Funk",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-jaquez-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Luca Jaquez",
+            "short": "Jaquez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ameen-al-dakhil",
+            "name": "Ameen Al Dakhil",
+            "short": "Dakhil",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "atakan-karazor-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Atakan Karazor",
+            "short": "Karazor",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "fabian-bredlow-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Fabian Bredlow",
+            "short": "Bredlow",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "finn-jeltsch-vfb-stuttgart-atletico-madrid-2026-10-20",
+            "name": "Finn Jeltsch",
+            "short": "Jeltsch",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nikolas-nartey",
+            "name": "Nikolas Nartey",
+            "short": "Nartey",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "diego-simeone",
+          "name": "Diego Simeone",
+          "short": "Simeone",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "jan-oblak",
+            "name": "Jan Oblak",
+            "short": "Oblak",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "alejandro-grimaldo",
+            "name": "Alejandro Grimaldo",
+            "short": "Grimaldo",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.2
+          },
+          {
+            "id": "david-hancko",
+            "name": "Dávid Hancko",
+            "short": "Hancko",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.8
+          },
+          {
+            "id": "marc-pubill",
+            "name": "Marc Pubill",
+            "short": "Pubill",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.3
+          },
+          {
+            "id": "marcos-llorente",
+            "name": "Marcos Llorente",
+            "short": "Llorente",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "alex-baena",
+            "name": "Álex Baena",
+            "short": "Baena",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "morten-hjulmand",
+            "name": "Morten Hjulmand",
+            "short": "Hjulmand",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 6.1
+          },
+          {
+            "id": "pablo-barrios",
+            "name": "Pablo Barrios",
+            "short": "Barrios",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 6.5
+          },
+          {
+            "id": "giuliano-simeone",
+            "name": "Giuliano Simeone",
+            "short": "Simeone",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "julian-alvarez",
+            "name": "Julián Álvarez",
+            "short": "Álvarez",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 7.6
+          },
+          {
+            "id": "jonathan-david",
+            "name": "Jonathan David",
+            "short": "David",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 7.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "ademola-lookman",
+            "name": "Ademola Lookman",
+            "short": "Lookman",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "johnny-cardoso",
+            "name": "Johnny Cardoso",
+            "short": "Cardoso",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "obed-vargas",
+            "name": "Obed Vargas",
+            "short": "Vargas",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "robin-le-normand",
+            "name": "Robin Le Normand",
+            "short": "Normand",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "alexander-srloth",
+            "name": "Alexander Sørloth",
+            "short": "Sørloth",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "juan-musso",
+            "name": "Juan Musso",
+            "short": "Musso",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "daniel-martinez",
+            "name": "Daniel Martinez",
+            "short": "Martinez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lee-kang-in",
+            "name": "Lee Kang-In",
+            "short": "Kang-In",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rodrigo-mendoza",
+            "name": "Rodrigo Mendoza",
+            "short": "Mendoza",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "arnau-ortiz",
+            "name": "Arnau Ortiz",
+            "short": "Ortiz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jorge-castillo",
+            "name": "Jorge Castillo",
+            "short": "Castillo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jorge-dominguez",
+            "name": "Jorge Domínguez",
+            "short": "Domínguez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 17,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "maximilian-mittelstadt",
+          "name": "Maximilian Mittelstädt",
+          "short": "Mittelstädt",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 36,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "jamie-leweling-vfb-stuttgart-atletico-madrid-2026-10-20",
+          "name": "Jamie Leweling",
+          "short": "Leweling",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Jamie Leweling gave Stuttgart the lead with a left-footed shot from outside the box into the bottom left corner."
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ademola-lookman",
+          "name": "Ademola Lookman",
+          "short": "Lookman",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jonathan-david",
+          "name": "Jonathan David",
+          "short": "David",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 47,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "julian-alvarez",
+          "name": "Julián Álvarez",
+          "short": "Álvarez",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "ademola-lookman",
+          "name": "Ademola Lookman",
+          "short": "Lookman",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Two minutes after half-time, half-time substitute Ademola Lookman set up Julián Álvarez, who fired a left-footed shot from the centre of the box into the top right corner."
+      },
+      {
+        "minute": 52,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "lorenz-assignon-vfb-stuttgart-atletico-madrid-2026-10-20",
+          "name": "Lorenz Assignon",
+          "short": "Assignon",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "josha-vagnoman-vfb-stuttgart-atletico-madrid-2026-10-20",
+          "name": "Josha Vagnoman",
+          "short": "Vagnoman",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "red_card",
+        "team": "away",
+        "player": {
+          "id": "morten-hjulmand",
+          "name": "Morten Hjulmand",
+          "short": "Hjulmand",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Straight red card; ESPN commentary records a foul by him on Angelo Stiller in the same minute"
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "johnny-cardoso",
+          "name": "Johnny Cardoso",
+          "short": "Cardoso",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alex-baena",
+          "name": "Álex Baena",
+          "short": "Baena",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ermedin-demirovic-vfb-stuttgart-atletico-madrid-2026-10-20",
+          "name": "Ermedin Demirovic",
+          "short": "Demirovic",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jamie-leweling-vfb-stuttgart-atletico-madrid-2026-10-20",
+          "name": "Jamie Leweling",
+          "short": "Leweling",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "obed-vargas",
+          "name": "Obed Vargas",
+          "short": "Vargas",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "julian-alvarez",
+          "name": "Julián Álvarez",
+          "short": "Álvarez",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "robin-le-normand",
+          "name": "Robin Le Normand",
+          "short": "Normand",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pablo-barrios",
+          "name": "Pablo Barrios",
+          "short": "Barrios",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alexander-srloth",
+          "name": "Alexander Sørloth",
+          "short": "Sørloth",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "giuliano-simeone",
+          "name": "Giuliano Simeone",
+          "short": "Simeone",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "dzenan-pejcinovic-vfb-stuttgart-atletico-madrid-2026-10-20",
+          "name": "Dzenan Pejcinovic",
+          "short": "Pejcinovic",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "deniz-undav-vfb-stuttgart-atletico-madrid-2026-10-20",
+          "name": "Deniz Undav",
+          "short": "Undav",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "leo-sauer-vfb-stuttgart-atletico-madrid-2026-10-20",
+          "name": "Leo Sauer",
+          "short": "Sauer",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "chris-fuhrich-vfb-stuttgart-atletico-madrid-2026-10-20",
+          "name": "Chris Führich",
+          "short": "Führich",
+          "position": "LW",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        18,
+        10
+      ],
+      "onTarget": [
+        5,
+        3
+      ],
+      "corners": [
+        9,
+        4
+      ],
+      "fouls": [
+        15,
+        7
+      ],
+      "possession": 54
+    },
+    "attendance": 58000,
+    "referee": {
+      "name": "Serdar Gözübüyük",
+      "country": "Netherlands"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915392",
+      "https://www.espn.com/soccer/match/_/gameId/401915392",
+      "https://match.uefa.com/v5/matches/2049596/lineups",
+      "https://match.uefa.com/v5/matches?competitionId=1&fromDate=2026-10-20&toDate=2026-10-21",
+      "https://www.uefa.com/uefachampionsleague/news/02a9-218880e7a2aa-96adf63aa534-1000--who-is-the-referee-which-officials-are-in-charge-of-the-uefa/",
+      "https://www.sportsmole.co.uk/football/stuttgart/champions-league/preview/stuttgart-vs-atletico-prediction-team-news-lineups_607188.html"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

@@ -1,0 +1,854 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "pachuca-cruz-azul-2026-10-21",
+    "date": "2026-10-21",
+    "kickoff": "21:10",
+    "competition": "Liga MX",
+    "round": "Apertura, jornada 13",
+    "status": "FT",
+    "home": {
+      "name": "Pachuca",
+      "id": "pachuca",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
+      "country": "MX"
+    },
+    "away": {
+      "name": "Cruz Azul",
+      "id": "cruz-azul",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png",
+      "country": "MX"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio Hidalgo",
+      "city": "Pachuca",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "benjamin-mora",
+          "name": "Benjamín Mora",
+          "short": "Mora",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "carlos-moreno",
+            "name": "Carlos Moreno",
+            "short": "Moreno",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "francisco-venegas",
+            "name": "Francisco Venegas",
+            "short": "Venegas",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.3
+          },
+          {
+            "id": "pedro-budib",
+            "name": "Pedro Budib",
+            "short": "Budib",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "eduardo-bauermann",
+            "name": "Eduardo Bauermann",
+            "short": "Bauermann",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.4
+          },
+          {
+            "id": "jorge-berlanga",
+            "name": "Jorge Berlanga",
+            "short": "Berlanga",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "alan-bautista",
+            "name": "Alan Bautista",
+            "short": "Bautista",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.5
+          },
+          {
+            "id": "christian-rivera",
+            "name": "Christian Rivera",
+            "short": "Rivera",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7
+          },
+          {
+            "id": "oussama-idrissi",
+            "name": "Oussama Idrissi",
+            "short": "Idrissi",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.1
+          },
+          {
+            "id": "rodolfo-pizarro",
+            "name": "Rodolfo Pizarro",
+            "short": "Pizarro",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "javier-vallejo",
+            "name": "Javier Vallejo",
+            "short": "Vallejo",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7
+          },
+          {
+            "id": "salomon-rondon",
+            "name": "Salomón Rondón",
+            "short": "Rondón",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "adrian-alcaraz",
+            "name": "Adrián Alcaraz",
+            "short": "Alcaraz",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "gael-alvarez",
+            "name": "Gael Álvarez",
+            "short": "Álvarez",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "cristobal-hernandez",
+            "name": "Cristóbal Hernández",
+            "short": "Hernández",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "kenedy",
+            "name": "Kenedy",
+            "short": "Kenedy",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "mauricio-isais",
+            "name": "Mauricio Isais",
+            "short": "Isais",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "carlos-rodriguez",
+            "name": "Carlos Rodríguez",
+            "short": "Rodríguez",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "ulises-natanael-martinez-reynoso",
+            "name": "Ulises Natanael Martínez Reynoso",
+            "short": "Reynoso",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jose-eulogio-tellez",
+            "name": "Jose Eulogio Téllez",
+            "short": "Téllez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "angel-lopez-bustamante",
+            "name": "Ángel López Bustamante",
+            "short": "Bustamante",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "sebastian-santos",
+            "name": "Sebastian Santos",
+            "short": "Santos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "joel-huiqui",
+          "name": "Joel Huiqui",
+          "short": "Huiqui",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "andres-gudino",
+            "name": "Andrés Gudiño",
+            "short": "Gudiño",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "gonzalo-piovi",
+            "name": "Gonzalo Piovi",
+            "short": "Piovi",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 7
+          },
+          {
+            "id": "alan-montes",
+            "name": "Alán Montes",
+            "short": "Montes",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.7
+          },
+          {
+            "id": "amaury-garcia",
+            "name": "Amaury García",
+            "short": "García",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 7.6
+          },
+          {
+            "id": "omar-campos",
+            "name": "Omar Campos",
+            "short": "Campos",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "angel-marquez",
+            "name": "Ángel Márquez",
+            "short": "Márquez",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 6.9
+          },
+          {
+            "id": "erik-lira",
+            "name": "Érik Lira",
+            "short": "Lira",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 6.6
+          },
+          {
+            "id": "alan-mozo",
+            "name": "Alan Mozo",
+            "short": "Mozo",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 8.1
+          },
+          {
+            "id": "carlos-rodriguez",
+            "name": "Carlos Rodríguez",
+            "short": "Rodríguez",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 7.1
+          },
+          {
+            "id": "agustin-palavecino",
+            "name": "Agustín Palavecino",
+            "short": "Palavecino",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 7.5
+          },
+          {
+            "id": "gabriel-fernandez",
+            "name": "Gabriel Fernandez",
+            "short": "Fernandez",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 8.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "luka-romero",
+            "name": "Luka Romero",
+            "short": "Romero",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.7
+          },
+          {
+            "id": "rogelio-gonzalez",
+            "name": "Rogelio González",
+            "short": "González",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "rodolfo-rotondi",
+            "name": "Rodolfo Rotondi",
+            "short": "Rotondi",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "andres-montano",
+            "name": "Andres Montaño",
+            "short": "Montaño",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "jesus-orozco",
+            "name": "Jesús Orozco",
+            "short": "Orozco",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.7
+          },
+          {
+            "id": "kevin-mier",
+            "name": "Kevin Mier",
+            "short": "Mier",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nicolas-ibanez",
+            "name": "Nicolás Ibáñez",
+            "short": "Ibáñez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ariel-castro",
+            "name": "Ariel Castro",
+            "short": "Castro",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "juan-jose-calero",
+            "name": "Juan José Calero",
+            "short": "Calero",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "osinachi-ebere",
+            "name": "Osinachi Ebere",
+            "short": "Ebere",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 11,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "eduardo-bauermann",
+          "name": "Eduardo Bauermann",
+          "short": "Bauermann",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 13,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "gabriel-fernandez",
+          "name": "Gabriel Fernandez",
+          "short": "Fernandez",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "alan-mozo",
+          "name": "Alan Mozo",
+          "short": "Mozo",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "From a set-piece situation Alan Mozo crossed and Gabriel Fernandez finished with a right-footed shot from the centre of the box into the bottom left corner."
+      },
+      {
+        "minute": 20,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "francisco-venegas",
+          "name": "Francisco Venegas",
+          "short": "Venegas",
+          "position": "LB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "rodolfo-pizarro",
+          "name": "Rodolfo Pizarro",
+          "short": "Pizarro",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Francisco Venegas met Rodolfo Pizarro's pass with a left-footed shot from the centre of the box into the top right corner."
+      },
+      {
+        "minute": 39,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "carlos-rodriguez",
+          "name": "Carlos Rodríguez",
+          "short": "Rodríguez",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "oussama-idrissi",
+          "name": "Oussama Idrissi",
+          "short": "Idrissi",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 48,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "francisco-venegas",
+          "name": "Francisco Venegas",
+          "short": "Venegas",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "luka-romero",
+          "name": "Luka Romero",
+          "short": "Romero",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "angel-marquez",
+          "name": "Ángel Márquez",
+          "short": "Márquez",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "rogelio-gonzalez",
+          "name": "Rogelio González",
+          "short": "González",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "omar-campos",
+          "name": "Omar Campos",
+          "short": "Campos",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "rodolfo-pizarro",
+          "name": "Rodolfo Pizarro",
+          "short": "Pizarro",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "adrian-alcaraz",
+          "name": "Adrián Alcaraz",
+          "short": "Alcaraz",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rodolfo-pizarro",
+          "name": "Rodolfo Pizarro",
+          "short": "Pizarro",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "gael-alvarez",
+          "name": "Gael Álvarez",
+          "short": "Álvarez",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "oussama-idrissi",
+          "name": "Oussama Idrissi",
+          "short": "Idrissi",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "rodolfo-rotondi",
+          "name": "Rodolfo Rotondi",
+          "short": "Rotondi",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alan-mozo",
+          "name": "Alan Mozo",
+          "short": "Mozo",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "andres-montano",
+          "name": "Andres Montaño",
+          "short": "Montaño",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "agustin-palavecino",
+          "name": "Agustín Palavecino",
+          "short": "Palavecino",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "pedro-budib",
+          "name": "Pedro Budib",
+          "short": "Budib",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 79,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "andres-montano",
+          "name": "Andres Montaño",
+          "short": "Montaño",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Substitute Andres Montaño converted the penalty with his left foot into the bottom left corner after Pedro Budib fouled Gabriel Fernandez in the area."
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "cristobal-hernandez",
+          "name": "Cristóbal Hernández",
+          "short": "Hernández",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jorge-berlanga",
+          "name": "Jorge Berlanga",
+          "short": "Berlanga",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kenedy",
+          "name": "Kenedy",
+          "short": "Kenedy",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "javier-vallejo",
+          "name": "Javier Vallejo",
+          "short": "Vallejo",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jesus-orozco",
+          "name": "Jesús Orozco",
+          "short": "Orozco",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "carlos-rodriguez",
+          "name": "Carlos Rodríguez",
+          "short": "Rodríguez",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mauricio-isais",
+          "name": "Mauricio Isais",
+          "short": "Isais",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "francisco-venegas",
+          "name": "Francisco Venegas",
+          "short": "Venegas",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "amaury-garcia",
+          "name": "Amaury García",
+          "short": "García",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 86,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "salomon-rondon",
+          "name": "Salomón Rondón",
+          "short": "Rondón",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Rondón's goal ruled out after a VAR review (would have made it 2-2)"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "luka-romero",
+          "name": "Luka Romero",
+          "short": "Romero",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        14,
+        11
+      ],
+      "onTarget": [
+        5,
+        5
+      ],
+      "corners": [
+        0,
+        8
+      ],
+      "fouls": [
+        20,
+        11
+      ],
+      "possession": 44
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Daniel Quintero Huitrón",
+      "country": "Mexico"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876930",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876930",
+      "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+      "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+      "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

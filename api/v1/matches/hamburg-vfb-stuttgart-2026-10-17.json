@@ -1,0 +1,719 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "hamburg-vfb-stuttgart-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "15:30",
+    "competition": "Bundesliga",
+    "round": "Matchday 6",
+    "status": "FT",
+    "home": {
+      "name": "Hamburg",
+      "id": "hamburg",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+      "country": "DE"
+    },
+    "away": {
+      "name": "VfB Stuttgart",
+      "id": "vfb-stuttgart",
+      "crest": "assets/clubs/134.png",
+      "country": "DE"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Volksparkstadion",
+      "city": "Hamburg",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-5-2",
+        "coach": {
+          "id": "merlin-polzin",
+          "name": "Merlin Polzin",
+          "short": "Polzin",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "daniel-heuer-fernandes",
+            "name": "Daniel Heuer Fernandes",
+            "short": "Fernandes",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.6
+          },
+          {
+            "id": "warmed-omari",
+            "name": "Warmed Omari",
+            "short": "Omari",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 7.4
+          },
+          {
+            "id": "sebastiaan-bornauw",
+            "name": "Sebastiaan Bornauw",
+            "short": "Bornauw",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.6
+          },
+          {
+            "id": "nicolas-capaldo",
+            "name": "Nicolás Capaldo",
+            "short": "Capaldo",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7
+          },
+          {
+            "id": "louis-lemke",
+            "name": "Louis Lemke",
+            "short": "Lemke",
+            "position": "LB",
+            "photo": null,
+            "x": 32,
+            "y": 8,
+            "rating": 6.8
+          },
+          {
+            "id": "miro-muheim",
+            "name": "Miro Muheim",
+            "short": "Muheim",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 29,
+            "rating": 7.4
+          },
+          {
+            "id": "martin-adeline",
+            "name": "Martin Adeline",
+            "short": "Adeline",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "david-mller-wolfe",
+            "name": "David Møller Wolfe",
+            "short": "Møller Wolfe",
+            "position": "RB",
+            "photo": null,
+            "x": 32,
+            "y": 71,
+            "rating": 7.6
+          },
+          {
+            "id": "bilal-nadir",
+            "name": "Bilal Nadir",
+            "short": "Nadir",
+            "position": "AM",
+            "photo": null,
+            "x": 32,
+            "y": 92,
+            "rating": 7.2
+          },
+          {
+            "id": "yussuf-poulsen",
+            "name": "Yussuf Poulsen",
+            "short": "Poulsen",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 7.3
+          },
+          {
+            "id": "fabio-vieira",
+            "name": "Fabio Vieira",
+            "short": "Vieira",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 7.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "otto-stange",
+            "name": "Otto Stange",
+            "short": "Stange",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "zakaria-el-ouahdi",
+            "name": "Zakaria El Ouahdi",
+            "short": "Ouahdi",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "terem-moffi",
+            "name": "Terem Moffi",
+            "short": "Moffi",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "albert-grnbaek",
+            "name": "Albert Grønbaek",
+            "short": "Grønbaek",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "kofi-amoako",
+            "name": "Kofi Amoako",
+            "short": "Amoako",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "sander-tangvik",
+            "name": "Sander Tangvik",
+            "short": "Tangvik",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alexander-rssing-lelesiit",
+            "name": "Alexander Røssing-Lelesiit",
+            "short": "Røssing-Lelesiit",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jordan-torunarigha",
+            "name": "Jordan Torunarigha",
+            "short": "Torunarigha",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "shafiq-nandja",
+            "name": "Shafiq Nandja",
+            "short": "Nandja",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "sebastian-hoene",
+          "name": "Sebastian Hoeneß",
+          "short": "Hoeneß",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "dennis-seimen",
+            "name": "Dennis Seimen",
+            "short": "Seimen",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "ramon-hendriks",
+            "name": "Ramon Hendriks",
+            "short": "Hendriks",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "jeff-chabot",
+            "name": "Jeff Chabot",
+            "short": "Chabot",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.3
+          },
+          {
+            "id": "finn-jeltsch",
+            "name": "Finn Jeltsch",
+            "short": "Jeltsch",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.1
+          },
+          {
+            "id": "josha-vagnoman",
+            "name": "Josha Vagnoman",
+            "short": "Vagnoman",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "angelo-stiller",
+            "name": "Angelo Stiller",
+            "short": "Stiller",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 7.3
+          },
+          {
+            "id": "atakan-karazor",
+            "name": "Atakan Karazor",
+            "short": "Karazor",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 6.6
+          },
+          {
+            "id": "jamie-leweling",
+            "name": "Jamie Leweling",
+            "short": "Leweling",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 7.1
+          },
+          {
+            "id": "deniz-undav",
+            "name": "Deniz Undav",
+            "short": "Undav",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "bilal-el-khannouss",
+            "name": "Bilal El Khannouss",
+            "short": "El Khannouss",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 6.3
+          },
+          {
+            "id": "ermedin-demirovic",
+            "name": "Ermedin Demirovic",
+            "short": "Demirovic",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "chris-fuhrich",
+            "name": "Chris Führich",
+            "short": "Führich",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "grischa-promel",
+            "name": "Grischa Prömel",
+            "short": "Prömel",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "leo-sauer",
+            "name": "Leo Sauer",
+            "short": "Sauer",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "dzenan-pejcinovic",
+            "name": "Dzenan Pejcinovic",
+            "short": "Pejcinovic",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "lorenz-assignon",
+            "name": "Lorenz Assignon",
+            "short": "Assignon",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "fabian-bredlow",
+            "name": "Fabian Bredlow",
+            "short": "Bredlow",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "yanik-spalt",
+            "name": "Yanik Spalt",
+            "short": "Spalt",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-jaquez",
+            "name": "Luca Jaquez",
+            "short": "Jaquez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "leonidas-stergiou",
+            "name": "Leonidas Stergiou",
+            "short": "Stergiou",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 54,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "warmed-omari",
+          "name": "Warmed Omari",
+          "short": "Omari",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "otto-stange",
+          "name": "Otto Stange",
+          "short": "Stange",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "yussuf-poulsen",
+          "name": "Yussuf Poulsen",
+          "short": "Poulsen",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "chris-fuhrich",
+          "name": "Chris Führich",
+          "short": "Führich",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bilal-el-khannouss",
+          "name": "Bilal El Khannouss",
+          "short": "El Khannouss",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "grischa-promel",
+          "name": "Grischa Prömel",
+          "short": "Prömel",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "atakan-karazor",
+          "name": "Atakan Karazor",
+          "short": "Karazor",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "leo-sauer",
+          "name": "Leo Sauer",
+          "short": "Sauer",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jamie-leweling",
+          "name": "Jamie Leweling",
+          "short": "Leweling",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "dzenan-pejcinovic",
+          "name": "Dzenan Pejcinovic",
+          "short": "Pejcinovic",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ermedin-demirovic",
+          "name": "Ermedin Demirovic",
+          "short": "Demirovic",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "zakaria-el-ouahdi",
+          "name": "Zakaria El Ouahdi",
+          "short": "Ouahdi",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "louis-lemke",
+          "name": "Louis Lemke",
+          "short": "Lemke",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "terem-moffi",
+          "name": "Terem Moffi",
+          "short": "Moffi",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "fabio-vieira",
+          "name": "Fabio Vieira",
+          "short": "Vieira",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "albert-grnbaek",
+          "name": "Albert Grønbaek",
+          "short": "Grønbaek",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "martin-adeline",
+          "name": "Martin Adeline",
+          "short": "Adeline",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "nicolas-capaldo",
+          "name": "Nicolás Capaldo",
+          "short": "Capaldo",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kofi-amoako",
+          "name": "Kofi Amoako",
+          "short": "Amoako",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bilal-nadir",
+          "name": "Bilal Nadir",
+          "short": "Nadir",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "otto-stange",
+          "name": "Otto Stange",
+          "short": "Stange",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 88,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "miro-muheim",
+          "name": "Miro Muheim",
+          "short": "Muheim",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "zakaria-el-ouahdi",
+          "name": "Zakaria El Ouahdi",
+          "short": "Ouahdi",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Miro Muheim scored with a left-footed shot from outside the box to the bottom right corner. Assist: Zakaria El Ouahdi following a fast break."
+      },
+      {
+        "minute": 89,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "lorenz-assignon",
+          "name": "Lorenz Assignon",
+          "short": "Assignon",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ramon-hendriks",
+          "name": "Ramon Hendriks",
+          "short": "Hendriks",
+          "position": "LB",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        14,
+        24
+      ],
+      "onTarget": [
+        3,
+        5
+      ],
+      "corners": [
+        5,
+        9
+      ],
+      "fouls": [
+        12,
+        9
+      ],
+      "possession": 34
+    },
+    "attendance": 57000,
+    "referee": {
+      "name": "Robert Hartmann",
+      "country": "Germany"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884767",
+      "https://www.espn.com/soccer/match/_/gameId/401884767",
+      "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916173",
+      "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

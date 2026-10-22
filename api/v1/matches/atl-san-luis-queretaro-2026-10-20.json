@@ -1,0 +1,741 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "atl-san-luis-queretaro-2026-10-20",
+    "date": "2026-10-20",
+    "kickoff": "19:00",
+    "competition": "Liga MX",
+    "round": "Apertura, jornada 13",
+    "status": "FT",
+    "home": {
+      "name": "Atl. San Luis",
+      "id": "atl-san-luis",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png",
+      "country": "MX"
+    },
+    "away": {
+      "name": "Queretaro",
+      "id": "queretaro",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/222.png",
+      "country": "MX"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio Libertad Financiera",
+      "city": "San Luis Potosi",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "diego-mejia",
+          "name": "Diego Mejía",
+          "short": "Mejía",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "gibran-lajud",
+            "name": "Gibrán Lajud",
+            "short": "Lajud",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "aldo-cruz",
+            "name": "Aldo Cruz",
+            "short": "Cruz",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 7.3
+          },
+          {
+            "id": "eduardo-aguila",
+            "name": "Eduardo Águila",
+            "short": "Águila",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "robson-bambu",
+            "name": "Robson Bambu",
+            "short": "Robson Bambu",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 6.9
+          },
+          {
+            "id": "anderson-duarte",
+            "name": "Anderson Duarte",
+            "short": "Duarte",
+            "position": "LB",
+            "photo": null,
+            "x": 27,
+            "y": 12,
+            "rating": 6.9
+          },
+          {
+            "id": "sebastien-salles-lamonge",
+            "name": "Sébastien Salles-Lamonge",
+            "short": "Salles-Lamonge",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 38,
+            "rating": 7.6
+          },
+          {
+            "id": "oscar-macias",
+            "name": "Oscar Macías",
+            "short": "Macías",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 64,
+            "rating": 6.9
+          },
+          {
+            "id": "benjamin-galdames",
+            "name": "Benjamín Galdames",
+            "short": "Galdames",
+            "position": "RB",
+            "photo": null,
+            "x": 27,
+            "y": 88,
+            "rating": 7.2
+          },
+          {
+            "id": "rafa-llorente",
+            "name": "Rafa Llorente",
+            "short": "Llorente",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 7
+          },
+          {
+            "id": "david-rodriguez",
+            "name": "David Rodriguez",
+            "short": "Rodriguez",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 6.4
+          },
+          {
+            "id": "felipe-mora",
+            "name": "Felipe Mora",
+            "short": "Mora",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 8.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "johan-caicedo",
+            "name": "Johan Caicedo",
+            "short": "Caicedo",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "roman-torres",
+            "name": "Román Torres",
+            "short": "Torres",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "sebastian-perez-bouquet",
+            "name": "Sebastián Pérez-Bouquet",
+            "short": "Pérez-Bouquet",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "leonardo-flores",
+            "name": "Leonardo Flores",
+            "short": "Flores",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "roberto-meraz",
+            "name": "Roberto Meraz",
+            "short": "Meraz",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "denilson-munoz",
+            "name": "Denilson Muñoz",
+            "short": "Muñoz",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "benjamin-galindo",
+            "name": "Benjamín Galindo",
+            "short": "Galindo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "andres-sanchez",
+            "name": "Andrés Sánchez",
+            "short": "Sánchez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lucas-esteves",
+            "name": "Lucas Esteves",
+            "short": "Esteves",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "juanpe",
+            "name": "Juanpe",
+            "short": "Juanpe",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "esteban-gonzalez",
+          "name": "Esteban González",
+          "short": "González",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "guillermo-allison",
+            "name": "Guillermo Allison",
+            "short": "Allison",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "daniel-parra",
+            "name": "Daniel Parra",
+            "short": "Parra",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 5.7
+          },
+          {
+            "id": "lucas-abascia",
+            "name": "Lucas Abascia",
+            "short": "Abascia",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.2
+          },
+          {
+            "id": "carlos-villanueva",
+            "name": "Carlos Villanueva",
+            "short": "Villanueva",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.3
+          },
+          {
+            "id": "bayron-duarte",
+            "name": "Bayron Duarte",
+            "short": "Duarte",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.2
+          },
+          {
+            "id": "bernardo-parra",
+            "name": "Bernardo Parra",
+            "short": "Parra",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "carlo-garcia",
+            "name": "Carlo García",
+            "short": "García",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.1
+          },
+          {
+            "id": "paulo-victor",
+            "name": "Paulo Victor",
+            "short": "Victor",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 7.5
+          },
+          {
+            "id": "mateo-coronel",
+            "name": "Mateo Coronel",
+            "short": "Coronel",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "enzo-gimenez",
+            "name": "Enzo Giménez",
+            "short": "Giménez",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 6.7
+          },
+          {
+            "id": "ali-avila",
+            "name": "Ali Avila",
+            "short": "Avila",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "iker-benito",
+            "name": "Iker Benito",
+            "short": "Benito",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "alejandro-alcala",
+            "name": "Alejandro Alcala",
+            "short": "Alcala",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "denilson-munoz",
+            "name": "Denilson Muñoz",
+            "short": "Muñoz",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "juan-eduardo-robles",
+            "name": "Juan Eduardo Robles",
+            "short": "Robles",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "waldo-madrid",
+            "name": "Waldo Madrid",
+            "short": "Madrid",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "eduardo-perez",
+            "name": "Eduardo Pérez",
+            "short": "Pérez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jesus-arellano",
+            "name": "Jesús Arellano",
+            "short": "Arellano",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "juan-carlos-martinez-jr",
+            "name": "Juan Carlos Martínez Jr.",
+            "short": "Jr.",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "emiliano-guerrero-ramirez",
+            "name": "Emiliano Guerrero Ramírez",
+            "short": "Ramírez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jose-hernandez",
+            "name": "José Hernández",
+            "short": "Hernández",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 38,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "iker-benito",
+          "name": "Iker Benito",
+          "short": "Benito",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "paulo-victor",
+          "name": "Paulo Victor",
+          "short": "Victor",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 43,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": null,
+          "name": null
+        },
+        "detail": "VAR decision: no penalty for Atlético de San Luis"
+      },
+      {
+        "minute": 52,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "felipe-mora",
+          "name": "Felipe Mora",
+          "short": "Mora",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "rafa-llorente",
+          "name": "Rafa Llorente",
+          "short": "Llorente",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Rafa Llorente headed the ball on to Felipe Mora, who finished with his left foot from very close range into the bottom right corner."
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "johan-caicedo",
+          "name": "Johan Caicedo",
+          "short": "Caicedo",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "oscar-macias",
+          "name": "Oscar Macías",
+          "short": "Macías",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "own_goal",
+        "team": "home",
+        "player": {
+          "id": "daniel-parra",
+          "name": "Daniel Parra",
+          "short": "Parra",
+          "position": "LB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "own",
+        "description": "Querétaro's Daniel Parra turned the ball into his own net to double Atlético de San Luis's lead."
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alejandro-alcala",
+          "name": "Alejandro Alcala",
+          "short": "Alcala",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mateo-coronel",
+          "name": "Mateo Coronel",
+          "short": "Coronel",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "denilson-munoz",
+          "name": "Denilson Muñoz",
+          "short": "Muñoz",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bayron-duarte",
+          "name": "Bayron Duarte",
+          "short": "Duarte",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "ali-avila",
+          "name": "Ali Avila",
+          "short": "Avila",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Ali Avila converted the penalty with a right-footed shot into the high centre of the goal after Benjamín Galdames fouled substitute Denilson Muñoz."
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "roman-torres",
+          "name": "Román Torres",
+          "short": "Torres",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "benjamin-galdames",
+          "name": "Benjamín Galdames",
+          "short": "Galdames",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "sebastian-perez-bouquet",
+          "name": "Sebastián Pérez-Bouquet",
+          "short": "Pérez-Bouquet",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "felipe-mora",
+          "name": "Felipe Mora",
+          "short": "Mora",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "leonardo-flores",
+          "name": "Leonardo Flores",
+          "short": "Flores",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rafa-llorente",
+          "name": "Rafa Llorente",
+          "short": "Llorente",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "juan-eduardo-robles",
+          "name": "Juan Eduardo Robles",
+          "short": "Robles",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "enzo-gimenez",
+          "name": "Enzo Giménez",
+          "short": "Giménez",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "waldo-madrid",
+          "name": "Waldo Madrid",
+          "short": "Madrid",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bernardo-parra",
+          "name": "Bernardo Parra",
+          "short": "Parra",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 88,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "roberto-meraz",
+          "name": "Roberto Meraz",
+          "short": "Meraz",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "david-rodriguez",
+          "name": "David Rodriguez",
+          "short": "Rodriguez",
+          "position": "AM",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        12,
+        9
+      ],
+      "onTarget": [
+        4,
+        4
+      ],
+      "corners": [
+        5,
+        2
+      ],
+      "fouls": [
+        9,
+        7
+      ],
+      "possession": 55
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Adonai Escobedo González",
+      "country": "Mexico"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876937",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876937",
+      "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+      "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+      "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

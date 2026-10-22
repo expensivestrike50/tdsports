@@ -1,0 +1,832 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "man-city-ipswich-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "15:00",
+    "competition": "Premier League",
+    "round": "Matchweek 7",
+    "status": "FT",
+    "home": {
+      "name": "Man City",
+      "id": "man-city",
+      "crest": "assets/clubs/382.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Ipswich",
+      "id": "ipswich",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Etihad Stadium",
+      "city": "Manchester",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "enzo-maresca-man-city-ipswich-2026-10-17",
+          "name": "Enzo Maresca",
+          "short": "Maresca",
+          "position": "Coach",
+          "photo": "assets/photos/people/enzo-maresca.jpg"
+        },
+        "starting": [
+          {
+            "id": "gianluigi-donnarumma-man-city-ipswich-2026-10-17",
+            "name": "Gianluigi Donnarumma",
+            "short": "Donnarumma",
+            "position": "GK",
+            "photo": "assets/photos/people/gianluigi-donnarumma.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "matheus-nunes",
+            "name": "Matheus Nunes",
+            "short": "Nunes",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.6
+          },
+          {
+            "id": "ruben-dias-man-city-ipswich-2026-10-17",
+            "name": "Rúben Dias",
+            "short": "Dias",
+            "position": "CB",
+            "photo": "assets/photos/people/ruben-dias.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 6.6
+          },
+          {
+            "id": "marc-guehi-man-city-ipswich-2026-10-17",
+            "name": "Marc Guéhi",
+            "short": "Guéhi",
+            "position": "CB",
+            "photo": "assets/photos/people/marc-guehi.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 7.2
+          },
+          {
+            "id": "nico-o-reilly",
+            "name": "Nico O'Reilly",
+            "short": "O'Reilly",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "mateo-kovacic",
+            "name": "Mateo Kovacic",
+            "short": "Kovacic",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.8
+          },
+          {
+            "id": "ayyoub-bouaddi-man-city-ipswich-2026-10-17",
+            "name": "Ayyoub Bouaddi",
+            "short": "Bouaddi",
+            "position": "DM",
+            "photo": "assets/photos/people/ayyoub-bouaddi.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 7.4
+          },
+          {
+            "id": "iliman-ndiaye-man-city-ipswich-2026-10-17",
+            "name": "Iliman Ndiaye",
+            "short": "Ndiaye",
+            "position": "RW",
+            "photo": "assets/photos/people/iliman-ndiaye.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 7.8
+          },
+          {
+            "id": "phil-foden-man-city-ipswich-2026-10-17",
+            "name": "Phil Foden",
+            "short": "Foden",
+            "position": "AM",
+            "photo": "assets/photos/people/phil-foden.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 8.1
+          },
+          {
+            "id": "jeremy-doku-man-city-ipswich-2026-10-17",
+            "name": "Jérémy Doku",
+            "short": "Doku",
+            "position": "LW",
+            "photo": "assets/photos/people/jeremy-doku.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 7.5
+          },
+          {
+            "id": "erling-haaland-man-city-ipswich-2026-10-17",
+            "name": "Erling Haaland",
+            "short": "Haaland",
+            "position": "ST",
+            "photo": "assets/photos/people/erling-haaland.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 8.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "enzo-fernandez-man-city-ipswich-2026-10-17",
+            "name": "Enzo Fernández",
+            "short": "Fernández",
+            "position": "DM",
+            "photo": "assets/photos/people/enzo-fernandez.jpg",
+            "rating": 7.2
+          },
+          {
+            "id": "josko-gvardiol-man-city-ipswich-2026-10-17",
+            "name": "Josko Gvardiol",
+            "short": "Gvardiol",
+            "position": "LB",
+            "photo": "assets/photos/people/josko-gvardiol.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "abdukodir-khusanov-man-city-ipswich-2026-10-17",
+            "name": "Abdukodir Khusanov",
+            "short": "Khusanov",
+            "position": "RB",
+            "photo": "assets/photos/people/abdukodir-khusanov.jpg",
+            "rating": 6.5
+          },
+          {
+            "id": "elliot-anderson-man-city-ipswich-2026-10-17",
+            "name": "Elliot Anderson",
+            "short": "Anderson",
+            "position": "AM",
+            "photo": "assets/photos/people/elliot-anderson.jpg",
+            "rating": 6.7
+          },
+          {
+            "id": "antoine-semenyo",
+            "name": "Antoine Semenyo",
+            "short": "Semenyo",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "geronimo-rulli-man-city-ipswich-2026-10-17",
+            "name": "Gerónimo Rulli",
+            "short": "Rulli",
+            "position": "CM",
+            "photo": "assets/photos/people/geronimo-rulli.jpg",
+            "rating": null
+          },
+          {
+            "id": "rayan-ait-nouri-man-city-ipswich-2026-10-17",
+            "name": "Rayan Aït-Nouri",
+            "short": "Aït-Nouri",
+            "position": "CM",
+            "photo": "assets/photos/people/rayan-ait-nouri.jpg",
+            "rating": null
+          },
+          {
+            "id": "allan-elias-man-city-ipswich-2026-10-17",
+            "name": "Allan Elias",
+            "short": "Elias",
+            "position": "CM",
+            "photo": "assets/photos/people/allan-elias.jpg",
+            "rating": null
+          },
+          {
+            "id": "rayan-cherki-man-city-ipswich-2026-10-17",
+            "name": "Rayan Cherki",
+            "short": "Cherki",
+            "position": "CM",
+            "photo": "assets/photos/people/rayan-cherki.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "gary-o-neil",
+          "name": "Gary O'Neil",
+          "short": "O'Neil",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "christian-walton",
+            "name": "Christian Walton",
+            "short": "Walton",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "dara-o-shea",
+            "name": "Dara O'Shea",
+            "short": "O'Shea",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 6.3
+          },
+          {
+            "id": "issa-diop",
+            "name": "Issa Diop",
+            "short": "Diop",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "jacob-greaves",
+            "name": "Jacob Greaves",
+            "short": "Greaves",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 6.3
+          },
+          {
+            "id": "abdoul-ouattara",
+            "name": "Abdoul Ouattara",
+            "short": "Ouattara",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "florentino",
+            "name": "Florentino",
+            "short": "Florentino",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 7.3
+          },
+          {
+            "id": "exequiel-palacios",
+            "name": "Exequiel Palacios",
+            "short": "Palacios",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 7.4
+          },
+          {
+            "id": "leif-davis",
+            "name": "Leif Davis",
+            "short": "Davis",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "daizen-maeda",
+            "name": "Daizen Maeda",
+            "short": "Maeda",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 7.7
+          },
+          {
+            "id": "julio-enciso",
+            "name": "Julio Enciso",
+            "short": "Enciso",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 7.3
+          },
+          {
+            "id": "emersonn",
+            "name": "Emersonn",
+            "short": "Emersonn",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "azor-matusiwa",
+            "name": "Azor Matusiwa",
+            "short": "Matusiwa",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "fatawu-issahaku",
+            "name": "Fatawu Issahaku",
+            "short": "Issahaku",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "zian-flemming",
+            "name": "Zian Flemming",
+            "short": "Flemming",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.7
+          },
+          {
+            "id": "chuba-akpom",
+            "name": "Chuba Akpom",
+            "short": "Akpom",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "jack-clarke",
+            "name": "Jack Clarke",
+            "short": "Clarke",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "cedric-kipre",
+            "name": "Cedric Kipre",
+            "short": "Kipre",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "darnell-furlong",
+            "name": "Darnell Furlong",
+            "short": "Furlong",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kjell-scherpen",
+            "name": "Kjell Scherpen",
+            "short": "Scherpen",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jaden-philogene",
+            "name": "Jaden Philogene",
+            "short": "Philogene",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 19,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "phil-foden-man-city-ipswich-2026-10-17",
+          "name": "Phil Foden",
+          "short": "Foden",
+          "position": "AM",
+          "photo": "assets/photos/people/phil-foden.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "jeremy-doku-man-city-ipswich-2026-10-17",
+          "name": "Jérémy Doku",
+          "short": "Doku",
+          "position": "LW",
+          "photo": "assets/photos/people/jeremy-doku.jpg"
+        },
+        "goalType": "counter",
+        "description": "Jérémy Doku's trickery on a fast break set up Phil Foden, who beat Christian Walton with a guided low left-footed finish for his first goal since December 2025."
+      },
+      {
+        "minute": 21,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "daizen-maeda",
+          "name": "Daizen Maeda",
+          "short": "Maeda",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "abdoul-ouattara",
+          "name": "Abdoul Ouattara",
+          "short": "Ouattara",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Daizen Maeda shrugged off Marc Guéhi and levelled with a low left-footed finish past Gianluigi Donnarumma, assisted by Abdoul Ouattara."
+      },
+      {
+        "minute": 34,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "erling-haaland-man-city-ipswich-2026-10-17",
+          "name": "Erling Haaland",
+          "short": "Haaland",
+          "position": "ST",
+          "photo": "assets/photos/people/erling-haaland.jpg"
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "mateo-kovacic",
+          "name": "Mateo Kovacic",
+          "short": "Kovacic",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Mateo Kovacic glided down the right side of the box unopposed and clipped a cross for Erling Haaland to head in from the penalty spot area."
+      },
+      {
+        "minute": 50,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "enzo-fernandez-man-city-ipswich-2026-10-17",
+          "name": "Enzo Fernández",
+          "short": "Fernández",
+          "position": "DM",
+          "photo": "assets/photos/people/enzo-fernandez.jpg"
+        },
+        "replaced": {
+          "id": "mateo-kovacic",
+          "name": "Mateo Kovacic",
+          "short": "Kovacic",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "josko-gvardiol-man-city-ipswich-2026-10-17",
+          "name": "Josko Gvardiol",
+          "short": "Gvardiol",
+          "position": "LB",
+          "photo": "assets/photos/people/josko-gvardiol.jpg"
+        },
+        "replaced": {
+          "id": "nico-o-reilly",
+          "name": "Nico O'Reilly",
+          "short": "O'Reilly",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "erling-haaland-man-city-ipswich-2026-10-17",
+          "name": "Erling Haaland",
+          "short": "Haaland",
+          "position": "ST",
+          "photo": "assets/photos/people/erling-haaland.jpg"
+        },
+        "scoreAfter": "3 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "iliman-ndiaye-man-city-ipswich-2026-10-17",
+          "name": "Iliman Ndiaye",
+          "short": "Ndiaye",
+          "position": "RW",
+          "photo": "assets/photos/people/iliman-ndiaye.jpg"
+        },
+        "goalType": "counter",
+        "description": "Erling Haaland ran onto a brilliant pass from Iliman Ndiaye on the break and slotted left-footed past Christian Walton."
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "azor-matusiwa",
+          "name": "Azor Matusiwa",
+          "short": "Matusiwa",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "florentino",
+          "name": "Florentino",
+          "short": "Florentino",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "fatawu-issahaku",
+          "name": "Fatawu Issahaku",
+          "short": "Issahaku",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "daizen-maeda",
+          "name": "Daizen Maeda",
+          "short": "Maeda",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "abdoul-ouattara",
+          "name": "Abdoul Ouattara",
+          "short": "Ouattara",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "abdukodir-khusanov-man-city-ipswich-2026-10-17",
+          "name": "Abdukodir Khusanov",
+          "short": "Khusanov",
+          "position": "RB",
+          "photo": "assets/photos/people/abdukodir-khusanov.jpg"
+        },
+        "replaced": {
+          "id": "matheus-nunes",
+          "name": "Matheus Nunes",
+          "short": "Nunes",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "elliot-anderson-man-city-ipswich-2026-10-17",
+          "name": "Elliot Anderson",
+          "short": "Anderson",
+          "position": "AM",
+          "photo": "assets/photos/people/elliot-anderson.jpg"
+        },
+        "replaced": {
+          "id": "phil-foden-man-city-ipswich-2026-10-17",
+          "name": "Phil Foden",
+          "short": "Foden",
+          "position": "AM",
+          "photo": "assets/photos/people/phil-foden.jpg"
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "antoine-semenyo",
+          "name": "Antoine Semenyo",
+          "short": "Semenyo",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jeremy-doku-man-city-ipswich-2026-10-17",
+          "name": "Jérémy Doku",
+          "short": "Doku",
+          "position": "LW",
+          "photo": "assets/photos/people/jeremy-doku.jpg"
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "zian-flemming",
+          "name": "Zian Flemming",
+          "short": "Flemming",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "emersonn",
+          "name": "Emersonn",
+          "short": "Emersonn",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "chuba-akpom",
+          "name": "Chuba Akpom",
+          "short": "Akpom",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "julio-enciso",
+          "name": "Julio Enciso",
+          "short": "Enciso",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "erling-haaland-man-city-ipswich-2026-10-17",
+          "name": "Erling Haaland",
+          "short": "Haaland",
+          "position": "ST",
+          "photo": "assets/photos/people/erling-haaland.jpg"
+        },
+        "detail": "Goal ruled out after VAR review for offside against Enzo Fernández in the build-up."
+      },
+      {
+        "minute": 88,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "marc-guehi-man-city-ipswich-2026-10-17",
+          "name": "Marc Guéhi",
+          "short": "Guéhi",
+          "position": "CB",
+          "photo": "assets/photos/people/marc-guehi.jpg"
+        },
+        "detail": "VAR decision: penalty to Ipswich for Guéhi's contact on Abdul Fatawu in the box."
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "zian-flemming",
+          "name": "Zian Flemming",
+          "short": "Flemming",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "3 - 2",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "After VAR awarded Ipswich a penalty for Marc Guéhi's contact on Abdul Fatawu, Zian Flemming converted right-footed into the centre of the goal."
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jack-clarke",
+          "name": "Jack Clarke",
+          "short": "Clarke",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jacob-greaves",
+          "name": "Jacob Greaves",
+          "short": "Greaves",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "josko-gvardiol-man-city-ipswich-2026-10-17",
+          "name": "Josko Gvardiol",
+          "short": "Gvardiol",
+          "position": "LB",
+          "photo": "assets/photos/people/josko-gvardiol.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "leif-davis",
+          "name": "Leif Davis",
+          "short": "Davis",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        19,
+        8
+      ],
+      "onTarget": [
+        6,
+        3
+      ],
+      "corners": [
+        2,
+        3
+      ],
+      "fouls": [
+        8,
+        16
+      ],
+      "possession": 70
+    },
+    "attendance": 60817,
+    "referee": {
+      "name": "Farai Hallam",
+      "country": "England"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879259",
+      "https://www.espn.com/soccer/match/_/gameId/401879259",
+      "https://www.skysports.com/football/a-vs-b/report/559510",
+      "https://www.skysports.com/football/a-vs-b/teams/559510",
+      "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

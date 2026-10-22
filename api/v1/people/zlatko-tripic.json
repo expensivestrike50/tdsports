@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "zlatko-tripic",
+    "name": "Zlatko Tripic",
+    "short": "Tripic",
+    "position": "LW",
+    "photo": "assets/photos/people/zlatko-tripic.jpg",
+    "matches": [
+      {
+        "match": "villa-viking",
+        "date": "2026-10-21",
+        "team": "Viking",
+        "role": "starter"
+      }
+    ]
+  }
+}

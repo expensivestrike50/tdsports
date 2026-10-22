@@ -1,0 +1,870 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "atlas-club-america-2026-10-21",
+    "date": "2026-10-21",
+    "kickoff": "19:00",
+    "competition": "Liga MX",
+    "round": "Apertura, jornada 13",
+    "status": "FT",
+    "home": {
+      "name": "Atlas",
+      "id": "atlas",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png",
+      "country": "MX"
+    },
+    "away": {
+      "name": "Club América",
+      "id": "club-america",
+      "crest": "assets/clubs/227.png",
+      "country": "MX"
+    },
+    "score": {
+      "home": 2,
+      "away": 5
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-2-2",
+        "coach": {
+          "id": "hernan-crespo",
+          "name": "Hernán Crespo",
+          "short": "Crespo",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "camilo-vargas",
+            "name": "Camilo Vargas",
+            "short": "Vargas",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "milton-valenzuela",
+            "name": "Milton Valenzuela",
+            "short": "Valenzuela",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "juanjo-purata",
+            "name": "Juanjo Purata",
+            "short": "Purata",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.1
+          },
+          {
+            "id": "adonis-frias",
+            "name": "Adonis Frias",
+            "short": "Frias",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.1
+          },
+          {
+            "id": "jorge-sanchez",
+            "name": "Jorge Sánchez",
+            "short": "Sánchez",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.5
+          },
+          {
+            "id": "paulo-ramirez",
+            "name": "Paulo Ramírez",
+            "short": "Ramírez",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.9
+          },
+          {
+            "id": "elias-montiel",
+            "name": "Elías Montiel",
+            "short": "Montiel",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.1
+          },
+          {
+            "id": "luis-esteves",
+            "name": "Luís Esteves",
+            "short": "Esteves",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 7.4
+          },
+          {
+            "id": "alfonso-gonzalez-atlas-club-america-2026-10-21",
+            "name": "Alfonso González",
+            "short": "González",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 6.8
+          },
+          {
+            "id": "ryan-mmaee",
+            "name": "Ryan Mmaee",
+            "short": "Mmaee",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 8
+          },
+          {
+            "id": "florian-monzon",
+            "name": "Florián Monzón",
+            "short": "Monzón",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "sergio-hernandez",
+            "name": "Sergio Hernandez",
+            "short": "Hernandez",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "edgar-zaldivar",
+            "name": "Edgar Zaldivar",
+            "short": "Zaldivar",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "henry-martin",
+            "name": "Henry Martín",
+            "short": "Martín",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "brian-rodriguez",
+            "name": "Brian Rodríguez",
+            "short": "Rodríguez",
+            "position": "LW",
+            "photo": null,
+            "rating": 8.6
+          },
+          {
+            "id": "victor-rios",
+            "name": "Víctor Ríos",
+            "short": "Ríos",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "jose-lozano",
+            "name": "José Lozano",
+            "short": "Lozano",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jorge-sanchez",
+            "name": "Jorge Sánchez",
+            "short": "Sánchez",
+            "position": "RB",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gaddi-aguirre",
+            "name": "Gaddi Aguirre",
+            "short": "Aguirre",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aldo-rocha",
+            "name": "Aldo Rocha",
+            "short": "Rocha",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "manuel-capasso",
+            "name": "Manuel Capasso",
+            "short": "Capasso",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "guillermo-almada",
+          "name": "Guillermo Almada",
+          "short": "Almada",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "angel-malagon",
+            "name": "Ángel Malagón",
+            "short": "Malagón",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "franco-rossano",
+            "name": "Franco Rossano",
+            "short": "Rossano",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "santiago-ramos",
+            "name": "Santiago Ramos",
+            "short": "Ramos",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.7
+          },
+          {
+            "id": "santiago-bueno",
+            "name": "Santiago Bueno",
+            "short": "Bueno",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.6
+          },
+          {
+            "id": "kevin-alvarez",
+            "name": "Kevin Álvarez",
+            "short": "Álvarez",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "erick-sanchez",
+            "name": "Érick Sánchez",
+            "short": "Sánchez",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 8.4
+          },
+          {
+            "id": "israel-reyes",
+            "name": "Israel Reyes",
+            "short": "Reyes",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.4
+          },
+          {
+            "id": "brian-rodriguez",
+            "name": "Brian Rodríguez",
+            "short": "Rodríguez",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 8.8
+          },
+          {
+            "id": "carlos-alvarez",
+            "name": "Carlos Álvarez",
+            "short": "Álvarez",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "alejandro-zendejas",
+            "name": "Alejandro Zendejas",
+            "short": "Zendejas",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 8.5
+          },
+          {
+            "id": "miguel-borja",
+            "name": "Miguel Borja",
+            "short": "Borja",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 8.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "isaias-violante",
+            "name": "Isaías Violante",
+            "short": "Violante",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "henry-martin",
+            "name": "Henry Martín",
+            "short": "Martín",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "oscar-perea",
+            "name": "Óscar Perea",
+            "short": "Perea",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "emilio-lara",
+            "name": "Emilio Lara",
+            "short": "Lara",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "alan-cervantes",
+            "name": "Alan Cervantes",
+            "short": "Cervantes",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "edwin-cerrillo",
+            "name": "Edwin Cerrillo",
+            "short": "Cerrillo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alexis-gutierrez",
+            "name": "Alexis Gutierrez",
+            "short": "Gutierrez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "miguel-vazquez",
+            "name": "Miguel Vazquez",
+            "short": "Vazquez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rodolfo-cota",
+            "name": "Rodolfo Cota",
+            "short": "Cota",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "icaro-ca-conceicao",
+            "name": "Ícaro ca Conceição",
+            "short": "Conceição",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 22,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "franco-rossano",
+          "name": "Franco Rossano",
+          "short": "Rossano",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 26,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "miguel-borja",
+          "name": "Miguel Borja",
+          "short": "Borja",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "brian-rodriguez",
+          "name": "Brian Rodríguez",
+          "short": "Rodríguez",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Brian Rodríguez set up Miguel Borja, who finished with his right foot from the centre of the box into the bottom right corner."
+      },
+      {
+        "minute": 28,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "erick-sanchez",
+          "name": "Érick Sánchez",
+          "short": "Sánchez",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "carlos-alvarez",
+          "name": "Carlos Álvarez",
+          "short": "Álvarez",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Two minutes later Carlos Álvarez found Érick Sánchez on the left side of the box and he scored with a left-footed shot into the centre of the goal."
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "isaias-violante",
+          "name": "Isaías Violante",
+          "short": "Violante",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "carlos-alvarez",
+          "name": "Carlos Álvarez",
+          "short": "Álvarez",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 58,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "brian-rodriguez",
+          "name": "Brian Rodríguez",
+          "short": "Rodríguez",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "alejandro-zendejas",
+          "name": "Alejandro Zendejas",
+          "short": "Zendejas",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "América countered and Alejandro Zendejas laid the ball off to Brian Rodríguez, who hit a right-footed shot from outside the box into the centre of the goal."
+      },
+      {
+        "minute": 63,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "alejandro-zendejas",
+          "name": "Alejandro Zendejas",
+          "short": "Zendejas",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 4",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Alejandro Zendejas made it 4-0 with a left-footed shot from the centre of the box into the top left corner."
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "henry-martin",
+          "name": "Henry Martín",
+          "short": "Martín",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "miguel-borja",
+          "name": "Miguel Borja",
+          "short": "Borja",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "oscar-perea",
+          "name": "Óscar Perea",
+          "short": "Perea",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alejandro-zendejas",
+          "name": "Alejandro Zendejas",
+          "short": "Zendejas",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "sergio-hernandez",
+          "name": "Sergio Hernandez",
+          "short": "Hernandez",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "paulo-ramirez",
+          "name": "Paulo Ramírez",
+          "short": "Ramírez",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "edgar-zaldivar",
+          "name": "Edgar Zaldivar",
+          "short": "Zaldivar",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alfonso-gonzalez-atlas-club-america-2026-10-21",
+          "name": "Alfonso González",
+          "short": "González",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "henry-martin",
+          "name": "Henry Martín",
+          "short": "Martín",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "florian-monzon",
+          "name": "Florián Monzón",
+          "short": "Monzón",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "santiago-bueno",
+          "name": "Santiago Bueno",
+          "short": "Bueno",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Penalty awarded to Atlas after a VAR review for a handball by América's Santiago Bueno"
+      },
+      {
+        "minute": 73,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "luis-esteves",
+          "name": "Luís Esteves",
+          "short": "Esteves",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 4",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Luís Esteves converted a penalty, awarded after a VAR review for a Santiago Bueno handball, with a right-footed shot into the top right corner."
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "emilio-lara",
+          "name": "Emilio Lara",
+          "short": "Lara",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "franco-rossano",
+          "name": "Franco Rossano",
+          "short": "Rossano",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alan-cervantes",
+          "name": "Alan Cervantes",
+          "short": "Cervantes",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "israel-reyes",
+          "name": "Israel Reyes",
+          "short": "Reyes",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "ryan-mmaee",
+          "name": "Ryan Mmaee",
+          "short": "Mmaee",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 4",
+        "penalty": false,
+        "assist": {
+          "id": "sergio-hernandez",
+          "name": "Sergio Hernandez",
+          "short": "Hernandez",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Sergio Hernandez teed up Ryan Mmaee, who scored with a right-footed shot from outside the box into the bottom right corner."
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "brian-rodriguez",
+          "name": "Brian Rodríguez",
+          "short": "Rodríguez",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "milton-valenzuela",
+          "name": "Milton Valenzuela",
+          "short": "Valenzuela",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "kevin-alvarez",
+          "name": "Kevin Álvarez",
+          "short": "Álvarez",
+          "position": "RB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 5",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "A minute later Kevin Álvarez restored América's three-goal margin with a right-footed finish from very close range into the bottom right corner."
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "victor-rios",
+          "name": "Víctor Ríos",
+          "short": "Ríos",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "elias-montiel",
+          "name": "Elías Montiel",
+          "short": "Montiel",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "juanjo-purata",
+          "name": "Juanjo Purata",
+          "short": "Purata",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "sergio-hernandez",
+          "name": "Sergio Hernandez",
+          "short": "Hernandez",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        23,
+        14
+      ],
+      "onTarget": [
+        6,
+        6
+      ],
+      "corners": [
+        9,
+        4
+      ],
+      "fouls": [
+        8,
+        14
+      ],
+      "possession": 56
+    },
+    "attendance": null,
+    "referee": {
+      "name": "César Arturo Ramos Palazuelos",
+      "country": "Mexico"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876932",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/summary?event=401876932",
+      "https://arbitraje.fmf.mx/designacion-arbitral_2026-2027_liga-mx_apertura_jornada-13",
+      "https://www.record.com.mx/historia/cesar-ramos-pitara-el-atlas-vs-america-en-la-jornada-13-suma-cuatro-partidos-seguidos-marcando-penales-2026102006450590079",
+      "https://www.foxsports.com.mx/2026/07/14/cuantos-mexicanos-seran-los-18-directores-tecnicos-de-liga-mx-para-el-inicio-del-apertura-2026/",
+      "https://www.clarosports.com/futbol/liga-mx/los-tecnicos-despedidos-del-apertura-2026-en-la-liga-mx/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

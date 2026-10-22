@@ -1,0 +1,52 @@
+[
+  {
+    "league": "Premier League",
+    "source": "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png",
+    "local": "assets/leagues/23.png"
+  },
+  {
+    "league": "Champions League",
+    "source": "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png",
+    "local": "assets/leagues/2.png"
+  },
+  {
+    "league": "LaLiga",
+    "source": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "local": "assets/leagues/15.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "source": "https://a.espncdn.com/i/leaguelogos/soccer/500/4.png",
+    "local": "assets/leagues/4.png"
+  },
+  {
+    "league": "Bundesliga",
+    "source": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+    "local": "assets/leagues/10.png"
+  },
+  {
+    "league": "MLS",
+    "source": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "local": "assets/leagues/19.png"
+  },
+  {
+    "league": "Serie A",
+    "source": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
+    "local": "assets/leagues/12.png"
+  },
+  {
+    "league": "Europa League",
+    "source": "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png",
+    "local": "assets/leagues/2310.png"
+  },
+  {
+    "league": "Ligue 1",
+    "source": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+    "local": "assets/leagues/9.png"
+  },
+  {
+    "league": "Liga MX",
+    "source": "https://a.espncdn.com/i/leaguelogos/soccer/500/22.png",
+    "local": "assets/leagues/22.png"
+  }
+]

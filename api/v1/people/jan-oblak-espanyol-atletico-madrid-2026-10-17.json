@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "jan-oblak-espanyol-atletico-madrid-2026-10-17",
+    "name": "Jan Oblak",
+    "short": "J. Oblak",
+    "position": "GK",
+    "photo": null,
+    "matches": [
+      {
+        "match": "espanyol-atletico-madrid-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Atlético Madrid",
+        "role": "starter"
+      }
+    ]
+  }
+}

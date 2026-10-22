@@ -1,0 +1,753 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "gladbach-hoffenheim-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "17:30",
+    "competition": "Bundesliga",
+    "round": "Matchday 6",
+    "status": "FT",
+    "home": {
+      "name": "Gladbach",
+      "id": "gladbach",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+      "country": "DE"
+    },
+    "away": {
+      "name": "Hoffenheim",
+      "id": "hoffenheim",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+      "country": "DE"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "BORUSSIA-PARK",
+      "city": "Mönchengladbach",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "alexander-blessin",
+          "name": "Alexander Blessin",
+          "short": "Blessin",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "moritz-nicolas",
+            "name": "Moritz Nicolas",
+            "short": "Nicolas",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "lukas-ullrich",
+            "name": "Lukas Ullrich",
+            "short": "Ullrich",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "fabio-chiarodia",
+            "name": "Fabio Chiarodia",
+            "short": "Chiarodia",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.5
+          },
+          {
+            "id": "kevin-diks",
+            "name": "Kevin Diks",
+            "short": "Diks",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.5
+          },
+          {
+            "id": "philipp-sander",
+            "name": "Philipp Sander",
+            "short": "Sander",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.6
+          },
+          {
+            "id": "wael-mohya",
+            "name": "Wael Mohya",
+            "short": "Mohya",
+            "position": "LW",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 8.4
+          },
+          {
+            "id": "florian-neuhaus",
+            "name": "Florian Neuhaus",
+            "short": "Neuhaus",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 7.6
+          },
+          {
+            "id": "zento-uno",
+            "name": "Zento Uno",
+            "short": "Uno",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 6.2
+          },
+          {
+            "id": "joe-scally",
+            "name": "Joe Scally",
+            "short": "Scally",
+            "position": "RW",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "isac-lidberg",
+            "name": "Isac Lidberg",
+            "short": "Lidberg",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 7.2
+          },
+          {
+            "id": "hugo-bolin",
+            "name": "Hugo Bolin",
+            "short": "Bolin",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 7.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "shuto-machino",
+            "name": "Shuto Machino",
+            "short": "Machino",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "daiki-hashioka",
+            "name": "Daiki Hashioka",
+            "short": "Hashioka",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "robin-hack",
+            "name": "Robin Hack",
+            "short": "Hack",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "iaia-manco-danfa",
+            "name": "Iaia Manco Danfa",
+            "short": "Danfa",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "mathieu-nguefack",
+            "name": "Mathieu Nguefack",
+            "short": "Nguefack",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "kevin-stoger",
+            "name": "Kevin Stöger",
+            "short": "Stöger",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "yukhym-konoplia",
+            "name": "Yukhym Konoplia",
+            "short": "Konoplia",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "david-herold",
+            "name": "David Herold",
+            "short": "Herold",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "daniel-batz",
+            "name": "Daniel Batz",
+            "short": "Batz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "christian-ilzer",
+          "name": "Christian Ilzer",
+          "short": "Ilzer",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "oliver-baumann",
+            "name": "Oliver Baumann",
+            "short": "Baumann",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "mats-rots",
+            "name": "Mats Rots",
+            "short": "Rots",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.3
+          },
+          {
+            "id": "koki-machida",
+            "name": "Koki Machida",
+            "short": "Machida",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.3
+          },
+          {
+            "id": "robin-hranac",
+            "name": "Robin Hranác",
+            "short": "Hranác",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.5
+          },
+          {
+            "id": "vladimir-coufal",
+            "name": "Vladimír Coufal",
+            "short": "Coufal",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.6
+          },
+          {
+            "id": "alexander-prass",
+            "name": "Alexander Prass",
+            "short": "Prass",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 9
+          },
+          {
+            "id": "leon-avdullahu",
+            "name": "Leon Avdullahu",
+            "short": "Avdullahu",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.6
+          },
+          {
+            "id": "adam-hlozek",
+            "name": "Adam Hlozek",
+            "short": "Hlozek",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 7.2
+          },
+          {
+            "id": "fisnik-asllani",
+            "name": "Fisnik Asllani",
+            "short": "Asllani",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "bambase-conte",
+            "name": "Bambasé Conté",
+            "short": "Conté",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 7.7
+          },
+          {
+            "id": "tim-lemperle",
+            "name": "Tim Lemperle",
+            "short": "Lemperle",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "adam-daghim",
+            "name": "Adam Daghim",
+            "short": "Daghim",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.7
+          },
+          {
+            "id": "ozan-kabak",
+            "name": "Ozan Kabak",
+            "short": "Kabak",
+            "position": "ST",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "andrej-kramaric",
+            "name": "Andrej Kramaric",
+            "short": "Kramaric",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "max-moerstedt",
+            "name": "Max Moerstedt",
+            "short": "Moerstedt",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "wouter-burger",
+            "name": "Wouter Burger",
+            "short": "Burger",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-philipp",
+            "name": "Luca Philipp",
+            "short": "Philipp",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "valentin-lassig",
+            "name": "Valentin Lässig",
+            "short": "Lässig",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "cajetan-lenz",
+            "name": "Cajetan Lenz",
+            "short": "Lenz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "valentin-gendrey",
+            "name": "Valentin Gendrey",
+            "short": "Gendrey",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 11,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "bambase-conte",
+          "name": "Bambasé Conté",
+          "short": "Conté",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "alexander-prass",
+          "name": "Alexander Prass",
+          "short": "Prass",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Bambasé Conté scored with a left-footed shot from the centre of the box to the bottom right corner. Assist: Alexander Prass with a cross."
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "kevin-diks",
+          "name": "Kevin Diks",
+          "short": "Diks",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "fisnik-asllani",
+          "name": "Fisnik Asllani",
+          "short": "Asllani",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 49,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "wael-mohya",
+          "name": "Wael Mohya",
+          "short": "Mohya",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "florian-neuhaus",
+          "name": "Florian Neuhaus",
+          "short": "Neuhaus",
+          "position": "CM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Wael Mohya scored with a right-footed shot from the left side of the box to the bottom right corner. Assist: Florian Neuhaus."
+      },
+      {
+        "minute": 51,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "shuto-machino",
+          "name": "Shuto Machino",
+          "short": "Machino",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "isac-lidberg",
+          "name": "Isac Lidberg",
+          "short": "Lidberg",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 54,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "alexander-prass",
+          "name": "Alexander Prass",
+          "short": "Prass",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "adam-hlozek",
+          "name": "Adam Hlozek",
+          "short": "Hlozek",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Alexander Prass scored with a left-footed shot from the centre of the box to the bottom right corner. Assist: Adam Hlozek following a fast break."
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "daiki-hashioka",
+          "name": "Daiki Hashioka",
+          "short": "Hashioka",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "florian-neuhaus",
+          "name": "Florian Neuhaus",
+          "short": "Neuhaus",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "adam-daghim",
+          "name": "Adam Daghim",
+          "short": "Daghim",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "fisnik-asllani",
+          "name": "Fisnik Asllani",
+          "short": "Asllani",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ozan-kabak",
+          "name": "Ozan Kabak",
+          "short": "Kabak",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tim-lemperle",
+          "name": "Tim Lemperle",
+          "short": "Lemperle",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "andrej-kramaric",
+          "name": "Andrej Kramaric",
+          "short": "Kramaric",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adam-hlozek",
+          "name": "Adam Hlozek",
+          "short": "Hlozek",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "robin-hack",
+          "name": "Robin Hack",
+          "short": "Hack",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "hugo-bolin",
+          "name": "Hugo Bolin",
+          "short": "Bolin",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "iaia-manco-danfa",
+          "name": "Iaia Manco Danfa",
+          "short": "Danfa",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "fabio-chiarodia",
+          "name": "Fabio Chiarodia",
+          "short": "Chiarodia",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mathieu-nguefack",
+          "name": "Mathieu Nguefack",
+          "short": "Nguefack",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "zento-uno",
+          "name": "Zento Uno",
+          "short": "Uno",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "shuto-machino",
+          "name": "Shuto Machino",
+          "short": "Machino",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 89,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "alexander-prass",
+          "name": "Alexander Prass",
+          "short": "Prass",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 89,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "robin-hack",
+          "name": "Robin Hack",
+          "short": "Hack",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        9,
+        14
+      ],
+      "onTarget": [
+        3,
+        8
+      ],
+      "corners": [
+        3,
+        6
+      ],
+      "fouls": [
+        13,
+        13
+      ],
+      "possession": 48
+    },
+    "attendance": 43702,
+    "referee": {
+      "name": "Sören Storks",
+      "country": "Germany"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884768",
+      "https://www.espn.com/soccer/match/_/gameId/401884768",
+      "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916172",
+      "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

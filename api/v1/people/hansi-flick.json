@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "hansi-flick",
+    "name": "Hansi Flick",
+    "short": "Flick",
+    "position": "Coach",
+    "photo": "assets/photos/people/hansi-flick.jpg",
+    "matches": [
+      {
+        "match": "psg-barcelona",
+        "date": "2026-10-20",
+        "team": "Barcelona",
+        "role": "coach"
+      }
+    ]
+  }
+}

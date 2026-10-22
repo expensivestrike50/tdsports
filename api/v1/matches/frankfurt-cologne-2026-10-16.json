@@ -1,0 +1,694 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "frankfurt-cologne-2026-10-16",
+    "date": "2026-10-16",
+    "kickoff": "20:30",
+    "competition": "Bundesliga",
+    "round": "Matchday 6",
+    "status": "FT",
+    "home": {
+      "name": "Frankfurt",
+      "id": "frankfurt",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+      "country": "DE"
+    },
+    "away": {
+      "name": "Cologne",
+      "id": "cologne",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+      "country": "DE"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Deutsche Bank Park",
+      "city": "Frankfurt",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "adi-hutter",
+          "name": "Adi Hütter",
+          "short": "Hütter",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "noah-atubolu",
+            "name": "Noah Atubolu",
+            "short": "Atubolu",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "keita-kosugi",
+            "name": "Keita Kosugi",
+            "short": "Kosugi",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "lilian-brassier",
+            "name": "Lilian Brassier",
+            "short": "Brassier",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7.5
+          },
+          {
+            "id": "robin-koch",
+            "name": "Robin Koch",
+            "short": "Koch",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.6
+          },
+          {
+            "id": "nnamdi-collins",
+            "name": "Nnamdi Collins",
+            "short": "Collins",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "fares-chaibi",
+            "name": "Farès Chaïbi",
+            "short": "Chaïbi",
+            "position": "LW",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 7.6
+          },
+          {
+            "id": "mario-gotze",
+            "name": "Mario Götze",
+            "short": "Götze",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 7.1
+          },
+          {
+            "id": "raphael-onyedika",
+            "name": "Raphael Onyedika",
+            "short": "Onyedika",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 6.7
+          },
+          {
+            "id": "ritsu-doan",
+            "name": "Ritsu Doan",
+            "short": "Doan",
+            "position": "RW",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "younes-ebnoutalib",
+            "name": "Younes Ebnoutalib",
+            "short": "Ebnoutalib",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 7.9
+          },
+          {
+            "id": "jonathan-burkardt",
+            "name": "Jonathan Burkardt",
+            "short": "Burkardt",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "noel-aseko",
+            "name": "Noël Aséko",
+            "short": "Aséko",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "ansgar-knauff",
+            "name": "Ansgar Knauff",
+            "short": "Knauff",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "elias-baum",
+            "name": "Elias Baum",
+            "short": "Baum",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "love-arrhov",
+            "name": "Love Arrhov",
+            "short": "Arrhov",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "timothy-chandler",
+            "name": "Timothy Chandler",
+            "short": "Chandler",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kaua-santos",
+            "name": "Kauã Santos",
+            "short": "Santos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "can-uzun",
+            "name": "Can Uzun",
+            "short": "Uzun",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ayoube-amaimouni",
+            "name": "Ayoube Amaimouni",
+            "short": "Amaimouni",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jeremiaha-maluze",
+            "name": "Jeremiaha Maluze",
+            "short": "Maluze",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-3-2",
+        "coach": {
+          "id": "rene-wagner",
+          "name": "René Wagner",
+          "short": "Wagner",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "marvin-schwabe",
+            "name": "Marvin Schwäbe",
+            "short": "Schwäbe",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.1
+          },
+          {
+            "id": "borna-sosa",
+            "name": "Borna Sosa",
+            "short": "Sosa",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 92,
+            "rating": 6.6
+          },
+          {
+            "id": "luka-lochoshvili",
+            "name": "Luka Lochoshvili",
+            "short": "Lochoshvili",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 71,
+            "rating": 6.2
+          },
+          {
+            "id": "jahmai-simpson-pusey",
+            "name": "Jahmai Simpson-Pusey",
+            "short": "Simpson-Pusey",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "joel-schmied",
+            "name": "Joel Schmied",
+            "short": "Schmied",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 29,
+            "rating": 6.3
+          },
+          {
+            "id": "sebastian-sebulonsen",
+            "name": "Sebastian Sebulonsen",
+            "short": "Sebulonsen",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 8,
+            "rating": 7.4
+          },
+          {
+            "id": "linton-maina",
+            "name": "Linton Maina",
+            "short": "Maina",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 7.2
+          },
+          {
+            "id": "tom-krauss",
+            "name": "Tom Krauss",
+            "short": "Krauss",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "isak-johannesson",
+            "name": "Ísak Jóhannesson",
+            "short": "Jóhannesson",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 22,
+            "rating": 6.9
+          },
+          {
+            "id": "said-el-mala",
+            "name": "Said El Mala",
+            "short": "El Mala",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 6.8
+          },
+          {
+            "id": "marius-bulter",
+            "name": "Marius Bulter",
+            "short": "Bulter",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 7.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "paul-okon-engstler",
+            "name": "Paul Okon-Engstler",
+            "short": "Okon-Engstler",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "mikey-moore",
+            "name": "Mikey Moore",
+            "short": "Moore",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "alessio-castro-montes",
+            "name": "Alessio Castro-Montes",
+            "short": "Castro-Montes",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "reigan-heskey",
+            "name": "Reigan Heskey",
+            "short": "Heskey",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "luca-waldschmidt",
+            "name": "Luca Waldschmidt",
+            "short": "Waldschmidt",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "assad-kotya-fofana",
+            "name": "Assad Kotya-Fofana",
+            "short": "Kotya-Fofana",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jan-thielmann",
+            "name": "Jan Thielmann",
+            "short": "Thielmann",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gideon-mensah",
+            "name": "Gideon Mensah",
+            "short": "Mensah",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ron-robert-zieler",
+            "name": "Ron-Robert Zieler",
+            "short": "Zieler",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 24,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "mario-gotze",
+          "name": "Mario Götze",
+          "short": "Götze",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 39,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "lilian-brassier",
+          "name": "Lilian Brassier",
+          "short": "Brassier",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "isak-johannesson",
+          "name": "Ísak Jóhannesson",
+          "short": "Jóhannesson",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "paul-okon-engstler",
+          "name": "Paul Okon-Engstler",
+          "short": "Okon-Engstler",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "isak-johannesson",
+          "name": "Ísak Jóhannesson",
+          "short": "Jóhannesson",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mikey-moore",
+          "name": "Mikey Moore",
+          "short": "Moore",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "linton-maina",
+          "name": "Linton Maina",
+          "short": "Maina",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alessio-castro-montes",
+          "name": "Alessio Castro-Montes",
+          "short": "Castro-Montes",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "joel-schmied",
+          "name": "Joel Schmied",
+          "short": "Schmied",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "noel-aseko",
+          "name": "Noël Aséko",
+          "short": "Aséko",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mario-gotze",
+          "name": "Mario Götze",
+          "short": "Götze",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ansgar-knauff",
+          "name": "Ansgar Knauff",
+          "short": "Knauff",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nnamdi-collins",
+          "name": "Nnamdi Collins",
+          "short": "Collins",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "younes-ebnoutalib",
+          "name": "Younes Ebnoutalib",
+          "short": "Ebnoutalib",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "noel-aseko",
+          "name": "Noël Aséko",
+          "short": "Aséko",
+          "position": "CM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Younes Ebnoutalib scored with a right-footed shot from the right side of the box to the bottom right corner. Assist: Noël Aséko."
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "elias-baum",
+          "name": "Elias Baum",
+          "short": "Baum",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jonathan-burkardt",
+          "name": "Jonathan Burkardt",
+          "short": "Burkardt",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "reigan-heskey",
+          "name": "Reigan Heskey",
+          "short": "Heskey",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "said-el-mala",
+          "name": "Said El Mala",
+          "short": "El Mala",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "luca-waldschmidt",
+          "name": "Luca Waldschmidt",
+          "short": "Waldschmidt",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sebastian-sebulonsen",
+          "name": "Sebastian Sebulonsen",
+          "short": "Sebulonsen",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "borna-sosa",
+          "name": "Borna Sosa",
+          "short": "Sosa",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        15,
+        9
+      ],
+      "onTarget": [
+        7,
+        3
+      ],
+      "corners": [
+        7,
+        3
+      ],
+      "fouls": [
+        8,
+        17
+      ],
+      "possession": 56
+    },
+    "attendance": 59600,
+    "referee": {
+      "name": "Benjamin Brand",
+      "country": "Germany"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884770",
+      "https://www.espn.com/soccer/match/_/gameId/401884770",
+      "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916170",
+      "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

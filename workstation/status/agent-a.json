@@ -1,0 +1,75 @@
+{
+ "agent": "a",
+ "name": "Scout A",
+ "state": "done",
+ "task": "All matches researched",
+ "step": "Results file complete (6/6)",
+ "progress": 1.0,
+ "matches": [
+  "Como v Man United",
+  "Sporting CP v LASK",
+  "Aston Villa v Viking",
+  "Inter v Shakhtar Donetsk",
+  "Real Betis v Feyenoord",
+  "Real Madrid v RB Leipzig"
+ ],
+ "done": [
+  "Como v Man United",
+  "Sporting CP v LASK",
+  "Aston Villa v Viking",
+  "Inter v Shakhtar Donetsk",
+  "Real Betis v Feyenoord",
+  "Real Madrid v RB Leipzig"
+ ],
+ "log": [
+  {
+   "t": "2026-10-22T01:09:12Z",
+   "msg": "Workstation ready"
+  },
+  {
+   "t": "2026-10-22T01:10:18Z",
+   "msg": "Scout A started; verifying Como v Man United"
+  },
+  {
+   "t": "2026-10-22T02:12:00Z",
+   "msg": "Resumed; ESPN: 5 games on Tue 20 Oct, Bayern-Arsenal Wed 21 Oct 2-2"
+  },
+  {
+   "t": "2026-10-22T02:12:02Z",
+   "msg": "Resumed; all 6 fixtures confirmed on ESPN CL scoreboard 21 Oct"
+  },
+  {
+   "t": "2026-10-22T02:12:34Z",
+   "msg": "ESPN: Como 4-1 Man Utd, both 4-2-3-1, 5 goals w/ positions"
+  },
+  {
+   "t": "2026-10-22T02:12:54Z",
+   "msg": "ESPN: Bayern 4-2-3-1 v Arsenal 4-3-3; 4 goals incl Kane pen, Eze VAR-awarded"
+  },
+  {
+   "t": "2026-10-22T02:14:56Z",
+   "msg": "Como 4-1 Man Utd saved: 5 goals, 4 yellows, ref Jablonski"
+  },
+  {
+   "t": "2026-10-22T02:15:51Z",
+   "msg": "Sporting 2-3 LASK saved (commentary-based descriptions)"
+  },
+  {
+   "t": "2026-10-22T02:16:30Z",
+   "msg": "Villa 3-1 Viking saved: pen + OG, 2 VAR checks"
+  },
+  {
+   "t": "2026-10-22T02:16:56Z",
+   "msg": "Inter 1-0 Shakhtar saved: Augusto winner, Bastoni sent off"
+  },
+  {
+   "t": "2026-10-22T02:17:25Z",
+   "msg": "Betis 1-0 Feyenoord saved: Isco penalty 59'"
+  },
+  {
+   "t": "2026-10-22T02:17:50Z",
+   "msg": "Madrid 4-1 Leipzig saved; all 6 matches done"
+  }
+ ],
+ "updated": "2026-10-22T02:17:50Z"
+}

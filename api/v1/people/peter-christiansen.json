@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "peter-christiansen",
+    "name": "Peter Christiansen",
+    "short": "Christiansen",
+    "position": "RW",
+    "photo": "assets/photos/people/peter-christiansen.jpg",
+    "matches": [
+      {
+        "match": "villa-viking",
+        "date": "2026-10-21",
+        "team": "Viking",
+        "role": "starter"
+      }
+    ]
+  }
+}

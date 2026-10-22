@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "joshua-palacios",
+    "name": "Joshua Palacios",
+    "short": "Palacios",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "guadalajara-necaxa-2026-10-20",
+        "date": "2026-10-20",
+        "team": "Necaxa",
+        "role": "bench"
+      }
+    ]
+  }
+}

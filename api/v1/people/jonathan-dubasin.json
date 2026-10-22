@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "jonathan-dubasin",
+    "name": "Jonathan Dubasin",
+    "short": "J. Dubasin",
+    "position": "LW",
+    "photo": null,
+    "matches": [
+      {
+        "match": "osasuna-racing-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Osasuna",
+        "role": "starter"
+      }
+    ]
+  }
+}

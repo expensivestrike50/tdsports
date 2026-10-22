@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "fermin-lopez",
+    "name": "Fermín López",
+    "short": "López",
+    "position": "AM",
+    "photo": "assets/photos/people/fermin-lopez.jpg",
+    "matches": [
+      {
+        "match": "psg-barcelona",
+        "date": "2026-10-20",
+        "team": "Barcelona",
+        "role": "bench"
+      }
+    ]
+  }
+}

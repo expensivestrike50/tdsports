@@ -1,0 +1,759 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "cincinnati-columbus-crew-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "17:00",
+    "competition": "MLS",
+    "round": "Regular season, matchday 31",
+    "status": "FT",
+    "home": {
+      "name": "Cincinnati",
+      "id": "cincinnati",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
+      "country": "US"
+    },
+    "away": {
+      "name": "Columbus Crew",
+      "id": "columbus-crew",
+      "crest": "assets/clubs/183.png",
+      "country": "US"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "TQL Stadium",
+      "city": "Cincinnati",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-5-2",
+        "coach": {
+          "id": "pat-noonan",
+          "name": "Pat Noonan",
+          "short": "Noonan",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "roman-celentano",
+            "name": "Roman Celentano",
+            "short": "Celentano",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "teenage-hadebe",
+            "name": "Teenage Hadebe",
+            "short": "Hadebe",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 7
+          },
+          {
+            "id": "julian-malatini",
+            "name": "Julian Malatini",
+            "short": "Malatini",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "samuel-gidi",
+            "name": "Samuel Gidi",
+            "short": "Gidi",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7.4
+          },
+          {
+            "id": "tyrell-malacia",
+            "name": "Tyrell Malacia",
+            "short": "Malacia",
+            "position": "LB",
+            "photo": null,
+            "x": 32,
+            "y": 8,
+            "rating": 6.3
+          },
+          {
+            "id": "obinna-nwobodo",
+            "name": "Obinna Nwobodo",
+            "short": "Nwobodo",
+            "position": "DM",
+            "photo": null,
+            "x": 32,
+            "y": 29,
+            "rating": 7
+          },
+          {
+            "id": "evander",
+            "name": "Evander",
+            "short": "Evander",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "pavel-bucha",
+            "name": "Pavel Bucha",
+            "short": "Bucha",
+            "position": "DM",
+            "photo": null,
+            "x": 32,
+            "y": 71,
+            "rating": 7.4
+          },
+          {
+            "id": "david-doudera",
+            "name": "David Doudera",
+            "short": "Doudera",
+            "position": "RB",
+            "photo": null,
+            "x": 32,
+            "y": 92,
+            "rating": 7
+          },
+          {
+            "id": "kevin-denkey",
+            "name": "Kévin Denkey",
+            "short": "Denkey",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 6.7
+          },
+          {
+            "id": "tom-barlow",
+            "name": "Tom Barlow",
+            "short": "Barlow",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 7.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "nick-hagglund",
+            "name": "Nick Hagglund",
+            "short": "Hagglund",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "ender-echenique",
+            "name": "Ender Echenique",
+            "short": "Echenique",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "kenji-mboma-dem",
+            "name": "Kenji Mboma Dem",
+            "short": "Dem",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "gerardo-valenzuela",
+            "name": "Gerardo Valenzuela",
+            "short": "Valenzuela",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "ayoub-jabbari",
+            "name": "Ayoub Jabbari",
+            "short": "Jabbari",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "tah-anunga",
+            "name": "Tah Anunga",
+            "short": "Anunga",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kyle-smith",
+            "name": "Kyle Smith",
+            "short": "Smith",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "bryan-ramirez",
+            "name": "Bryan Ramirez",
+            "short": "Ramirez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "evan-louro",
+            "name": "Evan Louro",
+            "short": "Louro",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "laurent-courtois",
+          "name": "Laurent Courtois",
+          "short": "Courtois",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "patrick-schulte",
+            "name": "Patrick Schulte",
+            "short": "Schulte",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.7
+          },
+          {
+            "id": "malte-amundsen",
+            "name": "Malte Amundsen",
+            "short": "Amundsen",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "sean-zawadzki",
+            "name": "Sean Zawadzki",
+            "short": "Zawadzki",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.5
+          },
+          {
+            "id": "steven-moreira",
+            "name": "Steven Moreira",
+            "short": "Moreira",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.1
+          },
+          {
+            "id": "andres-herrera",
+            "name": "Andrés Herrera",
+            "short": "Herrera",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.4
+          },
+          {
+            "id": "santiago-rodriguez",
+            "name": "Santiago Rodríguez",
+            "short": "Rodríguez",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 6.4
+          },
+          {
+            "id": "andre-gomes",
+            "name": "André Gomes",
+            "short": "Gomes",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 7.7
+          },
+          {
+            "id": "taha-habroune",
+            "name": "Taha Habroune",
+            "short": "Habroune",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 8.3
+          },
+          {
+            "id": "brooks-lennon",
+            "name": "Brooks Lennon",
+            "short": "Lennon",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 6.3
+          },
+          {
+            "id": "gonzalo-tapia",
+            "name": "Gonzalo Tapia",
+            "short": "Tapia",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 8.6
+          },
+          {
+            "id": "brais-mendez",
+            "name": "Brais Méndez",
+            "short": "Méndez",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 7.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "sekou-tidiany-bangoura",
+            "name": "Sékou Tidiany Bangoura",
+            "short": "Bangoura",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "jamal-thiare",
+            "name": "Jamal Thiaré",
+            "short": "Thiaré",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.7
+          },
+          {
+            "id": "dylan-chambost",
+            "name": "Dylan Chambost",
+            "short": "Chambost",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "eric-bailly",
+            "name": "Eric Bailly",
+            "short": "Bailly",
+            "position": "CB",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "laurtaro-giaccone",
+            "name": "Laurtaro Giaccone",
+            "short": "Giaccone",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "josef-martinez",
+            "name": "Josef Martínez",
+            "short": "Martínez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nicholas-hagen",
+            "name": "Nicholas Hagen",
+            "short": "Hagen",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "amar-sejdic",
+            "name": "Amar Sejdic",
+            "short": "Sejdic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mohamed-farsi",
+            "name": "Mohamed Farsi",
+            "short": "Farsi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 18,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nick-hagglund",
+          "name": "Nick Hagglund",
+          "short": "Hagglund",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "julian-malatini",
+          "name": "Julian Malatini",
+          "short": "Malatini",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 22,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "gonzalo-tapia",
+          "name": "Gonzalo Tapia",
+          "short": "Tapia",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "brais-mendez",
+          "name": "Brais Méndez",
+          "short": "Méndez",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Gonzalo Tapia header from the left side of the six yard box to the bottom left corner. Assisted by Brais Méndez with a cross following a corner."
+      },
+      {
+        "minute": 28,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "samuel-gidi",
+          "name": "Samuel Gidi",
+          "short": "Gidi",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 31,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "teenage-hadebe",
+          "name": "Teenage Hadebe",
+          "short": "Hadebe",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "sekou-tidiany-bangoura",
+          "name": "Sékou Tidiany Bangoura",
+          "short": "Bangoura",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "brais-mendez",
+          "name": "Brais Méndez",
+          "short": "Méndez",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "andre-gomes",
+          "name": "André Gomes",
+          "short": "Gomes",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 54,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "taha-habroune",
+          "name": "Taha Habroune",
+          "short": "Habroune",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "gonzalo-tapia",
+          "name": "Gonzalo Tapia",
+          "short": "Tapia",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Taha Habroune right footed shot from the centre of the box to the bottom left corner. Assisted by Gonzalo Tapia."
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ender-echenique",
+          "name": "Ender Echenique",
+          "short": "Echenique",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "david-doudera",
+          "name": "David Doudera",
+          "short": "Doudera",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kenji-mboma-dem",
+          "name": "Kenji Mboma Dem",
+          "short": "Dem",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tom-barlow",
+          "name": "Tom Barlow",
+          "short": "Barlow",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jamal-thiare",
+          "name": "Jamal Thiaré",
+          "short": "Thiaré",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "santiago-rodriguez",
+          "name": "Santiago Rodríguez",
+          "short": "Rodríguez",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "dylan-chambost",
+          "name": "Dylan Chambost",
+          "short": "Chambost",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "taha-habroune",
+          "name": "Taha Habroune",
+          "short": "Habroune",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "eric-bailly",
+          "name": "Eric Bailly",
+          "short": "Bailly",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "steven-moreira",
+          "name": "Steven Moreira",
+          "short": "Moreira",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "laurtaro-giaccone",
+          "name": "Laurtaro Giaccone",
+          "short": "Giaccone",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gonzalo-tapia",
+          "name": "Gonzalo Tapia",
+          "short": "Tapia",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "gerardo-valenzuela",
+          "name": "Gerardo Valenzuela",
+          "short": "Valenzuela",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nick-hagglund",
+          "name": "Nick Hagglund",
+          "short": "Hagglund",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ayoub-jabbari",
+          "name": "Ayoub Jabbari",
+          "short": "Jabbari",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pavel-bucha",
+          "name": "Pavel Bucha",
+          "short": "Bucha",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "dylan-chambost",
+          "name": "Dylan Chambost",
+          "short": "Chambost",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        23,
+        3
+      ],
+      "onTarget": [
+        7,
+        2
+      ],
+      "corners": [
+        2,
+        2
+      ],
+      "fouls": [
+        13,
+        16
+      ],
+      "xg": [
+        2.06,
+        0.25
+      ],
+      "possession": 68
+    },
+    "attendance": 25513,
+    "referee": {
+      "name": "Drew Fischer",
+      "country": "USA"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761889",
+      "https://www.espn.com/soccer/match/_/gameId/761889",
+      "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NL",
+      "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NL"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

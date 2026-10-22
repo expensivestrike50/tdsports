@@ -1,0 +1,706 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "schalke-mainz-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "15:30",
+    "competition": "Bundesliga",
+    "round": "Matchday 6",
+    "status": "FT",
+    "home": {
+      "name": "Schalke",
+      "id": "schalke",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+      "country": "DE"
+    },
+    "away": {
+      "name": "Mainz",
+      "id": "mainz",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+      "country": "DE"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Veltins Arena",
+      "city": "Gelsenkirchen",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "miron-muslic",
+          "name": "Miron Muslic",
+          "short": "Muslic",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "loris-karius",
+            "name": "Loris Karius",
+            "short": "Karius",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "hasan-kurucay",
+            "name": "Hasan Kurucay",
+            "short": "Kurucay",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 7.2
+          },
+          {
+            "id": "nikola-katic",
+            "name": "Nikola Katic",
+            "short": "Katic",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "timo-becker",
+            "name": "Timo Becker",
+            "short": "Becker",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 6.4
+          },
+          {
+            "id": "robin-gosens",
+            "name": "Robin Gosens",
+            "short": "Gosens",
+            "position": "LB",
+            "photo": null,
+            "x": 27,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "satoshi-tanaka",
+            "name": "Satoshi Tanaka",
+            "short": "Tanaka",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 38,
+            "rating": 7.1
+          },
+          {
+            "id": "soufian-el-faouzi",
+            "name": "Soufian El-Faouzi",
+            "short": "El-Faouzi",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 64,
+            "rating": 7.5
+          },
+          {
+            "id": "adrian-gantenbein",
+            "name": "Adrian Gantenbein",
+            "short": "Gantenbein",
+            "position": "RB",
+            "photo": null,
+            "x": 27,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "adil-aouchiche",
+            "name": "Adil Aouchiche",
+            "short": "Aouchiche",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 6.9
+          },
+          {
+            "id": "kenan-karaman",
+            "name": "Kenan Karaman",
+            "short": "Karaman",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 7
+          },
+          {
+            "id": "edin-dzeko",
+            "name": "Edin Dzeko",
+            "short": "Dzeko",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "hwang-hee-chan",
+            "name": "Hwang Hee-Chan",
+            "short": "Hee-Chan",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "junior-dina-ebimbe",
+            "name": "Junior Dina Ebimbe",
+            "short": "Ebimbe",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "maximilian-wober",
+            "name": "Maximilian Wöber",
+            "short": "Wöber",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "junior-adamu",
+            "name": "Junior Adamu",
+            "short": "Adamu",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "timo-becker",
+            "name": "Timo Becker",
+            "short": "Becker",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "kevin-muller",
+            "name": "Kevin Müller",
+            "short": "Müller",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mert-can-ayhan",
+            "name": "Mert Can Ayhan",
+            "short": "Ayhan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-vozar",
+            "name": "Luca Vozar",
+            "short": "Vozar",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ron-schallenberg",
+            "name": "Ron Schallenberg",
+            "short": "Schallenberg",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-5-2",
+        "coach": {
+          "id": "urs-fischer",
+          "name": "Urs Fischer",
+          "short": "Fischer",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "alexander-schwolow",
+            "name": "Alexander Schwolow",
+            "short": "Schwolow",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "kacper-potulski",
+            "name": "Kacper Potulski",
+            "short": "Potulski",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 6.4
+          },
+          {
+            "id": "stefan-posch",
+            "name": "Stefan Posch",
+            "short": "Posch",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "danny-da-costa",
+            "name": "Danny da Costa",
+            "short": "da Costa",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 7.3
+          },
+          {
+            "id": "phillipp-mwene",
+            "name": "Phillipp Mwene",
+            "short": "Mwene",
+            "position": "LB",
+            "photo": null,
+            "x": 68,
+            "y": 92,
+            "rating": 7.3
+          },
+          {
+            "id": "lee-jae-sung",
+            "name": "Lee Jae-Sung",
+            "short": "Lee",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 71,
+            "rating": 6.7
+          },
+          {
+            "id": "nadiem-amiri",
+            "name": "Nadiem Amiri",
+            "short": "Amiri",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "anthony-caci",
+            "name": "Anthony Caci",
+            "short": "Caci",
+            "position": "RB",
+            "photo": null,
+            "x": 68,
+            "y": 29,
+            "rating": 7.3
+          },
+          {
+            "id": "kaishu-sano",
+            "name": "Kaishu Sano",
+            "short": "Sano",
+            "position": "AM",
+            "photo": null,
+            "x": 68,
+            "y": 8,
+            "rating": 7.4
+          },
+          {
+            "id": "phillip-tietz",
+            "name": "Phillip Tietz",
+            "short": "Tietz",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 7.7
+          },
+          {
+            "id": "sheraldo-becker",
+            "name": "Sheraldo Becker",
+            "short": "Becker",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 6.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "paul-nebel",
+            "name": "Paul Nebel",
+            "short": "Nebel",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "ransford-yeboah-konigsdorffer",
+            "name": "Ransford-Yeboah Königsdörffer",
+            "short": "Königsdörffer",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "eric-martel",
+            "name": "Eric Martel",
+            "short": "Martel",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "lennard-maloney",
+            "name": "Lennard Maloney",
+            "short": "Maloney",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "silvan-widmer",
+            "name": "Silvan Widmer",
+            "short": "Widmer",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "rael-tshimbela-nakuzola",
+            "name": "Rael-Tshimbela Nakuzola",
+            "short": "Nakuzola",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "fabio-gruber",
+            "name": "Fabio Gruber",
+            "short": "Gruber",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "maximilian-kinzig",
+            "name": "Maximilian Kinzig",
+            "short": "Kinzig",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "benedict-hollerbach",
+            "name": "Benedict Hollerbach",
+            "short": "Hollerbach",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 24,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "phillip-tietz",
+          "name": "Phillip Tietz",
+          "short": "Tietz",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "anthony-caci",
+          "name": "Anthony Caci",
+          "short": "Caci",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Phillip Tietz scored with a right-footed shot from the right side of the six yard box to the centre of the goal. Assist: Anthony Caci with a cross."
+      },
+      {
+        "minute": 42,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "nadiem-amiri",
+          "name": "Nadiem Amiri",
+          "short": "Amiri",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "kaishu-sano",
+          "name": "Kaishu Sano",
+          "short": "Sano",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "hwang-hee-chan",
+          "name": "Hwang Hee-Chan",
+          "short": "Hee-Chan",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "edin-dzeko",
+          "name": "Edin Dzeko",
+          "short": "Dzeko",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "junior-dina-ebimbe",
+          "name": "Junior Dina Ebimbe",
+          "short": "Ebimbe",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adrian-gantenbein",
+          "name": "Adrian Gantenbein",
+          "short": "Gantenbein",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "maximilian-wober",
+          "name": "Maximilian Wöber",
+          "short": "Wöber",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nikola-katic",
+          "name": "Nikola Katic",
+          "short": "Katic",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "junior-adamu",
+          "name": "Junior Adamu",
+          "short": "Adamu",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adil-aouchiche",
+          "name": "Adil Aouchiche",
+          "short": "Aouchiche",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "paul-nebel",
+          "name": "Paul Nebel",
+          "short": "Nebel",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lee-jae-sung",
+          "name": "Lee Jae-Sung",
+          "short": "Lee",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ransford-yeboah-konigsdorffer",
+          "name": "Ransford-Yeboah Königsdörffer",
+          "short": "Königsdörffer",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sheraldo-becker",
+          "name": "Sheraldo Becker",
+          "short": "Becker",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "timo-becker",
+          "name": "Timo Becker",
+          "short": "Becker",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "robin-gosens",
+          "name": "Robin Gosens",
+          "short": "Gosens",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "eric-martel",
+          "name": "Eric Martel",
+          "short": "Martel",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nadiem-amiri",
+          "name": "Nadiem Amiri",
+          "short": "Amiri",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "lennard-maloney",
+          "name": "Lennard Maloney",
+          "short": "Maloney",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "phillip-tietz",
+          "name": "Phillip Tietz",
+          "short": "Tietz",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "silvan-widmer",
+          "name": "Silvan Widmer",
+          "short": "Widmer",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "anthony-caci",
+          "name": "Anthony Caci",
+          "short": "Caci",
+          "position": "RB",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        9,
+        10
+      ],
+      "onTarget": [
+        3,
+        6
+      ],
+      "corners": [
+        4,
+        1
+      ],
+      "fouls": [
+        12,
+        20
+      ],
+      "possession": 46
+    },
+    "attendance": 62250,
+    "referee": {
+      "name": "Richard Hempel",
+      "country": "Germany"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884765",
+      "https://www.espn.com/soccer/match/_/gameId/401884765",
+      "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916175",
+      "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

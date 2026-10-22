@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "aboubakary-koita",
+    "name": "Aboubakary Koïta",
+    "short": "Koïta",
+    "position": "CM",
+    "photo": "assets/photos/people/aboubakary-koita.jpg",
+    "matches": [
+      {
+        "match": "city-aek",
+        "date": "2026-10-20",
+        "team": "AEK Athens",
+        "role": "bench"
+      }
+    ]
+  }
+}

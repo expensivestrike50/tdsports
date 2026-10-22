@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "andrey-santos",
+    "name": "Andrey Santos",
+    "short": "Andrey Santos",
+    "position": "DM",
+    "photo": "assets/photos/people/andrey-santos.jpg",
+    "matches": [
+      {
+        "match": "como-man-united",
+        "date": "2026-10-21",
+        "team": "Man United",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "lewis-koumas-brentford-liverpool-2026-10-17",
+    "name": "Lewis Koumas",
+    "short": "Koumas",
+    "position": "ST",
+    "photo": "assets/photos/people/lewis-koumas.jpg",
+    "matches": [
+      {
+        "match": "brentford-liverpool-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Liverpool",
+        "role": "bench"
+      }
+    ]
+  }
+}

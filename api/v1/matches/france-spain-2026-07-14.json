@@ -1,0 +1,829 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "france-spain-2026-07-14",
+    "date": "2026-07-14",
+    "kickoff": "14:00",
+    "competition": "FIFA World Cup",
+    "round": "Semi-final",
+    "status": "FT",
+    "home": {
+      "name": "France",
+      "id": "france",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Spain",
+      "id": "spain",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "didier-deschamps-france-spain-2026-07-14",
+          "name": "Didier Deschamps",
+          "short": "Deschamps",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "mike-maignan-france-spain-2026-07-14",
+            "name": "Mike Maignan",
+            "short": "Maignan",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "lucas-digne-france-spain-2026-07-14",
+            "name": "Lucas Digne",
+            "short": "Digne",
+            "position": "LB",
+            "photo": "assets/photos/people/lucas-digne.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "william-saliba-france-spain-2026-07-14",
+            "name": "William Saliba",
+            "short": "Saliba",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.8
+          },
+          {
+            "id": "dayot-upamecano-france-spain-2026-07-14",
+            "name": "Dayot Upamecano",
+            "short": "Upamecano",
+            "position": "CB",
+            "photo": "assets/photos/people/dayot-upamecano.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 6.3
+          },
+          {
+            "id": "jules-kounde-france-spain-2026-07-14",
+            "name": "Jules Koundé",
+            "short": "Koundé",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "adrien-rabiot-france-spain-2026-07-14",
+            "name": "Adrien Rabiot",
+            "short": "Rabiot",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.1
+          },
+          {
+            "id": "aurelien-tchouameni-france-spain-2026-07-14",
+            "name": "Aurélien Tchouaméni",
+            "short": "Tchouaméni",
+            "position": "DM",
+            "photo": "assets/photos/people/aurelien-tchouameni.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 7.3
+          },
+          {
+            "id": "bradley-barcola-france-spain-2026-07-14",
+            "name": "Bradley Barcola",
+            "short": "Barcola",
+            "position": "LW",
+            "photo": "assets/photos/people/bradley-barcola.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 6.4
+          },
+          {
+            "id": "michael-olise-france-spain-2026-07-14",
+            "name": "Michael Olise",
+            "short": "Olise",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "ousmane-dembele-france-spain-2026-07-14",
+            "name": "Ousmane Dembélé",
+            "short": "Dembélé",
+            "position": "RW",
+            "photo": "assets/photos/people/ousmane-dembele.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 6.2
+          },
+          {
+            "id": "kylian-mbappe-france-spain-2026-07-14",
+            "name": "Kylian Mbappé",
+            "short": "Mbappé",
+            "position": "ST",
+            "photo": "assets/photos/people/kylian-mbappe.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "maxence-lacroix-france-spain-2026-07-14",
+            "name": "Maxence Lacroix",
+            "short": "Lacroix",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "manu-kone-france-spain-2026-07-14",
+            "name": "Manu Koné",
+            "short": "Koné",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "desire-doue-france-spain-2026-07-14",
+            "name": "Désiré Doué",
+            "short": "Doué",
+            "position": "LW",
+            "photo": "assets/photos/people/desire-doue.jpg",
+            "rating": 6.9
+          },
+          {
+            "id": "theo-hernandez-france-spain-2026-07-14",
+            "name": "Theo Hernández",
+            "short": "Hernández",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "rayan-cherki-france-spain-2026-07-14",
+            "name": "Rayan Cherki",
+            "short": "Cherki",
+            "position": "AM",
+            "photo": "assets/photos/people/rayan-cherki.jpg",
+            "rating": 6.9
+          },
+          {
+            "id": "brice-samba-france-spain-2026-07-14",
+            "name": "Brice Samba",
+            "short": "Samba",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "robin-risser-france-spain-2026-07-14",
+            "name": "Robin Risser",
+            "short": "Risser",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ibrahima-konate-france-spain-2026-07-14",
+            "name": "Ibrahima Konaté",
+            "short": "Konaté",
+            "position": "CM",
+            "photo": "assets/photos/people/ibrahima-konate.jpg",
+            "rating": null
+          },
+          {
+            "id": "malo-gusto-france-spain-2026-07-14",
+            "name": "Malo Gusto",
+            "short": "Gusto",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jean-philippe-mateta-france-spain-2026-07-14",
+            "name": "Jean-Philippe Mateta",
+            "short": "Mateta",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marcus-thuram-france-spain-2026-07-14",
+            "name": "Marcus Thuram",
+            "short": "Thuram",
+            "position": "CM",
+            "photo": "assets/photos/people/marcus-thuram.jpg",
+            "rating": null
+          },
+          {
+            "id": "maghnes-akliouche-france-spain-2026-07-14",
+            "name": "Maghnes Akliouche",
+            "short": "Akliouche",
+            "position": "CM",
+            "photo": "assets/photos/people/maghnes-akliouche.jpg",
+            "rating": null
+          },
+          {
+            "id": "n-golo-kante-france-spain-2026-07-14",
+            "name": "N'Golo Kanté",
+            "short": "Kanté",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "warren-zaire-emery-france-spain-2026-07-14",
+            "name": "Warren Zaïre-Emery",
+            "short": "Zaïre-Emery",
+            "position": "CM",
+            "photo": "assets/photos/people/warren-zaire-emery.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "luis-de-la-fuente-france-spain-2026-07-14",
+          "name": "Luis de la Fuente",
+          "short": "Fuente",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "unai-simon-france-spain-2026-07-14",
+            "name": "Unai Simón",
+            "short": "Simón",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "marc-cucurella-france-spain-2026-07-14",
+            "name": "Marc Cucurella",
+            "short": "Cucurella",
+            "position": "LB",
+            "photo": "assets/photos/people/marc-cucurella.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "aymeric-laporte-france-spain-2026-07-14",
+            "name": "Aymeric Laporte",
+            "short": "Laporte",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "pau-cubarsi-france-spain-2026-07-14",
+            "name": "Pau Cubarsí",
+            "short": "Cubarsí",
+            "position": "CB",
+            "photo": "assets/photos/people/pau-cubarsi.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 7.4
+          },
+          {
+            "id": "pedro-porro-france-spain-2026-07-14",
+            "name": "Pedro Porro",
+            "short": "Porro",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 8
+          },
+          {
+            "id": "fabian-ruiz-france-spain-2026-07-14",
+            "name": "Fabián Ruiz",
+            "short": "Ruiz",
+            "position": "DM",
+            "photo": "assets/photos/people/fabian-ruiz.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 7.4
+          },
+          {
+            "id": "rodri-france-spain-2026-07-14",
+            "name": "Rodri",
+            "short": "Rodri",
+            "position": "DM",
+            "photo": "assets/photos/people/rodri.jpg",
+            "x": 73,
+            "y": 30,
+            "rating": 7.5
+          },
+          {
+            "id": "alex-baena-france-spain-2026-07-14",
+            "name": "Álex Baena",
+            "short": "Baena",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.7
+          },
+          {
+            "id": "dani-olmo-france-spain-2026-07-14",
+            "name": "Dani Olmo",
+            "short": "Olmo",
+            "position": "AM",
+            "photo": "assets/photos/people/dani-olmo.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "lamine-yamal-france-spain-2026-07-14",
+            "name": "Lamine Yamal",
+            "short": "Yamal",
+            "position": "RW",
+            "photo": "assets/photos/people/lamine-yamal.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 7.1
+          },
+          {
+            "id": "mikel-oyarzabal-france-spain-2026-07-14",
+            "name": "Mikel Oyarzabal",
+            "short": "Oyarzabal",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "ferran-torres-france-spain-2026-07-14",
+            "name": "Ferran Torres",
+            "short": "Torres",
+            "position": "ST",
+            "photo": "assets/photos/people/ferran-torres.jpg",
+            "rating": 6.5
+          },
+          {
+            "id": "mikel-merino-france-spain-2026-07-14",
+            "name": "Mikel Merino",
+            "short": "Merino",
+            "position": "AM",
+            "photo": "assets/photos/people/mikel-merino.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "pedri-france-spain-2026-07-14",
+            "name": "Pedri",
+            "short": "Pedri",
+            "position": "DM",
+            "photo": "assets/photos/people/pedri.jpg",
+            "rating": 7.7
+          },
+          {
+            "id": "marcos-llorente-france-spain-2026-07-14",
+            "name": "Marcos Llorente",
+            "short": "Llorente",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "nico-williams-france-spain-2026-07-14",
+            "name": "Nico Williams",
+            "short": "Williams",
+            "position": "LW",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "alejandro-grimaldo-france-spain-2026-07-14",
+            "name": "Alejandro Grimaldo",
+            "short": "Grimaldo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marc-pubill-france-spain-2026-07-14",
+            "name": "Marc Pubill",
+            "short": "Pubill",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "borja-iglesias-france-spain-2026-07-14",
+            "name": "Borja Iglesias",
+            "short": "Iglesias",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "victor-munoz-france-spain-2026-07-14",
+            "name": "Víctor Muñoz",
+            "short": "Muñoz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "yeremy-pino-france-spain-2026-07-14",
+            "name": "Yéremy Pino",
+            "short": "Pino",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "eric-garcia-france-spain-2026-07-14",
+            "name": "Eric García",
+            "short": "García",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gavi-france-spain-2026-07-14",
+            "name": "Gavi",
+            "short": "Gavi",
+            "position": "CM",
+            "photo": "assets/photos/people/gavi.jpg",
+            "rating": null
+          },
+          {
+            "id": "martin-zubimendi-france-spain-2026-07-14",
+            "name": "Martín Zubimendi",
+            "short": "Zubimendi",
+            "position": "CM",
+            "photo": "assets/photos/people/martin-zubimendi.jpg",
+            "rating": null
+          },
+          {
+            "id": "david-raya-france-spain-2026-07-14",
+            "name": "David Raya",
+            "short": "Raya",
+            "position": "CM",
+            "photo": "assets/photos/people/david-raya.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 9,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "adrien-rabiot-france-spain-2026-07-14",
+          "name": "Adrien Rabiot",
+          "short": "Rabiot",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 22,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "mikel-oyarzabal-france-spain-2026-07-14",
+          "name": "Mikel Oyarzabal",
+          "short": "Oyarzabal",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Lamine Yamal drew a foul from Lucas Digne in the box and Mikel Oyarzabal converted the penalty with his left foot into the top right corner."
+      },
+      {
+        "minute": 30,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "maxence-lacroix-france-spain-2026-07-14",
+          "name": "Maxence Lacroix",
+          "short": "Lacroix",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "william-saliba-france-spain-2026-07-14",
+          "name": "William Saliba",
+          "short": "Saliba",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 31,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "marc-cucurella-france-spain-2026-07-14",
+          "name": "Marc Cucurella",
+          "short": "Cucurella",
+          "position": "LB",
+          "photo": "assets/photos/people/marc-cucurella.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "manu-kone-france-spain-2026-07-14",
+          "name": "Manu Koné",
+          "short": "Koné",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adrien-rabiot-france-spain-2026-07-14",
+          "name": "Adrien Rabiot",
+          "short": "Rabiot",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 57,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "desire-doue-france-spain-2026-07-14",
+          "name": "Désiré Doué",
+          "short": "Doué",
+          "position": "LW",
+          "photo": "assets/photos/people/desire-doue.jpg"
+        },
+        "replaced": {
+          "id": "bradley-barcola-france-spain-2026-07-14",
+          "name": "Bradley Barcola",
+          "short": "Barcola",
+          "position": "LW",
+          "photo": "assets/photos/people/bradley-barcola.jpg"
+        }
+      },
+      {
+        "minute": 58,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "pedro-porro-france-spain-2026-07-14",
+          "name": "Pedro Porro",
+          "short": "Porro",
+          "position": "RB",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "dani-olmo-france-spain-2026-07-14",
+          "name": "Dani Olmo",
+          "short": "Olmo",
+          "position": "AM",
+          "photo": "assets/photos/people/dani-olmo.jpg"
+        },
+        "goalType": "build",
+        "description": "Pedro Porro played a give-and-go with Dani Olmo and finished with a right-footed shot from the centre of the box into the bottom right corner."
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "theo-hernandez-france-spain-2026-07-14",
+          "name": "Theo Hernández",
+          "short": "Hernández",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lucas-digne-france-spain-2026-07-14",
+          "name": "Lucas Digne",
+          "short": "Digne",
+          "position": "LB",
+          "photo": "assets/photos/people/lucas-digne.jpg"
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "rayan-cherki-france-spain-2026-07-14",
+          "name": "Rayan Cherki",
+          "short": "Cherki",
+          "position": "AM",
+          "photo": "assets/photos/people/rayan-cherki.jpg"
+        },
+        "replaced": {
+          "id": "michael-olise-france-spain-2026-07-14",
+          "name": "Michael Olise",
+          "short": "Olise",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ferran-torres-france-spain-2026-07-14",
+          "name": "Ferran Torres",
+          "short": "Torres",
+          "position": "ST",
+          "photo": "assets/photos/people/ferran-torres.jpg"
+        },
+        "replaced": {
+          "id": "mikel-oyarzabal-france-spain-2026-07-14",
+          "name": "Mikel Oyarzabal",
+          "short": "Oyarzabal",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mikel-merino-france-spain-2026-07-14",
+          "name": "Mikel Merino",
+          "short": "Merino",
+          "position": "AM",
+          "photo": "assets/photos/people/mikel-merino.jpg"
+        },
+        "replaced": {
+          "id": "dani-olmo-france-spain-2026-07-14",
+          "name": "Dani Olmo",
+          "short": "Olmo",
+          "position": "AM",
+          "photo": "assets/photos/people/dani-olmo.jpg"
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "pedri-france-spain-2026-07-14",
+          "name": "Pedri",
+          "short": "Pedri",
+          "position": "DM",
+          "photo": "assets/photos/people/pedri.jpg"
+        },
+        "replaced": {
+          "id": "fabian-ruiz-france-spain-2026-07-14",
+          "name": "Fabián Ruiz",
+          "short": "Ruiz",
+          "position": "DM",
+          "photo": "assets/photos/people/fabian-ruiz.jpg"
+        }
+      },
+      {
+        "minute": 83,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "theo-hernandez-france-spain-2026-07-14",
+          "name": "Theo Hernández",
+          "short": "Hernández",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "VAR Decision: Other Decision Cancelled."
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "marcos-llorente-france-spain-2026-07-14",
+          "name": "Marcos Llorente",
+          "short": "Llorente",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pedro-porro-france-spain-2026-07-14",
+          "name": "Pedro Porro",
+          "short": "Porro",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "nico-williams-france-spain-2026-07-14",
+          "name": "Nico Williams",
+          "short": "Williams",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alex-baena-france-spain-2026-07-14",
+          "name": "Álex Baena",
+          "short": "Baena",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 86,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "kylian-mbappe-france-spain-2026-07-14",
+          "name": "Kylian Mbappé",
+          "short": "Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        10,
+        10
+      ],
+      "onTarget": [
+        3,
+        2
+      ],
+      "corners": [
+        7,
+        1
+      ],
+      "fouls": [
+        11,
+        12
+      ],
+      "possession": 49
+    },
+    "attendance": 70176,
+    "referee": {
+      "name": "Iván Barton",
+      "country": "El Salvador"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760514",
+      "https://www.espn.com/soccer/match/_/gameId/760514",
+      "https://www.outlookindia.com/sports/football/france-vs-spain-fifa-world-cup-2026-match-report-who-won-fra-vs-esp-semi-final-match-dallas-stadium-arlington",
+      "https://www.easternmirrornagaland.com/spain-blank-france-2-0-to-reach-fifa-world-cup-final"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

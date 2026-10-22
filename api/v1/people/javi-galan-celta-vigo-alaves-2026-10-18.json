@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "javi-galan-celta-vigo-alaves-2026-10-18",
+    "name": "Javi Galán",
+    "short": "Galán",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "celta-vigo-alaves-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Celta Vigo",
+        "role": "bench"
+      }
+    ]
+  }
+}

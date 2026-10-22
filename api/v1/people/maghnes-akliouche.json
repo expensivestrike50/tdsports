@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "maghnes-akliouche",
+    "name": "Maghnes Akliouche",
+    "short": "Akliouche",
+    "position": "LW",
+    "photo": "assets/photos/people/maghnes-akliouche.jpg",
+    "matches": [
+      {
+        "match": "psg-barcelona",
+        "date": "2026-10-20",
+        "team": "PSG",
+        "role": "bench"
+      }
+    ]
+  }
+}

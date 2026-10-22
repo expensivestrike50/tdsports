@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "alexis-mac-allister",
+    "name": "Alexis Mac Allister",
+    "short": "Mac Allister",
+    "position": "DM",
+    "photo": "assets/photos/people/alexis-mac-allister.jpg",
+    "matches": [
+      {
+        "match": "liverpool-villarreal",
+        "date": "2026-10-20",
+        "team": "Liverpool",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,735 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "le-mans-toulouse-2026-10-16",
+    "date": "2026-10-16",
+    "kickoff": "20:45",
+    "competition": "Ligue 1",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Le Mans",
+      "id": "le-mans",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Toulouse",
+      "id": "toulouse",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+      "country": "FR"
+    },
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stade Marie-Marvingt",
+      "city": "Le Mans",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-1-4-2",
+        "coach": {
+          "id": "patrick-videira",
+          "name": "Patrick Videira",
+          "short": "Videira",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "nicolas-kocik",
+            "name": "Nicolas Kocik",
+            "short": "Kocik",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "harold-voyer",
+            "name": "Harold Voyer",
+            "short": "Voyer",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 6.7
+          },
+          {
+            "id": "samuel-yohou",
+            "name": "Samuel Yohou",
+            "short": "Yohou",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "djibril-sidibe",
+            "name": "Djibril Sidibé",
+            "short": "Sidibé",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7.3
+          },
+          {
+            "id": "lucas-bretelle",
+            "name": "Lucas Bretelle",
+            "short": "Bretelle",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "yasser-larouci",
+            "name": "Yasser Larouci",
+            "short": "Larouci",
+            "position": "LB",
+            "photo": null,
+            "x": 37,
+            "y": 12,
+            "rating": 6.3
+          },
+          {
+            "id": "jean-vercruysse",
+            "name": "Jean Vercruysse",
+            "short": "Vercruysse",
+            "position": "CM",
+            "photo": null,
+            "x": 37,
+            "y": 38,
+            "rating": 6.8
+          },
+          {
+            "id": "daouda-traore",
+            "name": "Daouda Traoré",
+            "short": "Traoré",
+            "position": "CM",
+            "photo": null,
+            "x": 37,
+            "y": 64,
+            "rating": 6.5
+          },
+          {
+            "id": "lucas-buades",
+            "name": "Lucas Buades",
+            "short": "Buades",
+            "position": "RB",
+            "photo": null,
+            "x": 37,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "dame-gueye",
+            "name": "Dame Guèye",
+            "short": "Guèye",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 7.1
+          },
+          {
+            "id": "louis-mafouta",
+            "name": "Louis Mafouta",
+            "short": "Mafouta",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "lucas-calodat",
+            "name": "Lucas Calodat",
+            "short": "Calodat",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "habib-diallo",
+            "name": "Habib Diallo",
+            "short": "Diallo",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "bilal-brahimi",
+            "name": "Bilal Brahimi",
+            "short": "Brahimi",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "rayan-bamba",
+            "name": "Rayan Bamba",
+            "short": "Bamba",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "noa-boisse",
+            "name": "Noa Boissé",
+            "short": "Boissé",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "william-harhouz",
+            "name": "William Harhouz",
+            "short": "Harhouz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "antoine-rabillard",
+            "name": "Antoine Rabillard",
+            "short": "Rabillard",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ewan-hatfout",
+            "name": "Ewan Hatfout",
+            "short": "Hatfout",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alexandre-lauray",
+            "name": "Alexandre Lauray",
+            "short": "Lauray",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "jens-berthel-askou",
+          "name": "Jens Berthel Askou",
+          "short": "Askou",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "guillaume-restes",
+            "name": "Guillaume Restes",
+            "short": "Restes",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "christ-tape",
+            "name": "Christ Tapé",
+            "short": "Tapé",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.6
+          },
+          {
+            "id": "rasmus-nicolaisen",
+            "name": "Rasmus Nicolaisen",
+            "short": "Nicolaisen",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.5
+          },
+          {
+            "id": "mark-mckenzie",
+            "name": "Mark McKenzie",
+            "short": "McKenzie",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.3
+          },
+          {
+            "id": "rafik-messali",
+            "name": "Rafik Messali",
+            "short": "Messali",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.6
+          },
+          {
+            "id": "thomas-jrgensen",
+            "name": "Thomas Jørgensen",
+            "short": "Jørgensen",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 6.5
+          },
+          {
+            "id": "niko-sigur",
+            "name": "Niko Sigur",
+            "short": "Sigur",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 6.6
+          },
+          {
+            "id": "cristian-casseres-jr",
+            "name": "Cristian Cásseres Jr.",
+            "short": "Cásseres Jr.",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 6.9
+          },
+          {
+            "id": "aron-donnum",
+            "name": "Aron Donnum",
+            "short": "Donnum",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 9
+          },
+          {
+            "id": "casper-tengstedt",
+            "name": "Casper Tengstedt",
+            "short": "Tengstedt",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 7.4
+          },
+          {
+            "id": "jacen-russell-rowe",
+            "name": "Jacen Russell-Rowe",
+            "short": "Russell-Rowe",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 8.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "alexis-vossah",
+            "name": "Alexis Vossah",
+            "short": "Vossah",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "julian-vignolo",
+            "name": "Julián Vignolo",
+            "short": "Vignolo",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "seny-koumbassa",
+            "name": "Seny Koumbassa",
+            "short": "Koumbassa",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "habib-diallo",
+            "name": "Habib Diallo",
+            "short": "Diallo",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "theo-collin",
+            "name": "Théo Collin",
+            "short": "Collin",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "santiago-hidalgo",
+            "name": "Santiago Hidalgo",
+            "short": "Hidalgo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mathis-amougou",
+            "name": "Mathis Amougou",
+            "short": "Amougou",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "david-odogu",
+            "name": "David Odogu",
+            "short": "Odogu",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "niklas-schmidt",
+            "name": "Niklas Schmidt",
+            "short": "Schmidt",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 46,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "jacen-russell-rowe",
+          "name": "Jacen Russell-Rowe",
+          "short": "Russell-Rowe",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "aron-donnum",
+          "name": "Aron Donnum",
+          "short": "Donnum",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Seconds into the second half, Jacen Russell-Rowe took Aron Dønnum's pass on the right side of the box and curled a left-footed shot into the top left corner."
+      },
+      {
+        "minute": 49,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "jacen-russell-rowe",
+          "name": "Jacen Russell-Rowe",
+          "short": "Russell-Rowe",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 59,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "aron-donnum",
+          "name": "Aron Donnum",
+          "short": "Donnum",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Aron Dønnum doubled Toulouse's lead with a left-footed finish from the centre of the box into the bottom right corner."
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "lucas-calodat",
+          "name": "Lucas Calodat",
+          "short": "Calodat",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "yasser-larouci",
+          "name": "Yasser Larouci",
+          "short": "Larouci",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "habib-diallo",
+          "name": "Habib Diallo",
+          "short": "Diallo",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "dame-gueye",
+          "name": "Dame Guèye",
+          "short": "Guèye",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "bilal-brahimi",
+          "name": "Bilal Brahimi",
+          "short": "Brahimi",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "daouda-traore",
+          "name": "Daouda Traoré",
+          "short": "Traoré",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alexis-vossah",
+          "name": "Alexis Vossah",
+          "short": "Vossah",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "aron-donnum",
+          "name": "Aron Donnum",
+          "short": "Donnum",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "rayan-bamba",
+          "name": "Rayan Bamba",
+          "short": "Bamba",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lucas-buades",
+          "name": "Lucas Buades",
+          "short": "Buades",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "casper-tengstedt",
+          "name": "Casper Tengstedt",
+          "short": "Tengstedt",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Goal ruled out after VAR review (score stayed 0-2)."
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "julian-vignolo",
+          "name": "Julián Vignolo",
+          "short": "Vignolo",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jacen-russell-rowe",
+          "name": "Jacen Russell-Rowe",
+          "short": "Russell-Rowe",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "noa-boisse",
+          "name": "Noa Boissé",
+          "short": "Boissé",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "harold-voyer",
+          "name": "Harold Voyer",
+          "short": "Voyer",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "seny-koumbassa",
+          "name": "Seny Koumbassa",
+          "short": "Koumbassa",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rasmus-nicolaisen",
+          "name": "Rasmus Nicolaisen",
+          "short": "Nicolaisen",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "casper-tengstedt",
+          "name": "Casper Tengstedt",
+          "short": "Tengstedt",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "cristian-casseres-jr",
+          "name": "Cristian Cásseres Jr.",
+          "short": "Cásseres Jr.",
+          "position": "CM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Casper Tengstedt, who had an earlier goal ruled out by VAR, turned in Cristian Cásseres Jr.'s pass from very close range into the bottom right corner."
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "samuel-yohou",
+          "name": "Samuel Yohou",
+          "short": "Yohou",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "djibril-sidibe",
+          "name": "Djibril Sidibé",
+          "short": "Sidibé",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        11,
+        13
+      ],
+      "onTarget": [
+        1,
+        5
+      ],
+      "corners": [
+        2,
+        2
+      ],
+      "fouls": [
+        15,
+        9
+      ],
+      "possession": 53
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Aurélien Petit",
+      "country": "France"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876437",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876437",
+      "https://ligue1.com/fr/articles/l1_article_5927-",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+      "https://www.sudradio.fr/sport-rugby/sport/ligue-1-toulouse-donne-la-lecon-au-mans"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

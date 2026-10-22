@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "andre-frank-zambo-anguissa",
+    "name": "André-Frank Zambo Anguissa",
+    "short": "Anguissa",
+    "position": "CM",
+    "photo": "assets/photos/people/andre-frank-zambo-anguissa.jpg",
+    "matches": [
+      {
+        "match": "napoli-bodo",
+        "date": "2026-10-20",
+        "team": "Napoli",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3608 @@
+{
+ "agent": "Premier League agent",
+ "league": "Premier League",
+ "generated": "2026-10-22T13:33:04Z",
+ "matches": [
+  {
+   "id": "everton-chelsea-2026-10-17",
+   "found": true,
+   "competition": "Premier League",
+   "round": "Matchweek 7",
+   "date": "2026-10-17",
+   "kickoff_local": "12:30",
+   "home": "Everton",
+   "away": "Chelsea",
+   "score": [
+    0,
+    2
+   ],
+   "venue": {
+    "name": "Hill Dickinson Stadium",
+    "city": "Liverpool",
+    "attendance": 52271
+   },
+   "referee": {
+    "name": "Paul Tierney",
+    "country": "England"
+   },
+   "coaches": {
+    "home": "David Moyes",
+    "away": "Xabi Alonso"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Jordan Pickford",
+      "short": "Pickford",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Ainsley Maitland-Niles",
+      "short": "Maitland-Niles",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "James Tarkowski",
+      "short": "Tarkowski",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Jarrad Branthwaite",
+      "short": "Branthwaite",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Vitaliy Mykolenko",
+      "short": "Mykolenko",
+      "number": 16,
+      "pos": "LB"
+     },
+     {
+      "name": "Harrison Armstrong",
+      "short": "Armstrong",
+      "number": 45,
+      "pos": "DM"
+     },
+     {
+      "name": "James Garner",
+      "short": "Garner",
+      "number": 37,
+      "pos": "DM"
+     },
+     {
+      "name": "Merlin Röhl",
+      "short": "Röhl",
+      "number": 34,
+      "pos": "RW"
+     },
+     {
+      "name": "Kiernan Dewsbury-Hall",
+      "short": "Dewsbury-Hall",
+      "number": 8,
+      "pos": "AM"
+     },
+     {
+      "name": "Jack Grealish",
+      "short": "Grealish",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Thierno Barry",
+      "short": "Barry",
+      "number": 11,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Emiliano Martínez",
+      "short": "Martínez",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Josh Acheampong",
+      "short": "Acheampong",
+      "number": 34,
+      "pos": "RB"
+     },
+     {
+      "name": "Maxence Lacroix",
+      "short": "Lacroix",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Levi Colwill",
+      "short": "Colwill",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Jorrel Hato",
+      "short": "Hato",
+      "number": 21,
+      "pos": "LB"
+     },
+     {
+      "name": "Moisés Caicedo",
+      "short": "Caicedo",
+      "number": 25,
+      "pos": "DM"
+     },
+     {
+      "name": "Jordan Henderson",
+      "short": "Henderson",
+      "number": 14,
+      "pos": "DM"
+     },
+     {
+      "name": "Pedro Neto",
+      "short": "Neto",
+      "number": 7,
+      "pos": "RW"
+     },
+     {
+      "name": "Cole Palmer",
+      "short": "Palmer",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Morgan Rogers",
+      "short": "Rogers",
+      "number": 17,
+      "pos": "LW"
+     },
+     {
+      "name": "João Pedro",
+      "short": "João Pedro",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 55,
+     "in": "Tyrique George",
+     "out": "Ainsley Maitland-Niles"
+    },
+    {
+     "side": "away",
+     "minute": 75,
+     "in": "Mike Penders",
+     "out": "Emiliano Martínez"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "in": "Christian Nørgaard",
+     "out": "Harrison Armstrong"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "in": "Brennan Johnson",
+     "out": "Jack Grealish"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Danny Welbeck",
+     "out": "João Pedro"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Marco Palestra",
+     "out": "Jorrel Hato"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Romeo Lavia",
+     "out": "Moisés Caicedo"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Geovany Quenda",
+     "out": "Pedro Neto"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Tyler Dibling",
+     "Hayden Hackney",
+     "Mark Travers",
+     "Braiden Graham",
+     "Jake O'Brien",
+     "Charly Alcaraz"
+    ],
+    "away": [
+     "Estêvão",
+     "Valentín Barco",
+     "Mahdi Nicoll-Jazuli",
+     "Wesley Fofana"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 46,
+     "scorer": "Pedro Neto",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Forty-three seconds after the restart Pedro Neto squeezed a left-footed shot past Jordan Pickford after being found in the box from the byline.",
+     "shot": {
+      "x": 88.9,
+      "y": 47.1,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "scorer": "Pedro Neto",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "left",
+     "description": "Pedro Neto picked up a loose ball following a free-kick and fired left-footed into the bottom left corner to wrap up the win.",
+     "shot": {
+      "x": 86.3,
+      "y": 45.0,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 23,
+     "player": "Harrison Armstrong",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 27,
+     "player": "Pedro Neto",
+     "card": "yellow",
+     "reason": ""
+    },
+    {
+     "side": "away",
+     "minute": 32,
+     "player": "Josh Acheampong",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 34,
+     "player": "James Tarkowski",
+     "card": "yellow",
+     "reason": "Barging Moisés Caicedo off the ball"
+    },
+    {
+     "side": "away",
+     "minute": 34,
+     "player": "Morgan Rogers",
+     "card": "yellow",
+     "reason": "Clash with James Tarkowski"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "player": "Cole Palmer",
+     "card": "yellow",
+     "reason": ""
+    },
+    {
+     "side": "home",
+     "minute": 89,
+     "player": "Christian Nørgaard",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "away",
+     "minute": 42,
+     "player": "Morgan Rogers",
+     "detail": "Already-booked Rogers' challenge on James Garner checked; VAR upheld the on-field decision of no further card."
+    }
+   ],
+   "stats": {
+    "possession": [
+     47.2,
+     52.8
+    ],
+    "shots": [
+     6,
+     18
+    ],
+    "onTarget": [
+     5,
+     7
+    ],
+    "corners": [
+     5,
+     7
+    ],
+    "fouls": [
+     8,
+     15
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401878771",
+    "https://www.espn.com/soccer/match/_/gameId/401878771",
+    "https://www.skysports.com/football/a-vs-b/report/559507",
+    "https://www.skysports.com/football/a-vs-b/teams/559507",
+    "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+   ],
+   "notes": "Round number inferred: every club had played 7 league games after this round (ESPN team schedules). Referee from Sky Sports line-ups page; coaches from Wikipedia 2026-27 Premier League managers table. Minutes from ESPN key events; xG not given in ESPN data. Assist for Neto opener not recorded by ESPN (Sky says he was found by Hato); left null.",
+   "league": "Premier League",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+   "home_country": "GB",
+   "away_country": "GB"
+  },
+  {
+   "id": "brentford-liverpool-2026-10-17",
+   "found": true,
+   "competition": "Premier League",
+   "round": "Matchweek 7",
+   "date": "2026-10-17",
+   "kickoff_local": "15:00",
+   "home": "Brentford",
+   "away": "Liverpool",
+   "score": [
+    1,
+    2
+   ],
+   "venue": {
+    "name": "Gtech Community Stadium",
+    "city": "Brentford",
+    "attendance": null
+   },
+   "referee": {
+    "name": "John Brooks",
+    "country": "England"
+   },
+   "coaches": {
+    "home": "Keith Andrews",
+    "away": "Andoni Iraola"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Caoimhín Kelleher",
+      "short": "Kelleher",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Michael Kayode",
+      "short": "Kayode",
+      "number": 33,
+      "pos": "RB"
+     },
+     {
+      "name": "Sepp van den Berg",
+      "short": "van den Berg",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Kristoffer Ajer",
+      "short": "Ajer",
+      "number": 20,
+      "pos": "CB"
+     },
+     {
+      "name": "Keane Lewis-Potter",
+      "short": "Lewis-Potter",
+      "number": 23,
+      "pos": "LB"
+     },
+     {
+      "name": "Yehor Yarmoliuk",
+      "short": "Yarmoliuk",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Vitaly Janelt",
+      "short": "Janelt",
+      "number": 27,
+      "pos": "DM"
+     },
+     {
+      "name": "Dango Ouattara",
+      "short": "Ouattara",
+      "number": 11,
+      "pos": "RW"
+     },
+     {
+      "name": "Mathias Jensen",
+      "short": "Jensen",
+      "number": 8,
+      "pos": "AM"
+     },
+     {
+      "name": "Jaidon Anthony",
+      "short": "Anthony",
+      "number": 19,
+      "pos": "LW"
+     },
+     {
+      "name": "Igor Thiago",
+      "short": "Thiago",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Alisson Becker",
+      "short": "Becker",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Ronald Araújo",
+      "short": "Araújo",
+      "number": 33,
+      "pos": "RB"
+     },
+     {
+      "name": "Jérémy Jacquet",
+      "short": "Jacquet",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Virgil van Dijk",
+      "short": "van Dijk",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Milos Kerkez",
+      "short": "Kerkez",
+      "number": 6,
+      "pos": "LB"
+     },
+     {
+      "name": "Alexis Mac Allister",
+      "short": "Mac Allister",
+      "number": 10,
+      "pos": "DM"
+     },
+     {
+      "name": "Dominik Szoboszlai",
+      "short": "Szoboszlai",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Víctor Muñoz",
+      "short": "Muñoz",
+      "number": 23,
+      "pos": "RW"
+     },
+     {
+      "name": "Florian Wirtz",
+      "short": "Wirtz",
+      "number": 7,
+      "pos": "AM"
+     },
+     {
+      "name": "Bradley Barcola",
+      "short": "Barcola",
+      "number": 29,
+      "pos": "LW"
+     },
+     {
+      "name": "Alexander Isak",
+      "short": "Isak",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 32,
+     "in": "Trey Nyoni",
+     "out": "Dominik Szoboszlai"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Jeremie Frimpong",
+     "out": "Ronald Araújo"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Kevin Schade",
+     "out": "Dango Ouattara"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Mamadou Sangare",
+     "out": "Mathias Jensen"
+    },
+    {
+     "side": "away",
+     "minute": 52,
+     "in": "Rio Ngumoha",
+     "out": "Jeremie Frimpong"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Aaron Hickey",
+     "out": "Sepp van den Berg"
+    },
+    {
+     "side": "home",
+     "minute": 77,
+     "in": "El Hadji Malick Diouf",
+     "out": "Keane Lewis-Potter"
+    },
+    {
+     "side": "home",
+     "minute": 77,
+     "in": "Mikkel Damsgaard",
+     "out": "Jaidon Anthony"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Lewis Koumas",
+     "out": "Alexander Isak"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Joe Gomez",
+     "out": "Víctor Muñoz"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Fábio Carvalho",
+     "Nathan Collins",
+     "Hákon Valdimarsson",
+     "Callum Wilson"
+    ],
+    "away": [
+     "Cody Gakpo",
+     "Giorgi Mamardashvili",
+     "Wataru Endo",
+     "Kostas Tsimikas"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 44,
+     "scorer": "Keane Lewis-Potter",
+     "assist": "Igor Thiago",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Keane Lewis-Potter headed Igor Thiago's delivery into the top right corner, moments after Liverpool had a penalty overturned by VAR.",
+     "shot": {
+      "x": 90.3,
+      "y": 53.2,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 62,
+     "scorer": "Víctor Muñoz",
+     "assist": "Florian Wirtz",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "Víctor Muñoz latched onto a Florian Wirtz through ball on the break and finished left-footed from the right side of the box into the bottom left corner.",
+     "shot": {
+      "x": 88.0,
+      "y": 34.3,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 70,
+     "scorer": "Alexander Isak",
+     "assist": "Bradley Barcola",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Alexander Isak, back from a thigh problem, took a split-second touch from Bradley Barcola's headed knockdown and snapped a left-footed finish into the bottom right corner past Caoimhín Kelleher.",
+     "shot": {
+      "x": 94.5,
+      "y": 55.1,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 31,
+     "player": "Bradley Barcola",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "player": "Yehor Yarmoliuk",
+     "card": "red",
+     "reason": "Violent conduct (headbutt on Jérémy Jacquet)"
+    },
+    {
+     "side": "home",
+     "minute": 46,
+     "player": "Igor Thiago",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 49,
+     "player": "Jérémy Jacquet",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 53,
+     "player": "Alexis Mac Allister",
+     "card": "yellow",
+     "reason": ""
+    },
+    {
+     "side": "home",
+     "minute": 60,
+     "player": "Kevin Schade",
+     "card": "yellow",
+     "reason": ""
+    },
+    {
+     "side": "home",
+     "minute": 63,
+     "player": "Vitaly Janelt",
+     "card": "yellow",
+     "reason": ""
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Vitaly Janelt",
+     "card": "red",
+     "reason": "Second yellow card for a foul on Rio Ngumoha"
+    }
+   ],
+   "var": [
+    {
+     "side": "away",
+     "minute": 41,
+     "player": "",
+     "detail": "VAR decision: penalty to Liverpool overturned (no penalty)."
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "player": "Yehor Yarmoliuk",
+     "detail": "Referee sent to pitch-side monitor; card upgraded to straight red for violent conduct (headbutt on Jérémy Jacquet)."
+    }
+   ],
+   "stats": {
+    "possession": [
+     40.1,
+     59.9
+    ],
+    "shots": [
+     10,
+     21
+    ],
+    "onTarget": [
+     2,
+     5
+    ],
+    "corners": [
+     3,
+     9
+    ],
+    "fouls": [
+     7,
+     13
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879262",
+    "https://www.espn.com/soccer/match/_/gameId/401879262",
+    "https://www.skysports.com/football/a-vs-b/report/559505",
+    "https://www.skysports.com/football/a-vs-b/teams/559505",
+    "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+   ],
+   "notes": "Round number inferred: every club had played 7 league games after this round (ESPN team schedules). Referee from Sky Sports line-ups page; coaches from Wikipedia 2026-27 Premier League managers table. Minutes from ESPN key events; xG not given in ESPN data. ESPN lists attendance as 0, so attendance is null. The player involved in the overturned Liverpool penalty (41 min) is not named in sources.",
+   "league": "Premier League",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "home_country": "GB",
+   "away_country": "GB"
+  },
+  {
+   "id": "fulham-hull-2026-10-17",
+   "found": true,
+   "competition": "Premier League",
+   "round": "Matchweek 7",
+   "date": "2026-10-17",
+   "kickoff_local": "15:00",
+   "home": "Fulham",
+   "away": "Hull",
+   "score": [
+    1,
+    0
+   ],
+   "venue": {
+    "name": "Craven Cottage",
+    "city": "London",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Chris Kavanagh",
+    "country": "England"
+   },
+   "coaches": {
+    "home": "Álvaro Arbeloa",
+    "away": "Sergej Jakirović"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "5-4-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Bernd Leno",
+      "short": "Leno",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Timothy Castagne",
+      "short": "Castagne",
+      "number": 21,
+      "pos": "RB"
+     },
+     {
+      "name": "David Affengruber",
+      "short": "Affengruber",
+      "number": 22,
+      "pos": "CB"
+     },
+     {
+      "name": "Calvin Bassey",
+      "short": "Bassey",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Antonee Robinson",
+      "short": "Robinson",
+      "number": 33,
+      "pos": "LB"
+     },
+     {
+      "name": "Sander Berge",
+      "short": "Berge",
+      "number": 16,
+      "pos": "DM"
+     },
+     {
+      "name": "Shea Charles",
+      "short": "Charles",
+      "number": 19,
+      "pos": "DM"
+     },
+     {
+      "name": "Oscar Bobb",
+      "short": "Bobb",
+      "number": 14,
+      "pos": "RW"
+     },
+     {
+      "name": "Josh King",
+      "short": "King",
+      "number": 24,
+      "pos": "AM"
+     },
+     {
+      "name": "Alex Iwobi",
+      "short": "Iwobi",
+      "number": 17,
+      "pos": "LW"
+     },
+     {
+      "name": "Gonzalo García",
+      "short": "García",
+      "number": 7,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Konstantinos Tzolakis",
+      "short": "Tzolakis",
+      "number": 19,
+      "pos": "GK"
+     },
+     {
+      "name": "Lewie Coyle",
+      "short": "Coyle",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Semi Ajayi",
+      "short": "Ajayi",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "John Egan",
+      "short": "Egan",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Lucas Herrington",
+      "short": "Herrington",
+      "number": 22,
+      "pos": "CB"
+     },
+     {
+      "name": "Brooke Norton-Cuffy",
+      "short": "Norton-Cuffy",
+      "number": 18,
+      "pos": "LB"
+     },
+     {
+      "name": "Mohamed Belloumi",
+      "short": "Belloumi",
+      "number": 10,
+      "pos": "RW"
+     },
+     {
+      "name": "Matt Crooks",
+      "short": "Crooks",
+      "number": 25,
+      "pos": "CM"
+     },
+     {
+      "name": "Regan Slater",
+      "short": "Slater",
+      "number": 27,
+      "pos": "CM"
+     },
+     {
+      "name": "Sorba Thomas",
+      "short": "Thomas",
+      "number": 7,
+      "pos": "LW"
+     },
+     {
+      "name": "Oliver McBurnie",
+      "short": "McBurnie",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Tim Iroegbunam",
+     "out": "Lucas Herrington"
+    },
+    {
+     "side": "away",
+     "minute": 68,
+     "in": "Robinio Vaz",
+     "out": "Matt Crooks"
+    },
+    {
+     "side": "away",
+     "minute": 68,
+     "in": "Joe Gelhardt",
+     "out": "Sorba Thomas"
+    },
+    {
+     "side": "away",
+     "minute": 68,
+     "in": "Ryan Giles",
+     "out": "Brooke Norton-Cuffy"
+    },
+    {
+     "side": "away",
+     "minute": 75,
+     "in": "Hidemasa Morita",
+     "out": "Regan Slater"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Ryan Sessegnon",
+     "out": "Josh King"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Tom Cairney",
+     "out": "Oscar Bobb"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "in": "César Palacios",
+     "out": "Gonzalo García"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Benjamin Lecomte",
+     "Manuel Ángel",
+     "Joachim Andersen",
+     "Kevin",
+     "Rodrigo Muniz",
+     "Kenny Tete"
+    ],
+    "away": [
+     "Jens Hjerto Dahl",
+     "Dillon Phillips",
+     "Paddy McNair",
+     "Elliot Stroud"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 33,
+     "scorer": "Alex Iwobi",
+     "assist": "Sander Berge",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Alex Iwobi finished a sweeping move with a right-footed shot from the centre of the box that trickled through goalkeeper Konstantinos Tzolakis' arms, assisted by Sander Berge.",
+     "shot": {
+      "x": 83.1,
+      "y": 39.1,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 22,
+     "player": "Lucas Herrington",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 27,
+     "player": "Josh King",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 27,
+     "player": "Regan Slater",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 84,
+     "player": "Sander Berge",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Ryan Sessegnon",
+     "card": "red",
+     "reason": "Late challenge on Robinio Vaz"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     76.2,
+     23.8
+    ],
+    "shots": [
+     18,
+     5
+    ],
+    "onTarget": [
+     6,
+     0
+    ],
+    "corners": [
+     10,
+     2
+    ],
+    "fouls": [
+     13,
+     11
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401878770",
+    "https://www.espn.com/soccer/match/_/gameId/401878770",
+    "https://www.skysports.com/football/a-vs-b/report/559508",
+    "https://www.skysports.com/football/a-vs-b/teams/559508",
+    "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+   ],
+   "notes": "Round number inferred: every club had played 7 league games after this round (ESPN team schedules). Referee from Sky Sports line-ups page; coaches from Wikipedia 2026-27 Premier League managers table. Minutes from ESPN key events; xG not given in ESPN data. ESPN lists attendance as 0, so attendance is null. Sky report places Iwobi goal at 34 min; ESPN at 33.",
+   "league": "Premier League",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+   "home_country": "GB",
+   "away_country": "GB"
+  },
+  {
+   "id": "man-city-ipswich-2026-10-17",
+   "found": true,
+   "competition": "Premier League",
+   "round": "Matchweek 7",
+   "date": "2026-10-17",
+   "kickoff_local": "15:00",
+   "home": "Man City",
+   "away": "Ipswich",
+   "score": [
+    3,
+    2
+   ],
+   "venue": {
+    "name": "Etihad Stadium",
+    "city": "Manchester",
+    "attendance": 60817
+   },
+   "referee": {
+    "name": "Farai Hallam",
+    "country": "England"
+   },
+   "coaches": {
+    "home": "Enzo Maresca",
+    "away": "Gary O'Neil"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "3-4-2-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Gianluigi Donnarumma",
+      "short": "Donnarumma",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Matheus Nunes",
+      "short": "Nunes",
+      "number": 27,
+      "pos": "RB"
+     },
+     {
+      "name": "Rúben Dias",
+      "short": "Dias",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Marc Guéhi",
+      "short": "Guéhi",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Nico O'Reilly",
+      "short": "O'Reilly",
+      "number": 33,
+      "pos": "LB"
+     },
+     {
+      "name": "Mateo Kovacic",
+      "short": "Kovacic",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Ayyoub Bouaddi",
+      "short": "Bouaddi",
+      "number": 32,
+      "pos": "DM"
+     },
+     {
+      "name": "Iliman Ndiaye",
+      "short": "Ndiaye",
+      "number": 7,
+      "pos": "RW"
+     },
+     {
+      "name": "Phil Foden",
+      "short": "Foden",
+      "number": 47,
+      "pos": "AM"
+     },
+     {
+      "name": "Jérémy Doku",
+      "short": "Doku",
+      "number": 11,
+      "pos": "LW"
+     },
+     {
+      "name": "Erling Haaland",
+      "short": "Haaland",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Christian Walton",
+      "short": "Walton",
+      "number": 28,
+      "pos": "GK"
+     },
+     {
+      "name": "Dara O'Shea",
+      "short": "O'Shea",
+      "number": 26,
+      "pos": "CB"
+     },
+     {
+      "name": "Issa Diop",
+      "short": "Diop",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Jacob Greaves",
+      "short": "Greaves",
+      "number": 24,
+      "pos": "CB"
+     },
+     {
+      "name": "Abdoul Ouattara",
+      "short": "Ouattara",
+      "number": 42,
+      "pos": "RB"
+     },
+     {
+      "name": "Florentino",
+      "short": "Florentino",
+      "number": 12,
+      "pos": "CM"
+     },
+     {
+      "name": "Exequiel Palacios",
+      "short": "Palacios",
+      "number": 25,
+      "pos": "CM"
+     },
+     {
+      "name": "Leif Davis",
+      "short": "Davis",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Daizen Maeda",
+      "short": "Maeda",
+      "number": 38,
+      "pos": "AM"
+     },
+     {
+      "name": "Julio Enciso",
+      "short": "Enciso",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Emersonn",
+      "short": "Emersonn",
+      "number": 19,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 50,
+     "in": "Enzo Fernández",
+     "out": "Mateo Kovacic"
+    },
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Josko Gvardiol",
+     "out": "Nico O'Reilly"
+    },
+    {
+     "side": "away",
+     "minute": 71,
+     "in": "Azor Matusiwa",
+     "out": "Florentino"
+    },
+    {
+     "side": "away",
+     "minute": 71,
+     "in": "Fatawu Issahaku",
+     "out": "Daizen Maeda"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "in": "Abdukodir Khusanov",
+     "out": "Matheus Nunes"
+    },
+    {
+     "side": "home",
+     "minute": 77,
+     "in": "Elliot Anderson",
+     "out": "Phil Foden"
+    },
+    {
+     "side": "home",
+     "minute": 77,
+     "in": "Antoine Semenyo",
+     "out": "Jérémy Doku"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "in": "Zian Flemming",
+     "out": "Emersonn"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "in": "Chuba Akpom",
+     "out": "Julio Enciso"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Jack Clarke",
+     "out": "Jacob Greaves"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Gerónimo Rulli",
+     "Rayan Aït-Nouri",
+     "Allan Elias",
+     "Rayan Cherki"
+    ],
+    "away": [
+     "Cedric Kipre",
+     "Darnell Furlong",
+     "Kjell Scherpen",
+     "Jaden Philogene"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 19,
+     "scorer": "Phil Foden",
+     "assist": "Jérémy Doku",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "Jérémy Doku's trickery on a fast break set up Phil Foden, who beat Christian Walton with a guided low left-footed finish for his first goal since December 2025.",
+     "shot": {
+      "x": 92.6,
+      "y": 53.4,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 21,
+     "scorer": "Daizen Maeda",
+     "assist": "Abdoul Ouattara",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Daizen Maeda shrugged off Marc Guéhi and levelled with a low left-footed finish past Gianluigi Donnarumma, assisted by Abdoul Ouattara.",
+     "shot": {
+      "x": 89.2,
+      "y": 38.9,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 34,
+     "scorer": "Erling Haaland",
+     "assist": "Mateo Kovacic",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Mateo Kovacic glided down the right side of the box unopposed and clipped a cross for Erling Haaland to head in from the penalty spot area.",
+     "shot": {
+      "x": 91.6,
+      "y": 54.0,
+      "header": true
+     }
+    },
+    {
+     "side": "home",
+     "minute": 69,
+     "scorer": "Erling Haaland",
+     "assist": "Iliman Ndiaye",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "Erling Haaland ran onto a brilliant pass from Iliman Ndiaye on the break and slotted left-footed past Christian Walton.",
+     "shot": {
+      "x": 90.6,
+      "y": 53.8,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "scorer": "Zian Flemming",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "After VAR awarded Ipswich a penalty for Marc Guéhi's contact on Abdul Fatawu, Zian Flemming converted right-footed into the centre of the goal.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 73,
+     "player": "Abdoul Ouattara",
+     "card": "yellow",
+     "reason": ""
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Josko Gvardiol",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Leif Davis",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 85,
+     "player": "Erling Haaland",
+     "detail": "Goal ruled out after VAR review for offside against Enzo Fernández in the build-up."
+    },
+    {
+     "side": "home",
+     "minute": 88,
+     "player": "Marc Guéhi",
+     "detail": "VAR decision: penalty to Ipswich for Guéhi's contact on Abdul Fatawu in the box."
+    }
+   ],
+   "stats": {
+    "possession": [
+     69.8,
+     30.2
+    ],
+    "shots": [
+     19,
+     8
+    ],
+    "onTarget": [
+     6,
+     3
+    ],
+    "corners": [
+     2,
+     3
+    ],
+    "fouls": [
+     8,
+     16
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879259",
+    "https://www.espn.com/soccer/match/_/gameId/401879259",
+    "https://www.skysports.com/football/a-vs-b/report/559510",
+    "https://www.skysports.com/football/a-vs-b/teams/559510",
+    "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+   ],
+   "notes": "Round number inferred: every club had played 7 league games after this round (ESPN team schedules). Referee from Sky Sports line-ups page; coaches from Wikipedia 2026-27 Premier League managers table. Minutes from ESPN key events; xG not given in ESPN data. Sky timeline puts the penalty incident at 88 min; ESPN credits the goal at 90.",
+   "league": "Premier League",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+   "home_country": "GB",
+   "away_country": "GB"
+  },
+  {
+   "id": "newcastle-aston-villa-2026-10-17",
+   "found": true,
+   "competition": "Premier League",
+   "round": "Matchweek 7",
+   "date": "2026-10-17",
+   "kickoff_local": "17:30",
+   "home": "Newcastle",
+   "away": "Aston Villa",
+   "score": [
+    0,
+    1
+   ],
+   "venue": {
+    "name": "St. James' Park",
+    "city": "Newcastle-upon-Tyne",
+    "attendance": 52626
+   },
+   "referee": {
+    "name": "Jarred Gillett",
+    "country": "Australia"
+   },
+   "coaches": {
+    "home": "Matthias Jaissle",
+    "away": "Unai Emery"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Lukás Hornícek",
+      "short": "Hornícek",
+      "number": 21,
+      "pos": "GK"
+     },
+     {
+      "name": "Lewis Miley",
+      "short": "Miley",
+      "number": 67,
+      "pos": "RB"
+     },
+     {
+      "name": "Malick Thiaw",
+      "short": "Thiaw",
+      "number": 12,
+      "pos": "CB"
+     },
+     {
+      "name": "Sven Botman",
+      "short": "Botman",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Lewis Hall",
+      "short": "Hall",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Joelinton",
+      "short": "Joelinton",
+      "number": 7,
+      "pos": "DM"
+     },
+     {
+      "name": "Nico González",
+      "short": "González",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Matias Fernandez-Pardo",
+      "short": "Fernandez-Pardo",
+      "number": 20,
+      "pos": "RW"
+     },
+     {
+      "name": "Joe Willock",
+      "short": "Willock",
+      "number": 28,
+      "pos": "AM"
+     },
+     {
+      "name": "Harvey Barnes",
+      "short": "Barnes",
+      "number": 11,
+      "pos": "LW"
+     },
+     {
+      "name": "Yoane Wissa",
+      "short": "Wissa",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Zion Suzuki",
+      "short": "Suzuki",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Matty Cash",
+      "short": "Cash",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Victor Lindelöf",
+      "short": "Lindelöf",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Tyrone Mings",
+      "short": "Mings",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Aaron Wan-Bissaka",
+      "short": "Wan-Bissaka",
+      "number": 29,
+      "pos": "LB"
+     },
+     {
+      "name": "Boubacar Kamara",
+      "short": "Kamara",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "João Gomes",
+      "short": "Gomes",
+      "number": 35,
+      "pos": "DM"
+     },
+     {
+      "name": "Alysson",
+      "short": "Alysson",
+      "number": 47,
+      "pos": "RW"
+     },
+     {
+      "name": "Johan Manzambi",
+      "short": "Manzambi",
+      "number": 44,
+      "pos": "AM"
+     },
+     {
+      "name": "Emiliano Buendía",
+      "short": "Buendía",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Nicolas Jackson",
+      "short": "Jackson",
+      "number": 11,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "John McGinn",
+     "out": "Alysson"
+    },
+    {
+     "side": "home",
+     "minute": 56,
+     "in": "Bazoumana Touré",
+     "out": "Matias Fernandez-Pardo"
+    },
+    {
+     "side": "home",
+     "minute": 56,
+     "in": "William Osula",
+     "out": "Joe Willock"
+    },
+    {
+     "side": "away",
+     "minute": 72,
+     "in": "Leon Goretzka",
+     "out": "Emiliano Buendía"
+    },
+    {
+     "side": "away",
+     "minute": 72,
+     "in": "Ross Barkley",
+     "out": "João Gomes"
+    },
+    {
+     "side": "away",
+     "minute": 72,
+     "in": "Ibrahim Mbaye",
+     "out": "Johan Manzambi"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "in": "Pau Torres",
+     "out": "Aaron Wan-Bissaka"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "in": "Dan Burn",
+     "out": "Joelinton"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Fabian Schär",
+     "Aladji Bamba",
+     "Amar Dedic",
+     "Nick Pope",
+     "Sean Steur",
+     "Jacob Murphy"
+    ],
+    "away": [
+     "Marco Bizot",
+     "Lamare Bogarde",
+     "Brian Madjo",
+     "Taylor Harwood-Bellis"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 36,
+     "scorer": "Johan Manzambi",
+     "assist": "João Gomes",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Johan Manzambi, who nearly joined Newcastle in the summer, rose to head João Gomes' cross in from very close range for the only goal of the game.",
+     "shot": {
+      "x": 94.3,
+      "y": 54.6,
+      "header": true
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 18,
+     "player": "Joelinton",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 18,
+     "player": "Sven Botman",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 25,
+     "player": "João Gomes",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 28,
+     "player": "Alysson",
+     "card": "yellow",
+     "reason": ""
+    },
+    {
+     "side": "home",
+     "minute": 53,
+     "player": "Nico González",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 55,
+     "player": "Yoane Wissa",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "player": "William Osula",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 86,
+     "player": "Malick Thiaw",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 18,
+     "player": "Sven Botman",
+     "detail": "Yellow card for challenge on Nicolas Jackson reviewed for possible serious foul play; on-field decision confirmed, no red card."
+    }
+   ],
+   "stats": {
+    "possession": [
+     49.3,
+     50.7
+    ],
+    "shots": [
+     16,
+     15
+    ],
+    "onTarget": [
+     1,
+     3
+    ],
+    "corners": [
+     4,
+     5
+    ],
+    "fouls": [
+     14,
+     11
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879258",
+    "https://www.espn.com/soccer/match/_/gameId/401879258",
+    "https://www.skysports.com/football/a-vs-b/report/559511",
+    "https://www.skysports.com/football/a-vs-b/teams/559511",
+    "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+   ],
+   "notes": "Round number inferred: every club had played 7 league games after this round (ESPN team schedules). Referee from Sky Sports line-ups page; coaches from Wikipedia 2026-27 Premier League managers table. Minutes from ESPN key events; xG not given in ESPN data. ",
+   "league": "Premier League",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+   "home_country": "GB",
+   "away_country": "GB"
+  },
+  {
+   "id": "bournemouth-sunderland-2026-10-18",
+   "found": true,
+   "competition": "Premier League",
+   "round": "Matchweek 7",
+   "date": "2026-10-18",
+   "kickoff_local": "14:00",
+   "home": "Bournemouth",
+   "away": "Sunderland",
+   "score": [
+    2,
+    0
+   ],
+   "venue": {
+    "name": "Vitality Stadium",
+    "city": "Bournemouth",
+    "attendance": 12004
+   },
+   "referee": {
+    "name": "Craig Pawson",
+    "country": "England"
+   },
+   "coaches": {
+    "home": "Marco Rose",
+    "away": "Régis Le Bris"
+   },
+   "formations": {
+    "home": "4-1-4-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Djordje Petrovic",
+      "short": "Petrovic",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Adam Smith",
+      "short": "Smith",
+      "number": 15,
+      "pos": "RB"
+     },
+     {
+      "name": "James Hill",
+      "short": "Hill",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "António Silva",
+      "short": "Silva",
+      "number": 14,
+      "pos": "CB"
+     },
+     {
+      "name": "Adrien Truffert",
+      "short": "Truffert",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Tyler Adams",
+      "short": "Adams",
+      "number": 12,
+      "pos": "DM"
+     },
+     {
+      "name": "Rayan",
+      "short": "Rayan",
+      "number": 37,
+      "pos": "RW"
+     },
+     {
+      "name": "Ryan Christie",
+      "short": "Christie",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Lewis Cook",
+      "short": "Cook",
+      "number": 4,
+      "pos": "CM"
+     },
+     {
+      "name": "Marcus Tavernier",
+      "short": "Tavernier",
+      "number": 16,
+      "pos": "LW"
+     },
+     {
+      "name": "Evanilson",
+      "short": "Evanilson",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Robin Roefs",
+      "short": "Roefs",
+      "number": 22,
+      "pos": "GK"
+     },
+     {
+      "name": "Nordi Mukiele",
+      "short": "Mukiele",
+      "number": 20,
+      "pos": "RB"
+     },
+     {
+      "name": "Kevin Danso",
+      "short": "Danso",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Omar Alderete",
+      "short": "Alderete",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Reinildo Mandava",
+      "short": "Mandava",
+      "number": 17,
+      "pos": "LB"
+     },
+     {
+      "name": "Granit Xhaka",
+      "short": "Xhaka",
+      "number": 34,
+      "pos": "DM"
+     },
+     {
+      "name": "Noah Sadiki",
+      "short": "Sadiki",
+      "number": 27,
+      "pos": "DM"
+     },
+     {
+      "name": "Trai Hume",
+      "short": "Hume",
+      "number": 32,
+      "pos": "RW"
+     },
+     {
+      "name": "Chris Rigg",
+      "short": "Rigg",
+      "number": 11,
+      "pos": "AM"
+     },
+     {
+      "name": "Enzo Le Fée",
+      "short": "Le Fée",
+      "number": 28,
+      "pos": "LW"
+     },
+     {
+      "name": "Tymur Tutierov",
+      "short": "Tutierov",
+      "number": 57,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 59,
+     "in": "Habib Diarra",
+     "out": "Tymur Tutierov"
+    },
+    {
+     "side": "away",
+     "minute": 59,
+     "in": "Luke O'Nien",
+     "out": "Omar Alderete"
+    },
+    {
+     "side": "home",
+     "minute": 62,
+     "in": "Justin Kluivert",
+     "out": "Lewis Cook"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "in": "Jules Ahoka",
+     "out": "Chris Rigg"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Álvaro Rodríguez",
+     "out": "Evanilson"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Amine Adli",
+     "out": "Marcus Tavernier"
+    },
+    {
+     "side": "home",
+     "minute": 89,
+     "in": "Bafodé Diakité",
+     "out": "Tyler Adams"
+    },
+    {
+     "side": "home",
+     "minute": 89,
+     "in": "Ben Gannon-Doak",
+     "out": "Rayan"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Juanlu Sanchez",
+     "Michele Di Gregorio",
+     "David Brooks",
+     "Julio Soler"
+    ],
+    "away": [
+     "Juan Angulo",
+     "Nilson Angulo",
+     "Melker Ellborg",
+     "Dayann Methalie",
+     "Chemsdine Talbi",
+     "Malick Fofana"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 6,
+     "scorer": "Marcus Tavernier",
+     "assist": "Evanilson",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Evanilson nipped in after Kevin Danso and Omar Alderete failed to deal with a routine long ball and set up the unmarked Marcus Tavernier to head in from close range.",
+     "shot": {
+      "x": 91.4,
+      "y": 51.8,
+      "header": true
+     }
+    },
+    {
+     "side": "home",
+     "minute": 48,
+     "scorer": "Evanilson",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Evanilson pounced on a loose back pass from Omar Alderete, rounded Robin Roefs and rolled the ball into the empty net.",
+     "shot": {
+      "x": 88.8,
+      "y": 59.3,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 17,
+     "player": "Kevin Danso",
+     "card": "red",
+     "reason": "Denying an obvious goal-scoring opportunity (hauled down Evanilson when through on goal)"
+    },
+    {
+     "side": "home",
+     "minute": 26,
+     "player": "António Silva",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 40,
+     "player": "Omar Alderete",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "player": "Lewis Cook",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "player": "Chris Rigg",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "player": "Ryan Christie",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     65.0,
+     35.0
+    ],
+    "shots": [
+     29,
+     3
+    ],
+    "onTarget": [
+     6,
+     0
+    ],
+    "corners": [
+     5,
+     3
+    ],
+    "fouls": [
+     16,
+     7
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879263",
+    "https://www.espn.com/soccer/match/_/gameId/401879263",
+    "https://www.skysports.com/football/a-vs-b/report/559504",
+    "https://www.skysports.com/football/a-vs-b/teams/559504",
+    "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+   ],
+   "notes": "Round number inferred: every club had played 7 league games after this round (ESPN team schedules). Referee from Sky Sports line-ups page; coaches from Wikipedia 2026-27 Premier League managers table. Minutes from ESPN key events; xG not given in ESPN data. ",
+   "league": "Premier League",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+   "home_country": "GB",
+   "away_country": "GB"
+  },
+  {
+   "id": "brighton-c-palace-2026-10-18",
+   "found": true,
+   "competition": "Premier League",
+   "round": "Matchweek 7",
+   "date": "2026-10-18",
+   "kickoff_local": "14:00",
+   "home": "Brighton",
+   "away": "C Palace",
+   "score": [
+    5,
+    0
+   ],
+   "venue": {
+    "name": "American Express Stadium",
+    "city": "Falmer",
+    "attendance": 31440
+   },
+   "referee": {
+    "name": "Robert Jones",
+    "country": "England"
+   },
+   "coaches": {
+    "home": "Fabian Hürzeler",
+    "away": "Pierre Sage"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "3-4-2-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Bart Verbruggen",
+      "short": "Verbruggen",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Ferdi Kadioglu",
+      "short": "Kadioglu",
+      "number": 24,
+      "pos": "RB"
+     },
+     {
+      "name": "Luka Vuskovic",
+      "short": "Vuskovic",
+      "number": 44,
+      "pos": "CB"
+     },
+     {
+      "name": "Lewis Dunk",
+      "short": "Dunk",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Olivier Boscagli",
+      "short": "Boscagli",
+      "number": 21,
+      "pos": "LB"
+     },
+     {
+      "name": "Pascal Gross",
+      "short": "Gross",
+      "number": 13,
+      "pos": "DM"
+     },
+     {
+      "name": "Chema Andrés",
+      "short": "Andrés",
+      "number": 14,
+      "pos": "DM"
+     },
+     {
+      "name": "Diego Gómez",
+      "short": "Gómez",
+      "number": 25,
+      "pos": "RW"
+     },
+     {
+      "name": "Yasin Ayari",
+      "short": "Ayari",
+      "number": 26,
+      "pos": "AM"
+     },
+     {
+      "name": "Maxim De Cuyper",
+      "short": "De Cuyper",
+      "number": 29,
+      "pos": "LW"
+     },
+     {
+      "name": "Charalambos Kostoulas",
+      "short": "Kostoulas",
+      "number": 19,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Walter Benítez",
+      "short": "Benítez",
+      "number": 44,
+      "pos": "GK"
+     },
+     {
+      "name": "Jaydee Canvot",
+      "short": "Canvot",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Chris Richards",
+      "short": "Richards",
+      "number": 26,
+      "pos": "CB"
+     },
+     {
+      "name": "Honest Ahanor",
+      "short": "Ahanor",
+      "number": 21,
+      "pos": "CB"
+     },
+     {
+      "name": "Anan Khalaili",
+      "short": "Khalaili",
+      "number": 25,
+      "pos": "RB"
+     },
+     {
+      "name": "Adam Wharton",
+      "short": "Wharton",
+      "number": 20,
+      "pos": "CM"
+     },
+     {
+      "name": "Quinten Timber",
+      "short": "Timber",
+      "number": 23,
+      "pos": "CM"
+     },
+     {
+      "name": "Tyrick Mitchell",
+      "short": "Mitchell",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Daichi Kamada",
+      "short": "Kamada",
+      "number": 18,
+      "pos": "AM"
+     },
+     {
+      "name": "Yéremy Pino",
+      "short": "Pino",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Jørgen Strand Larsen",
+      "short": "Larsen",
+      "number": 22,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Dwight McNeil",
+     "out": "Quinten Timber"
+    },
+    {
+     "side": "away",
+     "minute": 53,
+     "in": "Jefferson Lerma",
+     "out": "Honest Ahanor"
+    },
+    {
+     "side": "away",
+     "minute": 61,
+     "in": "Jean-Philippe Mateta",
+     "out": "Jørgen Strand Larsen"
+    },
+    {
+     "side": "away",
+     "minute": 61,
+     "in": "Eddie Nketiah",
+     "out": "Yéremy Pino"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Jack Hinshelwood",
+     "out": "Pascal Gross"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Georginio Rutter",
+     "out": "Charalambos Kostoulas"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Will Hughes",
+     "out": "Daichi Kamada"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Jaouen Hadjam",
+     "out": "Olivier Boscagli"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Malick Yalcouyé",
+     "out": "Yasin Ayari"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "in": "Michael Svoboda",
+     "out": "Lewis Dunk"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Ibrahim Osman",
+     "Costinha",
+     "Matt O'Riley",
+     "Jason Steele"
+    ],
+    "away": [
+     "Ismaïla Sarr",
+     "Remi Matthews",
+     "Óscar Mingueza",
+     "Darío Osorio"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 4,
+     "scorer": "Jaydee Canvot",
+     "assist": null,
+     "own_goal": true,
+     "penalty": false,
+     "type": "own",
+     "foot": null,
+     "description": "Jaydee Canvot turned a Pascal Groß delivery from the left into his own net to give Brighton an early lead.",
+     "shot": null
+    },
+    {
+     "side": "home",
+     "minute": 7,
+     "scorer": "Diego Gómez",
+     "assist": "Olivier Boscagli",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Diego Gómez caught Palace off guard with an audacious right-footed strike from around the halfway line into the high centre of the goal, the move started by Olivier Boscagli.",
+     "shot": {
+      "x": 51.3,
+      "y": 55.5,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 10,
+     "scorer": "Yasin Ayari",
+     "assist": "Charalambos Kostoulas",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Yasin Ayari made it 3-0 inside 10 minutes with a right-footed finish from the centre of the box into the bottom left corner, set up by Charalambos Kostoulas.",
+     "shot": {
+      "x": 84.4,
+      "y": 49.2,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 49,
+     "scorer": "Charalambos Kostoulas",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Charalambos Kostoulas finished left-footed from the centre of the box into the bottom left corner after more work down the flank from Pascal Groß; the goal stood after a VAR check for handball.",
+     "shot": {
+      "x": 93.6,
+      "y": 48.6,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 84,
+     "scorer": "Jack Hinshelwood",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "Substitute Jack Hinshelwood bundled home a late fifth from very close range following a corner.",
+     "shot": {
+      "x": 97.6,
+      "y": 53.6,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 29,
+     "player": "Pascal Gross",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 51,
+     "player": "Daichi Kamada",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 64,
+     "player": "Chema Andrés",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 49,
+     "player": "Charalambos Kostoulas",
+     "detail": "Goal checked for handball; confirmed following VAR review."
+    }
+   ],
+   "stats": {
+    "possession": [
+     57.2,
+     42.8
+    ],
+    "shots": [
+     17,
+     5
+    ],
+    "onTarget": [
+     9,
+     1
+    ],
+    "corners": [
+     8,
+     5
+    ],
+    "fouls": [
+     13,
+     11
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879261",
+    "https://www.espn.com/soccer/match/_/gameId/401879261",
+    "https://www.skysports.com/football/a-vs-b/report/559506",
+    "https://www.skysports.com/football/a-vs-b/teams/559506",
+    "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+   ],
+   "notes": "Round number inferred: every club had played 7 league games after this round (ESPN team schedules). Referee from Sky Sports line-ups page; coaches from Wikipedia 2026-27 Premier League managers table. Minutes from ESPN key events; xG not given in ESPN data. ",
+   "league": "Premier League",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+   "home_country": "GB",
+   "away_country": "GB"
+  },
+  {
+   "id": "leeds-man-united-2026-10-18",
+   "found": true,
+   "competition": "Premier League",
+   "round": "Matchweek 7",
+   "date": "2026-10-18",
+   "kickoff_local": "14:00",
+   "home": "Leeds",
+   "away": "Man United",
+   "score": [
+    1,
+    1
+   ],
+   "venue": {
+    "name": "Elland Road",
+    "city": "Leeds",
+    "attendance": 36983
+   },
+   "referee": {
+    "name": "Darren England",
+    "country": "England"
+   },
+   "coaches": {
+    "home": "Daniel Farke",
+    "away": "Michael Carrick"
+   },
+   "formations": {
+    "home": "3-4-2-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "James Trafford",
+      "short": "Trafford",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "James Justin",
+      "short": "Justin",
+      "number": 24,
+      "pos": "CB"
+     },
+     {
+      "name": "Nico Elvedi",
+      "short": "Elvedi",
+      "number": 30,
+      "pos": "CB"
+     },
+     {
+      "name": "Tarik Muharemovic",
+      "short": "Muharemovic",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Jayden Bogle",
+      "short": "Bogle",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Ethan Ampadu",
+      "short": "Ampadu",
+      "number": 4,
+      "pos": "CM"
+     },
+     {
+      "name": "Ao Tanaka",
+      "short": "Tanaka",
+      "number": 22,
+      "pos": "CM"
+     },
+     {
+      "name": "Gabriel Gudmundsson",
+      "short": "Gudmundsson",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Anton Stach",
+      "short": "Stach",
+      "number": 18,
+      "pos": "AM"
+     },
+     {
+      "name": "Noah Okafor",
+      "short": "Okafor",
+      "number": 19,
+      "pos": "AM"
+     },
+     {
+      "name": "Dominic Calvert-Lewin",
+      "short": "Calvert-Lewin",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Senne Lammens",
+      "short": "Lammens",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Leny Yoro",
+      "short": "Yoro",
+      "number": 15,
+      "pos": "RB"
+     },
+     {
+      "name": "Harry Maguire",
+      "short": "Maguire",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Lisandro Martínez",
+      "short": "Martínez",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Diogo Dalot",
+      "short": "Dalot",
+      "number": 2,
+      "pos": "LB"
+     },
+     {
+      "name": "Andrey Santos",
+      "short": "Santos",
+      "number": 17,
+      "pos": "DM"
+     },
+     {
+      "name": "Carlos Baleba",
+      "short": "Baleba",
+      "number": 20,
+      "pos": "DM"
+     },
+     {
+      "name": "Amad Diallo",
+      "short": "Diallo",
+      "number": 16,
+      "pos": "RW"
+     },
+     {
+      "name": "Youri Tielemans",
+      "short": "Tielemans",
+      "number": 18,
+      "pos": "AM"
+     },
+     {
+      "name": "Bruno Fernandes",
+      "short": "Fernandes",
+      "number": 8,
+      "pos": "LW"
+     },
+     {
+      "name": "Bryan Mbeumo",
+      "short": "Mbeumo",
+      "number": 19,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Noussair Mazraoui",
+     "out": "Lisandro Martínez"
+    },
+    {
+     "side": "home",
+     "minute": 74,
+     "in": "Lukas Nmecha",
+     "out": "Noah Okafor"
+    },
+    {
+     "side": "away",
+     "minute": 74,
+     "in": "Mason Mount",
+     "out": "Carlos Baleba"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Sean Longstaff",
+     "out": "Ao Tanaka"
+    },
+    {
+     "side": "away",
+     "minute": 84,
+     "in": "Matheus Cunha",
+     "out": "Youri Tielemans"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Brenden Aaronson",
+     "Harry Wilson",
+     "Jean-Mattéo Bahoya",
+     "Melvin Bard",
+     "Michael Zetterer",
+     "Ilia Gruev",
+     "Jaka Bijol"
+    ],
+    "away": [
+     "Joshua Zirkzee",
+     "Harry Amass",
+     "Karl Darlow",
+     "Matthijs de Ligt",
+     "Shea Lacey",
+     "Marcus Rashford"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 35,
+     "scorer": "Bryan Mbeumo",
+     "assist": "Youri Tielemans",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Bryan Mbeumo combined with Youri Tielemans and guided a low left-footed finish from Tielemans' cross past James Trafford.",
+     "shot": {
+      "x": 92.6,
+      "y": 48.1,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 51,
+     "scorer": "Dominic Calvert-Lewin",
+     "assist": "Tarik Muharemovic",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "Dominic Calvert-Lewin reacted to Tarik Muharemovic's knockdown from a poorly defended corner and beat Senne Lammens from close range.",
+     "shot": {
+      "x": 93.9,
+      "y": 52.2,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 17,
+     "player": "Bruno Fernandes",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 19,
+     "player": "Gabriel Gudmundsson",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Ethan Ampadu",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Andrey Santos",
+     "card": "yellow",
+     "reason": ""
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     61.3,
+     38.7
+    ],
+    "shots": [
+     12,
+     13
+    ],
+    "onTarget": [
+     5,
+     3
+    ],
+    "corners": [
+     2,
+     3
+    ],
+    "fouls": [
+     16,
+     5
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879260",
+    "https://www.espn.com/soccer/match/_/gameId/401879260",
+    "https://www.skysports.com/football/a-vs-b/report/559509",
+    "https://www.skysports.com/football/a-vs-b/teams/559509",
+    "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+   ],
+   "notes": "Round number inferred: every club had played 7 league games after this round (ESPN team schedules). Referee from Sky Sports line-ups page; coaches from Wikipedia 2026-27 Premier League managers table. Minutes from ESPN key events; xG not given in ESPN data. ",
+   "league": "Premier League",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+   "home_country": "GB",
+   "away_country": "GB"
+  },
+  {
+   "id": "nottm-forest-arsenal-2026-10-18",
+   "found": true,
+   "competition": "Premier League",
+   "round": "Matchweek 7",
+   "date": "2026-10-18",
+   "kickoff_local": "16:30",
+   "home": "Nottm Forest",
+   "away": "Arsenal",
+   "score": [
+    0,
+    1
+   ],
+   "venue": {
+    "name": "The City Ground",
+    "city": "Nottingham",
+    "attendance": 30893
+   },
+   "referee": {
+    "name": "Michael Oliver",
+    "country": "England"
+   },
+   "coaches": {
+    "home": "Oliver Glasner",
+    "away": "Mikel Arteta"
+   },
+   "formations": {
+    "home": "3-4-2-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Matz Sels",
+      "short": "Sels",
+      "number": 26,
+      "pos": "GK"
+     },
+     {
+      "name": "Jair Paula",
+      "short": "Cunha",
+      "number": 23,
+      "pos": "CB"
+     },
+     {
+      "name": "Ousmane Diomande",
+      "short": "Diomande",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Murillo",
+      "short": "Murillo",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Daniel Muñoz",
+      "short": "Muñoz",
+      "number": 27,
+      "pos": "RB"
+     },
+     {
+      "name": "James McAtee",
+      "short": "McAtee",
+      "number": 24,
+      "pos": "CM"
+     },
+     {
+      "name": "Xaver Schlager",
+      "short": "Schlager",
+      "number": 21,
+      "pos": "CM"
+     },
+     {
+      "name": "Neco Williams",
+      "short": "Williams",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Nicolás Domínguez",
+      "short": "Domínguez",
+      "number": 8,
+      "pos": "AM"
+     },
+     {
+      "name": "Dan Ndoye",
+      "short": "Ndoye",
+      "number": 14,
+      "pos": "AM"
+     },
+     {
+      "name": "Liam Delap",
+      "short": "Delap",
+      "number": 19,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "David Raya",
+      "short": "Raya",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Ben White",
+      "short": "White",
+      "number": 4,
+      "pos": "RB"
+     },
+     {
+      "name": "Ezri Konsa",
+      "short": "Konsa",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Gabriel Magalhães",
+      "short": "Magalhães",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Riccardo Calafiori",
+      "short": "Calafiori",
+      "number": 33,
+      "pos": "LB"
+     },
+     {
+      "name": "Declan Rice",
+      "short": "Rice",
+      "number": 41,
+      "pos": "DM"
+     },
+     {
+      "name": "Bruno Guimarães",
+      "short": "Guimarães",
+      "number": 39,
+      "pos": "DM"
+     },
+     {
+      "name": "Bukayo Saka",
+      "short": "Saka",
+      "number": 7,
+      "pos": "RW"
+     },
+     {
+      "name": "Martin Ødegaard",
+      "short": "Ødegaard",
+      "number": 8,
+      "pos": "AM"
+     },
+     {
+      "name": "Eberechi Eze",
+      "short": "Eze",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Kai Havertz",
+      "short": "Havertz",
+      "number": 29,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Noni Madueke",
+     "out": "Eberechi Eze"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Jurriën Timber",
+     "out": "Ben White"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Viktor Gyökeres",
+     "out": "Kai Havertz"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Mikel Merino",
+     "out": "Bruno Guimarães"
+    },
+    {
+     "side": "home",
+     "minute": 73,
+     "in": "Arnaud Kalimuendo",
+     "out": "Dan Ndoye"
+    },
+    {
+     "side": "home",
+     "minute": 74,
+     "in": "Ibrahim Sangaré",
+     "out": "Nicolás Domínguez"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "in": "Chris Wood",
+     "out": "Jair Paula"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "in": "Callum Hudson-Odoi",
+     "out": "James McAtee"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Ola Aina",
+     "John Victor",
+     "Ryan Yates",
+     "Nikola Milenkovic",
+     "Luca Netz"
+    ],
+    "away": [
+     "Max Dowman",
+     "Myles Lewis-Skelly",
+     "Martín Zubimendi",
+     "Illan Meslier",
+     "Cristhian Mosquera"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 80,
+     "scorer": "Noni Madueke",
+     "assist": "Declan Rice",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Substitute Noni Madueke cut inside from the left and fired a right-footed shot that deflected off Jair and wrong-footed Matz Sels; it was Arsenal's only shot on target.",
+     "shot": {
+      "x": 86.6,
+      "y": 72.5,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 17,
+     "player": "Neco Williams",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 53,
+     "player": "Noni Madueke",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     26.2,
+     73.8
+    ],
+    "shots": [
+     14,
+     9
+    ],
+    "onTarget": [
+     2,
+     1
+    ],
+    "corners": [
+     8,
+     6
+    ],
+    "fouls": [
+     14,
+     8
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401878769",
+    "https://www.espn.com/soccer/match/_/gameId/401878769",
+    "https://www.skysports.com/football/a-vs-b/report/559512",
+    "https://www.skysports.com/football/a-vs-b/teams/559512",
+    "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+   ],
+   "notes": "Round number inferred: every club had played 7 league games after this round (ESPN team schedules). Referee from Sky Sports line-ups page; coaches from Wikipedia 2026-27 Premier League managers table. Minutes from ESPN key events; xG not given in ESPN data. Madueke strike deflected off Jair (listed by ESPN as Jair Paula, by Sky as Jair Cunha).",
+   "league": "Premier League",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "home_country": "GB",
+   "away_country": "GB"
+  },
+  {
+   "id": "spurs-coventry-2026-10-19",
+   "found": true,
+   "competition": "Premier League",
+   "round": "Matchweek 7",
+   "date": "2026-10-19",
+   "kickoff_local": "20:00",
+   "home": "Spurs",
+   "away": "Coventry",
+   "score": [
+    3,
+    1
+   ],
+   "venue": {
+    "name": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "attendance": 60913
+   },
+   "referee": {
+    "name": "Andy Madley",
+    "country": "England"
+   },
+   "coaches": {
+    "home": "Roberto De Zerbi",
+    "away": "Frank Lampard"
+   },
+   "formations": {
+    "home": "3-1-4-2",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Antonín Kinsky",
+      "short": "Kinsky",
+      "number": 31,
+      "pos": "GK"
+     },
+     {
+      "name": "Jan Paul van Hecke",
+      "short": "van Hecke",
+      "number": 6,
+      "pos": "CB"
+     },
+     {
+      "name": "Tosin Adarabioyo",
+      "short": "Adarabioyo",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Micky van de Ven",
+      "short": "van de Ven",
+      "number": 37,
+      "pos": "CB"
+     },
+     {
+      "name": "Sandro Tonali",
+      "short": "Tonali",
+      "number": 16,
+      "pos": "DM"
+     },
+     {
+      "name": "Mohammed Kudus",
+      "short": "Kudus",
+      "number": 20,
+      "pos": "RB"
+     },
+     {
+      "name": "Archie Gray",
+      "short": "Gray",
+      "number": 14,
+      "pos": "CM"
+     },
+     {
+      "name": "James Maddison",
+      "short": "Maddison",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Andy Robertson",
+      "short": "Robertson",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Dominic Solanke",
+      "short": "Solanke",
+      "number": 19,
+      "pos": "ST"
+     },
+     {
+      "name": "Omar Marmoush",
+      "short": "Marmoush",
+      "number": 22,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Carl Rushworth",
+      "short": "Rushworth",
+      "number": 19,
+      "pos": "GK"
+     },
+     {
+      "name": "Milan van Ewijk",
+      "short": "van Ewijk",
+      "number": 27,
+      "pos": "RB"
+     },
+     {
+      "name": "Bobby Thomas",
+      "short": "Thomas",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Ethan Pinnock",
+      "short": "Pinnock",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Jay Da Silva",
+      "short": "Da Silva",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Caleb Yirenkyi",
+      "short": "Yirenkyi",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Matt Grimes",
+      "short": "Grimes",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Tatsuhiro Sakamoto",
+      "short": "Sakamoto",
+      "number": 7,
+      "pos": "RW"
+     },
+     {
+      "name": "Jack Rudoni",
+      "short": "Rudoni",
+      "number": 5,
+      "pos": "AM"
+     },
+     {
+      "name": "Brandon Thomas-Asante",
+      "short": "Thomas-Asante",
+      "number": 23,
+      "pos": "LW"
+     },
+     {
+      "name": "Sidiki Cherif",
+      "short": "Cherif",
+      "number": 49,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Taiwo Awoniyi",
+     "out": "Sidiki Cherif"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Frank Onyeka",
+     "out": "Caleb Yirenkyi"
+    },
+    {
+     "side": "home",
+     "minute": 69,
+     "in": "Ben Davies",
+     "out": "Andy Robertson"
+    },
+    {
+     "side": "home",
+     "minute": 69,
+     "in": "Conor Gallagher",
+     "out": "James Maddison"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Mateus Fernandes",
+     "out": "Tosin Adarabioyo"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "in": "Ephron Mason-Clark",
+     "out": "Brandon Thomas-Asante"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "in": "Gustavo Hamer",
+     "out": "Tatsuhiro Sakamoto"
+    },
+    {
+     "side": "home",
+     "minute": 87,
+     "in": "Mathys Tel",
+     "out": "Omar Marmoush"
+    },
+    {
+     "side": "home",
+     "minute": 87,
+     "in": "Dejan Kulusevski",
+     "out": "Mohammed Kudus"
+    },
+    {
+     "side": "away",
+     "minute": 87,
+     "in": "Kaine Kesler Hayden",
+     "out": "Jack Rudoni"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Martin Dúbravka",
+     "Callum Olusesi",
+     "Marcos Senesi",
+     "Luca Williams-Barnett"
+    ],
+    "away": [
+     "Ellis Simms",
+     "Victor Torp",
+     "Stephen Mfuni",
+     "Daniel Bentley"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 14,
+     "scorer": "James Maddison",
+     "assist": "Mohammed Kudus",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "James Maddison, on his first competitive Spurs start since May 2025, curled a right-footed shot from outside the box into the top left corner after a pass from Mohammed Kudus.",
+     "shot": {
+      "x": 81.2,
+      "y": 34.2,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 49,
+     "scorer": "Jack Rudoni",
+     "assist": "Brandon Thomas-Asante",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Jack Rudoni powered his way into the Tottenham penalty area and forced the equaliser home from the left side of the six-yard box, set up by Brandon Thomas-Asante.",
+     "shot": {
+      "x": 96.1,
+      "y": 60.5,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 58,
+     "scorer": "Omar Marmoush",
+     "assist": "Andy Robertson",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Omar Marmoush restored the lead with his first goal for the club, a right-footed strike from outside the box into the bottom right corner after Andy Robertson's pass. VAR quickly cleared a possible elbow on Milan van Ewijk in the build-up.",
+     "shot": {
+      "x": 80.8,
+      "y": 64.7,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "scorer": "Ben Davies",
+     "assist": "Dominic Solanke",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Substitute Ben Davies sealed Spurs' first league win of the season deep in stoppage time with a surprise strike from outside the box into the bottom left corner, assisted by Dominic Solanke.",
+     "shot": {
+      "x": 81.4,
+      "y": 49.7,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 20,
+     "player": "Caleb Yirenkyi",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 22,
+     "player": "Dominic Solanke",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "player": "Jay Da Silva",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 64,
+     "player": "Jack Rudoni",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 58,
+     "player": "Omar Marmoush",
+     "detail": "Goal checked for a possible elbow on Milan van Ewijk in the build-up; VAR cleared it and the goal stood."
+    }
+   ],
+   "stats": {
+    "possession": [
+     65.4,
+     34.6
+    ],
+    "shots": [
+     16,
+     12
+    ],
+    "onTarget": [
+     5,
+     1
+    ],
+    "corners": [
+     4,
+     4
+    ],
+    "fouls": [
+     15,
+     14
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879257",
+    "https://www.espn.com/soccer/match/_/gameId/401879257",
+    "https://www.skysports.com/football/a-vs-b/report/559513",
+    "https://www.skysports.com/football/a-vs-b/teams/559513",
+    "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+   ],
+   "notes": "Round number inferred: every club had played 7 league games after this round (ESPN team schedules). Referee from Sky Sports line-ups page; coaches from Wikipedia 2026-27 Premier League managers table. Minutes from ESPN key events; xG not given in ESPN data. ",
+   "league": "Premier League",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+   "home_country": "GB",
+   "away_country": "GB"
+  }
+ ]
+}

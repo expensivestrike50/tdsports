@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "pablo-rosario",
+    "name": "Pablo Rosario",
+    "short": "Rosario",
+    "position": "DM",
+    "photo": "assets/photos/people/pablo-rosario.jpg",
+    "matches": [
+      {
+        "match": "porto-psv",
+        "date": "2026-10-20",
+        "team": "FC Porto",
+        "role": "starter"
+      }
+    ]
+  }
+}

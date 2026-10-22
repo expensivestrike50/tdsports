@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "pau-cubarsi-france-spain-2026-07-14",
+    "name": "Pau Cubarsí",
+    "short": "Cubarsí",
+    "position": "CB",
+    "photo": "assets/photos/people/pau-cubarsi.jpg",
+    "matches": [
+      {
+        "match": "france-spain-2026-07-14",
+        "date": "2026-07-14",
+        "team": "Spain",
+        "role": "starter"
+      }
+    ]
+  }
+}

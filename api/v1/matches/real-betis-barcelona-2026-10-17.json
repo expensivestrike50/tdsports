@@ -1,0 +1,958 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "real-betis-barcelona-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "18:30",
+    "competition": "LaLiga",
+    "round": "Matchday 9",
+    "status": "FT",
+    "home": {
+      "name": "Real Betis",
+      "id": "real-betis",
+      "crest": "assets/clubs/244.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Barcelona",
+      "id": "barcelona",
+      "crest": "assets/clubs/83.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 2,
+      "away": 5
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio La Cartuja",
+      "city": "Sevilla",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "manuel-pellegrini-real-betis-barcelona-2026-10-17",
+          "name": "Manuel Pellegrini",
+          "short": "Pellegrini",
+          "position": "Coach",
+          "photo": "assets/photos/people/manuel-pellegrini.jpg"
+        },
+        "starting": [
+          {
+            "id": "alvaro-valles-real-betis-barcelona-2026-10-17",
+            "name": "Álvaro Valles",
+            "short": "Á. Valles",
+            "position": "GK",
+            "photo": "assets/photos/people/alvaro-valles.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "hector-bellerin-real-betis-barcelona-2026-10-17",
+            "name": "Héctor Bellerín",
+            "short": "H. Bellerín",
+            "position": "RB",
+            "photo": "assets/photos/people/hector-bellerin.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "diego-llorente-real-betis-barcelona-2026-10-17",
+            "name": "Diego Llorente",
+            "short": "D. Llorente",
+            "position": "CB",
+            "photo": "assets/photos/people/diego-llorente.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 7
+          },
+          {
+            "id": "valentin-gomez-real-betis-barcelona-2026-10-17",
+            "name": "Valentín Gómez",
+            "short": "V. Gómez",
+            "position": "CB",
+            "photo": "assets/photos/people/valentin-gomez.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 7.9
+          },
+          {
+            "id": "fran-garcia-real-betis-barcelona-2026-10-17",
+            "name": "Fran García",
+            "short": "F. García",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "facundo-bernal-real-betis-barcelona-2026-10-17",
+            "name": "Facundo Bernal",
+            "short": "F. Bernal",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 5.3
+          },
+          {
+            "id": "dani-ceballos-real-betis-barcelona-2026-10-17",
+            "name": "Dani Ceballos",
+            "short": "D. Ceballos",
+            "position": "DM",
+            "photo": "assets/photos/people/dani-ceballos.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 6.7
+          },
+          {
+            "id": "giovani-lo-celso-real-betis-barcelona-2026-10-17",
+            "name": "Giovani Lo Celso",
+            "short": "G. Lo Celso",
+            "position": "RW",
+            "photo": "assets/photos/people/giovani-lo-celso.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 7.8
+          },
+          {
+            "id": "pablo-fornals-real-betis-barcelona-2026-10-17",
+            "name": "Pablo Fornals",
+            "short": "P. Fornals",
+            "position": "AM",
+            "photo": "assets/photos/people/pablo-fornals.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "abde-ezzalzouli-real-betis-barcelona-2026-10-17",
+            "name": "Abde Ezzalzouli",
+            "short": "A. Ezzalzouli",
+            "position": "LW",
+            "photo": "assets/photos/people/abde-ezzalzouli.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 7.2
+          },
+          {
+            "id": "cucho-hernandez",
+            "name": "Cucho Hernández",
+            "short": "C. Hernández",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "nelson-deossa-real-betis-barcelona-2026-10-17",
+            "name": "Nelson Deossa",
+            "short": "Deossa",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "troy-parrott-real-betis-barcelona-2026-10-17",
+            "name": "Troy Parrott",
+            "short": "Parrott",
+            "position": "ST",
+            "photo": "assets/photos/people/troy-parrott.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "rodrigo-riquelme-real-betis-barcelona-2026-10-17",
+            "name": "Rodrigo Riquelme",
+            "short": "Riquelme",
+            "position": "RW",
+            "photo": "assets/photos/people/rodrigo-riquelme.jpg",
+            "rating": 6.7
+          },
+          {
+            "id": "angel-ortiz-real-betis-barcelona-2026-10-17",
+            "name": "Ángel Ortiz",
+            "short": "Ortiz",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "alvaro-fidalgo-real-betis-barcelona-2026-10-17",
+            "name": "Álvaro Fidalgo",
+            "short": "Fidalgo",
+            "position": "AM",
+            "photo": "assets/photos/people/alvaro-fidalgo.jpg",
+            "rating": 7
+          },
+          {
+            "id": "marc-roca-real-betis-barcelona-2026-10-17",
+            "name": "Marc Roca",
+            "short": "Roca",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "diego-conde-real-betis-barcelona-2026-10-17",
+            "name": "Diego Conde",
+            "short": "Conde",
+            "position": "CM",
+            "photo": "assets/photos/people/diego-conde.jpg",
+            "rating": null
+          },
+          {
+            "id": "marc-bartra-real-betis-barcelona-2026-10-17",
+            "name": "Marc Bartra",
+            "short": "Bartra",
+            "position": "CM",
+            "photo": "assets/photos/people/marc-bartra.jpg",
+            "rating": null
+          },
+          {
+            "id": "jose-morante-real-betis-barcelona-2026-10-17",
+            "name": "José Morante",
+            "short": "Morante",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "antony-real-betis-barcelona-2026-10-17",
+            "name": "Antony",
+            "short": "Antony",
+            "position": "CM",
+            "photo": "assets/photos/people/antony.jpg",
+            "rating": null
+          },
+          {
+            "id": "isco-real-betis-barcelona-2026-10-17",
+            "name": "Isco",
+            "short": "Isco",
+            "position": "CM",
+            "photo": "assets/photos/people/isco.jpg",
+            "rating": null
+          },
+          {
+            "id": "natan-real-betis-barcelona-2026-10-17",
+            "name": "Natan",
+            "short": "Natan",
+            "position": "CM",
+            "photo": "assets/photos/people/natan.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "hansi-flick-real-betis-barcelona-2026-10-17",
+          "name": "Hansi Flick",
+          "short": "Flick",
+          "position": "Coach",
+          "photo": "assets/photos/people/hansi-flick.jpg"
+        },
+        "starting": [
+          {
+            "id": "joan-garcia-real-betis-barcelona-2026-10-17",
+            "name": "Joan García",
+            "short": "J. García",
+            "position": "GK",
+            "photo": "assets/photos/people/joan-garcia.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "jules-kounde",
+            "name": "Jules Koundé",
+            "short": "J. Koundé",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.9
+          },
+          {
+            "id": "pau-cubarsi-real-betis-barcelona-2026-10-17",
+            "name": "Pau Cubarsí",
+            "short": "P. Cubarsí",
+            "position": "CB",
+            "photo": "assets/photos/people/pau-cubarsi.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 8.5
+          },
+          {
+            "id": "gerard-martin-real-betis-barcelona-2026-10-17",
+            "name": "Gerard Martín",
+            "short": "G. Martín",
+            "position": "CB",
+            "photo": "assets/photos/people/gerard-martin.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 7
+          },
+          {
+            "id": "xavi-espart-real-betis-barcelona-2026-10-17",
+            "name": "Xavi Espart",
+            "short": "X. Espart",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "rodri-real-betis-barcelona-2026-10-17",
+            "name": "Rodri",
+            "short": "Rodri",
+            "position": "DM",
+            "photo": "assets/photos/people/rodri.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 7.6
+          },
+          {
+            "id": "pedri-real-betis-barcelona-2026-10-17",
+            "name": "Pedri",
+            "short": "Pedri",
+            "position": "DM",
+            "photo": "assets/photos/people/pedri.jpg",
+            "x": 73,
+            "y": 30,
+            "rating": 6.6
+          },
+          {
+            "id": "lamine-yamal-real-betis-barcelona-2026-10-17",
+            "name": "Lamine Yamal",
+            "short": "L. Yamal",
+            "position": "RW",
+            "photo": "assets/photos/people/lamine-yamal.jpg",
+            "x": 63,
+            "y": 77,
+            "rating": 8
+          },
+          {
+            "id": "fermin-lopez-real-betis-barcelona-2026-10-17",
+            "name": "Fermín López",
+            "short": "F. López",
+            "position": "AM",
+            "photo": "assets/photos/people/fermin-lopez.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "karim-adeyemi-real-betis-barcelona-2026-10-17",
+            "name": "Karim Adeyemi",
+            "short": "K. Adeyemi",
+            "position": "LW",
+            "photo": "assets/photos/people/karim-adeyemi.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 6.8
+          },
+          {
+            "id": "gabriel-jesus-real-betis-barcelona-2026-10-17",
+            "name": "Gabriel Jesus",
+            "short": "G. Jesus",
+            "position": "ST",
+            "photo": "assets/photos/people/gabriel-jesus.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 8.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "eric-garcia",
+            "name": "Eric García",
+            "short": "García",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.8
+          },
+          {
+            "id": "dani-olmo-real-betis-barcelona-2026-10-17",
+            "name": "Dani Olmo",
+            "short": "Olmo",
+            "position": "AM",
+            "photo": "assets/photos/people/dani-olmo.jpg",
+            "rating": 7.6
+          },
+          {
+            "id": "anthony-gordon-real-betis-barcelona-2026-10-17",
+            "name": "Anthony Gordon",
+            "short": "Gordon",
+            "position": "LW",
+            "photo": "assets/photos/people/anthony-gordon.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "raphinha-real-betis-barcelona-2026-10-17",
+            "name": "Raphinha",
+            "short": "Raphinha",
+            "position": "RW",
+            "photo": "assets/photos/people/raphinha.jpg",
+            "rating": 7.6
+          },
+          {
+            "id": "gavi-real-betis-barcelona-2026-10-17",
+            "name": "Gavi",
+            "short": "Gavi",
+            "position": "ST",
+            "photo": "assets/photos/people/gavi.jpg",
+            "rating": 7
+          },
+          {
+            "id": "marc-bernal-real-betis-barcelona-2026-10-17",
+            "name": "Marc Bernal",
+            "short": "Bernal",
+            "position": "CM",
+            "photo": "assets/photos/people/marc-bernal.jpg",
+            "rating": null
+          },
+          {
+            "id": "joao-cancelo-real-betis-barcelona-2026-10-17",
+            "name": "João Cancelo",
+            "short": "Cancelo",
+            "position": "CM",
+            "photo": "assets/photos/people/joao-cancelo.jpg",
+            "rating": null
+          },
+          {
+            "id": "frenkie-de-jong-real-betis-barcelona-2026-10-17",
+            "name": "Frenkie de Jong",
+            "short": "Jong",
+            "position": "CM",
+            "photo": "assets/photos/people/frenkie-de-jong.jpg",
+            "rating": null
+          },
+          {
+            "id": "wojciech-szczesny-real-betis-barcelona-2026-10-17",
+            "name": "Wojciech Szczesny",
+            "short": "Szczesny",
+            "position": "CM",
+            "photo": "assets/photos/people/wojciech-szczesny.jpg",
+            "rating": null
+          },
+          {
+            "id": "alejandro-balde-real-betis-barcelona-2026-10-17",
+            "name": "Alejandro Balde",
+            "short": "Balde",
+            "position": "CM",
+            "photo": "assets/photos/people/alejandro-balde.jpg",
+            "rating": null
+          },
+          {
+            "id": "dominik-livakovic-real-betis-barcelona-2026-10-17",
+            "name": "Dominik Livakovic",
+            "short": "Livakovic",
+            "position": "CM",
+            "photo": "assets/photos/people/dominik-livakovic.jpg",
+            "rating": null
+          },
+          {
+            "id": "brian-farinas-real-betis-barcelona-2026-10-17",
+            "name": "Brian Fariñas",
+            "short": "Fariñas",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 10,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "lamine-yamal-real-betis-barcelona-2026-10-17",
+          "name": "Lamine Yamal",
+          "short": "L. Yamal",
+          "position": "RW",
+          "photo": "assets/photos/people/lamine-yamal.jpg"
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "jules-kounde",
+          "name": "Jules Koundé",
+          "short": "J. Koundé",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Lamine Yamal left footed shot from outside the box to the top left corner. Assist: Jules Koundé."
+      },
+      {
+        "minute": 20,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "fermin-lopez-real-betis-barcelona-2026-10-17",
+          "name": "Fermín López",
+          "short": "F. López",
+          "position": "AM",
+          "photo": "assets/photos/people/fermin-lopez.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 22,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "hector-bellerin-real-betis-barcelona-2026-10-17",
+          "name": "Héctor Bellerín",
+          "short": "H. Bellerín",
+          "position": "RB",
+          "photo": "assets/photos/people/hector-bellerin.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 27,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "valentin-gomez-real-betis-barcelona-2026-10-17",
+          "name": "Valentín Gómez",
+          "short": "V. Gómez",
+          "position": "CB",
+          "photo": "assets/photos/people/valentin-gomez.jpg"
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "pablo-fornals-real-betis-barcelona-2026-10-17",
+          "name": "Pablo Fornals",
+          "short": "P. Fornals",
+          "position": "AM",
+          "photo": "assets/photos/people/pablo-fornals.jpg"
+        },
+        "goalType": "set",
+        "description": "Valentín Gómez header from very close range to the high centre of the goal. Assist: Pablo Fornals with a cross following a corner."
+      },
+      {
+        "minute": 41,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "rodri-real-betis-barcelona-2026-10-17",
+          "name": "Rodri",
+          "short": "Rodri",
+          "position": "DM",
+          "photo": "assets/photos/people/rodri.jpg"
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "fermin-lopez-real-betis-barcelona-2026-10-17",
+          "name": "Fermín López",
+          "short": "F. López",
+          "position": "AM",
+          "photo": "assets/photos/people/fermin-lopez.jpg"
+        },
+        "goalType": "set",
+        "description": "Rodri header from the centre of the box to the bottom right corner. Assist: Fermín López with a cross following a corner."
+      },
+      {
+        "minute": 43,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "giovani-lo-celso-real-betis-barcelona-2026-10-17",
+          "name": "Giovani Lo Celso",
+          "short": "G. Lo Celso",
+          "position": "RW",
+          "photo": "assets/photos/people/giovani-lo-celso.jpg"
+        },
+        "detail": "Goal ruled out after VAR review"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "eric-garcia",
+          "name": "Eric García",
+          "short": "García",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gerard-martin-real-betis-barcelona-2026-10-17",
+          "name": "Gerard Martín",
+          "short": "G. Martín",
+          "position": "CB",
+          "photo": "assets/photos/people/gerard-martin.jpg"
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nelson-deossa-real-betis-barcelona-2026-10-17",
+          "name": "Nelson Deossa",
+          "short": "Deossa",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "dani-ceballos-real-betis-barcelona-2026-10-17",
+          "name": "Dani Ceballos",
+          "short": "D. Ceballos",
+          "position": "DM",
+          "photo": "assets/photos/people/dani-ceballos.jpg"
+        }
+      },
+      {
+        "minute": 51,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "gabriel-jesus-real-betis-barcelona-2026-10-17",
+          "name": "Gabriel Jesus",
+          "short": "G. Jesus",
+          "position": "ST",
+          "photo": "assets/photos/people/gabriel-jesus.jpg"
+        },
+        "scoreAfter": "1 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "lamine-yamal-real-betis-barcelona-2026-10-17",
+          "name": "Lamine Yamal",
+          "short": "L. Yamal",
+          "position": "RW",
+          "photo": "assets/photos/people/lamine-yamal.jpg"
+        },
+        "goalType": "build",
+        "description": "Gabriel Jesus right footed shot from the centre of the box to the centre of the goal. Assist: Lamine Yamal."
+      },
+      {
+        "minute": 53,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "abde-ezzalzouli-real-betis-barcelona-2026-10-17",
+          "name": "Abde Ezzalzouli",
+          "short": "A. Ezzalzouli",
+          "position": "LW",
+          "photo": "assets/photos/people/abde-ezzalzouli.jpg"
+        },
+        "scoreAfter": "2 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "giovani-lo-celso-real-betis-barcelona-2026-10-17",
+          "name": "Giovani Lo Celso",
+          "short": "G. Lo Celso",
+          "position": "RW",
+          "photo": "assets/photos/people/giovani-lo-celso.jpg"
+        },
+        "goalType": "counter",
+        "description": "Abde Ezzalzouli right footed shot from outside the box to the bottom right corner. Assist: Giovani Lo Celso with a through ball following a fast break."
+      },
+      {
+        "minute": 53,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "facundo-bernal-real-betis-barcelona-2026-10-17",
+          "name": "Facundo Bernal",
+          "short": "F. Bernal",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 54,
+        "type": "red_card",
+        "team": "home",
+        "player": {
+          "id": "facundo-bernal-real-betis-barcelona-2026-10-17",
+          "name": "Facundo Bernal",
+          "short": "F. Bernal",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Violent conduct"
+      },
+      {
+        "minute": 55,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "lamine-yamal-real-betis-barcelona-2026-10-17",
+          "name": "Lamine Yamal",
+          "short": "L. Yamal",
+          "position": "RW",
+          "photo": "assets/photos/people/lamine-yamal.jpg"
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 61,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "diego-llorente-real-betis-barcelona-2026-10-17",
+          "name": "Diego Llorente",
+          "short": "D. Llorente",
+          "position": "CB",
+          "photo": "assets/photos/people/diego-llorente.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 62,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "eric-garcia",
+          "name": "Eric García",
+          "short": "García",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 4",
+        "penalty": false,
+        "assist": {
+          "id": "pau-cubarsi-real-betis-barcelona-2026-10-17",
+          "name": "Pau Cubarsí",
+          "short": "P. Cubarsí",
+          "position": "CB",
+          "photo": "assets/photos/people/pau-cubarsi.jpg"
+        },
+        "goalType": "set",
+        "description": "Eric García right footed shot from very close range to the centre of the goal. Assist: Pau Cubarsí with a headed pass following a set piece situation."
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "dani-olmo-real-betis-barcelona-2026-10-17",
+          "name": "Dani Olmo",
+          "short": "Olmo",
+          "position": "AM",
+          "photo": "assets/photos/people/dani-olmo.jpg"
+        },
+        "replaced": {
+          "id": "fermin-lopez-real-betis-barcelona-2026-10-17",
+          "name": "Fermín López",
+          "short": "F. López",
+          "position": "AM",
+          "photo": "assets/photos/people/fermin-lopez.jpg"
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "anthony-gordon-real-betis-barcelona-2026-10-17",
+          "name": "Anthony Gordon",
+          "short": "Gordon",
+          "position": "LW",
+          "photo": "assets/photos/people/anthony-gordon.jpg"
+        },
+        "replaced": {
+          "id": "karim-adeyemi-real-betis-barcelona-2026-10-17",
+          "name": "Karim Adeyemi",
+          "short": "K. Adeyemi",
+          "position": "LW",
+          "photo": "assets/photos/people/karim-adeyemi.jpg"
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "troy-parrott-real-betis-barcelona-2026-10-17",
+          "name": "Troy Parrott",
+          "short": "Parrott",
+          "position": "ST",
+          "photo": "assets/photos/people/troy-parrott.jpg"
+        },
+        "replaced": {
+          "id": "cucho-hernandez",
+          "name": "Cucho Hernández",
+          "short": "C. Hernández",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "rodrigo-riquelme-real-betis-barcelona-2026-10-17",
+          "name": "Rodrigo Riquelme",
+          "short": "Riquelme",
+          "position": "RW",
+          "photo": "assets/photos/people/rodrigo-riquelme.jpg"
+        },
+        "replaced": {
+          "id": "giovani-lo-celso-real-betis-barcelona-2026-10-17",
+          "name": "Giovani Lo Celso",
+          "short": "G. Lo Celso",
+          "position": "RW",
+          "photo": "assets/photos/people/giovani-lo-celso.jpg"
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "raphinha-real-betis-barcelona-2026-10-17",
+          "name": "Raphinha",
+          "short": "Raphinha",
+          "position": "RW",
+          "photo": "assets/photos/people/raphinha.jpg"
+        },
+        "replaced": {
+          "id": "lamine-yamal-real-betis-barcelona-2026-10-17",
+          "name": "Lamine Yamal",
+          "short": "L. Yamal",
+          "position": "RW",
+          "photo": "assets/photos/people/lamine-yamal.jpg"
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "angel-ortiz-real-betis-barcelona-2026-10-17",
+          "name": "Ángel Ortiz",
+          "short": "Ortiz",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "hector-bellerin-real-betis-barcelona-2026-10-17",
+          "name": "Héctor Bellerín",
+          "short": "H. Bellerín",
+          "position": "RB",
+          "photo": "assets/photos/people/hector-bellerin.jpg"
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "alvaro-fidalgo-real-betis-barcelona-2026-10-17",
+          "name": "Álvaro Fidalgo",
+          "short": "Fidalgo",
+          "position": "AM",
+          "photo": "assets/photos/people/alvaro-fidalgo.jpg"
+        },
+        "replaced": {
+          "id": "pablo-fornals-real-betis-barcelona-2026-10-17",
+          "name": "Pablo Fornals",
+          "short": "P. Fornals",
+          "position": "AM",
+          "photo": "assets/photos/people/pablo-fornals.jpg"
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gavi-real-betis-barcelona-2026-10-17",
+          "name": "Gavi",
+          "short": "Gavi",
+          "position": "ST",
+          "photo": "assets/photos/people/gavi.jpg"
+        },
+        "replaced": {
+          "id": "gabriel-jesus-real-betis-barcelona-2026-10-17",
+          "name": "Gabriel Jesus",
+          "short": "G. Jesus",
+          "position": "ST",
+          "photo": "assets/photos/people/gabriel-jesus.jpg"
+        }
+      },
+      {
+        "minute": 81,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "dani-olmo-real-betis-barcelona-2026-10-17",
+          "name": "Dani Olmo",
+          "short": "Olmo",
+          "position": "AM",
+          "photo": "assets/photos/people/dani-olmo.jpg"
+        },
+        "scoreAfter": "2 - 5",
+        "penalty": false,
+        "assist": {
+          "id": "pau-cubarsi-real-betis-barcelona-2026-10-17",
+          "name": "Pau Cubarsí",
+          "short": "P. Cubarsí",
+          "position": "CB",
+          "photo": "assets/photos/people/pau-cubarsi.jpg"
+        },
+        "goalType": "build",
+        "description": "Dani Olmo right footed shot from outside the box to the bottom right corner. Assist: Pau Cubarsí."
+      }
+    ],
+    "stats": {
+      "shots": [
+        6,
+        18
+      ],
+      "onTarget": [
+        5,
+        10
+      ],
+      "corners": [
+        2,
+        5
+      ],
+      "fouls": [
+        10,
+        11
+      ],
+      "possession": 31
+    },
+    "attendance": 66924,
+    "referee": {
+      "name": "Ricardo de Burgos Bengoetxea",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882846",
+      "https://www.espn.com/soccer/match/_/gameId/401882846",
+      "https://okdiario.com/deportes/arbitro-burgos-bengoetxea-pitara-betis-barcelona-del-cerro-grande-var-20567291",
+      "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/10/20/es-lo-que-me-piden-audio-del-var-revela-que-arbitro-reviso-gol-de-betis-por-presion-de-barcelona.shtml",
+      "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

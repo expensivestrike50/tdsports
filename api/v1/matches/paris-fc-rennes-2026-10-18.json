@@ -1,0 +1,905 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "paris-fc-rennes-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "17:15",
+    "competition": "Ligue 1",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Paris FC",
+      "id": "paris-fc",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Rennes",
+      "id": "rennes",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+      "country": "FR"
+    },
+    "score": {
+      "home": 4,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stade Jean Bouin",
+      "city": "Paris",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "liam-rosenior",
+          "name": "Liam Rosenior",
+          "short": "Rosenior",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "kevin-trapp",
+            "name": "Kevin Trapp",
+            "short": "Trapp",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "hamari-traore",
+            "name": "Hamari Traoré",
+            "short": "Traoré",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.7
+          },
+          {
+            "id": "diego-coppola",
+            "name": "Diego Coppola",
+            "short": "Coppola",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.8
+          },
+          {
+            "id": "samir-chergui",
+            "name": "Samir Chergui",
+            "short": "Chergui",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.1
+          },
+          {
+            "id": "adama-camara",
+            "name": "Adama Camara",
+            "short": "Camara",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "pierre-lees-melou",
+            "name": "Pierre Lees-Melou",
+            "short": "Lees-Melou",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.6
+          },
+          {
+            "id": "maxime-lopez",
+            "name": "Maxime López",
+            "short": "López",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 8.3
+          },
+          {
+            "id": "luca-koleosho",
+            "name": "Luca Koleosho",
+            "short": "Koleosho",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.6
+          },
+          {
+            "id": "pablo-pagis",
+            "name": "Pablo Pagis",
+            "short": "Pagis",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "ilan-kebbal",
+            "name": "Ilan Kebbal",
+            "short": "Kebbal",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 6.6
+          },
+          {
+            "id": "lassine-sinayoko",
+            "name": "Lassine Sinayoko",
+            "short": "Sinayoko",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 9.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "rudy-matondo",
+            "name": "Rudy Matondo",
+            "short": "Matondo",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "otavio",
+            "name": "Otavio",
+            "short": "Otavio",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "moses-simon",
+            "name": "Moses Simon",
+            "short": "Simon",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "moustapha-mbow",
+            "name": "Moustapha Mbow",
+            "short": "Mbow",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "emmanuel-mbemba",
+            "name": "Emmanuel Mbemba",
+            "short": "Mbemba",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "jean-phillipe-krasso",
+            "name": "Jean-Phillipe Krasso",
+            "short": "Krasso",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "zabi-gueu",
+            "name": "Zabi Gueu",
+            "short": "Gueu",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "omar-sissoko",
+            "name": "Omar Sissoko",
+            "short": "Sissoko",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "obed-nkambadio",
+            "name": "Obed Nkambadio",
+            "short": "Nkambadio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "franck-haise-paris-fc-rennes-2026-10-18",
+          "name": "Franck Haise",
+          "short": "Haise",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "brice-samba-paris-fc-rennes-2026-10-18",
+            "name": "Brice Samba",
+            "short": "Samba",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "przemyslaw-frankowski-paris-fc-rennes-2026-10-18",
+            "name": "Przemyslaw Frankowski",
+            "short": "Frankowski",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "anthony-rouault-paris-fc-rennes-2026-10-18",
+            "name": "Anthony Rouault",
+            "short": "Rouault",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.6
+          },
+          {
+            "id": "charlie-cresswell-paris-fc-rennes-2026-10-18",
+            "name": "Charlie Cresswell",
+            "short": "Cresswell",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.9
+          },
+          {
+            "id": "bryan-reynolds-paris-fc-rennes-2026-10-18",
+            "name": "Bryan Reynolds",
+            "short": "Reynolds",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "adrien-thomasson-paris-fc-rennes-2026-10-18",
+            "name": "Adrien Thomasson",
+            "short": "Thomasson",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 7.4
+          },
+          {
+            "id": "djaoui-cisse-paris-fc-rennes-2026-10-18",
+            "name": "Djaoui Cissé",
+            "short": "Cissé",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "sebastian-szymanski-paris-fc-rennes-2026-10-18",
+            "name": "Sebastian Szymanski",
+            "short": "Szymanski",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 22,
+            "rating": 6.2
+          },
+          {
+            "id": "issa-soumare-paris-fc-rennes-2026-10-18",
+            "name": "Issa Soumaré",
+            "short": "Soumaré",
+            "position": "LW",
+            "photo": null,
+            "x": 54,
+            "y": 77,
+            "rating": 6.9
+          },
+          {
+            "id": "esteban-lepaul-paris-fc-rennes-2026-10-18",
+            "name": "Esteban Lepaul",
+            "short": "Lepaul",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 9.6
+          },
+          {
+            "id": "ludovic-blas-paris-fc-rennes-2026-10-18",
+            "name": "Ludovic Blas",
+            "short": "Blas",
+            "position": "RW",
+            "photo": null,
+            "x": 54,
+            "y": 22,
+            "rating": 7.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "valentin-rongier-paris-fc-rennes-2026-10-18",
+            "name": "Valentin Rongier",
+            "short": "Rongier",
+            "position": "CM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "mousa-al-tamari-paris-fc-rennes-2026-10-18",
+            "name": "Mousa Al-Tamari",
+            "short": "Al-Tamari",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "mahamadou-nagida-paris-fc-rennes-2026-10-18",
+            "name": "Mahamadou Nagida",
+            "short": "Nagida",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "adama-camara",
+            "name": "Adama Camara",
+            "short": "Camara",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "boulaye-dia-paris-fc-rennes-2026-10-18",
+            "name": "Boulaye Dia",
+            "short": "Dia",
+            "position": "LW",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "abdelhamid-ait-boudlal-paris-fc-rennes-2026-10-18",
+            "name": "Abdelhamid Aït Boudlal",
+            "short": "Boudlal",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kilian-belazzoug-paris-fc-rennes-2026-10-18",
+            "name": "Kilian Belazzoug",
+            "short": "Belazzoug",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "eliezer-mayenda-paris-fc-rennes-2026-10-18",
+            "name": "Eliezer Mayenda",
+            "short": "Mayenda",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "arnaud-nordin-paris-fc-rennes-2026-10-18",
+            "name": "Arnaud Nordin",
+            "short": "Nordin",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 14,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "maxime-lopez",
+          "name": "Maxime López",
+          "short": "López",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "lassine-sinayoko",
+          "name": "Lassine Sinayoko",
+          "short": "Sinayoko",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Maxime López opened the scoring with a right-footed shot from the centre of the box after a pass from Lassine Sinayoko."
+      },
+      {
+        "minute": 23,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "przemyslaw-frankowski-paris-fc-rennes-2026-10-18",
+          "name": "Przemyslaw Frankowski",
+          "short": "Frankowski",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Handball"
+      },
+      {
+        "minute": 29,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "esteban-lepaul-paris-fc-rennes-2026-10-18",
+          "name": "Esteban Lepaul",
+          "short": "Lepaul",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Estéban Lepaul was fouled in the box by Pierre Lees-Melou and converted the penalty himself into the bottom left corner."
+      },
+      {
+        "minute": 32,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "djaoui-cisse-paris-fc-rennes-2026-10-18",
+          "name": "Djaoui Cissé",
+          "short": "Cissé",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 36,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "adrien-thomasson-paris-fc-rennes-2026-10-18",
+          "name": "Adrien Thomasson",
+          "short": "Thomasson",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 36,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "anthony-rouault-paris-fc-rennes-2026-10-18",
+          "name": "Anthony Rouault",
+          "short": "Rouault",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 42,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "samir-chergui",
+          "name": "Samir Chergui",
+          "short": "Chergui",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 45,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "maxime-lopez",
+          "name": "Maxime López",
+          "short": "López",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "lassine-sinayoko",
+          "name": "Lassine Sinayoko",
+          "short": "Sinayoko",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Deep in first-half stoppage time, Lassine Sinayoko set up Maxime López, who scored his second from very close range."
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "valentin-rongier-paris-fc-rennes-2026-10-18",
+          "name": "Valentin Rongier",
+          "short": "Rongier",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adrien-thomasson-paris-fc-rennes-2026-10-18",
+          "name": "Adrien Thomasson",
+          "short": "Thomasson",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mousa-al-tamari-paris-fc-rennes-2026-10-18",
+          "name": "Mousa Al-Tamari",
+          "short": "Al-Tamari",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ludovic-blas-paris-fc-rennes-2026-10-18",
+          "name": "Ludovic Blas",
+          "short": "Blas",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mahamadou-nagida-paris-fc-rennes-2026-10-18",
+          "name": "Mahamadou Nagida",
+          "short": "Nagida",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "przemyslaw-frankowski-paris-fc-rennes-2026-10-18",
+          "name": "Przemyslaw Frankowski",
+          "short": "Frankowski",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 51,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "sebastian-szymanski-paris-fc-rennes-2026-10-18",
+          "name": "Sebastian Szymanski",
+          "short": "Szymanski",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Goal ruled out after VAR review (score stayed 2-1)."
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "adama-camara",
+          "name": "Adama Camara",
+          "short": "Camara",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "djaoui-cisse-paris-fc-rennes-2026-10-18",
+          "name": "Djaoui Cissé",
+          "short": "Cissé",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "ilan-kebbal",
+          "name": "Ilan Kebbal",
+          "short": "Kebbal",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "rudy-matondo",
+          "name": "Rudy Matondo",
+          "short": "Matondo",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pablo-pagis",
+          "name": "Pablo Pagis",
+          "short": "Pagis",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "esteban-lepaul-paris-fc-rennes-2026-10-18",
+          "name": "Esteban Lepaul",
+          "short": "Lepaul",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 2",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "After Samir Chergui fouled Mousa Al-Tamari in the box, Estéban Lepaul again converted from the spot into the bottom left corner."
+      },
+      {
+        "minute": 76,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "lassine-sinayoko",
+          "name": "Lassine Sinayoko",
+          "short": "Sinayoko",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "3 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Lassine Sinayoko restored Paris FC's lead with a left-footed shot from the centre of the box into the bottom right corner."
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "otavio",
+          "name": "Otavio",
+          "short": "Otavio",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "hamari-traore",
+          "name": "Hamari Traoré",
+          "short": "Traoré",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "boulaye-dia-paris-fc-rennes-2026-10-18",
+          "name": "Boulaye Dia",
+          "short": "Dia",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "issa-soumare-paris-fc-rennes-2026-10-18",
+          "name": "Issa Soumaré",
+          "short": "Soumaré",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "moses-simon",
+          "name": "Moses Simon",
+          "short": "Simon",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ilan-kebbal",
+          "name": "Ilan Kebbal",
+          "short": "Kebbal",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "moustapha-mbow",
+          "name": "Moustapha Mbow",
+          "short": "Mbow",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "luca-koleosho",
+          "name": "Luca Koleosho",
+          "short": "Koleosho",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "emmanuel-mbemba",
+          "name": "Emmanuel Mbemba",
+          "short": "Mbemba",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "samir-chergui",
+          "name": "Samir Chergui",
+          "short": "Chergui",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 88,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "esteban-lepaul-paris-fc-rennes-2026-10-18",
+          "name": "Esteban Lepaul",
+          "short": "Lepaul",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "3 - 3",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Following a handball by Otávio in the area, Estéban Lepaul completed his hat-trick of penalties, this time into the bottom right corner."
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "lassine-sinayoko",
+          "name": "Lassine Sinayoko",
+          "short": "Sinayoko",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "4 - 3",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "After a VAR review awarded a penalty for a foul on Lassine Sinayoko, he converted it right-footed in the 97th minute to win the game."
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "hamari-traore",
+          "name": "Hamari Traoré",
+          "short": "Traoré",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 90,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "lassine-sinayoko",
+          "name": "Lassine Sinayoko",
+          "short": "Sinayoko",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Penalty awarded to Paris FC after VAR review for a foul on Sinayoko; he converted it at 90+7."
+      }
+    ],
+    "stats": {
+      "shots": [
+        19,
+        12
+      ],
+      "onTarget": [
+        9,
+        7
+      ],
+      "corners": [
+        3,
+        4
+      ],
+      "fouls": [
+        13,
+        16
+      ],
+      "possession": 53
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Bastien Dechepy",
+      "country": "France"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876433",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876433",
+      "https://ligue1.com/fr/articles/l1_article_5927-",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

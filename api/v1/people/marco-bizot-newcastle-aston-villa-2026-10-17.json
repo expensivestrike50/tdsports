@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "marco-bizot-newcastle-aston-villa-2026-10-17",
+    "name": "Marco Bizot",
+    "short": "Bizot",
+    "position": "CM",
+    "photo": "assets/photos/people/marco-bizot.jpg",
+    "matches": [
+      {
+        "match": "newcastle-aston-villa-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Aston Villa",
+        "role": "bench"
+      }
+    ]
+  }
+}

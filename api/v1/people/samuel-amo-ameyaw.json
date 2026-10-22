@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "samuel-amo-ameyaw",
+    "name": "Samuel Amo-Ameyaw",
+    "short": "Amo-Ameyaw",
+    "position": "LW",
+    "photo": null,
+    "matches": [
+      {
+        "match": "strasbourg-psg-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Strasbourg",
+        "role": "bench"
+      }
+    ]
+  }
+}

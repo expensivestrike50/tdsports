@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "iliman-ndiaye-man-city-ipswich-2026-10-17",
+    "name": "Iliman Ndiaye",
+    "short": "Ndiaye",
+    "position": "RW",
+    "photo": "assets/photos/people/iliman-ndiaye.jpg",
+    "matches": [
+      {
+        "match": "man-city-ipswich-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Man City",
+        "role": "starter"
+      }
+    ]
+  }
+}

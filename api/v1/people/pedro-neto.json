@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "pedro-neto",
+    "name": "Pedro Neto",
+    "short": "Neto",
+    "position": "RW",
+    "photo": null,
+    "matches": [
+      {
+        "match": "everton-chelsea-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Chelsea",
+        "role": "starter"
+      }
+    ]
+  }
+}

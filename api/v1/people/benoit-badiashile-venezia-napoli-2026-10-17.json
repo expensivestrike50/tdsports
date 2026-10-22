@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "benoit-badiashile-venezia-napoli-2026-10-17",
+    "name": "Benoît Badiashile",
+    "short": "Badiashile",
+    "position": "CB",
+    "photo": "assets/photos/people/benoit-badiashile.jpg",
+    "matches": [
+      {
+        "match": "venezia-napoli-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Napoli",
+        "role": "starter"
+      }
+    ]
+  }
+}

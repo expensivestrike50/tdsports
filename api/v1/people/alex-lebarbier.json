@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "alex-lebarbier",
+    "name": "Alex Lebarbier",
+    "short": "Lebarbier",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "malaga-real-sociedad-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Real Sociedad",
+        "role": "bench"
+      }
+    ]
+  }
+}

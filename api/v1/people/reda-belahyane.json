@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "reda-belahyane",
+    "name": "Reda Belahyane",
+    "short": "Belahyane",
+    "position": "DM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "juventus-lazio-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Lazio",
+        "role": "starter"
+      }
+    ]
+  }
+}

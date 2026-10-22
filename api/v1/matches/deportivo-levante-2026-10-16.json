@@ -1,0 +1,771 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "deportivo-levante-2026-10-16",
+    "date": "2026-10-16",
+    "kickoff": "21:00",
+    "competition": "LaLiga",
+    "round": "Matchday 9",
+    "status": "FT",
+    "home": {
+      "name": "Deportivo",
+      "id": "deportivo",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Levante",
+      "id": "levante",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Riazor",
+      "city": "A Coruña",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "antonio-hidalgo",
+          "name": "Antonio Hidalgo",
+          "short": "Hidalgo",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "leo-roman",
+            "name": "Leo Román",
+            "short": "L. Román",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "ximo-navarro",
+            "name": "Ximo Navarro",
+            "short": "X. Navarro",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "jose-maria-gimenez",
+            "name": "José María Giménez",
+            "short": "J. Giménez",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.1
+          },
+          {
+            "id": "bright-ede",
+            "name": "Bright Ede",
+            "short": "B. Ede",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.4
+          },
+          {
+            "id": "giacomo-quagliata",
+            "name": "Giacomo Quagliata",
+            "short": "G. Quagliata",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "luismi-cruz",
+            "name": "Luismi Cruz",
+            "short": "L. Cruz",
+            "position": "RW",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "mario-soriano-carreno",
+            "name": "Mario Soriano Carreno",
+            "short": "M. Soriano Carreno",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 7.1
+          },
+          {
+            "id": "diego-villares",
+            "name": "Diego Villares",
+            "short": "D. Villares",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 6.7
+          },
+          {
+            "id": "riki-rodriguez",
+            "name": "Riki Rodríguez",
+            "short": "R. Rodríguez",
+            "position": "LW",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "yeremay-hernandez",
+            "name": "Yeremay Hernández",
+            "short": "Y. Hernández",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 6.2
+          },
+          {
+            "id": "bil-nsongo",
+            "name": "Bil Nsongo",
+            "short": "B. Nsongo",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 7.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "adria-altimira",
+            "name": "Adrià Altimira",
+            "short": "Altimira",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "adama-traore",
+            "name": "Adama Traoré",
+            "short": "Traoré",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "jonathan-asp-jensen",
+            "name": "Jonathan Asp Jensen",
+            "short": "Jensen",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "angelino",
+            "name": "Angeliño",
+            "short": "Angeliño",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "miguel-loureiro",
+            "name": "Miguel Loureiro",
+            "short": "Loureiro",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "alvaro-fernandez",
+            "name": "Álvaro Fernández",
+            "short": "Fernández",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "yayo",
+            "name": "Yayo",
+            "short": "Yayo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "david-mella",
+            "name": "David Mella",
+            "short": "Mella",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lucas-noubi",
+            "name": "Lucas Noubi",
+            "short": "Noubi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kevin-sanchez",
+            "name": "Kevin Sánchez",
+            "short": "Sánchez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "martin-ochoa",
+            "name": "Martín Ochoa",
+            "short": "Ochoa",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "noe-carrillo",
+            "name": "Noé Carrillo",
+            "short": "Carrillo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "luis-castro",
+          "name": "Luís Castro",
+          "short": "Castro",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "mathew-ryan",
+            "name": "Mathew Ryan",
+            "short": "M. Ryan",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "nacho-perez",
+            "name": "Nacho Pérez",
+            "short": "N. Pérez",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.2
+          },
+          {
+            "id": "adrian-de-la-fuente",
+            "name": "Adrián de la Fuente",
+            "short": "A. de la Fuente",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7
+          },
+          {
+            "id": "ifeanyi-ndukwe",
+            "name": "Ifeanyi Ndukwe",
+            "short": "I. Ndukwe",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.8
+          },
+          {
+            "id": "manu-sanchez",
+            "name": "Manu Sánchez",
+            "short": "M. Sánchez",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "orio-rey",
+            "name": "Orio Rey",
+            "short": "O. Rey",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 6.7
+          },
+          {
+            "id": "enzo-bardeli",
+            "name": "Enzo Bardeli",
+            "short": "E. Bardeli",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "dani-requena",
+            "name": "Dani Requena",
+            "short": "D. Requena",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 22,
+            "rating": 7.7
+          },
+          {
+            "id": "roger-brugue",
+            "name": "Roger Brugué",
+            "short": "R. Brugué",
+            "position": "RW",
+            "photo": null,
+            "x": 54,
+            "y": 77,
+            "rating": 6.2
+          },
+          {
+            "id": "ivan-romero",
+            "name": "Iván Romero",
+            "short": "I. Romero",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "thiago-fernandez",
+            "name": "Thiago Fernandez",
+            "short": "T. Fernandez",
+            "position": "LW",
+            "photo": null,
+            "x": 54,
+            "y": 22,
+            "rating": 6.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "petar-ratkov",
+            "name": "Petar Ratkov",
+            "short": "Ratkov",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "jon-ander-olasagasti",
+            "name": "Jon Ander Olasagasti",
+            "short": "Olasagasti",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "jeremy-toljan",
+            "name": "Jeremy Toljan",
+            "short": "Toljan",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "victor-garcia",
+            "name": "Víctor García",
+            "short": "García",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "yanis-kasonga-musuayi",
+            "name": "Yanis Kasonga Musuayi",
+            "short": "Musuayi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aissa-mandi",
+            "name": "Aïssa Mandi",
+            "short": "Mandi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ihor-galdin",
+            "name": "Ihor Galdin",
+            "short": "Galdin",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "axel-tape",
+            "name": "Axel Tape",
+            "short": "Tape",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jorge-cabello",
+            "name": "Jorge Cabello",
+            "short": "Cabello",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "paco-cortes",
+            "name": "Paco Cortés",
+            "short": "Cortés",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "pablo-cunat",
+            "name": "Pablo Cuñat",
+            "short": "Cuñat",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 33,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "ivan-romero",
+          "name": "Iván Romero",
+          "short": "I. Romero",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Handball"
+      },
+      {
+        "minute": 42,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "luismi-cruz",
+          "name": "Luismi Cruz",
+          "short": "L. Cruz",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "adria-altimira",
+          "name": "Adrià Altimira",
+          "short": "Altimira",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ximo-navarro",
+          "name": "Ximo Navarro",
+          "short": "X. Navarro",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "adama-traore",
+          "name": "Adama Traoré",
+          "short": "Traoré",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "luismi-cruz",
+          "name": "Luismi Cruz",
+          "short": "L. Cruz",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "bil-nsongo",
+          "name": "Bil Nsongo",
+          "short": "B. Nsongo",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Bil Nsongo right footed shot from the centre of the box to the bottom left corner."
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "petar-ratkov",
+          "name": "Petar Ratkov",
+          "short": "Ratkov",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "orio-rey",
+          "name": "Orio Rey",
+          "short": "O. Rey",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jon-ander-olasagasti",
+          "name": "Jon Ander Olasagasti",
+          "short": "Olasagasti",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "enzo-bardeli",
+          "name": "Enzo Bardeli",
+          "short": "E. Bardeli",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jeremy-toljan",
+          "name": "Jeremy Toljan",
+          "short": "Toljan",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nacho-perez",
+          "name": "Nacho Pérez",
+          "short": "N. Pérez",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jonathan-asp-jensen",
+          "name": "Jonathan Asp Jensen",
+          "short": "Jensen",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "yeremay-hernandez",
+          "name": "Yeremay Hernández",
+          "short": "Y. Hernández",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "angelino",
+          "name": "Angeliño",
+          "short": "Angeliño",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "riki-rodriguez",
+          "name": "Riki Rodríguez",
+          "short": "R. Rodríguez",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "dani-requena",
+          "name": "Dani Requena",
+          "short": "D. Requena",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "petar-ratkov",
+          "name": "Petar Ratkov",
+          "short": "Ratkov",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Dani Requena left footed shot from the left side of the box to the bottom left corner. Assist: Petar Ratkov."
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "miguel-loureiro",
+          "name": "Miguel Loureiro",
+          "short": "Loureiro",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bright-ede",
+          "name": "Bright Ede",
+          "short": "B. Ede",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "adrian-de-la-fuente",
+          "name": "Adrián de la Fuente",
+          "short": "A. de la Fuente",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "victor-garcia",
+          "name": "Víctor García",
+          "short": "García",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "thiago-fernandez",
+          "name": "Thiago Fernandez",
+          "short": "T. Fernandez",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "adria-altimira",
+          "name": "Adrià Altimira",
+          "short": "Altimira",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        13,
+        11
+      ],
+      "onTarget": [
+        5,
+        4
+      ],
+      "corners": [
+        3,
+        5
+      ],
+      "fouls": [
+        17,
+        12
+      ],
+      "possession": 46
+    },
+    "attendance": 28437,
+    "referee": {
+      "name": "Manuel Jesús Orellana Cid",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882844",
+      "https://www.espn.com/soccer/match/_/gameId/401882844",
+      "https://www.riazor.org/orellana-cid-subidon-andorra-deportivo-levante/",
+      "https://www.infobae.com/espana/agencias/2026/10/16/1-1-empate-en-riazor-que-no-satisface-a-ninguno/",
+      "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

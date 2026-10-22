@@ -1,0 +1,820 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "espanyol-atletico-madrid-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "14:00",
+    "competition": "LaLiga",
+    "round": "Matchday 9",
+    "status": "FT",
+    "home": {
+      "name": "Espanyol",
+      "id": "espanyol",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Atlético Madrid",
+      "id": "atletico-madrid",
+      "crest": "assets/clubs/1068.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "RCDE Stadium",
+      "city": "Barcelona",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "5-4-1",
+        "coach": {
+          "id": "manolo-gonzalez",
+          "name": "Manolo González",
+          "short": "González",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "angel-fortuno",
+            "name": "Ángel Fortuño",
+            "short": "Á. Fortuño",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "omar-el-hilali",
+            "name": "Omar El Hilali",
+            "short": "O. El Hilali",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 8,
+            "rating": 6.9
+          },
+          {
+            "id": "vanja-drkusic",
+            "name": "Vanja Drkusic",
+            "short": "V. Drkusic",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 29,
+            "rating": 6.2
+          },
+          {
+            "id": "clemens-riedel",
+            "name": "Clemens Riedel",
+            "short": "C. Riedel",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "leandro-cabrera",
+            "name": "Leandro Cabrera",
+            "short": "L. Cabrera",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 71,
+            "rating": 6.7
+          },
+          {
+            "id": "roger-hinojo",
+            "name": "Roger Hinojo",
+            "short": "R. Hinojo",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 92,
+            "rating": 7.3
+          },
+          {
+            "id": "javi-hernandez",
+            "name": "Javi Hernandez",
+            "short": "J. Hernandez",
+            "position": "RW",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "edu-exposito",
+            "name": "Edu Expósito",
+            "short": "E. Expósito",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 7.3
+          },
+          {
+            "id": "pol-lozano",
+            "name": "Pol Lozano",
+            "short": "P. Lozano",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 7.2
+          },
+          {
+            "id": "bryan-zaragoza",
+            "name": "Bryan Zaragoza",
+            "short": "B. Zaragoza",
+            "position": "LW",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "roberto-fernandez",
+            "name": "Roberto Fernández",
+            "short": "R. Fernández",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "unai-nunez",
+            "name": "Unai Núñez",
+            "short": "Núñez",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "cala",
+            "name": "Cala",
+            "short": "Cala",
+            "position": "CM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "gabriel-moscardo",
+            "name": "Gabriel Moscardo",
+            "short": "Moscardo",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "javier-puado",
+            "name": "Javier Puado",
+            "short": "Puado",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "marcos-fernandez",
+            "name": "Marcos Fernández",
+            "short": "Fernández",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "pere-milla",
+            "name": "Pere Milla",
+            "short": "Milla",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "urko-gonzalez",
+            "name": "Urko Gonzalez",
+            "short": "Gonzalez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marko-dmitrovic",
+            "name": "Marko Dmitrovic",
+            "short": "Dmitrovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rafael-bauza",
+            "name": "Rafael Bauza",
+            "short": "Bauza",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "andoni-gorosabel",
+            "name": "Andoni Gorosabel",
+            "short": "Gorosabel",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "quilindschy-hartman",
+            "name": "Quilindschy Hartman",
+            "short": "Hartman",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tyrhys-dolan",
+            "name": "Tyrhys Dolan",
+            "short": "Dolan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "diego-simeone-espanyol-atletico-madrid-2026-10-17",
+          "name": "Diego Simeone",
+          "short": "Simeone",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "jan-oblak-espanyol-atletico-madrid-2026-10-17",
+            "name": "Jan Oblak",
+            "short": "J. Oblak",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "marc-pubill-espanyol-atletico-madrid-2026-10-17",
+            "name": "Marc Pubill",
+            "short": "M. Pubill",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "cristian-romero",
+            "name": "Cristian Romero",
+            "short": "C. Romero",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.2
+          },
+          {
+            "id": "david-hancko-espanyol-atletico-madrid-2026-10-17",
+            "name": "Dávid Hancko",
+            "short": "D. Hancko",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.7
+          },
+          {
+            "id": "daniel-martinez-espanyol-atletico-madrid-2026-10-17",
+            "name": "Daniel Martinez",
+            "short": "D. Martinez",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "giuliano-simeone-espanyol-atletico-madrid-2026-10-17",
+            "name": "Giuliano Simeone",
+            "short": "G. Simeone",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 6.6
+          },
+          {
+            "id": "pablo-barrios-espanyol-atletico-madrid-2026-10-17",
+            "name": "Pablo Barrios",
+            "short": "P. Barrios",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 7.2
+          },
+          {
+            "id": "morten-hjulmand-espanyol-atletico-madrid-2026-10-17",
+            "name": "Morten Hjulmand",
+            "short": "M. Hjulmand",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 7.3
+          },
+          {
+            "id": "ademola-lookman-espanyol-atletico-madrid-2026-10-17",
+            "name": "Ademola Lookman",
+            "short": "A. Lookman",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "jonathan-david-espanyol-atletico-madrid-2026-10-17",
+            "name": "Jonathan David",
+            "short": "J. David",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 7.4
+          },
+          {
+            "id": "lee-kang-in-espanyol-atletico-madrid-2026-10-17",
+            "name": "Lee Kang-In",
+            "short": "L. Kang-In",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 7.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "julian-alvarez-espanyol-atletico-madrid-2026-10-17",
+            "name": "Julián Álvarez",
+            "short": "Álvarez",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "alejandro-grimaldo-espanyol-atletico-madrid-2026-10-17",
+            "name": "Alejandro Grimaldo",
+            "short": "Grimaldo",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "marcos-llorente-espanyol-atletico-madrid-2026-10-17",
+            "name": "Marcos Llorente",
+            "short": "Llorente",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "alex-baena-espanyol-atletico-madrid-2026-10-17",
+            "name": "Álex Baena",
+            "short": "Baena",
+            "position": "ST",
+            "photo": null,
+            "rating": 8
+          },
+          {
+            "id": "rodrigo-mendoza-espanyol-atletico-madrid-2026-10-17",
+            "name": "Rodrigo Mendoza",
+            "short": "Mendoza",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "jorge-castillo-espanyol-atletico-madrid-2026-10-17",
+            "name": "Jorge Castillo",
+            "short": "Castillo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "obed-vargas-espanyol-atletico-madrid-2026-10-17",
+            "name": "Obed Vargas",
+            "short": "Vargas",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jorge-dominguez-espanyol-atletico-madrid-2026-10-17",
+            "name": "Jorge Domínguez",
+            "short": "Domínguez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "juan-musso-espanyol-atletico-madrid-2026-10-17",
+            "name": "Juan Musso",
+            "short": "Musso",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "robin-le-normand-espanyol-atletico-madrid-2026-10-17",
+            "name": "Robin Le Normand",
+            "short": "Normand",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "arnau-ortiz-espanyol-atletico-madrid-2026-10-17",
+            "name": "Arnau Ortiz",
+            "short": "Ortiz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alexander-srloth-espanyol-atletico-madrid-2026-10-17",
+            "name": "Alexander Sørloth",
+            "short": "Sørloth",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 22,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "morten-hjulmand-espanyol-atletico-madrid-2026-10-17",
+          "name": "Morten Hjulmand",
+          "short": "M. Hjulmand",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 43,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "lee-kang-in-espanyol-atletico-madrid-2026-10-17",
+          "name": "Lee Kang-In",
+          "short": "L. Kang-In",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "julian-alvarez-espanyol-atletico-madrid-2026-10-17",
+          "name": "Julián Álvarez",
+          "short": "Álvarez",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ademola-lookman-espanyol-atletico-madrid-2026-10-17",
+          "name": "Ademola Lookman",
+          "short": "A. Lookman",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alejandro-grimaldo-espanyol-atletico-madrid-2026-10-17",
+          "name": "Alejandro Grimaldo",
+          "short": "Grimaldo",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "daniel-martinez-espanyol-atletico-madrid-2026-10-17",
+          "name": "Daniel Martinez",
+          "short": "D. Martinez",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 55,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "marcos-llorente-espanyol-atletico-madrid-2026-10-17",
+          "name": "Marcos Llorente",
+          "short": "Llorente",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pablo-barrios-espanyol-atletico-madrid-2026-10-17",
+          "name": "Pablo Barrios",
+          "short": "P. Barrios",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alex-baena-espanyol-atletico-madrid-2026-10-17",
+          "name": "Álex Baena",
+          "short": "Baena",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lee-kang-in-espanyol-atletico-madrid-2026-10-17",
+          "name": "Lee Kang-In",
+          "short": "L. Kang-In",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "unai-nunez",
+          "name": "Unai Núñez",
+          "short": "Núñez",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "vanja-drkusic",
+          "name": "Vanja Drkusic",
+          "short": "V. Drkusic",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "cristian-romero",
+          "name": "Cristian Romero",
+          "short": "C. Romero",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "rodrigo-mendoza-espanyol-atletico-madrid-2026-10-17",
+          "name": "Rodrigo Mendoza",
+          "short": "Mendoza",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "cristian-romero",
+          "name": "Cristian Romero",
+          "short": "C. Romero",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "alex-baena-espanyol-atletico-madrid-2026-10-17",
+          "name": "Álex Baena",
+          "short": "Baena",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "cala",
+          "name": "Cala",
+          "short": "Cala",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "edu-exposito",
+          "name": "Edu Expósito",
+          "short": "E. Expósito",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "gabriel-moscardo",
+          "name": "Gabriel Moscardo",
+          "short": "Moscardo",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "javi-hernandez",
+          "name": "Javi Hernandez",
+          "short": "J. Hernandez",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "rodrigo-mendoza-espanyol-atletico-madrid-2026-10-17",
+          "name": "Rodrigo Mendoza",
+          "short": "Mendoza",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 81,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "roger-hinojo",
+          "name": "Roger Hinojo",
+          "short": "R. Hinojo",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "javier-puado",
+          "name": "Javier Puado",
+          "short": "Puado",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bryan-zaragoza",
+          "name": "Bryan Zaragoza",
+          "short": "B. Zaragoza",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "marcos-fernandez",
+          "name": "Marcos Fernández",
+          "short": "Fernández",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "roberto-fernandez",
+          "name": "Roberto Fernández",
+          "short": "R. Fernández",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "unai-nunez",
+          "name": "Unai Núñez",
+          "short": "Núñez",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 89,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "alex-baena-espanyol-atletico-madrid-2026-10-17",
+          "name": "Álex Baena",
+          "short": "Baena",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "julian-alvarez-espanyol-atletico-madrid-2026-10-17",
+          "name": "Julián Álvarez",
+          "short": "Álvarez",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Álex Baena right footed shot from outside the box to the top left corner. Assist: Julián Alvarez."
+      }
+    ],
+    "stats": {
+      "shots": [
+        10,
+        19
+      ],
+      "onTarget": [
+        2,
+        6
+      ],
+      "corners": [
+        4,
+        12
+      ],
+      "fouls": [
+        10,
+        9
+      ],
+      "possession": 29
+    },
+    "attendance": 30882,
+    "referee": {
+      "name": "Alejandro Hernández Hernández",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882843",
+      "https://www.espn.com/soccer/match/_/gameId/401882843",
+      "https://lagrada.org/hernandez-hernandez-figueroa-vazquez-arbitro-var-espanyol-atletico-madrid-26-27/",
+      "https://www.vavel.com/es/futbol/2026/10/17/atletico-de-madrid/1275675-convocatoria-y-arbitro-del-espanyol-atleti.html",
+      "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

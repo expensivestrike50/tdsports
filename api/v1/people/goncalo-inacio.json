@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "goncalo-inacio",
+    "name": "Gonçalo Inácio",
+    "short": "Inácio",
+    "position": "CB",
+    "photo": "assets/photos/people/goncalo-inacio.jpg",
+    "matches": [
+      {
+        "match": "sporting-lask",
+        "date": "2026-10-21",
+        "team": "Sporting CP",
+        "role": "starter"
+      }
+    ]
+  }
+}

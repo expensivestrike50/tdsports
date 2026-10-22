@@ -1,0 +1,845 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "psg-barcelona",
+    "date": "2026-10-20",
+    "kickoff": "21:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "PSG",
+      "id": "psg",
+      "crest": "assets/clubs/160.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Barcelona",
+      "id": "barcelona",
+      "crest": "assets/clubs/83.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "tv": "CBS Sports",
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Parc des Princes",
+      "city": "Paris",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "luis-enrique",
+          "name": "Luis Enrique",
+          "short": "Enrique",
+          "position": "Coach",
+          "photo": "assets/photos/people/luis-enrique.jpg"
+        },
+        "starting": [
+          {
+            "id": "matvey-safonov",
+            "name": "Matvey Safonov",
+            "short": "Safonov",
+            "position": "GK",
+            "photo": "assets/photos/people/matvey-safonov.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "lucas-hernandez",
+            "name": "Lucas Hernández",
+            "short": "Hernández",
+            "position": "LB",
+            "photo": "assets/photos/people/lucas-hernandez.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 7.9
+          },
+          {
+            "id": "willian-pacho",
+            "name": "Willian Pacho",
+            "short": "Pacho",
+            "position": "CB",
+            "photo": "assets/photos/people/willian-pacho.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 7.6
+          },
+          {
+            "id": "marquinhos",
+            "name": "Marquinhos",
+            "short": "Marquinhos",
+            "position": "CB",
+            "photo": "assets/photos/people/marquinhos.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 6.4
+          },
+          {
+            "id": "achraf-hakimi",
+            "name": "Achraf Hakimi",
+            "short": "Hakimi",
+            "position": "RB",
+            "photo": "assets/photos/people/achraf-hakimi.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "fabian-ruiz",
+            "name": "Fabián Ruiz",
+            "short": "Fabián Ruiz",
+            "position": "CM",
+            "photo": "assets/photos/people/fabian-ruiz.jpg",
+            "x": 32,
+            "y": 23,
+            "rating": 7.9
+          },
+          {
+            "id": "vitinha",
+            "name": "Vitinha",
+            "short": "Vitinha",
+            "position": "DM",
+            "photo": "assets/photos/people/vitinha.jpg",
+            "x": 32,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "joao-neves",
+            "name": "João Neves",
+            "short": "João Neves",
+            "position": "CM",
+            "photo": "assets/photos/people/joao-neves.jpg",
+            "x": 32,
+            "y": 78,
+            "rating": 7.1
+          },
+          {
+            "id": "khvicha-kvaratskhelia",
+            "name": "Khvicha Kvaratskhelia",
+            "short": "Kvaratskhelia",
+            "position": "LW",
+            "photo": "assets/photos/people/khvicha-kvaratskhelia.jpg",
+            "x": 46,
+            "y": 23,
+            "rating": 6.4
+          },
+          {
+            "id": "ousmane-dembele",
+            "name": "Ousmane Dembélé",
+            "short": "Dembélé",
+            "position": "ST",
+            "photo": "assets/photos/people/ousmane-dembele.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "desire-doue",
+            "name": "Désiré Doué",
+            "short": "Doué",
+            "position": "RW",
+            "photo": "assets/photos/people/desire-doue.jpg",
+            "x": 46,
+            "y": 78,
+            "rating": 7.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "ferran-torres",
+            "name": "Ferran Torres",
+            "short": "Torres",
+            "position": "ST",
+            "photo": "assets/photos/people/ferran-torres.jpg",
+            "rating": 6.7
+          },
+          {
+            "id": "illia-zabarnyi",
+            "name": "Illia Zabarnyi",
+            "short": "Zabarnyi",
+            "position": "CB",
+            "photo": "assets/photos/people/illia-zabarnyi.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "maghnes-akliouche",
+            "name": "Maghnes Akliouche",
+            "short": "Akliouche",
+            "position": "LW",
+            "photo": "assets/photos/people/maghnes-akliouche.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "warren-zaire-emery",
+            "name": "Warren Zaïre-Emery",
+            "short": "Zaïre-Emery",
+            "position": "LB",
+            "photo": "assets/photos/people/warren-zaire-emery.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "senny-mayulu",
+            "name": "Senny Mayulu",
+            "short": "Mayulu",
+            "position": "RW",
+            "photo": "assets/photos/people/senny-mayulu.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "lucas-chevalier",
+            "name": "Lucas Chevalier",
+            "short": "Chevalier",
+            "position": "CM",
+            "photo": "assets/photos/people/lucas-chevalier.jpg",
+            "rating": null
+          },
+          {
+            "id": "dro-fernandez",
+            "name": "Dro Fernández",
+            "short": "Fernández",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lucas-digne",
+            "name": "Lucas Digne",
+            "short": "Digne",
+            "position": "CM",
+            "photo": "assets/photos/people/lucas-digne.jpg",
+            "rating": null
+          },
+          {
+            "id": "adam-mouak",
+            "name": "Adam Mouak",
+            "short": "Mouak",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mika-godts",
+            "name": "Mika Godts",
+            "short": "Godts",
+            "position": "CM",
+            "photo": "assets/photos/people/mika-godts.jpg",
+            "rating": null
+          },
+          {
+            "id": "quentin-ndjantou",
+            "name": "Quentin Ndjantou",
+            "short": "Ndjantou",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lucas-beraldo",
+            "name": "Lucas Beraldo",
+            "short": "Beraldo",
+            "position": "CM",
+            "photo": "assets/photos/people/lucas-beraldo.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "hansi-flick",
+          "name": "Hansi Flick",
+          "short": "Flick",
+          "position": "Coach",
+          "photo": "assets/photos/people/hansi-flick.jpg"
+        },
+        "starting": [
+          {
+            "id": "joan-garcia",
+            "name": "Joan García",
+            "short": "Joan García",
+            "position": "GK",
+            "photo": "assets/photos/people/joan-garcia.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.1
+          },
+          {
+            "id": "joao-cancelo",
+            "name": "João Cancelo",
+            "short": "Cancelo",
+            "position": "LB",
+            "photo": "assets/photos/people/joao-cancelo.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 6.5
+          },
+          {
+            "id": "gerard-martin",
+            "name": "Gerard Martín",
+            "short": "Gerard Martín",
+            "position": "CB",
+            "photo": "assets/photos/people/gerard-martin.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "pau-cubarsi",
+            "name": "Pau Cubarsí",
+            "short": "Cubarsí",
+            "position": "CB",
+            "photo": "assets/photos/people/pau-cubarsi.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 6.2
+          },
+          {
+            "id": "xavi-espart",
+            "name": "Xavi Espart",
+            "short": "Espart",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.7
+          },
+          {
+            "id": "pedri",
+            "name": "Pedri",
+            "short": "Pedri",
+            "position": "DM",
+            "photo": "assets/photos/people/pedri.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 6.7
+          },
+          {
+            "id": "marc-bernal",
+            "name": "Marc Bernal",
+            "short": "Bernal",
+            "position": "DM",
+            "photo": "assets/photos/people/marc-bernal.jpg",
+            "x": 73,
+            "y": 30,
+            "rating": 6.6
+          },
+          {
+            "id": "anthony-gordon",
+            "name": "Anthony Gordon",
+            "short": "Gordon",
+            "position": "LW",
+            "photo": "assets/photos/people/anthony-gordon.jpg",
+            "x": 63,
+            "y": 77,
+            "rating": 6.2
+          },
+          {
+            "id": "dani-olmo",
+            "name": "Dani Olmo",
+            "short": "Olmo",
+            "position": "AM",
+            "photo": "assets/photos/people/dani-olmo.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "lamine-yamal",
+            "name": "Lamine Yamal",
+            "short": "Yamal",
+            "position": "RW",
+            "photo": "assets/photos/people/lamine-yamal.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 7.2
+          },
+          {
+            "id": "raphinha",
+            "name": "Raphinha",
+            "short": "Raphinha",
+            "position": "ST",
+            "photo": "assets/photos/people/raphinha.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 7.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "fermin-lopez",
+            "name": "Fermín López",
+            "short": "López",
+            "position": "AM",
+            "photo": "assets/photos/people/fermin-lopez.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "karim-adeyemi",
+            "name": "Karim Adeyemi",
+            "short": "Adeyemi",
+            "position": "ST",
+            "photo": "assets/photos/people/karim-adeyemi.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "gavi",
+            "name": "Gavi",
+            "short": "Gavi",
+            "position": "DM",
+            "photo": "assets/photos/people/gavi.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "rodri",
+            "name": "Rodri",
+            "short": "Rodri",
+            "position": "DM",
+            "photo": "assets/photos/people/rodri.jpg",
+            "rating": 6.2
+          },
+          {
+            "id": "alejandro-balde",
+            "name": "Alejandro Balde",
+            "short": "Balde",
+            "position": "RB",
+            "photo": "assets/photos/people/alejandro-balde.jpg",
+            "rating": 6.3
+          },
+          {
+            "id": "alex-campos",
+            "name": "Álex Campos",
+            "short": "Campos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dominik-livakovic",
+            "name": "Dominik Livaković",
+            "short": "Livaković",
+            "position": "CM",
+            "photo": "assets/photos/people/dominik-livakovic.jpg",
+            "rating": null
+          },
+          {
+            "id": "frenkie-de-jong",
+            "name": "Frenkie de Jong",
+            "short": "Jong",
+            "position": "CM",
+            "photo": "assets/photos/people/frenkie-de-jong.jpg",
+            "rating": null
+          },
+          {
+            "id": "gabriel-jesus",
+            "name": "Gabriel Jesus",
+            "short": "Jesus",
+            "position": "CM",
+            "photo": "assets/photos/people/gabriel-jesus.jpg",
+            "rating": null
+          },
+          {
+            "id": "hamza-abdelkarim",
+            "name": "Hamza Abdelkarim",
+            "short": "Abdelkarim",
+            "position": "CM",
+            "photo": "assets/photos/people/hamza-abdelkarim.jpg",
+            "rating": null
+          },
+          {
+            "id": "wojciech-szczesny",
+            "name": "Wojciech Szczęsny",
+            "short": "Szczęsny",
+            "position": "CM",
+            "photo": "assets/photos/people/wojciech-szczesny.jpg",
+            "rating": null
+          },
+          {
+            "id": "brian-farinas",
+            "name": "Brian Fariñas",
+            "short": "Fariñas",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 17,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "joao-cancelo",
+          "name": "João Cancelo",
+          "short": "Cancelo",
+          "position": "LB",
+          "photo": "assets/photos/people/joao-cancelo.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 20,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ferran-torres",
+          "name": "Ferran Torres",
+          "short": "Torres",
+          "position": "ST",
+          "photo": "assets/photos/people/ferran-torres.jpg"
+        },
+        "replaced": {
+          "id": "ousmane-dembele",
+          "name": "Ousmane Dembélé",
+          "short": "Dembélé",
+          "position": "ST",
+          "photo": "assets/photos/people/ousmane-dembele.jpg"
+        }
+      },
+      {
+        "minute": 27,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "fermin-lopez",
+          "name": "Fermín López",
+          "short": "López",
+          "position": "AM",
+          "photo": "assets/photos/people/fermin-lopez.jpg"
+        },
+        "replaced": {
+          "id": "dani-olmo",
+          "name": "Dani Olmo",
+          "short": "Olmo",
+          "position": "AM",
+          "photo": "assets/photos/people/dani-olmo.jpg"
+        }
+      },
+      {
+        "minute": 38,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "desire-doue",
+          "name": "Désiré Doué",
+          "short": "Doué",
+          "position": "RW",
+          "photo": "assets/photos/people/desire-doue.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "joao-neves",
+          "name": "João Neves",
+          "short": "João Neves",
+          "position": "CM",
+          "photo": "assets/photos/people/joao-neves.jpg"
+        },
+        "goalType": "counter",
+        "description": "Barcelona gave the ball away cheaply and PSG pounced; João Neves headed it on to Doué, who tucked a right-footed shot from just outside the box into the bottom-left corner."
+      },
+      {
+        "minute": 55,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "xavi-espart",
+          "name": "Xavi Espart",
+          "short": "Espart",
+          "position": "RB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "fermin-lopez",
+          "name": "Fermín López",
+          "short": "López",
+          "position": "AM",
+          "photo": "assets/photos/people/fermin-lopez.jpg"
+        },
+        "goalType": "build",
+        "description": "Right-back Espart played a one-two with Fermín López, whose through ball released him to finish slickly right-footed from the centre of the box into the bottom-right corner."
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "illia-zabarnyi",
+          "name": "Illia Zabarnyi",
+          "short": "Zabarnyi",
+          "position": "CB",
+          "photo": "assets/photos/people/illia-zabarnyi.jpg"
+        },
+        "replaced": {
+          "id": "marquinhos",
+          "name": "Marquinhos",
+          "short": "Marquinhos",
+          "position": "CB",
+          "photo": "assets/photos/people/marquinhos.jpg"
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "maghnes-akliouche",
+          "name": "Maghnes Akliouche",
+          "short": "Akliouche",
+          "position": "LW",
+          "photo": "assets/photos/people/maghnes-akliouche.jpg"
+        },
+        "replaced": {
+          "id": "khvicha-kvaratskhelia",
+          "name": "Khvicha Kvaratskhelia",
+          "short": "Kvaratskhelia",
+          "position": "LW",
+          "photo": "assets/photos/people/khvicha-kvaratskhelia.jpg"
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "karim-adeyemi",
+          "name": "Karim Adeyemi",
+          "short": "Adeyemi",
+          "position": "ST",
+          "photo": "assets/photos/people/karim-adeyemi.jpg"
+        },
+        "replaced": {
+          "id": "raphinha",
+          "name": "Raphinha",
+          "short": "Raphinha",
+          "position": "ST",
+          "photo": "assets/photos/people/raphinha.jpg"
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gavi",
+          "name": "Gavi",
+          "short": "Gavi",
+          "position": "DM",
+          "photo": "assets/photos/people/gavi.jpg"
+        },
+        "replaced": {
+          "id": "pedri",
+          "name": "Pedri",
+          "short": "Pedri",
+          "position": "DM",
+          "photo": "assets/photos/people/pedri.jpg"
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "rodri",
+          "name": "Rodri",
+          "short": "Rodri",
+          "position": "DM",
+          "photo": "assets/photos/people/rodri.jpg"
+        },
+        "replaced": {
+          "id": "marc-bernal",
+          "name": "Marc Bernal",
+          "short": "Bernal",
+          "position": "DM",
+          "photo": "assets/photos/people/marc-bernal.jpg"
+        }
+      },
+      {
+        "minute": 72,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "lucas-hernandez",
+          "name": "Lucas Hernández",
+          "short": "Hernández",
+          "position": "LB",
+          "photo": "assets/photos/people/lucas-hernandez.jpg"
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "desire-doue",
+          "name": "Désiré Doué",
+          "short": "Doué",
+          "position": "RW",
+          "photo": "assets/photos/people/desire-doue.jpg"
+        },
+        "goalType": "set",
+        "description": "Moments after Torres hit the post, Doué's corner was powered home by Hernández with a header from the centre of the box into the top-right corner."
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alejandro-balde",
+          "name": "Alejandro Balde",
+          "short": "Balde",
+          "position": "RB",
+          "photo": "assets/photos/people/alejandro-balde.jpg"
+        },
+        "replaced": {
+          "id": "xavi-espart",
+          "name": "Xavi Espart",
+          "short": "Espart",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "warren-zaire-emery",
+          "name": "Warren Zaïre-Emery",
+          "short": "Zaïre-Emery",
+          "position": "LB",
+          "photo": "assets/photos/people/warren-zaire-emery.jpg"
+        },
+        "replaced": {
+          "id": "lucas-hernandez",
+          "name": "Lucas Hernández",
+          "short": "Hernández",
+          "position": "LB",
+          "photo": "assets/photos/people/lucas-hernandez.jpg"
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "senny-mayulu",
+          "name": "Senny Mayulu",
+          "short": "Mayulu",
+          "position": "RW",
+          "photo": "assets/photos/people/senny-mayulu.jpg"
+        },
+        "replaced": {
+          "id": "desire-doue",
+          "name": "Désiré Doué",
+          "short": "Doué",
+          "position": "RW",
+          "photo": "assets/photos/people/desire-doue.jpg"
+        }
+      },
+      {
+        "minute": 79,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "lamine-yamal",
+          "name": "Lamine Yamal",
+          "short": "Yamal",
+          "position": "RW",
+          "photo": "assets/photos/people/lamine-yamal.jpg"
+        },
+        "scoreAfter": "2 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "A solo goal: Yamal glided past Zaïre-Emery and struck a left-footed shot from a difficult angle on the right into the top-right corner."
+      },
+      {
+        "minute": 81,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "vitinha",
+          "name": "Vitinha",
+          "short": "Vitinha",
+          "position": "DM",
+          "photo": "assets/photos/people/vitinha.jpg"
+        },
+        "scoreAfter": "3 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Vitinha took the ball on his chest and drilled a right-footed shot from just outside the area into the bottom-right corner."
+      },
+      {
+        "minute": 86,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "fabian-ruiz",
+          "name": "Fabián Ruiz",
+          "short": "Fabián Ruiz",
+          "position": "CM",
+          "photo": "assets/photos/people/fabian-ruiz.jpg"
+        },
+        "scoreAfter": "4 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "achraf-hakimi",
+          "name": "Achraf Hakimi",
+          "short": "Hakimi",
+          "position": "RB",
+          "photo": "assets/photos/people/achraf-hakimi.jpg"
+        },
+        "goalType": "build",
+        "description": "Hakimi set up Fabián Ruiz, who finished left-footed from very close range into the bottom-left corner."
+      }
+    ],
+    "stats": {
+      "shots": [
+        22,
+        18
+      ],
+      "onTarget": [
+        14,
+        5
+      ],
+      "corners": [
+        2,
+        3
+      ],
+      "fouls": [
+        11,
+        10
+      ],
+      "possession": 47
+    },
+    "attendance": 47421,
+    "referee": {
+      "name": "Michael Oliver",
+      "country": "England"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401915399",
+      "https://www.espn.com/soccer/report/_/gameId/401915399",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915399",
+      "https://match.uefa.com/v5/matches/2049589/lineups",
+      "https://www.uefa.com/uefachampionsleague/match/2049589/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

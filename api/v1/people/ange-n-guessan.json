@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "ange-n-guessan",
+    "name": "Ange N'Guessan",
+    "short": "N'Guessan",
+    "position": "CB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "fenerbahce-slavia-prague-2026-10-20",
+        "date": "2026-10-20",
+        "team": "Slavia Prague",
+        "role": "starter"
+      }
+    ]
+  }
+}

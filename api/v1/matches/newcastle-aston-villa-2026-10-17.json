@@ -1,0 +1,760 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "newcastle-aston-villa-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "17:30",
+    "competition": "Premier League",
+    "round": "Matchweek 7",
+    "status": "FT",
+    "home": {
+      "name": "Newcastle",
+      "id": "newcastle",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Aston Villa",
+      "id": "aston-villa",
+      "crest": "assets/clubs/362.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "St. James' Park",
+      "city": "Newcastle-upon-Tyne",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "matthias-jaissle",
+          "name": "Matthias Jaissle",
+          "short": "Jaissle",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "lukas-hornicek",
+            "name": "Lukás Hornícek",
+            "short": "Hornícek",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "lewis-miley",
+            "name": "Lewis Miley",
+            "short": "Miley",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "malick-thiaw",
+            "name": "Malick Thiaw",
+            "short": "Thiaw",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.6
+          },
+          {
+            "id": "sven-botman",
+            "name": "Sven Botman",
+            "short": "Botman",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.8
+          },
+          {
+            "id": "lewis-hall",
+            "name": "Lewis Hall",
+            "short": "Hall",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.1
+          },
+          {
+            "id": "joelinton",
+            "name": "Joelinton",
+            "short": "Joelinton",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.7
+          },
+          {
+            "id": "nico-gonzalez-newcastle-aston-villa-2026-10-17",
+            "name": "Nico González",
+            "short": "González",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.7
+          },
+          {
+            "id": "matias-fernandez-pardo",
+            "name": "Matias Fernandez-Pardo",
+            "short": "Fernandez-Pardo",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.5
+          },
+          {
+            "id": "joe-willock",
+            "name": "Joe Willock",
+            "short": "Willock",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "harvey-barnes",
+            "name": "Harvey Barnes",
+            "short": "Barnes",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.1
+          },
+          {
+            "id": "yoane-wissa",
+            "name": "Yoane Wissa",
+            "short": "Wissa",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "bazoumana-toure",
+            "name": "Bazoumana Touré",
+            "short": "Touré",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "william-osula",
+            "name": "William Osula",
+            "short": "Osula",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "dan-burn",
+            "name": "Dan Burn",
+            "short": "Burn",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "fabian-schar",
+            "name": "Fabian Schär",
+            "short": "Schär",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aladji-bamba",
+            "name": "Aladji Bamba",
+            "short": "Bamba",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "amar-dedic",
+            "name": "Amar Dedic",
+            "short": "Dedic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nick-pope",
+            "name": "Nick Pope",
+            "short": "Pope",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "sean-steur",
+            "name": "Sean Steur",
+            "short": "Steur",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jacob-murphy",
+            "name": "Jacob Murphy",
+            "short": "Murphy",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "unai-emery-newcastle-aston-villa-2026-10-17",
+          "name": "Unai Emery",
+          "short": "Emery",
+          "position": "Coach",
+          "photo": "assets/photos/people/unai-emery.jpg"
+        },
+        "starting": [
+          {
+            "id": "zion-suzuki-newcastle-aston-villa-2026-10-17",
+            "name": "Zion Suzuki",
+            "short": "Suzuki",
+            "position": "GK",
+            "photo": "assets/photos/people/zion-suzuki.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "matty-cash-newcastle-aston-villa-2026-10-17",
+            "name": "Matty Cash",
+            "short": "Cash",
+            "position": "RB",
+            "photo": "assets/photos/people/matty-cash.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "victor-lindelof-newcastle-aston-villa-2026-10-17",
+            "name": "Victor Lindelöf",
+            "short": "Lindelöf",
+            "position": "CB",
+            "photo": "assets/photos/people/victor-lindelof.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 7.5
+          },
+          {
+            "id": "tyrone-mings-newcastle-aston-villa-2026-10-17",
+            "name": "Tyrone Mings",
+            "short": "Mings",
+            "position": "CB",
+            "photo": "assets/photos/people/tyrone-mings.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 6.4
+          },
+          {
+            "id": "aaron-wan-bissaka",
+            "name": "Aaron Wan-Bissaka",
+            "short": "Wan-Bissaka",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "boubacar-kamara-newcastle-aston-villa-2026-10-17",
+            "name": "Boubacar Kamara",
+            "short": "Kamara",
+            "position": "DM",
+            "photo": "assets/photos/people/boubacar-kamara.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 6.6
+          },
+          {
+            "id": "joao-gomes-newcastle-aston-villa-2026-10-17",
+            "name": "João Gomes",
+            "short": "Gomes",
+            "position": "DM",
+            "photo": "assets/photos/people/joao-gomes.jpg",
+            "x": 73,
+            "y": 30,
+            "rating": 7.6
+          },
+          {
+            "id": "alysson-newcastle-aston-villa-2026-10-17",
+            "name": "Alysson",
+            "short": "Alysson",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 7.5
+          },
+          {
+            "id": "johan-manzambi",
+            "name": "Johan Manzambi",
+            "short": "Manzambi",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 8.5
+          },
+          {
+            "id": "emiliano-buendia-newcastle-aston-villa-2026-10-17",
+            "name": "Emiliano Buendía",
+            "short": "Buendía",
+            "position": "LW",
+            "photo": "assets/photos/people/emiliano-buendia.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 6.6
+          },
+          {
+            "id": "nicolas-jackson-newcastle-aston-villa-2026-10-17",
+            "name": "Nicolas Jackson",
+            "short": "Jackson",
+            "position": "ST",
+            "photo": "assets/photos/people/nicolas-jackson.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 6.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "john-mcginn-newcastle-aston-villa-2026-10-17",
+            "name": "John McGinn",
+            "short": "McGinn",
+            "position": "RW",
+            "photo": "assets/photos/people/john-mcginn.jpg",
+            "rating": 7.6
+          },
+          {
+            "id": "leon-goretzka-newcastle-aston-villa-2026-10-17",
+            "name": "Leon Goretzka",
+            "short": "Goretzka",
+            "position": "LW",
+            "photo": "assets/photos/people/leon-goretzka.jpg",
+            "rating": 6.7
+          },
+          {
+            "id": "ross-barkley-newcastle-aston-villa-2026-10-17",
+            "name": "Ross Barkley",
+            "short": "Barkley",
+            "position": "DM",
+            "photo": "assets/photos/people/ross-barkley.jpg",
+            "rating": 7.5
+          },
+          {
+            "id": "ibrahim-mbaye-newcastle-aston-villa-2026-10-17",
+            "name": "Ibrahim Mbaye",
+            "short": "Mbaye",
+            "position": "AM",
+            "photo": "assets/photos/people/ibrahim-mbaye.jpg",
+            "rating": 7.2
+          },
+          {
+            "id": "pau-torres-newcastle-aston-villa-2026-10-17",
+            "name": "Pau Torres",
+            "short": "Torres",
+            "position": "LB",
+            "photo": "assets/photos/people/pau-torres.jpg",
+            "rating": 7.5
+          },
+          {
+            "id": "marco-bizot-newcastle-aston-villa-2026-10-17",
+            "name": "Marco Bizot",
+            "short": "Bizot",
+            "position": "CM",
+            "photo": "assets/photos/people/marco-bizot.jpg",
+            "rating": null
+          },
+          {
+            "id": "lamare-bogarde-newcastle-aston-villa-2026-10-17",
+            "name": "Lamare Bogarde",
+            "short": "Bogarde",
+            "position": "CM",
+            "photo": "assets/photos/people/lamare-bogarde.jpg",
+            "rating": null
+          },
+          {
+            "id": "brian-madjo",
+            "name": "Brian Madjo",
+            "short": "Madjo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "taylor-harwood-bellis-newcastle-aston-villa-2026-10-17",
+            "name": "Taylor Harwood-Bellis",
+            "short": "Harwood-Bellis",
+            "position": "CM",
+            "photo": "assets/photos/people/taylor-harwood-bellis.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 18,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "joelinton",
+          "name": "Joelinton",
+          "short": "Joelinton",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 18,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "sven-botman",
+          "name": "Sven Botman",
+          "short": "Botman",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 18,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "sven-botman",
+          "name": "Sven Botman",
+          "short": "Botman",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Yellow card for challenge on Nicolas Jackson reviewed for possible serious foul play; on-field decision confirmed, no red card."
+      },
+      {
+        "minute": 25,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "joao-gomes-newcastle-aston-villa-2026-10-17",
+          "name": "João Gomes",
+          "short": "Gomes",
+          "position": "DM",
+          "photo": "assets/photos/people/joao-gomes.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 28,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "alysson-newcastle-aston-villa-2026-10-17",
+          "name": "Alysson",
+          "short": "Alysson",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 36,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "johan-manzambi",
+          "name": "Johan Manzambi",
+          "short": "Manzambi",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "joao-gomes-newcastle-aston-villa-2026-10-17",
+          "name": "João Gomes",
+          "short": "Gomes",
+          "position": "DM",
+          "photo": "assets/photos/people/joao-gomes.jpg"
+        },
+        "goalType": "build",
+        "description": "Johan Manzambi, who nearly joined Newcastle in the summer, rose to head João Gomes' cross in from very close range for the only goal of the game."
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "john-mcginn-newcastle-aston-villa-2026-10-17",
+          "name": "John McGinn",
+          "short": "McGinn",
+          "position": "RW",
+          "photo": "assets/photos/people/john-mcginn.jpg"
+        },
+        "replaced": {
+          "id": "alysson-newcastle-aston-villa-2026-10-17",
+          "name": "Alysson",
+          "short": "Alysson",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 53,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "nico-gonzalez-newcastle-aston-villa-2026-10-17",
+          "name": "Nico González",
+          "short": "González",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 55,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "yoane-wissa",
+          "name": "Yoane Wissa",
+          "short": "Wissa",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 56,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "bazoumana-toure",
+          "name": "Bazoumana Touré",
+          "short": "Touré",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "matias-fernandez-pardo",
+          "name": "Matias Fernandez-Pardo",
+          "short": "Fernandez-Pardo",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 56,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "william-osula",
+          "name": "William Osula",
+          "short": "Osula",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "joe-willock",
+          "name": "Joe Willock",
+          "short": "Willock",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "leon-goretzka-newcastle-aston-villa-2026-10-17",
+          "name": "Leon Goretzka",
+          "short": "Goretzka",
+          "position": "LW",
+          "photo": "assets/photos/people/leon-goretzka.jpg"
+        },
+        "replaced": {
+          "id": "emiliano-buendia-newcastle-aston-villa-2026-10-17",
+          "name": "Emiliano Buendía",
+          "short": "Buendía",
+          "position": "LW",
+          "photo": "assets/photos/people/emiliano-buendia.jpg"
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ross-barkley-newcastle-aston-villa-2026-10-17",
+          "name": "Ross Barkley",
+          "short": "Barkley",
+          "position": "DM",
+          "photo": "assets/photos/people/ross-barkley.jpg"
+        },
+        "replaced": {
+          "id": "joao-gomes-newcastle-aston-villa-2026-10-17",
+          "name": "João Gomes",
+          "short": "Gomes",
+          "position": "DM",
+          "photo": "assets/photos/people/joao-gomes.jpg"
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ibrahim-mbaye-newcastle-aston-villa-2026-10-17",
+          "name": "Ibrahim Mbaye",
+          "short": "Mbaye",
+          "position": "AM",
+          "photo": "assets/photos/people/ibrahim-mbaye.jpg"
+        },
+        "replaced": {
+          "id": "johan-manzambi",
+          "name": "Johan Manzambi",
+          "short": "Manzambi",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "pau-torres-newcastle-aston-villa-2026-10-17",
+          "name": "Pau Torres",
+          "short": "Torres",
+          "position": "LB",
+          "photo": "assets/photos/people/pau-torres.jpg"
+        },
+        "replaced": {
+          "id": "aaron-wan-bissaka",
+          "name": "Aaron Wan-Bissaka",
+          "short": "Wan-Bissaka",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "william-osula",
+          "name": "William Osula",
+          "short": "Osula",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 86,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "malick-thiaw",
+          "name": "Malick Thiaw",
+          "short": "Thiaw",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "dan-burn",
+          "name": "Dan Burn",
+          "short": "Burn",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "joelinton",
+          "name": "Joelinton",
+          "short": "Joelinton",
+          "position": "DM",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        16,
+        15
+      ],
+      "onTarget": [
+        1,
+        3
+      ],
+      "corners": [
+        4,
+        5
+      ],
+      "fouls": [
+        14,
+        11
+      ],
+      "possession": 49
+    },
+    "attendance": 52626,
+    "referee": {
+      "name": "Jarred Gillett",
+      "country": "Australia"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879258",
+      "https://www.espn.com/soccer/match/_/gameId/401879258",
+      "https://www.skysports.com/football/a-vs-b/report/559511",
+      "https://www.skysports.com/football/a-vs-b/teams/559511",
+      "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

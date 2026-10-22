@@ -1,0 +1,930 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "elversberg-augsburg-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "15:30",
+    "competition": "Bundesliga",
+    "round": "Matchday 6",
+    "status": "FT",
+    "home": {
+      "name": "Elversberg",
+      "id": "elversberg",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+      "country": "DE"
+    },
+    "away": {
+      "name": "Augsburg",
+      "id": "augsburg",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+      "country": "DE"
+    },
+    "score": {
+      "home": 4,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "URSAPHARM-Arena an der Kaiserlinde",
+      "city": "Spiesen-Elversberg",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "vincent-wagner",
+          "name": "Vincent Wagner",
+          "short": "Wagner",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "nicolas-kristof",
+            "name": "Nicolas Kristof",
+            "short": "Kristof",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "lasse-gunther",
+            "name": "Lasse Günther",
+            "short": "Günther",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 8.1
+          },
+          {
+            "id": "maximilian-rohr",
+            "name": "Maximilian Rohr",
+            "short": "Rohr",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 8.1
+          },
+          {
+            "id": "lukas-finn-pinckert",
+            "name": "Lukas Finn Pinckert",
+            "short": "Pinckert",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.6
+          },
+          {
+            "id": "jan-gyamerah",
+            "name": "Jan Gyamerah",
+            "short": "Gyamerah",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "lukasz-poreba",
+            "name": "Lukasz Poreba",
+            "short": "Poreba",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.2
+          },
+          {
+            "id": "felix-keidel",
+            "name": "Felix Keidel",
+            "short": "Keidel",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.9
+          },
+          {
+            "id": "maurice-krattenmacher",
+            "name": "Maurice Krattenmacher",
+            "short": "Krattenmacher",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 8.2
+          },
+          {
+            "id": "noah-darvich",
+            "name": "Noah Darvich",
+            "short": "Darvich",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "lukas-petkov",
+            "name": "Lukas Petkov",
+            "short": "Petkov",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 8.3
+          },
+          {
+            "id": "david-mokwa",
+            "name": "David Mokwa",
+            "short": "Mokwa",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "luca-sirch",
+            "name": "Luca Sirch",
+            "short": "Sirch",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "frederik-schmahl",
+            "name": "Frederik Schmahl",
+            "short": "Schmahl",
+            "position": "AM",
+            "photo": null,
+            "rating": 8.5
+          },
+          {
+            "id": "noel-futkeu",
+            "name": "Noel Futkeu",
+            "short": "Futkeu",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "raif-adam",
+            "name": "Raif Adam",
+            "short": "Adam",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "amara-conde",
+            "name": "Amara Conde",
+            "short": "Conde",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "tim-boss",
+            "name": "Tim Boss",
+            "short": "Boss",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nicholas-mickelson",
+            "name": "Nicholas Mickelson",
+            "short": "Mickelson",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "florian-le-joncour",
+            "name": "Florian Le Joncour",
+            "short": "Joncour",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-schnellbacher",
+            "name": "Luca Schnellbacher",
+            "short": "Schnellbacher",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "manuel-baum",
+          "name": "Manuel Baum",
+          "short": "Baum",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "finn-dahmen",
+            "name": "Finn Dahmen",
+            "short": "Dahmen",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "calvin-brackelmann",
+            "name": "Calvin Brackelmann",
+            "short": "Brackelmann",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 6.6
+          },
+          {
+            "id": "chrislain-matsima",
+            "name": "Chrislain Matsima",
+            "short": "Matsima",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "juma-bah",
+            "name": "Juma Bah",
+            "short": "Bah",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 7.2
+          },
+          {
+            "id": "hennes-behrens",
+            "name": "Hennes Behrens",
+            "short": "Behrens",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 7.8
+          },
+          {
+            "id": "fabian-rieder",
+            "name": "Fabian Rieder",
+            "short": "Rieder",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 7.1
+          },
+          {
+            "id": "han-noah-massengo",
+            "name": "Han-Noah Massengo",
+            "short": "Massengo",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 6.8
+          },
+          {
+            "id": "marius-wolf",
+            "name": "Marius Wolf",
+            "short": "Wolf",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 6.3
+          },
+          {
+            "id": "arijon-ibrahimovic",
+            "name": "Arijon Ibrahimovic",
+            "short": "Ibrahimovic",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 6.8
+          },
+          {
+            "id": "robin-fellhauer",
+            "name": "Robin Fellhauer",
+            "short": "Fellhauer",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 6.2
+          },
+          {
+            "id": "rodrigo-ribeiro",
+            "name": "Rodrigo Ribeiro",
+            "short": "Ribeiro",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "anton-kade",
+            "name": "Anton Kade",
+            "short": "Kade",
+            "position": "RB",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "michael-gregoritsch",
+            "name": "Michael Gregoritsch",
+            "short": "Gregoritsch",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "jeffrey-gouweleeuw",
+            "name": "Jeffrey Gouweleeuw",
+            "short": "Gouweleeuw",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "mert-komur",
+            "name": "Mert Kömür",
+            "short": "Kömür",
+            "position": "AM",
+            "photo": null,
+            "rating": 8.3
+          },
+          {
+            "id": "seol-young-woo",
+            "name": "Seol Young-Woo",
+            "short": "Young-Woo",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "yannik-keitel",
+            "name": "Yannik Keitel",
+            "short": "Keitel",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tim-schnitzer",
+            "name": "Tim Schnitzer",
+            "short": "Schnitzer",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "uchenna-ogundu",
+            "name": "Uchenna Ogundu",
+            "short": "Ogundu",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nediljko-labrovic",
+            "name": "Nediljko Labrovic",
+            "short": "Labrovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 2,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "chrislain-matsima",
+          "name": "Chrislain Matsima",
+          "short": "Matsima",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Penalty awarded to Elversberg after VAR review for a handball by Matsima."
+      },
+      {
+        "minute": 4,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "lukas-petkov",
+          "name": "Lukas Petkov",
+          "short": "Petkov",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "Petkov had his VAR-awarded penalty (for a Matsima handball) saved by Finn Dahmen but scored the rebound. Lukas Petkov scored with a right-footed shot from very close range to the high centre of the goal following a set piece situation."
+      },
+      {
+        "minute": 7,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "lasse-gunther",
+          "name": "Lasse Günther",
+          "short": "Günther",
+          "position": "LB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "maurice-krattenmacher",
+          "name": "Maurice Krattenmacher",
+          "short": "Krattenmacher",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Lasse Günther scored with a right-footed shot from the centre of the box to the top right corner. Assist: Maurice Krattenmacher following a fast break."
+      },
+      {
+        "minute": 28,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "maximilian-rohr",
+          "name": "Maximilian Rohr",
+          "short": "Rohr",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "felix-keidel",
+          "name": "Felix Keidel",
+          "short": "Keidel",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Maximilian Rohr scored with a header from the centre of the box to the bottom right corner. Assist: Felix Keidel with a cross following a corner."
+      },
+      {
+        "minute": 30,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "han-noah-massengo",
+          "name": "Han-Noah Massengo",
+          "short": "Massengo",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 30,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "rodrigo-ribeiro",
+          "name": "Rodrigo Ribeiro",
+          "short": "Ribeiro",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 40,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "luca-sirch",
+          "name": "Luca Sirch",
+          "short": "Sirch",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jan-gyamerah",
+          "name": "Jan Gyamerah",
+          "short": "Gyamerah",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 40,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "frederik-schmahl",
+          "name": "Frederik Schmahl",
+          "short": "Schmahl",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "noah-darvich",
+          "name": "Noah Darvich",
+          "short": "Darvich",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "fabian-rieder",
+          "name": "Fabian Rieder",
+          "short": "Rieder",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "3 - 1",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Penalty awarded after a VAR review for a handball by Maximilian Rohr, scored in first-half stoppage time (45+9). Fabian Rieder converted the penalty with a left-footed shot to the bottom left corner."
+      },
+      {
+        "minute": 45,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "maximilian-rohr",
+          "name": "Maximilian Rohr",
+          "short": "Rohr",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Penalty awarded to Augsburg after VAR review for a handball by Rohr (45+8)."
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "anton-kade",
+          "name": "Anton Kade",
+          "short": "Kade",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "marius-wolf",
+          "name": "Marius Wolf",
+          "short": "Wolf",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "michael-gregoritsch",
+          "name": "Michael Gregoritsch",
+          "short": "Gregoritsch",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rodrigo-ribeiro",
+          "name": "Rodrigo Ribeiro",
+          "short": "Ribeiro",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jeffrey-gouweleeuw",
+          "name": "Jeffrey Gouweleeuw",
+          "short": "Gouweleeuw",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "juma-bah",
+          "name": "Juma Bah",
+          "short": "Bah",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 52,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "chrislain-matsima",
+          "name": "Chrislain Matsima",
+          "short": "Matsima",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 54,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "felix-keidel",
+          "name": "Felix Keidel",
+          "short": "Keidel",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mert-komur",
+          "name": "Mert Kömür",
+          "short": "Kömür",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "arijon-ibrahimovic",
+          "name": "Arijon Ibrahimovic",
+          "short": "Ibrahimovic",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "seol-young-woo",
+          "name": "Seol Young-Woo",
+          "short": "Young-Woo",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "robin-fellhauer",
+          "name": "Robin Fellhauer",
+          "short": "Fellhauer",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "lukas-finn-pinckert",
+          "name": "Lukas Finn Pinckert",
+          "short": "Pinckert",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 76,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "michael-gregoritsch",
+          "name": "Michael Gregoritsch",
+          "short": "Gregoritsch",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "3 - 2",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Penalty awarded after Lukas Pinckert fouled Hennes Behrens. Michael Gregoritsch converted the penalty with a left-footed shot to the bottom left corner."
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "noel-futkeu",
+          "name": "Noel Futkeu",
+          "short": "Futkeu",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "david-mokwa",
+          "name": "David Mokwa",
+          "short": "Mokwa",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "raif-adam",
+          "name": "Raif Adam",
+          "short": "Adam",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "maurice-krattenmacher",
+          "name": "Maurice Krattenmacher",
+          "short": "Krattenmacher",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "raif-adam",
+          "name": "Raif Adam",
+          "short": "Adam",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Goal by Raif Adam ruled out for offside after VAR review."
+      },
+      {
+        "minute": 84,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "nicolas-kristof",
+          "name": "Nicolas Kristof",
+          "short": "Kristof",
+          "position": "GK",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 89,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "frederik-schmahl",
+          "name": "Frederik Schmahl",
+          "short": "Schmahl",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "4 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "lukas-petkov",
+          "name": "Lukas Petkov",
+          "short": "Petkov",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Frederik Schmahl scored with a right-footed shot from very close range to the bottom right corner. Assist: Lukas Petkov."
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "mert-komur",
+          "name": "Mert Kömür",
+          "short": "Kömür",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "4 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "hennes-behrens",
+          "name": "Hennes Behrens",
+          "short": "Behrens",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Mert Kömür scored with a left-footed shot from the centre of the box to the bottom right corner. Assist: Hennes Behrens with a cross."
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "amara-conde",
+          "name": "Amara Conde",
+          "short": "Conde",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "felix-keidel",
+          "name": "Felix Keidel",
+          "short": "Keidel",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "frederik-schmahl",
+          "name": "Frederik Schmahl",
+          "short": "Schmahl",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        19,
+        29
+      ],
+      "onTarget": [
+        8,
+        8
+      ],
+      "corners": [
+        4,
+        12
+      ],
+      "fouls": [
+        16,
+        14
+      ],
+      "possession": 40
+    },
+    "attendance": 9307,
+    "referee": {
+      "name": "Florian Exner",
+      "country": "Germany"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884764",
+      "https://www.espn.com/soccer/match/_/gameId/401884764",
+      "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916176",
+      "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

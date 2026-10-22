@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "warren-zaire-emery-france-morocco-2026-07-09",
+    "name": "Warren Zaïre-Emery",
+    "short": "Zaïre-Emery",
+    "position": "DM",
+    "photo": "assets/photos/people/warren-zaire-emery.jpg",
+    "matches": [
+      {
+        "match": "france-morocco-2026-07-09",
+        "date": "2026-07-09",
+        "team": "France",
+        "role": "bench"
+      }
+    ]
+  }
+}

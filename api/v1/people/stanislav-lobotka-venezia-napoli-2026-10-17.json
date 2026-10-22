@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "stanislav-lobotka-venezia-napoli-2026-10-17",
+    "name": "Stanislav Lobotka",
+    "short": "Lobotka",
+    "position": "CM",
+    "photo": "assets/photos/people/stanislav-lobotka.jpg",
+    "matches": [
+      {
+        "match": "venezia-napoli-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Napoli",
+        "role": "starter"
+      }
+    ]
+  }
+}

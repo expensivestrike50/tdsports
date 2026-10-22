@@ -1,0 +1,828 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "como-man-united",
+    "date": "2026-10-21",
+    "kickoff": "18:45",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Como",
+      "id": "como",
+      "crest": "assets/clubs/2572.png",
+      "country": "IT"
+    },
+    "away": {
+      "name": "Man United",
+      "id": "man-united",
+      "crest": "assets/clubs/360.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "tv": "CBS Sports",
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Giuseppe Sinigaglia",
+      "city": "Como",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "cesc-fabregas",
+          "name": "Cesc Fàbregas",
+          "short": "Fàbregas",
+          "position": "Coach",
+          "photo": "assets/photos/people/cesc-fabregas.jpg"
+        },
+        "starting": [
+          {
+            "id": "jean-butez",
+            "name": "Jean Butez",
+            "short": "Butez",
+            "position": "GK",
+            "photo": "assets/photos/people/jean-butez.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "alex-valle",
+            "name": "Álex Valle",
+            "short": "Valle",
+            "position": "LB",
+            "photo": "assets/photos/people/alex-valle.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "marc-oliver-kempf",
+            "name": "Marc-Oliver Kempf",
+            "short": "Kempf",
+            "position": "CB",
+            "photo": "assets/photos/people/marc-oliver-kempf.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 7.7
+          },
+          {
+            "id": "jacobo-ramon",
+            "name": "Jacobo Ramón",
+            "short": "Ramón",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.7
+          },
+          {
+            "id": "yan-couto",
+            "name": "Yan Couto",
+            "short": "Couto",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.4
+          },
+          {
+            "id": "maximo-perrone",
+            "name": "Máximo Perrone",
+            "short": "Perrone",
+            "position": "DM",
+            "photo": "assets/photos/people/maximo-perrone.jpg",
+            "x": 27,
+            "y": 30,
+            "rating": 7.3
+          },
+          {
+            "id": "luis-milla",
+            "name": "Luis Milla",
+            "short": "Milla",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.5
+          },
+          {
+            "id": "martin-baturina",
+            "name": "Martin Baturina",
+            "short": "Baturina",
+            "position": "LW",
+            "photo": "assets/photos/people/martin-baturina.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 7.3
+          },
+          {
+            "id": "nico-paz",
+            "name": "Nico Paz",
+            "short": "Paz",
+            "position": "AM",
+            "photo": "assets/photos/people/nico-paz.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 9.4
+          },
+          {
+            "id": "lucas-da-cunha",
+            "name": "Lucas Da Cunha",
+            "short": "Da Cunha",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.5
+          },
+          {
+            "id": "anastasios-douvikas",
+            "name": "Anastasios Douvikas",
+            "short": "Douvikas",
+            "position": "ST",
+            "photo": "assets/photos/people/anastasios-douvikas.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 8.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "maxence-caqueret",
+            "name": "Maxence Caqueret",
+            "short": "Caqueret",
+            "position": "LW",
+            "photo": "assets/photos/people/maxence-caqueret.jpg",
+            "rating": 6.5
+          },
+          {
+            "id": "kaiki",
+            "name": "Kaiki",
+            "short": "Kaiki",
+            "position": "RW",
+            "photo": "assets/photos/people/kaiki.jpg",
+            "rating": 8.1
+          },
+          {
+            "id": "alberto-dossena",
+            "name": "Alberto Dossena",
+            "short": "Dossena",
+            "position": "DM",
+            "photo": "assets/photos/people/alberto-dossena.jpg",
+            "rating": 7.6
+          },
+          {
+            "id": "samuele-ricci",
+            "name": "Samuele Ricci",
+            "short": "Ricci",
+            "position": "AM",
+            "photo": "assets/photos/people/samuele-ricci.jpg",
+            "rating": 7.2
+          },
+          {
+            "id": "ivan-smolcic",
+            "name": "Ivan Smolcic",
+            "short": "Smolcic",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "lorenzo-luigi-ginelli",
+            "name": "Lorenzo Luigi Ginelli",
+            "short": "Ginelli",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "robert-sanchez",
+            "name": "Robert Sánchez",
+            "short": "Sánchez",
+            "position": "CM",
+            "photo": "assets/photos/people/robert-sanchez.jpg",
+            "rating": null
+          },
+          {
+            "id": "mattia-liberali",
+            "name": "Mattia Liberali",
+            "short": "Liberali",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "michael-carrick",
+          "name": "Michael Carrick",
+          "short": "Carrick",
+          "position": "Coach",
+          "photo": "assets/photos/people/michael-carrick.jpg"
+        },
+        "starting": [
+          {
+            "id": "senne-lammens",
+            "name": "Senne Lammens",
+            "short": "Lammens",
+            "position": "GK",
+            "photo": "assets/photos/people/senne-lammens.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "noussair-mazraoui",
+            "name": "Noussair Mazraoui",
+            "short": "Mazraoui",
+            "position": "LB",
+            "photo": "assets/photos/people/noussair-mazraoui.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 6.3
+          },
+          {
+            "id": "matthijs-de-ligt",
+            "name": "Matthijs de Ligt",
+            "short": "de Ligt",
+            "position": "CB",
+            "photo": "assets/photos/people/matthijs-de-ligt.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 6.1
+          },
+          {
+            "id": "harry-maguire",
+            "name": "Harry Maguire",
+            "short": "Maguire",
+            "position": "CB",
+            "photo": "assets/photos/people/harry-maguire.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 7.4
+          },
+          {
+            "id": "diogo-dalot",
+            "name": "Diogo Dalot",
+            "short": "Dalot",
+            "position": "RB",
+            "photo": "assets/photos/people/diogo-dalot.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "youri-tielemans",
+            "name": "Youri Tielemans",
+            "short": "Tielemans",
+            "position": "DM",
+            "photo": "assets/photos/people/youri-tielemans.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 7.3
+          },
+          {
+            "id": "andrey-santos",
+            "name": "Andrey Santos",
+            "short": "Andrey Santos",
+            "position": "DM",
+            "photo": "assets/photos/people/andrey-santos.jpg",
+            "x": 73,
+            "y": 30,
+            "rating": 6.5
+          },
+          {
+            "id": "mason-mount",
+            "name": "Mason Mount",
+            "short": "Mount",
+            "position": "LW",
+            "photo": "assets/photos/people/mason-mount.jpg",
+            "x": 63,
+            "y": 77,
+            "rating": 6.6
+          },
+          {
+            "id": "bruno-fernandes",
+            "name": "Bruno Fernandes",
+            "short": "Bruno Fernandes",
+            "position": "AM",
+            "photo": "assets/photos/people/bruno-fernandes.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "matheus-cunha",
+            "name": "Matheus Cunha",
+            "short": "Cunha",
+            "position": "RW",
+            "photo": "assets/photos/people/matheus-cunha.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 6.8
+          },
+          {
+            "id": "bryan-mbeumo",
+            "name": "Bryan Mbeumo",
+            "short": "Mbeumo",
+            "position": "ST",
+            "photo": "assets/photos/people/bryan-mbeumo.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 6.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "amad-diallo",
+            "name": "Amad Diallo",
+            "short": "Diallo",
+            "position": "RW",
+            "photo": "assets/photos/people/amad-diallo.jpg",
+            "rating": 6.9
+          },
+          {
+            "id": "carlos-baleba",
+            "name": "Carlos Baleba",
+            "short": "Baleba",
+            "position": "DM",
+            "photo": "assets/photos/people/carlos-baleba.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "joshua-zirkzee",
+            "name": "Joshua Zirkzee",
+            "short": "Zirkzee",
+            "position": "AM",
+            "photo": "assets/photos/people/joshua-zirkzee.jpg",
+            "rating": 7.6
+          },
+          {
+            "id": "harry-amass",
+            "name": "Harry Amass",
+            "short": "Amass",
+            "position": "CB",
+            "photo": "assets/photos/people/harry-amass.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "shea-lacey",
+            "name": "Shea Lacey",
+            "short": "Lacey",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "tynan-thompson",
+            "name": "Tynan Thompson",
+            "short": "Thompson",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "daniel-armer",
+            "name": "Daniel Armer",
+            "short": "Armer",
+            "position": "CM",
+            "photo": "assets/photos/people/daniel-armer.jpg",
+            "rating": null
+          },
+          {
+            "id": "jack-fletcher",
+            "name": "Jack Fletcher",
+            "short": "Fletcher",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tom-heaton",
+            "name": "Tom Heaton",
+            "short": "Heaton",
+            "position": "CM",
+            "photo": "assets/photos/people/tom-heaton.jpg",
+            "rating": null
+          },
+          {
+            "id": "karl-darlow",
+            "name": "Karl Darlow",
+            "short": "Darlow",
+            "position": "CM",
+            "photo": "assets/photos/people/karl-darlow.jpg",
+            "rating": null
+          },
+          {
+            "id": "jaydan-kamason",
+            "name": "Jaydan Kamason",
+            "short": "Kamason",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 2,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "nico-paz",
+          "name": "Nico Paz",
+          "short": "Paz",
+          "position": "AM",
+          "photo": "assets/photos/people/nico-paz.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "lucas-da-cunha",
+          "name": "Lucas Da Cunha",
+          "short": "Da Cunha",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Nico Paz collected Lucas Da Cunha's pass on the edge of the box, immediately cut onto his left foot and bent the ball past Senne Lammens into the bottom left corner after two minutes."
+      },
+      {
+        "minute": 25,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "andrey-santos",
+          "name": "Andrey Santos",
+          "short": "Andrey Santos",
+          "position": "DM",
+          "photo": "assets/photos/people/andrey-santos.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "amad-diallo",
+          "name": "Amad Diallo",
+          "short": "Diallo",
+          "position": "RW",
+          "photo": "assets/photos/people/amad-diallo.jpg"
+        },
+        "replaced": {
+          "id": "matheus-cunha",
+          "name": "Matheus Cunha",
+          "short": "Cunha",
+          "position": "RW",
+          "photo": "assets/photos/people/matheus-cunha.jpg"
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "carlos-baleba",
+          "name": "Carlos Baleba",
+          "short": "Baleba",
+          "position": "DM",
+          "photo": "assets/photos/people/carlos-baleba.jpg"
+        },
+        "replaced": {
+          "id": "andrey-santos",
+          "name": "Andrey Santos",
+          "short": "Andrey Santos",
+          "position": "DM",
+          "photo": "assets/photos/people/andrey-santos.jpg"
+        }
+      },
+      {
+        "minute": 49,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "anastasios-douvikas",
+          "name": "Anastasios Douvikas",
+          "short": "Douvikas",
+          "position": "ST",
+          "photo": "assets/photos/people/anastasios-douvikas.jpg"
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "nico-paz",
+          "name": "Nico Paz",
+          "short": "Paz",
+          "position": "AM",
+          "photo": "assets/photos/people/nico-paz.jpg"
+        },
+        "goalType": "build",
+        "description": "Incisive play cut through the middle of United; Nico Paz slipped a through ball to Tasos Douvikas, who left Matthijs de Ligt stumbling and slammed a right-footed shot into the top right corner."
+      },
+      {
+        "minute": 50,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "carlos-baleba",
+          "name": "Carlos Baleba",
+          "short": "Baleba",
+          "position": "DM",
+          "photo": "assets/photos/people/carlos-baleba.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 57,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "nico-paz",
+          "name": "Nico Paz",
+          "short": "Paz",
+          "position": "AM",
+          "photo": "assets/photos/people/nico-paz.jpg"
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "counter",
+        "description": "Nico Paz cut out a Carlos Baleba pass on the flank, darted forward and finished left-footed from the right side of the box into the bottom left corner."
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "maxence-caqueret",
+          "name": "Maxence Caqueret",
+          "short": "Caqueret",
+          "position": "LW",
+          "photo": "assets/photos/people/maxence-caqueret.jpg"
+        },
+        "replaced": {
+          "id": "martin-baturina",
+          "name": "Martin Baturina",
+          "short": "Baturina",
+          "position": "LW",
+          "photo": "assets/photos/people/martin-baturina.jpg"
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "joshua-zirkzee",
+          "name": "Joshua Zirkzee",
+          "short": "Zirkzee",
+          "position": "AM",
+          "photo": "assets/photos/people/joshua-zirkzee.jpg"
+        },
+        "replaced": {
+          "id": "bruno-fernandes",
+          "name": "Bruno Fernandes",
+          "short": "Bruno Fernandes",
+          "position": "AM",
+          "photo": "assets/photos/people/bruno-fernandes.jpg"
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kaiki",
+          "name": "Kaiki",
+          "short": "Kaiki",
+          "position": "RW",
+          "photo": "assets/photos/people/kaiki.jpg"
+        },
+        "replaced": {
+          "id": "lucas-da-cunha",
+          "name": "Lucas Da Cunha",
+          "short": "Da Cunha",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "jacobo-ramon",
+          "name": "Jacobo Ramón",
+          "short": "Ramón",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "4 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "kaiki",
+          "name": "Kaiki",
+          "short": "Kaiki",
+          "position": "RW",
+          "photo": "assets/photos/people/kaiki.jpg"
+        },
+        "goalType": "build",
+        "description": "Substitute Kaiki crossed and the unmarked Jacobo Ramón headed home from very close range."
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "harry-amass",
+          "name": "Harry Amass",
+          "short": "Amass",
+          "position": "CB",
+          "photo": "assets/photos/people/harry-amass.jpg"
+        },
+        "replaced": {
+          "id": "matthijs-de-ligt",
+          "name": "Matthijs de Ligt",
+          "short": "de Ligt",
+          "position": "CB",
+          "photo": "assets/photos/people/matthijs-de-ligt.jpg"
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "alberto-dossena",
+          "name": "Alberto Dossena",
+          "short": "Dossena",
+          "position": "DM",
+          "photo": "assets/photos/people/alberto-dossena.jpg"
+        },
+        "replaced": {
+          "id": "maximo-perrone",
+          "name": "Máximo Perrone",
+          "short": "Perrone",
+          "position": "DM",
+          "photo": "assets/photos/people/maximo-perrone.jpg"
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "samuele-ricci",
+          "name": "Samuele Ricci",
+          "short": "Ricci",
+          "position": "AM",
+          "photo": "assets/photos/people/samuele-ricci.jpg"
+        },
+        "replaced": {
+          "id": "nico-paz",
+          "name": "Nico Paz",
+          "short": "Paz",
+          "position": "AM",
+          "photo": "assets/photos/people/nico-paz.jpg"
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ivan-smolcic",
+          "name": "Ivan Smolcic",
+          "short": "Smolcic",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "yan-couto",
+          "name": "Yan Couto",
+          "short": "Couto",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "marc-oliver-kempf",
+          "name": "Marc-Oliver Kempf",
+          "short": "Kempf",
+          "position": "CB",
+          "photo": "assets/photos/people/marc-oliver-kempf.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 86,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "shea-lacey",
+          "name": "Shea Lacey",
+          "short": "Lacey",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bryan-mbeumo",
+          "name": "Bryan Mbeumo",
+          "short": "Mbeumo",
+          "position": "ST",
+          "photo": "assets/photos/people/bryan-mbeumo.jpg"
+        }
+      },
+      {
+        "minute": 86,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "shea-lacey",
+          "name": "Shea Lacey",
+          "short": "Lacey",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 91,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "joshua-zirkzee",
+          "name": "Joshua Zirkzee",
+          "short": "Zirkzee",
+          "position": "AM",
+          "photo": "assets/photos/people/joshua-zirkzee.jpg"
+        },
+        "scoreAfter": "4 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "amad-diallo",
+          "name": "Amad Diallo",
+          "short": "Diallo",
+          "position": "RW",
+          "photo": "assets/photos/people/amad-diallo.jpg"
+        },
+        "goalType": "build",
+        "description": "Stoppage-time consolation: Amad Diallo crossed and fellow substitute Joshua Zirkzee finished right-footed from the centre of the box."
+      }
+    ],
+    "stats": {
+      "shots": [
+        11,
+        13
+      ],
+      "onTarget": [
+        8,
+        4
+      ],
+      "corners": [
+        1,
+        4
+      ],
+      "fouls": [
+        10,
+        11
+      ],
+      "possession": 55
+    },
+    "attendance": 10875,
+    "referee": {
+      "name": "Sven Jablonski",
+      "country": "Germany"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401915395",
+      "https://www.espn.com/soccer/report/_/gameId/401915395",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915395",
+      "https://www.uefa.com/uefachampionsleague/match/2049606/",
+      "https://match.uefa.com/v5/matches/2049606/lineups",
+      "https://match.uefa.com/v5/matches?competitionId=1&fromDate=2026-10-21&toDate=2026-10-21"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

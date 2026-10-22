@@ -1,0 +1,24 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "luis-garcia",
+    "name": "Luis García",
+    "short": "García",
+    "position": "GK",
+    "photo": null,
+    "matches": [
+      {
+        "match": "toluca-tijuana-2026-10-21",
+        "date": "2026-10-21",
+        "team": "Toluca",
+        "role": "starter"
+      },
+      {
+        "match": "toluca-tijuana-2026-10-21",
+        "date": "2026-10-21",
+        "team": "Toluca",
+        "role": "bench"
+      }
+    ]
+  }
+}

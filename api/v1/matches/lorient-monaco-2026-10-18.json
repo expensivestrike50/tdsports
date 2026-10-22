@@ -1,0 +1,695 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "lorient-monaco-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "17:15",
+    "competition": "Ligue 1",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Lorient",
+      "id": "lorient",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Monaco",
+      "id": "monaco",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+      "country": "FR"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stade du Moustoir - Yves Allainmat",
+      "city": "Lorient",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "alexandre-dujeux",
+          "name": "Alexandre Dujeux",
+          "short": "Dujeux",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "yvon-mvogo",
+            "name": "Yvon Mvogo",
+            "short": "Mvogo",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "isaak-toure",
+            "name": "Isaak Touré",
+            "short": "Touré",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 6.4
+          },
+          {
+            "id": "montassar-talbi",
+            "name": "Montassar Talbi",
+            "short": "Talbi",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "nathaniel-adjei",
+            "name": "Nathaniel Adjei",
+            "short": "Adjei",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7.4
+          },
+          {
+            "id": "arsene-kouassi",
+            "name": "Arsène Kouassi",
+            "short": "Kouassi",
+            "position": "LB",
+            "photo": null,
+            "x": 27,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "arthur-avom",
+            "name": "Arthur Avom",
+            "short": "Avom",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 38,
+            "rating": 7.5
+          },
+          {
+            "id": "noah-cadiou",
+            "name": "Noah Cadiou",
+            "short": "Cadiou",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 64,
+            "rating": 7.3
+          },
+          {
+            "id": "dembo-sylla",
+            "name": "Dembo Sylla",
+            "short": "Sylla",
+            "position": "RB",
+            "photo": null,
+            "x": 27,
+            "y": 88,
+            "rating": 7.2
+          },
+          {
+            "id": "gabin-bernardeau",
+            "name": "Gabin Bernardeau",
+            "short": "Bernardeau",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 6.8
+          },
+          {
+            "id": "jean-victor-makengo",
+            "name": "Jean-Victor Makengo",
+            "short": "Makengo",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 6.8
+          },
+          {
+            "id": "ibrahima-balde",
+            "name": "Ibrahima Baldé",
+            "short": "Baldé",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "mamadou-kone",
+            "name": "Mamadou Koné",
+            "short": "Koné",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "souleymane-faye",
+            "name": "Souleymane Faye",
+            "short": "Faye",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "srdjan-kuzmic",
+            "name": "Srdjan Kuzmic",
+            "short": "Kuzmic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "theo-le-bris",
+            "name": "Théo Le Bris",
+            "short": "Bris",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "bingourou-kamara",
+            "name": "Bingourou Kamara",
+            "short": "Kamara",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nosa-obaretin",
+            "name": "Nosa Obaretin",
+            "short": "Obaretin",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "panos-katseris",
+            "name": "Panos Katseris",
+            "short": "Katseris",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tosin-aiyegun",
+            "name": "Tosin Aiyegun",
+            "short": "Aiyegun",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alec-georgen",
+            "name": "Alec Georgen",
+            "short": "Georgen",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "filipe-luis",
+          "name": "Filipe Luís",
+          "short": "Luís",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "lukas-hradecky",
+            "name": "Lukas Hradecky",
+            "short": "Hradecky",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "nazinho",
+            "name": "Názinho",
+            "short": "Názinho",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.6
+          },
+          {
+            "id": "mohammed-salisu",
+            "name": "Mohammed Salisu",
+            "short": "Salisu",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "sadibou-sane",
+            "name": "Sadibou Sané",
+            "short": "Sané",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.4
+          },
+          {
+            "id": "vanderson",
+            "name": "Vanderson",
+            "short": "Vanderson",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "denis-zakaria",
+            "name": "Denis Zakaria",
+            "short": "Zakaria",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 7.4
+          },
+          {
+            "id": "lamine-camara",
+            "name": "Lamine Camara",
+            "short": "Camara",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 6.6
+          },
+          {
+            "id": "aleksandr-golovin",
+            "name": "Aleksandr Golovin",
+            "short": "Golovin",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 7.2
+          },
+          {
+            "id": "ansu-fati",
+            "name": "Ansu Fati",
+            "short": "Fati",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "takumi-minamino",
+            "name": "Takumi Minamino",
+            "short": "Minamino",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 6.2
+          },
+          {
+            "id": "matthis-abline",
+            "name": "Matthis Abline",
+            "short": "Abline",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "edan-diop",
+            "name": "Edan Diop",
+            "short": "Diop",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "folarin-balogun",
+            "name": "Folarin Balogun",
+            "short": "Balogun",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "mathys-detourbet",
+            "name": "Mathys Detourbet",
+            "short": "Detourbet",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "christian-mawissa",
+            "name": "Christian Mawissa",
+            "short": "Mawissa",
+            "position": "CB",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "mika-biereth",
+            "name": "Mika Biereth",
+            "short": "Biereth",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "jordan-teze",
+            "name": "Jordan Teze",
+            "short": "Teze",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mamadou-coulibaly",
+            "name": "Mamadou Coulibaly",
+            "short": "Coulibaly",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "pape-cabral",
+            "name": "Pape Cabral",
+            "short": "Cabral",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "philipp-kohn",
+            "name": "Philipp Köhn",
+            "short": "Köhn",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 52,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "edan-diop",
+          "name": "Edan Diop",
+          "short": "Diop",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "takumi-minamino",
+          "name": "Takumi Minamino",
+          "short": "Minamino",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 57,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "mohammed-salisu",
+          "name": "Mohammed Salisu",
+          "short": "Salisu",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 60,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "denis-zakaria",
+          "name": "Denis Zakaria",
+          "short": "Zakaria",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 60,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "nazinho",
+          "name": "Názinho",
+          "short": "Názinho",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 61,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "noah-cadiou",
+          "name": "Noah Cadiou",
+          "short": "Cadiou",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "After Denis Zakaria fouled in the area, Noah Cadiou converted the penalty right-footed into the bottom right corner for the only goal."
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "folarin-balogun",
+          "name": "Folarin Balogun",
+          "short": "Balogun",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ansu-fati",
+          "name": "Ansu Fati",
+          "short": "Fati",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mathys-detourbet",
+          "name": "Mathys Detourbet",
+          "short": "Detourbet",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "denis-zakaria",
+          "name": "Denis Zakaria",
+          "short": "Zakaria",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "christian-mawissa",
+          "name": "Christian Mawissa",
+          "short": "Mawissa",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mohammed-salisu",
+          "name": "Mohammed Salisu",
+          "short": "Salisu",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "noah-cadiou",
+          "name": "Noah Cadiou",
+          "short": "Cadiou",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mamadou-kone",
+          "name": "Mamadou Koné",
+          "short": "Koné",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ibrahima-balde",
+          "name": "Ibrahima Baldé",
+          "short": "Baldé",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mika-biereth",
+          "name": "Mika Biereth",
+          "short": "Biereth",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "matthis-abline",
+          "name": "Matthis Abline",
+          "short": "Abline",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "arsene-kouassi",
+          "name": "Arsène Kouassi",
+          "short": "Kouassi",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "souleymane-faye",
+          "name": "Souleymane Faye",
+          "short": "Faye",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gabin-bernardeau",
+          "name": "Gabin Bernardeau",
+          "short": "Bernardeau",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "christian-mawissa",
+          "name": "Christian Mawissa",
+          "short": "Mawissa",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        9,
+        15
+      ],
+      "onTarget": [
+        3,
+        4
+      ],
+      "corners": [
+        3,
+        4
+      ],
+      "fouls": [
+        10,
+        16
+      ],
+      "possession": 42
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Marc Bollengier",
+      "country": "France"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876435",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876435",
+      "https://ligue1.com/fr/articles/l1_article_5927-",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "yan-diomande",
+    "name": "Yan Diomande",
+    "short": "Diomande",
+    "position": "LW",
+    "photo": "assets/photos/people/yan-diomande.jpg",
+    "matches": [
+      {
+        "match": "madrid-leipzig",
+        "date": "2026-10-21",
+        "team": "Real Madrid",
+        "role": "bench"
+      }
+    ]
+  }
+}

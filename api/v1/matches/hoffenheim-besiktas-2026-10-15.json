@@ -1,0 +1,890 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "hoffenheim-besiktas-2026-10-15",
+    "date": "2026-10-15",
+    "kickoff": "21:00",
+    "competition": "UEFA Europa League",
+    "round": "League phase, matchday 2",
+    "status": "FT",
+    "home": {
+      "name": "Hoffenheim",
+      "id": "hoffenheim",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+      "country": "DE"
+    },
+    "away": {
+      "name": "Besiktas",
+      "id": "besiktas",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png",
+      "country": "TR"
+    },
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "PreZero Arena",
+      "city": "Sinsheim",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "christian-ilzer-hoffenheim-besiktas-2026-10-15",
+          "name": "Christian Ilzer",
+          "short": "Ilzer",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "oliver-baumann-hoffenheim-besiktas-2026-10-15",
+            "name": "Oliver Baumann",
+            "short": "Baumann",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "bernardo",
+            "name": "Bernardo",
+            "short": "Bernardo",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "koki-machida-hoffenheim-besiktas-2026-10-15",
+            "name": "Koki Machida",
+            "short": "Machida",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 8.3
+          },
+          {
+            "id": "ozan-kabak-hoffenheim-besiktas-2026-10-15",
+            "name": "Ozan Kabak",
+            "short": "Kabak",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.7
+          },
+          {
+            "id": "vladimir-coufal-hoffenheim-besiktas-2026-10-15",
+            "name": "Vladimír Coufal",
+            "short": "Coufal",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.5
+          },
+          {
+            "id": "leon-avdullahu-hoffenheim-besiktas-2026-10-15",
+            "name": "Leon Avdullahu",
+            "short": "Avdullahu",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.4
+          },
+          {
+            "id": "wouter-burger-hoffenheim-besiktas-2026-10-15",
+            "name": "Wouter Burger",
+            "short": "Burger",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.7
+          },
+          {
+            "id": "adam-daghim-hoffenheim-besiktas-2026-10-15",
+            "name": "Adam Daghim",
+            "short": "Daghim",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.2
+          },
+          {
+            "id": "fisnik-asllani-hoffenheim-besiktas-2026-10-15",
+            "name": "Fisnik Asllani",
+            "short": "Asllani",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "andrej-kramaric-hoffenheim-besiktas-2026-10-15",
+            "name": "Andrej Kramaric",
+            "short": "Kramaric",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 6.9
+          },
+          {
+            "id": "adam-hlozek-hoffenheim-besiktas-2026-10-15",
+            "name": "Adam Hlozek",
+            "short": "Hlozek",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "alexander-prass-hoffenheim-besiktas-2026-10-15",
+            "name": "Alexander Prass",
+            "short": "Prass",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "tim-lemperle-hoffenheim-besiktas-2026-10-15",
+            "name": "Tim Lemperle",
+            "short": "Lemperle",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "nathan-de-cat",
+            "name": "Nathan De Cat",
+            "short": "Cat",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "bambase-conte-hoffenheim-besiktas-2026-10-15",
+            "name": "Bambasé Conté",
+            "short": "Conté",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "robin-hranac-hoffenheim-besiktas-2026-10-15",
+            "name": "Robin Hranác",
+            "short": "Hranác",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "valentin-gendrey-hoffenheim-besiktas-2026-10-15",
+            "name": "Valentin Gendrey",
+            "short": "Gendrey",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "cajetan-lenz-hoffenheim-besiktas-2026-10-15",
+            "name": "Cajetan Lenz",
+            "short": "Lenz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lukas-petersson",
+            "name": "Lúkas Petersson",
+            "short": "Petersson",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "natnael-abraha",
+            "name": "Natnael Abraha",
+            "short": "Abraha",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mats-rots-hoffenheim-besiktas-2026-10-15",
+            "name": "Mats Rots",
+            "short": "Rots",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-philipp-hoffenheim-besiktas-2026-10-15",
+            "name": "Luca Philipp",
+            "short": "Philipp",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "max-moerstedt-hoffenheim-besiktas-2026-10-15",
+            "name": "Max Moerstedt",
+            "short": "Moerstedt",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "vincenzo-italiano",
+          "name": "Vincenzo Italiano",
+          "short": "Italiano",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "alexander-nubel",
+            "name": "Alexander Nübel",
+            "short": "Nübel",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "kassoum-ouattara",
+            "name": "Kassoum Ouattara",
+            "short": "Ouattara",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "emir-han-topcu",
+            "name": "Emir Han Topcu",
+            "short": "Topcu",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.9
+          },
+          {
+            "id": "emmanuel-agbadou",
+            "name": "Emmanuel Agbadou",
+            "short": "Agbadou",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.4
+          },
+          {
+            "id": "amir-murillo",
+            "name": "Amir Murillo",
+            "short": "Murillo",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 8.4
+          },
+          {
+            "id": "orkun-kokcu",
+            "name": "Orkun Kökçü",
+            "short": "Kökçü",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 7.4
+          },
+          {
+            "id": "wilfred-ndidi",
+            "name": "Wilfred Ndidi",
+            "short": "Ndidi",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7
+          },
+          {
+            "id": "leandro-trossard",
+            "name": "Leandro Trossard",
+            "short": "Trossard",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 7.6
+          },
+          {
+            "id": "junior-olaitan",
+            "name": "Junior Olaitan",
+            "short": "Olaitan",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "ilhan-fakili",
+            "name": "Ilhan Fakili",
+            "short": "Fakili",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 7.3
+          },
+          {
+            "id": "oh-hyeon-gyu",
+            "name": "Oh Hyeon-Gyu",
+            "short": "Oh",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 9.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "fabio-miretti",
+            "name": "Fabio Miretti",
+            "short": "Miretti",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "salih-ozcan",
+            "name": "Salih Özcan",
+            "short": "Özcan",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "semih-kilicsoy",
+            "name": "Semih Kiliçsoy",
+            "short": "Kiliçsoy",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "ridvan-yilmaz",
+            "name": "Ridvan Yilmaz",
+            "short": "Yilmaz",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "umit-akdag",
+            "name": "Umit Akdag",
+            "short": "Akdag",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "ahmet-bircan",
+            "name": "Ahmet Bircan",
+            "short": "Bircan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ernest-poku",
+            "name": "Ernest Poku",
+            "short": "Poku",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "yasin-ozcan",
+            "name": "Yasin Ozcan",
+            "short": "Ozcan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dogan-alemdar",
+            "name": "Dogan Alemdar",
+            "short": "Alemdar",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "taylan-bulut",
+            "name": "Taylan Bulut",
+            "short": "Bulut",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tiago-djalo",
+            "name": "Tiago Djaló",
+            "short": "Djaló",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 23,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "fisnik-asllani-hoffenheim-besiktas-2026-10-15",
+          "name": "Fisnik Asllani",
+          "short": "Asllani",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "fabio-miretti",
+          "name": "Fabio Miretti",
+          "short": "Miretti",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "orkun-kokcu",
+          "name": "Orkun Kökçü",
+          "short": "Kökçü",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "alexander-prass-hoffenheim-besiktas-2026-10-15",
+          "name": "Alexander Prass",
+          "short": "Prass",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adam-daghim-hoffenheim-besiktas-2026-10-15",
+          "name": "Adam Daghim",
+          "short": "Daghim",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "tim-lemperle-hoffenheim-besiktas-2026-10-15",
+          "name": "Tim Lemperle",
+          "short": "Lemperle",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adam-hlozek-hoffenheim-besiktas-2026-10-15",
+          "name": "Adam Hlozek",
+          "short": "Hlozek",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "amir-murillo",
+          "name": "Amir Murillo",
+          "short": "Murillo",
+          "position": "RB",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "oh-hyeon-gyu",
+          "name": "Oh Hyeon-Gyu",
+          "short": "Oh",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Oh Hyeon-Gyu provided the assist following a corner; Amir Murillo scored with a right-footed shot from very close range to the bottom left corner."
+      },
+      {
+        "minute": 67,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "ozan-kabak-hoffenheim-besiktas-2026-10-15",
+          "name": "Ozan Kabak",
+          "short": "Kabak",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 68,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "fisnik-asllani-hoffenheim-besiktas-2026-10-15",
+          "name": "Fisnik Asllani",
+          "short": "Asllani",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "tim-lemperle-hoffenheim-besiktas-2026-10-15",
+          "name": "Tim Lemperle",
+          "short": "Lemperle",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Tim Lemperle provided the assist; Fisnik Asllani scored with a right-footed shot from the centre of the box to the bottom left corner."
+      },
+      {
+        "minute": 72,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "oh-hyeon-gyu",
+          "name": "Oh Hyeon-Gyu",
+          "short": "Oh",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "junior-olaitan",
+          "name": "Junior Olaitan",
+          "short": "Olaitan",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Junior Olaitan provided the assist with a through ball following a fast break; Oh Hyeon-Gyu scored with a right-footed shot from the left side of the box to the bottom left corner."
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nathan-de-cat",
+          "name": "Nathan De Cat",
+          "short": "Cat",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "wouter-burger-hoffenheim-besiktas-2026-10-15",
+          "name": "Wouter Burger",
+          "short": "Burger",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "bambase-conte-hoffenheim-besiktas-2026-10-15",
+          "name": "Bambasé Conté",
+          "short": "Conté",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "andrej-kramaric-hoffenheim-besiktas-2026-10-15",
+          "name": "Andrej Kramaric",
+          "short": "Kramaric",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "salih-ozcan",
+          "name": "Salih Özcan",
+          "short": "Özcan",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "junior-olaitan",
+          "name": "Junior Olaitan",
+          "short": "Olaitan",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "oh-hyeon-gyu",
+          "name": "Oh Hyeon-Gyu",
+          "short": "Oh",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "ilhan-fakili",
+          "name": "Ilhan Fakili",
+          "short": "Fakili",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Ilhan Fakili provided the assist with a cross following a fast break; Oh Hyeon-Gyu scored with a right-footed shot from the centre of the box to the bottom left corner."
+      },
+      {
+        "minute": 80,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "oh-hyeon-gyu",
+          "name": "Oh Hyeon-Gyu",
+          "short": "Oh",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "excessive celebration"
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "robin-hranac-hoffenheim-besiktas-2026-10-15",
+          "name": "Robin Hranác",
+          "short": "Hranác",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ozan-kabak-hoffenheim-besiktas-2026-10-15",
+          "name": "Ozan Kabak",
+          "short": "Kabak",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "semih-kilicsoy",
+          "name": "Semih Kiliçsoy",
+          "short": "Kiliçsoy",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "oh-hyeon-gyu",
+          "name": "Oh Hyeon-Gyu",
+          "short": "Oh",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "koki-machida-hoffenheim-besiktas-2026-10-15",
+          "name": "Koki Machida",
+          "short": "Machida",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "vladimir-coufal-hoffenheim-besiktas-2026-10-15",
+          "name": "Vladimír Coufal",
+          "short": "Coufal",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Vladimír Coufal provided the assist with a cross following a corner; Koki Machida scored with a header from the centre of the box to the bottom right corner."
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ridvan-yilmaz",
+          "name": "Ridvan Yilmaz",
+          "short": "Yilmaz",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kassoum-ouattara",
+          "name": "Kassoum Ouattara",
+          "short": "Ouattara",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "umit-akdag",
+          "name": "Umit Akdag",
+          "short": "Akdag",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "wilfred-ndidi",
+          "name": "Wilfred Ndidi",
+          "short": "Ndidi",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "tim-lemperle-hoffenheim-besiktas-2026-10-15",
+          "name": "Tim Lemperle",
+          "short": "Lemperle",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "koki-machida-hoffenheim-besiktas-2026-10-15",
+          "name": "Koki Machida",
+          "short": "Machida",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "vladimir-coufal-hoffenheim-besiktas-2026-10-15",
+          "name": "Vladimír Coufal",
+          "short": "Coufal",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "not specified"
+      }
+    ],
+    "stats": {
+      "shots": [
+        13,
+        19
+      ],
+      "onTarget": [
+        3,
+        5
+      ],
+      "corners": [
+        7,
+        5
+      ],
+      "fouls": [
+        18,
+        8
+      ],
+      "possession": 54
+    },
+    "attendance": 26632,
+    "referee": {
+      "name": "Lawrence Visser",
+      "country": "Belgium"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/summary?event=401915563",
+      "https://www.espn.com/soccer/match/_/gameId/401915563",
+      "https://match.uefa.com/v5/matches?competitionId=14&fromDate=2026-10-15&toDate=2026-10-15",
+      "https://match.uefa.com/v5/matches/2050090/lineups"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

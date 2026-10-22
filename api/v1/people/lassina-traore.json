@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "lassina-traore",
+    "name": "Lassina Traoré",
+    "short": "Traoré",
+    "position": "ST",
+    "photo": "assets/photos/people/lassina-traore.jpg",
+    "matches": [
+      {
+        "match": "inter-shakhtar",
+        "date": "2026-10-21",
+        "team": "Shakhtar Donetsk",
+        "role": "bench"
+      }
+    ]
+  }
+}

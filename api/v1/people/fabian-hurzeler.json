@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "fabian-hurzeler",
+    "name": "Fabian Hürzeler",
+    "short": "Hürzeler",
+    "position": "Coach",
+    "photo": null,
+    "matches": [
+      {
+        "match": "brighton-c-palace-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Brighton",
+        "role": "coach"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "luis-puente",
+    "name": "Luis Puente",
+    "short": "Puente",
+    "position": "ST",
+    "photo": null,
+    "matches": [
+      {
+        "match": "juarez-atlante-2026-10-20",
+        "date": "2026-10-20",
+        "team": "Atlante",
+        "role": "starter"
+      }
+    ]
+  }
+}

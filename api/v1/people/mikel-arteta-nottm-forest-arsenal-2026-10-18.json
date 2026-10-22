@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "mikel-arteta-nottm-forest-arsenal-2026-10-18",
+    "name": "Mikel Arteta",
+    "short": "Arteta",
+    "position": "Coach",
+    "photo": "assets/photos/people/mikel-arteta.jpg",
+    "matches": [
+      {
+        "match": "nottm-forest-arsenal-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Arsenal",
+        "role": "coach"
+      }
+    ]
+  }
+}

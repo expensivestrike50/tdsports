@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "przemyslaw-placheta",
+    "name": "Przemyslaw Placheta",
+    "short": "Placheta",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "austin-vancouver-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Austin",
+        "role": "bench"
+      }
+    ]
+  }
+}

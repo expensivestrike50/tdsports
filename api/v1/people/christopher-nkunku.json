@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "christopher-nkunku",
+    "name": "Christopher Nkunku",
+    "short": "Nkunku",
+    "position": "AM",
+    "photo": "assets/photos/people/christopher-nkunku.jpg",
+    "matches": [
+      {
+        "match": "madrid-leipzig",
+        "date": "2026-10-21",
+        "team": "RB Leipzig",
+        "role": "starter"
+      }
+    ]
+  }
+}

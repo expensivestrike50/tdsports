@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "willi-orban",
+    "name": "Willi Orbán",
+    "short": "Orbán",
+    "position": "CB",
+    "photo": "assets/photos/people/willi-orban.jpg",
+    "matches": [
+      {
+        "match": "madrid-leipzig",
+        "date": "2026-10-21",
+        "team": "RB Leipzig",
+        "role": "starter"
+      }
+    ]
+  }
+}

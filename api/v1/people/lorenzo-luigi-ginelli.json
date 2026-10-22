@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "lorenzo-luigi-ginelli",
+    "name": "Lorenzo Luigi Ginelli",
+    "short": "Ginelli",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "como-man-united",
+        "date": "2026-10-21",
+        "team": "Como",
+        "role": "bench"
+      }
+    ]
+  }
+}

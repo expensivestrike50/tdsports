@@ -1,0 +1,879 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "liverpool-villarreal",
+    "date": "2026-10-20",
+    "kickoff": "20:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Liverpool",
+      "id": "liverpool",
+      "crest": "assets/clubs/364.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Villarreal",
+      "id": "villarreal",
+      "crest": "assets/clubs/102.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 4,
+      "away": 3
+    },
+    "tv": "Paramount+",
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Anfield",
+      "city": "Liverpool",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "andoni-iraola",
+          "name": "Andoni Iraola",
+          "short": "Iraola",
+          "position": "Coach",
+          "photo": "assets/photos/people/andoni-iraola.jpg"
+        },
+        "starting": [
+          {
+            "id": "alisson-becker",
+            "name": "Alisson Becker",
+            "short": "Alisson",
+            "position": "GK",
+            "photo": "assets/photos/people/alisson-becker.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "kostas-tsimikas",
+            "name": "Kostas Tsimikas",
+            "short": "Tsimikas",
+            "position": "LB",
+            "photo": "assets/photos/people/kostas-tsimikas.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "virgil-van-dijk",
+            "name": "Virgil van Dijk",
+            "short": "Van Dijk",
+            "position": "CB",
+            "photo": "assets/photos/people/virgil-van-dijk.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 6.9
+          },
+          {
+            "id": "jeremy-jacquet",
+            "name": "Jérémy Jacquet",
+            "short": "Jacquet",
+            "position": "CB",
+            "photo": "assets/photos/people/jeremy-jacquet.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 7.5
+          },
+          {
+            "id": "ronald-araujo",
+            "name": "Ronald Araújo",
+            "short": "Araújo",
+            "position": "RB",
+            "photo": "assets/photos/people/ronald-araujo.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "trey-nyoni",
+            "name": "Trey Nyoni",
+            "short": "Nyoni",
+            "position": "DM",
+            "photo": "assets/photos/people/trey-nyoni.jpg",
+            "x": 27,
+            "y": 30,
+            "rating": 7.6
+          },
+          {
+            "id": "alexis-mac-allister",
+            "name": "Alexis Mac Allister",
+            "short": "Mac Allister",
+            "position": "DM",
+            "photo": "assets/photos/people/alexis-mac-allister.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 8.1
+          },
+          {
+            "id": "cody-gakpo",
+            "name": "Cody Gakpo",
+            "short": "Gakpo",
+            "position": "LW",
+            "photo": "assets/photos/people/cody-gakpo.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 7.4
+          },
+          {
+            "id": "ryan-gravenberch",
+            "name": "Ryan Gravenberch",
+            "short": "Gravenberch",
+            "position": "AM",
+            "photo": "assets/photos/people/ryan-gravenberch.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "rio-ngumoha",
+            "name": "Rio Ngumoha",
+            "short": "Ngumoha",
+            "position": "RW",
+            "photo": "assets/photos/people/rio-ngumoha.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 7.6
+          },
+          {
+            "id": "lewis-koumas",
+            "name": "Lewis Koumas",
+            "short": "Koumas",
+            "position": "ST",
+            "photo": "assets/photos/people/lewis-koumas.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 6.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "florian-wirtz",
+            "name": "Florian Wirtz",
+            "short": "Wirtz",
+            "position": "RB",
+            "photo": "assets/photos/people/florian-wirtz.jpg",
+            "rating": 8
+          },
+          {
+            "id": "alexander-isak",
+            "name": "Alexander Isak",
+            "short": "Isak",
+            "position": "ST",
+            "photo": "assets/photos/people/alexander-isak.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "bradley-barcola",
+            "name": "Bradley Barcola",
+            "short": "Barcola",
+            "position": "RW",
+            "photo": "assets/photos/people/bradley-barcola.jpg",
+            "rating": 7.1
+          },
+          {
+            "id": "joe-gomez",
+            "name": "Joe Gomez",
+            "short": "Gomez",
+            "position": "CB",
+            "photo": "assets/photos/people/joe-gomez.jpg",
+            "rating": 7
+          },
+          {
+            "id": "james-mcconnell",
+            "name": "James McConnell",
+            "short": "McConnell",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "luke-chambers",
+            "name": "Luke Chambers",
+            "short": "Chambers",
+            "position": "CM",
+            "photo": "assets/photos/people/luke-chambers.jpg",
+            "rating": null
+          },
+          {
+            "id": "milos-kerkez",
+            "name": "Milos Kerkez",
+            "short": "Kerkez",
+            "position": "CM",
+            "photo": "assets/photos/people/milos-kerkez.jpg",
+            "rating": null
+          },
+          {
+            "id": "giorgi-mamardashvili",
+            "name": "Giorgi Mamardashvili",
+            "short": "Mamardashvili",
+            "position": "CM",
+            "photo": "assets/photos/people/giorgi-mamardashvili.jpg",
+            "rating": null
+          },
+          {
+            "id": "jayden-danns",
+            "name": "Jayden Danns",
+            "short": "Danns",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "freddie-woodman",
+            "name": "Freddie Woodman",
+            "short": "Woodman",
+            "position": "CM",
+            "photo": "assets/photos/people/freddie-woodman.jpg",
+            "rating": null
+          },
+          {
+            "id": "michael-laffey",
+            "name": "Michael Laffey",
+            "short": "Laffey",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "inigo-perez",
+          "name": "Iñigo Pérez",
+          "short": "Pérez",
+          "position": "Coach",
+          "photo": "assets/photos/people/inigo-perez.jpg"
+        },
+        "starting": [
+          {
+            "id": "peter-gulacsi",
+            "name": "Péter Gulácsi",
+            "short": "Gulácsi",
+            "position": "GK",
+            "photo": "assets/photos/people/peter-gulacsi.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "sergi-cardona",
+            "name": "Sergi Cardona",
+            "short": "Cardona",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.2
+          },
+          {
+            "id": "renato-veiga",
+            "name": "Renato Veiga",
+            "short": "Veiga",
+            "position": "CB",
+            "photo": "assets/photos/people/renato-veiga.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 7
+          },
+          {
+            "id": "pau-navarro",
+            "name": "Pau Navarro",
+            "short": "Navarro",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.4
+          },
+          {
+            "id": "santiago-mourino",
+            "name": "Santiago Mouriño",
+            "short": "Mouriño",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.1
+          },
+          {
+            "id": "pape-gueye",
+            "name": "Pape Gueye",
+            "short": "Gueye",
+            "position": "DM",
+            "photo": "assets/photos/people/pape-gueye.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 6.5
+          },
+          {
+            "id": "santi-comesana",
+            "name": "Santi Comesaña",
+            "short": "Comesaña",
+            "position": "DM",
+            "photo": "assets/photos/people/santi-comesana.jpg",
+            "x": 73,
+            "y": 30,
+            "rating": 6.8
+          },
+          {
+            "id": "alberto-moleiro",
+            "name": "Alberto Moleiro",
+            "short": "Moleiro",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.6
+          },
+          {
+            "id": "nathan-saliba",
+            "name": "Nathan Saliba",
+            "short": "Saliba",
+            "position": "AM",
+            "photo": "assets/photos/people/nathan-saliba.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 7.6
+          },
+          {
+            "id": "tajon-buchanan",
+            "name": "Tajon Buchanan",
+            "short": "Buchanan",
+            "position": "RW",
+            "photo": "assets/photos/people/tajon-buchanan.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 6.6
+          },
+          {
+            "id": "georges-mikautadze",
+            "name": "Georges Mikautadze",
+            "short": "Mikautadze",
+            "position": "ST",
+            "photo": "assets/photos/people/georges-mikautadze.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 7.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "tani-oluwaseyi",
+            "name": "Tani Oluwaseyi",
+            "short": "Oluwaseyi",
+            "position": "AM",
+            "photo": "assets/photos/people/tani-oluwaseyi.jpg",
+            "rating": 8.4
+          },
+          {
+            "id": "juan-foyth",
+            "name": "Juan Foyth",
+            "short": "Foyth",
+            "position": "LW",
+            "photo": "assets/photos/people/juan-foyth.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "alex-freeman",
+            "name": "Alex Freeman",
+            "short": "Freeman",
+            "position": "RW",
+            "photo": "assets/photos/people/alex-freeman.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "ayoze-perez",
+            "name": "Ayoze Pérez",
+            "short": "Pérez",
+            "position": "ST",
+            "photo": "assets/photos/people/ayoze-perez.jpg",
+            "rating": 6.7
+          },
+          {
+            "id": "gerard-moreno",
+            "name": "Gerard Moreno",
+            "short": "Moreno",
+            "position": "DM",
+            "photo": "assets/photos/people/gerard-moreno.jpg",
+            "rating": 7.2
+          },
+          {
+            "id": "carlos-macia",
+            "name": "Carlos Macià",
+            "short": "Macià",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "joselillo",
+            "name": "Joselillo",
+            "short": "Joselillo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luiz-junior",
+            "name": "Luiz Júnior",
+            "short": "Júnior",
+            "position": "CM",
+            "photo": "assets/photos/people/luiz-junior.jpg",
+            "rating": null
+          },
+          {
+            "id": "logan-costa",
+            "name": "Logan Costa",
+            "short": "Costa",
+            "position": "CM",
+            "photo": "assets/photos/people/logan-costa.jpg",
+            "rating": null
+          },
+          {
+            "id": "nizar-el-jmili-ben-hamou",
+            "name": "Nizar El Jmili Ben Hamou",
+            "short": "Hamou",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ilias-akhomach",
+            "name": "Ilias Akhomach",
+            "short": "Akhomach",
+            "position": "CM",
+            "photo": "assets/photos/people/ilias-akhomach.jpg",
+            "rating": null
+          },
+          {
+            "id": "alassane-diatta",
+            "name": "Alassane Diatta",
+            "short": "Diatta",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 4,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "georges-mikautadze",
+          "name": "Georges Mikautadze",
+          "short": "Mikautadze",
+          "position": "ST",
+          "photo": "assets/photos/people/georges-mikautadze.jpg"
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": null,
+        "goalType": "counter",
+        "description": "Van Dijk's misdirected header fell into Mikautadze's path and he finished left-footed from a difficult angle on the left into the bottom-right corner."
+      },
+      {
+        "minute": 27,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "alberto-moleiro",
+          "name": "Alberto Moleiro",
+          "short": "Moleiro",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 29,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "sergi-cardona",
+          "name": "Sergi Cardona",
+          "short": "Cardona",
+          "position": "LB",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "nathan-saliba",
+          "name": "Nathan Saliba",
+          "short": "Saliba",
+          "position": "AM",
+          "photo": "assets/photos/people/nathan-saliba.jpg"
+        },
+        "goalType": "counter",
+        "description": "On a fast break Saliba's through ball found the unmarked Cardona, whose run Ngumoha failed to track, and the left-back finished left-footed from the centre of the box into the bottom-left corner."
+      },
+      {
+        "minute": 36,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "alexis-mac-allister",
+          "name": "Alexis Mac Allister",
+          "short": "Mac Allister",
+          "position": "DM",
+          "photo": "assets/photos/people/alexis-mac-allister.jpg"
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "kostas-tsimikas",
+          "name": "Kostas Tsimikas",
+          "short": "Tsimikas",
+          "position": "LB",
+          "photo": "assets/photos/people/kostas-tsimikas.jpg"
+        },
+        "goalType": "set",
+        "description": "From a corner, Tsimikas crossed and Mac Allister flicked a header from the centre of the box into the bottom-left corner."
+      },
+      {
+        "minute": 41,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "santiago-mourino",
+          "name": "Santiago Mouriño",
+          "short": "Mouriño",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 45,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "ronald-araujo",
+          "name": "Ronald Araújo",
+          "short": "Araújo",
+          "position": "RB",
+          "photo": "assets/photos/people/ronald-araujo.jpg"
+        },
+        "scoreAfter": "2 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "rio-ngumoha",
+          "name": "Rio Ngumoha",
+          "short": "Ngumoha",
+          "position": "RW",
+          "photo": "assets/photos/people/rio-ngumoha.jpg"
+        },
+        "goalType": "set",
+        "description": "In first-half stoppage time (45+2), Ngumoha delivered from a corner and Araújo headed in from the right side of the six-yard box into the bottom-right corner."
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "florian-wirtz",
+          "name": "Florian Wirtz",
+          "short": "Wirtz",
+          "position": "RB",
+          "photo": "assets/photos/people/florian-wirtz.jpg"
+        },
+        "replaced": {
+          "id": "ronald-araujo",
+          "name": "Ronald Araújo",
+          "short": "Araújo",
+          "position": "RB",
+          "photo": "assets/photos/people/ronald-araujo.jpg"
+        }
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "tani-oluwaseyi",
+          "name": "Tani Oluwaseyi",
+          "short": "Oluwaseyi",
+          "position": "AM",
+          "photo": "assets/photos/people/tani-oluwaseyi.jpg"
+        },
+        "replaced": {
+          "id": "nathan-saliba",
+          "name": "Nathan Saliba",
+          "short": "Saliba",
+          "position": "AM",
+          "photo": "assets/photos/people/nathan-saliba.jpg"
+        }
+      },
+      {
+        "minute": 54,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "juan-foyth",
+          "name": "Juan Foyth",
+          "short": "Foyth",
+          "position": "LW",
+          "photo": "assets/photos/people/juan-foyth.jpg"
+        },
+        "replaced": {
+          "id": "alberto-moleiro",
+          "name": "Alberto Moleiro",
+          "short": "Moleiro",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alex-freeman",
+          "name": "Alex Freeman",
+          "short": "Freeman",
+          "position": "RW",
+          "photo": "assets/photos/people/alex-freeman.jpg"
+        },
+        "replaced": {
+          "id": "tajon-buchanan",
+          "name": "Tajon Buchanan",
+          "short": "Buchanan",
+          "position": "RW",
+          "photo": "assets/photos/people/tajon-buchanan.jpg"
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ayoze-perez",
+          "name": "Ayoze Pérez",
+          "short": "Pérez",
+          "position": "ST",
+          "photo": "assets/photos/people/ayoze-perez.jpg"
+        },
+        "replaced": {
+          "id": "georges-mikautadze",
+          "name": "Georges Mikautadze",
+          "short": "Mikautadze",
+          "position": "ST",
+          "photo": "assets/photos/people/georges-mikautadze.jpg"
+        }
+      },
+      {
+        "minute": 65,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "alexis-mac-allister",
+          "name": "Alexis Mac Allister",
+          "short": "Mac Allister",
+          "position": "DM",
+          "photo": "assets/photos/people/alexis-mac-allister.jpg"
+        },
+        "scoreAfter": "3 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "rio-ngumoha",
+          "name": "Rio Ngumoha",
+          "short": "Ngumoha",
+          "position": "RW",
+          "photo": "assets/photos/people/rio-ngumoha.jpg"
+        },
+        "goalType": "build",
+        "description": "After one of Ngumoha's drives past Cardona, Mac Allister rammed a right-footed shot home from very close range into the roof of the net."
+      },
+      {
+        "minute": 66,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "alexander-isak",
+          "name": "Alexander Isak",
+          "short": "Isak",
+          "position": "ST",
+          "photo": "assets/photos/people/alexander-isak.jpg"
+        },
+        "replaced": {
+          "id": "lewis-koumas",
+          "name": "Lewis Koumas",
+          "short": "Koumas",
+          "position": "ST",
+          "photo": "assets/photos/people/lewis-koumas.jpg"
+        }
+      },
+      {
+        "minute": 68,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "florian-wirtz",
+          "name": "Florian Wirtz",
+          "short": "Wirtz",
+          "position": "RB",
+          "photo": "assets/photos/people/florian-wirtz.jpg"
+        },
+        "scoreAfter": "4 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "cody-gakpo",
+          "name": "Cody Gakpo",
+          "short": "Gakpo",
+          "position": "LW",
+          "photo": "assets/photos/people/cody-gakpo.jpg"
+        },
+        "goalType": "counter",
+        "description": "Gakpo set up Wirtz on a fast break and the substitute finished left-footed from the centre of the box into the bottom-right corner."
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "bradley-barcola",
+          "name": "Bradley Barcola",
+          "short": "Barcola",
+          "position": "RW",
+          "photo": "assets/photos/people/bradley-barcola.jpg"
+        },
+        "replaced": {
+          "id": "rio-ngumoha",
+          "name": "Rio Ngumoha",
+          "short": "Ngumoha",
+          "position": "RW",
+          "photo": "assets/photos/people/rio-ngumoha.jpg"
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "joe-gomez",
+          "name": "Joe Gomez",
+          "short": "Gomez",
+          "position": "CB",
+          "photo": "assets/photos/people/joe-gomez.jpg"
+        },
+        "replaced": {
+          "id": "jeremy-jacquet",
+          "name": "Jérémy Jacquet",
+          "short": "Jacquet",
+          "position": "CB",
+          "photo": "assets/photos/people/jeremy-jacquet.jpg"
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gerard-moreno",
+          "name": "Gerard Moreno",
+          "short": "Moreno",
+          "position": "DM",
+          "photo": "assets/photos/people/gerard-moreno.jpg"
+        },
+        "replaced": {
+          "id": "santi-comesana",
+          "name": "Santi Comesaña",
+          "short": "Comesaña",
+          "position": "DM",
+          "photo": "assets/photos/people/santi-comesana.jpg"
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "james-mcconnell",
+          "name": "James McConnell",
+          "short": "McConnell",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "trey-nyoni",
+          "name": "Trey Nyoni",
+          "short": "Nyoni",
+          "position": "DM",
+          "photo": "assets/photos/people/trey-nyoni.jpg"
+        }
+      },
+      {
+        "minute": 87,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "tani-oluwaseyi",
+          "name": "Tani Oluwaseyi",
+          "short": "Oluwaseyi",
+          "position": "AM",
+          "photo": "assets/photos/people/tani-oluwaseyi.jpg"
+        },
+        "scoreAfter": "4 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "ayoze-perez",
+          "name": "Ayoze Pérez",
+          "short": "Pérez",
+          "position": "ST",
+          "photo": "assets/photos/people/ayoze-perez.jpg"
+        },
+        "goalType": "build",
+        "description": "Ayoze Pérez crossed and Oluwaseyi volleyed left-footed from the centre of the box into the bottom-left corner."
+      }
+    ],
+    "stats": {
+      "shots": [
+        22,
+        14
+      ],
+      "onTarget": [
+        7,
+        5
+      ],
+      "corners": [
+        8,
+        2
+      ],
+      "fouls": [
+        12,
+        10
+      ],
+      "possession": 52
+    },
+    "attendance": 59610,
+    "referee": {
+      "name": "Szymon Marciniak",
+      "country": "Poland"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401915397",
+      "https://www.espn.com/soccer/report/_/gameId/401915397",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915397",
+      "https://match.uefa.com/v5/matches/2049590/lineups",
+      "https://www.uefa.com/uefachampionsleague/match/2049590/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "dean-henderson-france-england-2026-07-18",
+    "name": "Dean Henderson",
+    "short": "Henderson",
+    "position": "GK",
+    "photo": null,
+    "matches": [
+      {
+        "match": "france-england-2026-07-18",
+        "date": "2026-07-18",
+        "team": "England",
+        "role": "starter"
+      },
+      {
+        "match": "france-england-2026-07-18",
+        "date": "2026-07-18",
+        "team": "England",
+        "role": "bench"
+      }
+    ]
+  }
+}

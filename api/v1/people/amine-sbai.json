@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "amine-sbai",
+    "name": "Amine Sbaï",
+    "short": "Sbaï",
+    "position": "LW",
+    "photo": null,
+    "matches": [
+      {
+        "match": "angers-marseille-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Angers",
+        "role": "starter"
+      }
+    ]
+  }
+}

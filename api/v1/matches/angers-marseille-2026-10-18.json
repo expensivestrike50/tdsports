@@ -1,0 +1,826 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "angers-marseille-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "15:00",
+    "competition": "Ligue 1",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Angers",
+      "id": "angers",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Marseille",
+      "id": "marseille",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "country": "FR"
+    },
+    "score": {
+      "home": 2,
+      "away": 5
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stade Raymond Kopa",
+      "city": "Angers",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "stephane-gilli",
+          "name": "Stéphane Gilli",
+          "short": "Gilli",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "anthony-lopes",
+            "name": "Anthony Lopes",
+            "short": "Lopes",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "lilian-raolisoa",
+            "name": "Lilian Raolisoa",
+            "short": "Raolisoa",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 8
+          },
+          {
+            "id": "mael-gernigon",
+            "name": "Maël Gernigon",
+            "short": "Gernigon",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.6
+          },
+          {
+            "id": "emmanuel-biumla",
+            "name": "Emmanuel Biumla",
+            "short": "Biumla",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.5
+          },
+          {
+            "id": "carlens-arcus",
+            "name": "Carlens Arcus",
+            "short": "Arcus",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.3
+          },
+          {
+            "id": "branco-van-den-boomen",
+            "name": "Branco van den Boomen",
+            "short": "van den Boomen",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.2
+          },
+          {
+            "id": "yassin-belkhdim",
+            "name": "Yassin Belkhdim",
+            "short": "Belkhdim",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.1
+          },
+          {
+            "id": "amine-sbai",
+            "name": "Amine Sbaï",
+            "short": "Sbaï",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.8
+          },
+          {
+            "id": "louis-mouton",
+            "name": "Louis Mouton",
+            "short": "Mouton",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "jim-allevinah",
+            "name": "Jim Allevinah",
+            "short": "Allevinah",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.1
+          },
+          {
+            "id": "amine-el-ouazzani",
+            "name": "Amine El Ouazzani",
+            "short": "El Ouazzani",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "prosper-peter",
+            "name": "Prosper Peter",
+            "short": "Peter",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "joseph-kalulu-kyatengwa",
+            "name": "Joseph Kalulu Kyatengwa",
+            "short": "Kyatengwa",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "harouna-djibirin",
+            "name": "Harouna Djibirin",
+            "short": "Djibirin",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "bane-diatta",
+            "name": "Bané Diatta",
+            "short": "Diatta",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "anthony-bermont",
+            "name": "Anthony Bermont",
+            "short": "Bermont",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "jules-bouffandeau",
+            "name": "Jules Bouffandeau",
+            "short": "Bouffandeau",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marius-louar",
+            "name": "Marius Louãr",
+            "short": "Louãr",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mamadou-simbakoli",
+            "name": "Mamadou Simbakoli",
+            "short": "Simbakoli",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "oumar-pona",
+            "name": "Oumar Pona",
+            "short": "Pona",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "bruno-genesio-angers-marseille-2026-10-18",
+          "name": "Bruno Genesio",
+          "short": "Genesio",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "jeffrey-de-lange-angers-marseille-2026-10-18",
+            "name": "Jeffrey de Lange",
+            "short": "de Lange",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "emerson-angers-marseille-2026-10-18",
+            "name": "Emerson",
+            "short": "Emerson",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 8.2
+          },
+          {
+            "id": "geoffrey-kondogbia-angers-marseille-2026-10-18",
+            "name": "Geoffrey Kondogbia",
+            "short": "Kondogbia",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.3
+          },
+          {
+            "id": "cj-egan-riley-angers-marseille-2026-10-18",
+            "name": "CJ Egan-Riley",
+            "short": "Egan-Riley",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.2
+          },
+          {
+            "id": "timothy-weah-angers-marseille-2026-10-18",
+            "name": "Timothy Weah",
+            "short": "Weah",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 8.5
+          },
+          {
+            "id": "nouhoum-kamissoko-angers-marseille-2026-10-18",
+            "name": "Nouhoum Kamissoko",
+            "short": "Kamissoko",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 8.1
+          },
+          {
+            "id": "tochukwu-nnadi-angers-marseille-2026-10-18",
+            "name": "Tochukwu Nnadi",
+            "short": "Nnadi",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.7
+          },
+          {
+            "id": "igor-paixao-angers-marseille-2026-10-18",
+            "name": "Igor Paixão",
+            "short": "Igor Paixão",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 7.3
+          },
+          {
+            "id": "himad-abdelli-angers-marseille-2026-10-18",
+            "name": "Himad Abdelli",
+            "short": "Abdelli",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "amine-harit-angers-marseille-2026-10-18",
+            "name": "Amine Harit",
+            "short": "Harit",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 8
+          },
+          {
+            "id": "amine-gouiri-angers-marseille-2026-10-18",
+            "name": "Amine Gouiri",
+            "short": "Gouiri",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 8.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "nayef-aguerd-angers-marseille-2026-10-18",
+            "name": "Nayef Aguerd",
+            "short": "Aguerd",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "angel-gomes-angers-marseille-2026-10-18",
+            "name": "Angel Gomes",
+            "short": "Gomes",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "keyliane-abdallah-angers-marseille-2026-10-18",
+            "name": "Keyliane Abdallah",
+            "short": "Abdallah",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "neal-maupay-angers-marseille-2026-10-18",
+            "name": "Neal Maupay",
+            "short": "Maupay",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "ulisses-garcia-angers-marseille-2026-10-18",
+            "name": "Ulisses Garcia",
+            "short": "Garcia",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "kelyann-bezahaf-angers-marseille-2026-10-18",
+            "name": "Kelyann Bezahaf",
+            "short": "Bezahaf",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "bamo-meite-angers-marseille-2026-10-18",
+            "name": "Bamo Meïté",
+            "short": "Meïté",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tadjidine-mmadi-angers-marseille-2026-10-18",
+            "name": "Tadjidine Mmadi",
+            "short": "Mmadi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "theo-vermot-angers-marseille-2026-10-18",
+            "name": "Théo Vermot",
+            "short": "Vermot",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 14,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "lilian-raolisoa",
+          "name": "Lilian Raolisoa",
+          "short": "Raolisoa",
+          "position": "LB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Lilian Raolisoa gave Angers the lead with a header from the left side of the six-yard box into the bottom left corner."
+      },
+      {
+        "minute": 37,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "himad-abdelli-angers-marseille-2026-10-18",
+          "name": "Himad Abdelli",
+          "short": "Abdelli",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "timothy-weah-angers-marseille-2026-10-18",
+          "name": "Timothy Weah",
+          "short": "Weah",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Timothy Weah crossed and Himad Abdelli headed in from very close range to equalise."
+      },
+      {
+        "minute": 43,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "nouhoum-kamissoko-angers-marseille-2026-10-18",
+          "name": "Nouhoum Kamissoko",
+          "short": "Kamissoko",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "emerson-angers-marseille-2026-10-18",
+          "name": "Emerson",
+          "short": "Emerson",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "From a Marseille corner, Emerson's cross was headed into the bottom left corner by Nouhoum Kamissoko from the centre of the box."
+      },
+      {
+        "minute": 57,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "prosper-peter",
+          "name": "Prosper Peter",
+          "short": "Peter",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "louis-mouton",
+          "name": "Louis Mouton",
+          "short": "Mouton",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "amine-gouiri-angers-marseille-2026-10-18",
+          "name": "Amine Gouiri",
+          "short": "Gouiri",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 3",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "A minute after Anthony Lopes saved his penalty, Amine Gouiri scored from the centre of the box after a set-piece situation, shooting right-footed into the bottom left corner."
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "nayef-aguerd-angers-marseille-2026-10-18",
+          "name": "Nayef Aguerd",
+          "short": "Aguerd",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "geoffrey-kondogbia-angers-marseille-2026-10-18",
+          "name": "Geoffrey Kondogbia",
+          "short": "Kondogbia",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 68,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "emmanuel-biumla",
+          "name": "Emmanuel Biumla",
+          "short": "Biumla",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "joseph-kalulu-kyatengwa",
+          "name": "Joseph Kalulu Kyatengwa",
+          "short": "Kyatengwa",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "emmanuel-biumla",
+          "name": "Emmanuel Biumla",
+          "short": "Biumla",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "harouna-djibirin",
+          "name": "Harouna Djibirin",
+          "short": "Djibirin",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jim-allevinah",
+          "name": "Jim Allevinah",
+          "short": "Allevinah",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "tochukwu-nnadi-angers-marseille-2026-10-18",
+          "name": "Tochukwu Nnadi",
+          "short": "Nnadi",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 75,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "amine-el-ouazzani",
+          "name": "Amine El Ouazzani",
+          "short": "El Ouazzani",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 3",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "After Tochukwu Nnadi fouled Carlens Arcus in the area, Amine El Ouazzani converted the penalty left-footed into the bottom left corner."
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "angel-gomes-angers-marseille-2026-10-18",
+          "name": "Angel Gomes",
+          "short": "Gomes",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nouhoum-kamissoko-angers-marseille-2026-10-18",
+          "name": "Nouhoum Kamissoko",
+          "short": "Kamissoko",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "keyliane-abdallah-angers-marseille-2026-10-18",
+          "name": "Keyliane Abdallah",
+          "short": "Abdallah",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "himad-abdelli-angers-marseille-2026-10-18",
+          "name": "Himad Abdelli",
+          "short": "Abdelli",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 83,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "amine-harit-angers-marseille-2026-10-18",
+          "name": "Amine Harit",
+          "short": "Harit",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "2 - 4",
+        "penalty": false,
+        "assist": {
+          "id": "tochukwu-nnadi-angers-marseille-2026-10-18",
+          "name": "Tochukwu Nnadi",
+          "short": "Nnadi",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Amine Harit took Tochukwu Nnadi's pass and struck a right-footed shot from outside the box into the bottom right corner."
+      },
+      {
+        "minute": 85,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "igor-paixao-angers-marseille-2026-10-18",
+          "name": "Igor Paixão",
+          "short": "Igor Paixão",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "2 - 5",
+        "penalty": false,
+        "assist": {
+          "id": "timothy-weah-angers-marseille-2026-10-18",
+          "name": "Timothy Weah",
+          "short": "Weah",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Timothy Weah's headed pass set up Igor Paixão, who finished right-footed from the centre of the box into the bottom right corner."
+      },
+      {
+        "minute": 89,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "bane-diatta",
+          "name": "Bané Diatta",
+          "short": "Diatta",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "amine-el-ouazzani",
+          "name": "Amine El Ouazzani",
+          "short": "El Ouazzani",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "anthony-bermont",
+          "name": "Anthony Bermont",
+          "short": "Bermont",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "amine-sbai",
+          "name": "Amine Sbaï",
+          "short": "Sbaï",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "neal-maupay-angers-marseille-2026-10-18",
+          "name": "Neal Maupay",
+          "short": "Maupay",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tochukwu-nnadi-angers-marseille-2026-10-18",
+          "name": "Tochukwu Nnadi",
+          "short": "Nnadi",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ulisses-garcia-angers-marseille-2026-10-18",
+          "name": "Ulisses Garcia",
+          "short": "Garcia",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "amine-harit-angers-marseille-2026-10-18",
+          "name": "Amine Harit",
+          "short": "Harit",
+          "position": "RW",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        11,
+        21
+      ],
+      "onTarget": [
+        3,
+        8
+      ],
+      "corners": [
+        2,
+        5
+      ],
+      "fouls": [
+        11,
+        12
+      ],
+      "possession": 42
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Jérémie Pignard",
+      "country": "France"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876439",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876439",
+      "https://ligue1.com/fr/articles/l1_article_5927-",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "maxence-caqueret-fiorentina-como-2026-10-18",
+    "name": "Maxence Caqueret",
+    "short": "Caqueret",
+    "position": "LW",
+    "photo": "assets/photos/people/maxence-caqueret.jpg",
+    "matches": [
+      {
+        "match": "fiorentina-como-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Como",
+        "role": "starter"
+      }
+    ]
+  }
+}

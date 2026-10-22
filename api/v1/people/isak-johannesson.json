@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "isak-johannesson",
+    "name": "Ísak Jóhannesson",
+    "short": "Jóhannesson",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "frankfurt-cologne-2026-10-16",
+        "date": "2026-10-16",
+        "team": "Cologne",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "rayan-cherki-france-spain-2026-07-14",
+    "name": "Rayan Cherki",
+    "short": "Cherki",
+    "position": "AM",
+    "photo": "assets/photos/people/rayan-cherki.jpg",
+    "matches": [
+      {
+        "match": "france-spain-2026-07-14",
+        "date": "2026-07-14",
+        "team": "France",
+        "role": "bench"
+      }
+    ]
+  }
+}

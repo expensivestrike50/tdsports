@@ -1,0 +1,775 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "as-roma-genoa-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "20:45",
+    "competition": "Serie A",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "AS Roma",
+      "id": "as-roma",
+      "crest": "assets/clubs/104.png",
+      "country": "IT"
+    },
+    "away": {
+      "name": "Genoa",
+      "id": "genoa",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+      "country": "IT"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Olimpico",
+      "city": "Roma",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "gian-piero-gasperini-as-roma-genoa-2026-10-17",
+          "name": "Gian Piero Gasperini",
+          "short": "Gasperini",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "pierluigi-gollini-as-roma-genoa-2026-10-17",
+            "name": "Pierluigi Gollini",
+            "short": "Gollini",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "konstantinos-koulierakis-as-roma-genoa-2026-10-17",
+            "name": "Konstantinos Koulierakis",
+            "short": "Koulierakis",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 6.7
+          },
+          {
+            "id": "evan-ndicka-as-roma-genoa-2026-10-17",
+            "name": "Evan Ndicka",
+            "short": "Ndicka",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "leonardo-balerdi-as-roma-genoa-2026-10-17",
+            "name": "Leonardo Balerdi",
+            "short": "Balerdi",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7.4
+          },
+          {
+            "id": "devyne-rensch-as-roma-genoa-2026-10-17",
+            "name": "Devyne Rensch",
+            "short": "Rensch",
+            "position": "LB",
+            "photo": null,
+            "x": 27,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "niccolo-pisilli-as-roma-genoa-2026-10-17",
+            "name": "Niccolò Pisilli",
+            "short": "Pisilli",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 38,
+            "rating": 7.3
+          },
+          {
+            "id": "marten-de-roon-as-roma-genoa-2026-10-17",
+            "name": "Marten de Roon",
+            "short": "de Roon",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 64,
+            "rating": 7.7
+          },
+          {
+            "id": "emanuele-lulli-as-roma-genoa-2026-10-17",
+            "name": "Emanuele Lulli",
+            "short": "Lulli",
+            "position": "RB",
+            "photo": null,
+            "x": 27,
+            "y": 88,
+            "rating": 8.2
+          },
+          {
+            "id": "rodrigo-mora-as-roma-genoa-2026-10-17",
+            "name": "Rodrigo Mora",
+            "short": "Mora",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 7.3
+          },
+          {
+            "id": "matias-soule-as-roma-genoa-2026-10-17",
+            "name": "Matìas Soulè",
+            "short": "Soulè",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "santiago-castro-as-roma-genoa-2026-10-17",
+            "name": "Santiago Castro",
+            "short": "Castro",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 8.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "lorenzo-pellegrini-as-roma-genoa-2026-10-17",
+            "name": "Lorenzo Pellegrini",
+            "short": "Pellegrini",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "mario-hermoso-as-roma-genoa-2026-10-17",
+            "name": "Mario Hermoso",
+            "short": "Hermoso",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "wesley-as-roma-genoa-2026-10-17",
+            "name": "Wesley",
+            "short": "Wesley",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "daniele-ghilardi-as-roma-genoa-2026-10-17",
+            "name": "Daniele Ghilardi",
+            "short": "Ghilardi",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "alessandro-di-nunzio-as-roma-genoa-2026-10-17",
+            "name": "Alessandro Di Nunzio",
+            "short": "Nunzio",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "johan-vasquez",
+            "name": "Johan Vásquez",
+            "short": "Vásquez",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "giorgio-de-marzi-as-roma-genoa-2026-10-17",
+            "name": "Giorgio De Marzi",
+            "short": "Marzi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mandjou-camara",
+            "name": "Mandjou Camara",
+            "short": "Camara",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lorenzo-paratici",
+            "name": "Lorenzo Paratici",
+            "short": "Paratici",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "antonio-arena",
+            "name": "Antonio Arena",
+            "short": "Arena",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nahuel-molina-as-roma-genoa-2026-10-17",
+            "name": "Nahuel Molina",
+            "short": "Molina",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gianluca-mancini-as-roma-genoa-2026-10-17",
+            "name": "Gianluca Mancini",
+            "short": "Mancini",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "daniele-de-rossi",
+          "name": "Daniele De Rossi",
+          "short": "Rossi",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "justin-bijlow",
+            "name": "Justin Bijlow",
+            "short": "Bijlow",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "johan-vasquez",
+            "name": "Johan Vásquez",
+            "short": "Vásquez",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 6.2
+          },
+          {
+            "id": "leo-stigard",
+            "name": "Leo Østigard",
+            "short": "Østigard",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "alessandro-marcandalli",
+            "name": "Alessandro Marcandalli",
+            "short": "Marcandalli",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 6.9
+          },
+          {
+            "id": "david-puczka",
+            "name": "David Puczka",
+            "short": "Puczka",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 6.6
+          },
+          {
+            "id": "morten-frendrup",
+            "name": "Morten Frendrup",
+            "short": "Frendrup",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 6.9
+          },
+          {
+            "id": "samuel-wiafe",
+            "name": "Samuel Wiafe",
+            "short": "Wiafe",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 6.6
+          },
+          {
+            "id": "mikael-ellertsson",
+            "name": "Mikael Ellertsson",
+            "short": "Ellertsson",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "stephan-el-shaarawy",
+            "name": "Stephan El Shaarawy",
+            "short": "El Shaarawy",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 7.4
+          },
+          {
+            "id": "junior-messias",
+            "name": "Junior Messias",
+            "short": "Messias",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 7.3
+          },
+          {
+            "id": "milutin-osmajic",
+            "name": "Milutin Osmajic",
+            "short": "Osmajic",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "vitinha-as-roma-genoa-2026-10-17",
+            "name": "Vitinha",
+            "short": "Vitinha",
+            "position": "AM",
+            "photo": "assets/photos/people/vitinha.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "robinho-junior",
+            "name": "Robinho Junior",
+            "short": "Junior",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "alexsandro-amorim",
+            "name": "Alexsandro Amorim",
+            "short": "Amorim",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "hamed-traore",
+            "name": "Hamed Traoré",
+            "short": "Traoré",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mario-mitaj",
+            "name": "Mario Mitaj",
+            "short": "Mitaj",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "cody-drameh",
+            "name": "Cody Drameh",
+            "short": "Drameh",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "daniele-sommariva",
+            "name": "Daniele Sommariva",
+            "short": "Sommariva",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "stefano-sabelli",
+            "name": "Stefano Sabelli",
+            "short": "Sabelli",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marcelo-vaz",
+            "name": "Marcelo Vaz",
+            "short": "Vaz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lukas-klisys",
+            "name": "Lukas Klisys",
+            "short": "Klisys",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "sebastian-otoa",
+            "name": "Sebastian Otoa",
+            "short": "Otoa",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "franz-stolz",
+            "name": "Franz Stolz",
+            "short": "Stolz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tommaso-baldanzi",
+            "name": "Tommaso Baldanzi",
+            "short": "Baldanzi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 43,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "matias-soule-as-roma-genoa-2026-10-17",
+          "name": "Matìas Soulè",
+          "short": "Soulè",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 50,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "santiago-castro-as-roma-genoa-2026-10-17",
+          "name": "Santiago Castro",
+          "short": "Castro",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "Santiago Castro found space in the box after a corner and finished into the top left corner beyond Justin Bijlow."
+      },
+      {
+        "minute": 51,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "johan-vasquez",
+          "name": "Johan Vásquez",
+          "short": "Vásquez",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "lorenzo-pellegrini-as-roma-genoa-2026-10-17",
+          "name": "Lorenzo Pellegrini",
+          "short": "Pellegrini",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rodrigo-mora-as-roma-genoa-2026-10-17",
+          "name": "Rodrigo Mora",
+          "short": "Mora",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mario-hermoso-as-roma-genoa-2026-10-17",
+          "name": "Mario Hermoso",
+          "short": "Hermoso",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "konstantinos-koulierakis-as-roma-genoa-2026-10-17",
+          "name": "Konstantinos Koulierakis",
+          "short": "Koulierakis",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "vitinha-as-roma-genoa-2026-10-17",
+          "name": "Vitinha",
+          "short": "Vitinha",
+          "position": "AM",
+          "photo": "assets/photos/people/vitinha.jpg"
+        },
+        "replaced": {
+          "id": "stephan-el-shaarawy",
+          "name": "Stephan El Shaarawy",
+          "short": "El Shaarawy",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "leo-stigard",
+          "name": "Leo Østigard",
+          "short": "Østigard",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 68,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "emanuele-lulli-as-roma-genoa-2026-10-17",
+          "name": "Emanuele Lulli",
+          "short": "Lulli",
+          "position": "RB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Emanuele Lulli, unmarked at the back post, turned the ball into the bottom right corner after Matías Soulé's work in the build-up; his first Serie A goal."
+      },
+      {
+        "minute": 76,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "niccolo-pisilli-as-roma-genoa-2026-10-17",
+          "name": "Niccolò Pisilli",
+          "short": "Pisilli",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "wesley-as-roma-genoa-2026-10-17",
+          "name": "Wesley",
+          "short": "Wesley",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "emanuele-lulli-as-roma-genoa-2026-10-17",
+          "name": "Emanuele Lulli",
+          "short": "Lulli",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "mikael-ellertsson",
+          "name": "Mikael Ellertsson",
+          "short": "Ellertsson",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "robinho-junior",
+          "name": "Robinho Junior",
+          "short": "Junior",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "junior-messias",
+          "name": "Junior Messias",
+          "short": "Messias",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alexsandro-amorim",
+          "name": "Alexsandro Amorim",
+          "short": "Amorim",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "morten-frendrup",
+          "name": "Morten Frendrup",
+          "short": "Frendrup",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 88,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "daniele-ghilardi-as-roma-genoa-2026-10-17",
+          "name": "Daniele Ghilardi",
+          "short": "Ghilardi",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "devyne-rensch-as-roma-genoa-2026-10-17",
+          "name": "Devyne Rensch",
+          "short": "Rensch",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 88,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "alessandro-di-nunzio-as-roma-genoa-2026-10-17",
+          "name": "Alessandro Di Nunzio",
+          "short": "Nunzio",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "niccolo-pisilli-as-roma-genoa-2026-10-17",
+          "name": "Niccolò Pisilli",
+          "short": "Pisilli",
+          "position": "CM",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        15,
+        9
+      ],
+      "onTarget": [
+        5,
+        1
+      ],
+      "corners": [
+        5,
+        3
+      ],
+      "fouls": [
+        10,
+        7
+      ],
+      "possession": 66
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Rosario Abisso",
+      "country": "Italy"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874935",
+      "https://www.espn.com/soccer/match/_/gameId/401874935",
+      "https://www.flashscore.com/news/soccer-serie-a-as-roma-genoa-report-2026-10-17/zercQP7M/",
+      "https://www.fantacalcio.it/serie-a/calendario/7/2026-27/roma-genoa/18022/riepilogo",
+      "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

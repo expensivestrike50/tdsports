@@ -1,0 +1,11 @@
+# Editor and OS files
+.DS_Store
+.vscode/
+
+# Temporary files written atomically by Agent Tom
+*.tmp
+
+# FotMob club headshots: copyrighted, kept for local use only (the app shows initials instead)
+assets/photos/people/diaoune.jpg
+assets/photos/people/goffi.jpg
+assets/photos/people/mukau.jpg

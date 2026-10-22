@@ -1,0 +1,883 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "parma-torino-2026-10-19",
+    "date": "2026-10-19",
+    "kickoff": "20:45",
+    "competition": "Serie A",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Parma",
+      "id": "parma",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+      "country": "IT"
+    },
+    "away": {
+      "name": "Torino",
+      "id": "torino",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+      "country": "IT"
+    },
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Ennio Tardini",
+      "city": "Parma",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "alberto-gilardino",
+          "name": "Alberto Gilardino",
+          "short": "Gilardino",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "edoardo-corvi",
+            "name": "Edoardo Corvi",
+            "short": "Corvi",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "enrico-del-prato",
+            "name": "Enrico Del Prato",
+            "short": "Del Prato",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 7.3
+          },
+          {
+            "id": "mariano-troilo",
+            "name": "Mariano Troilo",
+            "short": "Troilo",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "diego-carlos",
+            "name": "Diego Carlos",
+            "short": "Carlos",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 6.3
+          },
+          {
+            "id": "emanuele-valeri",
+            "name": "Emanuele Valeri",
+            "short": "Valeri",
+            "position": "LB",
+            "photo": null,
+            "x": 27,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "mandela-keita",
+            "name": "Mandela Keita",
+            "short": "Keita",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 38,
+            "rating": 6.2
+          },
+          {
+            "id": "adrian-bernabe",
+            "name": "Adrián Bernabé",
+            "short": "Bernabé",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 64,
+            "rating": 7.4
+          },
+          {
+            "id": "sascha-britschgi",
+            "name": "Sascha Britschgi",
+            "short": "Britschgi",
+            "position": "RB",
+            "photo": null,
+            "x": 27,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "el-bilal-toure",
+            "name": "El Bilal Toure",
+            "short": "Toure",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 6.8
+          },
+          {
+            "id": "giovanni-fabbian",
+            "name": "Giovanni Fabbian",
+            "short": "Fabbian",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 6.5
+          },
+          {
+            "id": "jose-romero",
+            "name": "José Romero",
+            "short": "Romero",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "dominik-drobnic",
+            "name": "Dominik Drobnic",
+            "short": "Drobnic",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "simone-lontani",
+            "name": "Simone Lontani",
+            "short": "Lontani",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "djibril-diallo",
+            "name": "Djibril Diallo",
+            "short": "Diallo",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "matija-frigan",
+            "name": "Matija Frigan",
+            "short": "Frigan",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "christian-ordonez",
+            "name": "Christian Ordoñez",
+            "short": "Ordoñez",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "simone-ghidotti",
+            "name": "Simone Ghidotti",
+            "short": "Ghidotti",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "thomas-de-martis",
+            "name": "Thomás De Martis",
+            "short": "Martis",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "franco-carboni",
+            "name": "Franco Carboni",
+            "short": "Carboni",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "abdoulaye-ndiaye",
+            "name": "Abdoulaye Ndiaye",
+            "short": "Ndiaye",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "abdou-salam-konate",
+            "name": "Abdou-Salam Konate",
+            "short": "Konate",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "benjamin-cremaschi",
+            "name": "Benjamin Cremaschi",
+            "short": "Cremaschi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "giovanni-daffara",
+            "name": "Giovanni Daffara",
+            "short": "Daffara",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "vincent-sierro",
+            "name": "Vincent Sierro",
+            "short": "Sierro",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-5-2",
+        "coach": {
+          "id": "ignazio-abate",
+          "name": "Ignazio Abate",
+          "short": "Abate",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "lucas-perri",
+            "name": "Lucas Perri",
+            "short": "Perri",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "pietro-comuzzo",
+            "name": "Pietro Comuzzo",
+            "short": "Comuzzo",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 7
+          },
+          {
+            "id": "adrian-ismajli",
+            "name": "Adrian Ismajli",
+            "short": "Ismajli",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "saul-coco",
+            "name": "Saúl Coco",
+            "short": "Coco",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 7.3
+          },
+          {
+            "id": "alessio-cacciamani",
+            "name": "Alessio Cacciamani",
+            "short": "Cacciamani",
+            "position": "LB",
+            "photo": null,
+            "x": 68,
+            "y": 92,
+            "rating": 6.4
+          },
+          {
+            "id": "daniel-braganca",
+            "name": "Daniel Bragança",
+            "short": "Bragança",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 71,
+            "rating": 6.9
+          },
+          {
+            "id": "nikola-vlasic",
+            "name": "Nikola Vlasic",
+            "short": "Vlasic",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "rafik-belghali",
+            "name": "Rafik Belghali",
+            "short": "Belghali",
+            "position": "RB",
+            "photo": null,
+            "x": 68,
+            "y": 29,
+            "rating": 7.7
+          },
+          {
+            "id": "rolando-mandragora",
+            "name": "Rolando Mandragora",
+            "short": "Mandragora",
+            "position": "AM",
+            "photo": null,
+            "x": 68,
+            "y": 8,
+            "rating": 6.5
+          },
+          {
+            "id": "giovanni-simeone",
+            "name": "Giovanni Simeone",
+            "short": "Simeone",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 9.1
+          },
+          {
+            "id": "che-adams",
+            "name": "Ché Adams",
+            "short": "Adams",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 8.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "sandro-kulenovic",
+            "name": "Sandro Kulenovic",
+            "short": "Kulenovic",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "gvidas-gineitis",
+            "name": "Gvidas Gineitis",
+            "short": "Gineitis",
+            "position": "AM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "zakaria-aboukhlal",
+            "name": "Zakaria Aboukhlal",
+            "short": "Aboukhlal",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "cesare-casadei",
+            "name": "Cesare Casadei",
+            "short": "Casadei",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "duvan-zapata",
+            "name": "Duván Zapata",
+            "short": "Zapata",
+            "position": "ST",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "kian-fitz-jim",
+            "name": "Kian Fitz-Jim",
+            "short": "Fitz-Jim",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "pietro-pellegri",
+            "name": "Pietro Pellegri",
+            "short": "Pellegri",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lapo-siviero",
+            "name": "Lapo Siviero",
+            "short": "Siviero",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nathan-patterson",
+            "name": "Nathan Patterson",
+            "short": "Patterson",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "eray-comert",
+            "name": "Eray Cömert",
+            "short": "Cömert",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "diego-mascardi",
+            "name": "Diego Mascardi",
+            "short": "Mascardi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ricardo-rodriguez",
+            "name": "Ricardo Rodríguez",
+            "short": "Rodríguez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "cristiano-biraghi",
+            "name": "Cristiano Biraghi",
+            "short": "Biraghi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gaetano-oristanio",
+            "name": "Gaetano Oristanio",
+            "short": "Oristanio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 4,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "giovanni-simeone",
+          "name": "Giovanni Simeone",
+          "short": "Simeone",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "rafik-belghali",
+          "name": "Rafik Belghali",
+          "short": "Belghali",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Giovanni Simeone left footed shot from the centre of the box to the top left corner. Assisted by Rafik Belghali with a cross."
+      },
+      {
+        "minute": 24,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "che-adams",
+          "name": "Ché Adams",
+          "short": "Adams",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Ché Adams headed in from very close range after a Giovanni Simeone effort; the goal stood after a VAR check for offside."
+      },
+      {
+        "minute": 24,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "che-adams",
+          "name": "Ché Adams",
+          "short": "Adams",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Goal confirmed after VAR review"
+      },
+      {
+        "minute": 28,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "diego-carlos",
+          "name": "Diego Carlos",
+          "short": "Carlos",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 37,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "adrian-ismajli",
+          "name": "Adrian Ismajli",
+          "short": "Ismajli",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "dominik-drobnic",
+          "name": "Dominik Drobnic",
+          "short": "Drobnic",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "diego-carlos",
+          "name": "Diego Carlos",
+          "short": "Carlos",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "simone-lontani",
+          "name": "Simone Lontani",
+          "short": "Lontani",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "giovanni-fabbian",
+          "name": "Giovanni Fabbian",
+          "short": "Fabbian",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 54,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "sascha-britschgi",
+          "name": "Sascha Britschgi",
+          "short": "Britschgi",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "sandro-kulenovic",
+          "name": "Sandro Kulenovic",
+          "short": "Kulenovic",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "che-adams",
+          "name": "Ché Adams",
+          "short": "Adams",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gvidas-gineitis",
+          "name": "Gvidas Gineitis",
+          "short": "Gineitis",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rolando-mandragora",
+          "name": "Rolando Mandragora",
+          "short": "Mandragora",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "giovanni-simeone",
+          "name": "Giovanni Simeone",
+          "short": "Simeone",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "rafik-belghali",
+          "name": "Rafik Belghali",
+          "short": "Belghali",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Giovanni Simeone hit a powerful right-footed shot from outside the box into the top left corner, set up by Rafik Belghali's headed pass."
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "djibril-diallo",
+          "name": "Djibril Diallo",
+          "short": "Diallo",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sascha-britschgi",
+          "name": "Sascha Britschgi",
+          "short": "Britschgi",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "matija-frigan",
+          "name": "Matija Frigan",
+          "short": "Frigan",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "el-bilal-toure",
+          "name": "El Bilal Toure",
+          "short": "Toure",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "zakaria-aboukhlal",
+          "name": "Zakaria Aboukhlal",
+          "short": "Aboukhlal",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rafik-belghali",
+          "name": "Rafik Belghali",
+          "short": "Belghali",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "cesare-casadei",
+          "name": "Cesare Casadei",
+          "short": "Casadei",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nikola-vlasic",
+          "name": "Nikola Vlasic",
+          "short": "Vlasic",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "pietro-comuzzo",
+          "name": "Pietro Comuzzo",
+          "short": "Comuzzo",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "christian-ordonez",
+          "name": "Christian Ordoñez",
+          "short": "Ordoñez",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adrian-bernabe",
+          "name": "Adrián Bernabé",
+          "short": "Bernabé",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "matija-frigan",
+          "name": "Matija Frigan",
+          "short": "Frigan",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Goal ruled out after VAR review"
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "duvan-zapata",
+          "name": "Duván Zapata",
+          "short": "Zapata",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "giovanni-simeone",
+          "name": "Giovanni Simeone",
+          "short": "Simeone",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "mariano-troilo",
+          "name": "Mariano Troilo",
+          "short": "Troilo",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        25,
+        9
+      ],
+      "onTarget": [
+        8,
+        3
+      ],
+      "corners": [
+        6,
+        2
+      ],
+      "fouls": [
+        7,
+        16
+      ],
+      "possession": 51
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Giovanni Ayroldi",
+      "country": "Italy"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874784",
+      "https://www.espn.com/soccer/match/_/gameId/401874784",
+      "https://www.calciomercato.com/liste/serie-a-parma-torino-live/blteab16a4907caa688",
+      "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

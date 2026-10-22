@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "jonas-urbig-bayern-munchen-rb-leipzig-2026-10-17",
+    "name": "Jonas Urbig",
+    "short": "Urbig",
+    "position": "GK",
+    "photo": "assets/photos/people/jonas-urbig.jpg",
+    "matches": [
+      {
+        "match": "bayern-munchen-rb-leipzig-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Bayern München",
+        "role": "starter"
+      }
+    ]
+  }
+}

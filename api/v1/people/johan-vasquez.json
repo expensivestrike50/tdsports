@@ -1,0 +1,24 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "johan-vasquez",
+    "name": "Johan Vásquez",
+    "short": "Vásquez",
+    "position": "CB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "as-roma-genoa-2026-10-17",
+        "date": "2026-10-17",
+        "team": "AS Roma",
+        "role": "bench"
+      },
+      {
+        "match": "as-roma-genoa-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Genoa",
+        "role": "starter"
+      }
+    ]
+  }
+}

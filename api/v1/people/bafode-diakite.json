@@ -1,0 +1,24 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "bafode-diakite",
+    "name": "Bafodé Diakité",
+    "short": "Diakité",
+    "position": "CB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "bournemouth-sturm-graz-2026-10-15",
+        "date": "2026-10-15",
+        "team": "Bournemouth",
+        "role": "starter"
+      },
+      {
+        "match": "bournemouth-sturm-graz-2026-10-15",
+        "date": "2026-10-15",
+        "team": "Sturm Graz",
+        "role": "bench"
+      }
+    ]
+  }
+}

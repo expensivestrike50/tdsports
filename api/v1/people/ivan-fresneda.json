@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "ivan-fresneda",
+    "name": "Iván Fresneda",
+    "short": "Fresneda",
+    "position": "RB",
+    "photo": "assets/photos/people/ivan-fresneda.jpg",
+    "matches": [
+      {
+        "match": "sporting-lask",
+        "date": "2026-10-21",
+        "team": "Sporting CP",
+        "role": "starter"
+      }
+    ]
+  }
+}

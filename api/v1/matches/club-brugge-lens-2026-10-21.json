@@ -1,0 +1,816 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "club-brugge-lens-2026-10-21",
+    "date": "2026-10-21",
+    "kickoff": "21:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Club Brugge",
+      "id": "club-brugge",
+      "crest": "assets/clubs/570.png",
+      "country": "BE"
+    },
+    "away": {
+      "name": "Lens",
+      "id": "lens",
+      "crest": "assets/clubs/175.png",
+      "country": "FR"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Jan Breydel Stadium",
+      "city": "Brugge",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "ivan-leko",
+          "name": "Ivan Leko",
+          "short": "Leko",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "yann-sommer",
+            "name": "Yann Sommer",
+            "short": "Sommer",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "joaquin-seys",
+            "name": "Joaquin Seys",
+            "short": "Seys",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 8.3
+          },
+          {
+            "id": "brandon-mechele",
+            "name": "Brandon Mechele",
+            "short": "Mechele",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7
+          },
+          {
+            "id": "jorne-spileers",
+            "name": "Jorne Spileers",
+            "short": "Spileers",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.3
+          },
+          {
+            "id": "kyriani-sabbe",
+            "name": "Kyriani Sabbe",
+            "short": "Sabbe",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.6
+          },
+          {
+            "id": "hans-vanaken",
+            "name": "Hans Vanaken",
+            "short": "Vanaken",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 8.3
+          },
+          {
+            "id": "freddie-potts",
+            "name": "Freddie Potts",
+            "short": "Potts",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.3
+          },
+          {
+            "id": "jan-virgili",
+            "name": "Jan Virgili",
+            "short": "Virgili",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.5
+          },
+          {
+            "id": "felix-lemarechal",
+            "name": "Félix Lemaréchal",
+            "short": "Lemaréchal",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "carlos-forbs",
+            "name": "Carlos Forbs",
+            "short": "Forbs",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.3
+          },
+          {
+            "id": "nicolo-tresoldi",
+            "name": "Nicolò Tresoldi",
+            "short": "Tresoldi",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "hugo-vetlesen",
+            "name": "Hugo Vetlesen",
+            "short": "Vetlesen",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "mamadou-diakhon",
+            "name": "Mamadou Diakhon",
+            "short": "Diakhon",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "romeo-vermant",
+            "name": "Romeo Vermant",
+            "short": "Vermant",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "hugo-siquet",
+            "name": "Hugo Siquet",
+            "short": "Siquet",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "milan-robberechts",
+            "name": "Milan Robberechts",
+            "short": "Robberechts",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "tian-nai-koren",
+            "name": "Tian Nai Koren",
+            "short": "Koren",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lee-han-beom",
+            "name": "Lee Han-Beom",
+            "short": "Han-Beom",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "argus-driessche",
+            "name": "Argus Driessche",
+            "short": "Driessche",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "matteo-dams",
+            "name": "Matteo Dams",
+            "short": "Dams",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "cheveyo-tsawa",
+            "name": "Cheveyo Tsawa",
+            "short": "Tsawa",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nordin-jackers",
+            "name": "Nordin Jackers",
+            "short": "Jackers",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "andrej-vasovic",
+            "name": "Andrej Vasovic",
+            "short": "Vasovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "yannick-cahuzac",
+          "name": "Yannick Cahuzac",
+          "short": "Cahuzac",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "robin-risser",
+            "name": "Robin Risser",
+            "short": "Risser",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "matthieu-udol",
+            "name": "Matthieu Udol",
+            "short": "Udol",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 7.4
+          },
+          {
+            "id": "samson-baidoo",
+            "name": "Samson Baidoo",
+            "short": "Baidoo",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "ruben-aguilar",
+            "name": "Ruben Aguilar",
+            "short": "Aguilar",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 7.4
+          },
+          {
+            "id": "michal-skoras",
+            "name": "Michal Skóras",
+            "short": "Skóras",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 7.2
+          },
+          {
+            "id": "amadou-haidara",
+            "name": "Amadou Haidara",
+            "short": "Haidara",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 6.7
+          },
+          {
+            "id": "michael-cuisance",
+            "name": "Michaël Cuisance",
+            "short": "Cuisance",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 6.7
+          },
+          {
+            "id": "saud-abdulhamid",
+            "name": "Saud Abdulhamid",
+            "short": "Abdulhamid",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "thorgan-hazard",
+            "name": "Thorgan Hazard",
+            "short": "Hazard",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "junior-kadile",
+            "name": "Junior Kadile",
+            "short": "Kadile",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 7.4
+          },
+          {
+            "id": "franjo-ivanovic",
+            "name": "Franjo Ivanovic",
+            "short": "Ivanovic",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "jean-clair-todibo",
+            "name": "Jean-Clair Todibo",
+            "short": "Todibo",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "odsonne-edouard",
+            "name": "Odsonne Édouard",
+            "short": "Édouard",
+            "position": "ST",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "florian-thauvin",
+            "name": "Florian Thauvin",
+            "short": "Thauvin",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "yassine-titraoui",
+            "name": "Yassine Titraoui",
+            "short": "Titraoui",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "kyllian-antonio",
+            "name": "Kyllian Antonio",
+            "short": "Antonio",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "mathieu-gorgelin",
+            "name": "Mathieu Gorgelin",
+            "short": "Gorgelin",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mezian-soares",
+            "name": "Mezian Soares",
+            "short": "Soares",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "souleymane-sagnan",
+            "name": "Souleymane Sagnan",
+            "short": "Sagnan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "florian-sotoca",
+            "name": "Florian Sotoca",
+            "short": "Sotoca",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "regis-gurtner",
+            "name": "Régis Gurtner",
+            "short": "Gurtner",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "andrija-bulatovic",
+            "name": "Andrija Bulatovic",
+            "short": "Bulatovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nidal-celik",
+            "name": "Nidal Celik",
+            "short": "Celik",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 45,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "hans-vanaken",
+          "name": "Hans Vanaken",
+          "short": "Vanaken",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "In first-half stoppage time, after Robin Risser saved Nicolò Tresoldi's effort following a corner, Hans Vanaken bundled in a left-footed finish from very close range."
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "matthieu-udol",
+          "name": "Matthieu Udol",
+          "short": "Udol",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jean-clair-todibo",
+          "name": "Jean-Clair Todibo",
+          "short": "Todibo",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "samson-baidoo",
+          "name": "Samson Baidoo",
+          "short": "Baidoo",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 50,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "joaquin-seys",
+          "name": "Joaquin Seys",
+          "short": "Seys",
+          "position": "LB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Joaquin Seys had a first shot saved by Risser but reacted quickest to score left-footed from very close range into the bottom left corner."
+      },
+      {
+        "minute": 58,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "odsonne-edouard",
+          "name": "Odsonne Édouard",
+          "short": "Édouard",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "franjo-ivanovic",
+          "name": "Franjo Ivanovic",
+          "short": "Ivanovic",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 58,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "florian-thauvin",
+          "name": "Florian Thauvin",
+          "short": "Thauvin",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "thorgan-hazard",
+          "name": "Thorgan Hazard",
+          "short": "Hazard",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "felix-lemarechal",
+          "name": "Félix Lemaréchal",
+          "short": "Lemaréchal",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "hugo-vetlesen",
+          "name": "Hugo Vetlesen",
+          "short": "Vetlesen",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "felix-lemarechal",
+          "name": "Félix Lemaréchal",
+          "short": "Lemaréchal",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "yassine-titraoui",
+          "name": "Yassine Titraoui",
+          "short": "Titraoui",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "amadou-haidara",
+          "name": "Amadou Haidara",
+          "short": "Haidara",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "carlos-forbs",
+          "name": "Carlos Forbs",
+          "short": "Forbs",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "hugo-vetlesen",
+          "name": "Hugo Vetlesen",
+          "short": "Vetlesen",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Substitute Hugo Vetlesen set up Carlos Forbs, who finished left-footed from the centre of the box to make it 3-0."
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mamadou-diakhon",
+          "name": "Mamadou Diakhon",
+          "short": "Diakhon",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jan-virgili",
+          "name": "Jan Virgili",
+          "short": "Virgili",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "hugo-vetlesen",
+          "name": "Hugo Vetlesen",
+          "short": "Vetlesen",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 80,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "michal-skoras",
+          "name": "Michal Skóras",
+          "short": "Skóras",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "romeo-vermant",
+          "name": "Romeo Vermant",
+          "short": "Vermant",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nicolo-tresoldi",
+          "name": "Nicolò Tresoldi",
+          "short": "Tresoldi",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "hugo-siquet",
+          "name": "Hugo Siquet",
+          "short": "Siquet",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kyriani-sabbe",
+          "name": "Kyriani Sabbe",
+          "short": "Sabbe",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "milan-robberechts",
+          "name": "Milan Robberechts",
+          "short": "Robberechts",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "carlos-forbs",
+          "name": "Carlos Forbs",
+          "short": "Forbs",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "kyllian-antonio",
+          "name": "Kyllian Antonio",
+          "short": "Antonio",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ruben-aguilar",
+          "name": "Ruben Aguilar",
+          "short": "Aguilar",
+          "position": "CB",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        11,
+        19
+      ],
+      "onTarget": [
+        5,
+        7
+      ],
+      "corners": [
+        1,
+        5
+      ],
+      "fouls": [
+        6,
+        10
+      ],
+      "possession": 57
+    },
+    "attendance": 26023,
+    "referee": {
+      "name": "Luis Godinho",
+      "country": "Portugal"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915388",
+      "https://www.espn.com/soccer/match/_/gameId/401915388",
+      "https://match.uefa.com/v5/matches/2049603/lineups",
+      "https://match.uefa.com/v5/matches?competitionId=1&fromDate=2026-10-20&toDate=2026-10-21",
+      "https://www.uefa.com/uefachampionsleague/news/02a9-218880e7a2aa-96adf63aa534-1000--who-is-the-referee-which-officials-are-in-charge-of-the-uefa/",
+      "https://www.sportsmole.co.uk/football/club-brugge/champions-league/preview/brugge-vs-lens-prediction-team-news-lineups_607212.html"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

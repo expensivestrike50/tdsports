@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "sem-steijn",
+    "name": "Sem Steijn",
+    "short": "Steijn",
+    "position": "LW",
+    "photo": "assets/photos/people/sem-steijn.jpg",
+    "matches": [
+      {
+        "match": "betis-feyenoord",
+        "date": "2026-10-21",
+        "team": "Feyenoord",
+        "role": "bench"
+      }
+    ]
+  }
+}

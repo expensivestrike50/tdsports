@@ -1,0 +1,3763 @@
+{
+  "agent": "LaLiga agent",
+  "league": "LaLiga",
+  "generated": "2026-10-22T13:32:07+00:00",
+  "matches": [
+    {
+      "id": "deportivo-levante-2026-10-16",
+      "found": true,
+      "competition": "LaLiga",
+      "round": "Matchday 9",
+      "date": "2026-10-16",
+      "kickoff_local": "21:00",
+      "home": "Deportivo",
+      "away": "Levante",
+      "score": [
+        1,
+        1
+      ],
+      "venue": {
+        "name": "Riazor",
+        "city": "A Coruña",
+        "attendance": 28437
+      },
+      "referee": {
+        "name": "Manuel Jesús Orellana Cid",
+        "country": "Spain"
+      },
+      "coaches": {
+        "home": "Antonio Hidalgo",
+        "away": "Luís Castro"
+      },
+      "formations": {
+        "home": "4-4-2",
+        "away": "4-3-3"
+      },
+      "lineups": {
+        "home": [
+          {
+            "name": "Leo Román",
+            "short": "L. Román",
+            "number": 13,
+            "pos": "GK"
+          },
+          {
+            "name": "Ximo Navarro",
+            "short": "X. Navarro",
+            "number": 23,
+            "pos": "RB"
+          },
+          {
+            "name": "José María Giménez",
+            "short": "J. Giménez",
+            "number": 20,
+            "pos": "CB"
+          },
+          {
+            "name": "Bright Ede",
+            "short": "B. Ede",
+            "number": 22,
+            "pos": "CB"
+          },
+          {
+            "name": "Giacomo Quagliata",
+            "short": "G. Quagliata",
+            "number": 12,
+            "pos": "LB"
+          },
+          {
+            "name": "Luismi Cruz",
+            "short": "L. Cruz",
+            "number": 19,
+            "pos": "RW"
+          },
+          {
+            "name": "Mario Soriano Carreno",
+            "short": "M. Soriano Carreno",
+            "number": 21,
+            "pos": "CM"
+          },
+          {
+            "name": "Diego Villares",
+            "short": "D. Villares",
+            "number": 8,
+            "pos": "CM"
+          },
+          {
+            "name": "Riki Rodríguez",
+            "short": "R. Rodríguez",
+            "number": 14,
+            "pos": "LW"
+          },
+          {
+            "name": "Yeremay Hernández",
+            "short": "Y. Hernández",
+            "number": 10,
+            "pos": "ST"
+          },
+          {
+            "name": "Bil Nsongo",
+            "short": "B. Nsongo",
+            "number": 32,
+            "pos": "ST"
+          }
+        ],
+        "away": [
+          {
+            "name": "Mathew Ryan",
+            "short": "M. Ryan",
+            "number": 13,
+            "pos": "GK"
+          },
+          {
+            "name": "Nacho Pérez",
+            "short": "N. Pérez",
+            "number": 29,
+            "pos": "RB"
+          },
+          {
+            "name": "Adrián de la Fuente",
+            "short": "A. de la Fuente",
+            "number": 4,
+            "pos": "CB"
+          },
+          {
+            "name": "Ifeanyi Ndukwe",
+            "short": "I. Ndukwe",
+            "number": 3,
+            "pos": "CB"
+          },
+          {
+            "name": "Manu Sánchez",
+            "short": "M. Sánchez",
+            "number": 23,
+            "pos": "LB"
+          },
+          {
+            "name": "Orio Rey",
+            "short": "O. Rey",
+            "number": 20,
+            "pos": "DM"
+          },
+          {
+            "name": "Enzo Bardeli",
+            "short": "E. Bardeli",
+            "number": 18,
+            "pos": "CM"
+          },
+          {
+            "name": "Dani Requena",
+            "short": "D. Requena",
+            "number": 6,
+            "pos": "CM"
+          },
+          {
+            "name": "Roger Brugué",
+            "short": "R. Brugué",
+            "number": 7,
+            "pos": "RW"
+          },
+          {
+            "name": "Iván Romero",
+            "short": "I. Romero",
+            "number": 9,
+            "pos": "ST"
+          },
+          {
+            "name": "Thiago Fernandez",
+            "short": "T. Fernandez",
+            "number": 24,
+            "pos": "LW"
+          }
+        ]
+      },
+      "subs": [
+        {
+          "side": "home",
+          "minute": 62,
+          "in": "Adrià Altimira",
+          "out": "Ximo Navarro"
+        },
+        {
+          "side": "home",
+          "minute": 62,
+          "in": "Adama Traoré",
+          "out": "Luismi Cruz"
+        },
+        {
+          "side": "away",
+          "minute": 69,
+          "in": "Petar Ratkov",
+          "out": "Orio Rey"
+        },
+        {
+          "side": "away",
+          "minute": 69,
+          "in": "Jon Ander Olasagasti",
+          "out": "Enzo Bardeli"
+        },
+        {
+          "side": "away",
+          "minute": 76,
+          "in": "Jeremy Toljan",
+          "out": "Nacho Pérez"
+        },
+        {
+          "side": "home",
+          "minute": 80,
+          "in": "Jonathan Asp Jensen",
+          "out": "Yeremay Hernández"
+        },
+        {
+          "side": "home",
+          "minute": 80,
+          "in": "Angeliño",
+          "out": "Riki Rodríguez"
+        },
+        {
+          "side": "home",
+          "minute": 85,
+          "in": "Miguel Loureiro",
+          "out": "Bright Ede"
+        },
+        {
+          "side": "away",
+          "minute": 90,
+          "in": "Víctor García",
+          "out": "Thiago Fernandez"
+        }
+      ],
+      "unused_subs": {
+        "home": [
+          "Álvaro Fernández",
+          "Yayo",
+          "David Mella",
+          "Lucas Noubi",
+          "Kevin Sánchez",
+          "Martín Ochoa",
+          "Noé Carrillo"
+        ],
+        "away": [
+          "Yanis Kasonga Musuayi",
+          "Aïssa Mandi",
+          "Ihor Galdin",
+          "Axel Tape",
+          "Jorge Cabello",
+          "Paco Cortés",
+          "Pablo Cuñat"
+        ]
+      },
+      "goals": [
+        {
+          "side": "home",
+          "minute": 63,
+          "scorer": "Bil Nsongo",
+          "assist": null,
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "right",
+          "description": "Bil Nsongo right footed shot from the centre of the box to the bottom left corner.",
+          "shot": {
+            "x": 93.2,
+            "y": 42.1,
+            "header": false
+          }
+        },
+        {
+          "side": "away",
+          "minute": 82,
+          "scorer": "Dani Requena",
+          "assist": "Petar Ratkov",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "left",
+          "description": "Dani Requena left footed shot from the left side of the box to the bottom left corner. Assist: Petar Ratkov.",
+          "shot": {
+            "x": 86.0,
+            "y": 69.2,
+            "header": false
+          }
+        }
+      ],
+      "cards": [
+        {
+          "side": "away",
+          "minute": 33,
+          "player": "Iván Romero",
+          "card": "yellow",
+          "reason": "Handball"
+        },
+        {
+          "side": "home",
+          "minute": 42,
+          "player": "Luismi Cruz",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 89,
+          "player": "Adrián de la Fuente",
+          "card": "yellow",
+          "reason": "Not specified"
+        },
+        {
+          "side": "home",
+          "minute": 90,
+          "player": "Adrià Altimira",
+          "card": "yellow",
+          "reason": "Bad foul"
+        }
+      ],
+      "var": [],
+      "stats": {
+        "possession": [
+          46.3,
+          53.7
+        ],
+        "shots": [
+          13,
+          11
+        ],
+        "onTarget": [
+          5,
+          4
+        ],
+        "corners": [
+          3,
+          5
+        ],
+        "fouls": [
+          17,
+          12
+        ],
+        "xg": null
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882844",
+        "https://www.espn.com/soccer/match/_/gameId/401882844",
+        "https://www.riazor.org/orellana-cid-subidon-andorra-deportivo-levante/",
+        "https://www.infobae.com/espana/agencias/2026/10/16/1-1-empate-en-riazor-que-no-satisface-a-ninguno/",
+        "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+      ],
+      "notes": "Lineups, events, stats and shot locations from ESPN; shot x/y are ESPN fieldPosition values. Positions inferred from ESPN formation slot. xG not available. Infobae/EFE report that Requena's 82nd-minute equaliser came after an error by Deportivo goalkeeper Leo Román.",
+      "league": "LaLiga",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+      "home_country": "ES",
+      "away_country": "ES"
+    },
+    {
+      "id": "espanyol-atletico-madrid-2026-10-17",
+      "found": true,
+      "competition": "LaLiga",
+      "round": "Matchday 9",
+      "date": "2026-10-17",
+      "kickoff_local": "14:00",
+      "home": "Espanyol",
+      "away": "Atlético Madrid",
+      "score": [
+        0,
+        1
+      ],
+      "venue": {
+        "name": "RCDE Stadium",
+        "city": "Barcelona",
+        "attendance": 30882
+      },
+      "referee": {
+        "name": "Alejandro Hernández Hernández",
+        "country": "Spain"
+      },
+      "coaches": {
+        "home": "Manolo González",
+        "away": "Diego Simeone"
+      },
+      "formations": {
+        "home": "5-4-1",
+        "away": "4-4-2"
+      },
+      "lineups": {
+        "home": [
+          {
+            "name": "Ángel Fortuño",
+            "short": "Á. Fortuño",
+            "number": 1,
+            "pos": "GK"
+          },
+          {
+            "name": "Omar El Hilali",
+            "short": "O. El Hilali",
+            "number": 23,
+            "pos": "RB"
+          },
+          {
+            "name": "Vanja Drkusic",
+            "short": "V. Drkusic",
+            "number": 16,
+            "pos": "CB"
+          },
+          {
+            "name": "Clemens Riedel",
+            "short": "C. Riedel",
+            "number": 5,
+            "pos": "CB"
+          },
+          {
+            "name": "Leandro Cabrera",
+            "short": "L. Cabrera",
+            "number": 6,
+            "pos": "CB"
+          },
+          {
+            "name": "Roger Hinojo",
+            "short": "R. Hinojo",
+            "number": 21,
+            "pos": "LB"
+          },
+          {
+            "name": "Javi Hernandez",
+            "short": "J. Hernandez",
+            "number": 28,
+            "pos": "RW"
+          },
+          {
+            "name": "Edu Expósito",
+            "short": "E. Expósito",
+            "number": 8,
+            "pos": "CM"
+          },
+          {
+            "name": "Pol Lozano",
+            "short": "P. Lozano",
+            "number": 10,
+            "pos": "CM"
+          },
+          {
+            "name": "Bryan Zaragoza",
+            "short": "B. Zaragoza",
+            "number": 15,
+            "pos": "LW"
+          },
+          {
+            "name": "Roberto Fernández",
+            "short": "R. Fernández",
+            "number": 9,
+            "pos": "ST"
+          }
+        ],
+        "away": [
+          {
+            "name": "Jan Oblak",
+            "short": "J. Oblak",
+            "number": 13,
+            "pos": "GK"
+          },
+          {
+            "name": "Marc Pubill",
+            "short": "M. Pubill",
+            "number": 18,
+            "pos": "RB"
+          },
+          {
+            "name": "Cristian Romero",
+            "short": "C. Romero",
+            "number": 21,
+            "pos": "CB"
+          },
+          {
+            "name": "Dávid Hancko",
+            "short": "D. Hancko",
+            "number": 17,
+            "pos": "CB"
+          },
+          {
+            "name": "Daniel Martinez",
+            "short": "D. Martinez",
+            "number": 30,
+            "pos": "LB"
+          },
+          {
+            "name": "Giuliano Simeone",
+            "short": "G. Simeone",
+            "number": 20,
+            "pos": "RW"
+          },
+          {
+            "name": "Pablo Barrios",
+            "short": "P. Barrios",
+            "number": 8,
+            "pos": "CM"
+          },
+          {
+            "name": "Morten Hjulmand",
+            "short": "M. Hjulmand",
+            "number": 23,
+            "pos": "CM"
+          },
+          {
+            "name": "Ademola Lookman",
+            "short": "A. Lookman",
+            "number": 11,
+            "pos": "LW"
+          },
+          {
+            "name": "Jonathan David",
+            "short": "J. David",
+            "number": 15,
+            "pos": "ST"
+          },
+          {
+            "name": "Lee Kang-In",
+            "short": "L. Kang-In",
+            "number": 7,
+            "pos": "ST"
+          }
+        ]
+      },
+      "subs": [
+        {
+          "side": "away",
+          "minute": 45,
+          "in": "Julián Álvarez",
+          "out": "Ademola Lookman"
+        },
+        {
+          "side": "away",
+          "minute": 45,
+          "in": "Alejandro Grimaldo",
+          "out": "Daniel Martinez"
+        },
+        {
+          "side": "away",
+          "minute": 55,
+          "in": "Marcos Llorente",
+          "out": "Pablo Barrios"
+        },
+        {
+          "side": "away",
+          "minute": 62,
+          "in": "Álex Baena",
+          "out": "Lee Kang-In"
+        },
+        {
+          "side": "home",
+          "minute": 64,
+          "in": "Unai Núñez",
+          "out": "Vanja Drkusic"
+        },
+        {
+          "side": "away",
+          "minute": 67,
+          "in": "Rodrigo Mendoza",
+          "out": "Cristian Romero"
+        },
+        {
+          "side": "home",
+          "minute": 73,
+          "in": "Cala",
+          "out": "Edu Expósito"
+        },
+        {
+          "side": "home",
+          "minute": 73,
+          "in": "Gabriel Moscardo",
+          "out": "Javi Hernandez"
+        },
+        {
+          "side": "home",
+          "minute": 82,
+          "in": "Javier Puado",
+          "out": "Bryan Zaragoza"
+        },
+        {
+          "side": "home",
+          "minute": 82,
+          "in": "Marcos Fernández",
+          "out": "Roberto Fernández"
+        }
+      ],
+      "unused_subs": {
+        "home": [
+          "Pere Milla",
+          "Urko Gonzalez",
+          "Marko Dmitrovic",
+          "Rafael Bauza",
+          "Andoni Gorosabel",
+          "Quilindschy Hartman",
+          "Tyrhys Dolan"
+        ],
+        "away": [
+          "Jorge Castillo",
+          "Obed Vargas",
+          "Jorge Domínguez",
+          "Juan Musso",
+          "Robin Le Normand",
+          "Arnau Ortiz",
+          "Alexander Sørloth"
+        ]
+      },
+      "goals": [
+        {
+          "side": "away",
+          "minute": 89,
+          "scorer": "Álex Baena",
+          "assist": "Julián Álvarez",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "right",
+          "description": "Álex Baena right footed shot from outside the box to the top left corner. Assist: Julián Alvarez.",
+          "shot": {
+            "x": 80.7,
+            "y": 45.8,
+            "header": false
+          }
+        }
+      ],
+      "cards": [
+        {
+          "side": "away",
+          "minute": 22,
+          "player": "Morten Hjulmand",
+          "card": "yellow",
+          "reason": "Not specified"
+        },
+        {
+          "side": "away",
+          "minute": 43,
+          "player": "Lee Kang-In",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 66,
+          "player": "Cristian Romero",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 68,
+          "player": "Álex Baena",
+          "card": "yellow",
+          "reason": "Not specified"
+        },
+        {
+          "side": "away",
+          "minute": 79,
+          "player": "Rodrigo Mendoza",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 81,
+          "player": "Roger Hinojo",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 87,
+          "player": "Unai Núñez",
+          "card": "yellow",
+          "reason": "Bad foul"
+        }
+      ],
+      "var": [],
+      "stats": {
+        "possession": [
+          29.4,
+          70.6
+        ],
+        "shots": [
+          10,
+          19
+        ],
+        "onTarget": [
+          2,
+          6
+        ],
+        "corners": [
+          4,
+          12
+        ],
+        "fouls": [
+          10,
+          9
+        ],
+        "xg": null
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882843",
+        "https://www.espn.com/soccer/match/_/gameId/401882843",
+        "https://lagrada.org/hernandez-hernandez-figueroa-vazquez-arbitro-var-espanyol-atletico-madrid-26-27/",
+        "https://www.vavel.com/es/futbol/2026/10/17/atletico-de-madrid/1275675-convocatoria-y-arbitro-del-espanyol-atleti.html",
+        "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+      ],
+      "notes": "Lineups, events, stats and shot locations from ESPN; shot x/y are ESPN fieldPosition values. Positions inferred from ESPN formation slot. xG not available.",
+      "league": "LaLiga",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+      "home_country": "ES",
+      "away_country": "ES"
+    },
+    {
+      "id": "villarreal-elche-2026-10-17",
+      "found": true,
+      "competition": "LaLiga",
+      "round": "Matchday 9",
+      "date": "2026-10-17",
+      "kickoff_local": "16:15",
+      "home": "Villarreal",
+      "away": "Elche",
+      "score": [
+        0,
+        0
+      ],
+      "venue": {
+        "name": "Estadio de la Cerámica",
+        "city": "Villarreal",
+        "attendance": 17329
+      },
+      "referee": {
+        "name": "Víctor García Verdura",
+        "country": "Spain"
+      },
+      "coaches": {
+        "home": "Iñigo Pérez",
+        "away": "Martín Anselmi"
+      },
+      "formations": {
+        "home": "4-4-2",
+        "away": "5-4-1"
+      },
+      "lineups": {
+        "home": [
+          {
+            "name": "Péter Gulácsi",
+            "short": "P. Gulácsi",
+            "number": 25,
+            "pos": "GK"
+          },
+          {
+            "name": "Alex Freeman",
+            "short": "A. Freeman",
+            "number": 3,
+            "pos": "RB"
+          },
+          {
+            "name": "Juan Foyth",
+            "short": "J. Foyth",
+            "number": 8,
+            "pos": "CB"
+          },
+          {
+            "name": "Logan Costa",
+            "short": "L. Costa",
+            "number": 2,
+            "pos": "CB"
+          },
+          {
+            "name": "Sergi Cardona",
+            "short": "S. Cardona",
+            "number": 23,
+            "pos": "LB"
+          },
+          {
+            "name": "Ilias Akhomach",
+            "short": "I. Akhomach",
+            "number": 11,
+            "pos": "RW"
+          },
+          {
+            "name": "Santi Comesaña",
+            "short": "S. Comesaña",
+            "number": 14,
+            "pos": "CM"
+          },
+          {
+            "name": "Carlos Macià",
+            "short": "C. Macià",
+            "number": 16,
+            "pos": "CM"
+          },
+          {
+            "name": "Tani Oluwaseyi",
+            "short": "T. Oluwaseyi",
+            "number": 21,
+            "pos": "LW"
+          },
+          {
+            "name": "Ayoze Pérez",
+            "short": "A. Pérez",
+            "number": 22,
+            "pos": "ST"
+          },
+          {
+            "name": "Alberto Moleiro",
+            "short": "A. Moleiro",
+            "number": 10,
+            "pos": "ST"
+          }
+        ],
+        "away": [
+          {
+            "name": "Matías Dituro",
+            "short": "M. Dituro",
+            "number": 1,
+            "pos": "GK"
+          },
+          {
+            "name": "Buba Sangaré",
+            "short": "B. Sangaré",
+            "number": 2,
+            "pos": "RB"
+          },
+          {
+            "name": "Javier Morcillo",
+            "short": "J. Morcillo",
+            "number": 47,
+            "pos": "CB"
+          },
+          {
+            "name": "Víctor Chust",
+            "short": "V. Chust",
+            "number": 23,
+            "pos": "CB"
+          },
+          {
+            "name": "Roy Revivo",
+            "short": "R. Revivo",
+            "number": 3,
+            "pos": "CB"
+          },
+          {
+            "name": "Germán Valera",
+            "short": "G. Valera",
+            "number": 11,
+            "pos": "LB"
+          },
+          {
+            "name": "Lucas Cepeda",
+            "short": "L. Cepeda",
+            "number": 21,
+            "pos": "RW"
+          },
+          {
+            "name": "Gonzalo Villar",
+            "short": "G. Villar",
+            "number": 12,
+            "pos": "CM"
+          },
+          {
+            "name": "Marc Aguado",
+            "short": "M. Aguado",
+            "number": 8,
+            "pos": "CM"
+          },
+          {
+            "name": "Thomas Lemar",
+            "short": "T. Lemar",
+            "number": 18,
+            "pos": "LW"
+          },
+          {
+            "name": "Abiel Osorio",
+            "short": "A. Osorio",
+            "number": 24,
+            "pos": "ST"
+          }
+        ]
+      },
+      "subs": [
+        {
+          "side": "away",
+          "minute": 28,
+          "in": "Federico Redondo",
+          "out": "Marc Aguado"
+        },
+        {
+          "side": "away",
+          "minute": 65,
+          "in": "José Antonio Morente",
+          "out": "Lucas Cepeda"
+        },
+        {
+          "side": "away",
+          "minute": 65,
+          "in": "Martim Neto",
+          "out": "Thomas Lemar"
+        },
+        {
+          "side": "away",
+          "minute": 65,
+          "in": "Fer Niño",
+          "out": "Abiel Osorio"
+        },
+        {
+          "side": "home",
+          "minute": 66,
+          "in": "Georges Mikautadze",
+          "out": "Santi Comesaña"
+        },
+        {
+          "side": "home",
+          "minute": 66,
+          "in": "Pape Gueye",
+          "out": "Tani Oluwaseyi"
+        },
+        {
+          "side": "home",
+          "minute": 66,
+          "in": "Nathan Saliba",
+          "out": "Carlos Macià"
+        },
+        {
+          "side": "home",
+          "minute": 75,
+          "in": "Gerard Moreno",
+          "out": "Ilias Akhomach"
+        },
+        {
+          "side": "away",
+          "minute": 83,
+          "in": "Rubén Sánchez",
+          "out": "Buba Sangaré"
+        },
+        {
+          "side": "home",
+          "minute": 84,
+          "in": "Nizar El Jmili Ben Hamou",
+          "out": "Ayoze Pérez"
+        }
+      ],
+      "unused_subs": {
+        "home": [
+          "Pau Navarro",
+          "Carlos Romero",
+          "Luiz Júnior",
+          "Renato Veiga",
+          "Alassane Diatta",
+          "Joselillo",
+          "Santiago Mouriño"
+        ],
+        "away": [
+          "Alejandro Iturbe",
+          "Pedro Bigas",
+          "Ali Houary",
+          "Kevin Lomónaco",
+          "Facundo Buonanotte",
+          "Josan",
+          "Ezequiel Ponce"
+        ]
+      },
+      "goals": [],
+      "cards": [
+        {
+          "side": "away",
+          "minute": 38,
+          "player": "Gonzalo Villar",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 71,
+          "player": "José Antonio Morente",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 75,
+          "player": "Roy Revivo",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 81,
+          "player": "Alex Freeman",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 90,
+          "player": "Víctor Chust",
+          "card": "yellow",
+          "reason": "Not specified"
+        },
+        {
+          "side": "home",
+          "minute": 90,
+          "player": "Juan Foyth",
+          "card": "yellow",
+          "reason": "Not specified"
+        }
+      ],
+      "var": [
+        {
+          "side": "away",
+          "minute": 63,
+          "player": null,
+          "detail": "VAR review: no penalty awarded to Elche"
+        }
+      ],
+      "stats": {
+        "possession": [
+          57.6,
+          42.4
+        ],
+        "shots": [
+          20,
+          7
+        ],
+        "onTarget": [
+          7,
+          1
+        ],
+        "corners": [
+          10,
+          5
+        ],
+        "fouls": [
+          12,
+          7
+        ],
+        "xg": null
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882837",
+        "https://www.espn.com/soccer/match/_/gameId/401882837",
+        "https://www.lanacion.com.ar/deportes/canchallena/villarreal-empato-0-0-con-elche-por-la-liga-de-espana-2026-nid17102026/",
+        "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+      ],
+      "notes": "Lineups, events, stats and shot locations from ESPN; shot x/y are ESPN fieldPosition values. Positions inferred from ESPN formation slot. xG not available.",
+      "league": "LaLiga",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+      "home_country": "ES",
+      "away_country": "ES"
+    },
+    {
+      "id": "real-betis-barcelona-2026-10-17",
+      "found": true,
+      "competition": "LaLiga",
+      "round": "Matchday 9",
+      "date": "2026-10-17",
+      "kickoff_local": "18:30",
+      "home": "Real Betis",
+      "away": "Barcelona",
+      "score": [
+        2,
+        5
+      ],
+      "venue": {
+        "name": "Estadio La Cartuja",
+        "city": "Sevilla",
+        "attendance": 66924
+      },
+      "referee": {
+        "name": "Ricardo de Burgos Bengoetxea",
+        "country": "Spain"
+      },
+      "coaches": {
+        "home": "Manuel Pellegrini",
+        "away": "Hansi Flick"
+      },
+      "formations": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "lineups": {
+        "home": [
+          {
+            "name": "Álvaro Valles",
+            "short": "Á. Valles",
+            "number": 1,
+            "pos": "GK"
+          },
+          {
+            "name": "Héctor Bellerín",
+            "short": "H. Bellerín",
+            "number": 2,
+            "pos": "RB"
+          },
+          {
+            "name": "Diego Llorente",
+            "short": "D. Llorente",
+            "number": 3,
+            "pos": "CB"
+          },
+          {
+            "name": "Valentín Gómez",
+            "short": "V. Gómez",
+            "number": 16,
+            "pos": "CB"
+          },
+          {
+            "name": "Fran García",
+            "short": "F. García",
+            "number": 11,
+            "pos": "LB"
+          },
+          {
+            "name": "Facundo Bernal",
+            "short": "F. Bernal",
+            "number": 6,
+            "pos": "DM"
+          },
+          {
+            "name": "Dani Ceballos",
+            "short": "D. Ceballos",
+            "number": 25,
+            "pos": "DM"
+          },
+          {
+            "name": "Giovani Lo Celso",
+            "short": "G. Lo Celso",
+            "number": 20,
+            "pos": "RW"
+          },
+          {
+            "name": "Pablo Fornals",
+            "short": "P. Fornals",
+            "number": 8,
+            "pos": "AM"
+          },
+          {
+            "name": "Abde Ezzalzouli",
+            "short": "A. Ezzalzouli",
+            "number": 10,
+            "pos": "LW"
+          },
+          {
+            "name": "Cucho Hernández",
+            "short": "C. Hernández",
+            "number": 9,
+            "pos": "ST"
+          }
+        ],
+        "away": [
+          {
+            "name": "Joan García",
+            "short": "J. García",
+            "number": 1,
+            "pos": "GK"
+          },
+          {
+            "name": "Jules Koundé",
+            "short": "J. Koundé",
+            "number": 23,
+            "pos": "RB"
+          },
+          {
+            "name": "Pau Cubarsí",
+            "short": "P. Cubarsí",
+            "number": 5,
+            "pos": "CB"
+          },
+          {
+            "name": "Gerard Martín",
+            "short": "G. Martín",
+            "number": 18,
+            "pos": "CB"
+          },
+          {
+            "name": "Xavi Espart",
+            "short": "X. Espart",
+            "number": 12,
+            "pos": "LB"
+          },
+          {
+            "name": "Rodri",
+            "short": "Rodri",
+            "number": 16,
+            "pos": "DM"
+          },
+          {
+            "name": "Pedri",
+            "short": "Pedri",
+            "number": 8,
+            "pos": "DM"
+          },
+          {
+            "name": "Lamine Yamal",
+            "short": "L. Yamal",
+            "number": 10,
+            "pos": "RW"
+          },
+          {
+            "name": "Fermín López",
+            "short": "F. López",
+            "number": 7,
+            "pos": "AM"
+          },
+          {
+            "name": "Karim Adeyemi",
+            "short": "K. Adeyemi",
+            "number": 14,
+            "pos": "LW"
+          },
+          {
+            "name": "Gabriel Jesus",
+            "short": "G. Jesus",
+            "number": 9,
+            "pos": "ST"
+          }
+        ]
+      },
+      "subs": [
+        {
+          "side": "away",
+          "minute": 45,
+          "in": "Eric García",
+          "out": "Gerard Martín"
+        },
+        {
+          "side": "home",
+          "minute": 45,
+          "in": "Nelson Deossa",
+          "out": "Dani Ceballos"
+        },
+        {
+          "side": "away",
+          "minute": 62,
+          "in": "Dani Olmo",
+          "out": "Fermín López"
+        },
+        {
+          "side": "away",
+          "minute": 62,
+          "in": "Anthony Gordon",
+          "out": "Karim Adeyemi"
+        },
+        {
+          "side": "home",
+          "minute": 64,
+          "in": "Troy Parrott",
+          "out": "Cucho Hernández"
+        },
+        {
+          "side": "home",
+          "minute": 64,
+          "in": "Rodrigo Riquelme",
+          "out": "Giovani Lo Celso"
+        },
+        {
+          "side": "away",
+          "minute": 70,
+          "in": "Raphinha",
+          "out": "Lamine Yamal"
+        },
+        {
+          "side": "home",
+          "minute": 70,
+          "in": "Ángel Ortiz",
+          "out": "Héctor Bellerín"
+        },
+        {
+          "side": "home",
+          "minute": 70,
+          "in": "Álvaro Fidalgo",
+          "out": "Pablo Fornals"
+        },
+        {
+          "side": "away",
+          "minute": 79,
+          "in": "Gavi",
+          "out": "Gabriel Jesus"
+        }
+      ],
+      "unused_subs": {
+        "home": [
+          "Marc Roca",
+          "Diego Conde",
+          "Marc Bartra",
+          "José Morante",
+          "Antony",
+          "Isco",
+          "Natan"
+        ],
+        "away": [
+          "Marc Bernal",
+          "João Cancelo",
+          "Frenkie de Jong",
+          "Wojciech Szczesny",
+          "Alejandro Balde",
+          "Dominik Livakovic",
+          "Brian Fariñas"
+        ]
+      },
+      "goals": [
+        {
+          "side": "away",
+          "minute": 10,
+          "scorer": "Lamine Yamal",
+          "assist": "Jules Koundé",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "left",
+          "description": "Lamine Yamal left footed shot from outside the box to the top left corner. Assist: Jules Koundé.",
+          "shot": {
+            "x": 81.2,
+            "y": 27.6,
+            "header": false
+          }
+        },
+        {
+          "side": "home",
+          "minute": 27,
+          "scorer": "Valentín Gómez",
+          "assist": "Pablo Fornals",
+          "own_goal": false,
+          "penalty": false,
+          "type": "set",
+          "foot": "header",
+          "description": "Valentín Gómez header from very close range to the high centre of the goal. Assist: Pablo Fornals with a cross following a corner.",
+          "shot": {
+            "x": 96.4,
+            "y": 50.6,
+            "header": true
+          }
+        },
+        {
+          "side": "away",
+          "minute": 41,
+          "scorer": "Rodri",
+          "assist": "Fermín López",
+          "own_goal": false,
+          "penalty": false,
+          "type": "set",
+          "foot": "header",
+          "description": "Rodri header from the centre of the box to the bottom right corner. Assist: Fermín López with a cross following a corner.",
+          "shot": {
+            "x": 93.6,
+            "y": 52.4,
+            "header": true
+          }
+        },
+        {
+          "side": "away",
+          "minute": 51,
+          "scorer": "Gabriel Jesus",
+          "assist": "Lamine Yamal",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "right",
+          "description": "Gabriel Jesus right footed shot from the centre of the box to the centre of the goal. Assist: Lamine Yamal.",
+          "shot": {
+            "x": 90.8,
+            "y": 48.4,
+            "header": false
+          }
+        },
+        {
+          "side": "home",
+          "minute": 53,
+          "scorer": "Abde Ezzalzouli",
+          "assist": "Giovani Lo Celso",
+          "own_goal": false,
+          "penalty": false,
+          "type": "counter",
+          "foot": "right",
+          "description": "Abde Ezzalzouli right footed shot from outside the box to the bottom right corner. Assist: Giovani Lo Celso with a through ball following a fast break.",
+          "shot": {
+            "x": 81.9,
+            "y": 55.6,
+            "header": false
+          }
+        },
+        {
+          "side": "away",
+          "minute": 62,
+          "scorer": "Eric García",
+          "assist": "Pau Cubarsí",
+          "own_goal": false,
+          "penalty": false,
+          "type": "set",
+          "foot": "right",
+          "description": "Eric García right footed shot from very close range to the centre of the goal. Assist: Pau Cubarsí with a headed pass following a set piece situation.",
+          "shot": {
+            "x": 97.0,
+            "y": 50.2,
+            "header": false
+          }
+        },
+        {
+          "side": "away",
+          "minute": 81,
+          "scorer": "Dani Olmo",
+          "assist": "Pau Cubarsí",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "right",
+          "description": "Dani Olmo right footed shot from outside the box to the bottom right corner. Assist: Pau Cubarsí.",
+          "shot": {
+            "x": 80.6,
+            "y": 48.4,
+            "header": false
+          }
+        }
+      ],
+      "cards": [
+        {
+          "side": "away",
+          "minute": 20,
+          "player": "Fermín López",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 22,
+          "player": "Héctor Bellerín",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 53,
+          "player": "Facundo Bernal",
+          "card": "yellow",
+          "reason": "Not specified"
+        },
+        {
+          "side": "home",
+          "minute": 54,
+          "player": "Facundo Bernal",
+          "card": "red",
+          "reason": "Violent conduct"
+        },
+        {
+          "side": "away",
+          "minute": 55,
+          "player": "Lamine Yamal",
+          "card": "yellow",
+          "reason": "Not specified"
+        },
+        {
+          "side": "home",
+          "minute": 61,
+          "player": "Diego Llorente",
+          "card": "yellow",
+          "reason": "Bad foul"
+        }
+      ],
+      "var": [
+        {
+          "side": "home",
+          "minute": 43,
+          "player": "Giovani Lo Celso",
+          "detail": "Goal ruled out after VAR review"
+        }
+      ],
+      "stats": {
+        "possession": [
+          30.7,
+          69.3
+        ],
+        "shots": [
+          6,
+          18
+        ],
+        "onTarget": [
+          5,
+          10
+        ],
+        "corners": [
+          2,
+          5
+        ],
+        "fouls": [
+          10,
+          11
+        ],
+        "xg": null
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882846",
+        "https://www.espn.com/soccer/match/_/gameId/401882846",
+        "https://okdiario.com/deportes/arbitro-burgos-bengoetxea-pitara-betis-barcelona-del-cerro-grande-var-20567291",
+        "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/10/20/es-lo-que-me-piden-audio-del-var-revela-que-arbitro-reviso-gol-de-betis-por-presion-de-barcelona.shtml",
+        "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+      ],
+      "notes": "Lineups, events, stats and shot locations from ESPN; shot x/y are ESPN fieldPosition values. Positions inferred from ESPN formation slot. xG not available. Facundo Bernal was booked at 53' and then shown a straight red for violent conduct at 54' (ESPN). Lo Celso goal at 43' ruled out by VAR for a handball by Cucho Hernández.",
+      "league": "LaLiga",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "home_country": "ES",
+      "away_country": "ES"
+    },
+    {
+      "id": "valencia-athletic-2026-10-17",
+      "found": true,
+      "competition": "LaLiga",
+      "round": "Matchday 9",
+      "date": "2026-10-17",
+      "kickoff_local": "21:00",
+      "home": "Valencia",
+      "away": "Athletic",
+      "score": [
+        0,
+        0
+      ],
+      "venue": {
+        "name": "Mestalla Stadium",
+        "city": "Valencia",
+        "attendance": 43223
+      },
+      "referee": {
+        "name": "Adrián Cordero Vega",
+        "country": "Spain"
+      },
+      "coaches": {
+        "home": "Javier Aguirre",
+        "away": "Edin Terzić"
+      },
+      "formations": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "lineups": {
+        "home": [
+          {
+            "name": "Stole Dimitrievski",
+            "short": "S. Dimitrievski",
+            "number": 1,
+            "pos": "GK"
+          },
+          {
+            "name": "Pablo Maffeo",
+            "short": "P. Maffeo",
+            "number": 24,
+            "pos": "RB"
+          },
+          {
+            "name": "César Tárrega",
+            "short": "C. Tárrega",
+            "number": 5,
+            "pos": "CB"
+          },
+          {
+            "name": "Justin de Haas",
+            "short": "J. de Haas",
+            "number": 12,
+            "pos": "CB"
+          },
+          {
+            "name": "José Gayà",
+            "short": "J. Gayà",
+            "number": 14,
+            "pos": "LB"
+          },
+          {
+            "name": "Pepelu",
+            "short": "Pepelu",
+            "number": 18,
+            "pos": "DM"
+          },
+          {
+            "name": "Guido Rodríguez",
+            "short": "G. Rodríguez",
+            "number": 2,
+            "pos": "DM"
+          },
+          {
+            "name": "Dani Raba",
+            "short": "D. Raba",
+            "number": 19,
+            "pos": "RW"
+          },
+          {
+            "name": "Javier Guerra",
+            "short": "J. Guerra",
+            "number": 8,
+            "pos": "AM"
+          },
+          {
+            "name": "Arnaut Danjuma",
+            "short": "A. Danjuma",
+            "number": 7,
+            "pos": "LW"
+          },
+          {
+            "name": "Hugo Duro",
+            "short": "H. Duro",
+            "number": 9,
+            "pos": "ST"
+          }
+        ],
+        "away": [
+          {
+            "name": "Unai Simón",
+            "short": "U. Simón",
+            "number": 1,
+            "pos": "GK"
+          },
+          {
+            "name": "Hugo Rincón",
+            "short": "H. Rincón",
+            "number": 15,
+            "pos": "RB"
+          },
+          {
+            "name": "Aitor Paredes",
+            "short": "A. Paredes",
+            "number": 4,
+            "pos": "CB"
+          },
+          {
+            "name": "Aymeric Laporte",
+            "short": "A. Laporte",
+            "number": 14,
+            "pos": "CB"
+          },
+          {
+            "name": "Johaneko Louis Jean",
+            "short": "J. Louis Jean",
+            "number": 31,
+            "pos": "LB"
+          },
+          {
+            "name": "Beñat Gerenabarrena",
+            "short": "B. Gerenabarrena",
+            "number": 24,
+            "pos": "DM"
+          },
+          {
+            "name": "Iñigo Ruiz de Galarreta",
+            "short": "I. Ruiz de Galarreta",
+            "number": 16,
+            "pos": "DM"
+          },
+          {
+            "name": "Álex Berenguer",
+            "short": "Á. Berenguer",
+            "number": 7,
+            "pos": "RW"
+          },
+          {
+            "name": "Peio Canales",
+            "short": "P. Canales",
+            "number": 28,
+            "pos": "AM"
+          },
+          {
+            "name": "Robert Navarro",
+            "short": "R. Navarro",
+            "number": 23,
+            "pos": "LW"
+          },
+          {
+            "name": "Iñaki Williams",
+            "short": "I. Williams",
+            "number": 9,
+            "pos": "ST"
+          }
+        ]
+      },
+      "subs": [
+        {
+          "side": "away",
+          "minute": 45,
+          "in": "Mikel Jauregizar",
+          "out": "Beñat Gerenabarrena"
+        },
+        {
+          "side": "home",
+          "minute": 54,
+          "in": "Luis Rioja",
+          "out": "Dani Raba"
+        },
+        {
+          "side": "home",
+          "minute": 54,
+          "in": "David Otorbi",
+          "out": "Hugo Duro"
+        },
+        {
+          "side": "away",
+          "minute": 63,
+          "in": "Jesús Areso",
+          "out": "Johaneko Louis Jean"
+        },
+        {
+          "side": "away",
+          "minute": 63,
+          "in": "Gorka Guruzeta",
+          "out": "Iñaki Williams"
+        },
+        {
+          "side": "away",
+          "minute": 63,
+          "in": "Alejandro Rego",
+          "out": "Iñigo Ruiz de Galarreta"
+        },
+        {
+          "side": "away",
+          "minute": 68,
+          "in": "Maroan Sannadi",
+          "out": "Gorka Guruzeta"
+        },
+        {
+          "side": "home",
+          "minute": 74,
+          "in": "Harvey Elliott",
+          "out": "Justin de Haas"
+        },
+        {
+          "side": "home",
+          "minute": 85,
+          "in": "Jesús Vázquez",
+          "out": "José Gayà"
+        },
+        {
+          "side": "home",
+          "minute": 86,
+          "in": "Filip Ugrinic",
+          "out": "Guido Rodríguez"
+        }
+      ],
+      "unused_subs": {
+        "home": [
+          "Ryunosuke Sato",
+          "Kayne Van Oevelen",
+          "Arnau Martínez",
+          "Aliou Dieng",
+          "Mouctar Diakhaby",
+          "Aaron Mayol",
+          "Aimar Blázquez"
+        ],
+        "away": [
+          "Christian Imga",
+          "Yuri Berchiche",
+          "Álex Padilla",
+          "Dani Vivian",
+          "Nico Serrano",
+          "Beñat Prados",
+          "Yeray"
+        ]
+      },
+      "goals": [],
+      "cards": [
+        {
+          "side": "home",
+          "minute": 19,
+          "player": "Dani Raba",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 38,
+          "player": "Aymeric Laporte",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 42,
+          "player": "Beñat Gerenabarrena",
+          "card": "yellow",
+          "reason": "Handball"
+        },
+        {
+          "side": "away",
+          "minute": 57,
+          "player": "Iñigo Ruiz de Galarreta",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 87,
+          "player": "Pepelu",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 90,
+          "player": "César Tárrega",
+          "card": "yellow",
+          "reason": "Bad foul"
+        }
+      ],
+      "var": [],
+      "stats": {
+        "possession": [
+          36.8,
+          63.2
+        ],
+        "shots": [
+          16,
+          9
+        ],
+        "onTarget": [
+          3,
+          2
+        ],
+        "corners": [
+          2,
+          6
+        ],
+        "fouls": [
+          14,
+          13
+        ],
+        "xg": null
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882838",
+        "https://www.espn.com/soccer/match/_/gameId/401882838",
+        "https://www.semprevalencia.com/2026/10/valencia-athletic-empate-sin-goles-mestalla-jornada-9/",
+        "https://www.infobae.com/espana/agencias/2026/10/17/0-0-otro-empate-para-el-valencia-y-el-athletic/",
+        "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+      ],
+      "notes": "Lineups, events, stats and shot locations from ESPN; shot x/y are ESPN fieldPosition values. Positions inferred from ESPN formation slot. xG not available.",
+      "league": "LaLiga",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+      "home_country": "ES",
+      "away_country": "ES"
+    },
+    {
+      "id": "osasuna-racing-2026-10-18",
+      "found": true,
+      "competition": "LaLiga",
+      "round": "Matchday 9",
+      "date": "2026-10-18",
+      "kickoff_local": "14:00",
+      "home": "Osasuna",
+      "away": "Racing",
+      "score": [
+        2,
+        0
+      ],
+      "venue": {
+        "name": "El Sadar",
+        "city": "Pamplona",
+        "attendance": null
+      },
+      "referee": {
+        "name": "Juan Martínez Munuera",
+        "country": "Spain"
+      },
+      "coaches": {
+        "home": "Jagoba Arrasate",
+        "away": "José Alberto López"
+      },
+      "formations": {
+        "home": "4-3-3",
+        "away": "4-2-3-1"
+      },
+      "lineups": {
+        "home": [
+          {
+            "name": "Aitor Fernández",
+            "short": "A. Fernández",
+            "number": 13,
+            "pos": "GK"
+          },
+          {
+            "name": "Valentin Rosier",
+            "short": "V. Rosier",
+            "number": 19,
+            "pos": "RB"
+          },
+          {
+            "name": "Alejandro Catena",
+            "short": "A. Catena",
+            "number": 24,
+            "pos": "CB"
+          },
+          {
+            "name": "Enzo Boyomo",
+            "short": "E. Boyomo",
+            "number": 22,
+            "pos": "CB"
+          },
+          {
+            "name": "Abel Bretones",
+            "short": "A. Bretones",
+            "number": 23,
+            "pos": "LB"
+          },
+          {
+            "name": "Iker Muñoz",
+            "short": "I. Muñoz",
+            "number": 8,
+            "pos": "DM"
+          },
+          {
+            "name": "Jon Moncayola",
+            "short": "J. Moncayola",
+            "number": 7,
+            "pos": "CM"
+          },
+          {
+            "name": "Moi Gómez",
+            "short": "Moi Gómez",
+            "number": 16,
+            "pos": "CM"
+          },
+          {
+            "name": "Rubén García",
+            "short": "R. García",
+            "number": 14,
+            "pos": "RW"
+          },
+          {
+            "name": "Ante Budimir",
+            "short": "A. Budimir",
+            "number": 17,
+            "pos": "ST"
+          },
+          {
+            "name": "Jonathan Dubasin",
+            "short": "J. Dubasin",
+            "number": 21,
+            "pos": "LW"
+          }
+        ],
+        "away": [
+          {
+            "name": "Julen Agirrezabala",
+            "short": "J. Agirrezabala",
+            "number": 13,
+            "pos": "GK"
+          },
+          {
+            "name": "Alvaro Mantilla",
+            "short": "A. Mantilla",
+            "number": 2,
+            "pos": "RB"
+          },
+          {
+            "name": "Pablo Ramon",
+            "short": "P. Ramon",
+            "number": 5,
+            "pos": "CB"
+          },
+          {
+            "name": "Jeanuël Belocian",
+            "short": "J. Belocian",
+            "number": 24,
+            "pos": "CB"
+          },
+          {
+            "name": "Jorge Salinas",
+            "short": "J. Salinas",
+            "number": 17,
+            "pos": "LB"
+          },
+          {
+            "name": "Iván Martín",
+            "short": "I. Martín",
+            "number": 23,
+            "pos": "DM"
+          },
+          {
+            "name": "Matteo Prati",
+            "short": "M. Prati",
+            "number": 18,
+            "pos": "DM"
+          },
+          {
+            "name": "Sergio Canales",
+            "short": "S. Canales",
+            "number": 20,
+            "pos": "RW"
+          },
+          {
+            "name": "André Almeida",
+            "short": "A. Almeida",
+            "number": 8,
+            "pos": "AM"
+          },
+          {
+            "name": "Iñigo Vicente",
+            "short": "I. Vicente",
+            "number": 10,
+            "pos": "LW"
+          },
+          {
+            "name": "Yassir Zabiri",
+            "short": "Y. Zabiri",
+            "number": 21,
+            "pos": "ST"
+          }
+        ]
+      },
+      "subs": [
+        {
+          "side": "away",
+          "minute": 45,
+          "in": "Andrés Martín",
+          "out": "André Almeida"
+        },
+        {
+          "side": "home",
+          "minute": 67,
+          "in": "Asier Osambela",
+          "out": "Moi Gómez"
+        },
+        {
+          "side": "home",
+          "minute": 67,
+          "in": "Lucas Torró",
+          "out": "Iker Muñoz"
+        },
+        {
+          "side": "away",
+          "minute": 69,
+          "in": "Pablo García",
+          "out": "Sergio Canales"
+        },
+        {
+          "side": "home",
+          "minute": 76,
+          "in": "Raúl Moro",
+          "out": "Jonathan Dubasin"
+        },
+        {
+          "side": "home",
+          "minute": 76,
+          "in": "Iñigo Arguibide",
+          "out": "Valentin Rosier"
+        },
+        {
+          "side": "away",
+          "minute": 83,
+          "in": "Aarón Martín",
+          "out": "Jorge Salinas"
+        },
+        {
+          "side": "away",
+          "minute": 83,
+          "in": "Asier Villalibre",
+          "out": "Iván Martín"
+        },
+        {
+          "side": "home",
+          "minute": 90,
+          "in": "Raúl García",
+          "out": "Rubén García"
+        },
+        {
+          "side": "away",
+          "minute": 90,
+          "in": "Giorgi Guliashvili",
+          "out": "Yassir Zabiri"
+        }
+      ],
+      "unused_subs": {
+        "home": [
+          "Rafa Fernández",
+          "Rockson Yeboah",
+          "Sergio Herrera",
+          "Unai Santos",
+          "Mauro Echegoyen",
+          "Enrique Barja",
+          "Diego Rico"
+        ],
+        "away": [
+          "Laro Gómez",
+          "Íñigo Sainz",
+          "Iker Luque",
+          "Pedro Felipe",
+          "Juan Carlos Arana",
+          "Maguette Gueye",
+          "Facundo González"
+        ]
+      },
+      "goals": [
+        {
+          "side": "home",
+          "minute": 9,
+          "scorer": "Ante Budimir",
+          "assist": null,
+          "own_goal": false,
+          "penalty": true,
+          "type": "penalty",
+          "foot": "left",
+          "description": "Ante Budimir converted the penalty with a left footed shot to the bottom left corner.",
+          "shot": {
+            "x": 88.5,
+            "y": 50.0,
+            "header": false
+          }
+        },
+        {
+          "side": "home",
+          "minute": 88,
+          "scorer": "Asier Osambela",
+          "assist": null,
+          "own_goal": false,
+          "penalty": false,
+          "type": "counter",
+          "foot": "left",
+          "description": "Asier Osambela left footed shot from the centre of the box to the centre of the goal following a fast break.",
+          "shot": {
+            "x": 90.8,
+            "y": 47.2,
+            "header": false
+          }
+        }
+      ],
+      "cards": [
+        {
+          "side": "away",
+          "minute": 6,
+          "player": "Alvaro Mantilla",
+          "card": "yellow",
+          "reason": "Not specified"
+        },
+        {
+          "side": "home",
+          "minute": 28,
+          "player": "Valentin Rosier",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 51,
+          "player": "Jorge Salinas",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 60,
+          "player": "Ante Budimir",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 80,
+          "player": "Iván Martín",
+          "card": "yellow",
+          "reason": "Handball"
+        }
+      ],
+      "var": [
+        {
+          "side": "home",
+          "minute": 3,
+          "player": "Jonathan Dubasin",
+          "detail": "Goal ruled out after VAR review"
+        }
+      ],
+      "stats": {
+        "possession": [
+          43.6,
+          56.4
+        ],
+        "shots": [
+          20,
+          9
+        ],
+        "onTarget": [
+          7,
+          1
+        ],
+        "corners": [
+          7,
+          4
+        ],
+        "fouls": [
+          21,
+          9
+        ],
+        "xg": null
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882840",
+        "https://www.espn.com/soccer/match/_/gameId/401882840",
+        "https://www.noticiasdenavarra.com/osasuna/2026/10/18/directo-osasuna-racing-santander-11660575.html",
+        "https://navarra.okdiario.com/articulo/osasuna/cronica-partido-futbol-osasuna-racing-estadio-sadar-pamplona/20261018155504664253.html",
+        "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+      ],
+      "notes": "Lineups, events, stats and shot locations from ESPN; shot x/y are ESPN fieldPosition values. Positions inferred from ESPN formation slot. xG not available. Budimir penalty listed at 9' by ESPN; some Spanish reports give 8'. Attendance not published by ESPN. An early Dubasin goal was ruled out by VAR (offside in the build-up per ESPN commentary).",
+      "league": "LaLiga",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+      "home_country": "ES",
+      "away_country": "ES"
+    },
+    {
+      "id": "celta-vigo-alaves-2026-10-18",
+      "found": true,
+      "competition": "LaLiga",
+      "round": "Matchday 9",
+      "date": "2026-10-18",
+      "kickoff_local": "16:15",
+      "home": "Celta Vigo",
+      "away": "Alavés",
+      "score": [
+        2,
+        1
+      ],
+      "venue": {
+        "name": "Balaidos",
+        "city": "Vigo",
+        "attendance": 19568
+      },
+      "referee": {
+        "name": "José Luis Munuera Montero",
+        "country": "Spain"
+      },
+      "coaches": {
+        "home": "Claudio Giráldez",
+        "away": "Quique Sánchez Flores"
+      },
+      "formations": {
+        "home": "3-4-3",
+        "away": "5-3-2"
+      },
+      "lineups": {
+        "home": [
+          {
+            "name": "Andrei Radu",
+            "short": "A. Radu",
+            "number": 13,
+            "pos": "GK"
+          },
+          {
+            "name": "Javi Rodríguez",
+            "short": "J. Rodríguez",
+            "number": 20,
+            "pos": "CB"
+          },
+          {
+            "name": "Yoel Lago",
+            "short": "Y. Lago",
+            "number": 18,
+            "pos": "CB"
+          },
+          {
+            "name": "Sebastián Cáceres",
+            "short": "S. Cáceres",
+            "number": 21,
+            "pos": "CB"
+          },
+          {
+            "name": "Sergio Carreira",
+            "short": "S. Carreira",
+            "number": 5,
+            "pos": "RB"
+          },
+          {
+            "name": "Hugo Burcio",
+            "short": "H. Burcio",
+            "number": 30,
+            "pos": "CM"
+          },
+          {
+            "name": "Ilaix Moriba",
+            "short": "I. Moriba",
+            "number": 6,
+            "pos": "CM"
+          },
+          {
+            "name": "Hugo Álvarez",
+            "short": "H. Álvarez",
+            "number": 23,
+            "pos": "LB"
+          },
+          {
+            "name": "Couhaib Driouech",
+            "short": "C. Driouech",
+            "number": 24,
+            "pos": "RW"
+          },
+          {
+            "name": "Ferran Jutglà",
+            "short": "F. Jutglà",
+            "number": 9,
+            "pos": "ST"
+          },
+          {
+            "name": "Williot Swedberg",
+            "short": "W. Swedberg",
+            "number": 19,
+            "pos": "LW"
+          }
+        ],
+        "away": [
+          {
+            "name": "Antonio Sivera",
+            "short": "A. Sivera",
+            "number": 1,
+            "pos": "GK"
+          },
+          {
+            "name": "Nahuel Tenaglia",
+            "short": "N. Tenaglia",
+            "number": 14,
+            "pos": "RB"
+          },
+          {
+            "name": "Jonny",
+            "short": "Jonny",
+            "number": 17,
+            "pos": "CB"
+          },
+          {
+            "name": "Ville Koski",
+            "short": "V. Koski",
+            "number": 16,
+            "pos": "CB"
+          },
+          {
+            "name": "Nicolás Valentini",
+            "short": "N. Valentini",
+            "number": 2,
+            "pos": "CB"
+          },
+          {
+            "name": "Abde Rebbach",
+            "short": "A. Rebbach",
+            "number": 21,
+            "pos": "LB"
+          },
+          {
+            "name": "Pablo Ibáñez",
+            "short": "P. Ibáñez",
+            "number": 19,
+            "pos": "CM"
+          },
+          {
+            "name": "Antonio Blanco",
+            "short": "A. Blanco",
+            "number": 8,
+            "pos": "CM"
+          },
+          {
+            "name": "Carles Aleñá",
+            "short": "C. Aleñá",
+            "number": 10,
+            "pos": "CM"
+          },
+          {
+            "name": "Toni Martínez",
+            "short": "T. Martínez",
+            "number": 11,
+            "pos": "ST"
+          },
+          {
+            "name": "Lucas Boyé",
+            "short": "L. Boyé",
+            "number": 15,
+            "pos": "ST"
+          }
+        ]
+      },
+      "subs": [
+        {
+          "side": "home",
+          "minute": 45,
+          "in": "Aleix Febas",
+          "out": "Ilaix Moriba"
+        },
+        {
+          "side": "home",
+          "minute": 45,
+          "in": "Javi Rueda",
+          "out": "Williot Swedberg"
+        },
+        {
+          "side": "away",
+          "minute": 62,
+          "in": "Hugo Novoa",
+          "out": "Jonny"
+        },
+        {
+          "side": "away",
+          "minute": 62,
+          "in": "Mariano Díaz",
+          "out": "Toni Martínez"
+        },
+        {
+          "side": "away",
+          "minute": 62,
+          "in": "Denis Suárez",
+          "out": "Carles Aleñá"
+        },
+        {
+          "side": "home",
+          "minute": 70,
+          "in": "Iago Aspas",
+          "out": "Couhaib Driouech"
+        },
+        {
+          "side": "home",
+          "minute": 70,
+          "in": "Andrés Antañón",
+          "out": "Hugo Burcio"
+        },
+        {
+          "side": "home",
+          "minute": 77,
+          "in": "Marcos Alonso",
+          "out": "Sebastián Cáceres"
+        },
+        {
+          "side": "away",
+          "minute": 88,
+          "in": "Aitor Mañas",
+          "out": "Abde Rebbach"
+        },
+        {
+          "side": "away",
+          "minute": 88,
+          "in": "Ander Guevara",
+          "out": "Antonio Blanco"
+        }
+      ],
+      "unused_subs": {
+        "home": [
+          "Javi Galán",
+          "Álvaro Núñez",
+          "Ángel Arcos",
+          "Hugo Gonzalez",
+          "Altay Bayindir",
+          "Iván Villar",
+          "Abdoulaye Faye"
+        ],
+        "away": [
+          "Adrián Rodríguez",
+          "Miguel Rodríguez",
+          "Carlos Protesoni",
+          "Grégoire Swiderski",
+          "Xanet Oláiz",
+          "Youssef Lekhedim",
+          "Selu Diallo"
+        ]
+      },
+      "goals": [
+        {
+          "side": "home",
+          "minute": 53,
+          "scorer": "Ferran Jutglà",
+          "assist": "Javi Rodríguez",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "left",
+          "description": "Ferran Jutglà left footed shot from the centre of the box to the bottom right corner. Assist: Javi Rodríguez with a through ball.",
+          "shot": {
+            "x": 86.8,
+            "y": 51.0,
+            "header": false
+          }
+        },
+        {
+          "side": "home",
+          "minute": 71,
+          "scorer": "Javi Rodríguez",
+          "assist": "Iago Aspas",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "right",
+          "description": "Javi Rodríguez right footed shot from the right side of the six yard box to the bottom left corner. Assist: Iago Aspas.",
+          "shot": {
+            "x": 95.0,
+            "y": 38.1,
+            "header": false
+          }
+        },
+        {
+          "side": "away",
+          "minute": 87,
+          "scorer": "Hugo Novoa",
+          "assist": "Mariano Díaz",
+          "own_goal": false,
+          "penalty": false,
+          "type": "counter",
+          "foot": "left",
+          "description": "Hugo Novoa left footed shot from the right side of the box to the top left corner. Assist: Mariano Díaz following a fast break.",
+          "shot": {
+            "x": 87.1,
+            "y": 32.3,
+            "header": false
+          }
+        }
+      ],
+      "cards": [
+        {
+          "side": "home",
+          "minute": 15,
+          "player": "Sebastián Cáceres",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 45,
+          "player": "Toni Martínez",
+          "card": "yellow",
+          "reason": "Bad foul"
+        }
+      ],
+      "var": [],
+      "stats": {
+        "possession": [
+          47.8,
+          52.2
+        ],
+        "shots": [
+          6,
+          20
+        ],
+        "onTarget": [
+          3,
+          9
+        ],
+        "corners": [
+          0,
+          4
+        ],
+        "fouls": [
+          14,
+          17
+        ],
+        "xg": null
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882845",
+        "https://www.espn.com/soccer/match/_/gameId/401882845",
+        "https://www.infobae.com/espana/agencias/2026/10/18/2-1-javi-rodriguez-y-radu-sostienen-el-crecimiento-del-celta/",
+        "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+      ],
+      "notes": "Lineups, events, stats and shot locations from ESPN; shot x/y are ESPN fieldPosition values. Positions inferred from ESPN formation slot. xG not available.",
+      "league": "LaLiga",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+      "home_country": "ES",
+      "away_country": "ES"
+    },
+    {
+      "id": "malaga-real-sociedad-2026-10-18",
+      "found": true,
+      "competition": "LaLiga",
+      "round": "Matchday 9",
+      "date": "2026-10-18",
+      "kickoff_local": "18:30",
+      "home": "Málaga",
+      "away": "Real Sociedad",
+      "score": [
+        2,
+        5
+      ],
+      "venue": {
+        "name": "La Rosaleda",
+        "city": "Málaga",
+        "attendance": null
+      },
+      "referee": {
+        "name": "Lluís Bestard Servera",
+        "country": "Spain"
+      },
+      "coaches": {
+        "home": "Juan Francisco Funes",
+        "away": "Pellegrino Matarazzo"
+      },
+      "formations": {
+        "home": "4-4-2",
+        "away": "4-4-2"
+      },
+      "lineups": {
+        "home": [
+          {
+            "name": "Alfonso Herrero",
+            "short": "A. Herrero",
+            "number": 1,
+            "pos": "GK"
+          },
+          {
+            "name": "Rafa Garrido",
+            "short": "R. Garrido",
+            "number": 31,
+            "pos": "RB"
+          },
+          {
+            "name": "Fernando Calero",
+            "short": "F. Calero",
+            "number": 20,
+            "pos": "CB"
+          },
+          {
+            "name": "Ángel Recio",
+            "short": "Á. Recio",
+            "number": 15,
+            "pos": "CB"
+          },
+          {
+            "name": "José Salinas",
+            "short": "J. Salinas",
+            "number": 12,
+            "pos": "LB"
+          },
+          {
+            "name": "David Larrubia",
+            "short": "D. Larrubia",
+            "number": 10,
+            "pos": "RW"
+          },
+          {
+            "name": "Carlos Dotor",
+            "short": "C. Dotor",
+            "number": 8,
+            "pos": "CM"
+          },
+          {
+            "name": "Izan Merino",
+            "short": "I. Merino",
+            "number": 23,
+            "pos": "CM"
+          },
+          {
+            "name": "Pablo Martínez",
+            "short": "P. Martínez",
+            "number": 18,
+            "pos": "LW"
+          },
+          {
+            "name": "Adrián Niño",
+            "short": "A. Niño",
+            "number": 21,
+            "pos": "ST"
+          },
+          {
+            "name": "Chupete",
+            "short": "Chupete",
+            "number": 9,
+            "pos": "ST"
+          }
+        ],
+        "away": [
+          {
+            "name": "Álex Remiro",
+            "short": "Á. Remiro",
+            "number": 1,
+            "pos": "GK"
+          },
+          {
+            "name": "Héctor Fort",
+            "short": "H. Fort",
+            "number": 22,
+            "pos": "RB"
+          },
+          {
+            "name": "Jon Martín",
+            "short": "J. Martín",
+            "number": 6,
+            "pos": "CB"
+          },
+          {
+            "name": "Mamadou Sarr",
+            "short": "M. Sarr",
+            "number": 19,
+            "pos": "CB"
+          },
+          {
+            "name": "Aihen Muñoz",
+            "short": "A. Muñoz",
+            "number": 3,
+            "pos": "LB"
+          },
+          {
+            "name": "Takefusa Kubo",
+            "short": "T. Kubo",
+            "number": 14,
+            "pos": "RW"
+          },
+          {
+            "name": "Jon Gorrotxategi",
+            "short": "J. Gorrotxategi",
+            "number": 4,
+            "pos": "CM"
+          },
+          {
+            "name": "Carlos Soler",
+            "short": "C. Soler",
+            "number": 18,
+            "pos": "CM"
+          },
+          {
+            "name": "Ander Barrenetxea",
+            "short": "A. Barrenetxea",
+            "number": 7,
+            "pos": "LW"
+          },
+          {
+            "name": "Mikel Oyarzabal",
+            "short": "M. Oyarzabal",
+            "number": 10,
+            "pos": "ST"
+          },
+          {
+            "name": "Orri Óskarsson",
+            "short": "O. Óskarsson",
+            "number": 9,
+            "pos": "ST"
+          }
+        ]
+      },
+      "subs": [
+        {
+          "side": "home",
+          "minute": 45,
+          "in": "Ramón Enríquez",
+          "out": "Izan Merino"
+        },
+        {
+          "side": "home",
+          "minute": 45,
+          "in": "Adam Aznou",
+          "out": "José Salinas"
+        },
+        {
+          "side": "away",
+          "minute": 61,
+          "in": "Gonçalo Guedes",
+          "out": "Ander Barrenetxea"
+        },
+        {
+          "side": "away",
+          "minute": 61,
+          "in": "Igor Zubeldia",
+          "out": "Héctor Fort"
+        },
+        {
+          "side": "home",
+          "minute": 64,
+          "in": "Daniel Lorenzo",
+          "out": "Carlos Dotor"
+        },
+        {
+          "side": "home",
+          "minute": 68,
+          "in": "Joaquín Muñoz",
+          "out": "David Larrubia"
+        },
+        {
+          "side": "away",
+          "minute": 71,
+          "in": "Sergio Gómez",
+          "out": "Aihen Muñoz"
+        },
+        {
+          "side": "away",
+          "minute": 71,
+          "in": "Job Ochieng",
+          "out": "Takefusa Kubo"
+        },
+        {
+          "side": "away",
+          "minute": 79,
+          "in": "Alex Marchal",
+          "out": "Orri Óskarsson"
+        },
+        {
+          "side": "home",
+          "minute": 82,
+          "in": "Carlos Puga",
+          "out": "Adrián Niño"
+        }
+      ],
+      "unused_subs": {
+        "home": [
+          "Haitam Abaida",
+          "Álex Pastor",
+          "Eneko Jauregui",
+          "Carlos López",
+          "Rafa Rodríguez",
+          "Einar Galilea",
+          "Jens Cajuste"
+        ],
+        "away": [
+          "Jon Pacheco",
+          "Arsen Zakharyan",
+          "Luka Sucic",
+          "Gorka Carrera",
+          "Unai Marrero",
+          "Beñat Turrientes",
+          "Alex Lebarbier"
+        ]
+      },
+      "goals": [
+        {
+          "side": "away",
+          "minute": 3,
+          "scorer": "Takefusa Kubo",
+          "assist": "Héctor Fort",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "left",
+          "description": "Takefusa Kubo left footed shot from outside the box to the top left corner. Assist: Héctor Fort.",
+          "shot": {
+            "x": 80.5,
+            "y": 28.8,
+            "header": false
+          }
+        },
+        {
+          "side": "away",
+          "minute": 26,
+          "scorer": "Orri Óskarsson",
+          "assist": null,
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "right",
+          "description": "Orri Óskarsson right footed shot from the centre of the box to the bottom right corner.",
+          "shot": {
+            "x": 84.8,
+            "y": 43.3,
+            "header": false
+          }
+        },
+        {
+          "side": "home",
+          "minute": 54,
+          "scorer": "Adrián Niño",
+          "assist": "Pablo Martínez",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "right",
+          "description": "Adrián Niño right footed shot from the centre of the box to the top right corner. Assist: Pablo Martínez.",
+          "shot": {
+            "x": 89.7,
+            "y": 45.3,
+            "header": false
+          }
+        },
+        {
+          "side": "away",
+          "minute": 59,
+          "scorer": "Mikel Oyarzabal",
+          "assist": "Takefusa Kubo",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "left",
+          "description": "Mikel Oyarzabal left footed shot from the right side of the box to the bottom right corner. Assist: Takefusa Kubo.",
+          "shot": {
+            "x": 85.5,
+            "y": 36.2,
+            "header": false
+          }
+        },
+        {
+          "side": "home",
+          "minute": 66,
+          "scorer": "Pablo Martínez",
+          "assist": null,
+          "own_goal": false,
+          "penalty": false,
+          "type": "set",
+          "foot": "right",
+          "description": "Pablo Martínez right footed shot from the left side of the box to the top right corner following a corner.",
+          "shot": {
+            "x": 87.8,
+            "y": 64.2,
+            "header": false
+          }
+        },
+        {
+          "side": "away",
+          "minute": 67,
+          "scorer": "Mikel Oyarzabal",
+          "assist": "Jon Martín",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "left",
+          "description": "Mikel Oyarzabal left footed shot from outside the box to the bottom right corner. Assist: Jon Martín.",
+          "shot": {
+            "x": 77.5,
+            "y": 46.0,
+            "header": false
+          }
+        },
+        {
+          "side": "away",
+          "minute": 73,
+          "scorer": "Gonçalo Guedes",
+          "assist": null,
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "right",
+          "description": "Gonçalo Guedes right footed shot from the right side of the six yard box to the centre of the goal.",
+          "shot": {
+            "x": 95.2,
+            "y": 43.7,
+            "header": false
+          }
+        }
+      ],
+      "cards": [
+        {
+          "side": "away",
+          "minute": 37,
+          "player": "Jon Martín",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 62,
+          "player": "Mamadou Sarr",
+          "card": "yellow",
+          "reason": "Bad foul"
+        }
+      ],
+      "var": [],
+      "stats": {
+        "possession": [
+          45.3,
+          54.7
+        ],
+        "shots": [
+          17,
+          21
+        ],
+        "onTarget": [
+          6,
+          9
+        ],
+        "corners": [
+          4,
+          5
+        ],
+        "fouls": [
+          4,
+          9
+        ],
+        "xg": null
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882841",
+        "https://www.espn.com/soccer/match/_/gameId/401882841",
+        "https://www.abc.com.py/deportes/futbol/internacional/2026/10/18/2-5-la-real-sociedad-somete-con-una-goleada-a-un-inocente-malaga/",
+        "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+      ],
+      "notes": "Lineups, events, stats and shot locations from ESPN; shot x/y are ESPN fieldPosition values. Positions inferred from ESPN formation slot. xG not available. ESPN attendance shows 0 (not published); ABC Color/EFE reported about 30,000 spectators, left as null.",
+      "league": "LaLiga",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "home_country": "ES",
+      "away_country": "ES"
+    },
+    {
+      "id": "real-madrid-sevilla-2026-10-18",
+      "found": true,
+      "competition": "LaLiga",
+      "round": "Matchday 9",
+      "date": "2026-10-18",
+      "kickoff_local": "21:00",
+      "home": "Real Madrid",
+      "away": "Sevilla",
+      "score": [
+        4,
+        1
+      ],
+      "venue": {
+        "name": "Santiago Bernabéu",
+        "city": "Madrid",
+        "attendance": 73907
+      },
+      "referee": {
+        "name": "Mateo Busquets Ferrer",
+        "country": "Spain"
+      },
+      "coaches": {
+        "home": "José Mourinho",
+        "away": "Luis García Plaza"
+      },
+      "formations": {
+        "home": "4-2-3-1",
+        "away": "4-2-3-1"
+      },
+      "lineups": {
+        "home": [
+          {
+            "name": "Thibaut Courtois",
+            "short": "T. Courtois",
+            "number": 1,
+            "pos": "GK"
+          },
+          {
+            "name": "Federico Valverde",
+            "short": "F. Valverde",
+            "number": 8,
+            "pos": "RB"
+          },
+          {
+            "name": "Ibrahima Konaté",
+            "short": "I. Konaté",
+            "number": 16,
+            "pos": "CB"
+          },
+          {
+            "name": "Dean Huijsen",
+            "short": "D. Huijsen",
+            "number": 4,
+            "pos": "CB"
+          },
+          {
+            "name": "Marc Cucurella",
+            "short": "M. Cucurella",
+            "number": 17,
+            "pos": "LB"
+          },
+          {
+            "name": "Arda Güler",
+            "short": "A. Güler",
+            "number": 15,
+            "pos": "DM"
+          },
+          {
+            "name": "Aurélien Tchouaméni",
+            "short": "A. Tchouaméni",
+            "number": 14,
+            "pos": "DM"
+          },
+          {
+            "name": "Endrick",
+            "short": "Endrick",
+            "number": 9,
+            "pos": "RW"
+          },
+          {
+            "name": "Jude Bellingham",
+            "short": "J. Bellingham",
+            "number": 5,
+            "pos": "AM"
+          },
+          {
+            "name": "Yan Diomande",
+            "short": "Y. Diomande",
+            "number": 25,
+            "pos": "LW"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "short": "K. Mbappé",
+            "number": 10,
+            "pos": "ST"
+          }
+        ],
+        "away": [
+          {
+            "name": "Odisseas Vlachodimos",
+            "short": "O. Vlachodimos",
+            "number": 1,
+            "pos": "GK"
+          },
+          {
+            "name": "Juan Iglesias",
+            "short": "J. Iglesias",
+            "number": 2,
+            "pos": "RB"
+          },
+          {
+            "name": "Andrés Castrín",
+            "short": "A. Castrín",
+            "number": 5,
+            "pos": "CB"
+          },
+          {
+            "name": "Enrique Salas",
+            "short": "E. Salas",
+            "number": 4,
+            "pos": "CB"
+          },
+          {
+            "name": "Gabriel Suazo",
+            "short": "G. Suazo",
+            "number": 17,
+            "pos": "LB"
+          },
+          {
+            "name": "Lucien Agoumé",
+            "short": "L. Agoumé",
+            "number": 6,
+            "pos": "DM"
+          },
+          {
+            "name": "Youssouf Fofana",
+            "short": "Y. Fofana",
+            "number": 24,
+            "pos": "DM"
+          },
+          {
+            "name": "Rubén Vargas",
+            "short": "R. Vargas",
+            "number": 11,
+            "pos": "RW"
+          },
+          {
+            "name": "Peque",
+            "short": "Peque",
+            "number": 10,
+            "pos": "AM"
+          },
+          {
+            "name": "Felix Correia",
+            "short": "F. Correia",
+            "number": 20,
+            "pos": "LW"
+          },
+          {
+            "name": "Robbie Ure",
+            "short": "R. Ure",
+            "number": 9,
+            "pos": "ST"
+          }
+        ]
+      },
+      "subs": [
+        {
+          "side": "away",
+          "minute": 45,
+          "in": "Chidera Ejuke",
+          "out": "Rubén Vargas"
+        },
+        {
+          "side": "away",
+          "minute": 56,
+          "in": "Lucas Stassin",
+          "out": "Robbie Ure"
+        },
+        {
+          "side": "away",
+          "minute": 56,
+          "in": "Manu Bueno",
+          "out": "Peque"
+        },
+        {
+          "side": "home",
+          "minute": 69,
+          "in": "Brahim Díaz",
+          "out": "Endrick"
+        },
+        {
+          "side": "home",
+          "minute": 70,
+          "in": "Bernardo Silva",
+          "out": "Jude Bellingham"
+        },
+        {
+          "side": "away",
+          "minute": 72,
+          "in": "José Ángel Carmona",
+          "out": "Juan Iglesias"
+        },
+        {
+          "side": "away",
+          "minute": 73,
+          "in": "Alfonso González",
+          "out": "Felix Correia"
+        },
+        {
+          "side": "home",
+          "minute": 78,
+          "in": "Eduardo Camavinga",
+          "out": "Arda Güler"
+        },
+        {
+          "side": "home",
+          "minute": 85,
+          "in": "Carlos Espí",
+          "out": "Kylian Mbappé"
+        },
+        {
+          "side": "home",
+          "minute": 85,
+          "in": "Éder Militão",
+          "out": "Federico Valverde"
+        }
+      ],
+      "unused_subs": {
+        "home": [
+          "Thiago Pitarch",
+          "Trent Alexander-Arnold",
+          "Denzel Dumfries",
+          "Andriy Lunin",
+          "Antonio Rüdiger",
+          "Álvaro Carreras",
+          "Javier Navarro"
+        ],
+        "away": [
+          "Julio Díaz",
+          "Fran González",
+          "Arouna Sangante",
+          "Fábio Cardoso",
+          "Jesús Cruz Morales",
+          "Nico Guillén",
+          "Rafael Romero"
+        ]
+      },
+      "goals": [
+        {
+          "side": "home",
+          "minute": 30,
+          "scorer": "Arda Güler",
+          "assist": "Yan Diomande",
+          "own_goal": false,
+          "penalty": false,
+          "type": "counter",
+          "foot": "left",
+          "description": "Arda Güler left footed shot from the left side of the box to the top right corner. Assist: Yan Diomande following a fast break.",
+          "shot": {
+            "x": 83.9,
+            "y": 67.5,
+            "header": false
+          }
+        },
+        {
+          "side": "home",
+          "minute": 37,
+          "scorer": "Kylian Mbappé",
+          "assist": "Jude Bellingham",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "left",
+          "description": "Kylian Mbappé left footed shot from the left side of the six yard box to the centre of the goal. Assist: Jude Bellingham.",
+          "shot": {
+            "x": 94.5,
+            "y": 55.8,
+            "header": false
+          }
+        },
+        {
+          "side": "home",
+          "minute": 63,
+          "scorer": "Kylian Mbappé",
+          "assist": null,
+          "own_goal": false,
+          "penalty": true,
+          "type": "penalty",
+          "foot": "right",
+          "description": "Kylian Mbappé converted the penalty with a right footed shot to the high centre of the goal.",
+          "shot": {
+            "x": 88.5,
+            "y": 50.0,
+            "header": false
+          }
+        },
+        {
+          "side": "away",
+          "minute": 80,
+          "scorer": "Manu Bueno",
+          "assist": "Lucas Stassin",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "left",
+          "description": "Manu Bueno left footed shot from the right side of the box to the bottom left corner. Assist: Lucas Stassin.",
+          "shot": {
+            "x": 87.4,
+            "y": 34.2,
+            "header": false
+          }
+        },
+        {
+          "side": "home",
+          "minute": 82,
+          "scorer": "Yan Diomande",
+          "assist": "Aurélien Tchouaméni",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "right",
+          "description": "Yan Diomande right footed shot from outside the box to the top left corner. Assist: Aurélien Tchouaméni.",
+          "shot": {
+            "x": 81.1,
+            "y": 64.8,
+            "header": false
+          }
+        }
+      ],
+      "cards": [
+        {
+          "side": "away",
+          "minute": 23,
+          "player": "Felix Correia",
+          "card": "yellow",
+          "reason": "Not specified"
+        },
+        {
+          "side": "home",
+          "minute": 23,
+          "player": "Dean Huijsen",
+          "card": "yellow",
+          "reason": "Not specified"
+        },
+        {
+          "side": "away",
+          "minute": 69,
+          "player": "Juan Iglesias",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 73,
+          "player": "Marc Cucurella",
+          "card": "yellow",
+          "reason": "Bad foul"
+        }
+      ],
+      "var": [],
+      "stats": {
+        "possession": [
+          65.0,
+          35.0
+        ],
+        "shots": [
+          15,
+          11
+        ],
+        "onTarget": [
+          8,
+          5
+        ],
+        "corners": [
+          1,
+          2
+        ],
+        "fouls": [
+          10,
+          14
+        ],
+        "xg": null
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882839",
+        "https://www.espn.com/soccer/match/_/gameId/401882839",
+        "https://www.beinsports.com/en-us/soccer/la-liga/articles/sevilla-furious-over-refereeing-decision-involving-arda-g%C3%BCler-2026-10-18",
+        "https://www.goal.com/en/news/after-the-guler-farce-unexpected-rating-for-the-referee-of-the-real-madrid-and-sevilla-match/bltfa8cc7aaf67ef5b2",
+        "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+      ],
+      "notes": "Lineups, events, stats and shot locations from ESPN; shot x/y are ESPN fieldPosition values. Positions inferred from ESPN formation slot. xG not available. Sevilla protested an incident involving Arda Güler and Peque (~22'); no card or VAR review was given.",
+      "league": "LaLiga",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "home_country": "ES",
+      "away_country": "ES"
+    },
+    {
+      "id": "getafe-rayo-2026-10-19",
+      "found": true,
+      "competition": "LaLiga",
+      "round": "Matchday 9",
+      "date": "2026-10-19",
+      "kickoff_local": "21:00",
+      "home": "Getafe",
+      "away": "Rayo",
+      "score": [
+        1,
+        1
+      ],
+      "venue": {
+        "name": "Estadio Coliseum",
+        "city": "Getafe",
+        "attendance": 7674
+      },
+      "referee": {
+        "name": "Jon Ander González Esteban",
+        "country": "Spain"
+      },
+      "coaches": {
+        "home": "José Bordalás",
+        "away": "Beñat San José"
+      },
+      "formations": {
+        "home": "4-4-2",
+        "away": "4-2-3-1"
+      },
+      "lineups": {
+        "home": [
+          {
+            "name": "David Soria",
+            "short": "D. Soria",
+            "number": 13,
+            "pos": "GK"
+          },
+          {
+            "name": "Dani Carvajal",
+            "short": "D. Carvajal",
+            "number": 14,
+            "pos": "RB"
+          },
+          {
+            "name": "Djené",
+            "short": "Djené",
+            "number": 2,
+            "pos": "CB"
+          },
+          {
+            "name": "Jean Ives Valou",
+            "short": "J. Valou",
+            "number": 26,
+            "pos": "CB"
+          },
+          {
+            "name": "Johan Mojica",
+            "short": "J. Mojica",
+            "number": 22,
+            "pos": "LB"
+          },
+          {
+            "name": "Kiko Femenía",
+            "short": "K. Femenía",
+            "number": 17,
+            "pos": "RW"
+          },
+          {
+            "name": "Nemanja Gudelj",
+            "short": "N. Gudelj",
+            "number": 8,
+            "pos": "CM"
+          },
+          {
+            "name": "Mario Martín",
+            "short": "M. Martín",
+            "number": 6,
+            "pos": "CM"
+          },
+          {
+            "name": "Martín Satriano",
+            "short": "M. Satriano",
+            "number": 10,
+            "pos": "LW"
+          },
+          {
+            "name": "Ramón Terrats",
+            "short": "R. Terrats",
+            "number": 11,
+            "pos": "ST"
+          },
+          {
+            "name": "Enes Ünal",
+            "short": "E. Ünal",
+            "number": 19,
+            "pos": "ST"
+          }
+        ],
+        "away": [
+          {
+            "name": "Emil Audero",
+            "short": "E. Audero",
+            "number": 25,
+            "pos": "GK"
+          },
+          {
+            "name": "Iván Balliu",
+            "short": "I. Balliu",
+            "number": 20,
+            "pos": "RB"
+          },
+          {
+            "name": "Florian Lejeune",
+            "short": "F. Lejeune",
+            "number": 24,
+            "pos": "CB"
+          },
+          {
+            "name": "Mujaid Sadick",
+            "short": "M. Sadick",
+            "number": 15,
+            "pos": "CB"
+          },
+          {
+            "name": "Adrià Pedrosa",
+            "short": "A. Pedrosa",
+            "number": 17,
+            "pos": "LB"
+          },
+          {
+            "name": "Unai López",
+            "short": "U. López",
+            "number": 8,
+            "pos": "DM"
+          },
+          {
+            "name": "Pathé Ciss",
+            "short": "P. Ciss",
+            "number": 6,
+            "pos": "DM"
+          },
+          {
+            "name": "Isi Palazón",
+            "short": "I. Palazón",
+            "number": 7,
+            "pos": "RW"
+          },
+          {
+            "name": "Sergio Camello",
+            "short": "S. Camello",
+            "number": 10,
+            "pos": "AM"
+          },
+          {
+            "name": "Álvaro García",
+            "short": "Á. García",
+            "number": 18,
+            "pos": "LW"
+          },
+          {
+            "name": "Jorge de Frutos",
+            "short": "J. de Frutos",
+            "number": 19,
+            "pos": "ST"
+          }
+        ]
+      },
+      "subs": [
+        {
+          "side": "home",
+          "minute": 32,
+          "in": "Abdel Abqar",
+          "out": "Ramón Terrats"
+        },
+        {
+          "side": "home",
+          "minute": 45,
+          "in": "Francho Serrano",
+          "out": "Kiko Femenía"
+        },
+        {
+          "side": "home",
+          "minute": 45,
+          "in": "Andrés García",
+          "out": "Mario Martín"
+        },
+        {
+          "side": "away",
+          "minute": 59,
+          "in": "Óscar Valentín",
+          "out": "Isi Palazón"
+        },
+        {
+          "side": "away",
+          "minute": 59,
+          "in": "Pedro Díaz",
+          "out": "Iván Balliu"
+        },
+        {
+          "side": "away",
+          "minute": 65,
+          "in": "Giorgi Tsitaishvili",
+          "out": "Jorge de Frutos"
+        },
+        {
+          "side": "away",
+          "minute": 80,
+          "in": "Alexandre Alemão",
+          "out": "Álvaro García"
+        },
+        {
+          "side": "home",
+          "minute": 80,
+          "in": "Sebastián Boselli",
+          "out": "Dani Carvajal"
+        },
+        {
+          "side": "away",
+          "minute": 80,
+          "in": "Fran Pérez",
+          "out": "Unai López"
+        },
+        {
+          "side": "home",
+          "minute": 87,
+          "in": "Borja Mayoral",
+          "out": "Enes Ünal"
+        }
+      ],
+      "unused_subs": {
+        "home": [
+          "Alberto Risco",
+          "Saba Sazonov",
+          "Davinchi",
+          "Diego Ferrer",
+          "Jirí Letácek"
+        ],
+        "away": [
+          "Daniel Cárdenas",
+          "Pelayo Fernández",
+          "Gnangoro Bouare Samake",
+          "Rayane Belaid",
+          "Marash Kumbulla",
+          "Iván Alonso Martín",
+          "Jozhua Vertrouwd"
+        ]
+      },
+      "goals": [
+        {
+          "side": "away",
+          "minute": 11,
+          "scorer": "Álvaro García",
+          "assist": "Jorge de Frutos",
+          "own_goal": false,
+          "penalty": false,
+          "type": "counter",
+          "foot": "right",
+          "description": "Álvaro García right footed shot from the centre of the box to the bottom left corner. Assist: Jorge de Frutos with a cross following a fast break.",
+          "shot": {
+            "x": 91.7,
+            "y": 51.9,
+            "header": false
+          }
+        },
+        {
+          "side": "home",
+          "minute": 56,
+          "scorer": "Martín Satriano",
+          "assist": "Francho Serrano",
+          "own_goal": false,
+          "penalty": false,
+          "type": "build",
+          "foot": "right",
+          "description": "Martín Satriano right footed shot from very close range to the bottom left corner. Assist: Francho Serrano with a cross.",
+          "shot": {
+            "x": 94.5,
+            "y": 47.4,
+            "header": false
+          }
+        }
+      ],
+      "cards": [
+        {
+          "side": "home",
+          "minute": 1,
+          "player": "Kiko Femenía",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 16,
+          "player": "Djené",
+          "card": "yellow",
+          "reason": "Handball"
+        },
+        {
+          "side": "home",
+          "minute": 28,
+          "player": "Djené",
+          "card": "red",
+          "reason": "Not specified"
+        },
+        {
+          "side": "away",
+          "minute": 45,
+          "player": "Iván Balliu",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 51,
+          "player": "Francho Serrano",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 69,
+          "player": "Pathé Ciss",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 79,
+          "player": "Dani Carvajal",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 84,
+          "player": "Enes Ünal",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "home",
+          "minute": 87,
+          "player": "Nemanja Gudelj",
+          "card": "yellow",
+          "reason": "Bad foul"
+        },
+        {
+          "side": "away",
+          "minute": 90,
+          "player": "Sergio Camello",
+          "card": "yellow",
+          "reason": "Not specified"
+        }
+      ],
+      "var": [],
+      "stats": {
+        "possession": [
+          31.6,
+          68.4
+        ],
+        "shots": [
+          12,
+          21
+        ],
+        "onTarget": [
+          4,
+          5
+        ],
+        "corners": [
+          8,
+          8
+        ],
+        "fouls": [
+          12,
+          9
+        ],
+        "xg": null
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882842",
+        "https://www.espn.com/soccer/match/_/gameId/401882842",
+        "https://www.cope.es/programas/tiempo-de-juego/cronica/directo-getafe-rayo-vallecano-novena-jornada-primera-division-19-20261019_3458568.html",
+        "https://unionrayo.es/cronica-getafe-rayo-j9-laliga/",
+        "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+      ],
+      "notes": "Lineups, events, stats and shot locations from ESPN; shot x/y are ESPN fieldPosition values. Positions inferred from ESPN formation slot. xG not available. Djené had been booked at 16' and was sent off at 28'; ESPN does not say whether the red was a second yellow or a straight red.",
+      "league": "LaLiga",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+      "home_country": "ES",
+      "away_country": "ES"
+    }
+  ]
+}

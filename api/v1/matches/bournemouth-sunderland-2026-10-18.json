@@ -1,0 +1,730 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "bournemouth-sunderland-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "14:00",
+    "competition": "Premier League",
+    "round": "Matchweek 7",
+    "status": "FT",
+    "home": {
+      "name": "Bournemouth",
+      "id": "bournemouth",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Sunderland",
+      "id": "sunderland",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Vitality Stadium",
+      "city": "Bournemouth",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-1-4-1",
+        "coach": {
+          "id": "marco-rose-bournemouth-sunderland-2026-10-18",
+          "name": "Marco Rose",
+          "short": "Rose",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "djordje-petrovic-bournemouth-sunderland-2026-10-18",
+            "name": "Djordje Petrovic",
+            "short": "Petrovic",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "adam-smith-bournemouth-sunderland-2026-10-18",
+            "name": "Adam Smith",
+            "short": "Smith",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.9
+          },
+          {
+            "id": "james-hill-bournemouth-sunderland-2026-10-18",
+            "name": "James Hill",
+            "short": "Hill",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7.3
+          },
+          {
+            "id": "antonio-silva-bournemouth-sunderland-2026-10-18",
+            "name": "António Silva",
+            "short": "Silva",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.6
+          },
+          {
+            "id": "adrien-truffert-bournemouth-sunderland-2026-10-18",
+            "name": "Adrien Truffert",
+            "short": "Truffert",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.5
+          },
+          {
+            "id": "tyler-adams-bournemouth-sunderland-2026-10-18",
+            "name": "Tyler Adams",
+            "short": "Adams",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "rayan-bournemouth-sunderland-2026-10-18",
+            "name": "Rayan",
+            "short": "Rayan",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 12,
+            "rating": 7.7
+          },
+          {
+            "id": "ryan-christie-bournemouth-sunderland-2026-10-18",
+            "name": "Ryan Christie",
+            "short": "Christie",
+            "position": "CM",
+            "photo": null,
+            "x": 37,
+            "y": 38,
+            "rating": 6.3
+          },
+          {
+            "id": "lewis-cook-bournemouth-sunderland-2026-10-18",
+            "name": "Lewis Cook",
+            "short": "Cook",
+            "position": "CM",
+            "photo": null,
+            "x": 37,
+            "y": 64,
+            "rating": 6.8
+          },
+          {
+            "id": "marcus-tavernier-bournemouth-sunderland-2026-10-18",
+            "name": "Marcus Tavernier",
+            "short": "Tavernier",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "evanilson-bournemouth-sunderland-2026-10-18",
+            "name": "Evanilson",
+            "short": "Evanilson",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 9
+          }
+        ],
+        "bench": [
+          {
+            "id": "justin-kluivert-bournemouth-sunderland-2026-10-18",
+            "name": "Justin Kluivert",
+            "short": "Kluivert",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "alvaro-rodriguez-bournemouth-sunderland-2026-10-18",
+            "name": "Álvaro Rodríguez",
+            "short": "Rodríguez",
+            "position": "ST",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "amine-adli-bournemouth-sunderland-2026-10-18",
+            "name": "Amine Adli",
+            "short": "Adli",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "bafode-diakite-bournemouth-sunderland-2026-10-18",
+            "name": "Bafodé Diakité",
+            "short": "Diakité",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "ben-gannon-doak-bournemouth-sunderland-2026-10-18",
+            "name": "Ben Gannon-Doak",
+            "short": "Gannon-Doak",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "juanlu-sanchez",
+            "name": "Juanlu Sanchez",
+            "short": "Sanchez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "michele-di-gregorio-bournemouth-sunderland-2026-10-18",
+            "name": "Michele Di Gregorio",
+            "short": "Gregorio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "david-brooks-bournemouth-sunderland-2026-10-18",
+            "name": "David Brooks",
+            "short": "Brooks",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "julio-soler-bournemouth-sunderland-2026-10-18",
+            "name": "Julio Soler",
+            "short": "Soler",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "regis-le-bris",
+          "name": "Régis Le Bris",
+          "short": "Bris",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "robin-roefs",
+            "name": "Robin Roefs",
+            "short": "Roefs",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "nordi-mukiele",
+            "name": "Nordi Mukiele",
+            "short": "Mukiele",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.1
+          },
+          {
+            "id": "kevin-danso",
+            "name": "Kevin Danso",
+            "short": "Danso",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 5.5
+          },
+          {
+            "id": "omar-alderete",
+            "name": "Omar Alderete",
+            "short": "Alderete",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.6
+          },
+          {
+            "id": "reinildo-mandava",
+            "name": "Reinildo Mandava",
+            "short": "Mandava",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "granit-xhaka",
+            "name": "Granit Xhaka",
+            "short": "Xhaka",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 7.1
+          },
+          {
+            "id": "noah-sadiki",
+            "name": "Noah Sadiki",
+            "short": "Sadiki",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 6.5
+          },
+          {
+            "id": "trai-hume",
+            "name": "Trai Hume",
+            "short": "Hume",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 7.4
+          },
+          {
+            "id": "chris-rigg",
+            "name": "Chris Rigg",
+            "short": "Rigg",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "enzo-le-fee",
+            "name": "Enzo Le Fée",
+            "short": "Le Fée",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 6.3
+          },
+          {
+            "id": "tymur-tutierov",
+            "name": "Tymur Tutierov",
+            "short": "Tutierov",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "habib-diarra",
+            "name": "Habib Diarra",
+            "short": "Diarra",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "luke-o-nien",
+            "name": "Luke O'Nien",
+            "short": "O'Nien",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "jules-ahoka",
+            "name": "Jules Ahoka",
+            "short": "Ahoka",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "juan-angulo",
+            "name": "Juan Angulo",
+            "short": "Angulo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "melker-ellborg",
+            "name": "Melker Ellborg",
+            "short": "Ellborg",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dayann-methalie",
+            "name": "Dayann Methalie",
+            "short": "Methalie",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "chemsdine-talbi",
+            "name": "Chemsdine Talbi",
+            "short": "Talbi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "malick-fofana",
+            "name": "Malick Fofana",
+            "short": "Fofana",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 6,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "marcus-tavernier-bournemouth-sunderland-2026-10-18",
+          "name": "Marcus Tavernier",
+          "short": "Tavernier",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "evanilson-bournemouth-sunderland-2026-10-18",
+          "name": "Evanilson",
+          "short": "Evanilson",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Evanilson nipped in after Kevin Danso and Omar Alderete failed to deal with a routine long ball and set up the unmarked Marcus Tavernier to head in from close range."
+      },
+      {
+        "minute": 17,
+        "type": "red_card",
+        "team": "away",
+        "player": {
+          "id": "kevin-danso",
+          "name": "Kevin Danso",
+          "short": "Danso",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Denying an obvious goal-scoring opportunity (hauled down Evanilson when through on goal)"
+      },
+      {
+        "minute": 26,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "antonio-silva-bournemouth-sunderland-2026-10-18",
+          "name": "António Silva",
+          "short": "Silva",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 40,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "omar-alderete",
+          "name": "Omar Alderete",
+          "short": "Alderete",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "lewis-cook-bournemouth-sunderland-2026-10-18",
+          "name": "Lewis Cook",
+          "short": "Cook",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 48,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "evanilson-bournemouth-sunderland-2026-10-18",
+          "name": "Evanilson",
+          "short": "Evanilson",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Evanilson pounced on a loose back pass from Omar Alderete, rounded Robin Roefs and rolled the ball into the empty net."
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "habib-diarra",
+          "name": "Habib Diarra",
+          "short": "Diarra",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tymur-tutierov",
+          "name": "Tymur Tutierov",
+          "short": "Tutierov",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "luke-o-nien",
+          "name": "Luke O'Nien",
+          "short": "O'Nien",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "omar-alderete",
+          "name": "Omar Alderete",
+          "short": "Alderete",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "justin-kluivert-bournemouth-sunderland-2026-10-18",
+          "name": "Justin Kluivert",
+          "short": "Kluivert",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lewis-cook-bournemouth-sunderland-2026-10-18",
+          "name": "Lewis Cook",
+          "short": "Cook",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jules-ahoka",
+          "name": "Jules Ahoka",
+          "short": "Ahoka",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "chris-rigg",
+          "name": "Chris Rigg",
+          "short": "Rigg",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "chris-rigg",
+          "name": "Chris Rigg",
+          "short": "Rigg",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "alvaro-rodriguez-bournemouth-sunderland-2026-10-18",
+          "name": "Álvaro Rodríguez",
+          "short": "Rodríguez",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "evanilson-bournemouth-sunderland-2026-10-18",
+          "name": "Evanilson",
+          "short": "Evanilson",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "amine-adli-bournemouth-sunderland-2026-10-18",
+          "name": "Amine Adli",
+          "short": "Adli",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "marcus-tavernier-bournemouth-sunderland-2026-10-18",
+          "name": "Marcus Tavernier",
+          "short": "Tavernier",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "ryan-christie-bournemouth-sunderland-2026-10-18",
+          "name": "Ryan Christie",
+          "short": "Christie",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 89,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "bafode-diakite-bournemouth-sunderland-2026-10-18",
+          "name": "Bafodé Diakité",
+          "short": "Diakité",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tyler-adams-bournemouth-sunderland-2026-10-18",
+          "name": "Tyler Adams",
+          "short": "Adams",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 89,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ben-gannon-doak-bournemouth-sunderland-2026-10-18",
+          "name": "Ben Gannon-Doak",
+          "short": "Gannon-Doak",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rayan-bournemouth-sunderland-2026-10-18",
+          "name": "Rayan",
+          "short": "Rayan",
+          "position": "RW",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        29,
+        3
+      ],
+      "onTarget": [
+        6,
+        0
+      ],
+      "corners": [
+        5,
+        3
+      ],
+      "fouls": [
+        16,
+        7
+      ],
+      "possession": 65
+    },
+    "attendance": 12004,
+    "referee": {
+      "name": "Craig Pawson",
+      "country": "England"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879263",
+      "https://www.espn.com/soccer/match/_/gameId/401879263",
+      "https://www.skysports.com/football/a-vs-b/report/559504",
+      "https://www.skysports.com/football/a-vs-b/teams/559504",
+      "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

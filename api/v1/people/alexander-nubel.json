@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "alexander-nubel",
+    "name": "Alexander Nübel",
+    "short": "Nübel",
+    "position": "GK",
+    "photo": null,
+    "matches": [
+      {
+        "match": "hoffenheim-besiktas-2026-10-15",
+        "date": "2026-10-15",
+        "team": "Besiktas",
+        "role": "starter"
+      }
+    ]
+  }
+}

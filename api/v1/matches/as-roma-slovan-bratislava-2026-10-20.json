@@ -1,0 +1,818 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "as-roma-slovan-bratislava-2026-10-20",
+    "date": "2026-10-20",
+    "kickoff": "21:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "AS Roma",
+      "id": "as-roma",
+      "crest": "assets/clubs/104.png",
+      "country": "IT"
+    },
+    "away": {
+      "name": "Slovan Bratislava",
+      "id": "slovan-bratislava",
+      "crest": "assets/clubs/521.png",
+      "country": "SK"
+    },
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stadio Olimpico",
+      "city": "Rome",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "gian-piero-gasperini",
+          "name": "Gian Piero Gasperini",
+          "short": "Gasperini",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "pierluigi-gollini",
+            "name": "Pierluigi Gollini",
+            "short": "Gollini",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "mario-hermoso",
+            "name": "Mario Hermoso",
+            "short": "Hermoso",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 8.4
+          },
+          {
+            "id": "leonardo-balerdi",
+            "name": "Leonardo Balerdi",
+            "short": "Balerdi",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "daniele-ghilardi",
+            "name": "Daniele Ghilardi",
+            "short": "Ghilardi",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7.3
+          },
+          {
+            "id": "wesley",
+            "name": "Wesley",
+            "short": "Wesley",
+            "position": "LB",
+            "photo": null,
+            "x": 27,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "niccolo-pisilli",
+            "name": "Niccolò Pisilli",
+            "short": "Pisilli",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 38,
+            "rating": 8.5
+          },
+          {
+            "id": "marten-de-roon",
+            "name": "Marten de Roon",
+            "short": "de Roon",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 64,
+            "rating": 7.3
+          },
+          {
+            "id": "nahuel-molina",
+            "name": "Nahuel Molina",
+            "short": "Molina",
+            "position": "RB",
+            "photo": null,
+            "x": 27,
+            "y": 88,
+            "rating": 8
+          },
+          {
+            "id": "lorenzo-pellegrini",
+            "name": "Lorenzo Pellegrini",
+            "short": "Pellegrini",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 6.8
+          },
+          {
+            "id": "rodrigo-mora",
+            "name": "Rodrigo Mora",
+            "short": "Mora",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 6.9
+          },
+          {
+            "id": "donyell-malen",
+            "name": "Donyell Malen",
+            "short": "Malen",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 8
+          }
+        ],
+        "bench": [
+          {
+            "id": "matias-soule",
+            "name": "Matías Soulé",
+            "short": "Soulé",
+            "position": "AM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "santiago-castro",
+            "name": "Santiago Castro",
+            "short": "Castro",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "devyne-rensch",
+            "name": "Devyne Rensch",
+            "short": "Rensch",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "konstantinos-koulierakis",
+            "name": "Konstantinos Koulierakis",
+            "short": "Koulierakis",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "gianluca-mancini",
+            "name": "Gianluca Mancini",
+            "short": "Mancini",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "giorgio-de-marzi",
+            "name": "Giorgio De Marzi",
+            "short": "Marzi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "devis-vasquez",
+            "name": "Devis Vásquez",
+            "short": "Vásquez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alessandro-di-nunzio",
+            "name": "Alessandro Di Nunzio",
+            "short": "Nunzio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "emanuele-lulli",
+            "name": "Emanuele Lulli",
+            "short": "Lulli",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "evan-ndicka",
+            "name": "Evan Ndicka",
+            "short": "Ndicka",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "bryan-cristante",
+            "name": "Bryan Cristante",
+            "short": "Cristante",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-1-4-1",
+        "coach": {
+          "id": "yaya-toure",
+          "name": "Yaya Touré",
+          "short": "Touré",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "dominik-takac",
+            "name": "Dominik Takac",
+            "short": "Takac",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "sandro-cruz",
+            "name": "Sandro Cruz",
+            "short": "Cruz",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.3
+          },
+          {
+            "id": "svetozar-markovic",
+            "name": "Svetozar Markovic",
+            "short": "Markovic",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.9
+          },
+          {
+            "id": "kenan-bajric",
+            "name": "Kenan Bajric",
+            "short": "Bajric",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.4
+          },
+          {
+            "id": "cesar-blackman",
+            "name": "César Blackman",
+            "short": "Blackman",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "peter-pokorny",
+            "name": "Peter Pokorny",
+            "short": "Pokorny",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "suleiman-camara",
+            "name": "Suleiman Camara",
+            "short": "Camara",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "artur-gajdos",
+            "name": "Artur Gajdos",
+            "short": "Gajdos",
+            "position": "CM",
+            "photo": null,
+            "x": 63,
+            "y": 62,
+            "rating": 6.6
+          },
+          {
+            "id": "rahim-ibrahim",
+            "name": "Rahim Ibrahim",
+            "short": "Ibrahim",
+            "position": "CM",
+            "photo": null,
+            "x": 63,
+            "y": 36,
+            "rating": 7.2
+          },
+          {
+            "id": "tigran-barseghyan",
+            "name": "Tigran Barseghyan",
+            "short": "Barseghyan",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "nino-marcelli",
+            "name": "Nino Marcelli",
+            "short": "Marcelli",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "alasana-yirajang",
+            "name": "Alasana Yirajang",
+            "short": "Yirajang",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "alen-mustafic",
+            "name": "Alen Mustafic",
+            "short": "Mustafic",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "cristian-martinez",
+            "name": "Cristian Martínez",
+            "short": "Martínez",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "alexej-maros",
+            "name": "Alexej Maros",
+            "short": "Maros",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "kevin-wimmer",
+            "name": "Kevin Wimmer",
+            "short": "Wimmer",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "suleiman-camara",
+            "name": "Suleiman Camara",
+            "short": "Camara",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "samuel-kozlovsky",
+            "name": "Samuel Kozlovsky",
+            "short": "Kozlovsky",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "daiki-matsuoka",
+            "name": "Daiki Matsuoka",
+            "short": "Matsuoka",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aleksander-popovic",
+            "name": "Aleksander Popovic",
+            "short": "Popovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "danylo-ignatenko",
+            "name": "Danylo Ignatenko",
+            "short": "Ignatenko",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "robert-tomanek",
+            "name": "Róbert Tománek",
+            "short": "Tománek",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "leo-hofstadter",
+            "name": "Leo Hofstädter",
+            "short": "Hofstädter",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 20,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "tigran-barseghyan",
+          "name": "Tigran Barseghyan",
+          "short": "Barseghyan",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Not specified in ESPN feed"
+      },
+      {
+        "minute": 21,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "mario-hermoso",
+          "name": "Mario Hermoso",
+          "short": "Hermoso",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "daniele-ghilardi",
+          "name": "Daniele Ghilardi",
+          "short": "Ghilardi",
+          "position": "CB",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "From a free kick on the left wing, Daniele Ghilardi headed the ball across and Mario Hermoso nodded in from very close range into the top left corner."
+      },
+      {
+        "minute": 39,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "nahuel-molina",
+          "name": "Nahuel Molina",
+          "short": "Molina",
+          "position": "RB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "After Dominik Takáč saved Donyell Malen's shot, Nahuel Molina followed up with a right-footed finish from the right side of the six-yard box."
+      },
+      {
+        "minute": 51,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "matias-soule",
+          "name": "Matías Soulé",
+          "short": "Soulé",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lorenzo-pellegrini",
+          "name": "Lorenzo Pellegrini",
+          "short": "Pellegrini",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 52,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "niccolo-pisilli",
+          "name": "Niccolò Pisilli",
+          "short": "Pisilli",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "donyell-malen",
+          "name": "Donyell Malen",
+          "short": "Malen",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Donyell Malen teed up Niccolò Pisilli, who hit a left-footed shot from the centre of the box into the top left corner for 3-0."
+      },
+      {
+        "minute": 55,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alasana-yirajang",
+          "name": "Alasana Yirajang",
+          "short": "Yirajang",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tigran-barseghyan",
+          "name": "Tigran Barseghyan",
+          "short": "Barseghyan",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 58,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "donyell-malen",
+          "name": "Donyell Malen",
+          "short": "Malen",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "4 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "César Blackman fouled Wesley in the area and Donyell Malen converted the penalty with a right-footed shot into the bottom left corner."
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "santiago-castro",
+          "name": "Santiago Castro",
+          "short": "Castro",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "donyell-malen",
+          "name": "Donyell Malen",
+          "short": "Malen",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "devyne-rensch",
+          "name": "Devyne Rensch",
+          "short": "Rensch",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "wesley",
+          "name": "Wesley",
+          "short": "Wesley",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "suleiman-camara",
+          "name": "Suleiman Camara",
+          "short": "Camara",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alen-mustafic",
+          "name": "Alen Mustafic",
+          "short": "Mustafic",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rahim-ibrahim",
+          "name": "Rahim Ibrahim",
+          "short": "Ibrahim",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "cristian-martinez",
+          "name": "Cristian Martínez",
+          "short": "Martínez",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "artur-gajdos",
+          "name": "Artur Gajdos",
+          "short": "Gajdos",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alexej-maros",
+          "name": "Alexej Maros",
+          "short": "Maros",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "suleiman-camara",
+          "name": "Suleiman Camara",
+          "short": "Camara",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "cristian-martinez",
+          "name": "Cristian Martínez",
+          "short": "Martínez",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Not specified in ESPN feed"
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "konstantinos-koulierakis",
+          "name": "Konstantinos Koulierakis",
+          "short": "Koulierakis",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mario-hermoso",
+          "name": "Mario Hermoso",
+          "short": "Hermoso",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "gianluca-mancini",
+          "name": "Gianluca Mancini",
+          "short": "Mancini",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "marten-de-roon",
+          "name": "Marten de Roon",
+          "short": "de Roon",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "kevin-wimmer",
+          "name": "Kevin Wimmer",
+          "short": "Wimmer",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sandro-cruz",
+          "name": "Sandro Cruz",
+          "short": "Cruz",
+          "position": "LB",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        26,
+        1
+      ],
+      "onTarget": [
+        10,
+        0
+      ],
+      "corners": [
+        8,
+        1
+      ],
+      "fouls": [
+        10,
+        10
+      ],
+      "possession": 73
+    },
+    "attendance": 64399,
+    "referee": {
+      "name": "Sandro Schärer",
+      "country": "Switzerland"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915402",
+      "https://www.espn.com/soccer/match/_/gameId/401915402",
+      "https://match.uefa.com/v5/matches/2049592/lineups",
+      "https://match.uefa.com/v5/matches?competitionId=1&fromDate=2026-10-20&toDate=2026-10-21",
+      "https://www.uefa.com/uefachampionsleague/news/02a9-218880e7a2aa-96adf63aa534-1000--who-is-the-referee-which-officials-are-in-charge-of-the-uefa/",
+      "https://www.sportsmole.co.uk/football/roma/champions-league/preview/roma-vs-slovan-bratislava-prediction-team-news-lineups_607148.html"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

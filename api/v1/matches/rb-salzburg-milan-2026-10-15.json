@@ -1,0 +1,835 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "rb-salzburg-milan-2026-10-15",
+    "date": "2026-10-15",
+    "kickoff": "18:45",
+    "competition": "UEFA Europa League",
+    "round": "League phase, matchday 2",
+    "status": "FT",
+    "home": {
+      "name": "RB Salzburg",
+      "id": "rb-salzburg",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
+      "country": "AT"
+    },
+    "away": {
+      "name": "Milan",
+      "id": "milan",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "country": "IT"
+    },
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Red Bull Arena Salzburg",
+      "city": "Salzburg",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "danny-rohl",
+          "name": "Danny Röhl",
+          "short": "Röhl",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "christian-zawieschitzky",
+            "name": "Christian Zawieschitzky",
+            "short": "Zawieschitzky",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "dominik-schmid",
+            "name": "Dominik Schmid",
+            "short": "Schmid",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "valentin-zabransky",
+            "name": "Valentin Zabransky",
+            "short": "Zabransky",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.6
+          },
+          {
+            "id": "kevin-boma",
+            "name": "Kévin Boma",
+            "short": "Boma",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7
+          },
+          {
+            "id": "leandro-morgalla",
+            "name": "Leandro Morgalla",
+            "short": "Morgalla",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "bartosz-mazurek",
+            "name": "Bartosz Mazurek",
+            "short": "Mazurek",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.6
+          },
+          {
+            "id": "abubakr-barry",
+            "name": "Abubakr Barry",
+            "short": "Barry",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.6
+          },
+          {
+            "id": "edmund-baidoo",
+            "name": "Edmund Baidoo",
+            "short": "Baidoo",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.2
+          },
+          {
+            "id": "sota-kitano",
+            "name": "Sota Kitano",
+            "short": "Kitano",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "jesper-lindstrom",
+            "name": "Jesper Lindstrom",
+            "short": "Lindstrom",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 6.1
+          },
+          {
+            "id": "haris-tabakovic",
+            "name": "Haris Tabakovic",
+            "short": "Tabakovic",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "gaoussou-diakite",
+            "name": "Gaoussou Diakité",
+            "short": "Diakité",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "yorbe-vertessen",
+            "name": "Yorbe Vertessen",
+            "short": "Vertessen",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "damir-redzic",
+            "name": "Damir Redzic",
+            "short": "Redzic",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "aboubacar-camara",
+            "name": "Aboubacar Camara",
+            "short": "Camara",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "tim-drexler",
+            "name": "Tim Drexler",
+            "short": "Drexler",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "john-mellberg",
+            "name": "John Mellberg",
+            "short": "Mellberg",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "christian-fruchtl",
+            "name": "Christian Früchtl",
+            "short": "Früchtl",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "stefan-lainer",
+            "name": "Stefan Lainer",
+            "short": "Lainer",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "frans-kratzig",
+            "name": "Frans Krätzig",
+            "short": "Krätzig",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nikola-sarcevic",
+            "name": "Nikola Sarcevic",
+            "short": "Sarcevic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "umut-tohumcu",
+            "name": "Umut Tohumcu",
+            "short": "Tohumcu",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "ruben-amorim",
+          "name": "Ruben Amorim",
+          "short": "Amorim",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "mike-maignan",
+            "name": "Mike Maignan",
+            "short": "Maignan",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "strahinja-pavlovic",
+            "name": "Strahinja Pavlovic",
+            "short": "Pavlovic",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 6.9
+          },
+          {
+            "id": "koni-de-winter",
+            "name": "Koni De Winter",
+            "short": "De Winter",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "fikayo-tomori",
+            "name": "Fikayo Tomori",
+            "short": "Tomori",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 6.7
+          },
+          {
+            "id": "davide-bartesaghi",
+            "name": "Davide Bartesaghi",
+            "short": "Bartesaghi",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "adrien-rabiot",
+            "name": "Adrien Rabiot",
+            "short": "Rabiot",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "ardon-jashari",
+            "name": "Ardon Jashari",
+            "short": "Jashari",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 6.4
+          },
+          {
+            "id": "omari-hutchinson",
+            "name": "Omari Hutchinson",
+            "short": "Hutchinson",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 8.1
+          },
+          {
+            "id": "alphadjo-cisse",
+            "name": "Alphadjo Cissè",
+            "short": "Cissè",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 9.6
+          },
+          {
+            "id": "ruben-loftus-cheek",
+            "name": "Ruben Loftus-Cheek",
+            "short": "Loftus-Cheek",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 7.5
+          },
+          {
+            "id": "francesco-camarda",
+            "name": "Francesco Camarda",
+            "short": "Camarda",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "christian-pulisic",
+            "name": "Christian Pulisic",
+            "short": "Pulisic",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "goncalo-ramos",
+            "name": "Gonçalo Ramos",
+            "short": "Ramos",
+            "position": "ST",
+            "photo": null,
+            "rating": 8.5
+          },
+          {
+            "id": "luka-modric",
+            "name": "Luka Modric",
+            "short": "Modric",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "filippo-terracciano",
+            "name": "Filippo Terracciano",
+            "short": "Terracciano",
+            "position": "CB",
+            "photo": null,
+            "rating": 5.7
+          },
+          {
+            "id": "sankhoun-diawara",
+            "name": "Sankhoun Diawara",
+            "short": "Diawara",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "mario-gila",
+            "name": "Mario Gila",
+            "short": "Gila",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "yunus-musah",
+            "name": "Yunus Musah",
+            "short": "Musah",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "samuel-chukwueze",
+            "name": "Samuel Chukwueze",
+            "short": "Chukwueze",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "pervis-estupinan",
+            "name": "Pervis Estupiñán",
+            "short": "Estupiñán",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "christian-comotto",
+            "name": "Christian Comotto",
+            "short": "Comotto",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lorenzo-torriani",
+            "name": "Lorenzo Torriani",
+            "short": "Torriani",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "diego-moreira",
+            "name": "Diego Moreira",
+            "short": "Moreira",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 15,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "alphadjo-cisse",
+          "name": "Alphadjo Cissè",
+          "short": "Cissè",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "omari-hutchinson",
+          "name": "Omari Hutchinson",
+          "short": "Hutchinson",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Omari Hutchinson provided the assist with a cross; Alphadjo Cissè scored with a header from the centre of the box to the bottom left corner."
+      },
+      {
+        "minute": 21,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "omari-hutchinson",
+          "name": "Omari Hutchinson",
+          "short": "Hutchinson",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 32,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "alphadjo-cisse",
+          "name": "Alphadjo Cissè",
+          "short": "Cissè",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "davide-bartesaghi",
+          "name": "Davide Bartesaghi",
+          "short": "Bartesaghi",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Davide Bartesaghi provided the assist; Alphadjo Cissè scored with a left-footed shot from the centre of the box to the centre of the goal."
+      },
+      {
+        "minute": 40,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "valentin-zabransky",
+          "name": "Valentin Zabransky",
+          "short": "Zabransky",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 49,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "alphadjo-cisse",
+          "name": "Alphadjo Cissè",
+          "short": "Cissè",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "adrien-rabiot",
+          "name": "Adrien Rabiot",
+          "short": "Rabiot",
+          "position": "CM",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Adrien Rabiot provided the assist following a fast break; Alphadjo Cissè scored with a right-footed shot from very close range to the high centre of the goal."
+      },
+      {
+        "minute": 49,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "alphadjo-cisse",
+          "name": "Alphadjo Cissè",
+          "short": "Cissè",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Goal confirmed following VAR review."
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "gaoussou-diakite",
+          "name": "Gaoussou Diakité",
+          "short": "Diakité",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sota-kitano",
+          "name": "Sota Kitano",
+          "short": "Kitano",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "yorbe-vertessen",
+          "name": "Yorbe Vertessen",
+          "short": "Vertessen",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "edmund-baidoo",
+          "name": "Edmund Baidoo",
+          "short": "Baidoo",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "christian-pulisic",
+          "name": "Christian Pulisic",
+          "short": "Pulisic",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alphadjo-cisse",
+          "name": "Alphadjo Cissè",
+          "short": "Cissè",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "goncalo-ramos",
+          "name": "Gonçalo Ramos",
+          "short": "Ramos",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "francesco-camarda",
+          "name": "Francesco Camarda",
+          "short": "Camarda",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "luka-modric",
+          "name": "Luka Modric",
+          "short": "Modric",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adrien-rabiot",
+          "name": "Adrien Rabiot",
+          "short": "Rabiot",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "filippo-terracciano",
+          "name": "Filippo Terracciano",
+          "short": "Terracciano",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "fikayo-tomori",
+          "name": "Fikayo Tomori",
+          "short": "Tomori",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "goncalo-ramos",
+          "name": "Gonçalo Ramos",
+          "short": "Ramos",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 4",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Gonçalo Ramos scored with a left-footed shot from the centre of the box to the bottom left corner."
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "damir-redzic",
+          "name": "Damir Redzic",
+          "short": "Redzic",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jesper-lindstrom",
+          "name": "Jesper Lindstrom",
+          "short": "Lindstrom",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "aboubacar-camara",
+          "name": "Aboubacar Camara",
+          "short": "Camara",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "haris-tabakovic",
+          "name": "Haris Tabakovic",
+          "short": "Tabakovic",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "tim-drexler",
+          "name": "Tim Drexler",
+          "short": "Drexler",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "leandro-morgalla",
+          "name": "Leandro Morgalla",
+          "short": "Morgalla",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "sankhoun-diawara",
+          "name": "Sankhoun Diawara",
+          "short": "Diawara",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "strahinja-pavlovic",
+          "name": "Strahinja Pavlovic",
+          "short": "Pavlovic",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 83,
+        "type": "red_card",
+        "team": "away",
+        "player": {
+          "id": "filippo-terracciano",
+          "name": "Filippo Terracciano",
+          "short": "Terracciano",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "foul (straight red)"
+      }
+    ],
+    "stats": {
+      "shots": [
+        14,
+        15
+      ],
+      "onTarget": [
+        2,
+        10
+      ],
+      "corners": [
+        3,
+        2
+      ],
+      "fouls": [
+        13,
+        12
+      ],
+      "possession": 52
+    },
+    "attendance": 22503,
+    "referee": {
+      "name": "Horațiu Feșnic",
+      "country": "Romania"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/summary?event=401915568",
+      "https://www.espn.com/soccer/match/_/gameId/401915568",
+      "https://match.uefa.com/v5/matches?competitionId=14&fromDate=2026-10-15&toDate=2026-10-15",
+      "https://match.uefa.com/v5/matches/2050082/lineups"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

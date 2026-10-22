@@ -1,0 +1,732 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "seattle-sounders-cf-montreal-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "19:30",
+    "competition": "MLS",
+    "round": "Regular season, matchday 31",
+    "status": "FT",
+    "home": {
+      "name": "Seattle Sounders",
+      "id": "seattle-sounders",
+      "crest": "assets/clubs/9726.png",
+      "country": "US"
+    },
+    "away": {
+      "name": "CF Montréal",
+      "id": "cf-montreal",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
+      "country": "CA"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Lumen Field",
+      "city": "Seattle",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "brian-schmetzer",
+          "name": "Brian Schmetzer",
+          "short": "Schmetzer",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "andy-thomas",
+            "name": "Andy Thomas",
+            "short": "Thomas",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "nouhou-tolo",
+            "name": "Nouhou Tolo",
+            "short": "Tolo",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "ryan-sailor",
+            "name": "Ryan Sailor",
+            "short": "Sailor",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.4
+          },
+          {
+            "id": "yeimar-gomez",
+            "name": "Yeimar Gómez",
+            "short": "Gómez",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7
+          },
+          {
+            "id": "alex-roldan",
+            "name": "Alex Roldan",
+            "short": "A. Roldan",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "hassani-dotson",
+            "name": "Hassani Dotson",
+            "short": "Dotson",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.4
+          },
+          {
+            "id": "cristian-roldan",
+            "name": "Cristian Roldan",
+            "short": "C. Roldan",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.9
+          },
+          {
+            "id": "jordan-morris",
+            "name": "Jordan Morris",
+            "short": "Morris",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.1
+          },
+          {
+            "id": "albert-rusnak",
+            "name": "Albert Rusnák",
+            "short": "Rusnák",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "caden-clark",
+            "name": "Caden Clark",
+            "short": "Clark",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7
+          },
+          {
+            "id": "dejan-joveljic",
+            "name": "Dejan Joveljic",
+            "short": "Joveljic",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "sebastian-gomez",
+            "name": "Sebastian Gomez",
+            "short": "Gomez",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "kalani-kossa-rienzi",
+            "name": "Kalani Kossa-Rienzi",
+            "short": "Kossa-Rienzi",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "snyder-brunell",
+            "name": "Snyder Brunell",
+            "short": "Brunell",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "jesus-ferreira",
+            "name": "Jesús Ferreira",
+            "short": "Ferreira",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "paul-arriola",
+            "name": "Paul Arriola",
+            "short": "Arriola",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "antino-lopez",
+            "name": "Antino Lopez",
+            "short": "Lopez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "peter-kingston",
+            "name": "Peter Kingston",
+            "short": "Kingston",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "stefan-frei",
+            "name": "Stefan Frei",
+            "short": "Frei",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "daniel-musovski",
+            "name": "Daniel Musovski",
+            "short": "Musovski",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "philippe-eullaffroy",
+          "name": "Philippe Eullaffroy",
+          "short": "Eullaffroy",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "sebastian-breza",
+            "name": "Sébastian Breza",
+            "short": "Breza",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "viktor-radojevic",
+            "name": "Viktor Radojevic",
+            "short": "Radojevic",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "brandan-craig",
+            "name": "Brandan Craig",
+            "short": "Craig",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "efrain-morales",
+            "name": "Efraín Morales",
+            "short": "Morales",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.4
+          },
+          {
+            "id": "jalen-neal",
+            "name": "Jalen Neal",
+            "short": "Neal",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.4
+          },
+          {
+            "id": "victor-loturi",
+            "name": "Victor Loturi",
+            "short": "Loturi",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 7.3
+          },
+          {
+            "id": "samuel-piette",
+            "name": "Samuel Piette",
+            "short": "Piette",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 6.6
+          },
+          {
+            "id": "noah-streit",
+            "name": "Noah Streit",
+            "short": "Streit",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 7.6
+          },
+          {
+            "id": "fabian-herbers",
+            "name": "Fabian Herbers",
+            "short": "Herbers",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "hennadii-synchuk",
+            "name": "Hennadii Synchuk",
+            "short": "Synchuk",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 8.1
+          },
+          {
+            "id": "alexis-sanchez",
+            "name": "Alexis Sánchez",
+            "short": "Sánchez",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "dawid-bugaj",
+            "name": "Dawid Bugaj",
+            "short": "Bugaj",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "dani-pereira",
+            "name": "Dani Pereira",
+            "short": "Pereira",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "wikelman-carmona",
+            "name": "Wikelman Carmona",
+            "short": "Carmona",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "olger-escobar",
+            "name": "Olger Escobar",
+            "short": "Escobar",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "matthew-longstaff",
+            "name": "Matthew Longstaff",
+            "short": "Longstaff",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "luca-petrasso",
+            "name": "Luca Petrasso",
+            "short": "Petrasso",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "samsy-keita",
+            "name": "Samsy Keita",
+            "short": "Keita",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "daniel-rios",
+            "name": "Daniel Ríos",
+            "short": "Ríos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 13,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "hennadii-synchuk",
+          "name": "Hennadii Synchuk",
+          "short": "Synchuk",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "noah-streit",
+          "name": "Noah Streit",
+          "short": "Streit",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Hennadii Synchuk left footed shot from the centre of the box to the bottom left corner. Assisted by Noah Streit following a fast break."
+      },
+      {
+        "minute": 14,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "hassani-dotson",
+          "name": "Hassani Dotson",
+          "short": "Dotson",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 33,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "alexis-sanchez",
+          "name": "Alexis Sánchez",
+          "short": "Sánchez",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "sebastian-gomez",
+          "name": "Sebastian Gomez",
+          "short": "Gomez",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alex-roldan",
+          "name": "Alex Roldan",
+          "short": "A. Roldan",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "kalani-kossa-rienzi",
+          "name": "Kalani Kossa-Rienzi",
+          "short": "Kossa-Rienzi",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "caden-clark",
+          "name": "Caden Clark",
+          "short": "Clark",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 52,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "victor-loturi",
+          "name": "Victor Loturi",
+          "short": "Loturi",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "dawid-bugaj",
+          "name": "Dawid Bugaj",
+          "short": "Bugaj",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jalen-neal",
+          "name": "Jalen Neal",
+          "short": "Neal",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "snyder-brunell",
+          "name": "Snyder Brunell",
+          "short": "Brunell",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ryan-sailor",
+          "name": "Ryan Sailor",
+          "short": "Sailor",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jesus-ferreira",
+          "name": "Jesús Ferreira",
+          "short": "Ferreira",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "albert-rusnak",
+          "name": "Albert Rusnák",
+          "short": "Rusnák",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "sebastian-gomez",
+          "name": "Sebastian Gomez",
+          "short": "Gomez",
+          "position": "RB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Sebastian Gomez right footed shot from the centre of the box to the bottom right corner."
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "dani-pereira",
+          "name": "Dani Pereira",
+          "short": "Pereira",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "victor-loturi",
+          "name": "Victor Loturi",
+          "short": "Loturi",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "wikelman-carmona",
+          "name": "Wikelman Carmona",
+          "short": "Carmona",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "noah-streit",
+          "name": "Noah Streit",
+          "short": "Streit",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "olger-escobar",
+          "name": "Olger Escobar",
+          "short": "Escobar",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "fabian-herbers",
+          "name": "Fabian Herbers",
+          "short": "Herbers",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "paul-arriola",
+          "name": "Paul Arriola",
+          "short": "Arriola",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "hassani-dotson",
+          "name": "Hassani Dotson",
+          "short": "Dotson",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "matthew-longstaff",
+          "name": "Matthew Longstaff",
+          "short": "Longstaff",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "samuel-piette",
+          "name": "Samuel Piette",
+          "short": "Piette",
+          "position": "DM",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        18,
+        9
+      ],
+      "onTarget": [
+        5,
+        2
+      ],
+      "corners": [
+        5,
+        2
+      ],
+      "fouls": [
+        10,
+        12
+      ],
+      "xg": [
+        2.28,
+        1.13
+      ],
+      "possession": 63
+    },
+    "attendance": 33007,
+    "referee": {
+      "name": "Fotis Bazakos",
+      "country": "USA"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761885",
+      "https://www.espn.com/soccer/match/_/gameId/761885",
+      "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NK",
+      "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NK"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

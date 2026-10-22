@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "melayro-bogarde",
+    "name": "Melayro Bogarde",
+    "short": "Bogarde",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "sporting-lask",
+        "date": "2026-10-21",
+        "team": "LASK",
+        "role": "bench"
+      }
+    ]
+  }
+}

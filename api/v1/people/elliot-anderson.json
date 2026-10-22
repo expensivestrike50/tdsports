@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "elliot-anderson",
+    "name": "Elliot Anderson",
+    "short": "Anderson",
+    "position": "DM",
+    "photo": "assets/photos/people/elliot-anderson.jpg",
+    "matches": [
+      {
+        "match": "city-aek",
+        "date": "2026-10-20",
+        "team": "Man City",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "brighton-c-palace-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "14:00",
+    "competition": "Premier League",
+    "round": "Matchweek 7",
+    "status": "FT",
+    "home": {
+      "name": "Brighton",
+      "id": "brighton",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "C Palace",
+      "id": "c-palace",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "American Express Stadium",
+      "city": "Falmer",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "fabian-hurzeler",
+          "name": "Fabian Hürzeler",
+          "short": "Hürzeler",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "bart-verbruggen",
+            "name": "Bart Verbruggen",
+            "short": "Verbruggen",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "ferdi-kadioglu",
+            "name": "Ferdi Kadioglu",
+            "short": "Kadioglu",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "luka-vuskovic",
+            "name": "Luka Vuskovic",
+            "short": "Vuskovic",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7.6
+          },
+          {
+            "id": "lewis-dunk",
+            "name": "Lewis Dunk",
+            "short": "Dunk",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.4
+          },
+          {
+            "id": "olivier-boscagli",
+            "name": "Olivier Boscagli",
+            "short": "Boscagli",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.9
+          },
+          {
+            "id": "pascal-gross",
+            "name": "Pascal Gross",
+            "short": "Gross",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.8
+          },
+          {
+            "id": "chema-andres",
+            "name": "Chema Andrés",
+            "short": "Andrés",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "diego-gomez",
+            "name": "Diego Gómez",
+            "short": "Gómez",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.4
+          },
+          {
+            "id": "yasin-ayari",
+            "name": "Yasin Ayari",
+            "short": "Ayari",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 7.8
+          },
+          {
+            "id": "maxim-de-cuyper",
+            "name": "Maxim De Cuyper",
+            "short": "De Cuyper",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.5
+          },
+          {
+            "id": "charalambos-kostoulas",
+            "name": "Charalambos Kostoulas",
+            "short": "Kostoulas",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 8.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "jack-hinshelwood",
+            "name": "Jack Hinshelwood",
+            "short": "Hinshelwood",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "georginio-rutter",
+            "name": "Georginio Rutter",
+            "short": "Rutter",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "jaouen-hadjam",
+            "name": "Jaouen Hadjam",
+            "short": "Hadjam",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "malick-yalcouye",
+            "name": "Malick Yalcouyé",
+            "short": "Yalcouyé",
+            "position": "AM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "michael-svoboda",
+            "name": "Michael Svoboda",
+            "short": "Svoboda",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "ibrahim-osman",
+            "name": "Ibrahim Osman",
+            "short": "Osman",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "costinha",
+            "name": "Costinha",
+            "short": "Costinha",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "matt-o-riley",
+            "name": "Matt O'Riley",
+            "short": "O'Riley",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jason-steele",
+            "name": "Jason Steele",
+            "short": "Steele",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "pierre-sage-brighton-c-palace-2026-10-18",
+          "name": "Pierre Sage",
+          "short": "Sage",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "walter-benitez-brighton-c-palace-2026-10-18",
+            "name": "Walter Benítez",
+            "short": "Benítez",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "jaydee-canvot-brighton-c-palace-2026-10-18",
+            "name": "Jaydee Canvot",
+            "short": "Canvot",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 6.3
+          },
+          {
+            "id": "chris-richards-brighton-c-palace-2026-10-18",
+            "name": "Chris Richards",
+            "short": "Richards",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "honest-ahanor-brighton-c-palace-2026-10-18",
+            "name": "Honest Ahanor",
+            "short": "Ahanor",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 6.8
+          },
+          {
+            "id": "anan-khalaili-brighton-c-palace-2026-10-18",
+            "name": "Anan Khalaili",
+            "short": "Khalaili",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "adam-wharton-brighton-c-palace-2026-10-18",
+            "name": "Adam Wharton",
+            "short": "Wharton",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 6.9
+          },
+          {
+            "id": "quinten-timber-brighton-c-palace-2026-10-18",
+            "name": "Quinten Timber",
+            "short": "Timber",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 6.5
+          },
+          {
+            "id": "tyrick-mitchell-brighton-c-palace-2026-10-18",
+            "name": "Tyrick Mitchell",
+            "short": "Mitchell",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 6.9
+          },
+          {
+            "id": "daichi-kamada-brighton-c-palace-2026-10-18",
+            "name": "Daichi Kamada",
+            "short": "Kamada",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "yeremy-pino-brighton-c-palace-2026-10-18",
+            "name": "Yéremy Pino",
+            "short": "Pino",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 7.2
+          },
+          {
+            "id": "jrgen-strand-larsen-brighton-c-palace-2026-10-18",
+            "name": "Jørgen Strand Larsen",
+            "short": "Larsen",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "dwight-mcneil-brighton-c-palace-2026-10-18",
+            "name": "Dwight McNeil",
+            "short": "McNeil",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "jefferson-lerma",
+            "name": "Jefferson Lerma",
+            "short": "Lerma",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "jean-philippe-mateta",
+            "name": "Jean-Philippe Mateta",
+            "short": "Mateta",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "eddie-nketiah-brighton-c-palace-2026-10-18",
+            "name": "Eddie Nketiah",
+            "short": "Nketiah",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "will-hughes-brighton-c-palace-2026-10-18",
+            "name": "Will Hughes",
+            "short": "Hughes",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "ismaila-sarr-brighton-c-palace-2026-10-18",
+            "name": "Ismaïla Sarr",
+            "short": "Sarr",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "remi-matthews-brighton-c-palace-2026-10-18",
+            "name": "Remi Matthews",
+            "short": "Matthews",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "oscar-mingueza-brighton-c-palace-2026-10-18",
+            "name": "Óscar Mingueza",
+            "short": "Mingueza",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dario-osorio-brighton-c-palace-2026-10-18",
+            "name": "Darío Osorio",
+            "short": "Osorio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 4,
+        "type": "own_goal",
+        "team": "home",
+        "player": {
+          "id": "jaydee-canvot-brighton-c-palace-2026-10-18",
+          "name": "Jaydee Canvot",
+          "short": "Canvot",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "own",
+        "description": "Jaydee Canvot turned a Pascal Groß delivery from the left into his own net to give Brighton an early lead."
+      },
+      {
+        "minute": 7,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "diego-gomez",
+          "name": "Diego Gómez",
+          "short": "Gómez",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "olivier-boscagli",
+          "name": "Olivier Boscagli",
+          "short": "Boscagli",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Diego Gómez caught Palace off guard with an audacious right-footed strike from around the halfway line into the high centre of the goal, the move started by Olivier Boscagli."
+      },
+      {
+        "minute": 10,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "yasin-ayari",
+          "name": "Yasin Ayari",
+          "short": "Ayari",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "charalambos-kostoulas",
+          "name": "Charalambos Kostoulas",
+          "short": "Kostoulas",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Yasin Ayari made it 3-0 inside 10 minutes with a right-footed finish from the centre of the box into the bottom left corner, set up by Charalambos Kostoulas."
+      },
+      {
+        "minute": 29,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "pascal-gross",
+          "name": "Pascal Gross",
+          "short": "Gross",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "dwight-mcneil-brighton-c-palace-2026-10-18",
+          "name": "Dwight McNeil",
+          "short": "McNeil",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "quinten-timber-brighton-c-palace-2026-10-18",
+          "name": "Quinten Timber",
+          "short": "Timber",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 49,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "charalambos-kostoulas",
+          "name": "Charalambos Kostoulas",
+          "short": "Kostoulas",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "4 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Charalambos Kostoulas finished left-footed from the centre of the box into the bottom left corner after more work down the flank from Pascal Groß; the goal stood after a VAR check for handball."
+      },
+      {
+        "minute": 49,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "charalambos-kostoulas",
+          "name": "Charalambos Kostoulas",
+          "short": "Kostoulas",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Goal checked for handball; confirmed following VAR review."
+      },
+      {
+        "minute": 51,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "daichi-kamada-brighton-c-palace-2026-10-18",
+          "name": "Daichi Kamada",
+          "short": "Kamada",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 53,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jefferson-lerma",
+          "name": "Jefferson Lerma",
+          "short": "Lerma",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "honest-ahanor-brighton-c-palace-2026-10-18",
+          "name": "Honest Ahanor",
+          "short": "Ahanor",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "jean-philippe-mateta",
+          "name": "Jean-Philippe Mateta",
+          "short": "Mateta",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jrgen-strand-larsen-brighton-c-palace-2026-10-18",
+          "name": "Jørgen Strand Larsen",
+          "short": "Larsen",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "eddie-nketiah-brighton-c-palace-2026-10-18",
+          "name": "Eddie Nketiah",
+          "short": "Nketiah",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "yeremy-pino-brighton-c-palace-2026-10-18",
+          "name": "Yéremy Pino",
+          "short": "Pino",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "chema-andres",
+          "name": "Chema Andrés",
+          "short": "Andrés",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jack-hinshelwood",
+          "name": "Jack Hinshelwood",
+          "short": "Hinshelwood",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pascal-gross",
+          "name": "Pascal Gross",
+          "short": "Gross",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "georginio-rutter",
+          "name": "Georginio Rutter",
+          "short": "Rutter",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "charalambos-kostoulas",
+          "name": "Charalambos Kostoulas",
+          "short": "Kostoulas",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "will-hughes-brighton-c-palace-2026-10-18",
+          "name": "Will Hughes",
+          "short": "Hughes",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "daichi-kamada-brighton-c-palace-2026-10-18",
+          "name": "Daichi Kamada",
+          "short": "Kamada",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jaouen-hadjam",
+          "name": "Jaouen Hadjam",
+          "short": "Hadjam",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "olivier-boscagli",
+          "name": "Olivier Boscagli",
+          "short": "Boscagli",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "malick-yalcouye",
+          "name": "Malick Yalcouyé",
+          "short": "Yalcouyé",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "yasin-ayari",
+          "name": "Yasin Ayari",
+          "short": "Ayari",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "jack-hinshelwood",
+          "name": "Jack Hinshelwood",
+          "short": "Hinshelwood",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "5 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "Substitute Jack Hinshelwood bundled home a late fifth from very close range following a corner."
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "michael-svoboda",
+          "name": "Michael Svoboda",
+          "short": "Svoboda",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lewis-dunk",
+          "name": "Lewis Dunk",
+          "short": "Dunk",
+          "position": "CB",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        17,
+        5
+      ],
+      "onTarget": [
+        9,
+        1
+      ],
+      "corners": [
+        8,
+        5
+      ],
+      "fouls": [
+        13,
+        11
+      ],
+      "possession": 57
+    },
+    "attendance": 31440,
+    "referee": {
+      "name": "Robert Jones",
+      "country": "England"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879261",
+      "https://www.espn.com/soccer/match/_/gameId/401879261",
+      "https://www.skysports.com/football/a-vs-b/report/559506",
+      "https://www.skysports.com/football/a-vs-b/teams/559506",
+      "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

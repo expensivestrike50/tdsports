@@ -1,0 +1,671 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "lille-brest-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "20:45",
+    "competition": "Ligue 1",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Lille",
+      "id": "lille",
+      "crest": "assets/clubs/166.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Brest",
+      "id": "brest",
+      "crest": "assets/clubs/171.png",
+      "country": "FR"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Decathlon Arena - Stade Pierre-Mauroy",
+      "city": "Lille",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "davide-ancelotti",
+          "name": "Davide Ancelotti",
+          "short": "Ancelotti",
+          "position": "Coach",
+          "photo": "assets/photos/people/davide-ancelotti.jpg"
+        },
+        "starting": [
+          {
+            "id": "orlando-gill",
+            "name": "Orlando Gill",
+            "short": "Gill",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.1
+          },
+          {
+            "id": "romain-perraud",
+            "name": "Romain Perraud",
+            "short": "Perraud",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "tanguy-nianzou",
+            "name": "Tanguy Nianzou",
+            "short": "Nianzou",
+            "position": "CB",
+            "photo": "assets/photos/people/tanguy-nianzou.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "nathan-ngoy",
+            "name": "Nathan Ngoy",
+            "short": "Ngoy",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.4
+          },
+          {
+            "id": "maxima-goffi",
+            "name": "Maxima Goffi",
+            "short": "Goffi",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.5
+          },
+          {
+            "id": "ngal-ayel-mukau",
+            "name": "Ngal'ayel Mukau",
+            "short": "Mukau",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.3
+          },
+          {
+            "id": "benjamin-andre",
+            "name": "Benjamin André",
+            "short": "André",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.8
+          },
+          {
+            "id": "dilane-bakwa",
+            "name": "Dilane Bakwa",
+            "short": "Bakwa",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.8
+          },
+          {
+            "id": "hakon-haraldsson",
+            "name": "Hákon Haraldsson",
+            "short": "Haraldsson",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "ethan-mbappe",
+            "name": "Ethan Mbappé",
+            "short": "Mbappé",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 6.8
+          },
+          {
+            "id": "olivier-giroud",
+            "name": "Olivier Giroud",
+            "short": "Giroud",
+            "position": "ST",
+            "photo": "assets/photos/people/olivier-giroud.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 8.1
+          }
+        ],
+        "bench": [
+          {
+            "id": "calvin-verdonk",
+            "name": "Calvin Verdonk",
+            "short": "Verdonk",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "soriba-diaoune",
+            "name": "Soriba Diaoune",
+            "short": "Diaoune",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "nabil-bentaleb",
+            "name": "Nabil Bentaleb",
+            "short": "Bentaleb",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "maurits-kjaergaard",
+            "name": "Maurits Kjaergaard",
+            "short": "Kjaergaard",
+            "position": "DM",
+            "photo": "assets/photos/people/maurits-kjaergaard.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "matah-yondjio",
+            "name": "Matah Yondjio",
+            "short": "Yondjio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "basar-onal",
+            "name": "Basar Önal",
+            "short": "Önal",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "isaac-cossier",
+            "name": "Isaac Cossier",
+            "short": "Cossier",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "zadig-lanssade",
+            "name": "Zadig Lanssade",
+            "short": "Lanssade",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gaetan-perrin",
+            "name": "Gaetan Perrin",
+            "short": "Perrin",
+            "position": "CM",
+            "photo": "assets/photos/people/gaetan-perrin.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "julien-lachuer",
+          "name": "Julien Lachuer",
+          "short": "Lachuer",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "egil-selvik",
+            "name": "Egil Selvik",
+            "short": "Selvik",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "bradley-locko",
+            "name": "Bradley Locko",
+            "short": "Locko",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.5
+          },
+          {
+            "id": "gautier-lloris",
+            "name": "Gautier Lloris",
+            "short": "Lloris",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.6
+          },
+          {
+            "id": "lucas-tousart",
+            "name": "Lucas Tousart",
+            "short": "Tousart",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7
+          },
+          {
+            "id": "kenny-lala",
+            "name": "Kenny Lala",
+            "short": "Lala",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "hugo-magnetti",
+            "name": "Hugo Magnetti",
+            "short": "Magnetti",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 6.8
+          },
+          {
+            "id": "joris-chotard",
+            "name": "Joris Chotard",
+            "short": "Chotard",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 6.9
+          },
+          {
+            "id": "pathe-mboup",
+            "name": "Pathé Mboup",
+            "short": "Mboup",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.2
+          },
+          {
+            "id": "kamory-doumbia",
+            "name": "Kamory Doumbia",
+            "short": "Doumbia",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "mama-balde",
+            "name": "Mama Baldé",
+            "short": "Baldé",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 7.2
+          },
+          {
+            "id": "ludovic-ajorque",
+            "name": "Ludovic Ajorque",
+            "short": "Ajorque",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "joseph-nonge",
+            "name": "Joseph Nonge",
+            "short": "Nonge",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "ibrahim-kante",
+            "name": "Ibrahim Kanté",
+            "short": "Kanté",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "mamady-diambou",
+            "name": "Mamady Diambou",
+            "short": "Diambou",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "justin-bourgault",
+            "name": "Justin Bourgault",
+            "short": "Bourgault",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "enzo-monchatre",
+            "name": "Enzo Monchatre",
+            "short": "Monchatre",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "djylian-n-guessan",
+            "name": "Djylian N'Guessan",
+            "short": "N'Guessan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mathieu-patouillet",
+            "name": "Mathieu Patouillet",
+            "short": "Patouillet",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luc-zogbe",
+            "name": "Luc Zogbe",
+            "short": "Zogbe",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 6,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "mama-balde",
+          "name": "Mama Baldé",
+          "short": "Baldé",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "gautier-lloris",
+          "name": "Gautier Lloris",
+          "short": "Lloris",
+          "position": "CB",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "From an early Brest corner, Gautier Lloris's blocked effort fell for Mama Baldé, who finished from the centre of the box into the bottom left corner."
+      },
+      {
+        "minute": 13,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "kamory-doumbia",
+          "name": "Kamory Doumbia",
+          "short": "Doumbia",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "joseph-nonge",
+          "name": "Joseph Nonge",
+          "short": "Nonge",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mama-balde",
+          "name": "Mama Baldé",
+          "short": "Baldé",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 54,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "calvin-verdonk",
+          "name": "Calvin Verdonk",
+          "short": "Verdonk",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "romain-perraud",
+          "name": "Romain Perraud",
+          "short": "Perraud",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 58,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "bradley-locko",
+          "name": "Bradley Locko",
+          "short": "Locko",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 64,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "olivier-giroud",
+          "name": "Olivier Giroud",
+          "short": "Giroud",
+          "position": "ST",
+          "photo": "assets/photos/people/olivier-giroud.jpg"
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "After Bradley Locko fouled Ethan Mbappé in the area, Olivier Giroud converted the penalty with his left foot into the top left corner."
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "soriba-diaoune",
+          "name": "Soriba Diaoune",
+          "short": "Diaoune",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "dilane-bakwa",
+          "name": "Dilane Bakwa",
+          "short": "Bakwa",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nabil-bentaleb",
+          "name": "Nabil Bentaleb",
+          "short": "Bentaleb",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "benjamin-andre",
+          "name": "Benjamin André",
+          "short": "André",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ibrahim-kante",
+          "name": "Ibrahim Kanté",
+          "short": "Kanté",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pathe-mboup",
+          "name": "Pathé Mboup",
+          "short": "Mboup",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "maurits-kjaergaard",
+          "name": "Maurits Kjaergaard",
+          "short": "Kjaergaard",
+          "position": "DM",
+          "photo": "assets/photos/people/maurits-kjaergaard.jpg"
+        },
+        "replaced": {
+          "id": "ngal-ayel-mukau",
+          "name": "Ngal'ayel Mukau",
+          "short": "Mukau",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mamady-diambou",
+          "name": "Mamady Diambou",
+          "short": "Diambou",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kamory-doumbia",
+          "name": "Kamory Doumbia",
+          "short": "Doumbia",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "calvin-verdonk",
+          "name": "Calvin Verdonk",
+          "short": "Verdonk",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        17,
+        8
+      ],
+      "onTarget": [
+        5,
+        2
+      ],
+      "corners": [
+        5,
+        2
+      ],
+      "fouls": [
+        12,
+        20
+      ],
+      "possession": 67
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Clément Turpin",
+      "country": "France"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876436",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876436",
+      "https://ligue1.com/fr/articles/l1_article_5927-",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

@@ -1,0 +1,847 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "monza-cagliari-2026-10-19",
+    "date": "2026-10-19",
+    "kickoff": "18:30",
+    "competition": "Serie A",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Monza",
+      "id": "monza",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+      "country": "IT"
+    },
+    "away": {
+      "name": "Cagliari",
+      "id": "cagliari",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+      "country": "IT"
+    },
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "U-Power Stadium",
+      "city": "Monza",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "ivan-juric",
+          "name": "Ivan Jurić",
+          "short": "Jurić",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "noel-tornqvist",
+            "name": "Noel Törnqvist",
+            "short": "Törnqvist",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "andrea-carboni",
+            "name": "Andrea Carboni",
+            "short": "Carboni",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 6.8
+          },
+          {
+            "id": "saba-goglichidze",
+            "name": "Saba Goglichidze",
+            "short": "Goglichidze",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "eddy-kouadio",
+            "name": "Eddy Kouadio",
+            "short": "Kouadio",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7.9
+          },
+          {
+            "id": "ricardo-mangas",
+            "name": "Ricardo Mangas",
+            "short": "Mangas",
+            "position": "LB",
+            "photo": null,
+            "x": 27,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "ebenezer-akinsanmiro",
+            "name": "Ebenezer Akinsanmiro",
+            "short": "Akinsanmiro",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 38,
+            "rating": 6.6
+          },
+          {
+            "id": "manga-foe-ondoa",
+            "name": "Manga Foe Ondoa",
+            "short": "Foe Ondoa",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 64,
+            "rating": 7.7
+          },
+          {
+            "id": "samuele-birindelli",
+            "name": "Samuele Birindelli",
+            "short": "Birindelli",
+            "position": "RB",
+            "photo": null,
+            "x": 27,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "jay-robinson",
+            "name": "Jay Robinson",
+            "short": "Robinson",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 8.5
+          },
+          {
+            "id": "dany-mota",
+            "name": "Dany Mota",
+            "short": "Mota",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 7.9
+          },
+          {
+            "id": "gustavo-varela",
+            "name": "Gustavo Varela",
+            "short": "Varela",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 9.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "andrea-colpani",
+            "name": "Andrea Colpani",
+            "short": "Colpani",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "michael-folorunsho",
+            "name": "Michael Folorunsho",
+            "short": "Folorunsho",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "patrick-cutrone",
+            "name": "Patrick Cutrone",
+            "short": "Cutrone",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "adam-bakoune",
+            "name": "Adam Bakoune",
+            "short": "Bakoune",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "omari-forson",
+            "name": "Omari Forson",
+            "short": "Forson",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "valentin-antov",
+            "name": "Valentin Antov",
+            "short": "Antov",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "cyril-ngonge",
+            "name": "Cyril Ngonge",
+            "short": "Ngonge",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "patrick-ciurria",
+            "name": "Patrick Ciurria",
+            "short": "Ciurria",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "demba-thiam",
+            "name": "Demba Thiam",
+            "short": "Thiam",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "aljaz-strajnar",
+            "name": "Aljaz Strajnar",
+            "short": "Strajnar",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mathis-mout",
+            "name": "Mathis Mout",
+            "short": "Mout",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "leonardo-colombo",
+            "name": "Leonardo Colombo",
+            "short": "Colombo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-2-1",
+        "coach": {
+          "id": "fabio-pisacane",
+          "name": "Fabio Pisacane",
+          "short": "Pisacane",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "elia-caprile",
+            "name": "Elia Caprile",
+            "short": "Caprile",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "adam-obert",
+            "name": "Adam Obert",
+            "short": "Obert",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "juan-rodriguez",
+            "name": "Juan Rodríguez",
+            "short": "Rodríguez",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.7
+          },
+          {
+            "id": "yerry-mina",
+            "name": "Yerry Mina",
+            "short": "Mina",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.4
+          },
+          {
+            "id": "ze-pedro",
+            "name": "Zé Pedro",
+            "short": "Pedro",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "alessandro-romano",
+            "name": "Alessandro Romano",
+            "short": "Romano",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 77,
+            "rating": 6.9
+          },
+          {
+            "id": "harry-winks",
+            "name": "Harry Winks",
+            "short": "Winks",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "michel-adopo",
+            "name": "Michel Adopo",
+            "short": "Adopo",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 22,
+            "rating": 6.7
+          },
+          {
+            "id": "daniel-maldini",
+            "name": "Daniel Maldini",
+            "short": "Maldini",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 6.7
+          },
+          {
+            "id": "paul-mendy",
+            "name": "Paul Mendy",
+            "short": "Mendy",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 6.4
+          },
+          {
+            "id": "m-bala-nzola",
+            "name": "M'Bala Nzola",
+            "short": "Nzola",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "alieu-fadera",
+            "name": "Alieu Fadera",
+            "short": "Fadera",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "yukinari-sugawara",
+            "name": "Yukinari Sugawara",
+            "short": "Sugawara",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "kevin-carlos",
+            "name": "Kevin Carlos",
+            "short": "Carlos",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "alessandro-deiola",
+            "name": "Alessandro Deiola",
+            "short": "Deiola",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "joseph-liteta",
+            "name": "Joseph Liteta",
+            "short": "Liteta",
+            "position": "DM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "giuseppe-aurelio",
+            "name": "Giuseppe Aurelio",
+            "short": "Aurelio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "riccardo-ciervo",
+            "name": "Riccardo Ciervo",
+            "short": "Ciervo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "roberto-gagliardini",
+            "name": "Roberto Gagliardini",
+            "short": "Gagliardini",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alen-sherri",
+            "name": "Alen Sherri",
+            "short": "Sherri",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "yanis-massolin",
+            "name": "Yanis Massolin",
+            "short": "Massolin",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ivan-sulev",
+            "name": "Ivan Sulev",
+            "short": "Sulev",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "raphael-kofler",
+            "name": "Raphael Kofler",
+            "short": "Kofler",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jacopo-fazzini",
+            "name": "Jacopo Fazzini",
+            "short": "Fazzini",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "boris-radunovic",
+            "name": "Boris Radunovic",
+            "short": "Radunovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 39,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "eddy-kouadio",
+          "name": "Eddy Kouadio",
+          "short": "Kouadio",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "dany-mota",
+          "name": "Dany Mota",
+          "short": "Mota",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Eddy Kouadio right footed shot from the centre of the box to the centre of the goal. Assisted by Dany Mota with a through ball following a fast break."
+      },
+      {
+        "minute": 47,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "gustavo-varela",
+          "name": "Gustavo Varela",
+          "short": "Varela",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "manga-foe-ondoa",
+          "name": "Manga Foe Ondoa",
+          "short": "Foe Ondoa",
+          "position": "CM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Gustavo Varela right footed shot from the right side of the box to the bottom left corner. Assisted by Manga Foe Ondoa."
+      },
+      {
+        "minute": 53,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alieu-fadera",
+          "name": "Alieu Fadera",
+          "short": "Fadera",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "m-bala-nzola",
+          "name": "M'Bala Nzola",
+          "short": "Nzola",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "andrea-colpani",
+          "name": "Andrea Colpani",
+          "short": "Colpani",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "dany-mota",
+          "name": "Dany Mota",
+          "short": "Mota",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "jay-robinson",
+          "name": "Jay Robinson",
+          "short": "Robinson",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "gustavo-varela",
+          "name": "Gustavo Varela",
+          "short": "Varela",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Jay Robinson right footed shot from outside the box to the bottom right corner. Assisted by Gustavo Varela."
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "yukinari-sugawara",
+          "name": "Yukinari Sugawara",
+          "short": "Sugawara",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ze-pedro",
+          "name": "Zé Pedro",
+          "short": "Pedro",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "kevin-carlos",
+          "name": "Kevin Carlos",
+          "short": "Carlos",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "daniel-maldini",
+          "name": "Daniel Maldini",
+          "short": "Maldini",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "harry-winks",
+          "name": "Harry Winks",
+          "short": "Winks",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 79,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "gustavo-varela",
+          "name": "Gustavo Varela",
+          "short": "Varela",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "4 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "counter",
+        "description": "Gustavo Varela right footed shot from the centre of the box to the bottom left corner following a fast break."
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "michael-folorunsho",
+          "name": "Michael Folorunsho",
+          "short": "Folorunsho",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ebenezer-akinsanmiro",
+          "name": "Ebenezer Akinsanmiro",
+          "short": "Akinsanmiro",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "patrick-cutrone",
+          "name": "Patrick Cutrone",
+          "short": "Cutrone",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gustavo-varela",
+          "name": "Gustavo Varela",
+          "short": "Varela",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "adam-bakoune",
+          "name": "Adam Bakoune",
+          "short": "Bakoune",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "eddy-kouadio",
+          "name": "Eddy Kouadio",
+          "short": "Kouadio",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alessandro-deiola",
+          "name": "Alessandro Deiola",
+          "short": "Deiola",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alessandro-romano",
+          "name": "Alessandro Romano",
+          "short": "Romano",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "joseph-liteta",
+          "name": "Joseph Liteta",
+          "short": "Liteta",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "harry-winks",
+          "name": "Harry Winks",
+          "short": "Winks",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "samuele-birindelli",
+          "name": "Samuele Birindelli",
+          "short": "Birindelli",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 82,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "alieu-fadera",
+          "name": "Alieu Fadera",
+          "short": "Fadera",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "omari-forson",
+          "name": "Omari Forson",
+          "short": "Forson",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jay-robinson",
+          "name": "Jay Robinson",
+          "short": "Robinson",
+          "position": "AM",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        14,
+        16
+      ],
+      "onTarget": [
+        6,
+        5
+      ],
+      "corners": [
+        2,
+        7
+      ],
+      "fouls": [
+        10,
+        14
+      ],
+      "possession": 45
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Andrea Calzavara",
+      "country": "Italy"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874762",
+      "https://www.espn.com/soccer/match/_/gameId/401874762",
+      "https://www.calciomercato.com/liste/monza-cagliari-live/blt6e5bccde10d31357",
+      "https://www.unionesarda.it/en/monza-cagliari-calzavara-to-referee-monday-in-serie-a-o9rkmhkz",
+      "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

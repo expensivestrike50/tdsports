@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "malick-thiaw",
+    "name": "Malick Thiaw",
+    "short": "Thiaw",
+    "position": "CB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "newcastle-aston-villa-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Newcastle",
+        "role": "starter"
+      }
+    ]
+  }
+}

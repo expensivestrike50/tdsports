@@ -1,0 +1,780 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "bayern-arsenal",
+    "date": "2026-10-21",
+    "kickoff": "21:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Bayern München",
+      "id": "bayern-munchen",
+      "crest": "assets/clubs/132.png",
+      "country": "DE"
+    },
+    "away": {
+      "name": "Arsenal",
+      "id": "arsenal",
+      "crest": "assets/clubs/359.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "tv": "Paramount+",
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Allianz Arena",
+      "city": "Munich",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "vincent-kompany",
+          "name": "Vincent Kompany",
+          "short": "Kompany",
+          "position": "Coach",
+          "photo": "assets/photos/people/vincent-kompany.jpg"
+        },
+        "starting": [
+          {
+            "id": "manuel-neuer",
+            "name": "Manuel Neuer",
+            "short": "Neuer",
+            "position": "GK",
+            "photo": "assets/photos/people/manuel-neuer.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "josip-stanisic",
+            "name": "Josip Stanišić",
+            "short": "Stanišić",
+            "position": "LB",
+            "photo": "assets/photos/people/josip-stanisic.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 6.3
+          },
+          {
+            "id": "kim-min-jae",
+            "name": "Kim Min-jae",
+            "short": "Kim",
+            "position": "CB",
+            "photo": "assets/photos/people/kim-min-jae.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 6.4
+          },
+          {
+            "id": "dayot-upamecano",
+            "name": "Dayot Upamecano",
+            "short": "Upamecano",
+            "position": "CB",
+            "photo": "assets/photos/people/dayot-upamecano.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 7
+          },
+          {
+            "id": "konrad-laimer",
+            "name": "Konrad Laimer",
+            "short": "Laimer",
+            "position": "RB",
+            "photo": "assets/photos/people/konrad-laimer.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "aleksandar-pavlovic",
+            "name": "Aleksandar Pavlović",
+            "short": "Pavlović",
+            "position": "DM",
+            "photo": "assets/photos/people/aleksandar-pavlovic.jpg",
+            "x": 27,
+            "y": 30,
+            "rating": 7.3
+          },
+          {
+            "id": "tom-bischof",
+            "name": "Tom Bischof",
+            "short": "Bischof",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.1
+          },
+          {
+            "id": "alphonso-davies",
+            "name": "Alphonso Davies",
+            "short": "Davies",
+            "position": "LW",
+            "photo": "assets/photos/people/alphonso-davies.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 7.4
+          },
+          {
+            "id": "ismael-saibari",
+            "name": "Ismael Saibari",
+            "short": "Saibari",
+            "position": "AM",
+            "photo": "assets/photos/people/ismael-saibari.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "serge-gnabry",
+            "name": "Serge Gnabry",
+            "short": "Gnabry",
+            "position": "RW",
+            "photo": "assets/photos/people/serge-gnabry.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 6.2
+          },
+          {
+            "id": "harry-kane",
+            "name": "Harry Kane",
+            "short": "Kane",
+            "position": "ST",
+            "photo": "assets/photos/people/harry-kane.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 7.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "jonathan-tah",
+            "name": "Jonathan Tah",
+            "short": "Tah",
+            "position": "CB",
+            "photo": "assets/photos/people/jonathan-tah.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "luis-diaz",
+            "name": "Luis Díaz",
+            "short": "Díaz",
+            "position": "AM",
+            "photo": "assets/photos/people/luis-diaz.jpg",
+            "rating": 6.9
+          },
+          {
+            "id": "lennart-karl",
+            "name": "Lennart Karl",
+            "short": "Karl",
+            "position": "RW",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "nathaniel-brown",
+            "name": "Nathaniel Brown",
+            "short": "Brown",
+            "position": "LW",
+            "photo": "assets/photos/people/nathaniel-brown.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "bara-sapoko-ndiaye",
+            "name": "Bara Sapoko Ndiaye",
+            "short": "Ndiaye",
+            "position": "AM",
+            "photo": "assets/photos/people/bara-sapoko-ndiaye.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "sacha-boey",
+            "name": "Sacha Boey",
+            "short": "Boey",
+            "position": "CM",
+            "photo": "assets/photos/people/sacha-boey.jpg",
+            "rating": null
+          },
+          {
+            "id": "tim-binder",
+            "name": "Tim Binder",
+            "short": "Binder",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jonas-urbig",
+            "name": "Jonas Urbig",
+            "short": "Urbig",
+            "position": "CM",
+            "photo": "assets/photos/people/jonas-urbig.jpg",
+            "rating": null
+          },
+          {
+            "id": "hiroki-ito",
+            "name": "Hiroki Ito",
+            "short": "Ito",
+            "position": "CM",
+            "photo": "assets/photos/people/hiroki-ito.jpg",
+            "rating": null
+          },
+          {
+            "id": "sven-ulreich",
+            "name": "Sven Ulreich",
+            "short": "Ulreich",
+            "position": "CM",
+            "photo": "assets/photos/people/sven-ulreich.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "mikel-arteta",
+          "name": "Mikel Arteta",
+          "short": "Arteta",
+          "position": "Coach",
+          "photo": "assets/photos/people/mikel-arteta.jpg"
+        },
+        "starting": [
+          {
+            "id": "david-raya",
+            "name": "David Raya",
+            "short": "Raya",
+            "position": "GK",
+            "photo": "assets/photos/people/david-raya.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "riccardo-calafiori",
+            "name": "Riccardo Calafiori",
+            "short": "Calafiori",
+            "position": "LB",
+            "photo": "assets/photos/people/riccardo-calafiori.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 6.3
+          },
+          {
+            "id": "gabriel-magalhaes",
+            "name": "Gabriel Magalhães",
+            "short": "Gabriel",
+            "position": "CB",
+            "photo": "assets/photos/people/gabriel-magalhaes.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 6.3
+          },
+          {
+            "id": "ezri-konsa",
+            "name": "Ezri Konsa",
+            "short": "Konsa",
+            "position": "CB",
+            "photo": "assets/photos/people/ezri-konsa.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 7.2
+          },
+          {
+            "id": "jurrien-timber",
+            "name": "Jurriën Timber",
+            "short": "Timber",
+            "position": "RB",
+            "photo": "assets/photos/people/jurrien-timber.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 7.3
+          },
+          {
+            "id": "declan-rice",
+            "name": "Declan Rice",
+            "short": "Rice",
+            "position": "CM",
+            "photo": "assets/photos/people/declan-rice.jpg",
+            "x": 68,
+            "y": 77,
+            "rating": 8.3
+          },
+          {
+            "id": "bruno-guimaraes",
+            "name": "Bruno Guimarães",
+            "short": "Guimarães",
+            "position": "DM",
+            "photo": "assets/photos/people/bruno-guimaraes.jpg",
+            "x": 68,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "martin-degaard",
+            "name": "Martin Ødegaard",
+            "short": "Ødegaard",
+            "position": "CM",
+            "photo": "assets/photos/people/martin-degaard.jpg",
+            "x": 68,
+            "y": 22,
+            "rating": 7.6
+          },
+          {
+            "id": "noni-madueke",
+            "name": "Noni Madueke",
+            "short": "Madueke",
+            "position": "LW",
+            "photo": "assets/photos/people/noni-madueke.jpg",
+            "x": 54,
+            "y": 77,
+            "rating": 6.7
+          },
+          {
+            "id": "kai-havertz",
+            "name": "Kai Havertz",
+            "short": "Havertz",
+            "position": "ST",
+            "photo": "assets/photos/people/kai-havertz.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "bukayo-saka",
+            "name": "Bukayo Saka",
+            "short": "Saka",
+            "position": "RW",
+            "photo": "assets/photos/people/bukayo-saka.jpg",
+            "x": 54,
+            "y": 22,
+            "rating": 7.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "eberechi-eze",
+            "name": "Eberechi Eze",
+            "short": "Eze",
+            "position": "RW",
+            "photo": "assets/photos/people/eberechi-eze.jpg",
+            "rating": 8.3
+          },
+          {
+            "id": "viktor-gyokeres",
+            "name": "Viktor Gyökeres",
+            "short": "Gyökeres",
+            "position": "ST",
+            "photo": "assets/photos/people/viktor-gyokeres.jpg",
+            "rating": 7.9
+          },
+          {
+            "id": "myles-lewis-skelly",
+            "name": "Myles Lewis-Skelly",
+            "short": "Lewis-Skelly",
+            "position": "DM",
+            "photo": "assets/photos/people/myles-lewis-skelly.jpg",
+            "rating": 6.5
+          },
+          {
+            "id": "mikel-merino",
+            "name": "Mikel Merino",
+            "short": "Merino",
+            "position": "CM",
+            "photo": "assets/photos/people/mikel-merino.jpg",
+            "rating": 6.5
+          },
+          {
+            "id": "max-dowman",
+            "name": "Max Dowman",
+            "short": "Dowman",
+            "position": "CM",
+            "photo": "assets/photos/people/max-dowman.jpg",
+            "rating": null
+          },
+          {
+            "id": "cristhian-mosquera",
+            "name": "Cristhian Mosquera",
+            "short": "Mosquera",
+            "position": "CM",
+            "photo": "assets/photos/people/cristhian-mosquera.jpg",
+            "rating": null
+          },
+          {
+            "id": "ben-white",
+            "name": "Ben White",
+            "short": "White",
+            "position": "CM",
+            "photo": "assets/photos/people/ben-white.jpg",
+            "rating": null
+          },
+          {
+            "id": "martin-zubimendi",
+            "name": "Martín Zubimendi",
+            "short": "Zubimendi",
+            "position": "CM",
+            "photo": "assets/photos/people/martin-zubimendi.jpg",
+            "rating": null
+          },
+          {
+            "id": "kepa-arrizabalaga",
+            "name": "Kepa Arrizabalaga",
+            "short": "Arrizabalaga",
+            "position": "CM",
+            "photo": "assets/photos/people/kepa-arrizabalaga.jpg",
+            "rating": null
+          },
+          {
+            "id": "illan-meslier",
+            "name": "Illan Meslier",
+            "short": "Meslier",
+            "position": "CM",
+            "photo": "assets/photos/people/illan-meslier.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 10,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "eberechi-eze",
+          "name": "Eberechi Eze",
+          "short": "Eze",
+          "position": "RW",
+          "photo": "assets/photos/people/eberechi-eze.jpg"
+        },
+        "replaced": {
+          "id": "bukayo-saka",
+          "name": "Bukayo Saka",
+          "short": "Saka",
+          "position": "RW",
+          "photo": "assets/photos/people/bukayo-saka.jpg"
+        }
+      },
+      {
+        "minute": 13,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "kai-havertz",
+          "name": "Kai Havertz",
+          "short": "Havertz",
+          "position": "ST",
+          "photo": "assets/photos/people/kai-havertz.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 25,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "eberechi-eze",
+          "name": "Eberechi Eze",
+          "short": "Eze",
+          "position": "RW",
+          "photo": "assets/photos/people/eberechi-eze.jpg"
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "martin-degaard",
+          "name": "Martin Ødegaard",
+          "short": "Ødegaard",
+          "position": "CM",
+          "photo": "assets/photos/people/martin-degaard.jpg"
+        },
+        "goalType": "build",
+        "description": "Ødegaard's ball over the top sent Eze racing into the box and he rifled a left-footed shot from the left side of the area into the bottom-right corner. Initially flagged offside, the goal was awarded after a VAR review."
+      },
+      {
+        "minute": 26,
+        "type": "var",
+        "team": "away",
+        "player": {
+          "id": "eberechi-eze",
+          "name": "Eberechi Eze",
+          "short": "Eze",
+          "position": "RW",
+          "photo": "assets/photos/people/eberechi-eze.jpg"
+        },
+        "detail": "Offside flag overturned; goal awarded"
+      },
+      {
+        "minute": 35,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "alphonso-davies",
+          "name": "Alphonso Davies",
+          "short": "Davies",
+          "position": "LW",
+          "photo": "assets/photos/people/alphonso-davies.jpg"
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "harry-kane",
+          "name": "Harry Kane",
+          "short": "Kane",
+          "position": "ST",
+          "photo": "assets/photos/people/harry-kane.jpg"
+        },
+        "goalType": "counter",
+        "description": "Kane, dropping deep, played a through ball from the centre circle; Davies outpaced Timber and slotted a right-footed shot from the centre of the box past Raya into the bottom-right corner."
+      },
+      {
+        "minute": 39,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "ezri-konsa",
+          "name": "Ezri Konsa",
+          "short": "Konsa",
+          "position": "CB",
+          "photo": "assets/photos/people/ezri-konsa.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jonathan-tah",
+          "name": "Jonathan Tah",
+          "short": "Tah",
+          "position": "CB",
+          "photo": "assets/photos/people/jonathan-tah.jpg"
+        },
+        "replaced": {
+          "id": "kim-min-jae",
+          "name": "Kim Min-jae",
+          "short": "Kim",
+          "position": "CB",
+          "photo": "assets/photos/people/kim-min-jae.jpg"
+        }
+      },
+      {
+        "minute": 61,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "harry-kane",
+          "name": "Harry Kane",
+          "short": "Kane",
+          "position": "ST",
+          "photo": "assets/photos/people/harry-kane.jpg"
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": true,
+        "assist": null,
+        "goalType": "set",
+        "description": "After Timber blocked Kane's shot with his arm (handball penalty given 59'), Kane converted the spot kick high into the top-left corner after a stuttering run-up."
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "luis-diaz",
+          "name": "Luis Díaz",
+          "short": "Díaz",
+          "position": "AM",
+          "photo": "assets/photos/people/luis-diaz.jpg"
+        },
+        "replaced": {
+          "id": "ismael-saibari",
+          "name": "Ismael Saibari",
+          "short": "Saibari",
+          "position": "AM",
+          "photo": "assets/photos/people/ismael-saibari.jpg"
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "lennart-karl",
+          "name": "Lennart Karl",
+          "short": "Karl",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "serge-gnabry",
+          "name": "Serge Gnabry",
+          "short": "Gnabry",
+          "position": "RW",
+          "photo": "assets/photos/people/serge-gnabry.jpg"
+        }
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "viktor-gyokeres",
+          "name": "Viktor Gyökeres",
+          "short": "Gyökeres",
+          "position": "ST",
+          "photo": "assets/photos/people/viktor-gyokeres.jpg"
+        },
+        "replaced": {
+          "id": "kai-havertz",
+          "name": "Kai Havertz",
+          "short": "Havertz",
+          "position": "ST",
+          "photo": "assets/photos/people/kai-havertz.jpg"
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "myles-lewis-skelly",
+          "name": "Myles Lewis-Skelly",
+          "short": "Lewis-Skelly",
+          "position": "DM",
+          "photo": "assets/photos/people/myles-lewis-skelly.jpg"
+        },
+        "replaced": {
+          "id": "bruno-guimaraes",
+          "name": "Bruno Guimarães",
+          "short": "Guimarães",
+          "position": "DM",
+          "photo": "assets/photos/people/bruno-guimaraes.jpg"
+        }
+      },
+      {
+        "minute": 82,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "declan-rice",
+          "name": "Declan Rice",
+          "short": "Rice",
+          "position": "CM",
+          "photo": "assets/photos/people/declan-rice.jpg"
+        },
+        "scoreAfter": "2 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "viktor-gyokeres",
+          "name": "Viktor Gyökeres",
+          "short": "Gyökeres",
+          "position": "ST",
+          "photo": "assets/photos/people/viktor-gyokeres.jpg"
+        },
+        "goalType": "build",
+        "description": "Rice latched on to Gyökeres' pass and lashed a low right-footed shot from the right side of the box past Neuer."
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mikel-merino",
+          "name": "Mikel Merino",
+          "short": "Merino",
+          "position": "CM",
+          "photo": "assets/photos/people/mikel-merino.jpg"
+        },
+        "replaced": {
+          "id": "martin-degaard",
+          "name": "Martin Ødegaard",
+          "short": "Ødegaard",
+          "position": "CM",
+          "photo": "assets/photos/people/martin-degaard.jpg"
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nathaniel-brown",
+          "name": "Nathaniel Brown",
+          "short": "Brown",
+          "position": "LW",
+          "photo": "assets/photos/people/nathaniel-brown.jpg"
+        },
+        "replaced": {
+          "id": "alphonso-davies",
+          "name": "Alphonso Davies",
+          "short": "Davies",
+          "position": "LW",
+          "photo": "assets/photos/people/alphonso-davies.jpg"
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "bara-sapoko-ndiaye",
+          "name": "Bara Sapoko Ndiaye",
+          "short": "Ndiaye",
+          "position": "AM",
+          "photo": "assets/photos/people/bara-sapoko-ndiaye.jpg"
+        },
+        "replaced": {
+          "id": "luis-diaz",
+          "name": "Luis Díaz",
+          "short": "Díaz",
+          "position": "AM",
+          "photo": "assets/photos/people/luis-diaz.jpg"
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        13,
+        14
+      ],
+      "onTarget": [
+        5,
+        5
+      ],
+      "corners": [
+        3,
+        5
+      ],
+      "fouls": [
+        15,
+        6
+      ],
+      "possession": 46
+    },
+    "attendance": 75000,
+    "referee": {
+      "name": "Davide Massa",
+      "country": "Italy"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401915312",
+      "https://www.espn.com/soccer/report/_/gameId/401915312",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915312",
+      "https://match.uefa.com/v5/matches/2049598/lineups",
+      "https://www.uefa.com/uefachampionsleague/match/2049598/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

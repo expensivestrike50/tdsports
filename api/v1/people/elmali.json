@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "elmali",
+    "name": "Eren Elmalı",
+    "short": "Elmalı",
+    "position": "LB",
+    "photo": "assets/photos/people/eren-elmali.jpg",
+    "matches": [
+      {
+        "match": "lille-galatasaray",
+        "date": "2026-10-21",
+        "team": "Galatasaray",
+        "role": "bench"
+      }
+    ]
+  }
+}

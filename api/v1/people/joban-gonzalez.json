@@ -1,0 +1,30 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "joban-gonzalez",
+    "name": "Joban González",
+    "short": "González",
+    "position": "LW",
+    "photo": null,
+    "matches": [
+      {
+        "match": "toluca-tijuana-2026-10-21",
+        "date": "2026-10-21",
+        "team": "Toluca",
+        "role": "bench"
+      },
+      {
+        "match": "toluca-tijuana-2026-10-21",
+        "date": "2026-10-21",
+        "team": "Tijuana",
+        "role": "starter"
+      },
+      {
+        "match": "toluca-tijuana-2026-10-21",
+        "date": "2026-10-21",
+        "team": "Tijuana",
+        "role": "bench"
+      }
+    ]
+  }
+}

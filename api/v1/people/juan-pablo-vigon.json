@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "juan-pablo-vigon",
+    "name": "Juan Pablo Vigón",
+    "short": "Vigón",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "tigres-uanl-leon-2026-10-20",
+        "date": "2026-10-20",
+        "team": "Tigres UANL",
+        "role": "bench"
+      }
+    ]
+  }
+}

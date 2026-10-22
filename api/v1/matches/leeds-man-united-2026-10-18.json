@@ -1,0 +1,661 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "leeds-man-united-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "14:00",
+    "competition": "Premier League",
+    "round": "Matchweek 7",
+    "status": "FT",
+    "home": {
+      "name": "Leeds",
+      "id": "leeds",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Man United",
+      "id": "man-united",
+      "crest": "assets/clubs/360.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Elland Road",
+      "city": "Leeds",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "daniel-farke",
+          "name": "Daniel Farke",
+          "short": "Farke",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "james-trafford",
+            "name": "James Trafford",
+            "short": "Trafford",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.1
+          },
+          {
+            "id": "james-justin",
+            "name": "James Justin",
+            "short": "Justin",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 6.6
+          },
+          {
+            "id": "nico-elvedi",
+            "name": "Nico Elvedi",
+            "short": "Elvedi",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "tarik-muharemovic",
+            "name": "Tarik Muharemovic",
+            "short": "Muharemovic",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7.4
+          },
+          {
+            "id": "jayden-bogle",
+            "name": "Jayden Bogle",
+            "short": "Bogle",
+            "position": "RB",
+            "photo": null,
+            "x": 27,
+            "y": 12,
+            "rating": 7.3
+          },
+          {
+            "id": "ethan-ampadu",
+            "name": "Ethan Ampadu",
+            "short": "Ampadu",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 38,
+            "rating": 6.3
+          },
+          {
+            "id": "ao-tanaka",
+            "name": "Ao Tanaka",
+            "short": "Tanaka",
+            "position": "CM",
+            "photo": null,
+            "x": 27,
+            "y": 64,
+            "rating": 7
+          },
+          {
+            "id": "gabriel-gudmundsson",
+            "name": "Gabriel Gudmundsson",
+            "short": "Gudmundsson",
+            "position": "LB",
+            "photo": null,
+            "x": 27,
+            "y": 88,
+            "rating": 6.4
+          },
+          {
+            "id": "anton-stach",
+            "name": "Anton Stach",
+            "short": "Stach",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 30,
+            "rating": 6.6
+          },
+          {
+            "id": "noah-okafor",
+            "name": "Noah Okafor",
+            "short": "Okafor",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 70,
+            "rating": 7.5
+          },
+          {
+            "id": "dominic-calvert-lewin",
+            "name": "Dominic Calvert-Lewin",
+            "short": "Calvert-Lewin",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "lukas-nmecha",
+            "name": "Lukas Nmecha",
+            "short": "Nmecha",
+            "position": "AM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "sean-longstaff",
+            "name": "Sean Longstaff",
+            "short": "Longstaff",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "brenden-aaronson",
+            "name": "Brenden Aaronson",
+            "short": "Aaronson",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "harry-wilson",
+            "name": "Harry Wilson",
+            "short": "Wilson",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jean-matteo-bahoya",
+            "name": "Jean-Mattéo Bahoya",
+            "short": "Bahoya",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "melvin-bard",
+            "name": "Melvin Bard",
+            "short": "Bard",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "michael-zetterer",
+            "name": "Michael Zetterer",
+            "short": "Zetterer",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ilia-gruev",
+            "name": "Ilia Gruev",
+            "short": "Gruev",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jaka-bijol",
+            "name": "Jaka Bijol",
+            "short": "Bijol",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "michael-carrick-leeds-man-united-2026-10-18",
+          "name": "Michael Carrick",
+          "short": "Carrick",
+          "position": "Coach",
+          "photo": "assets/photos/people/michael-carrick.jpg"
+        },
+        "starting": [
+          {
+            "id": "senne-lammens-leeds-man-united-2026-10-18",
+            "name": "Senne Lammens",
+            "short": "Lammens",
+            "position": "GK",
+            "photo": "assets/photos/people/senne-lammens.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "leny-yoro",
+            "name": "Leny Yoro",
+            "short": "Yoro",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "harry-maguire-leeds-man-united-2026-10-18",
+            "name": "Harry Maguire",
+            "short": "Maguire",
+            "position": "CB",
+            "photo": "assets/photos/people/harry-maguire.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 7.1
+          },
+          {
+            "id": "lisandro-martinez",
+            "name": "Lisandro Martínez",
+            "short": "Martínez",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.5
+          },
+          {
+            "id": "diogo-dalot-leeds-man-united-2026-10-18",
+            "name": "Diogo Dalot",
+            "short": "Dalot",
+            "position": "LB",
+            "photo": "assets/photos/people/diogo-dalot.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "andrey-santos-leeds-man-united-2026-10-18",
+            "name": "Andrey Santos",
+            "short": "Santos",
+            "position": "DM",
+            "photo": "assets/photos/people/andrey-santos.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 7
+          },
+          {
+            "id": "carlos-baleba-leeds-man-united-2026-10-18",
+            "name": "Carlos Baleba",
+            "short": "Baleba",
+            "position": "DM",
+            "photo": "assets/photos/people/carlos-baleba.jpg",
+            "x": 73,
+            "y": 30,
+            "rating": 6.5
+          },
+          {
+            "id": "amad-diallo-leeds-man-united-2026-10-18",
+            "name": "Amad Diallo",
+            "short": "Diallo",
+            "position": "RW",
+            "photo": "assets/photos/people/amad-diallo.jpg",
+            "x": 63,
+            "y": 77,
+            "rating": 7.2
+          },
+          {
+            "id": "youri-tielemans-leeds-man-united-2026-10-18",
+            "name": "Youri Tielemans",
+            "short": "Tielemans",
+            "position": "AM",
+            "photo": "assets/photos/people/youri-tielemans.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "bruno-fernandes-leeds-man-united-2026-10-18",
+            "name": "Bruno Fernandes",
+            "short": "Fernandes",
+            "position": "LW",
+            "photo": "assets/photos/people/bruno-fernandes.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 7
+          },
+          {
+            "id": "bryan-mbeumo-leeds-man-united-2026-10-18",
+            "name": "Bryan Mbeumo",
+            "short": "Mbeumo",
+            "position": "ST",
+            "photo": "assets/photos/people/bryan-mbeumo.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 7.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "noussair-mazraoui-leeds-man-united-2026-10-18",
+            "name": "Noussair Mazraoui",
+            "short": "Mazraoui",
+            "position": "CB",
+            "photo": "assets/photos/people/noussair-mazraoui.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "mason-mount-leeds-man-united-2026-10-18",
+            "name": "Mason Mount",
+            "short": "Mount",
+            "position": "DM",
+            "photo": "assets/photos/people/mason-mount.jpg",
+            "rating": 6.2
+          },
+          {
+            "id": "matheus-cunha-leeds-man-united-2026-10-18",
+            "name": "Matheus Cunha",
+            "short": "Cunha",
+            "position": "AM",
+            "photo": "assets/photos/people/matheus-cunha.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "joshua-zirkzee-leeds-man-united-2026-10-18",
+            "name": "Joshua Zirkzee",
+            "short": "Zirkzee",
+            "position": "CM",
+            "photo": "assets/photos/people/joshua-zirkzee.jpg",
+            "rating": null
+          },
+          {
+            "id": "harry-amass-leeds-man-united-2026-10-18",
+            "name": "Harry Amass",
+            "short": "Amass",
+            "position": "CM",
+            "photo": "assets/photos/people/harry-amass.jpg",
+            "rating": null
+          },
+          {
+            "id": "karl-darlow-leeds-man-united-2026-10-18",
+            "name": "Karl Darlow",
+            "short": "Darlow",
+            "position": "CM",
+            "photo": "assets/photos/people/karl-darlow.jpg",
+            "rating": null
+          },
+          {
+            "id": "matthijs-de-ligt-leeds-man-united-2026-10-18",
+            "name": "Matthijs de Ligt",
+            "short": "Ligt",
+            "position": "CM",
+            "photo": "assets/photos/people/matthijs-de-ligt.jpg",
+            "rating": null
+          },
+          {
+            "id": "shea-lacey-leeds-man-united-2026-10-18",
+            "name": "Shea Lacey",
+            "short": "Lacey",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marcus-rashford",
+            "name": "Marcus Rashford",
+            "short": "Rashford",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 17,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "bruno-fernandes-leeds-man-united-2026-10-18",
+          "name": "Bruno Fernandes",
+          "short": "Fernandes",
+          "position": "LW",
+          "photo": "assets/photos/people/bruno-fernandes.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 19,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "gabriel-gudmundsson",
+          "name": "Gabriel Gudmundsson",
+          "short": "Gudmundsson",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 35,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "bryan-mbeumo-leeds-man-united-2026-10-18",
+          "name": "Bryan Mbeumo",
+          "short": "Mbeumo",
+          "position": "ST",
+          "photo": "assets/photos/people/bryan-mbeumo.jpg"
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "youri-tielemans-leeds-man-united-2026-10-18",
+          "name": "Youri Tielemans",
+          "short": "Tielemans",
+          "position": "AM",
+          "photo": "assets/photos/people/youri-tielemans.jpg"
+        },
+        "goalType": "build",
+        "description": "Bryan Mbeumo combined with Youri Tielemans and guided a low left-footed finish from Tielemans' cross past James Trafford."
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "noussair-mazraoui-leeds-man-united-2026-10-18",
+          "name": "Noussair Mazraoui",
+          "short": "Mazraoui",
+          "position": "CB",
+          "photo": "assets/photos/people/noussair-mazraoui.jpg"
+        },
+        "replaced": {
+          "id": "lisandro-martinez",
+          "name": "Lisandro Martínez",
+          "short": "Martínez",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 51,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "dominic-calvert-lewin",
+          "name": "Dominic Calvert-Lewin",
+          "short": "Calvert-Lewin",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "tarik-muharemovic",
+          "name": "Tarik Muharemovic",
+          "short": "Muharemovic",
+          "position": "CB",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Dominic Calvert-Lewin reacted to Tarik Muharemovic's knockdown from a poorly defended corner and beat Senne Lammens from close range."
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "lukas-nmecha",
+          "name": "Lukas Nmecha",
+          "short": "Nmecha",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "noah-okafor",
+          "name": "Noah Okafor",
+          "short": "Okafor",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mason-mount-leeds-man-united-2026-10-18",
+          "name": "Mason Mount",
+          "short": "Mount",
+          "position": "DM",
+          "photo": "assets/photos/people/mason-mount.jpg"
+        },
+        "replaced": {
+          "id": "carlos-baleba-leeds-man-united-2026-10-18",
+          "name": "Carlos Baleba",
+          "short": "Baleba",
+          "position": "DM",
+          "photo": "assets/photos/people/carlos-baleba.jpg"
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "sean-longstaff",
+          "name": "Sean Longstaff",
+          "short": "Longstaff",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ao-tanaka",
+          "name": "Ao Tanaka",
+          "short": "Tanaka",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "matheus-cunha-leeds-man-united-2026-10-18",
+          "name": "Matheus Cunha",
+          "short": "Cunha",
+          "position": "AM",
+          "photo": "assets/photos/people/matheus-cunha.jpg"
+        },
+        "replaced": {
+          "id": "youri-tielemans-leeds-man-united-2026-10-18",
+          "name": "Youri Tielemans",
+          "short": "Tielemans",
+          "position": "AM",
+          "photo": "assets/photos/people/youri-tielemans.jpg"
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "ethan-ampadu",
+          "name": "Ethan Ampadu",
+          "short": "Ampadu",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "andrey-santos-leeds-man-united-2026-10-18",
+          "name": "Andrey Santos",
+          "short": "Santos",
+          "position": "DM",
+          "photo": "assets/photos/people/andrey-santos.jpg"
+        },
+        "detail": "Foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        12,
+        13
+      ],
+      "onTarget": [
+        5,
+        3
+      ],
+      "corners": [
+        2,
+        3
+      ],
+      "fouls": [
+        16,
+        5
+      ],
+      "possession": 61
+    },
+    "attendance": 36983,
+    "referee": {
+      "name": "Darren England",
+      "country": "England"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879260",
+      "https://www.espn.com/soccer/match/_/gameId/401879260",
+      "https://www.skysports.com/football/a-vs-b/report/559509",
+      "https://www.skysports.com/football/a-vs-b/teams/559509",
+      "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

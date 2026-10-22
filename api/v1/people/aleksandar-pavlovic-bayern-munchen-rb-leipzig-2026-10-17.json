@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "aleksandar-pavlovic-bayern-munchen-rb-leipzig-2026-10-17",
+    "name": "Aleksandar Pavlovic",
+    "short": "Pavlovic",
+    "position": "DM",
+    "photo": "assets/photos/people/aleksandar-pavlovic.jpg",
+    "matches": [
+      {
+        "match": "bayern-munchen-rb-leipzig-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Bayern München",
+        "role": "starter"
+      }
+    ]
+  }
+}

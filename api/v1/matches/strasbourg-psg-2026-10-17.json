@@ -1,0 +1,764 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "strasbourg-psg-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "17:15",
+    "competition": "Ligue 1",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Strasbourg",
+      "id": "strasbourg",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "PSG",
+      "id": "psg",
+      "crest": "assets/clubs/160.png",
+      "country": "FR"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stade de la Meinau",
+      "city": "Strasbourg",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "hugo-oliveira",
+          "name": "Hugo Oliveira",
+          "short": "Oliveira",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "filip-jrgensen",
+            "name": "Filip Jørgensen",
+            "short": "Jørgensen",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "oso",
+            "name": "Oso",
+            "short": "Oso",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.2
+          },
+          {
+            "id": "karim-coulibaly",
+            "name": "Karim Coulibaly",
+            "short": "Coulibaly",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7
+          },
+          {
+            "id": "jeyland-mitchell",
+            "name": "Jeyland Mitchell",
+            "short": "Mitchell",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.8
+          },
+          {
+            "id": "genesis-antwi",
+            "name": "Genesis Antwi",
+            "short": "Antwi",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "pape-diop",
+            "name": "Pape Diop",
+            "short": "Diop",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 7.1
+          },
+          {
+            "id": "dario-essugo",
+            "name": "Dário Essugo",
+            "short": "Essugo",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.9
+          },
+          {
+            "id": "fabio-balde",
+            "name": "Fabio Baldé",
+            "short": "Uri Baldé",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 7.3
+          },
+          {
+            "id": "giovanni-reyna",
+            "name": "Giovanni Reyna",
+            "short": "Reyna",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "gessime-yassine",
+            "name": "Gessime Yassine",
+            "short": "Yassine",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.4
+          },
+          {
+            "id": "conrad-harder",
+            "name": "Conrad Harder",
+            "short": "Harder",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "samuel-amo-ameyaw",
+            "name": "Samuel Amo-Ameyaw",
+            "short": "Amo-Ameyaw",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "samir-el-mourabet",
+            "name": "Samir El Mourabet",
+            "short": "Mourabet",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "yaya-dieme",
+            "name": "Yaya Diémé",
+            "short": "Diémé",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "jacobo-ortega-conde",
+            "name": "Jacobo Ortega Conde",
+            "short": "Conde",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "diogo-sousa",
+            "name": "Diogo Sousa",
+            "short": "Sousa",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lucas-hgsberg",
+            "name": "Lucas Høgsberg",
+            "short": "Høgsberg",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "yoann-becker",
+            "name": "Yoann Becker",
+            "short": "Becker",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tyrese-noubissie",
+            "name": "Tyrese Noubissie",
+            "short": "Noubissie",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "milosz-piekutowski",
+            "name": "Milosz Piekutowski",
+            "short": "Piekutowski",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "luis-enrique-strasbourg-psg-2026-10-17",
+          "name": "Luis Enrique",
+          "short": "Enrique",
+          "position": "Coach",
+          "photo": "assets/photos/people/luis-enrique.jpg"
+        },
+        "starting": [
+          {
+            "id": "matvei-safonov",
+            "name": "Matvei Safonov",
+            "short": "Safonov",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "lucas-digne-strasbourg-psg-2026-10-17",
+            "name": "Lucas Digne",
+            "short": "Digne",
+            "position": "LB",
+            "photo": "assets/photos/people/lucas-digne.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "lucas-hernandez-strasbourg-psg-2026-10-17",
+            "name": "Lucas Hernández",
+            "short": "Hernández",
+            "position": "CB",
+            "photo": "assets/photos/people/lucas-hernandez.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 7.6
+          },
+          {
+            "id": "illia-zabarnyi-strasbourg-psg-2026-10-17",
+            "name": "Illia Zabarnyi",
+            "short": "Zabarnyi",
+            "position": "CB",
+            "photo": "assets/photos/people/illia-zabarnyi.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 8.4
+          },
+          {
+            "id": "warren-zaire-emery-strasbourg-psg-2026-10-17",
+            "name": "Warren Zaïre-Emery",
+            "short": "Zaïre-Emery",
+            "position": "RB",
+            "photo": "assets/photos/people/warren-zaire-emery.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 7.4
+          },
+          {
+            "id": "lucas-beraldo-strasbourg-psg-2026-10-17",
+            "name": "Lucas Beraldo",
+            "short": "Beraldo",
+            "position": "CM",
+            "photo": "assets/photos/people/lucas-beraldo.jpg",
+            "x": 68,
+            "y": 77,
+            "rating": 7.1
+          },
+          {
+            "id": "dro-fernandez-strasbourg-psg-2026-10-17",
+            "name": "Dro Fernández",
+            "short": "Fernández",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "joao-neves-strasbourg-psg-2026-10-17",
+            "name": "João Neves",
+            "short": "Neves",
+            "position": "CM",
+            "photo": "assets/photos/people/joao-neves.jpg",
+            "x": 68,
+            "y": 22,
+            "rating": 6.7
+          },
+          {
+            "id": "khvicha-kvaratskhelia-strasbourg-psg-2026-10-17",
+            "name": "Khvicha Kvaratskhelia",
+            "short": "Kvaratskhelia",
+            "position": "LW",
+            "photo": "assets/photos/people/khvicha-kvaratskhelia.jpg",
+            "x": 54,
+            "y": 77,
+            "rating": 6.8
+          },
+          {
+            "id": "ferran-torres-strasbourg-psg-2026-10-17",
+            "name": "Ferran Torres",
+            "short": "Torres",
+            "position": "ST",
+            "photo": "assets/photos/people/ferran-torres.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 7.8
+          },
+          {
+            "id": "maghnes-akliouche-strasbourg-psg-2026-10-17",
+            "name": "Maghnes Akliouche",
+            "short": "Akliouche",
+            "position": "RW",
+            "photo": "assets/photos/people/maghnes-akliouche.jpg",
+            "x": 54,
+            "y": 22,
+            "rating": 6.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "nuno-mendes",
+            "name": "Nuno Mendes",
+            "short": "Mendes",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "desire-doue-strasbourg-psg-2026-10-17",
+            "name": "Désiré Doué",
+            "short": "Doué",
+            "position": "CM",
+            "photo": "assets/photos/people/desire-doue.jpg",
+            "rating": 8
+          },
+          {
+            "id": "vitinha-strasbourg-psg-2026-10-17",
+            "name": "Vitinha",
+            "short": "Vitinha",
+            "position": "CM",
+            "photo": "assets/photos/people/vitinha.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "achraf-hakimi-strasbourg-psg-2026-10-17",
+            "name": "Achraf Hakimi",
+            "short": "Hakimi",
+            "position": "CM",
+            "photo": "assets/photos/people/achraf-hakimi.jpg",
+            "rating": 6.3
+          },
+          {
+            "id": "ousmane-dembele-strasbourg-psg-2026-10-17",
+            "name": "Ousmane Dembélé",
+            "short": "Dembélé",
+            "position": "LW",
+            "photo": "assets/photos/people/ousmane-dembele.jpg",
+            "rating": 8.4
+          },
+          {
+            "id": "mika-godts-strasbourg-psg-2026-10-17",
+            "name": "Mika Godts",
+            "short": "Godts",
+            "position": "CM",
+            "photo": "assets/photos/people/mika-godts.jpg",
+            "rating": null
+          },
+          {
+            "id": "fabian-ruiz-strasbourg-psg-2026-10-17",
+            "name": "Fabián Ruiz",
+            "short": "Ruiz",
+            "position": "CM",
+            "photo": "assets/photos/people/fabian-ruiz.jpg",
+            "rating": null
+          },
+          {
+            "id": "lucas-chevalier-strasbourg-psg-2026-10-17",
+            "name": "Lucas Chevalier",
+            "short": "Chevalier",
+            "position": "CM",
+            "photo": "assets/photos/people/lucas-chevalier.jpg",
+            "rating": null
+          },
+          {
+            "id": "willian-pacho-strasbourg-psg-2026-10-17",
+            "name": "Willian Pacho",
+            "short": "Pacho",
+            "position": "CM",
+            "photo": "assets/photos/people/willian-pacho.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 17,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "giovanni-reyna",
+          "name": "Giovanni Reyna",
+          "short": "Reyna",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "gessime-yassine",
+          "name": "Gessime Yassine",
+          "short": "Yassine",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Shortly after a spell of Strasbourg corners, Giovanni Reyna received from Gessime Yassine on the right side of the box and finished left-footed into the bottom right corner."
+      },
+      {
+        "minute": 53,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "nuno-mendes",
+          "name": "Nuno Mendes",
+          "short": "Mendes",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lucas-digne-strasbourg-psg-2026-10-17",
+          "name": "Lucas Digne",
+          "short": "Digne",
+          "position": "LB",
+          "photo": "assets/photos/people/lucas-digne.jpg"
+        }
+      },
+      {
+        "minute": 54,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "desire-doue-strasbourg-psg-2026-10-17",
+          "name": "Désiré Doué",
+          "short": "Doué",
+          "position": "CM",
+          "photo": "assets/photos/people/desire-doue.jpg"
+        },
+        "replaced": {
+          "id": "dro-fernandez-strasbourg-psg-2026-10-17",
+          "name": "Dro Fernández",
+          "short": "Fernández",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 54,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "vitinha-strasbourg-psg-2026-10-17",
+          "name": "Vitinha",
+          "short": "Vitinha",
+          "position": "CM",
+          "photo": "assets/photos/people/vitinha.jpg"
+        },
+        "replaced": {
+          "id": "lucas-beraldo-strasbourg-psg-2026-10-17",
+          "name": "Lucas Beraldo",
+          "short": "Beraldo",
+          "position": "CM",
+          "photo": "assets/photos/people/lucas-beraldo.jpg"
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "samuel-amo-ameyaw",
+          "name": "Samuel Amo-Ameyaw",
+          "short": "Amo-Ameyaw",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "fabio-balde",
+          "name": "Fabio Baldé",
+          "short": "Uri Baldé",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "achraf-hakimi-strasbourg-psg-2026-10-17",
+          "name": "Achraf Hakimi",
+          "short": "Hakimi",
+          "position": "CM",
+          "photo": "assets/photos/people/achraf-hakimi.jpg"
+        },
+        "replaced": {
+          "id": "joao-neves-strasbourg-psg-2026-10-17",
+          "name": "João Neves",
+          "short": "Neves",
+          "position": "CM",
+          "photo": "assets/photos/people/joao-neves.jpg"
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ousmane-dembele-strasbourg-psg-2026-10-17",
+          "name": "Ousmane Dembélé",
+          "short": "Dembélé",
+          "position": "LW",
+          "photo": "assets/photos/people/ousmane-dembele.jpg"
+        },
+        "replaced": {
+          "id": "khvicha-kvaratskhelia-strasbourg-psg-2026-10-17",
+          "name": "Khvicha Kvaratskhelia",
+          "short": "Kvaratskhelia",
+          "position": "LW",
+          "photo": "assets/photos/people/khvicha-kvaratskhelia.jpg"
+        }
+      },
+      {
+        "minute": 70,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "pape-diop",
+          "name": "Pape Diop",
+          "short": "Diop",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Penalty awarded to PSG after VAR review for a handball by Pape Diop; Ousmane Dembélé missed it at 72'."
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "samir-el-mourabet",
+          "name": "Samir El Mourabet",
+          "short": "Mourabet",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "pape-diop",
+          "name": "Pape Diop",
+          "short": "Diop",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "conrad-harder",
+          "name": "Conrad Harder",
+          "short": "Harder",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 77,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "illia-zabarnyi-strasbourg-psg-2026-10-17",
+          "name": "Illia Zabarnyi",
+          "short": "Zabarnyi",
+          "position": "CB",
+          "photo": "assets/photos/people/illia-zabarnyi.jpg"
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "ousmane-dembele-strasbourg-psg-2026-10-17",
+          "name": "Ousmane Dembélé",
+          "short": "Dembélé",
+          "position": "LW",
+          "photo": "assets/photos/people/ousmane-dembele.jpg"
+        },
+        "goalType": "set",
+        "description": "From a PSG corner, Ousmane Dembélé's delivery found Illia Zabarnyi, who equalised with a right-footed shot from the centre of the box into the bottom left corner."
+      },
+      {
+        "minute": 78,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "dario-essugo",
+          "name": "Dário Essugo",
+          "short": "Essugo",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "yaya-dieme",
+          "name": "Yaya Diémé",
+          "short": "Diémé",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gessime-yassine",
+          "name": "Gessime Yassine",
+          "short": "Yassine",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jacobo-ortega-conde",
+          "name": "Jacobo Ortega Conde",
+          "short": "Conde",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "conrad-harder",
+          "name": "Conrad Harder",
+          "short": "Harder",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "ousmane-dembele-strasbourg-psg-2026-10-17",
+          "name": "Ousmane Dembélé",
+          "short": "Dembélé",
+          "position": "LW",
+          "photo": "assets/photos/people/ousmane-dembele.jpg"
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Ousmane Dembélé, who had missed a penalty at 72', put PSG ahead with a left-footed shot from the centre of the box into the bottom left corner."
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "desire-doue-strasbourg-psg-2026-10-17",
+          "name": "Désiré Doué",
+          "short": "Doué",
+          "position": "CM",
+          "photo": "assets/photos/people/desire-doue.jpg"
+        },
+        "scoreAfter": "1 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "ferran-torres-strasbourg-psg-2026-10-17",
+          "name": "Ferran Torres",
+          "short": "Torres",
+          "position": "ST",
+          "photo": "assets/photos/people/ferran-torres.jpg"
+        },
+        "goalType": "build",
+        "description": "In stoppage time Ferran Torres set up Désiré Doué, who sealed the win with a right-footed shot from the centre of the box into the bottom left corner."
+      }
+    ],
+    "stats": {
+      "shots": [
+        16,
+        18
+      ],
+      "onTarget": [
+        8,
+        7
+      ],
+      "corners": [
+        3,
+        6
+      ],
+      "fouls": [
+        12,
+        6
+      ],
+      "possession": 27
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Willy Delajod",
+      "country": "France"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401876432",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876432",
+      "https://ligue1.com/fr/articles/l1_article_5927-",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+      "https://www.psg.fr/en/content/results-from-matchday-7-of-ligue-1-2026-2027-rc-strasbourg-alsace-paris-saint-germain"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

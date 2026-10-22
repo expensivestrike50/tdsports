@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "niccolo-pisilli-as-roma-genoa-2026-10-17",
+    "name": "Niccolò Pisilli",
+    "short": "Pisilli",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "as-roma-genoa-2026-10-17",
+        "date": "2026-10-17",
+        "team": "AS Roma",
+        "role": "starter"
+      }
+    ]
+  }
+}

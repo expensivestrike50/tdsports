@@ -1,0 +1,24 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "adama-camara",
+    "name": "Adama Camara",
+    "short": "Camara",
+    "position": "RB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "paris-fc-rennes-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Paris FC",
+        "role": "starter"
+      },
+      {
+        "match": "paris-fc-rennes-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Rennes",
+        "role": "bench"
+      }
+    ]
+  }
+}

@@ -1,0 +1,815 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "spurs-coventry-2026-10-19",
+    "date": "2026-10-19",
+    "kickoff": "20:00",
+    "competition": "Premier League",
+    "round": "Matchweek 7",
+    "status": "FT",
+    "home": {
+      "name": "Spurs",
+      "id": "spurs",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Coventry",
+      "id": "coventry",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+      "country": "GB"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Tottenham Hotspur Stadium",
+      "city": "London",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-1-4-2",
+        "coach": {
+          "id": "roberto-de-zerbi",
+          "name": "Roberto De Zerbi",
+          "short": "Zerbi",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "antonin-kinsky",
+            "name": "Antonín Kinsky",
+            "short": "Kinsky",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "jan-paul-van-hecke",
+            "name": "Jan Paul van Hecke",
+            "short": "van Hecke",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 6.4
+          },
+          {
+            "id": "tosin-adarabioyo",
+            "name": "Tosin Adarabioyo",
+            "short": "Adarabioyo",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "micky-van-de-ven",
+            "name": "Micky van de Ven",
+            "short": "van de Ven",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 6.6
+          },
+          {
+            "id": "sandro-tonali",
+            "name": "Sandro Tonali",
+            "short": "Tonali",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "mohammed-kudus",
+            "name": "Mohammed Kudus",
+            "short": "Kudus",
+            "position": "RB",
+            "photo": null,
+            "x": 37,
+            "y": 12,
+            "rating": 8.1
+          },
+          {
+            "id": "archie-gray",
+            "name": "Archie Gray",
+            "short": "Gray",
+            "position": "CM",
+            "photo": null,
+            "x": 37,
+            "y": 38,
+            "rating": 7.3
+          },
+          {
+            "id": "james-maddison",
+            "name": "James Maddison",
+            "short": "Maddison",
+            "position": "CM",
+            "photo": null,
+            "x": 37,
+            "y": 64,
+            "rating": 8.4
+          },
+          {
+            "id": "andy-robertson",
+            "name": "Andy Robertson",
+            "short": "Robertson",
+            "position": "LB",
+            "photo": null,
+            "x": 37,
+            "y": 88,
+            "rating": 7.6
+          },
+          {
+            "id": "dominic-solanke",
+            "name": "Dominic Solanke",
+            "short": "Solanke",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 7.3
+          },
+          {
+            "id": "omar-marmoush",
+            "name": "Omar Marmoush",
+            "short": "Marmoush",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 8
+          }
+        ],
+        "bench": [
+          {
+            "id": "ben-davies",
+            "name": "Ben Davies",
+            "short": "Davies",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "conor-gallagher",
+            "name": "Conor Gallagher",
+            "short": "Gallagher",
+            "position": "CM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "mateus-fernandes",
+            "name": "Mateus Fernandes",
+            "short": "Fernandes",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "mathys-tel",
+            "name": "Mathys Tel",
+            "short": "Tel",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "dejan-kulusevski",
+            "name": "Dejan Kulusevski",
+            "short": "Kulusevski",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "martin-dubravka",
+            "name": "Martin Dúbravka",
+            "short": "Dúbravka",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "callum-olusesi",
+            "name": "Callum Olusesi",
+            "short": "Olusesi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marcos-senesi",
+            "name": "Marcos Senesi",
+            "short": "Senesi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-williams-barnett",
+            "name": "Luca Williams-Barnett",
+            "short": "Williams-Barnett",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "frank-lampard",
+          "name": "Frank Lampard",
+          "short": "Lampard",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "carl-rushworth",
+            "name": "Carl Rushworth",
+            "short": "Rushworth",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "milan-van-ewijk",
+            "name": "Milan van Ewijk",
+            "short": "van Ewijk",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "bobby-thomas",
+            "name": "Bobby Thomas",
+            "short": "Thomas",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.2
+          },
+          {
+            "id": "ethan-pinnock",
+            "name": "Ethan Pinnock",
+            "short": "Pinnock",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.8
+          },
+          {
+            "id": "jay-da-silva",
+            "name": "Jay Da Silva",
+            "short": "Da Silva",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.7
+          },
+          {
+            "id": "caleb-yirenkyi",
+            "name": "Caleb Yirenkyi",
+            "short": "Yirenkyi",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 6.6
+          },
+          {
+            "id": "matt-grimes",
+            "name": "Matt Grimes",
+            "short": "Grimes",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 6.5
+          },
+          {
+            "id": "tatsuhiro-sakamoto",
+            "name": "Tatsuhiro Sakamoto",
+            "short": "Sakamoto",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.6
+          },
+          {
+            "id": "jack-rudoni",
+            "name": "Jack Rudoni",
+            "short": "Rudoni",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.7
+          },
+          {
+            "id": "brandon-thomas-asante",
+            "name": "Brandon Thomas-Asante",
+            "short": "Thomas-Asante",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 7.7
+          },
+          {
+            "id": "sidiki-cherif",
+            "name": "Sidiki Cherif",
+            "short": "Cherif",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.2
+          }
+        ],
+        "bench": [
+          {
+            "id": "taiwo-awoniyi",
+            "name": "Taiwo Awoniyi",
+            "short": "Awoniyi",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "frank-onyeka",
+            "name": "Frank Onyeka",
+            "short": "Onyeka",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "ephron-mason-clark",
+            "name": "Ephron Mason-Clark",
+            "short": "Mason-Clark",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "gustavo-hamer",
+            "name": "Gustavo Hamer",
+            "short": "Hamer",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "kaine-kesler-hayden",
+            "name": "Kaine Kesler Hayden",
+            "short": "Hayden",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "ellis-simms",
+            "name": "Ellis Simms",
+            "short": "Simms",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "victor-torp",
+            "name": "Victor Torp",
+            "short": "Torp",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "stephen-mfuni",
+            "name": "Stephen Mfuni",
+            "short": "Mfuni",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "daniel-bentley",
+            "name": "Daniel Bentley",
+            "short": "Bentley",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 14,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "james-maddison",
+          "name": "James Maddison",
+          "short": "Maddison",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "mohammed-kudus",
+          "name": "Mohammed Kudus",
+          "short": "Kudus",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "James Maddison, on his first competitive Spurs start since May 2025, curled a right-footed shot from outside the box into the top left corner after a pass from Mohammed Kudus."
+      },
+      {
+        "minute": 20,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "caleb-yirenkyi",
+          "name": "Caleb Yirenkyi",
+          "short": "Yirenkyi",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 22,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "dominic-solanke",
+          "name": "Dominic Solanke",
+          "short": "Solanke",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "jay-da-silva",
+          "name": "Jay Da Silva",
+          "short": "Da Silva",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 49,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "jack-rudoni",
+          "name": "Jack Rudoni",
+          "short": "Rudoni",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "brandon-thomas-asante",
+          "name": "Brandon Thomas-Asante",
+          "short": "Thomas-Asante",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Jack Rudoni powered his way into the Tottenham penalty area and forced the equaliser home from the left side of the six-yard box, set up by Brandon Thomas-Asante."
+      },
+      {
+        "minute": 58,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "omar-marmoush",
+          "name": "Omar Marmoush",
+          "short": "Marmoush",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "andy-robertson",
+          "name": "Andy Robertson",
+          "short": "Robertson",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Omar Marmoush restored the lead with his first goal for the club, a right-footed strike from outside the box into the bottom right corner after Andy Robertson's pass. VAR quickly cleared a possible elbow on Milan van Ewijk in the build-up."
+      },
+      {
+        "minute": 58,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": "omar-marmoush",
+          "name": "Omar Marmoush",
+          "short": "Marmoush",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Goal checked for a possible elbow on Milan van Ewijk in the build-up; VAR cleared it and the goal stood."
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "taiwo-awoniyi",
+          "name": "Taiwo Awoniyi",
+          "short": "Awoniyi",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sidiki-cherif",
+          "name": "Sidiki Cherif",
+          "short": "Cherif",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "frank-onyeka",
+          "name": "Frank Onyeka",
+          "short": "Onyeka",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "caleb-yirenkyi",
+          "name": "Caleb Yirenkyi",
+          "short": "Yirenkyi",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 64,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "jack-rudoni",
+          "name": "Jack Rudoni",
+          "short": "Rudoni",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ben-davies",
+          "name": "Ben Davies",
+          "short": "Davies",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "andy-robertson",
+          "name": "Andy Robertson",
+          "short": "Robertson",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "conor-gallagher",
+          "name": "Conor Gallagher",
+          "short": "Gallagher",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "james-maddison",
+          "name": "James Maddison",
+          "short": "Maddison",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mateus-fernandes",
+          "name": "Mateus Fernandes",
+          "short": "Fernandes",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tosin-adarabioyo",
+          "name": "Tosin Adarabioyo",
+          "short": "Adarabioyo",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ephron-mason-clark",
+          "name": "Ephron Mason-Clark",
+          "short": "Mason-Clark",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "brandon-thomas-asante",
+          "name": "Brandon Thomas-Asante",
+          "short": "Thomas-Asante",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 78,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gustavo-hamer",
+          "name": "Gustavo Hamer",
+          "short": "Hamer",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tatsuhiro-sakamoto",
+          "name": "Tatsuhiro Sakamoto",
+          "short": "Sakamoto",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mathys-tel",
+          "name": "Mathys Tel",
+          "short": "Tel",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "omar-marmoush",
+          "name": "Omar Marmoush",
+          "short": "Marmoush",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "dejan-kulusevski",
+          "name": "Dejan Kulusevski",
+          "short": "Kulusevski",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mohammed-kudus",
+          "name": "Mohammed Kudus",
+          "short": "Kudus",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "kaine-kesler-hayden",
+          "name": "Kaine Kesler Hayden",
+          "short": "Hayden",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jack-rudoni",
+          "name": "Jack Rudoni",
+          "short": "Rudoni",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "ben-davies",
+          "name": "Ben Davies",
+          "short": "Davies",
+          "position": "LB",
+          "photo": null
+        },
+        "scoreAfter": "3 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "dominic-solanke",
+          "name": "Dominic Solanke",
+          "short": "Solanke",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Substitute Ben Davies sealed Spurs' first league win of the season deep in stoppage time with a surprise strike from outside the box into the bottom left corner, assisted by Dominic Solanke."
+      }
+    ],
+    "stats": {
+      "shots": [
+        16,
+        12
+      ],
+      "onTarget": [
+        5,
+        1
+      ],
+      "corners": [
+        4,
+        4
+      ],
+      "fouls": [
+        15,
+        14
+      ],
+      "possession": 65
+    },
+    "attendance": 60913,
+    "referee": {
+      "name": "Andy Madley",
+      "country": "England"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879257",
+      "https://www.espn.com/soccer/match/_/gameId/401879257",
+      "https://www.skysports.com/football/a-vs-b/report/559513",
+      "https://www.skysports.com/football/a-vs-b/teams/559513",
+      "https://en.wikipedia.org/wiki/2026–27_Premier_League"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

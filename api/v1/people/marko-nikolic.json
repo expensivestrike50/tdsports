@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "marko-nikolic",
+    "name": "Marko Nikolić",
+    "short": "Nikolić",
+    "position": "Coach",
+    "photo": "assets/photos/people/marko-nikolic.jpg",
+    "matches": [
+      {
+        "match": "city-aek",
+        "date": "2026-10-20",
+        "team": "AEK Athens",
+        "role": "coach"
+      }
+    ]
+  }
+}

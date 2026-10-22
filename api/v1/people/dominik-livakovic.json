@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "dominik-livakovic",
+    "name": "Dominik Livaković",
+    "short": "Livaković",
+    "position": "CM",
+    "photo": "assets/photos/people/dominik-livakovic.jpg",
+    "matches": [
+      {
+        "match": "psg-barcelona",
+        "date": "2026-10-20",
+        "team": "Barcelona",
+        "role": "bench"
+      }
+    ]
+  }
+}

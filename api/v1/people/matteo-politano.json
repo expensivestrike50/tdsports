@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "matteo-politano",
+    "name": "Matteo Politano",
+    "short": "Politano",
+    "position": "RW",
+    "photo": null,
+    "matches": [
+      {
+        "match": "napoli-bodo",
+        "date": "2026-10-20",
+        "team": "Napoli",
+        "role": "starter"
+      }
+    ]
+  }
+}

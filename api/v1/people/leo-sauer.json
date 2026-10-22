@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "leo-sauer",
+    "name": "Leo Sauer",
+    "short": "Sauer",
+    "position": "LW",
+    "photo": null,
+    "matches": [
+      {
+        "match": "hamburg-vfb-stuttgart-2026-10-17",
+        "date": "2026-10-17",
+        "team": "VfB Stuttgart",
+        "role": "bench"
+      }
+    ]
+  }
+}

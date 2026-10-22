@@ -1,0 +1,697 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "union-berlin-borussia-dortmund-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "15:30",
+    "competition": "Bundesliga",
+    "round": "Matchday 6",
+    "status": "FT",
+    "home": {
+      "name": "Union Berlin",
+      "id": "union-berlin",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+      "country": "DE"
+    },
+    "away": {
+      "name": "Borussia Dortmund",
+      "id": "borussia-dortmund",
+      "crest": "assets/clubs/124.png",
+      "country": "DE"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stadion An der Alten Försterei",
+      "city": "Berlin",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "mauro-lustrinelli",
+          "name": "Mauro Lustrinelli",
+          "short": "Lustrinelli",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "frederik-ronnow",
+            "name": "Frederik Ronnow",
+            "short": "Ronnow",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "tom-rothe",
+            "name": "Tom Rothe",
+            "short": "Rothe",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.3
+          },
+          {
+            "id": "felix-uduokhai",
+            "name": "Felix Uduokhai",
+            "short": "Uduokhai",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7.4
+          },
+          {
+            "id": "zeno-van-den-bosch",
+            "name": "Zeno Van Den Bosch",
+            "short": "Van Den Bosch",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.6
+          },
+          {
+            "id": "janik-haberer",
+            "name": "Janik Haberer",
+            "short": "Haberer",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "rani-khedira",
+            "name": "Rani Khedira",
+            "short": "Khedira",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.6
+          },
+          {
+            "id": "andras-schafer",
+            "name": "András Schäfer",
+            "short": "Schäfer",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.5
+          },
+          {
+            "id": "kastriot-imeri",
+            "name": "Kastriot Imeri",
+            "short": "Imeri",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.9
+          },
+          {
+            "id": "michel-aebischer",
+            "name": "Michel Aebischer",
+            "short": "Aebischer",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "jeong-woo-yeong",
+            "name": "Jeong Woo-Yeong",
+            "short": "Jeong",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 6.9
+          },
+          {
+            "id": "tim-skarke",
+            "name": "Tim Skarke",
+            "short": "Skarke",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "emmanuel-latte-lath",
+            "name": "Emmanuel Latte Lath",
+            "short": "Lath",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "mekhi-anthony-gray",
+            "name": "Mekhi Anthony Gray",
+            "short": "Gray",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "christopher-trimmel",
+            "name": "Christopher Trimmel",
+            "short": "Trimmel",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "aljoscha-kemlein",
+            "name": "Aljoscha Kemlein",
+            "short": "Kemlein",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "linus-guther",
+            "name": "Linus Güther",
+            "short": "Güther",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "leopold-querfeld",
+            "name": "Leopold Querfeld",
+            "short": "Querfeld",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marin-ljubicic",
+            "name": "Marin Ljubicic",
+            "short": "Ljubicic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "derrick-kohn",
+            "name": "Derrick Köhn",
+            "short": "Köhn",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "matheo-raab",
+            "name": "Matheo Raab",
+            "short": "Raab",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "niko-kovac",
+          "name": "Niko Kovac",
+          "short": "Kovac",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "gregor-kobel",
+            "name": "Gregor Kobel",
+            "short": "Kobel",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "nico-schlotterbeck",
+            "name": "Nico Schlotterbeck",
+            "short": "Schlotterbeck",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 77,
+            "rating": 7.2
+          },
+          {
+            "id": "waldemar-anton",
+            "name": "Waldemar Anton",
+            "short": "Anton",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "kouakou-gadou",
+            "name": "Kouakou Gadou",
+            "short": "Gadou",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 6.4
+          },
+          {
+            "id": "daniel-svensson",
+            "name": "Daniel Svensson",
+            "short": "Svensson",
+            "position": "LB",
+            "photo": null,
+            "x": 73,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "felix-nmecha",
+            "name": "Felix Nmecha",
+            "short": "Nmecha",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 62,
+            "rating": 6.5
+          },
+          {
+            "id": "jobe-bellingham",
+            "name": "Jobe Bellingham",
+            "short": "Bellingham",
+            "position": "CM",
+            "photo": null,
+            "x": 73,
+            "y": 36,
+            "rating": 6.9
+          },
+          {
+            "id": "julian-ryerson",
+            "name": "Julian Ryerson",
+            "short": "Ryerson",
+            "position": "RB",
+            "photo": null,
+            "x": 73,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "maximilian-beier",
+            "name": "Maximilian Beier",
+            "short": "Beier",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 70,
+            "rating": 6.8
+          },
+          {
+            "id": "ethan-nwaneri",
+            "name": "Ethan Nwaneri",
+            "short": "Nwaneri",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 6.8
+          },
+          {
+            "id": "serhou-guirassy",
+            "name": "Serhou Guirassy",
+            "short": "Guirassy",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "konstantinos-karetsas",
+            "name": "Konstantinos Karetsas",
+            "short": "Karetsas",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "fabio-silva",
+            "name": "Fábio Silva",
+            "short": "Silva",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "mathis-albert",
+            "name": "Mathis Albert",
+            "short": "Albert",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "kaua-prates",
+            "name": "Kauã Prates",
+            "short": "Prates",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "carney-chukwuemeka",
+            "name": "Carney Chukwuemeka",
+            "short": "Chukwuemeka",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ramy-bensebaini",
+            "name": "Ramy Bensebaini",
+            "short": "Bensebaini",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "joey-veerman",
+            "name": "Joey Veerman",
+            "short": "Veerman",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marcel-sabitzer",
+            "name": "Marcel Sabitzer",
+            "short": "Sabitzer",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alexander-meyer",
+            "name": "Alexander Meyer",
+            "short": "Meyer",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 1,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "ethan-nwaneri",
+          "name": "Ethan Nwaneri",
+          "short": "Nwaneri",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 7,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "waldemar-anton",
+          "name": "Waldemar Anton",
+          "short": "Anton",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 14,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "serhou-guirassy",
+          "name": "Serhou Guirassy",
+          "short": "Guirassy",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 33,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "janik-haberer",
+          "name": "Janik Haberer",
+          "short": "Haberer",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 35,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "tom-rothe",
+          "name": "Tom Rothe",
+          "short": "Rothe",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "emmanuel-latte-lath",
+          "name": "Emmanuel Latte Lath",
+          "short": "Lath",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kastriot-imeri",
+          "name": "Kastriot Imeri",
+          "short": "Imeri",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "konstantinos-karetsas",
+          "name": "Konstantinos Karetsas",
+          "short": "Karetsas",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "maximilian-beier",
+          "name": "Maximilian Beier",
+          "short": "Beier",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "fabio-silva",
+          "name": "Fábio Silva",
+          "short": "Silva",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ethan-nwaneri",
+          "name": "Ethan Nwaneri",
+          "short": "Nwaneri",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "tim-skarke",
+          "name": "Tim Skarke",
+          "short": "Skarke",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mekhi-anthony-gray",
+          "name": "Mekhi Anthony Gray",
+          "short": "Gray",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tim-skarke",
+          "name": "Tim Skarke",
+          "short": "Skarke",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mathis-albert",
+          "name": "Mathis Albert",
+          "short": "Albert",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "konstantinos-karetsas",
+          "name": "Konstantinos Karetsas",
+          "short": "Karetsas",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "christopher-trimmel",
+          "name": "Christopher Trimmel",
+          "short": "Trimmel",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "janik-haberer",
+          "name": "Janik Haberer",
+          "short": "Haberer",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "aljoscha-kemlein",
+          "name": "Aljoscha Kemlein",
+          "short": "Kemlein",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "andras-schafer",
+          "name": "András Schäfer",
+          "short": "Schäfer",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "linus-guther",
+          "name": "Linus Güther",
+          "short": "Güther",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jeong-woo-yeong",
+          "name": "Jeong Woo-Yeong",
+          "short": "Jeong",
+          "position": "RW",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        11,
+        12
+      ],
+      "onTarget": [
+        0,
+        2
+      ],
+      "corners": [
+        5,
+        5
+      ],
+      "fouls": [
+        13,
+        12
+      ],
+      "possession": 37
+    },
+    "attendance": 22012,
+    "referee": {
+      "name": "Daniel Schlager",
+      "country": "Germany"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884769",
+      "https://www.espn.com/soccer/match/_/gameId/401884769",
+      "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916171",
+      "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

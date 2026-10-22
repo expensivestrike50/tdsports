@@ -1,0 +1,696 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "portland-colorado-rapids-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "19:30",
+    "competition": "MLS",
+    "round": "Regular season, matchday 31",
+    "status": "FT",
+    "home": {
+      "name": "Portland",
+      "id": "portland",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
+      "country": "US"
+    },
+    "away": {
+      "name": "Colorado Rapids",
+      "id": "colorado-rapids",
+      "crest": "assets/clubs/184.png",
+      "country": "US"
+    },
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Providence Park",
+      "city": "Portland",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "marti-cifuentes",
+          "name": "Martí Cifuentes",
+          "short": "Cifuentes",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "james-pantemis",
+            "name": "James Pantemis",
+            "short": "Pantemis",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "jimer-fory",
+            "name": "Jimer Fory",
+            "short": "Fory",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "kamal-miller",
+            "name": "Kamal Miller",
+            "short": "Miller",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "joel-waterman",
+            "name": "Joel Waterman",
+            "short": "Waterman",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.9
+          },
+          {
+            "id": "ronald-hernandez",
+            "name": "Ronald Hernández",
+            "short": "Hernández",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "david-da-costa",
+            "name": "David Da Costa",
+            "short": "Da Costa",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 23,
+            "rating": 6.9
+          },
+          {
+            "id": "diego-chara",
+            "name": "Diego Chará",
+            "short": "Chará",
+            "position": "DM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "eric-izoita",
+            "name": "Eric Izoita",
+            "short": "Izoita",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 78,
+            "rating": 6.7
+          },
+          {
+            "id": "kristoffer-velde",
+            "name": "Kristoffer Velde",
+            "short": "Velde",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 7.4
+          },
+          {
+            "id": "vincent-janssen",
+            "name": "Vincent Janssen",
+            "short": "Janssen",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "omir-fernandez",
+            "name": "Omir Fernández",
+            "short": "Fernández",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 6.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "jose-caicedo",
+            "name": "José Caicedo",
+            "short": "Caicedo",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "ariel-lassiter",
+            "name": "Ariel Lassiter",
+            "short": "Lassiter",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "joao-ortiz",
+            "name": "Joao Ortiz",
+            "short": "Ortiz",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "cole-bassett",
+            "name": "Cole Bassett",
+            "short": "Bassett",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "alexander-aravena",
+            "name": "Alexander Aravena",
+            "short": "Aravena",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "trey-muse",
+            "name": "Trey Muse",
+            "short": "Muse",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kamal-miller",
+            "name": "Kamal Miller",
+            "short": "Miller",
+            "position": "CB",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ian-smith",
+            "name": "Ian Smith",
+            "short": "Smith",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "matt-wells",
+          "name": "Matt Wells",
+          "short": "Wells",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "nico-hansen",
+            "name": "Nico Hansen",
+            "short": "Hansen",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.1
+          },
+          {
+            "id": "miguel-navarro",
+            "name": "Miguel Navarro",
+            "short": "Navarro",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "loic-williams",
+            "name": "Loic Williams",
+            "short": "Williams",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.5
+          },
+          {
+            "id": "rob-holding",
+            "name": "Rob Holding",
+            "short": "Holding",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.3
+          },
+          {
+            "id": "kosi-thompson",
+            "name": "Kosi Thompson",
+            "short": "Thompson",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.7
+          },
+          {
+            "id": "wayne-frederick",
+            "name": "Wayne Frederick",
+            "short": "Frederick",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 6.4
+          },
+          {
+            "id": "morgan-whittaker",
+            "name": "Morgan Whittaker",
+            "short": "Whittaker",
+            "position": "AM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "joshua-atencio",
+            "name": "Joshua Atencio",
+            "short": "Atencio",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 22,
+            "rating": 6.4
+          },
+          {
+            "id": "georgi-minoungou",
+            "name": "Georgi Minoungou",
+            "short": "Minoungou",
+            "position": "LW",
+            "photo": null,
+            "x": 54,
+            "y": 77,
+            "rating": 6.9
+          },
+          {
+            "id": "donavan-phillip",
+            "name": "Donavan Phillip",
+            "short": "Phillip",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "darren-yapi",
+            "name": "Darren Yapi",
+            "short": "Yapi",
+            "position": "RW",
+            "photo": null,
+            "x": 54,
+            "y": 22,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "noah-cobb",
+            "name": "Noah Cobb",
+            "short": "Cobb",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "hamzat-ojediran",
+            "name": "Hamzat Ojediran",
+            "short": "Ojediran",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "paxten-aaronson",
+            "name": "Paxten Aaronson",
+            "short": "Aaronson",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "ibrahim-sadiq",
+            "name": "Ibrahim Sadiq",
+            "short": "Sadiq",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "adam-beaudry",
+            "name": "Adam Beaudry",
+            "short": "Beaudry",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jackson-travis",
+            "name": "Jackson Travis",
+            "short": "Travis",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "keegan-rosenberry",
+            "name": "Keegan Rosenberry",
+            "short": "Rosenberry",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alex-harris",
+            "name": "Alex Harris",
+            "short": "Harris",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "bryan-dowd",
+            "name": "Bryan Dowd",
+            "short": "Dowd",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 13,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "rob-holding",
+          "name": "Rob Holding",
+          "short": "Holding",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 40,
+        "type": "var",
+        "team": "home",
+        "player": {
+          "id": null,
+          "name": null
+        },
+        "detail": "VAR review: no penalty awarded"
+      },
+      {
+        "minute": 43,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "kristoffer-velde",
+          "name": "Kristoffer Velde",
+          "short": "Velde",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 43,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "morgan-whittaker",
+          "name": "Morgan Whittaker",
+          "short": "Whittaker",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "noah-cobb",
+          "name": "Noah Cobb",
+          "short": "Cobb",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "rob-holding",
+          "name": "Rob Holding",
+          "short": "Holding",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "kosi-thompson",
+          "name": "Kosi Thompson",
+          "short": "Thompson",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "hamzat-ojediran",
+          "name": "Hamzat Ojediran",
+          "short": "Ojediran",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "morgan-whittaker",
+          "name": "Morgan Whittaker",
+          "short": "Whittaker",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "paxten-aaronson",
+          "name": "Paxten Aaronson",
+          "short": "Aaronson",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "donavan-phillip",
+          "name": "Donavan Phillip",
+          "short": "Phillip",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jose-caicedo",
+          "name": "José Caicedo",
+          "short": "Caicedo",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "diego-chara",
+          "name": "Diego Chará",
+          "short": "Chará",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ariel-lassiter",
+          "name": "Ariel Lassiter",
+          "short": "Lassiter",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "omir-fernandez",
+          "name": "Omir Fernández",
+          "short": "Fernández",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "joao-ortiz",
+          "name": "Joao Ortiz",
+          "short": "Ortiz",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "eric-izoita",
+          "name": "Eric Izoita",
+          "short": "Izoita",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "cole-bassett",
+          "name": "Cole Bassett",
+          "short": "Bassett",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "vincent-janssen",
+          "name": "Vincent Janssen",
+          "short": "Janssen",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ibrahim-sadiq",
+          "name": "Ibrahim Sadiq",
+          "short": "Sadiq",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "georgi-minoungou",
+          "name": "Georgi Minoungou",
+          "short": "Minoungou",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "alexander-aravena",
+          "name": "Alexander Aravena",
+          "short": "Aravena",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "david-da-costa",
+          "name": "David Da Costa",
+          "short": "Da Costa",
+          "position": "CM",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        11,
+        9
+      ],
+      "onTarget": [
+        4,
+        1
+      ],
+      "corners": [
+        1,
+        4
+      ],
+      "fouls": [
+        17,
+        20
+      ],
+      "xg": [
+        0.64,
+        1.63
+      ],
+      "possession": 42
+    },
+    "attendance": 23614,
+    "referee": {
+      "name": "Elijio Arreguin",
+      "country": "USA"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761888",
+      "https://www.espn.com/soccer/match/_/gameId/761888",
+      "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NI",
+      "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NI"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

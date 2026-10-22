@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "mario-soriano-carreno",
+    "name": "Mario Soriano Carreno",
+    "short": "M. Soriano Carreno",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "deportivo-levante-2026-10-16",
+        "date": "2026-10-16",
+        "team": "Deportivo",
+        "role": "starter"
+      }
+    ]
+  }
+}

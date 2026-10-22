@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "myles-lewis-skelly-nottm-forest-arsenal-2026-10-18",
+    "name": "Myles Lewis-Skelly",
+    "short": "Lewis-Skelly",
+    "position": "CM",
+    "photo": "assets/photos/people/myles-lewis-skelly.jpg",
+    "matches": [
+      {
+        "match": "nottm-forest-arsenal-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Arsenal",
+        "role": "bench"
+      }
+    ]
+  }
+}

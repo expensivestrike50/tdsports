@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "frederik-schmahl",
+    "name": "Frederik Schmahl",
+    "short": "Schmahl",
+    "position": "AM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "elversberg-augsburg-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Elversberg",
+        "role": "bench"
+      }
+    ]
+  }
+}

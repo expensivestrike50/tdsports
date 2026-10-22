@@ -1,0 +1,792 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "celta-vigo-alaves-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "16:15",
+    "competition": "LaLiga",
+    "round": "Matchday 9",
+    "status": "FT",
+    "home": {
+      "name": "Celta Vigo",
+      "id": "celta-vigo",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Alavés",
+      "id": "alaves",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Balaidos",
+      "city": "Vigo",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-3",
+        "coach": {
+          "id": "claudio-giraldez-celta-vigo-alaves-2026-10-18",
+          "name": "Claudio Giráldez",
+          "short": "Giráldez",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "andrei-radu-celta-vigo-alaves-2026-10-18",
+            "name": "Andrei Radu",
+            "short": "A. Radu",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "javi-rodriguez-celta-vigo-alaves-2026-10-18",
+            "name": "Javi Rodríguez",
+            "short": "J. Rodríguez",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 8.8
+          },
+          {
+            "id": "yoel-lago-celta-vigo-alaves-2026-10-18",
+            "name": "Yoel Lago",
+            "short": "Y. Lago",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.7
+          },
+          {
+            "id": "sebastian-caceres-celta-vigo-alaves-2026-10-18",
+            "name": "Sebastián Cáceres",
+            "short": "S. Cáceres",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 6.6
+          },
+          {
+            "id": "sergio-carreira-celta-vigo-alaves-2026-10-18",
+            "name": "Sergio Carreira",
+            "short": "S. Carreira",
+            "position": "RB",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 7.1
+          },
+          {
+            "id": "hugo-burcio-celta-vigo-alaves-2026-10-18",
+            "name": "Hugo Burcio",
+            "short": "H. Burcio",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 6.5
+          },
+          {
+            "id": "ilaix-moriba-celta-vigo-alaves-2026-10-18",
+            "name": "Ilaix Moriba",
+            "short": "I. Moriba",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 6.9
+          },
+          {
+            "id": "hugo-alvarez-celta-vigo-alaves-2026-10-18",
+            "name": "Hugo Álvarez",
+            "short": "H. Álvarez",
+            "position": "LB",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 6.5
+          },
+          {
+            "id": "couhaib-driouech-celta-vigo-alaves-2026-10-18",
+            "name": "Couhaib Driouech",
+            "short": "C. Driouech",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 6.3
+          },
+          {
+            "id": "ferran-jutgla-celta-vigo-alaves-2026-10-18",
+            "name": "Ferran Jutglà",
+            "short": "F. Jutglà",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "williot-swedberg-celta-vigo-alaves-2026-10-18",
+            "name": "Williot Swedberg",
+            "short": "W. Swedberg",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 6.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "aleix-febas-celta-vigo-alaves-2026-10-18",
+            "name": "Aleix Febas",
+            "short": "Febas",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "javi-rueda-celta-vigo-alaves-2026-10-18",
+            "name": "Javi Rueda",
+            "short": "Rueda",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "iago-aspas-celta-vigo-alaves-2026-10-18",
+            "name": "Iago Aspas",
+            "short": "Aspas",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.8
+          },
+          {
+            "id": "andres-antanon-celta-vigo-alaves-2026-10-18",
+            "name": "Andrés Antañón",
+            "short": "Antañón",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "marcos-alonso-celta-vigo-alaves-2026-10-18",
+            "name": "Marcos Alonso",
+            "short": "Alonso",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.1
+          },
+          {
+            "id": "javi-galan-celta-vigo-alaves-2026-10-18",
+            "name": "Javi Galán",
+            "short": "Galán",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alvaro-nunez-celta-vigo-alaves-2026-10-18",
+            "name": "Álvaro Núñez",
+            "short": "Núñez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "angel-arcos-celta-vigo-alaves-2026-10-18",
+            "name": "Ángel Arcos",
+            "short": "Arcos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "hugo-gonzalez-celta-vigo-alaves-2026-10-18",
+            "name": "Hugo Gonzalez",
+            "short": "Gonzalez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "altay-bayindir-celta-vigo-alaves-2026-10-18",
+            "name": "Altay Bayindir",
+            "short": "Bayindir",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ivan-villar",
+            "name": "Iván Villar",
+            "short": "Villar",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "abdoulaye-faye-celta-vigo-alaves-2026-10-18",
+            "name": "Abdoulaye Faye",
+            "short": "Faye",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-3-2",
+        "coach": {
+          "id": "quique-sanchez-flores",
+          "name": "Quique Sánchez Flores",
+          "short": "Flores",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "antonio-sivera",
+            "name": "Antonio Sivera",
+            "short": "A. Sivera",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "nahuel-tenaglia",
+            "name": "Nahuel Tenaglia",
+            "short": "N. Tenaglia",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 92,
+            "rating": 6.7
+          },
+          {
+            "id": "jonny",
+            "name": "Jonny",
+            "short": "Jonny",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 71,
+            "rating": 7.1
+          },
+          {
+            "id": "ville-koski",
+            "name": "Ville Koski",
+            "short": "V. Koski",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "nicolas-valentini",
+            "name": "Nicolás Valentini",
+            "short": "N. Valentini",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 29,
+            "rating": 6.3
+          },
+          {
+            "id": "abde-rebbach",
+            "name": "Abde Rebbach",
+            "short": "A. Rebbach",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 8,
+            "rating": 6.2
+          },
+          {
+            "id": "pablo-ibanez",
+            "name": "Pablo Ibáñez",
+            "short": "P. Ibáñez",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 7.5
+          },
+          {
+            "id": "antonio-blanco",
+            "name": "Antonio Blanco",
+            "short": "A. Blanco",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "carles-alena",
+            "name": "Carles Aleñá",
+            "short": "C. Aleñá",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 22,
+            "rating": 6.4
+          },
+          {
+            "id": "toni-martinez",
+            "name": "Toni Martínez",
+            "short": "T. Martínez",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "lucas-boye",
+            "name": "Lucas Boyé",
+            "short": "L. Boyé",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 6.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "hugo-novoa",
+            "name": "Hugo Novoa",
+            "short": "Novoa",
+            "position": "CB",
+            "photo": null,
+            "rating": 8.2
+          },
+          {
+            "id": "mariano-diaz",
+            "name": "Mariano Díaz",
+            "short": "Díaz",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "denis-suarez",
+            "name": "Denis Suárez",
+            "short": "Suárez",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "aitor-manas",
+            "name": "Aitor Mañas",
+            "short": "Mañas",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "ander-guevara",
+            "name": "Ander Guevara",
+            "short": "Guevara",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "adrian-rodriguez",
+            "name": "Adrián Rodríguez",
+            "short": "Rodríguez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "carlos-protesoni",
+            "name": "Carlos Protesoni",
+            "short": "Protesoni",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gregoire-swiderski",
+            "name": "Grégoire Swiderski",
+            "short": "Swiderski",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "xanet-olaiz",
+            "name": "Xanet Oláiz",
+            "short": "Oláiz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "youssef-lekhedim",
+            "name": "Youssef Lekhedim",
+            "short": "Lekhedim",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "selu-diallo",
+            "name": "Selu Diallo",
+            "short": "Diallo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 15,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "sebastian-caceres-celta-vigo-alaves-2026-10-18",
+          "name": "Sebastián Cáceres",
+          "short": "S. Cáceres",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "aleix-febas-celta-vigo-alaves-2026-10-18",
+          "name": "Aleix Febas",
+          "short": "Febas",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ilaix-moriba-celta-vigo-alaves-2026-10-18",
+          "name": "Ilaix Moriba",
+          "short": "I. Moriba",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "javi-rueda-celta-vigo-alaves-2026-10-18",
+          "name": "Javi Rueda",
+          "short": "Rueda",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "williot-swedberg-celta-vigo-alaves-2026-10-18",
+          "name": "Williot Swedberg",
+          "short": "W. Swedberg",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "toni-martinez",
+          "name": "Toni Martínez",
+          "short": "T. Martínez",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 53,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "ferran-jutgla-celta-vigo-alaves-2026-10-18",
+          "name": "Ferran Jutglà",
+          "short": "F. Jutglà",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "javi-rodriguez-celta-vigo-alaves-2026-10-18",
+          "name": "Javi Rodríguez",
+          "short": "J. Rodríguez",
+          "position": "CB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Ferran Jutglà left footed shot from the centre of the box to the bottom right corner. Assist: Javi Rodríguez with a through ball."
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "hugo-novoa",
+          "name": "Hugo Novoa",
+          "short": "Novoa",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jonny",
+          "name": "Jonny",
+          "short": "Jonny",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mariano-diaz",
+          "name": "Mariano Díaz",
+          "short": "Díaz",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "toni-martinez",
+          "name": "Toni Martínez",
+          "short": "T. Martínez",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "denis-suarez",
+          "name": "Denis Suárez",
+          "short": "Suárez",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "carles-alena",
+          "name": "Carles Aleñá",
+          "short": "C. Aleñá",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "iago-aspas-celta-vigo-alaves-2026-10-18",
+          "name": "Iago Aspas",
+          "short": "Aspas",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "couhaib-driouech-celta-vigo-alaves-2026-10-18",
+          "name": "Couhaib Driouech",
+          "short": "C. Driouech",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "andres-antanon-celta-vigo-alaves-2026-10-18",
+          "name": "Andrés Antañón",
+          "short": "Antañón",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "hugo-burcio-celta-vigo-alaves-2026-10-18",
+          "name": "Hugo Burcio",
+          "short": "H. Burcio",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "javi-rodriguez-celta-vigo-alaves-2026-10-18",
+          "name": "Javi Rodríguez",
+          "short": "J. Rodríguez",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "iago-aspas-celta-vigo-alaves-2026-10-18",
+          "name": "Iago Aspas",
+          "short": "Aspas",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Javi Rodríguez right footed shot from the right side of the six yard box to the bottom left corner. Assist: Iago Aspas."
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "marcos-alonso-celta-vigo-alaves-2026-10-18",
+          "name": "Marcos Alonso",
+          "short": "Alonso",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sebastian-caceres-celta-vigo-alaves-2026-10-18",
+          "name": "Sebastián Cáceres",
+          "short": "S. Cáceres",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "hugo-novoa",
+          "name": "Hugo Novoa",
+          "short": "Novoa",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "mariano-diaz",
+          "name": "Mariano Díaz",
+          "short": "Díaz",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Hugo Novoa left footed shot from the right side of the box to the top left corner. Assist: Mariano Díaz following a fast break."
+      },
+      {
+        "minute": 88,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "aitor-manas",
+          "name": "Aitor Mañas",
+          "short": "Mañas",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "abde-rebbach",
+          "name": "Abde Rebbach",
+          "short": "A. Rebbach",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 88,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ander-guevara",
+          "name": "Ander Guevara",
+          "short": "Guevara",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "antonio-blanco",
+          "name": "Antonio Blanco",
+          "short": "A. Blanco",
+          "position": "CM",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        6,
+        20
+      ],
+      "onTarget": [
+        3,
+        9
+      ],
+      "corners": [
+        0,
+        4
+      ],
+      "fouls": [
+        14,
+        17
+      ],
+      "possession": 48
+    },
+    "attendance": 19568,
+    "referee": {
+      "name": "José Luis Munuera Montero",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882845",
+      "https://www.espn.com/soccer/match/_/gameId/401882845",
+      "https://www.infobae.com/espana/agencias/2026/10/18/2-1-javi-rodriguez-y-radu-sostienen-el-crecimiento-del-celta/",
+      "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

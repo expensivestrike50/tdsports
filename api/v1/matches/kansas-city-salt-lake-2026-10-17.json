@@ -1,0 +1,830 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "kansas-city-salt-lake-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "19:30",
+    "competition": "MLS",
+    "round": "Regular season, matchday 31",
+    "status": "FT",
+    "home": {
+      "name": "Kansas City",
+      "id": "kansas-city",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
+      "country": "US"
+    },
+    "away": {
+      "name": "Salt Lake",
+      "id": "salt-lake",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
+      "country": "US"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Sporting Park",
+      "city": "Kansas City",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "rapha-wicky",
+          "name": "Rapha Wicky",
+          "short": "Wicky",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "stefan-cleveland",
+            "name": "Stefan Cleveland",
+            "short": "Cleveland",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "emir-karic",
+            "name": "Emir Karic",
+            "short": "Karic",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "wyatt-meyer",
+            "name": "Wyatt Meyer",
+            "short": "Meyer",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7.2
+          },
+          {
+            "id": "jansen-miller",
+            "name": "Jansen Miller",
+            "short": "Miller",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.2
+          },
+          {
+            "id": "jacob-bartlett",
+            "name": "Jacob Bartlett",
+            "short": "Bartlett",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.3
+          },
+          {
+            "id": "calvin-harris",
+            "name": "Calvin Harris",
+            "short": "Harris",
+            "position": "LW",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 7.3
+          },
+          {
+            "id": "zorhan-bassong",
+            "name": "Zorhan Bassong",
+            "short": "Bassong",
+            "position": "DM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 7
+          },
+          {
+            "id": "kwaku-agyabeng",
+            "name": "Kwaku Agyabeng",
+            "short": "Agyabeng",
+            "position": "DM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 7
+          },
+          {
+            "id": "andre-luiz",
+            "name": "André Luiz",
+            "short": "André Luiz",
+            "position": "RW",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "stephen-afrifa",
+            "name": "Stephen Afrifa",
+            "short": "Afrifa",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 7.5
+          },
+          {
+            "id": "taylor-calheira",
+            "name": "Taylor Calheira",
+            "short": "Calheira",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 7.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "capita",
+            "name": "Capita",
+            "short": "Capita",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "jacob-davis",
+            "name": "Jacob Davis",
+            "short": "Davis",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "ian-james",
+            "name": "Ian James",
+            "short": "James",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "seymour-reid",
+            "name": "Seymour Reid",
+            "short": "Reid",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "ruben-ramos",
+            "name": "Ruben Ramos",
+            "short": "Ramos",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "ethan-bartlow",
+            "name": "Ethan Bartlow",
+            "short": "Bartlow",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "shapi-suleymanov",
+            "name": "Shapi Suleymanov",
+            "short": "Suleymanov",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "john-pulskamp",
+            "name": "John Pulskamp",
+            "short": "Pulskamp",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-4-1",
+        "coach": {
+          "id": "pablo-mastroeni",
+          "name": "Pablo Mastroeni",
+          "short": "Mastroeni",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "rafael",
+            "name": "Rafael",
+            "short": "Rafael",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.6
+          },
+          {
+            "id": "juan-manuel-sanabria",
+            "name": "Juan Manuel Sanabria",
+            "short": "Sanabria",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 92,
+            "rating": 7.1
+          },
+          {
+            "id": "philip-quinton",
+            "name": "Philip Quinton",
+            "short": "Quinton",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 71,
+            "rating": 6.9
+          },
+          {
+            "id": "luc-de-fougerolles",
+            "name": "Luc de Fougerolles",
+            "short": "de Fougerolles",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "kobi-henry",
+            "name": "Kobi Henry",
+            "short": "Henry",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 29,
+            "rating": 7.6
+          },
+          {
+            "id": "dominik-marczuk",
+            "name": "Dominik Marczuk",
+            "short": "Marczuk",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 8,
+            "rating": 7.5
+          },
+          {
+            "id": "saba-lobjanidze",
+            "name": "Saba Lobjanidze",
+            "short": "Lobjanidze",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "noel-caliskan",
+            "name": "Noel Caliskan",
+            "short": "Caliskan",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 7.8
+          },
+          {
+            "id": "stijn-spierings",
+            "name": "Stijn Spierings",
+            "short": "Spierings",
+            "position": "DM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 7
+          },
+          {
+            "id": "morgan-guilavogui",
+            "name": "Morgan Guilavogui",
+            "short": "Guilavogui",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 9.1
+          },
+          {
+            "id": "sergi-solans",
+            "name": "Sergi Solans",
+            "short": "Solans",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 8.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "zach-booth",
+            "name": "Zach Booth",
+            "short": "Booth",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "aiden-hezarkhani",
+            "name": "Aiden Hezarkhani",
+            "short": "Hezarkhani",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "ariath-piol",
+            "name": "Ariath Piol",
+            "short": "Piol",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "samuel-junqua",
+            "name": "Samuel Junqua",
+            "short": "Junqua",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "alexandros-katranis",
+            "name": "Alexandros Katranis",
+            "short": "Katranis",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "colin-guske",
+            "name": "Colin Guske",
+            "short": "Guske",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dusan-zagar",
+            "name": "Dušan Žagar",
+            "short": "Žagar",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mason-stajduhar",
+            "name": "Mason Stajduhar",
+            "short": "Stajduhar",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "deandre-yedlin",
+            "name": "DeAndre Yedlin",
+            "short": "Yedlin",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 11,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "morgan-guilavogui",
+          "name": "Morgan Guilavogui",
+          "short": "Guilavogui",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "noel-caliskan",
+          "name": "Noel Caliskan",
+          "short": "Caliskan",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Morgan Guilavogui right footed shot from the left side of the six yard box to the bottom right corner. Assisted by Noel Caliskan."
+      },
+      {
+        "minute": 14,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "sergi-solans",
+          "name": "Sergi Solans",
+          "short": "Solans",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Sergi Solans right footed shot from the centre of the box to the bottom right corner."
+      },
+      {
+        "minute": 26,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "taylor-calheira",
+          "name": "Taylor Calheira",
+          "short": "Calheira",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "andre-luiz",
+          "name": "André Luiz",
+          "short": "André Luiz",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Taylor Calheira right footed shot from the centre of the box to the top right corner. Assisted by André Luiz following a fast break."
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "luc-de-fougerolles",
+          "name": "Luc de Fougerolles",
+          "short": "de Fougerolles",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 61,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "morgan-guilavogui",
+          "name": "Morgan Guilavogui",
+          "short": "Guilavogui",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "noel-caliskan",
+          "name": "Noel Caliskan",
+          "short": "Caliskan",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Morgan Guilavogui right footed shot from the left side of the box to the centre of the goal. Assisted by Noel Caliskan."
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "capita",
+          "name": "Capita",
+          "short": "Capita",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "stephen-afrifa",
+          "name": "Stephen Afrifa",
+          "short": "Afrifa",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jacob-davis",
+          "name": "Jacob Davis",
+          "short": "Davis",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kwaku-agyabeng",
+          "name": "Kwaku Agyabeng",
+          "short": "Agyabeng",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "zach-booth",
+          "name": "Zach Booth",
+          "short": "Booth",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "dominik-marczuk",
+          "name": "Dominik Marczuk",
+          "short": "Marczuk",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "juan-manuel-sanabria",
+          "name": "Juan Manuel Sanabria",
+          "short": "Sanabria",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ian-james",
+          "name": "Ian James",
+          "short": "James",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "zorhan-bassong",
+          "name": "Zorhan Bassong",
+          "short": "Bassong",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "seymour-reid",
+          "name": "Seymour Reid",
+          "short": "Reid",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "taylor-calheira",
+          "name": "Taylor Calheira",
+          "short": "Calheira",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "calvin-harris",
+          "name": "Calvin Harris",
+          "short": "Harris",
+          "position": "LW",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 76,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "jacob-bartlett",
+          "name": "Jacob Bartlett",
+          "short": "Bartlett",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "aiden-hezarkhani",
+          "name": "Aiden Hezarkhani",
+          "short": "Hezarkhani",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "saba-lobjanidze",
+          "name": "Saba Lobjanidze",
+          "short": "Lobjanidze",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ariath-piol",
+          "name": "Ariath Piol",
+          "short": "Piol",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sergi-solans",
+          "name": "Sergi Solans",
+          "short": "Solans",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "samuel-junqua",
+          "name": "Samuel Junqua",
+          "short": "Junqua",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "luc-de-fougerolles",
+          "name": "Luc de Fougerolles",
+          "short": "de Fougerolles",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alexandros-katranis",
+          "name": "Alexandros Katranis",
+          "short": "Katranis",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "morgan-guilavogui",
+          "name": "Morgan Guilavogui",
+          "short": "Guilavogui",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ruben-ramos",
+          "name": "Ruben Ramos",
+          "short": "Ramos",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "calvin-harris",
+          "name": "Calvin Harris",
+          "short": "Harris",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "zach-booth",
+          "name": "Zach Booth",
+          "short": "Booth",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "stijn-spierings",
+          "name": "Stijn Spierings",
+          "short": "Spierings",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "jansen-miller",
+          "name": "Jansen Miller",
+          "short": "Miller",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      }
+    ],
+    "stats": {
+      "shots": [
+        8,
+        13
+      ],
+      "onTarget": [
+        3,
+        8
+      ],
+      "corners": [
+        7,
+        5
+      ],
+      "fouls": [
+        14,
+        10
+      ],
+      "xg": [
+        1.43,
+        1.35
+      ],
+      "possession": 51
+    },
+    "attendance": 13873,
+    "referee": {
+      "name": "Alexis Da Silva",
+      "country": "USA"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761884",
+      "https://www.espn.com/soccer/match/_/gameId/761884",
+      "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009NA",
+      "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009NA"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

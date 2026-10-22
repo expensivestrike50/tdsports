@@ -1,0 +1,858 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "england-argentina-2026-07-15",
+    "date": "2026-07-15",
+    "kickoff": "15:00",
+    "competition": "FIFA World Cup",
+    "round": "Semi-final",
+    "status": "FT",
+    "home": {
+      "name": "England",
+      "id": "england",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Argentina",
+      "id": "argentina",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "country": "AR"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Mercedes-Benz Stadium",
+      "city": "Atlanta, Georgia",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "thomas-tuchel-england-argentina-2026-07-15",
+          "name": "Thomas Tuchel",
+          "short": "Tuchel",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "jordan-pickford-england-argentina-2026-07-15",
+            "name": "Jordan Pickford",
+            "short": "Pickford",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "djed-spence-england-argentina-2026-07-15",
+            "name": "Djed Spence",
+            "short": "Spence",
+            "position": "LB",
+            "photo": "assets/photos/people/djed-spence.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 6.6
+          },
+          {
+            "id": "marc-guehi-england-argentina-2026-07-15",
+            "name": "Marc Guéhi",
+            "short": "Guéhi",
+            "position": "CB",
+            "photo": "assets/photos/people/marc-guehi.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 6.2
+          },
+          {
+            "id": "john-stones-england-argentina-2026-07-15",
+            "name": "John Stones",
+            "short": "Stones",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.4
+          },
+          {
+            "id": "reece-james-england-argentina-2026-07-15",
+            "name": "Reece James",
+            "short": "James",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.4
+          },
+          {
+            "id": "elliot-anderson-england-argentina-2026-07-15",
+            "name": "Elliot Anderson",
+            "short": "Anderson",
+            "position": "DM",
+            "photo": "assets/photos/people/elliot-anderson.jpg",
+            "x": 27,
+            "y": 30,
+            "rating": 6.9
+          },
+          {
+            "id": "declan-rice-england-argentina-2026-07-15",
+            "name": "Declan Rice",
+            "short": "Rice",
+            "position": "DM",
+            "photo": "assets/photos/people/declan-rice.jpg",
+            "x": 27,
+            "y": 70,
+            "rating": 6.5
+          },
+          {
+            "id": "anthony-gordon-england-argentina-2026-07-15",
+            "name": "Anthony Gordon",
+            "short": "Gordon",
+            "position": "LW",
+            "photo": "assets/photos/people/anthony-gordon.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 7.3
+          },
+          {
+            "id": "jude-bellingham-england-argentina-2026-07-15",
+            "name": "Jude Bellingham",
+            "short": "Bellingham",
+            "position": "AM",
+            "photo": "assets/photos/people/jude-bellingham.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "morgan-rogers-england-argentina-2026-07-15",
+            "name": "Morgan Rogers",
+            "short": "Rogers",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 7.2
+          },
+          {
+            "id": "harry-kane-england-argentina-2026-07-15",
+            "name": "Harry Kane",
+            "short": "Kane",
+            "position": "ST",
+            "photo": "assets/photos/people/harry-kane.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 6.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "ezri-konsa-england-argentina-2026-07-15",
+            "name": "Ezri Konsa",
+            "short": "Konsa",
+            "position": "LW",
+            "photo": "assets/photos/people/ezri-konsa.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "dan-burn-england-argentina-2026-07-15",
+            "name": "Dan Burn",
+            "short": "Burn",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "nico-o-reilly-england-argentina-2026-07-15",
+            "name": "Nico O'Reilly",
+            "short": "O'Reilly",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "ivan-toney-england-argentina-2026-07-15",
+            "name": "Ivan Toney",
+            "short": "Toney",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "marcus-rashford-england-argentina-2026-07-15",
+            "name": "Marcus Rashford",
+            "short": "Rashford",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "jordan-henderson-england-argentina-2026-07-15",
+            "name": "Jordan Henderson",
+            "short": "Henderson",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "noni-madueke-england-argentina-2026-07-15",
+            "name": "Noni Madueke",
+            "short": "Madueke",
+            "position": "CM",
+            "photo": "assets/photos/people/noni-madueke.jpg",
+            "rating": null
+          },
+          {
+            "id": "eberechi-eze-england-argentina-2026-07-15",
+            "name": "Eberechi Eze",
+            "short": "Eze",
+            "position": "CM",
+            "photo": "assets/photos/people/eberechi-eze.jpg",
+            "rating": null
+          },
+          {
+            "id": "ollie-watkins-england-argentina-2026-07-15",
+            "name": "Ollie Watkins",
+            "short": "Watkins",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "bukayo-saka-england-argentina-2026-07-15",
+            "name": "Bukayo Saka",
+            "short": "Saka",
+            "position": "CM",
+            "photo": "assets/photos/people/bukayo-saka.jpg",
+            "rating": null
+          },
+          {
+            "id": "trevoh-chalobah-england-argentina-2026-07-15",
+            "name": "Trevoh Chalobah",
+            "short": "Chalobah",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "james-trafford-england-argentina-2026-07-15",
+            "name": "James Trafford",
+            "short": "Trafford",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kobbie-mainoo-england-argentina-2026-07-15",
+            "name": "Kobbie Mainoo",
+            "short": "Mainoo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-1-4-1",
+        "coach": {
+          "id": "lionel-scaloni-england-argentina-2026-07-15",
+          "name": "Lionel Scaloni",
+          "short": "Scaloni",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "emiliano-martinez-england-argentina-2026-07-15",
+            "name": "Emiliano Martínez",
+            "short": "E. Martínez",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.9
+          },
+          {
+            "id": "nicolas-tagliafico-england-argentina-2026-07-15",
+            "name": "Nicolás Tagliafico",
+            "short": "Tagliafico",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.4
+          },
+          {
+            "id": "lisandro-martinez-england-argentina-2026-07-15",
+            "name": "Lisandro Martínez",
+            "short": "Lisandro",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.4
+          },
+          {
+            "id": "cristian-romero-england-argentina-2026-07-15",
+            "name": "Cristian Romero",
+            "short": "Romero",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.2
+          },
+          {
+            "id": "nahuel-molina-england-argentina-2026-07-15",
+            "name": "Nahuel Molina",
+            "short": "Molina",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "leandro-paredes-england-argentina-2026-07-15",
+            "name": "Leandro Paredes",
+            "short": "Paredes",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "julian-alvarez-england-argentina-2026-07-15",
+            "name": "Julián Álvarez",
+            "short": "Álvarez",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "alexis-mac-allister-england-argentina-2026-07-15",
+            "name": "Alexis Mac Allister",
+            "short": "Mac Allister",
+            "position": "CM",
+            "photo": "assets/photos/people/alexis-mac-allister.jpg",
+            "x": 63,
+            "y": 62,
+            "rating": 6.6
+          },
+          {
+            "id": "enzo-fernandez-england-argentina-2026-07-15",
+            "name": "Enzo Fernández",
+            "short": "Fernández",
+            "position": "CM",
+            "photo": "assets/photos/people/enzo-fernandez.jpg",
+            "x": 63,
+            "y": 36,
+            "rating": 8.1
+          },
+          {
+            "id": "giuliano-simeone-england-argentina-2026-07-15",
+            "name": "Giuliano Simeone",
+            "short": "Simeone",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 12,
+            "rating": 6.3
+          },
+          {
+            "id": "lionel-messi-england-argentina-2026-07-15",
+            "name": "Lionel Messi",
+            "short": "Messi",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 8.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "nico-gonzalez-england-argentina-2026-07-15",
+            "name": "Nico González",
+            "short": "González",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "gonzalo-montiel-england-argentina-2026-07-15",
+            "name": "Gonzalo Montiel",
+            "short": "Montiel",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "rodrigo-de-paul-england-argentina-2026-07-15",
+            "name": "Rodrigo De Paul",
+            "short": "Paul",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "nicolas-otamendi-england-argentina-2026-07-15",
+            "name": "Nicolás Otamendi",
+            "short": "Otamendi",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "lautaro-martinez-england-argentina-2026-07-15",
+            "name": "Lautaro Martínez",
+            "short": "Martínez",
+            "position": "LB",
+            "photo": null,
+            "rating": 8.5
+          },
+          {
+            "id": "marcos-senesi-england-argentina-2026-07-15",
+            "name": "Marcos Senesi",
+            "short": "Senesi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "facundo-medina-england-argentina-2026-07-15",
+            "name": "Facundo Medina",
+            "short": "Medina",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "juan-musso-england-argentina-2026-07-15",
+            "name": "Juan Musso",
+            "short": "Musso",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "valentin-barco-england-argentina-2026-07-15",
+            "name": "Valentín Barco",
+            "short": "Barco",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "geronimo-rulli-england-argentina-2026-07-15",
+            "name": "Gerónimo Rulli",
+            "short": "Rulli",
+            "position": "CM",
+            "photo": "assets/photos/people/geronimo-rulli.jpg",
+            "rating": null
+          },
+          {
+            "id": "giovani-lo-celso-england-argentina-2026-07-15",
+            "name": "Giovani Lo Celso",
+            "short": "Celso",
+            "position": "CM",
+            "photo": "assets/photos/people/giovani-lo-celso.jpg",
+            "rating": null
+          },
+          {
+            "id": "nico-paz-england-argentina-2026-07-15",
+            "name": "Nico Paz",
+            "short": "Paz",
+            "position": "CM",
+            "photo": "assets/photos/people/nico-paz.jpg",
+            "rating": null
+          },
+          {
+            "id": "thiago-almada-england-argentina-2026-07-15",
+            "name": "Thiago Almada",
+            "short": "Almada",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "exequiel-palacios-england-argentina-2026-07-15",
+            "name": "Exequiel Palacios",
+            "short": "Palacios",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jose-manuel-lopez-england-argentina-2026-07-15",
+            "name": "José Manuel López",
+            "short": "López",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 37,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "elliot-anderson-england-argentina-2026-07-15",
+          "name": "Elliot Anderson",
+          "short": "Anderson",
+          "position": "DM",
+          "photo": "assets/photos/people/elliot-anderson.jpg"
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 42,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "lisandro-martinez-england-argentina-2026-07-15",
+          "name": "Lisandro Martínez",
+          "short": "Lisandro",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 51,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "cristian-romero-england-argentina-2026-07-15",
+          "name": "Cristian Romero",
+          "short": "Romero",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 55,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "anthony-gordon-england-argentina-2026-07-15",
+          "name": "Anthony Gordon",
+          "short": "Gordon",
+          "position": "LW",
+          "photo": "assets/photos/people/anthony-gordon.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "morgan-rogers-england-argentina-2026-07-15",
+          "name": "Morgan Rogers",
+          "short": "Rogers",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Morgan Rogers crossed and Anthony Gordon finished with his right foot from very close range into the bottom left corner."
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "nico-gonzalez-england-argentina-2026-07-15",
+          "name": "Nico González",
+          "short": "González",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "leandro-paredes-england-argentina-2026-07-15",
+          "name": "Leandro Paredes",
+          "short": "Paredes",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ezri-konsa-england-argentina-2026-07-15",
+          "name": "Ezri Konsa",
+          "short": "Konsa",
+          "position": "LW",
+          "photo": "assets/photos/people/ezri-konsa.jpg"
+        },
+        "replaced": {
+          "id": "anthony-gordon-england-argentina-2026-07-15",
+          "name": "Anthony Gordon",
+          "short": "Gordon",
+          "position": "LW",
+          "photo": "assets/photos/people/anthony-gordon.jpg"
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gonzalo-montiel-england-argentina-2026-07-15",
+          "name": "Gonzalo Montiel",
+          "short": "Montiel",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nahuel-molina-england-argentina-2026-07-15",
+          "name": "Nahuel Molina",
+          "short": "Molina",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "rodrigo-de-paul-england-argentina-2026-07-15",
+          "name": "Rodrigo De Paul",
+          "short": "Paul",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "giuliano-simeone-england-argentina-2026-07-15",
+          "name": "Giuliano Simeone",
+          "short": "Simeone",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "nicolas-otamendi-england-argentina-2026-07-15",
+          "name": "Nicolás Otamendi",
+          "short": "Otamendi",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "lisandro-martinez-england-argentina-2026-07-15",
+          "name": "Lisandro Martínez",
+          "short": "Lisandro",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "lautaro-martinez-england-argentina-2026-07-15",
+          "name": "Lautaro Martínez",
+          "short": "Martínez",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "nicolas-tagliafico-england-argentina-2026-07-15",
+          "name": "Nicolás Tagliafico",
+          "short": "Tagliafico",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "dan-burn-england-argentina-2026-07-15",
+          "name": "Dan Burn",
+          "short": "Burn",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "reece-james-england-argentina-2026-07-15",
+          "name": "Reece James",
+          "short": "James",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "nico-o-reilly-england-argentina-2026-07-15",
+          "name": "Nico O'Reilly",
+          "short": "O'Reilly",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "declan-rice-england-argentina-2026-07-15",
+          "name": "Declan Rice",
+          "short": "Rice",
+          "position": "DM",
+          "photo": "assets/photos/people/declan-rice.jpg"
+        }
+      },
+      {
+        "minute": 85,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "enzo-fernandez-england-argentina-2026-07-15",
+          "name": "Enzo Fernández",
+          "short": "Fernández",
+          "position": "CM",
+          "photo": "assets/photos/people/enzo-fernandez.jpg"
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "lionel-messi-england-argentina-2026-07-15",
+          "name": "Lionel Messi",
+          "short": "Messi",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "After a corner, Lionel Messi laid the ball off and Enzo Fernández drove a right-footed shot from outside the box into the bottom left corner."
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "lautaro-martinez-england-argentina-2026-07-15",
+          "name": "Lautaro Martínez",
+          "short": "Martínez",
+          "position": "LB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "lionel-messi-england-argentina-2026-07-15",
+          "name": "Lionel Messi",
+          "short": "Messi",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Lionel Messi crossed and substitute Lautaro Martínez headed in from very close range in stoppage time."
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ivan-toney-england-argentina-2026-07-15",
+          "name": "Ivan Toney",
+          "short": "Toney",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "john-stones-england-argentina-2026-07-15",
+          "name": "John Stones",
+          "short": "Stones",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "marcus-rashford-england-argentina-2026-07-15",
+          "name": "Marcus Rashford",
+          "short": "Rashford",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "djed-spence-england-argentina-2026-07-15",
+          "name": "Djed Spence",
+          "short": "Spence",
+          "position": "LB",
+          "photo": "assets/photos/people/djed-spence.jpg"
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "rodrigo-de-paul-england-argentina-2026-07-15",
+          "name": "Rodrigo De Paul",
+          "short": "Paul",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Not specified by source"
+      }
+    ],
+    "stats": {
+      "shots": [
+        5,
+        15
+      ],
+      "onTarget": [
+        2,
+        5
+      ],
+      "corners": [
+        2,
+        6
+      ],
+      "fouls": [
+        11,
+        15
+      ],
+      "possession": 36
+    },
+    "attendance": 68239,
+    "referee": {
+      "name": "Ismail Elfath",
+      "country": "USA"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760515",
+      "https://www.espn.com/soccer/match/_/gameId/760515",
+      "https://www.sportsmole.co.uk/football/england/world-cup-2026/result/utter-agony-late-show-from-argentina-ends-englands-world-cup-hopes_601272.html",
+      "https://capeargus.co.za/fifa-world-cup-2026/updates/2026-07-15-argentina-beat-england-2-1-to-meat-spain-in-the-final/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

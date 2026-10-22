@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "beto",
+    "name": "Beto",
+    "short": "Beto",
+    "position": "DM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "fiorentina-como-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Fiorentina",
+        "role": "bench"
+      }
+    ]
+  }
+}

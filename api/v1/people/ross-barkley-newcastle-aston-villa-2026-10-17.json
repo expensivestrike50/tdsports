@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "ross-barkley-newcastle-aston-villa-2026-10-17",
+    "name": "Ross Barkley",
+    "short": "Barkley",
+    "position": "DM",
+    "photo": "assets/photos/people/ross-barkley.jpg",
+    "matches": [
+      {
+        "match": "newcastle-aston-villa-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Aston Villa",
+        "role": "bench"
+      }
+    ]
+  }
+}

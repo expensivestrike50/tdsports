@@ -1,0 +1,3194 @@
+{
+ "agent": "Bundesliga agent",
+ "league": "Bundesliga",
+ "generated": "2026-10-22T10:32:32Z",
+ "matches": [
+  {
+   "id": "frankfurt-cologne-2026-10-16",
+   "found": true,
+   "competition": "Bundesliga",
+   "round": "Matchday 6",
+   "date": "2026-10-16",
+   "kickoff_local": "20:30",
+   "home": "Frankfurt",
+   "away": "Cologne",
+   "score": [
+    1,
+    0
+   ],
+   "venue": {
+    "name": "Deutsche Bank Park",
+    "city": "Frankfurt",
+    "attendance": 59600
+   },
+   "referee": {
+    "name": "Benjamin Brand",
+    "country": "Germany"
+   },
+   "coaches": {
+    "home": "Adi Hütter",
+    "away": "René Wagner"
+   },
+   "formations": {
+    "home": "4-4-2",
+    "away": "5-3-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Noah Atubolu",
+      "short": "Atubolu",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Keita Kosugi",
+      "short": "Kosugi",
+      "number": 26,
+      "pos": "LB"
+     },
+     {
+      "name": "Lilian Brassier",
+      "short": "Brassier",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Robin Koch",
+      "short": "Koch",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Nnamdi Collins",
+      "short": "Collins",
+      "number": 34,
+      "pos": "RB"
+     },
+     {
+      "name": "Farès Chaïbi",
+      "short": "Chaïbi",
+      "number": 8,
+      "pos": "LW"
+     },
+     {
+      "name": "Mario Götze",
+      "short": "Götze",
+      "number": 27,
+      "pos": "CM"
+     },
+     {
+      "name": "Raphael Onyedika",
+      "short": "Onyedika",
+      "number": 25,
+      "pos": "CM"
+     },
+     {
+      "name": "Ritsu Doan",
+      "short": "Doan",
+      "number": 20,
+      "pos": "RW"
+     },
+     {
+      "name": "Younes Ebnoutalib",
+      "short": "Ebnoutalib",
+      "number": 11,
+      "pos": "ST"
+     },
+     {
+      "name": "Jonathan Burkardt",
+      "short": "Burkardt",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Marvin Schwäbe",
+      "short": "Schwäbe",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Borna Sosa",
+      "short": "Sosa",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Luka Lochoshvili",
+      "short": "Lochoshvili",
+      "number": 24,
+      "pos": "CB"
+     },
+     {
+      "name": "Jahmai Simpson-Pusey",
+      "short": "Simpson-Pusey",
+      "number": 22,
+      "pos": "CB"
+     },
+     {
+      "name": "Joel Schmied",
+      "short": "Schmied",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Sebastian Sebulonsen",
+      "short": "Sebulonsen",
+      "number": 28,
+      "pos": "RB"
+     },
+     {
+      "name": "Linton Maina",
+      "short": "Maina",
+      "number": 37,
+      "pos": "CM"
+     },
+     {
+      "name": "Tom Krauss",
+      "short": "Krauss",
+      "number": 5,
+      "pos": "CM"
+     },
+     {
+      "name": "Ísak Jóhannesson",
+      "short": "Jóhannesson",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Said El Mala",
+      "short": "El Mala",
+      "number": 10,
+      "pos": "ST"
+     },
+     {
+      "name": "Marius Bulter",
+      "short": "Bulter",
+      "number": 30,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 68,
+     "in": "Paul Okon-Engstler",
+     "out": "Ísak Jóhannesson"
+    },
+    {
+     "side": "away",
+     "minute": 68,
+     "in": "Mikey Moore",
+     "out": "Linton Maina"
+    },
+    {
+     "side": "away",
+     "minute": 68,
+     "in": "Alessio Castro-Montes",
+     "out": "Joel Schmied"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Noël Aséko",
+     "out": "Mario Götze"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Ansgar Knauff",
+     "out": "Nnamdi Collins"
+    },
+    {
+     "side": "home",
+     "minute": 82,
+     "in": "Elias Baum",
+     "out": "Jonathan Burkardt"
+    },
+    {
+     "side": "away",
+     "minute": 84,
+     "in": "Reigan Heskey",
+     "out": "Said El Mala"
+    },
+    {
+     "side": "away",
+     "minute": 84,
+     "in": "Luca Waldschmidt",
+     "out": "Sebastian Sebulonsen"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Love Arrhov",
+     "Timothy Chandler",
+     "Kauã Santos",
+     "Can Uzun",
+     "Ayoube Amaimouni",
+     "Jeremiaha Maluze"
+    ],
+    "away": [
+     "Assad Kotya-Fofana",
+     "Jan Thielmann",
+     "Gideon Mensah",
+     "Ron-Robert Zieler"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 77,
+     "scorer": "Younes Ebnoutalib",
+     "assist": "Noël Aséko",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Younes Ebnoutalib scored with a right-footed shot from the right side of the box to the bottom right corner. Assist: Noël Aséko.",
+     "shot": {
+      "x": 91.4,
+      "y": 33.6,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 24,
+     "player": "Mario Götze",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 39,
+     "player": "Lilian Brassier",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "player": "Ísak Jóhannesson",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "player": "Borna Sosa",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     56,
+     44
+    ],
+    "shots": [
+     15,
+     9
+    ],
+    "onTarget": [
+     7,
+     3
+    ],
+    "corners": [
+     7,
+     3
+    ],
+    "fouls": [
+     8,
+     17
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884770",
+    "https://www.espn.com/soccer/match/_/gameId/401884770",
+    "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916170",
+    "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+   ],
+   "notes": " Referee, attendance and coaches from Transfermarkt; all other data from ESPN. Positions mapped from ESPN formation places; wide midfielders/wing-backs mapped to LW/RW/LB/RB. Kickoff converted from UTC to CEST. xG not available.",
+   "league": "Bundesliga",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+   "home_country": "DE",
+   "away_country": "DE"
+  },
+  {
+   "id": "union-berlin-borussia-dortmund-2026-10-17",
+   "found": true,
+   "competition": "Bundesliga",
+   "round": "Matchday 6",
+   "date": "2026-10-17",
+   "kickoff_local": "15:30",
+   "home": "Union Berlin",
+   "away": "Borussia Dortmund",
+   "score": [
+    0,
+    0
+   ],
+   "venue": {
+    "name": "Stadion An der Alten Försterei",
+    "city": "Berlin",
+    "attendance": 22012
+   },
+   "referee": {
+    "name": "Daniel Schlager",
+    "country": "Germany"
+   },
+   "coaches": {
+    "home": "Mauro Lustrinelli",
+    "away": "Niko Kovac"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "3-4-2-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Frederik Ronnow",
+      "short": "Ronnow",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Tom Rothe",
+      "short": "Rothe",
+      "number": 15,
+      "pos": "LB"
+     },
+     {
+      "name": "Felix Uduokhai",
+      "short": "Uduokhai",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Zeno Van Den Bosch",
+      "short": "Van Den Bosch",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Janik Haberer",
+      "short": "Haberer",
+      "number": 19,
+      "pos": "RB"
+     },
+     {
+      "name": "Rani Khedira",
+      "short": "Khedira",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "András Schäfer",
+      "short": "Schäfer",
+      "number": 13,
+      "pos": "DM"
+     },
+     {
+      "name": "Kastriot Imeri",
+      "short": "Imeri",
+      "number": 30,
+      "pos": "LW"
+     },
+     {
+      "name": "Michel Aebischer",
+      "short": "Aebischer",
+      "number": 20,
+      "pos": "AM"
+     },
+     {
+      "name": "Jeong Woo-Yeong",
+      "short": "Jeong",
+      "number": 11,
+      "pos": "RW"
+     },
+     {
+      "name": "Tim Skarke",
+      "short": "Skarke",
+      "number": 21,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Gregor Kobel",
+      "short": "Kobel",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Nico Schlotterbeck",
+      "short": "Schlotterbeck",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Waldemar Anton",
+      "short": "Anton",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Kouakou Gadou",
+      "short": "Gadou",
+      "number": 22,
+      "pos": "CB"
+     },
+     {
+      "name": "Daniel Svensson",
+      "short": "Svensson",
+      "number": 24,
+      "pos": "LB"
+     },
+     {
+      "name": "Felix Nmecha",
+      "short": "Nmecha",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Jobe Bellingham",
+      "short": "Bellingham",
+      "number": 7,
+      "pos": "CM"
+     },
+     {
+      "name": "Julian Ryerson",
+      "short": "Ryerson",
+      "number": 26,
+      "pos": "RB"
+     },
+     {
+      "name": "Maximilian Beier",
+      "short": "Beier",
+      "number": 14,
+      "pos": "AM"
+     },
+     {
+      "name": "Ethan Nwaneri",
+      "short": "Nwaneri",
+      "number": 18,
+      "pos": "AM"
+     },
+     {
+      "name": "Serhou Guirassy",
+      "short": "Guirassy",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 46,
+     "in": "Emmanuel Latte Lath",
+     "out": "Kastriot Imeri"
+    },
+    {
+     "side": "away",
+     "minute": 62,
+     "in": "Konstantinos Karetsas",
+     "out": "Maximilian Beier"
+    },
+    {
+     "side": "away",
+     "minute": 62,
+     "in": "Fábio Silva",
+     "out": "Ethan Nwaneri"
+    },
+    {
+     "side": "home",
+     "minute": 70,
+     "in": "Mekhi Anthony Gray",
+     "out": "Tim Skarke"
+    },
+    {
+     "side": "away",
+     "minute": 70,
+     "in": "Mathis Albert",
+     "out": "Konstantinos Karetsas"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "in": "Christopher Trimmel",
+     "out": "Janik Haberer"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "in": "Aljoscha Kemlein",
+     "out": "András Schäfer"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "in": "Linus Güther",
+     "out": "Jeong Woo-Yeong"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Leopold Querfeld",
+     "Marin Ljubicic",
+     "Derrick Köhn",
+     "Matheo Raab"
+    ],
+    "away": [
+     "Kauã Prates",
+     "Carney Chukwuemeka",
+     "Ramy Bensebaini",
+     "Joey Veerman",
+     "Marcel Sabitzer",
+     "Alexander Meyer"
+    ]
+   },
+   "goals": [],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 1,
+     "player": "Ethan Nwaneri",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "away",
+     "minute": 7,
+     "player": "Waldemar Anton",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "away",
+     "minute": 14,
+     "player": "Serhou Guirassy",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 33,
+     "player": "Janik Haberer",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 35,
+     "player": "Tom Rothe",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 63,
+     "player": "Tim Skarke",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     37,
+     63
+    ],
+    "shots": [
+     11,
+     12
+    ],
+    "onTarget": [
+     0,
+     2
+    ],
+    "corners": [
+     5,
+     5
+    ],
+    "fouls": [
+     13,
+     12
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884769",
+    "https://www.espn.com/soccer/match/_/gameId/401884769",
+    "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916171",
+    "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+   ],
+   "notes": "Goalless draw; Union had no shots on target per ESPN. Referee, attendance and coaches from Transfermarkt; all other data from ESPN. Positions mapped from ESPN formation places; wide midfielders/wing-backs mapped to LW/RW/LB/RB. Kickoff converted from UTC to CEST. xG not available.",
+   "league": "Bundesliga",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+   "home_country": "DE",
+   "away_country": "DE"
+  },
+  {
+   "id": "hamburg-vfb-stuttgart-2026-10-17",
+   "found": true,
+   "competition": "Bundesliga",
+   "round": "Matchday 6",
+   "date": "2026-10-17",
+   "kickoff_local": "15:30",
+   "home": "Hamburg",
+   "away": "VfB Stuttgart",
+   "score": [
+    1,
+    0
+   ],
+   "venue": {
+    "name": "Volksparkstadion",
+    "city": "Hamburg",
+    "attendance": 57000
+   },
+   "referee": {
+    "name": "Robert Hartmann",
+    "country": "Germany"
+   },
+   "coaches": {
+    "home": "Merlin Polzin",
+    "away": "Sebastian Hoeneß"
+   },
+   "formations": {
+    "home": "3-5-2",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Daniel Heuer Fernandes",
+      "short": "Fernandes",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Warmed Omari",
+      "short": "Omari",
+      "number": 17,
+      "pos": "CB"
+     },
+     {
+      "name": "Sebastiaan Bornauw",
+      "short": "Bornauw",
+      "number": 33,
+      "pos": "CB"
+     },
+     {
+      "name": "Nicolás Capaldo",
+      "short": "Capaldo",
+      "number": 24,
+      "pos": "CB"
+     },
+     {
+      "name": "Louis Lemke",
+      "short": "Lemke",
+      "number": 37,
+      "pos": "LB"
+     },
+     {
+      "name": "Miro Muheim",
+      "short": "Muheim",
+      "number": 28,
+      "pos": "CM"
+     },
+     {
+      "name": "Martin Adeline",
+      "short": "Adeline",
+      "number": 5,
+      "pos": "CM"
+     },
+     {
+      "name": "David Møller Wolfe",
+      "short": "Møller Wolfe",
+      "number": 3,
+      "pos": "RB"
+     },
+     {
+      "name": "Bilal Nadir",
+      "short": "Nadir",
+      "number": 4,
+      "pos": "AM"
+     },
+     {
+      "name": "Yussuf Poulsen",
+      "short": "Poulsen",
+      "number": 15,
+      "pos": "ST"
+     },
+     {
+      "name": "Fabio Vieira",
+      "short": "Vieira",
+      "number": 20,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Dennis Seimen",
+      "short": "Seimen",
+      "number": 41,
+      "pos": "GK"
+     },
+     {
+      "name": "Ramon Hendriks",
+      "short": "Hendriks",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Jeff Chabot",
+      "short": "Chabot",
+      "number": 24,
+      "pos": "CB"
+     },
+     {
+      "name": "Finn Jeltsch",
+      "short": "Jeltsch",
+      "number": 29,
+      "pos": "CB"
+     },
+     {
+      "name": "Josha Vagnoman",
+      "short": "Vagnoman",
+      "number": 4,
+      "pos": "RB"
+     },
+     {
+      "name": "Angelo Stiller",
+      "short": "Stiller",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Atakan Karazor",
+      "short": "Karazor",
+      "number": 16,
+      "pos": "DM"
+     },
+     {
+      "name": "Jamie Leweling",
+      "short": "Leweling",
+      "number": 18,
+      "pos": "LW"
+     },
+     {
+      "name": "Deniz Undav",
+      "short": "Undav",
+      "number": 26,
+      "pos": "AM"
+     },
+     {
+      "name": "Bilal El Khannouss",
+      "short": "El Khannouss",
+      "number": 11,
+      "pos": "RW"
+     },
+     {
+      "name": "Ermedin Demirovic",
+      "short": "Demirovic",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 61,
+     "in": "Otto Stange",
+     "out": "Yussuf Poulsen"
+    },
+    {
+     "side": "away",
+     "minute": 67,
+     "in": "Chris Führich",
+     "out": "Bilal El Khannouss"
+    },
+    {
+     "side": "away",
+     "minute": 67,
+     "in": "Grischa Prömel",
+     "out": "Atakan Karazor"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "in": "Leo Sauer",
+     "out": "Jamie Leweling"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "in": "Dzenan Pejcinovic",
+     "out": "Ermedin Demirovic"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Zakaria El Ouahdi",
+     "out": "Louis Lemke"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Terem Moffi",
+     "out": "Fabio Vieira"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Albert Grønbaek",
+     "out": "Martin Adeline"
+    },
+    {
+     "side": "home",
+     "minute": 84,
+     "in": "Kofi Amoako",
+     "out": "Bilal Nadir"
+    },
+    {
+     "side": "away",
+     "minute": 89,
+     "in": "Lorenz Assignon",
+     "out": "Ramon Hendriks"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Sander Tangvik",
+     "Alexander Røssing-Lelesiit",
+     "Jordan Torunarigha",
+     "Shafiq Nandja"
+    ],
+    "away": [
+     "Fabian Bredlow",
+     "Yanik Spalt",
+     "Luca Jaquez",
+     "Leonidas Stergiou"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 88,
+     "scorer": "Miro Muheim",
+     "assist": "Zakaria El Ouahdi",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "Miro Muheim scored with a left-footed shot from outside the box to the bottom right corner. Assist: Zakaria El Ouahdi following a fast break.",
+     "shot": {
+      "x": 74.5,
+      "y": 59.3,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 54,
+     "player": "Warmed Omari",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 82,
+     "player": "Nicolás Capaldo",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 85,
+     "player": "Otto Stange",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     34,
+     66
+    ],
+    "shots": [
+     14,
+     24
+    ],
+    "onTarget": [
+     3,
+     5
+    ],
+    "corners": [
+     5,
+     9
+    ],
+    "fouls": [
+     12,
+     9
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884767",
+    "https://www.espn.com/soccer/match/_/gameId/401884767",
+    "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916173",
+    "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+   ],
+   "notes": "ESPN lists the venue city as Hamburg Norderstedt; recorded as Hamburg. Referee, attendance and coaches from Transfermarkt; all other data from ESPN. Positions mapped from ESPN formation places; wide midfielders/wing-backs mapped to LW/RW/LB/RB. Kickoff converted from UTC to CEST. xG not available.",
+   "league": "Bundesliga",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "home_country": "DE",
+   "away_country": "DE"
+  },
+  {
+   "id": "bremen-paderborn-2026-10-17",
+   "found": true,
+   "competition": "Bundesliga",
+   "round": "Matchday 6",
+   "date": "2026-10-17",
+   "kickoff_local": "15:30",
+   "home": "Bremen",
+   "away": "Paderborn",
+   "score": [
+    2,
+    2
+   ],
+   "venue": {
+    "name": "Weserstadion",
+    "city": "Bremen",
+    "attendance": 40517
+   },
+   "referee": {
+    "name": "Robert Schröder",
+    "country": "Germany"
+   },
+   "coaches": {
+    "home": "Daniel Thioune",
+    "away": "Ralf Kettemann"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "3-1-4-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Karl Hein",
+      "short": "Hein",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Olivier Deman",
+      "short": "Deman",
+      "number": 2,
+      "pos": "LB"
+     },
+     {
+      "name": "Marco Friedl",
+      "short": "Friedl",
+      "number": 32,
+      "pos": "CB"
+     },
+     {
+      "name": "Amos Pieper",
+      "short": "Pieper",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Arthur",
+      "short": "Arthur",
+      "number": 13,
+      "pos": "RB"
+     },
+     {
+      "name": "Youri Regeer",
+      "short": "Regeer",
+      "number": 44,
+      "pos": "DM"
+     },
+     {
+      "name": "Ludovit Reis",
+      "short": "Reis",
+      "number": 15,
+      "pos": "DM"
+     },
+     {
+      "name": "Marco Grüll",
+      "short": "Grüll",
+      "number": 17,
+      "pos": "LW"
+     },
+     {
+      "name": "Chuki",
+      "short": "Chuki",
+      "number": 20,
+      "pos": "AM"
+     },
+     {
+      "name": "Eren Dinkci",
+      "short": "Dinkci",
+      "number": 18,
+      "pos": "RW"
+     },
+     {
+      "name": "Niclas Füllkrug",
+      "short": "Füllkrug",
+      "number": 10,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Nahuel Nicolas Noll",
+      "short": "Noll",
+      "number": 15,
+      "pos": "GK"
+     },
+     {
+      "name": "Mattes Hansen",
+      "short": "Hansen",
+      "number": 22,
+      "pos": "CB"
+     },
+     {
+      "name": "Tjark Scheller",
+      "short": "Scheller",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Jano Horst",
+      "short": "Horst",
+      "number": 21,
+      "pos": "CB"
+     },
+     {
+      "name": "Santiago Castaneda",
+      "short": "Castaneda",
+      "number": 5,
+      "pos": "DM"
+     },
+     {
+      "name": "Raphael Obermair",
+      "short": "Obermair",
+      "number": 23,
+      "pos": "LB"
+     },
+     {
+      "name": "Gabriel Vidovic",
+      "short": "Vidovic",
+      "number": 40,
+      "pos": "CM"
+     },
+     {
+      "name": "Laurin Ulrich",
+      "short": "Ulrich",
+      "number": 28,
+      "pos": "CM"
+     },
+     {
+      "name": "Laurin Curda",
+      "short": "Curda",
+      "number": 17,
+      "pos": "RB"
+     },
+     {
+      "name": "Steffen Tigges",
+      "short": "Tigges",
+      "number": 27,
+      "pos": "ST"
+     },
+     {
+      "name": "Stefano Marino",
+      "short": "Marino",
+      "number": 30,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 46,
+     "in": "Mitchell Weiser",
+     "out": "Chuki"
+    },
+    {
+     "side": "home",
+     "minute": 63,
+     "in": "Cedric Itten",
+     "out": "Eren Dinkci"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Rayan Philippe",
+     "out": "Stefano Marino"
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "in": "Tom Baack",
+     "out": "Laurin Ulrich"
+    },
+    {
+     "side": "away",
+     "minute": 75,
+     "in": "Ruben Müller",
+     "out": "Gabriel Vidovic"
+    },
+    {
+     "side": "away",
+     "minute": 75,
+     "in": "Marvin Pieringer",
+     "out": "Steffen Tigges"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Dariusz Stalmach",
+     "out": "Ludovit Reis"
+    },
+    {
+     "side": "home",
+     "minute": 88,
+     "in": "Paul Bright Max Erevbenagie",
+     "out": "Youri Regeer"
+    },
+    {
+     "side": "away",
+     "minute": 88,
+     "in": "Jonah Sticker",
+     "out": "Mattes Hansen"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Oskar Wójcik",
+     "Niklas Stark",
+     "Mick Schmetgens",
+     "Darwin Kaan Soylu",
+     "Alexander Schlager"
+    ],
+    "away": [
+     "Markus Schubert",
+     "Clemens Lippmann",
+     "Deniz Zeitler",
+     "Sven Michel"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 18,
+     "scorer": "Stefano Marino",
+     "assist": "Steffen Tigges",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Stefano Marino scored with a right-footed shot from the right side of the box to the top right corner. Assist: Steffen Tigges following a fast break.",
+     "shot": {
+      "x": 89.4,
+      "y": 32.8,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 30,
+     "scorer": "Steffen Tigges",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Steffen Tigges scored with a right-footed shot from the right side of the six yard box to the centre of the goal.",
+     "shot": {
+      "x": 96.5,
+      "y": 39.1,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 59,
+     "scorer": "Niclas Füllkrug",
+     "assist": "Eren Dinkci",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Niclas Füllkrug scored with a left-footed shot from the centre of the box to the bottom left corner. Assist: Eren Dinkçi with a through ball.",
+     "shot": {
+      "x": 84.5,
+      "y": 46.0,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 65,
+     "scorer": "Niclas Füllkrug",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "Penalty awarded for a handball by Laurin Curda. Niclas Füllkrug converted the penalty with a right-footed shot to the bottom left corner.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 4,
+     "player": "Stefano Marino",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 86,
+     "player": "Youri Regeer",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     61,
+     39
+    ],
+    "shots": [
+     18,
+     11
+    ],
+    "onTarget": [
+     11,
+     4
+    ],
+    "corners": [
+     5,
+     3
+    ],
+    "fouls": [
+     11,
+     14
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884766",
+    "https://www.espn.com/soccer/match/_/gameId/401884766",
+    "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916174",
+    "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+   ],
+   "notes": " Referee, attendance and coaches from Transfermarkt; all other data from ESPN. Positions mapped from ESPN formation places; wide midfielders/wing-backs mapped to LW/RW/LB/RB. Kickoff converted from UTC to CEST. xG not available.",
+   "league": "Bundesliga",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
+   "home_country": "DE",
+   "away_country": "DE"
+  },
+  {
+   "id": "schalke-mainz-2026-10-17",
+   "found": true,
+   "competition": "Bundesliga",
+   "round": "Matchday 6",
+   "date": "2026-10-17",
+   "kickoff_local": "15:30",
+   "home": "Schalke",
+   "away": "Mainz",
+   "score": [
+    0,
+    1
+   ],
+   "venue": {
+    "name": "Veltins Arena",
+    "city": "Gelsenkirchen",
+    "attendance": 62250
+   },
+   "referee": {
+    "name": "Richard Hempel",
+    "country": "Germany"
+   },
+   "coaches": {
+    "home": "Miron Muslic",
+    "away": "Urs Fischer"
+   },
+   "formations": {
+    "home": "3-4-2-1",
+    "away": "3-5-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Loris Karius",
+      "short": "Karius",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Hasan Kurucay",
+      "short": "Kurucay",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Nikola Katic",
+      "short": "Katic",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Timo Becker",
+      "short": "Becker",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Robin Gosens",
+      "short": "Gosens",
+      "number": 8,
+      "pos": "LB"
+     },
+     {
+      "name": "Satoshi Tanaka",
+      "short": "Tanaka",
+      "number": 13,
+      "pos": "CM"
+     },
+     {
+      "name": "Soufian El-Faouzi",
+      "short": "El-Faouzi",
+      "number": 23,
+      "pos": "CM"
+     },
+     {
+      "name": "Adrian Gantenbein",
+      "short": "Gantenbein",
+      "number": 17,
+      "pos": "RB"
+     },
+     {
+      "name": "Adil Aouchiche",
+      "short": "Aouchiche",
+      "number": 24,
+      "pos": "AM"
+     },
+     {
+      "name": "Kenan Karaman",
+      "short": "Karaman",
+      "number": 19,
+      "pos": "AM"
+     },
+     {
+      "name": "Edin Dzeko",
+      "short": "Dzeko",
+      "number": 10,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Alexander Schwolow",
+      "short": "Schwolow",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Kacper Potulski",
+      "short": "Potulski",
+      "number": 48,
+      "pos": "CB"
+     },
+     {
+      "name": "Stefan Posch",
+      "short": "Posch",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Danny da Costa",
+      "short": "da Costa",
+      "number": 21,
+      "pos": "CB"
+     },
+     {
+      "name": "Phillipp Mwene",
+      "short": "Mwene",
+      "number": 2,
+      "pos": "LB"
+     },
+     {
+      "name": "Lee Jae-Sung",
+      "short": "Lee",
+      "number": 7,
+      "pos": "CM"
+     },
+     {
+      "name": "Nadiem Amiri",
+      "short": "Amiri",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Anthony Caci",
+      "short": "Caci",
+      "number": 19,
+      "pos": "RB"
+     },
+     {
+      "name": "Kaishu Sano",
+      "short": "Sano",
+      "number": 6,
+      "pos": "AM"
+     },
+     {
+      "name": "Phillip Tietz",
+      "short": "Tietz",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Sheraldo Becker",
+      "short": "Becker",
+      "number": 23,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 60,
+     "in": "Hwang Hee-Chan",
+     "out": "Edin Dzeko"
+    },
+    {
+     "side": "home",
+     "minute": 60,
+     "in": "Junior Dina Ebimbe",
+     "out": "Adrian Gantenbein"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Maximilian Wöber",
+     "out": "Nikola Katic"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Junior Adamu",
+     "out": "Adil Aouchiche"
+    },
+    {
+     "side": "away",
+     "minute": 76,
+     "in": "Paul Nebel",
+     "out": "Lee Jae-Sung"
+    },
+    {
+     "side": "away",
+     "minute": 76,
+     "in": "Ransford-Yeboah Königsdörffer",
+     "out": "Sheraldo Becker"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Vitalie Becker",
+     "out": "Robin Gosens"
+    },
+    {
+     "side": "away",
+     "minute": 86,
+     "in": "Eric Martel",
+     "out": "Nadiem Amiri"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Lennard Maloney",
+     "out": "Phillip Tietz"
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "in": "Silvan Widmer",
+     "out": "Anthony Caci"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Kevin Müller",
+     "Mert Can Ayhan",
+     "Luca Vozar",
+     "Ron Schallenberg"
+    ],
+    "away": [
+     "Rael-Tshimbela Nakuzola",
+     "Fabio Gruber",
+     "Maximilian Kinzig",
+     "Benedict Hollerbach"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 24,
+     "scorer": "Phillip Tietz",
+     "assist": "Anthony Caci",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Phillip Tietz scored with a right-footed shot from the right side of the six yard box to the centre of the goal. Assist: Anthony Caci with a cross.",
+     "shot": {
+      "x": 94.8,
+      "y": 42.1,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 42,
+     "player": "Nadiem Amiri",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "player": "Kaishu Sano",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     46,
+     54
+    ],
+    "shots": [
+     9,
+     10
+    ],
+    "onTarget": [
+     3,
+     6
+    ],
+    "corners": [
+     4,
+     1
+    ],
+    "fouls": [
+     12,
+     20
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884765",
+    "https://www.espn.com/soccer/match/_/gameId/401884765",
+    "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916175",
+    "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+   ],
+   "notes": " Referee, attendance and coaches from Transfermarkt; all other data from ESPN. Positions mapped from ESPN formation places; wide midfielders/wing-backs mapped to LW/RW/LB/RB. Kickoff converted from UTC to CEST. xG not available.",
+   "league": "Bundesliga",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+   "home_country": "DE",
+   "away_country": "DE"
+  },
+  {
+   "id": "elversberg-augsburg-2026-10-17",
+   "found": true,
+   "competition": "Bundesliga",
+   "round": "Matchday 6",
+   "date": "2026-10-17",
+   "kickoff_local": "15:30",
+   "home": "Elversberg",
+   "away": "Augsburg",
+   "score": [
+    4,
+    3
+   ],
+   "venue": {
+    "name": "URSAPHARM-Arena an der Kaiserlinde",
+    "city": "Spiesen-Elversberg",
+    "attendance": 9307
+   },
+   "referee": {
+    "name": "Florian Exner",
+    "country": "Germany"
+   },
+   "coaches": {
+    "home": "Vincent Wagner",
+    "away": "Manuel Baum"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "3-4-2-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Nicolas Kristof",
+      "short": "Kristof",
+      "number": 20,
+      "pos": "GK"
+     },
+     {
+      "name": "Lasse Günther",
+      "short": "Günther",
+      "number": 21,
+      "pos": "LB"
+     },
+     {
+      "name": "Maximilian Rohr",
+      "short": "Rohr",
+      "number": 31,
+      "pos": "CB"
+     },
+     {
+      "name": "Lukas Finn Pinckert",
+      "short": "Pinckert",
+      "number": 19,
+      "pos": "CB"
+     },
+     {
+      "name": "Jan Gyamerah",
+      "short": "Gyamerah",
+      "number": 30,
+      "pos": "RB"
+     },
+     {
+      "name": "Lukasz Poreba",
+      "short": "Poreba",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Felix Keidel",
+      "short": "Keidel",
+      "number": 43,
+      "pos": "DM"
+     },
+     {
+      "name": "Maurice Krattenmacher",
+      "short": "Krattenmacher",
+      "number": 7,
+      "pos": "LW"
+     },
+     {
+      "name": "Noah Darvich",
+      "short": "Darvich",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Lukas Petkov",
+      "short": "Petkov",
+      "number": 25,
+      "pos": "RW"
+     },
+     {
+      "name": "David Mokwa",
+      "short": "Mokwa",
+      "number": 42,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Finn Dahmen",
+      "short": "Dahmen",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Calvin Brackelmann",
+      "short": "Brackelmann",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Chrislain Matsima",
+      "short": "Matsima",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Juma Bah",
+      "short": "Bah",
+      "number": 35,
+      "pos": "CB"
+     },
+     {
+      "name": "Hennes Behrens",
+      "short": "Behrens",
+      "number": 16,
+      "pos": "LB"
+     },
+     {
+      "name": "Fabian Rieder",
+      "short": "Rieder",
+      "number": 32,
+      "pos": "CM"
+     },
+     {
+      "name": "Han-Noah Massengo",
+      "short": "Massengo",
+      "number": 4,
+      "pos": "CM"
+     },
+     {
+      "name": "Marius Wolf",
+      "short": "Wolf",
+      "number": 27,
+      "pos": "RB"
+     },
+     {
+      "name": "Arijon Ibrahimovic",
+      "short": "Ibrahimovic",
+      "number": 21,
+      "pos": "AM"
+     },
+     {
+      "name": "Robin Fellhauer",
+      "short": "Fellhauer",
+      "number": 19,
+      "pos": "AM"
+     },
+     {
+      "name": "Rodrigo Ribeiro",
+      "short": "Ribeiro",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 40,
+     "in": "Luca Sirch",
+     "out": "Jan Gyamerah"
+    },
+    {
+     "side": "home",
+     "minute": 40,
+     "in": "Frederik Schmahl",
+     "out": "Noah Darvich"
+    },
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Anton Kade",
+     "out": "Marius Wolf"
+    },
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Michael Gregoritsch",
+     "out": "Rodrigo Ribeiro"
+    },
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Jeffrey Gouweleeuw",
+     "out": "Juma Bah"
+    },
+    {
+     "side": "away",
+     "minute": 74,
+     "in": "Mert Kömür",
+     "out": "Arijon Ibrahimovic"
+    },
+    {
+     "side": "away",
+     "minute": 74,
+     "in": "Seol Young-Woo",
+     "out": "Robin Fellhauer"
+    },
+    {
+     "side": "home",
+     "minute": 77,
+     "in": "Noel Futkeu",
+     "out": "David Mokwa"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Raif Adam",
+     "out": "Maurice Krattenmacher"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "in": "Amara Conde",
+     "out": "Felix Keidel"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Tim Boss",
+     "Nicholas Mickelson",
+     "Florian Le Joncour",
+     "Luca Schnellbacher"
+    ],
+    "away": [
+     "Yannik Keitel",
+     "Tim Schnitzer",
+     "Uchenna Ogundu",
+     "Nediljko Labrovic"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 4,
+     "scorer": "Lukas Petkov",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "Petkov had his VAR-awarded penalty (for a Matsima handball) saved by Finn Dahmen but scored the rebound. Lukas Petkov scored with a right-footed shot from very close range to the high centre of the goal following a set piece situation.",
+     "shot": {
+      "x": 96.0,
+      "y": 47.6,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 7,
+     "scorer": "Lasse Günther",
+     "assist": "Maurice Krattenmacher",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Lasse Günther scored with a right-footed shot from the centre of the box to the top right corner. Assist: Maurice Krattenmacher following a fast break.",
+     "shot": {
+      "x": 86.8,
+      "y": 53.6,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 28,
+     "scorer": "Maximilian Rohr",
+     "assist": "Felix Keidel",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "Maximilian Rohr scored with a header from the centre of the box to the bottom right corner. Assist: Felix Keidel with a cross following a corner.",
+     "shot": {
+      "x": 93.6,
+      "y": 53.6,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "scorer": "Fabian Rieder",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "left",
+     "description": "Penalty awarded after a VAR review for a handball by Maximilian Rohr, scored in first-half stoppage time (45+9). Fabian Rieder converted the penalty with a left-footed shot to the bottom left corner.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 76,
+     "scorer": "Michael Gregoritsch",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "left",
+     "description": "Penalty awarded after Lukas Pinckert fouled Hennes Behrens. Michael Gregoritsch converted the penalty with a left-footed shot to the bottom left corner.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 89,
+     "scorer": "Frederik Schmahl",
+     "assist": "Lukas Petkov",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Frederik Schmahl scored with a right-footed shot from very close range to the bottom right corner. Assist: Lukas Petkov.",
+     "shot": {
+      "x": 94.9,
+      "y": 45.8,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "scorer": "Mert Kömür",
+     "assist": "Hennes Behrens",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Mert Kömür scored with a left-footed shot from the centre of the box to the bottom right corner. Assist: Hennes Behrens with a cross.",
+     "shot": {
+      "x": 86.3,
+      "y": 60.9,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 30,
+     "player": "Han-Noah Massengo",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "away",
+     "minute": 30,
+     "player": "Rodrigo Ribeiro",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "away",
+     "minute": 52,
+     "player": "Chrislain Matsima",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 54,
+     "player": "Felix Keidel",
+     "card": "yellow",
+     "reason": "Not specified"
+    },
+    {
+     "side": "home",
+     "minute": 75,
+     "player": "Lukas Finn Pinckert",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 84,
+     "player": "Nicolas Kristof",
+     "card": "yellow",
+     "reason": "Not specified"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Frederik Schmahl",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 2,
+     "player": "Chrislain Matsima",
+     "detail": "Penalty awarded to Elversberg after VAR review for a handball by Matsima."
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "player": "Maximilian Rohr",
+     "detail": "Penalty awarded to Augsburg after VAR review for a handball by Rohr (45+8)."
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "player": "Raif Adam",
+     "detail": "Goal by Raif Adam ruled out for offside after VAR review."
+    }
+   ],
+   "stats": {
+    "possession": [
+     40,
+     60
+    ],
+    "shots": [
+     19,
+     29
+    ],
+    "onTarget": [
+     8,
+     8
+    ],
+    "corners": [
+     4,
+     12
+    ],
+    "fouls": [
+     16,
+     14
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884764",
+    "https://www.espn.com/soccer/match/_/gameId/401884764",
+    "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916176",
+    "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+   ],
+   "notes": "Elversberg missed two penalties: Petkov saved by Dahmen at 4' (he scored the rebound) and Futkeu hit the bar at 90+8'. A VAR check at 87' (no penalty for Augsburg after a Gregoritsch handball) is omitted from var because no player was clearly identified as the subject. Augsburg penalty scored at 45+9'. Referee, attendance and coaches from Transfermarkt; all other data from ESPN. Positions mapped from ESPN formation places; wide midfielders/wing-backs mapped to LW/RW/LB/RB. Kickoff converted from UTC to CEST. xG not available.",
+   "league": "Bundesliga",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+   "home_country": "DE",
+   "away_country": "DE"
+  },
+  {
+   "id": "bayern-munchen-rb-leipzig-2026-10-17",
+   "found": true,
+   "competition": "Bundesliga",
+   "round": "Matchday 6",
+   "date": "2026-10-17",
+   "kickoff_local": "18:30",
+   "home": "Bayern München",
+   "away": "RB Leipzig",
+   "score": [
+    6,
+    1
+   ],
+   "venue": {
+    "name": "Allianz Arena",
+    "city": "München",
+    "attendance": 75000
+   },
+   "referee": {
+    "name": "Tobias Stieler",
+    "country": "Germany"
+   },
+   "coaches": {
+    "home": "Vincent Kompany",
+    "away": "Martín Demichelis"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-5-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Jonas Urbig",
+      "short": "Urbig",
+      "number": 40,
+      "pos": "GK"
+     },
+     {
+      "name": "Nathaniel Brown",
+      "short": "Brown",
+      "number": 11,
+      "pos": "LB"
+     },
+     {
+      "name": "Kim Min-Jae",
+      "short": "Kim",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Dayot Upamecano",
+      "short": "Upamecano",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Konrad Laimer",
+      "short": "Laimer",
+      "number": 27,
+      "pos": "RB"
+     },
+     {
+      "name": "Aleksandar Pavlovic",
+      "short": "Pavlovic",
+      "number": 45,
+      "pos": "DM"
+     },
+     {
+      "name": "Joshua Kimmich",
+      "short": "Kimmich",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Luis Díaz",
+      "short": "Díaz",
+      "number": 14,
+      "pos": "LW"
+     },
+     {
+      "name": "Ismael Saibari",
+      "short": "Saibari",
+      "number": 34,
+      "pos": "AM"
+     },
+     {
+      "name": "Michael Olise",
+      "short": "Olise",
+      "number": 17,
+      "pos": "RW"
+     },
+     {
+      "name": "Harry Kane",
+      "short": "Kane",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Maarten Vandevoordt",
+      "short": "Vandevoordt",
+      "number": 26,
+      "pos": "GK"
+     },
+     {
+      "name": "David Raum",
+      "short": "Raum",
+      "number": 22,
+      "pos": "LB"
+     },
+     {
+      "name": "Castello Lukeba",
+      "short": "Lukeba",
+      "number": 23,
+      "pos": "CB"
+     },
+     {
+      "name": "Willi Orbán",
+      "short": "Orbán",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Lukas Klostermann",
+      "short": "Klostermann",
+      "number": 16,
+      "pos": "RB"
+     },
+     {
+      "name": "Antonio Nusa",
+      "short": "Nusa",
+      "number": 7,
+      "pos": "LW"
+     },
+     {
+      "name": "Ezechiel Banzuzi",
+      "short": "Banzuzi",
+      "number": 6,
+      "pos": "CM"
+     },
+     {
+      "name": "Neil El Aynaoui",
+      "short": "El Aynaoui",
+      "number": 21,
+      "pos": "AM"
+     },
+     {
+      "name": "Rocco Reitz",
+      "short": "Reitz",
+      "number": 20,
+      "pos": "CM"
+     },
+     {
+      "name": "Brajan Gruda",
+      "short": "Gruda",
+      "number": 10,
+      "pos": "RW"
+     },
+     {
+      "name": "Christopher Nkunku",
+      "short": "Nkunku",
+      "number": 28,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Nicolas Seiwald",
+     "out": "Ezechiel Banzuzi"
+    },
+    {
+     "side": "away",
+     "minute": 46,
+     "in": "Tidiam Gomis",
+     "out": "Christopher Nkunku"
+    },
+    {
+     "side": "home",
+     "minute": 59,
+     "in": "Tom Bischof",
+     "out": "Aleksandar Pavlovic"
+    },
+    {
+     "side": "home",
+     "minute": 59,
+     "in": "Josip Stanisic",
+     "out": "Konrad Laimer"
+    },
+    {
+     "side": "home",
+     "minute": 59,
+     "in": "Lennart Karl",
+     "out": "Harry Kane"
+    },
+    {
+     "side": "home",
+     "minute": 59,
+     "in": "Serge Gnabry",
+     "out": "Ismael Saibari"
+    },
+    {
+     "side": "away",
+     "minute": 59,
+     "in": "Benjamin Henrichs",
+     "out": "Lukas Klostermann"
+    },
+    {
+     "side": "away",
+     "minute": 60,
+     "in": "Rômulo",
+     "out": "Antonio Nusa"
+    },
+    {
+     "side": "away",
+     "minute": 71,
+     "in": "Andrija Maksimovic",
+     "out": "Rocco Reitz"
+    },
+    {
+     "side": "home",
+     "minute": 77,
+     "in": "Sacha Boey",
+     "out": "Kim Min-Jae"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Jonathan Tah",
+     "Hiroki Ito",
+     "Alphonso Davies",
+     "Sven Ulreich"
+    ],
+    "away": [
+     "Max Finkgrafe",
+     "Maxime Estève",
+     "Ørjan Nyland",
+     "Ridle Baku"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 12,
+     "scorer": "Luis Díaz",
+     "assist": "Joshua Kimmich",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Luis Díaz scored with a right-footed shot from the centre of the box to the bottom left corner. Assist: Joshua Kimmich with a through ball.",
+     "shot": {
+      "x": 85.4,
+      "y": 54.2,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 26,
+     "scorer": "Aleksandar Pavlovic",
+     "assist": "Luis Díaz",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Aleksandar Pavlovic scored with a left-footed shot from the left side of the box to the bottom left corner. Assist: Luis Díaz.",
+     "shot": {
+      "x": 90.0,
+      "y": 64.2,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 34,
+     "scorer": "Michael Olise",
+     "assist": "Harry Kane",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Michael Olise scored with a left-footed shot from outside the box to the bottom right corner. Assist: Harry Kane.",
+     "shot": {
+      "x": 80.3,
+      "y": 53.8,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 47,
+     "scorer": "Luis Díaz",
+     "assist": "Harry Kane",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Luis Díaz scored with a right-footed shot from the left side of the box to the bottom right corner. Assist: Harry Kane.",
+     "shot": {
+      "x": 86.2,
+      "y": 68.4,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 52,
+     "scorer": "Harry Kane",
+     "assist": "Nathaniel Brown",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Harry Kane scored with a right-footed shot from very close range to the centre of the goal. Assist: Nathaniel Brown following a fast break.",
+     "shot": {
+      "x": 97.3,
+      "y": 49.8,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 69,
+     "scorer": "Luis Díaz",
+     "assist": "Michael Olise",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "Luis Díaz scored with a right-footed shot from outside the box to the bottom right corner. Assist: Michael Olise following a corner.",
+     "shot": {
+      "x": 80.9,
+      "y": 52.8,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 90,
+     "scorer": "Andrija Maksimovic",
+     "assist": "Brajan Gruda",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Andrija Maksimovic scored with a left-footed shot from the centre of the box to the high centre of the goal. Assist: Brajan Gruda.",
+     "shot": {
+      "x": 85.6,
+      "y": 47.7,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 51,
+     "player": "Konrad Laimer",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     62,
+     38
+    ],
+    "shots": [
+     29,
+     12
+    ],
+    "onTarget": [
+     17,
+     4
+    ],
+    "corners": [
+     11,
+     3
+    ],
+    "fouls": [
+     15,
+     6
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884772",
+    "https://www.espn.com/soccer/match/_/gameId/401884772",
+    "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916168",
+    "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+   ],
+   "notes": " Referee, attendance and coaches from Transfermarkt; all other data from ESPN. Positions mapped from ESPN formation places; wide midfielders/wing-backs mapped to LW/RW/LB/RB. Kickoff converted from UTC to CEST. xG not available.",
+   "league": "Bundesliga",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+   "home_country": "DE",
+   "away_country": "DE"
+  },
+  {
+   "id": "leverkusen-freiburg-2026-10-18",
+   "found": true,
+   "competition": "Bundesliga",
+   "round": "Matchday 6",
+   "date": "2026-10-18",
+   "kickoff_local": "15:30",
+   "home": "Leverkusen",
+   "away": "Freiburg",
+   "score": [
+    2,
+    1
+   ],
+   "venue": {
+    "name": "BayArena",
+    "city": "Leverkusen",
+    "attendance": 30210
+   },
+   "referee": {
+    "name": "Florian Badstübner",
+    "country": "Germany"
+   },
+   "coaches": {
+    "home": "Carles Martínez",
+    "away": "Julian Schuster"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Mark Flekken",
+      "short": "Flekken",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Miguel Gutiérrez",
+      "short": "Gutiérrez",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Facundo Medina",
+      "short": "Medina",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Edmond Tapsoba",
+      "short": "Tapsoba",
+      "number": 12,
+      "pos": "CB"
+     },
+     {
+      "name": "Jarell Quansah",
+      "short": "Quansah",
+      "number": 4,
+      "pos": "RB"
+     },
+     {
+      "name": "Ezequiel Fernández",
+      "short": "Fernández",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Aleix García",
+      "short": "García",
+      "number": 24,
+      "pos": "DM"
+     },
+     {
+      "name": "Afonso Moreira",
+      "short": "Moreira",
+      "number": 9,
+      "pos": "LW"
+     },
+     {
+      "name": "Ibrahim Maza",
+      "short": "Maza",
+      "number": 30,
+      "pos": "AM"
+     },
+     {
+      "name": "Moussa Diaby",
+      "short": "Diaby",
+      "number": 19,
+      "pos": "RW"
+     },
+     {
+      "name": "Patrik Schick",
+      "short": "Schick",
+      "number": 14,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Mio Backhaus",
+      "short": "Backhaus",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Jordy Makengo",
+      "short": "Makengo",
+      "number": 33,
+      "pos": "LB"
+     },
+     {
+      "name": "Philipp Lienhart",
+      "short": "Lienhart",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Matthias Ginter",
+      "short": "Ginter",
+      "number": 28,
+      "pos": "CB"
+     },
+     {
+      "name": "Philipp Treu",
+      "short": "Treu",
+      "number": 29,
+      "pos": "RB"
+     },
+     {
+      "name": "Yannick Engelhardt",
+      "short": "Engelhardt",
+      "number": 16,
+      "pos": "DM"
+     },
+     {
+      "name": "Maximilian Eggestein",
+      "short": "Eggestein",
+      "number": 8,
+      "pos": "DM"
+     },
+     {
+      "name": "Derry Scherhant",
+      "short": "Scherhant",
+      "number": 7,
+      "pos": "LW"
+     },
+     {
+      "name": "Keisuke Goto",
+      "short": "Goto",
+      "number": 42,
+      "pos": "AM"
+     },
+     {
+      "name": "Niklas Beste",
+      "short": "Beste",
+      "number": 19,
+      "pos": "RW"
+     },
+     {
+      "name": "Igor Matanovic",
+      "short": "Matanovic",
+      "number": 31,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 59,
+     "in": "Nathan Tella",
+     "out": "Afonso Moreira"
+    },
+    {
+     "side": "away",
+     "minute": 64,
+     "in": "Lukas Kübler",
+     "out": "Philipp Treu"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "in": "Lucas Höler",
+     "out": "Keisuke Goto"
+    },
+    {
+     "side": "home",
+     "minute": 73,
+     "in": "Malik Tillman",
+     "out": "Moussa Diaby"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "in": "Patrick Osterhage",
+     "out": "Yannick Engelhardt"
+    },
+    {
+     "side": "away",
+     "minute": 77,
+     "in": "Cyriaque Irié",
+     "out": "Niklas Beste"
+    },
+    {
+     "side": "home",
+     "minute": 84,
+     "in": "Jonas Hofmann",
+     "out": "Ibrahim Maza"
+    },
+    {
+     "side": "away",
+     "minute": 89,
+     "in": "Vincenzo Grifo",
+     "out": "Derry Scherhant"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Janis Blaswich",
+     "Lucas Vázquez",
+     "Victor Boniface",
+     "Robert Andrich",
+     "Tim Oermann",
+     "Loïc Badé"
+    ],
+    "away": [
+     "Max Rosenfelder",
+     "Christian Günter",
+     "Florian Müller",
+     "Rihito Yamamoto"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 14,
+     "scorer": "Derry Scherhant",
+     "assist": "Philipp Treu",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Derry Scherhant scored with a left-footed shot from the centre of the box to the bottom left corner. Assist: Philipp Treu.",
+     "shot": {
+      "x": 93.2,
+      "y": 58.5,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 19,
+     "scorer": "Ibrahim Maza",
+     "assist": "Patrik Schick",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Ibrahim Maza scored with a right-footed shot from the centre of the box to the bottom left corner. Assist: Patrik Schick.",
+     "shot": {
+      "x": 86.5,
+      "y": 47.1,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "scorer": "Patrik Schick",
+     "assist": "Ibrahim Maza",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Patrik Schick scored with a right-footed shot from the centre of the box to the centre of the goal. Assist: Ibrahim Maza.",
+     "shot": {
+      "x": 92.6,
+      "y": 49.5,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 39,
+     "player": "Philipp Treu",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     49,
+     51
+    ],
+    "shots": [
+     12,
+     11
+    ],
+    "onTarget": [
+     5,
+     2
+    ],
+    "corners": [
+     4,
+     3
+    ],
+    "fouls": [
+     12,
+     5
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884771",
+    "https://www.espn.com/soccer/match/_/gameId/401884771",
+    "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916169",
+    "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+   ],
+   "notes": " Referee, attendance and coaches from Transfermarkt; all other data from ESPN. Positions mapped from ESPN formation places; wide midfielders/wing-backs mapped to LW/RW/LB/RB. Kickoff converted from UTC to CEST. xG not available.",
+   "league": "Bundesliga",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+   "home_country": "DE",
+   "away_country": "DE"
+  },
+  {
+   "id": "gladbach-hoffenheim-2026-10-18",
+   "found": true,
+   "competition": "Bundesliga",
+   "round": "Matchday 6",
+   "date": "2026-10-18",
+   "kickoff_local": "17:30",
+   "home": "Gladbach",
+   "away": "Hoffenheim",
+   "score": [
+    1,
+    2
+   ],
+   "venue": {
+    "name": "BORUSSIA-PARK",
+    "city": "Mönchengladbach",
+    "attendance": 43702
+   },
+   "referee": {
+    "name": "Sören Storks",
+    "country": "Germany"
+   },
+   "coaches": {
+    "home": "Alexander Blessin",
+    "away": "Christian Ilzer"
+   },
+   "formations": {
+    "home": "4-4-2",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Moritz Nicolas",
+      "short": "Nicolas",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Lukas Ullrich",
+      "short": "Ullrich",
+      "number": 26,
+      "pos": "LB"
+     },
+     {
+      "name": "Fabio Chiarodia",
+      "short": "Chiarodia",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Kevin Diks",
+      "short": "Diks",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Philipp Sander",
+      "short": "Sander",
+      "number": 16,
+      "pos": "RB"
+     },
+     {
+      "name": "Wael Mohya",
+      "short": "Mohya",
+      "number": 36,
+      "pos": "LW"
+     },
+     {
+      "name": "Florian Neuhaus",
+      "short": "Neuhaus",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Zento Uno",
+      "short": "Uno",
+      "number": 47,
+      "pos": "CM"
+     },
+     {
+      "name": "Joe Scally",
+      "short": "Scally",
+      "number": 29,
+      "pos": "RW"
+     },
+     {
+      "name": "Isac Lidberg",
+      "short": "Lidberg",
+      "number": 3,
+      "pos": "ST"
+     },
+     {
+      "name": "Hugo Bolin",
+      "short": "Bolin",
+      "number": 38,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Oliver Baumann",
+      "short": "Baumann",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Mats Rots",
+      "short": "Rots",
+      "number": 39,
+      "pos": "LB"
+     },
+     {
+      "name": "Koki Machida",
+      "short": "Machida",
+      "number": 28,
+      "pos": "CB"
+     },
+     {
+      "name": "Robin Hranác",
+      "short": "Hranác",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Vladimír Coufal",
+      "short": "Coufal",
+      "number": 34,
+      "pos": "RB"
+     },
+     {
+      "name": "Alexander Prass",
+      "short": "Prass",
+      "number": 22,
+      "pos": "DM"
+     },
+     {
+      "name": "Leon Avdullahu",
+      "short": "Avdullahu",
+      "number": 7,
+      "pos": "DM"
+     },
+     {
+      "name": "Adam Hlozek",
+      "short": "Hlozek",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Fisnik Asllani",
+      "short": "Asllani",
+      "number": 11,
+      "pos": "AM"
+     },
+     {
+      "name": "Bambasé Conté",
+      "short": "Conté",
+      "number": 20,
+      "pos": "RW"
+     },
+     {
+      "name": "Tim Lemperle",
+      "short": "Lemperle",
+      "number": 19,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 51,
+     "in": "Shuto Machino",
+     "out": "Isac Lidberg"
+    },
+    {
+     "side": "home",
+     "minute": 60,
+     "in": "Daiki Hashioka",
+     "out": "Florian Neuhaus"
+    },
+    {
+     "side": "away",
+     "minute": 69,
+     "in": "Adam Daghim",
+     "out": "Fisnik Asllani"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "in": "Ozan Kabak",
+     "out": "Tim Lemperle"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "in": "Andrej Kramaric",
+     "out": "Adam Hlozek"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Robin Hack",
+     "out": "Hugo Bolin"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Iaia Manco Danfa",
+     "out": "Fabio Chiarodia"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Mathieu Nguefack",
+     "out": "Zento Uno"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Kevin Stöger",
+     "Yukhym Konoplia",
+     "David Herold",
+     "Daniel Batz"
+    ],
+    "away": [
+     "Max Moerstedt",
+     "Wouter Burger",
+     "Luca Philipp",
+     "Valentin Lässig",
+     "Cajetan Lenz",
+     "Valentin Gendrey"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 11,
+     "scorer": "Bambasé Conté",
+     "assist": "Alexander Prass",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Bambasé Conté scored with a left-footed shot from the centre of the box to the bottom right corner. Assist: Alexander Prass with a cross.",
+     "shot": {
+      "x": 87.7,
+      "y": 53.8,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 49,
+     "scorer": "Wael Mohya",
+     "assist": "Florian Neuhaus",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Wael Mohya scored with a right-footed shot from the left side of the box to the bottom right corner. Assist: Florian Neuhaus.",
+     "shot": {
+      "x": 85.9,
+      "y": 64.8,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 54,
+     "scorer": "Alexander Prass",
+     "assist": "Adam Hlozek",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "Alexander Prass scored with a left-footed shot from the centre of the box to the bottom right corner. Assist: Adam Hlozek following a fast break.",
+     "shot": {
+      "x": 90.2,
+      "y": 59.5,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 45,
+     "player": "Kevin Diks",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "player": "Fisnik Asllani",
+     "card": "yellow",
+     "reason": "Not specified"
+    },
+    {
+     "side": "home",
+     "minute": 89,
+     "player": "Shuto Machino",
+     "card": "yellow",
+     "reason": "Not specified"
+    },
+    {
+     "side": "away",
+     "minute": 89,
+     "player": "Alexander Prass",
+     "card": "yellow",
+     "reason": "Foul"
+    },
+    {
+     "side": "home",
+     "minute": 89,
+     "player": "Robin Hack",
+     "card": "yellow",
+     "reason": "Foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     48,
+     52
+    ],
+    "shots": [
+     9,
+     14
+    ],
+    "onTarget": [
+     3,
+     8
+    ],
+    "corners": [
+     3,
+     6
+    ],
+    "fouls": [
+     13,
+     13
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884768",
+    "https://www.espn.com/soccer/match/_/gameId/401884768",
+    "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916172",
+    "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+   ],
+   "notes": " Referee, attendance and coaches from Transfermarkt; all other data from ESPN. Positions mapped from ESPN formation places; wide midfielders/wing-backs mapped to LW/RW/LB/RB. Kickoff converted from UTC to CEST. xG not available.",
+   "league": "Bundesliga",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+   "home_country": "DE",
+   "away_country": "DE"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "nicolas-otamendi-spain-argentina-2026-07-19",
+    "name": "Nicolás Otamendi",
+    "short": "Otamendi",
+    "position": "CB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "spain-argentina-2026-07-19",
+        "date": "2026-07-19",
+        "team": "Argentina",
+        "role": "bench"
+      }
+    ]
+  }
+}

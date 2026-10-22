@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "mert-gunok",
+    "name": "Mert Günok",
+    "short": "Günok",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "fenerbahce-slavia-prague-2026-10-20",
+        "date": "2026-10-20",
+        "team": "Fenerbahce",
+        "role": "bench"
+      }
+    ]
+  }
+}

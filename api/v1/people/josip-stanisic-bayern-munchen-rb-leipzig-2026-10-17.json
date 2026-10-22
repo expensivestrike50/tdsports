@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "josip-stanisic-bayern-munchen-rb-leipzig-2026-10-17",
+    "name": "Josip Stanisic",
+    "short": "Stanisic",
+    "position": "RB",
+    "photo": "assets/photos/people/josip-stanisic.jpg",
+    "matches": [
+      {
+        "match": "bayern-munchen-rb-leipzig-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Bayern München",
+        "role": "bench"
+      }
+    ]
+  }
+}

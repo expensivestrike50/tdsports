@@ -1,0 +1,3775 @@
+{
+ "agent": "Serie A agent",
+ "league": "Serie A",
+ "generated": "2026-10-22T10:33:12Z",
+ "matches": [
+  {
+   "id": "frosinone-sassuolo-2026-10-16",
+   "found": true,
+   "competition": "Serie A",
+   "round": "Matchday 7",
+   "date": "2026-10-16",
+   "kickoff_local": "20:45",
+   "home": "Frosinone",
+   "away": "Sassuolo",
+   "score": [
+    4,
+    2
+   ],
+   "venue": {
+    "name": "Stadio Benito Stirpe",
+    "city": "Frosinone",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Matteo Marchetti",
+    "country": "Italy"
+   },
+   "coaches": {
+    "home": "Massimiliano Alvini",
+    "away": "Alberto Aquilani"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Lorenzo Palmisani",
+      "short": "Palmisani",
+      "number": 22,
+      "pos": "GK"
+     },
+     {
+      "name": "Gabriele Bracaglia",
+      "short": "Bracaglia",
+      "number": 79,
+      "pos": "LB"
+     },
+     {
+      "name": "Ilario Monterisi",
+      "short": "Monterisi",
+      "number": 30,
+      "pos": "CB"
+     },
+     {
+      "name": "Giorgio Cittadini",
+      "short": "Cittadini",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Anthony Oyono",
+      "short": "Oyono",
+      "number": 20,
+      "pos": "RB"
+     },
+     {
+      "name": "Patrizio Masini",
+      "short": "Masini",
+      "number": 73,
+      "pos": "DM"
+     },
+     {
+      "name": "Giacomo Calo",
+      "short": "Calo",
+      "number": 14,
+      "pos": "DM"
+     },
+     {
+      "name": "Giorgi Kvernadze",
+      "short": "Kvernadze",
+      "number": 17,
+      "pos": "LW"
+     },
+     {
+      "name": "Romano Schmid",
+      "short": "Schmid",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Farès Ghedjemis",
+      "short": "Ghedjemis",
+      "number": 7,
+      "pos": "RW"
+     },
+     {
+      "name": "Antonio Raimondo",
+      "short": "Raimondo",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Arijanet Muric",
+      "short": "Muric",
+      "number": 49,
+      "pos": "GK"
+     },
+     {
+      "name": "Josh Doig",
+      "short": "Doig",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Duje Caleta-Car",
+      "short": "Caleta-Car",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Cas Odenthal",
+      "short": "Odenthal",
+      "number": 26,
+      "pos": "CB"
+     },
+     {
+      "name": "Ignace van der Brempt",
+      "short": "van der Brempt",
+      "number": 20,
+      "pos": "RB"
+     },
+     {
+      "name": "Darryl Bakola",
+      "short": "Bakola",
+      "number": 50,
+      "pos": "DM"
+     },
+     {
+      "name": "Nemanja Matic",
+      "short": "Matic",
+      "number": 18,
+      "pos": "DM"
+     },
+     {
+      "name": "Armand Laurienté",
+      "short": "Laurienté",
+      "number": 45,
+      "pos": "LW"
+     },
+     {
+      "name": "Kristian Thorstvedt",
+      "short": "Thorstvedt",
+      "number": 42,
+      "pos": "AM"
+     },
+     {
+      "name": "Domenico Berardi",
+      "short": "Berardi",
+      "number": 10,
+      "pos": "RW"
+     },
+     {
+      "name": "Sebastiano Esposito",
+      "short": "Esposito",
+      "number": 94,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 58,
+     "in": "Kieron Bowie",
+     "out": "Kristian Thorstvedt"
+    },
+    {
+     "side": "away",
+     "minute": 67,
+     "in": "Benjamín Domínguez",
+     "out": "Sebastiano Esposito"
+    },
+    {
+     "side": "away",
+     "minute": 68,
+     "in": "Rafael Obrador",
+     "out": "Josh Doig"
+    },
+    {
+     "side": "away",
+     "minute": 68,
+     "in": "Luca Lipani",
+     "out": "Nemanja Matic"
+    },
+    {
+     "side": "home",
+     "minute": 74,
+     "in": "Omar Fayed",
+     "out": "Ilario Monterisi"
+    },
+    {
+     "side": "home",
+     "minute": 74,
+     "in": "Alessio Zerbin",
+     "out": "Giorgi Kvernadze"
+    },
+    {
+     "side": "home",
+     "minute": 80,
+     "in": "Wisdom Amey",
+     "out": "Anthony Oyono"
+    },
+    {
+     "side": "home",
+     "minute": 80,
+     "in": "Matteo Cichella",
+     "out": "Giacomo Calo"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Cristian Volpato",
+     "out": "Armand Laurienté"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "in": "Daniel Birligea",
+     "out": "Antonio Raimondo"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Gabriele Calvani",
+     "Enzo Tchato",
+     "Aleksa Terzic",
+     "Matteo Pisseri",
+     "Luis Hasa",
+     "Kevin Akpoguma",
+     "Anouar El Azzouzi",
+     "Tomas Bobcek",
+     "Seydou Fini",
+     "Sebastiano Desplanches"
+    ],
+    "away": [
+     "Andrea Ghion",
+     "Vasilije Adzic",
+     "Sebastian Walukiewicz",
+     "Fali Candé",
+     "Giacomo Satalino",
+     "Edoardo Pieragnolo",
+     "Laurs Skjellerup",
+     "Sulemana",
+     "Stefano Turati",
+     "Simone Cinquegrano"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 9,
+     "scorer": "Giacomo Calo",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Giacomo Calò right footed shot from the centre of the box to the top left corner.",
+     "shot": {
+      "x": 89.1,
+      "y": 46.7,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 15,
+     "scorer": "Domenico Berardi",
+     "assist": "Darryl Bakola",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "left",
+     "description": "Domenico Berardi left footed shot from the right side of the six yard box to the bottom right corner. Assisted by Darryl Bakola following a fast break.",
+     "shot": {
+      "x": 97.7,
+      "y": 38.7,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 26,
+     "scorer": "Antonio Raimondo",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Antonio Raimondo right footed shot from very close range to the centre of the goal.",
+     "shot": {
+      "x": 95.6,
+      "y": 46.2,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 30,
+     "scorer": "Antonio Raimondo",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Antonio Raimondo right footed shot from outside the box to the centre of the goal.",
+     "shot": {
+      "x": 80.9,
+      "y": 49.9,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 37,
+     "scorer": "Kristian Thorstvedt",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Kristian Thorstvedt left footed shot from the centre of the box to the bottom right corner.",
+     "shot": {
+      "x": 88.5,
+      "y": 56.7,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 57,
+     "scorer": "Antonio Raimondo",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "Antonio Raimondo right footed shot from very close range to the top right corner following a corner.",
+     "shot": {
+      "x": 96.5,
+      "y": 47.9,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 82,
+     "player": "Kieron Bowie",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 17,
+     "player": "Giorgi Kvernadze",
+     "detail": "Goal ruled out after VAR review"
+    }
+   ],
+   "stats": {
+    "possession": [
+     41.9,
+     58.1
+    ],
+    "shots": [
+     21,
+     14
+    ],
+    "onTarget": [
+     10,
+     6
+    ],
+    "corners": [
+     5,
+     4
+    ],
+    "fouls": [
+     13,
+     11
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874959",
+    "https://www.espn.com/soccer/match/_/gameId/401874959",
+    "https://www.calciomercato.com/liste/serie-a-frosinone-sassuolo-live/blt144f6a771d9a63a9",
+    "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+   ],
+   "notes": "Attendance not reported by ESPN or found in reports. Referee full name completed from surname in official AIA designations; xG not available; pitch positions approximated from ESPN position codes.",
+   "league": "Serie A",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+   "home_country": "IT",
+   "away_country": "IT"
+  },
+  {
+   "id": "venezia-napoli-2026-10-17",
+   "found": true,
+   "competition": "Serie A",
+   "round": "Matchday 7",
+   "date": "2026-10-17",
+   "kickoff_local": "15:00",
+   "home": "Venezia",
+   "away": "Napoli",
+   "score": [
+    1,
+    0
+   ],
+   "venue": {
+    "name": "Stadio Pier Luigi Penzo",
+    "city": "Venezia",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Juan Luca Sacchi",
+    "country": "Italy"
+   },
+   "coaches": {
+    "home": "Davide Nicola",
+    "away": "Massimiliano Allegri"
+   },
+   "formations": {
+    "home": "3-5-2",
+    "away": "3-4-2-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Filip Stankovic",
+      "short": "Stankovic",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Juan Jesus",
+      "short": "Jesus",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Matías Moreno",
+      "short": "Moreno",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Redouane Halhal",
+      "short": "Halhal",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Ridgeciano Haps",
+      "short": "Haps",
+      "number": 5,
+      "pos": "LB"
+     },
+     {
+      "name": "Toma Basic",
+      "short": "Basic",
+      "number": 26,
+      "pos": "CM"
+     },
+     {
+      "name": "Enrique Perez",
+      "short": "Perez",
+      "number": 71,
+      "pos": "CM"
+     },
+     {
+      "name": "Antoine Hainaut",
+      "short": "Hainaut",
+      "number": 18,
+      "pos": "RB"
+     },
+     {
+      "name": "Simon Sohm",
+      "short": "Sohm",
+      "number": 19,
+      "pos": "AM"
+     },
+     {
+      "name": "Akor Adams",
+      "short": "Adams",
+      "number": 45,
+      "pos": "ST"
+     },
+     {
+      "name": "John Yeboah",
+      "short": "Yeboah",
+      "number": 10,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Alex Meret",
+      "short": "Meret",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Benoît Badiashile",
+      "short": "Badiashile",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Amir Rrahmani",
+      "short": "Rrahmani",
+      "number": 13,
+      "pos": "CB"
+     },
+     {
+      "name": "Sam Beukema",
+      "short": "Beukema",
+      "number": 31,
+      "pos": "CB"
+     },
+     {
+      "name": "Leonardo Spinazzola",
+      "short": "Spinazzola",
+      "number": 37,
+      "pos": "LB"
+     },
+     {
+      "name": "Stanislav Lobotka",
+      "short": "Lobotka",
+      "number": 68,
+      "pos": "CM"
+     },
+     {
+      "name": "Billy Gilmour",
+      "short": "Gilmour",
+      "number": 6,
+      "pos": "CM"
+     },
+     {
+      "name": "Giovanni Di Lorenzo",
+      "short": "Di Lorenzo",
+      "number": 22,
+      "pos": "RB"
+     },
+     {
+      "name": "Scott McTominay",
+      "short": "McTominay",
+      "number": 8,
+      "pos": "AM"
+     },
+     {
+      "name": "Giovane",
+      "short": "Giovane",
+      "number": 23,
+      "pos": "AM"
+     },
+     {
+      "name": "Lorenzo Lucca",
+      "short": "Lucca",
+      "number": 20,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 54,
+     "in": "Rasmus Højlund",
+     "out": "Lorenzo Lucca"
+    },
+    {
+     "side": "away",
+     "minute": 54,
+     "in": "Alisson Santos",
+     "out": "Giovane"
+    },
+    {
+     "side": "away",
+     "minute": 54,
+     "in": "Kevin De Bruyne",
+     "out": "Billy Gilmour"
+    },
+    {
+     "side": "home",
+     "minute": 63,
+     "in": "Albion Rrahmani",
+     "out": "John Yeboah"
+    },
+    {
+     "side": "away",
+     "minute": 63,
+     "in": "Matteo Politano",
+     "out": "Sam Beukema"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Thorir Johann Helgason",
+     "out": "Toma Basic"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "in": "Pasquale Mazzocchi",
+     "out": "Ridgeciano Haps"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "in": "Joel Schingtienne",
+     "out": "Matías Moreno"
+    },
+    {
+     "side": "home",
+     "minute": 82,
+     "in": "Lamine Dabo",
+     "out": "Simon Sohm"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "in": "Mathías Olivera",
+     "out": "Leonardo Spinazzola"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Rufai Mohammed",
+     "Lion Lauberbach",
+     "Kornel Lisman",
+     "Richie Sagrado",
+     "Lorenzo Montipò",
+     "Ale Gomes",
+     "Lorenzo Berardi",
+     "Toni Fernández",
+     "Simone Panada",
+     "Matteo Dagasso"
+    ],
+    "away": [
+     "Frank Anguissa",
+     "Luca Marianucci",
+     "Noa Lang",
+     "Nikita Contini",
+     "Rafa Marín",
+     "Vanja Milinkovic-Savic"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 49,
+     "scorer": "Akor Adams",
+     "assist": "Simon Sohm",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Akor Adams right footed shot from the centre of the box to the bottom left corner. Assisted by Simon Sohm following a fast break.",
+     "shot": {
+      "x": 85.3,
+      "y": 57.9,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 61,
+     "player": "Toma Basic",
+     "card": "yellow",
+     "reason": "Unspecified"
+    },
+    {
+     "side": "home",
+     "minute": 80,
+     "player": "Enrique Perez",
+     "card": "yellow",
+     "reason": "Unspecified"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     29.3,
+     70.7
+    ],
+    "shots": [
+     9,
+     29
+    ],
+    "onTarget": [
+     4,
+     10
+    ],
+    "corners": [
+     0,
+     12
+    ],
+    "fouls": [
+     7,
+     6
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874760",
+    "https://www.espn.com/soccer/match/_/gameId/401874760",
+    "https://www.calciomercato.com/liste/venezia-napoli-live/blt88e47dafdfba77b3",
+    "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+   ],
+   "notes": "Davide Nicola's first match in charge of Venezia (replaced Giovanni Stroppa) per calciomercato.com. Attendance not reported by ESPN or found in reports. Referee full name completed from surname in official AIA designations; xG not available; pitch positions approximated from ESPN position codes.",
+   "league": "Serie A",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+   "home_country": "IT",
+   "away_country": "IT"
+  },
+  {
+   "id": "bologna-inter-2026-10-17",
+   "found": true,
+   "competition": "Serie A",
+   "round": "Matchday 7",
+   "date": "2026-10-17",
+   "kickoff_local": "18:00",
+   "home": "Bologna",
+   "away": "Inter",
+   "score": [
+    1,
+    3
+   ],
+   "venue": {
+    "name": "Renato Dall'Ara",
+    "city": "Bologna",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Daniele Doveri",
+    "country": "Italy"
+   },
+   "coaches": {
+    "home": "Raffaele Palladino",
+    "away": "Cristian Chivu"
+   },
+   "formations": {
+    "home": "3-4-2-1",
+    "away": "3-5-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Lukasz Skorupski",
+      "short": "Skorupski",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Arthur Theate",
+      "short": "Theate",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Nicolo Casale",
+      "short": "Casale",
+      "number": 16,
+      "pos": "CB"
+     },
+     {
+      "name": "Matteo Darmian",
+      "short": "Darmian",
+      "number": 36,
+      "pos": "CB"
+     },
+     {
+      "name": "Juan Miranda",
+      "short": "Miranda",
+      "number": 33,
+      "pos": "LB"
+     },
+     {
+      "name": "Tommaso Pobega",
+      "short": "Pobega",
+      "number": 4,
+      "pos": "CM"
+     },
+     {
+      "name": "Lewis Ferguson",
+      "short": "Ferguson",
+      "number": 19,
+      "pos": "CM"
+     },
+     {
+      "name": "Nadir Zortea",
+      "short": "Zortea",
+      "number": 20,
+      "pos": "RB"
+     },
+     {
+      "name": "Nicolò Cambiaghi",
+      "short": "Cambiaghi",
+      "number": 28,
+      "pos": "AM"
+     },
+     {
+      "name": "Federico Bernardeschi",
+      "short": "Bernardeschi",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Roberto Piccoli",
+      "short": "Piccoli",
+      "number": 91,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Josep Martínez",
+      "short": "Martínez",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Alessandro Bastoni",
+      "short": "Bastoni",
+      "number": 95,
+      "pos": "CB"
+     },
+     {
+      "name": "Manuel Akanji",
+      "short": "Akanji",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Yann Bisseck",
+      "short": "Bisseck",
+      "number": 31,
+      "pos": "CB"
+     },
+     {
+      "name": "Federico Dimarco",
+      "short": "Dimarco",
+      "number": 32,
+      "pos": "LB"
+     },
+     {
+      "name": "Petar Sucic",
+      "short": "Sucic",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Nicolò Barella",
+      "short": "Barella",
+      "number": 23,
+      "pos": "CM"
+     },
+     {
+      "name": "Luis Henrique",
+      "short": "Henrique",
+      "number": 11,
+      "pos": "RB"
+     },
+     {
+      "name": "Piotr Zielinski",
+      "short": "Zielinski",
+      "number": 7,
+      "pos": "AM"
+     },
+     {
+      "name": "Pio Esposito",
+      "short": "Esposito",
+      "number": 94,
+      "pos": "ST"
+     },
+     {
+      "name": "Marcus Thuram",
+      "short": "Thuram",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 30,
+     "in": "Jay Enem",
+     "out": "Roberto Piccoli"
+    },
+    {
+     "side": "away",
+     "minute": 58,
+     "in": "Ange-Yoan Bonny",
+     "out": "Pio Esposito"
+    },
+    {
+     "side": "home",
+     "minute": 63,
+     "in": "Eivind Helland",
+     "out": "Arthur Theate"
+    },
+    {
+     "side": "away",
+     "minute": 69,
+     "in": "Carlos Augusto",
+     "out": "Federico Dimarco"
+    },
+    {
+     "side": "away",
+     "minute": 69,
+     "in": "Andy Diouf",
+     "out": "Luis Henrique"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "in": "Artem Dovbyk",
+     "out": "Nicolò Cambiaghi"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "in": "Nikola Moro",
+     "out": "Tommaso Pobega"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Hakan Çalhanoglu",
+     "out": "Piotr Zielinski"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Henrikh Mkhitaryan",
+     "out": "Marcus Thuram"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Mikel Amondarain",
+     "Ukko Happonen",
+     "Rahim Alhassane",
+     "Torbjørn Heggem",
+     "Lorenzo De Silvestri",
+     "Marco Libra",
+     "Samuel Mbangula",
+     "Oussama El Azzouzi",
+     "Jens Odgaard",
+     "Massimo Pessina",
+     "Martin Vitík"
+    ],
+    "away": [
+     "Ivan Provedel",
+     "Leonardo Bovio",
+     "Mattia Mosconi",
+     "Raffaele Di Gennaro",
+     "Djed Spence",
+     "Aleksandar Stankovic"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 10,
+     "scorer": "Tommaso Pobega",
+     "assist": "Juan Miranda",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Tommaso Pobega left footed shot from the left side of the box to the bottom left corner. Assisted by Juan Miranda.",
+     "shot": {
+      "x": 86.9,
+      "y": 64.0,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 44,
+     "scorer": "Marcus Thuram",
+     "assist": "Nicolò Barella",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Marcus Thuram header from the centre of the box to the top left corner. Assisted by Nicolò Barella with a cross.",
+     "shot": {
+      "x": 91.0,
+      "y": 46.8,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 69,
+     "scorer": "Carlos Augusto",
+     "assist": "Piotr Zielinski",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Carlos Augusto left footed shot from very close range to the centre of the goal. Assisted by Piotr Zielinski.",
+     "shot": {
+      "x": 98.0,
+      "y": 54.2,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "scorer": "Ange-Yoan Bonny",
+     "assist": "Carlos Augusto",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Ange-Yoan Bonny right footed shot from the centre of the box to the centre of the goal. Assisted by Carlos Augusto.",
+     "shot": {
+      "x": 92.5,
+      "y": 46.2,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 34,
+     "player": "Arthur Theate",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 35,
+     "player": "Pio Esposito",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 57,
+     "player": "Tommaso Pobega",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 61,
+     "player": "Marcus Thuram",
+     "card": "yellow",
+     "reason": "Unspecified"
+    },
+    {
+     "side": "home",
+     "minute": 71,
+     "player": "Juan Miranda",
+     "card": "yellow",
+     "reason": "Unspecified"
+    },
+    {
+     "side": "home",
+     "minute": 72,
+     "player": "Federico Bernardeschi",
+     "card": "yellow",
+     "reason": "Unspecified"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "player": "Carlos Augusto",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     35.2,
+     64.8
+    ],
+    "shots": [
+     11,
+     17
+    ],
+    "onTarget": [
+     4,
+     8
+    ],
+    "corners": [
+     2,
+     7
+    ],
+    "fouls": [
+     8,
+     11
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874953",
+    "https://www.espn.com/soccer/match/_/gameId/401874953",
+    "https://www.tuttomercatoweb.com/altre-notizie/bologna-inter-1-3-tabellino-gara-2284428",
+    "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+   ],
+   "notes": "Attendance not reported by ESPN or found in reports. Referee full name completed from surname in official AIA designations; xG not available; pitch positions approximated from ESPN position codes.",
+   "league": "Serie A",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+   "home_country": "IT",
+   "away_country": "IT"
+  },
+  {
+   "id": "as-roma-genoa-2026-10-17",
+   "found": true,
+   "competition": "Serie A",
+   "round": "Matchday 7",
+   "date": "2026-10-17",
+   "kickoff_local": "20:45",
+   "home": "AS Roma",
+   "away": "Genoa",
+   "score": [
+    2,
+    0
+   ],
+   "venue": {
+    "name": "Olimpico",
+    "city": "Roma",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Rosario Abisso",
+    "country": "Italy"
+   },
+   "coaches": {
+    "home": "Gian Piero Gasperini",
+    "away": "Daniele De Rossi"
+   },
+   "formations": {
+    "home": "3-4-2-1",
+    "away": "3-4-2-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Pierluigi Gollini",
+      "short": "Gollini",
+      "number": 95,
+      "pos": "GK"
+     },
+     {
+      "name": "Konstantinos Koulierakis",
+      "short": "Koulierakis",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Evan Ndicka",
+      "short": "Ndicka",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Leonardo Balerdi",
+      "short": "Balerdi",
+      "number": 26,
+      "pos": "CB"
+     },
+     {
+      "name": "Devyne Rensch",
+      "short": "Rensch",
+      "number": 2,
+      "pos": "LB"
+     },
+     {
+      "name": "Niccolò Pisilli",
+      "short": "Pisilli",
+      "number": 61,
+      "pos": "CM"
+     },
+     {
+      "name": "Marten de Roon",
+      "short": "de Roon",
+      "number": 15,
+      "pos": "CM"
+     },
+     {
+      "name": "Emanuele Lulli",
+      "short": "Lulli",
+      "number": 77,
+      "pos": "RB"
+     },
+     {
+      "name": "Rodrigo Mora",
+      "short": "Mora",
+      "number": 86,
+      "pos": "AM"
+     },
+     {
+      "name": "Matìas Soulè",
+      "short": "Soulè",
+      "number": 18,
+      "pos": "AM"
+     },
+     {
+      "name": "Santiago Castro",
+      "short": "Castro",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Justin Bijlow",
+      "short": "Bijlow",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Johan Vásquez",
+      "short": "Vásquez",
+      "number": 22,
+      "pos": "CB"
+     },
+     {
+      "name": "Leo Østigard",
+      "short": "Østigard",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Alessandro Marcandalli",
+      "short": "Marcandalli",
+      "number": 27,
+      "pos": "CB"
+     },
+     {
+      "name": "David Puczka",
+      "short": "Puczka",
+      "number": 31,
+      "pos": "LB"
+     },
+     {
+      "name": "Morten Frendrup",
+      "short": "Frendrup",
+      "number": 32,
+      "pos": "CM"
+     },
+     {
+      "name": "Samuel Wiafe",
+      "short": "Wiafe",
+      "number": 71,
+      "pos": "CM"
+     },
+     {
+      "name": "Mikael Ellertsson",
+      "short": "Ellertsson",
+      "number": 77,
+      "pos": "RB"
+     },
+     {
+      "name": "Stephan El Shaarawy",
+      "short": "El Shaarawy",
+      "number": 92,
+      "pos": "AM"
+     },
+     {
+      "name": "Junior Messias",
+      "short": "Messias",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Milutin Osmajic",
+      "short": "Osmajic",
+      "number": 18,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 63,
+     "in": "Lorenzo Pellegrini",
+     "out": "Rodrigo Mora"
+    },
+    {
+     "side": "home",
+     "minute": 63,
+     "in": "Mario Hermoso",
+     "out": "Konstantinos Koulierakis"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "in": "Vitinha",
+     "out": "Stephan El Shaarawy"
+    },
+    {
+     "side": "home",
+     "minute": 78,
+     "in": "Wesley",
+     "out": "Emanuele Lulli"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Robinho Junior",
+     "out": "Junior Messias"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Alexsandro Amorim",
+     "out": "Morten Frendrup"
+    },
+    {
+     "side": "home",
+     "minute": 88,
+     "in": "Daniele Ghilardi",
+     "out": "Devyne Rensch"
+    },
+    {
+     "side": "home",
+     "minute": 88,
+     "in": "Alessandro Di Nunzio",
+     "out": "Niccolò Pisilli"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Devis Vásquez",
+     "Giorgio De Marzi",
+     "Mandjou Camara",
+     "Lorenzo Paratici",
+     "Antonio Arena",
+     "Nahuel Molina",
+     "Gianluca Mancini"
+    ],
+    "away": [
+     "Hamed Traoré",
+     "Mario Mitaj",
+     "Cody Drameh",
+     "Daniele Sommariva",
+     "Stefano Sabelli",
+     "Marcelo Vaz",
+     "Lukas Klisys",
+     "Sebastian Otoa",
+     "Franz Stolz",
+     "Tommaso Baldanzi"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 50,
+     "scorer": "Santiago Castro",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "right",
+     "description": "Santiago Castro found space in the box after a corner and finished into the top left corner beyond Justin Bijlow.",
+     "shot": {
+      "x": 91.7,
+      "y": 39.5,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "scorer": "Emanuele Lulli",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Emanuele Lulli, unmarked at the back post, turned the ball into the bottom right corner after Matías Soulé's work in the build-up; his first Serie A goal.",
+     "shot": {
+      "x": 96.4,
+      "y": 43.1,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 43,
+     "player": "Matìas Soulè",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 51,
+     "player": "Johan Vásquez",
+     "card": "yellow",
+     "reason": "Unspecified"
+    },
+    {
+     "side": "away",
+     "minute": 65,
+     "player": "Leo Østigard",
+     "card": "yellow",
+     "reason": "Unspecified"
+    },
+    {
+     "side": "home",
+     "minute": 76,
+     "player": "Niccolò Pisilli",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "player": "Mikael Ellertsson",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     65.5,
+     34.5
+    ],
+    "shots": [
+     15,
+     9
+    ],
+    "onTarget": [
+     5,
+     1
+    ],
+    "corners": [
+     5,
+     3
+    ],
+    "fouls": [
+     10,
+     7
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874935",
+    "https://www.espn.com/soccer/match/_/gameId/401874935",
+    "https://www.flashscore.com/news/soccer-serie-a-as-roma-genoa-report-2026-10-17/zercQP7M/",
+    "https://www.fantacalcio.it/serie-a/calendario/7/2026-27/roma-genoa/18022/riepilogo",
+    "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+   ],
+   "notes": "Genoa coach given by reports only as \"De Rossi\"; full name assumed Daniele De Rossi. Attendance not reported by ESPN or found in reports. Referee full name completed from surname in official AIA designations; xG not available; pitch positions approximated from ESPN position codes.",
+   "league": "Serie A",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "home_country": "IT",
+   "away_country": "IT"
+  },
+  {
+   "id": "udinese-lecce-2026-10-18",
+   "found": true,
+   "competition": "Serie A",
+   "round": "Matchday 7",
+   "date": "2026-10-18",
+   "kickoff_local": "12:30",
+   "home": "Udinese",
+   "away": "Lecce",
+   "score": [
+    0,
+    3
+   ],
+   "venue": {
+    "name": "Stadio Friuli",
+    "city": "Udine",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Marco Guida",
+    "country": "Italy"
+   },
+   "coaches": {
+    "home": "Kosta Runjaic",
+    "away": "Eusebio Di Francesco"
+   },
+   "formations": {
+    "home": "3-4-2-1",
+    "away": "4-3-3"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Maduka Okoye",
+      "short": "Okoye",
+      "number": 40,
+      "pos": "GK"
+     },
+     {
+      "name": "Enzo Ebosse",
+      "short": "Ebosse",
+      "number": 77,
+      "pos": "CB"
+     },
+     {
+      "name": "David Alaba",
+      "short": "Alaba",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Oumar Solet",
+      "short": "Solet",
+      "number": 28,
+      "pos": "CB"
+     },
+     {
+      "name": "Hassane Kamara",
+      "short": "Kamara",
+      "number": 11,
+      "pos": "LB"
+     },
+     {
+      "name": "Oier Zarraga",
+      "short": "Zarraga",
+      "number": 6,
+      "pos": "CM"
+     },
+     {
+      "name": "Jesper Karlström",
+      "short": "Karlström",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Mërgim Vojvoda",
+      "short": "Vojvoda",
+      "number": 23,
+      "pos": "RB"
+     },
+     {
+      "name": "Giorgi Chakvetadze",
+      "short": "Chakvetadze",
+      "number": 30,
+      "pos": "AM"
+     },
+     {
+      "name": "Jurgen Ekkelenkamp",
+      "short": "Ekkelenkamp",
+      "number": 32,
+      "pos": "AM"
+     },
+     {
+      "name": "Keinan Davis",
+      "short": "Davis",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Wladimiro Falcone",
+      "short": "Falcone",
+      "number": 30,
+      "pos": "GK"
+     },
+     {
+      "name": "Antonino Gallo",
+      "short": "Gallo",
+      "number": 25,
+      "pos": "LB"
+     },
+     {
+      "name": "Tiago Gabriel",
+      "short": "Gabriel",
+      "number": 44,
+      "pos": "CB"
+     },
+     {
+      "name": "Kialonda Gaspar",
+      "short": "Gaspar",
+      "number": 4,
+      "pos": "CB"
+     },
+     {
+      "name": "Danilo Veiga",
+      "short": "Veiga",
+      "number": 17,
+      "pos": "RB"
+     },
+     {
+      "name": "Youssef Maleh",
+      "short": "Maleh",
+      "number": 14,
+      "pos": "CM"
+     },
+     {
+      "name": "Oumar Ngom",
+      "short": "Ngom",
+      "number": 79,
+      "pos": "DM"
+     },
+     {
+      "name": "Lassana Coulibaly",
+      "short": "Coulibaly",
+      "number": 29,
+      "pos": "CM"
+     },
+     {
+      "name": "Amar Ahmed",
+      "short": "Ahmed",
+      "number": 7,
+      "pos": "LW"
+     },
+     {
+      "name": "Willem Geubbels",
+      "short": "Geubbels",
+      "number": 69,
+      "pos": "ST"
+     },
+     {
+      "name": "Konan N’Dri",
+      "short": "N’Dri",
+      "number": 11,
+      "pos": "RW"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 41,
+     "in": "Mohamed Kaba",
+     "out": "Lassana Coulibaly"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Matteo Palma",
+     "out": "David Alaba"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Juan David Arizala",
+     "out": "Hassane Kamara"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Jakub Piotrowski",
+     "out": "Oier Zarraga"
+    },
+    {
+     "side": "home",
+     "minute": 64,
+     "in": "Unai Gómez",
+     "out": "Giorgi Chakvetadze"
+    },
+    {
+     "side": "home",
+     "minute": 64,
+     "in": "Alessandro Zanoli",
+     "out": "Enzo Ebosse"
+    },
+    {
+     "side": "away",
+     "minute": 69,
+     "in": "Santiago Pierotti",
+     "out": "Amar Ahmed"
+    },
+    {
+     "side": "away",
+     "minute": 70,
+     "in": "Francisco Esteban Sánchez",
+     "out": "Willem Geubbels"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "in": "Joel Monteiro",
+     "out": "Konan N’Dri"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "in": "Jamil Siebert",
+     "out": "Youssef Maleh"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Giulio Vinciati",
+     "James Abankwah",
+     "Daniele Padelli",
+     "Lazar Jovanovic",
+     "Bartosz Mrozek",
+     "Sandi Lovric",
+     "Christian Kabasele",
+     "Lennon Miller",
+     "Nicolò Bertola"
+    ],
+    "away": [
+     "Corrie Ndaba",
+     "Elijah Scott",
+     "Gaby Jean",
+     "Nikola Stulic",
+     "Omri Gandelman",
+     "Olaf Gorter",
+     "Alexandru Borbei",
+     "Marco Bleve",
+     "Ali Dembélé",
+     "Sadik Fofana"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 11,
+     "scorer": "Kialonda Gaspar",
+     "assist": "Antonino Gallo",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "Kialonda Gaspar header from very close range to the top left corner. Assisted by Antonino Gallo with a cross following a corner.",
+     "shot": {
+      "x": 94.6,
+      "y": 53.2,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 33,
+     "scorer": "Konan N’Dri",
+     "assist": "Tiago Gabriel",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": null,
+     "description": "Konan N’Dri with an attempt from very close range to the bottom right corner. Assisted by Tiago Gabriel following a corner.",
+     "shot": {
+      "x": 97.1,
+      "y": 52.0,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 86,
+     "scorer": "Jamil Siebert",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Jamil Siebert right footed shot from the right side of the box to the top left corner following a fast break.",
+     "shot": {
+      "x": 90.1,
+      "y": 36.2,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 43,
+     "player": "Hassane Kamara",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 59,
+     "player": "Jakub Piotrowski",
+     "detail": "Goal ruled out after VAR review"
+    }
+   ],
+   "stats": {
+    "possession": [
+     66.8,
+     33.2
+    ],
+    "shots": [
+     14,
+     17
+    ],
+    "onTarget": [
+     2,
+     11
+    ],
+    "corners": [
+     1,
+     4
+    ],
+    "fouls": [
+     10,
+     11
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874771",
+    "https://www.espn.com/soccer/match/_/gameId/401874771",
+    "https://www.fantacalcio.it/serie-a/calendario/7/2026-27/udinese-lecce/18023/riepilogo",
+    "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+   ],
+   "notes": "Attendance not reported by ESPN or found in reports. Referee full name completed from surname in official AIA designations; xG not available; pitch positions approximated from ESPN position codes.",
+   "league": "Serie A",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+   "home_country": "IT",
+   "away_country": "IT"
+  },
+  {
+   "id": "fiorentina-como-2026-10-18",
+   "found": true,
+   "competition": "Serie A",
+   "round": "Matchday 7",
+   "date": "2026-10-18",
+   "kickoff_local": "15:00",
+   "home": "Fiorentina",
+   "away": "Como",
+   "score": [
+    1,
+    3
+   ],
+   "venue": {
+    "name": "Stadio Artemio Franchi",
+    "city": "Firenze",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Marco Di Bello",
+    "country": "Italy"
+   },
+   "coaches": {
+    "home": "Paolo Vanoli",
+    "away": "Cesc Fàbregas"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "David de Gea",
+      "short": "de Gea",
+      "number": 43,
+      "pos": "GK"
+     },
+     {
+      "name": "Viery",
+      "short": "Viery",
+      "number": 33,
+      "pos": "LB"
+     },
+     {
+      "name": "Marin Pongracic",
+      "short": "Pongracic",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Radu Dragusin",
+      "short": "Dragusin",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Álex Jiménez",
+      "short": "Jiménez",
+      "number": 20,
+      "pos": "RB"
+     },
+     {
+      "name": "Nicolò Fagioli",
+      "short": "Fagioli",
+      "number": 44,
+      "pos": "DM"
+     },
+     {
+      "name": "Cher Ndour",
+      "short": "Ndour",
+      "number": 27,
+      "pos": "DM"
+     },
+     {
+      "name": "Alieu Njie",
+      "short": "Njie",
+      "number": 25,
+      "pos": "LW"
+     },
+     {
+      "name": "Pedro Gonçalves",
+      "short": "Gonçalves",
+      "number": 28,
+      "pos": "AM"
+     },
+     {
+      "name": "Franco Mastantuono",
+      "short": "Mastantuono",
+      "number": 30,
+      "pos": "RW"
+     },
+     {
+      "name": "Mateo Pellegrino",
+      "short": "Pellegrino",
+      "number": 32,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Jean Butez",
+      "short": "Butez",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Álex Valle",
+      "short": "Valle",
+      "number": 3,
+      "pos": "LB"
+     },
+     {
+      "name": "Marc-Oliver Kempf",
+      "short": "Kempf",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Trevoh Chalobah",
+      "short": "Chalobah",
+      "number": 99,
+      "pos": "CB"
+     },
+     {
+      "name": "Ivan Smolcic",
+      "short": "Smolcic",
+      "number": 28,
+      "pos": "RB"
+     },
+     {
+      "name": "Lucas Da Cunha",
+      "short": "Da Cunha",
+      "number": 7,
+      "pos": "DM"
+     },
+     {
+      "name": "Luis Milla",
+      "short": "Milla",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Maxence Caqueret",
+      "short": "Caqueret",
+      "number": 8,
+      "pos": "LW"
+     },
+     {
+      "name": "Nico Paz",
+      "short": "Paz",
+      "number": 10,
+      "pos": "AM"
+     },
+     {
+      "name": "Mattia Liberali",
+      "short": "Liberali",
+      "number": 30,
+      "pos": "RW"
+     },
+     {
+      "name": "Anastasios Douvikas",
+      "short": "Douvikas",
+      "number": 9,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 14,
+     "in": "Jacobo Ramón",
+     "out": "Trevoh Chalobah"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "in": "Kaiki",
+     "out": "Álex Valle"
+    },
+    {
+     "side": "away",
+     "minute": 61,
+     "in": "Máximo Perrone",
+     "out": "Nico Paz"
+    },
+    {
+     "side": "home",
+     "minute": 63,
+     "in": "Wilfried Gnonto",
+     "out": "Pedro Gonçalves"
+    },
+    {
+     "side": "home",
+     "minute": 64,
+     "in": "Víctor Valdepeñas",
+     "out": "Viery"
+    },
+    {
+     "side": "home",
+     "minute": 69,
+     "in": "Marco Brescianini",
+     "out": "Franco Mastantuono"
+    },
+    {
+     "side": "home",
+     "minute": 69,
+     "in": "Dodô",
+     "out": "Álex Jiménez"
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "in": "Beto",
+     "out": "Cher Ndour"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Willy Kambwala",
+     "out": "Mattia Liberali"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Samuele Ricci",
+     "out": "Lucas Da Cunha"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Oliver Christensen",
+     "João Mário",
+     "Christ Inao Oulaï",
+     "Arnis Ademi",
+     "Brando Mazzeo",
+     "Antonio Pirrò",
+     "Luca Lezzerini"
+    ],
+    "away": [
+     "Martin Baturina",
+     "Jayden Addai",
+     "Adrian Lahdo",
+     "Robert Sánchez",
+     "Edoardo Goldaniga",
+     "Mauro Vigorito",
+     "Jesús Rodriguez",
+     "Alberto Dossena",
+     "Yan Couto"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 32,
+     "scorer": "Mattia Liberali",
+     "assist": "Maxence Caqueret",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Mattia Liberali left footed shot from the right side of the box to the bottom left corner. Assisted by Maxence Caqueret.",
+     "shot": {
+      "x": 84.3,
+      "y": 29.4,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 36,
+     "scorer": "Nico Paz",
+     "assist": "Álex Valle",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Nico Paz header from the centre of the box to the top left corner. Assisted by Álex Valle with a cross.",
+     "shot": {
+      "x": 89.8,
+      "y": 48.7,
+      "header": true
+     }
+    },
+    {
+     "side": "home",
+     "minute": 42,
+     "scorer": "Marin Pongracic",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "left",
+     "description": "Marin Pongracic pulled one back from close range with a left-footed finish after Fiorentina's corner.",
+     "shot": {
+      "x": 92.9,
+      "y": 51.1,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 56,
+     "scorer": "Anastasios Douvikas",
+     "assist": "Nico Paz",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Tasos Douvikas picked the ball up around 25 yards out, went past Radu Dragusin and drove a right-footed shot between David de Gea's legs after a Nico Paz pass on the break.",
+     "shot": {
+      "x": 87.9,
+      "y": 39.1,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 28,
+     "player": "Álex Valle",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 39,
+     "player": "Nico Paz",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 45,
+     "player": "Jacobo Ramón",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 68,
+     "player": "Cher Ndour",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 73,
+     "player": "Franco Mastantuono",
+     "card": "yellow",
+     "reason": "Unspecified"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 45,
+     "player": "Marin Pongracic",
+     "detail": "Goal ruled out for offside after a lengthy VAR review"
+    }
+   ],
+   "stats": {
+    "possession": [
+     46.7,
+     53.3
+    ],
+    "shots": [
+     19,
+     16
+    ],
+    "onTarget": [
+     7,
+     8
+    ],
+    "corners": [
+     11,
+     5
+    ],
+    "fouls": [
+     12,
+     12
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874774",
+    "https://www.espn.com/soccer/match/_/gameId/401874774",
+    "https://www.flashscore.com/news/soccer-serie-a-fiorentina-como-match-report-18-10-26/tI0NybrS/",
+    "https://www.pazzidifanta.com/news/fiorentina-como-probabili-formazioni-7-giornata-seriea-2026-2027-459994",
+    "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+   ],
+   "notes": "Fiorentina coach (Paolo Vanoli) taken from a pre-match preview. Attendance not reported by ESPN or found in reports. Referee full name completed from surname in official AIA designations; xG not available; pitch positions approximated from ESPN position codes.",
+   "league": "Serie A",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "home_country": "IT",
+   "away_country": "IT"
+  },
+  {
+   "id": "milan-atalanta-2026-10-18",
+   "found": true,
+   "competition": "Serie A",
+   "round": "Matchday 7",
+   "date": "2026-10-18",
+   "kickoff_local": "18:00",
+   "home": "Milan",
+   "away": "Atalanta",
+   "score": [
+    3,
+    2
+   ],
+   "venue": {
+    "name": "San Siro",
+    "city": "Milano",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Daniele Chiffi",
+    "country": "Italy"
+   },
+   "coaches": {
+    "home": "Rúben Amorim",
+    "away": "Maurizio Sarri"
+   },
+   "formations": {
+    "home": "3-4-3",
+    "away": "4-3-3"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Mike Maignan",
+      "short": "Maignan",
+      "number": 16,
+      "pos": "GK"
+     },
+     {
+      "name": "Strahinja Pavlovic",
+      "short": "Pavlovic",
+      "number": 31,
+      "pos": "CB"
+     },
+     {
+      "name": "Koni De Winter",
+      "short": "De Winter",
+      "number": 5,
+      "pos": "CB"
+     },
+     {
+      "name": "Mario Gila",
+      "short": "Gila",
+      "number": 34,
+      "pos": "CB"
+     },
+     {
+      "name": "Diego Moreira",
+      "short": "Moreira",
+      "number": 22,
+      "pos": "LB"
+     },
+     {
+      "name": "Luka Modric",
+      "short": "Modric",
+      "number": 14,
+      "pos": "CM"
+     },
+     {
+      "name": "Yunus Musah",
+      "short": "Musah",
+      "number": 80,
+      "pos": "CM"
+     },
+     {
+      "name": "Samuel Chukwueze",
+      "short": "Chukwueze",
+      "number": 21,
+      "pos": "RB"
+     },
+     {
+      "name": "Christian Pulisic",
+      "short": "Pulisic",
+      "number": 11,
+      "pos": "LW"
+     },
+     {
+      "name": "Gonçalo Ramos",
+      "short": "Ramos",
+      "number": 9,
+      "pos": "ST"
+     },
+     {
+      "name": "Adrien Rabiot",
+      "short": "Rabiot",
+      "number": 12,
+      "pos": "RW"
+     }
+    ],
+    "away": [
+     {
+      "name": "Marco Carnesecchi",
+      "short": "Carnesecchi",
+      "number": 29,
+      "pos": "GK"
+     },
+     {
+      "name": "Lorenzo Bernasconi",
+      "short": "Bernasconi",
+      "number": 47,
+      "pos": "LB"
+     },
+     {
+      "name": "Sead Kolasinac",
+      "short": "Kolasinac",
+      "number": 23,
+      "pos": "CB"
+     },
+     {
+      "name": "Thomas Kristensen",
+      "short": "Kristensen",
+      "number": 31,
+      "pos": "CB"
+     },
+     {
+      "name": "Raoul Bellanova",
+      "short": "Bellanova",
+      "number": 16,
+      "pos": "RB"
+     },
+     {
+      "name": "Mario Pasalic",
+      "short": "Pasalic",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Éderson",
+      "short": "Éderson",
+      "number": 13,
+      "pos": "DM"
+     },
+     {
+      "name": "Lazar Samardzic",
+      "short": "Samardzic",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Jon Rowe",
+      "short": "Rowe",
+      "number": 11,
+      "pos": "LW"
+     },
+     {
+      "name": "Nikola Krstovic",
+      "short": "Krstovic",
+      "number": 90,
+      "pos": "ST"
+     },
+     {
+      "name": "Charles De Ketelaere",
+      "short": "De Ketelaere",
+      "number": 17,
+      "pos": "RW"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 20,
+     "in": "Relja Obric",
+     "out": "Sead Kolasinac"
+    },
+    {
+     "side": "home",
+     "minute": 53,
+     "in": "Omari Hutchinson",
+     "out": "Samuel Chukwueze"
+    },
+    {
+     "side": "away",
+     "minute": 59,
+     "in": "Gianluca Gaetano",
+     "out": "Mario Pasalic"
+    },
+    {
+     "side": "away",
+     "minute": 59,
+     "in": "Nicola Zalewski",
+     "out": "Jon Rowe"
+    },
+    {
+     "side": "away",
+     "minute": 75,
+     "in": "Gianluca Scamacca",
+     "out": "Lazar Samardzic"
+    },
+    {
+     "side": "away",
+     "minute": 75,
+     "in": "Davide Zappacosta",
+     "out": "Lorenzo Bernasconi"
+    },
+    {
+     "side": "home",
+     "minute": 75,
+     "in": "Ardon Jashari",
+     "out": "Christian Pulisic"
+    },
+    {
+     "side": "home",
+     "minute": 75,
+     "in": "Pervis Estupiñán",
+     "out": "Yunus Musah"
+    },
+    {
+     "side": "home",
+     "minute": 75,
+     "in": "Ruben Loftus-Cheek",
+     "out": "Luka Modric"
+    },
+    {
+     "side": "home",
+     "minute": 84,
+     "in": "Fikayo Tomori",
+     "out": "Mario Gila"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Christian Comotto",
+     "Francesco Camarda",
+     "Valeri Vladimirov",
+     "Alphadjo Cissè",
+     "Davide Bartesaghi",
+     "Filippo Terracciano",
+     "Sankhoun Diawara",
+     "Lorenzo Torriani",
+     "Léo-Paul Bouyer"
+    ],
+    "away": [
+     "Digne Pounga",
+     "Mattia Sonzogni",
+     "Marco Sportiello",
+     "Javison Idele",
+     "Matteo Plaia"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 24,
+     "scorer": "Gonçalo Ramos",
+     "assist": null,
+     "own_goal": false,
+     "penalty": true,
+     "type": "penalty",
+     "foot": "right",
+     "description": "Gonçalo Ramos converts the penalty with a right footed shot to the bottom right corner.",
+     "shot": {
+      "x": 88.5,
+      "y": 50.0,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 43,
+     "scorer": "Adrien Rabiot",
+     "assist": "Diego Moreira",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Adrien Rabiot right footed shot from the centre of the box to the bottom left corner. Assisted by Diego Moreira.",
+     "shot": {
+      "x": 86.2,
+      "y": 53.6,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 57,
+     "scorer": "Mario Gila",
+     "assist": "Adrien Rabiot",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "Mario Gila header from very close range to the bottom right corner. Assisted by Adrien Rabiot with a headed pass following a corner.",
+     "shot": {
+      "x": 97.3,
+      "y": 47.7,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "scorer": "Gianluca Gaetano",
+     "assist": "Nicola Zalewski",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Gianluca Gaetano left footed shot from the centre of the box to the bottom right corner. Assisted by Nicola Zalewski.",
+     "shot": {
+      "x": 93.7,
+      "y": 58.9,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "scorer": "Nikola Krstovic",
+     "assist": "Raoul Bellanova",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Nikola Krstovic right footed shot from the centre of the box to the bottom left corner. Assisted by Raoul Bellanova.",
+     "shot": {
+      "x": 88.9,
+      "y": 46.8,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 41,
+     "player": "Adrien Rabiot",
+     "card": "yellow",
+     "reason": "Unspecified"
+    },
+    {
+     "side": "away",
+     "minute": 68,
+     "player": "Éderson",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 78,
+     "player": "Relja Obric",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "home",
+     "minute": 13,
+     "player": "Christian Pulisic",
+     "detail": "Goal ruled out after VAR review"
+    },
+    {
+     "side": "away",
+     "minute": 22,
+     "player": "Relja Obric",
+     "detail": "Penalty awarded to Milan after VAR review for Obric handball"
+    },
+    {
+     "side": "away",
+     "minute": 55,
+     "player": "Thomas Kristensen",
+     "detail": "Penalty awarded to Milan after VAR review for Kristensen handball (Ramos penalty saved)"
+    }
+   ],
+   "stats": {
+    "possession": [
+     56.1,
+     43.9
+    ],
+    "shots": [
+     11,
+     12
+    ],
+    "onTarget": [
+     6,
+     4
+    ],
+    "corners": [
+     2,
+     2
+    ],
+    "fouls": [
+     3,
+     10
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874978",
+    "https://www.espn.com/soccer/match/_/gameId/401874978",
+    "https://www.calciomercato.com/liste/milan-atalanta-live/blta664269c7ee1a0e3",
+    "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+   ],
+   "notes": "Attendance not reported by ESPN or found in reports. Referee full name completed from surname in official AIA designations; xG not available; pitch positions approximated from ESPN position codes.",
+   "league": "Serie A",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+   "home_country": "IT",
+   "away_country": "IT"
+  },
+  {
+   "id": "juventus-lazio-2026-10-18",
+   "found": true,
+   "competition": "Serie A",
+   "round": "Matchday 7",
+   "date": "2026-10-18",
+   "kickoff_local": "20:45",
+   "home": "Juventus",
+   "away": "Lazio",
+   "score": [
+    0,
+    3
+   ],
+   "venue": {
+    "name": "Allianz Stadium",
+    "city": "Torino",
+    "attendance": 41112
+   },
+   "referee": {
+    "name": "Davide Massa",
+    "country": "Italy"
+   },
+   "coaches": {
+    "home": "Luciano Spalletti",
+    "away": "Gennaro Gattuso"
+   },
+   "formations": {
+    "home": "4-2-3-1",
+    "away": "4-3-3"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Guglielmo Vicario",
+      "short": "Vicario",
+      "number": 25,
+      "pos": "GK"
+     },
+     {
+      "name": "Zeki Çelik",
+      "short": "Çelik",
+      "number": 2,
+      "pos": "LB"
+     },
+     {
+      "name": "Jhon Lucumí",
+      "short": "Lucumí",
+      "number": 26,
+      "pos": "CB"
+     },
+     {
+      "name": "Bremer",
+      "short": "Bremer",
+      "number": 3,
+      "pos": "CB"
+     },
+     {
+      "name": "Pierre Kalulu",
+      "short": "Kalulu",
+      "number": 15,
+      "pos": "RB"
+     },
+     {
+      "name": "Pape Matar Sarr",
+      "short": "Sarr",
+      "number": 29,
+      "pos": "DM"
+     },
+     {
+      "name": "Douglas Luiz",
+      "short": "Luiz",
+      "number": 12,
+      "pos": "DM"
+     },
+     {
+      "name": "Kerim Alajbegovic",
+      "short": "Alajbegovic",
+      "number": 17,
+      "pos": "LW"
+     },
+     {
+      "name": "Weston McKennie",
+      "short": "McKennie",
+      "number": 22,
+      "pos": "AM"
+     },
+     {
+      "name": "Nico González",
+      "short": "González",
+      "number": 31,
+      "pos": "RW"
+     },
+     {
+      "name": "Randal Kolo Muani",
+      "short": "Kolo Muani",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Christos Mandas",
+      "short": "Mandas",
+      "number": 35,
+      "pos": "GK"
+     },
+     {
+      "name": "Nuno Tavares",
+      "short": "Tavares",
+      "number": 17,
+      "pos": "LB"
+     },
+     {
+      "name": "Oliver Provstgaard",
+      "short": "Provstgaard",
+      "number": 25,
+      "pos": "CB"
+     },
+     {
+      "name": "Josip Sutalo",
+      "short": "Sutalo",
+      "number": 37,
+      "pos": "CB"
+     },
+     {
+      "name": "Romano Floriani",
+      "short": "Floriani",
+      "number": 15,
+      "pos": "RB"
+     },
+     {
+      "name": "Kenneth Taylor",
+      "short": "Taylor",
+      "number": 24,
+      "pos": "CM"
+     },
+     {
+      "name": "Reda Belahyane",
+      "short": "Belahyane",
+      "number": 21,
+      "pos": "DM"
+     },
+     {
+      "name": "Davide Frattesi",
+      "short": "Frattesi",
+      "number": 16,
+      "pos": "CM"
+     },
+     {
+      "name": "Mattia Zaccagni",
+      "short": "Zaccagni",
+      "number": 10,
+      "pos": "LW"
+     },
+     {
+      "name": "Tijjani Noslin",
+      "short": "Noslin",
+      "number": 14,
+      "pos": "ST"
+     },
+     {
+      "name": "Gustav Isaksen",
+      "short": "Isaksen",
+      "number": 11,
+      "pos": "RW"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Nick Woltemade",
+     "out": "Kerim Alajbegovic"
+    },
+    {
+     "side": "home",
+     "minute": 67,
+     "in": "Francisco Conceição",
+     "out": "Douglas Luiz"
+    },
+    {
+     "side": "home",
+     "minute": 67,
+     "in": "Edon Zhegrova",
+     "out": "Nico González"
+    },
+    {
+     "side": "away",
+     "minute": 69,
+     "in": "Fisayo Dele-Bashiru",
+     "out": "Kenneth Taylor"
+    },
+    {
+     "side": "away",
+     "minute": 69,
+     "in": "Andrea Pinamonti",
+     "out": "Tijjani Noslin"
+    },
+    {
+     "side": "home",
+     "minute": 74,
+     "in": "Andrea Cambiaso",
+     "out": "Zeki Çelik"
+    },
+    {
+     "side": "away",
+     "minute": 79,
+     "in": "Manuel Lazzari",
+     "out": "Gustav Isaksen"
+    },
+    {
+     "side": "away",
+     "minute": 86,
+     "in": "Alfonso Pedraza",
+     "out": "Mattia Zaccagni"
+    },
+    {
+     "side": "home",
+     "minute": 87,
+     "in": "Jérémie Boga",
+     "out": "Pape Matar Sarr"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Daniele Rugani",
+     "Carlo Pinsoglio",
+     "Lloyd Kelly",
+     "Neto",
+     "Federico Gatti",
+     "Teun Koopmeiners",
+     "Juan Cabal"
+    ],
+    "away": [
+     "Adrian Przyborek",
+     "Davide Renzetti",
+     "Diogo Leite",
+     "Luca Pellegrini",
+     "Danilo Cataldi",
+     "Edoardo Motta",
+     "Valerio Farcomeni",
+     "Federico Serra",
+     "Danilho Doekhi"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 37,
+     "scorer": "Oliver Provstgaard",
+     "assist": "Mattia Zaccagni",
+     "own_goal": false,
+     "penalty": false,
+     "type": "set",
+     "foot": "header",
+     "description": "Oliver Provstgaard header from the centre of the box to the bottom right corner. Assisted by Mattia Zaccagni with a cross following a corner.",
+     "shot": {
+      "x": 92.7,
+      "y": 49.2,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 66,
+     "scorer": "Gustav Isaksen",
+     "assist": "Nuno Tavares",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Gustav Isaksen left footed shot from the right side of the box to the bottom left corner. Assisted by Nuno Tavares.",
+     "shot": {
+      "x": 87.3,
+      "y": 32.6,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 89,
+     "scorer": "Fisayo Dele-Bashiru",
+     "assist": "Andrea Pinamonti",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Fisayo Dele-Bashiru right footed shot from the right side of the box to the centre of the goal. Assisted by Andrea Pinamonti following a fast break.",
+     "shot": {
+      "x": 89.9,
+      "y": 33.0,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 41,
+     "player": "Kenneth Taylor",
+     "card": "yellow",
+     "reason": "Unspecified"
+    },
+    {
+     "side": "away",
+     "minute": 48,
+     "player": "Mattia Zaccagni",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     57.7,
+     42.3
+    ],
+    "shots": [
+     9,
+     9
+    ],
+    "onTarget": [
+     2,
+     3
+    ],
+    "corners": [
+     5,
+     7
+    ],
+    "fouls": [
+     7,
+     7
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874765",
+    "https://www.espn.com/soccer/match/_/gameId/401874765",
+    "https://www.calciomercato.com/liste/serie-a-juventus-lazio-live/blt440dd5b1f7b7a961",
+    "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+   ],
+   "notes": "Spalletti was suspended; assistant Domenichini led Juventus from the bench. Referee full name completed from surname in official AIA designations; xG not available; pitch positions approximated from ESPN position codes.",
+   "league": "Serie A",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+   "home_country": "IT",
+   "away_country": "IT"
+  },
+  {
+   "id": "monza-cagliari-2026-10-19",
+   "found": true,
+   "competition": "Serie A",
+   "round": "Matchday 7",
+   "date": "2026-10-19",
+   "kickoff_local": "18:30",
+   "home": "Monza",
+   "away": "Cagliari",
+   "score": [
+    4,
+    0
+   ],
+   "venue": {
+    "name": "U-Power Stadium",
+    "city": "Monza",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Andrea Calzavara",
+    "country": "Italy"
+   },
+   "coaches": {
+    "home": "Ivan Jurić",
+    "away": "Fabio Pisacane"
+   },
+   "formations": {
+    "home": "3-4-2-1",
+    "away": "4-3-2-1"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Noel Törnqvist",
+      "short": "Törnqvist",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Andrea Carboni",
+      "short": "Carboni",
+      "number": 44,
+      "pos": "CB"
+     },
+     {
+      "name": "Saba Goglichidze",
+      "short": "Goglichidze",
+      "number": 2,
+      "pos": "CB"
+     },
+     {
+      "name": "Eddy Kouadio",
+      "short": "Kouadio",
+      "number": 60,
+      "pos": "CB"
+     },
+     {
+      "name": "Ricardo Mangas",
+      "short": "Mangas",
+      "number": 7,
+      "pos": "LB"
+     },
+     {
+      "name": "Ebenezer Akinsanmiro",
+      "short": "Akinsanmiro",
+      "number": 14,
+      "pos": "CM"
+     },
+     {
+      "name": "Manga Foe Ondoa",
+      "short": "Foe Ondoa",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Samuele Birindelli",
+      "short": "Birindelli",
+      "number": 19,
+      "pos": "RB"
+     },
+     {
+      "name": "Jay Robinson",
+      "short": "Robinson",
+      "number": 46,
+      "pos": "AM"
+     },
+     {
+      "name": "Dany Mota",
+      "short": "Mota",
+      "number": 47,
+      "pos": "AM"
+     },
+     {
+      "name": "Gustavo Varela",
+      "short": "Varela",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Elia Caprile",
+      "short": "Caprile",
+      "number": 1,
+      "pos": "GK"
+     },
+     {
+      "name": "Adam Obert",
+      "short": "Obert",
+      "number": 33,
+      "pos": "LB"
+     },
+     {
+      "name": "Juan Rodríguez",
+      "short": "Rodríguez",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Yerry Mina",
+      "short": "Mina",
+      "number": 26,
+      "pos": "CB"
+     },
+     {
+      "name": "Zé Pedro",
+      "short": "Pedro",
+      "number": 2,
+      "pos": "RB"
+     },
+     {
+      "name": "Alessandro Romano",
+      "short": "Romano",
+      "number": 4,
+      "pos": "CM"
+     },
+     {
+      "name": "Harry Winks",
+      "short": "Winks",
+      "number": 6,
+      "pos": "DM"
+     },
+     {
+      "name": "Michel Adopo",
+      "short": "Adopo",
+      "number": 8,
+      "pos": "CM"
+     },
+     {
+      "name": "Daniel Maldini",
+      "short": "Maldini",
+      "number": 70,
+      "pos": "AM"
+     },
+     {
+      "name": "Paul Mendy",
+      "short": "Mendy",
+      "number": 31,
+      "pos": "AM"
+     },
+     {
+      "name": "M'Bala Nzola",
+      "short": "Nzola",
+      "number": 18,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "away",
+     "minute": 53,
+     "in": "Alieu Fadera",
+     "out": "M'Bala Nzola"
+    },
+    {
+     "side": "home",
+     "minute": 64,
+     "in": "Andrea Colpani",
+     "out": "Dany Mota"
+    },
+    {
+     "side": "away",
+     "minute": 67,
+     "in": "Yukinari Sugawara",
+     "out": "Zé Pedro"
+    },
+    {
+     "side": "away",
+     "minute": 67,
+     "in": "Kevin Carlos",
+     "out": "Daniel Maldini"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Michael Folorunsho",
+     "out": "Ebenezer Akinsanmiro"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Patrick Cutrone",
+     "out": "Gustavo Varela"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "in": "Adam Bakoune",
+     "out": "Eddy Kouadio"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Alessandro Deiola",
+     "out": "Alessandro Romano"
+    },
+    {
+     "side": "away",
+     "minute": 81,
+     "in": "Joseph Liteta",
+     "out": "Harry Winks"
+    },
+    {
+     "side": "home",
+     "minute": 87,
+     "in": "Omari Forson",
+     "out": "Jay Robinson"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Valentin Antov",
+     "Cyril Ngonge",
+     "Patrick Ciurria",
+     "Demba Thiam",
+     "Aljaz Strajnar",
+     "Mathis Mout",
+     "Leonardo Colombo"
+    ],
+    "away": [
+     "Giuseppe Aurelio",
+     "Riccardo Ciervo",
+     "Roberto Gagliardini",
+     "Alen Sherri",
+     "Yanis Massolin",
+     "Ivan Sulev",
+     "Raphael Kofler",
+     "Jacopo Fazzini",
+     "Boris Radunovic"
+    ]
+   },
+   "goals": [
+    {
+     "side": "home",
+     "minute": 39,
+     "scorer": "Eddy Kouadio",
+     "assist": "Dany Mota",
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Eddy Kouadio right footed shot from the centre of the box to the centre of the goal. Assisted by Dany Mota with a through ball following a fast break.",
+     "shot": {
+      "x": 88.3,
+      "y": 37.9,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 47,
+     "scorer": "Gustavo Varela",
+     "assist": "Manga Foe Ondoa",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Gustavo Varela right footed shot from the right side of the box to the bottom left corner. Assisted by Manga Foe Ondoa.",
+     "shot": {
+      "x": 88.6,
+      "y": 34.6,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 66,
+     "scorer": "Jay Robinson",
+     "assist": "Gustavo Varela",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Jay Robinson right footed shot from outside the box to the bottom right corner. Assisted by Gustavo Varela.",
+     "shot": {
+      "x": 82.7,
+      "y": 56.8,
+      "header": false
+     }
+    },
+    {
+     "side": "home",
+     "minute": 79,
+     "scorer": "Gustavo Varela",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "counter",
+     "foot": "right",
+     "description": "Gustavo Varela right footed shot from the centre of the box to the bottom left corner following a fast break.",
+     "shot": {
+      "x": 89.4,
+      "y": 57.7,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "away",
+     "minute": 76,
+     "player": "Harry Winks",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 82,
+     "player": "Samuele Birindelli",
+     "card": "yellow",
+     "reason": "Unspecified"
+    },
+    {
+     "side": "away",
+     "minute": 82,
+     "player": "Alieu Fadera",
+     "card": "yellow",
+     "reason": "Unspecified"
+    }
+   ],
+   "var": [],
+   "stats": {
+    "possession": [
+     45.3,
+     54.7
+    ],
+    "shots": [
+     14,
+     16
+    ],
+    "onTarget": [
+     6,
+     5
+    ],
+    "corners": [
+     2,
+     7
+    ],
+    "fouls": [
+     10,
+     14
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874762",
+    "https://www.espn.com/soccer/match/_/gameId/401874762",
+    "https://www.calciomercato.com/liste/monza-cagliari-live/blt6e5bccde10d31357",
+    "https://www.unionesarda.it/en/monza-cagliari-calzavara-to-referee-monday-in-serie-a-o9rkmhkz",
+    "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+   ],
+   "notes": "Pisacane was suspended; Morelli sat on the Cagliari bench. Monza coach named only as \"Juric\" in the source. Attendance not reported by ESPN or found in reports. Referee full name completed from surname in official AIA designations; xG not available; pitch positions approximated from ESPN position codes.",
+   "league": "Serie A",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "home_country": "IT",
+   "away_country": "IT"
+  },
+  {
+   "id": "parma-torino-2026-10-19",
+   "found": true,
+   "competition": "Serie A",
+   "round": "Matchday 7",
+   "date": "2026-10-19",
+   "kickoff_local": "20:45",
+   "home": "Parma",
+   "away": "Torino",
+   "score": [
+    0,
+    3
+   ],
+   "venue": {
+    "name": "Ennio Tardini",
+    "city": "Parma",
+    "attendance": null
+   },
+   "referee": {
+    "name": "Giovanni Ayroldi",
+    "country": "Italy"
+   },
+   "coaches": {
+    "home": "Alberto Gilardino",
+    "away": "Ignazio Abate"
+   },
+   "formations": {
+    "home": "3-4-2-1",
+    "away": "3-5-2"
+   },
+   "lineups": {
+    "home": [
+     {
+      "name": "Edoardo Corvi",
+      "short": "Corvi",
+      "number": 40,
+      "pos": "GK"
+     },
+     {
+      "name": "Enrico Del Prato",
+      "short": "Del Prato",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Mariano Troilo",
+      "short": "Troilo",
+      "number": 37,
+      "pos": "CB"
+     },
+     {
+      "name": "Diego Carlos",
+      "short": "Carlos",
+      "number": 34,
+      "pos": "CB"
+     },
+     {
+      "name": "Emanuele Valeri",
+      "short": "Valeri",
+      "number": 14,
+      "pos": "LB"
+     },
+     {
+      "name": "Mandela Keita",
+      "short": "Keita",
+      "number": 16,
+      "pos": "CM"
+     },
+     {
+      "name": "Adrián Bernabé",
+      "short": "Bernabé",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Sascha Britschgi",
+      "short": "Britschgi",
+      "number": 27,
+      "pos": "RB"
+     },
+     {
+      "name": "El Bilal Toure",
+      "short": "Toure",
+      "number": 19,
+      "pos": "AM"
+     },
+     {
+      "name": "Giovanni Fabbian",
+      "short": "Fabbian",
+      "number": 80,
+      "pos": "AM"
+     },
+     {
+      "name": "José Romero",
+      "short": "Romero",
+      "number": 9,
+      "pos": "ST"
+     }
+    ],
+    "away": [
+     {
+      "name": "Lucas Perri",
+      "short": "Perri",
+      "number": 20,
+      "pos": "GK"
+     },
+     {
+      "name": "Pietro Comuzzo",
+      "short": "Comuzzo",
+      "number": 15,
+      "pos": "CB"
+     },
+     {
+      "name": "Adrian Ismajli",
+      "short": "Ismajli",
+      "number": 44,
+      "pos": "CB"
+     },
+     {
+      "name": "Saúl Coco",
+      "short": "Coco",
+      "number": 23,
+      "pos": "CB"
+     },
+     {
+      "name": "Alessio Cacciamani",
+      "short": "Cacciamani",
+      "number": 77,
+      "pos": "LB"
+     },
+     {
+      "name": "Daniel Bragança",
+      "short": "Bragança",
+      "number": 21,
+      "pos": "CM"
+     },
+     {
+      "name": "Nikola Vlasic",
+      "short": "Vlasic",
+      "number": 10,
+      "pos": "CM"
+     },
+     {
+      "name": "Rafik Belghali",
+      "short": "Belghali",
+      "number": 45,
+      "pos": "RB"
+     },
+     {
+      "name": "Rolando Mandragora",
+      "short": "Mandragora",
+      "number": 8,
+      "pos": "AM"
+     },
+     {
+      "name": "Giovanni Simeone",
+      "short": "Simeone",
+      "number": 18,
+      "pos": "ST"
+     },
+     {
+      "name": "Ché Adams",
+      "short": "Adams",
+      "number": 19,
+      "pos": "ST"
+     }
+    ]
+   },
+   "subs": [
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Dominik Drobnic",
+     "out": "Diego Carlos"
+    },
+    {
+     "side": "home",
+     "minute": 45,
+     "in": "Simone Lontani",
+     "out": "Giovanni Fabbian"
+    },
+    {
+     "side": "away",
+     "minute": 63,
+     "in": "Sandro Kulenovic",
+     "out": "Ché Adams"
+    },
+    {
+     "side": "away",
+     "minute": 63,
+     "in": "Gvidas Gineitis",
+     "out": "Rolando Mandragora"
+    },
+    {
+     "side": "home",
+     "minute": 70,
+     "in": "Djibril Diallo",
+     "out": "Sascha Britschgi"
+    },
+    {
+     "side": "home",
+     "minute": 70,
+     "in": "Matija Frigan",
+     "out": "El Bilal Toure"
+    },
+    {
+     "side": "away",
+     "minute": 73,
+     "in": "Zakaria Aboukhlal",
+     "out": "Rafik Belghali"
+    },
+    {
+     "side": "away",
+     "minute": 73,
+     "in": "Cesare Casadei",
+     "out": "Nikola Vlasic"
+    },
+    {
+     "side": "home",
+     "minute": 80,
+     "in": "Christian Ordoñez",
+     "out": "Adrián Bernabé"
+    },
+    {
+     "side": "away",
+     "minute": 83,
+     "in": "Duván Zapata",
+     "out": "Giovanni Simeone"
+    }
+   ],
+   "unused_subs": {
+    "home": [
+     "Simone Ghidotti",
+     "Thomás De Martis",
+     "Franco Carboni",
+     "Abdoulaye Ndiaye",
+     "Abdou-Salam Konate",
+     "Benjamin Cremaschi",
+     "Giovanni Daffara",
+     "Vincent Sierro"
+    ],
+    "away": [
+     "Kian Fitz-Jim",
+     "Pietro Pellegri",
+     "Lapo Siviero",
+     "Nathan Patterson",
+     "Eray Cömert",
+     "Diego Mascardi",
+     "Ricardo Rodríguez",
+     "Cristiano Biraghi",
+     "Gaetano Oristanio"
+    ]
+   },
+   "goals": [
+    {
+     "side": "away",
+     "minute": 4,
+     "scorer": "Giovanni Simeone",
+     "assist": "Rafik Belghali",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "left",
+     "description": "Giovanni Simeone left footed shot from the centre of the box to the top left corner. Assisted by Rafik Belghali with a cross.",
+     "shot": {
+      "x": 91.4,
+      "y": 55.1,
+      "header": false
+     }
+    },
+    {
+     "side": "away",
+     "minute": 24,
+     "scorer": "Ché Adams",
+     "assist": null,
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "header",
+     "description": "Ché Adams headed in from very close range after a Giovanni Simeone effort; the goal stood after a VAR check for offside.",
+     "shot": {
+      "x": 96.4,
+      "y": 48.6,
+      "header": true
+     }
+    },
+    {
+     "side": "away",
+     "minute": 69,
+     "scorer": "Giovanni Simeone",
+     "assist": "Rafik Belghali",
+     "own_goal": false,
+     "penalty": false,
+     "type": "build",
+     "foot": "right",
+     "description": "Giovanni Simeone hit a powerful right-footed shot from outside the box into the top left corner, set up by Rafik Belghali's headed pass.",
+     "shot": {
+      "x": 72.1,
+      "y": 47.6,
+      "header": false
+     }
+    }
+   ],
+   "cards": [
+    {
+     "side": "home",
+     "minute": 28,
+     "player": "Diego Carlos",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "away",
+     "minute": 37,
+     "player": "Adrian Ismajli",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 54,
+     "player": "Sascha Britschgi",
+     "card": "yellow",
+     "reason": "Unspecified"
+    },
+    {
+     "side": "away",
+     "minute": 75,
+     "player": "Pietro Comuzzo",
+     "card": "yellow",
+     "reason": "Bad foul"
+    },
+    {
+     "side": "home",
+     "minute": 90,
+     "player": "Mariano Troilo",
+     "card": "yellow",
+     "reason": "Bad foul"
+    }
+   ],
+   "var": [
+    {
+     "side": "away",
+     "minute": 24,
+     "player": "Ché Adams",
+     "detail": "Goal confirmed after VAR review"
+    },
+    {
+     "side": "home",
+     "minute": 81,
+     "player": "Matija Frigan",
+     "detail": "Goal ruled out after VAR review"
+    }
+   ],
+   "stats": {
+    "possession": [
+     51.1,
+     48.9
+    ],
+    "shots": [
+     25,
+     9
+    ],
+    "onTarget": [
+     8,
+     3
+    ],
+    "corners": [
+     6,
+     2
+    ],
+    "fouls": [
+     7,
+     16
+    ],
+    "xg": null
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874784",
+    "https://www.espn.com/soccer/match/_/gameId/401874784",
+    "https://www.calciomercato.com/liste/serie-a-parma-torino-live/blteab16a4907caa688",
+    "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+   ],
+   "notes": "Gilardino's first match as Parma coach per calciomercato.com. Attendance not reported by ESPN or found in reports. Referee full name completed from surname in official AIA designations; xG not available; pitch positions approximated from ESPN position codes.",
+   "league": "Serie A",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+   "home_country": "IT",
+   "away_country": "IT"
+  }
+ ]
+}

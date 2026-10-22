@@ -1,0 +1,763 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "austin-vancouver-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "19:30",
+    "competition": "MLS",
+    "round": "Regular season, matchday 31",
+    "status": "FT",
+    "home": {
+      "name": "Austin",
+      "id": "austin",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png",
+      "country": "US"
+    },
+    "away": {
+      "name": "Vancouver",
+      "id": "vancouver",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
+      "country": "CA"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Q2 Stadium",
+      "city": "Austin",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-4-3",
+        "coach": {
+          "id": "davy-arnaud",
+          "name": "Davy Arnaud",
+          "short": "Arnaud",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "brad-stuver",
+            "name": "Brad Stuver",
+            "short": "Stuver",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "jon-bell",
+            "name": "Jon Bell",
+            "short": "Bell",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 7.2
+          },
+          {
+            "id": "oleksandr-svatok",
+            "name": "Oleksandr Svatok",
+            "short": "Svatok",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 6.1
+          },
+          {
+            "id": "brendan-hines-ike",
+            "name": "Brendan Hines-Ike",
+            "short": "Hines-Ike",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 6.9
+          },
+          {
+            "id": "myrto-uzuni",
+            "name": "Myrto Uzuni",
+            "short": "Uzuni",
+            "position": "LB",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 8
+          },
+          {
+            "id": "besard-sabovic",
+            "name": "Besard Sabovic",
+            "short": "Sabovic",
+            "position": "DM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 7
+          },
+          {
+            "id": "ervin-torres",
+            "name": "Ervin Torres",
+            "short": "Torres",
+            "position": "DM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 6.2
+          },
+          {
+            "id": "christian-ramirez",
+            "name": "Christian Ramírez",
+            "short": "Ramírez",
+            "position": "RB",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "jon-gallagher",
+            "name": "Jon Gallagher",
+            "short": "Gallagher",
+            "position": "LW",
+            "photo": null,
+            "x": 46,
+            "y": 23,
+            "rating": 7.5
+          },
+          {
+            "id": "brandon-vazquez",
+            "name": "Brandon Vázquez",
+            "short": "Vázquez",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "joseph-rosales",
+            "name": "Joseph Rosales",
+            "short": "Rosales",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 6.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "guilherme-biro",
+            "name": "Guilherme Biro",
+            "short": "Biro",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "jorge-alastuey",
+            "name": "Jorge Alastuey",
+            "short": "Alastuey",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "ervin-torres",
+            "name": "Ervin Torres",
+            "short": "Torres",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "mikkel-desler",
+            "name": "Mikkel Desler",
+            "short": "Desler",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "ilie-sanchez",
+            "name": "Ilie Sánchez",
+            "short": "Sánchez",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "chris-applewhite",
+            "name": "Chris Applewhite",
+            "short": "Applewhite",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "przemyslaw-placheta",
+            "name": "Przemyslaw Placheta",
+            "short": "Placheta",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "damian-las",
+            "name": "Damian Las",
+            "short": "Las",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mateja-djordjevic",
+            "name": "Mateja Djordjevic",
+            "short": "Djordjevic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "jesper-srensen",
+          "name": "Jesper Sørensen",
+          "short": "Sørensen",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "yohei-takaoka",
+            "name": "Yohei Takaoka",
+            "short": "Takaoka",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "tate-johnson",
+            "name": "Tate Johnson",
+            "short": "Johnson",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.8
+          },
+          {
+            "id": "tristan-blackmon",
+            "name": "Tristan Blackmon",
+            "short": "Blackmon",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.8
+          },
+          {
+            "id": "mathias-laborda",
+            "name": "Mathías Laborda",
+            "short": "Laborda",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.6
+          },
+          {
+            "id": "edier-ocampo",
+            "name": "Édier Ocampo",
+            "short": "Ocampo",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.6
+          },
+          {
+            "id": "aleksa-cvetkovic",
+            "name": "Aleksa Cvetković",
+            "short": "Cvetković",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 7.4
+          },
+          {
+            "id": "andres-cubas",
+            "name": "Andrés Cubas",
+            "short": "Cubas",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.4
+          },
+          {
+            "id": "bruno-caicedo",
+            "name": "Bruno Caicedo",
+            "short": "Caicedo",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.8
+          },
+          {
+            "id": "ryan-gauld",
+            "name": "Ryan Gauld",
+            "short": "Gauld",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.7
+          },
+          {
+            "id": "emmanuel-sabbi",
+            "name": "Emmanuel Sabbi",
+            "short": "Sabbi",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 7.5
+          },
+          {
+            "id": "brian-white",
+            "name": "Brian White",
+            "short": "White",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "yadaly-diaby",
+            "name": "Yadaly Diaby",
+            "short": "Diaby",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.8
+          },
+          {
+            "id": "ralph-priso-mbongue",
+            "name": "Ralph Priso-Mbongue",
+            "short": "Priso-Mbongue",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "oliver-larraz",
+            "name": "Oliver Larraz",
+            "short": "Larraz",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "cheick-sabaly",
+            "name": "Cheick Sabaly",
+            "short": "Sabaly",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "rayan-elloumi",
+            "name": "Rayan Elloumi",
+            "short": "Elloumi",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "mihail-gherasimencov",
+            "name": "Mihail Gherasimencov",
+            "short": "Gherasimencov",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rui-modesto",
+            "name": "Rui Modesto",
+            "short": "Modesto",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ranko-veselinovic",
+            "name": "Ranko Veselinovic",
+            "short": "Veselinovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "isaac-boehmer",
+            "name": "Isaac Boehmer",
+            "short": "Boehmer",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 13,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "andres-cubas",
+          "name": "Andrés Cubas",
+          "short": "Cubas",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 36,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "tristan-blackmon",
+          "name": "Tristan Blackmon",
+          "short": "Blackmon",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 40,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "myrto-uzuni",
+          "name": "Myrto Uzuni",
+          "short": "Uzuni",
+          "position": "LB",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Myrto Uzuni left footed shot from the centre of the box to the centre of the goal."
+      },
+      {
+        "minute": 47,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "ryan-gauld",
+          "name": "Ryan Gauld",
+          "short": "Gauld",
+          "position": "AM",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "emmanuel-sabbi",
+          "name": "Emmanuel Sabbi",
+          "short": "Sabbi",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Ryan Gauld header from the centre of the box to the bottom left corner. Assisted by Emmanuel Sabbi with a cross."
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "guilherme-biro",
+          "name": "Guilherme Biro",
+          "short": "Biro",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "oleksandr-svatok",
+          "name": "Oleksandr Svatok",
+          "short": "Svatok",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "yadaly-diaby",
+          "name": "Yadaly Diaby",
+          "short": "Diaby",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bruno-caicedo",
+          "name": "Bruno Caicedo",
+          "short": "Caicedo",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ralph-priso-mbongue",
+          "name": "Ralph Priso-Mbongue",
+          "short": "Priso-Mbongue",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "andres-cubas",
+          "name": "Andrés Cubas",
+          "short": "Cubas",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "yadaly-diaby",
+          "name": "Yadaly Diaby",
+          "short": "Diaby",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "tate-johnson",
+          "name": "Tate Johnson",
+          "short": "Johnson",
+          "position": "LB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Yadaly Diaby right footed shot from a difficult angle and long range on the left to the top right corner. Assisted by Tate Johnson."
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jorge-alastuey",
+          "name": "Jorge Alastuey",
+          "short": "Alastuey",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "besard-sabovic",
+          "name": "Besard Sabovic",
+          "short": "Sabovic",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ervin-torres",
+          "name": "Ervin Torres",
+          "short": "Torres",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "christian-ramirez",
+          "name": "Christian Ramírez",
+          "short": "Ramírez",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mikkel-desler",
+          "name": "Mikkel Desler",
+          "short": "Desler",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "brendan-hines-ike",
+          "name": "Brendan Hines-Ike",
+          "short": "Hines-Ike",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "oliver-larraz",
+          "name": "Oliver Larraz",
+          "short": "Larraz",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "aleksa-cvetkovic",
+          "name": "Aleksa Cvetković",
+          "short": "Cvetković",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "cheick-sabaly",
+          "name": "Cheick Sabaly",
+          "short": "Sabaly",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "emmanuel-sabbi",
+          "name": "Emmanuel Sabbi",
+          "short": "Sabbi",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ilie-sanchez",
+          "name": "Ilie Sánchez",
+          "short": "Sánchez",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jon-gallagher",
+          "name": "Jon Gallagher",
+          "short": "Gallagher",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "rayan-elloumi",
+          "name": "Rayan Elloumi",
+          "short": "Elloumi",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "brian-white",
+          "name": "Brian White",
+          "short": "White",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "ryan-gauld",
+          "name": "Ryan Gauld",
+          "short": "Gauld",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "not specified"
+      }
+    ],
+    "stats": {
+      "shots": [
+        9,
+        10
+      ],
+      "onTarget": [
+        5,
+        3
+      ],
+      "corners": [
+        4,
+        6
+      ],
+      "fouls": [
+        8,
+        11
+      ],
+      "xg": [
+        0.8,
+        1.1
+      ],
+      "possession": 46
+    },
+    "attendance": 20738,
+    "referee": {
+      "name": "Tori Penso",
+      "country": "USA"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/summary?event=761882",
+      "https://www.espn.com/soccer/match/_/gameId/761882",
+      "https://stats-api.mlssoccer.com/matches/MLS-MAT-0009N8",
+      "https://stats-api.mlssoccer.com/statistics/clubs/matches/MLS-MAT-0009N8"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

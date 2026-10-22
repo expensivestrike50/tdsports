@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "gabriel-jesus-real-betis-barcelona-2026-10-17",
+    "name": "Gabriel Jesus",
+    "short": "G. Jesus",
+    "position": "ST",
+    "photo": "assets/photos/people/gabriel-jesus.jpg",
+    "matches": [
+      {
+        "match": "real-betis-barcelona-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Barcelona",
+        "role": "starter"
+      }
+    ]
+  }
+}

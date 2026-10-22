@@ -1,0 +1,818 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "napoli-bodo",
+    "date": "2026-10-20",
+    "kickoff": "21:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "Napoli",
+      "id": "napoli",
+      "crest": "assets/clubs/114.png",
+      "country": "IT"
+    },
+    "away": {
+      "name": "Bodø/Glimt",
+      "id": "bod-glimt",
+      "crest": "assets/clubs/2980.png",
+      "country": "NO"
+    },
+    "score": {
+      "home": 4,
+      "away": 3
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stadio Diego Armando Maradona",
+      "city": "Naples",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "massimiliano-allegri",
+          "name": "Massimiliano Allegri",
+          "short": "Allegri",
+          "position": "Coach",
+          "photo": "assets/photos/people/massimiliano-allegri.jpg"
+        },
+        "starting": [
+          {
+            "id": "alex-meret",
+            "name": "Alex Meret",
+            "short": "Meret",
+            "position": "GK",
+            "photo": "assets/photos/people/alex-meret.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "leonardo-spinazzola",
+            "name": "Leonardo Spinazzola",
+            "short": "Spinazzola",
+            "position": "LB",
+            "photo": "assets/photos/people/leonardo-spinazzola.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 7.6
+          },
+          {
+            "id": "rafa-marin",
+            "name": "Rafa Marín",
+            "short": "Marín",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7.1
+          },
+          {
+            "id": "amir-rrahmani",
+            "name": "Amir Rrahmani",
+            "short": "Rrahmani",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.3
+          },
+          {
+            "id": "giovanni-di-lorenzo",
+            "name": "Giovanni Di Lorenzo",
+            "short": "Di Lorenzo",
+            "position": "RB",
+            "photo": "assets/photos/people/giovanni-di-lorenzo.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "scott-mctominay",
+            "name": "Scott McTominay",
+            "short": "McTominay",
+            "position": "CM",
+            "photo": "assets/photos/people/scott-mctominay.jpg",
+            "x": 32,
+            "y": 23,
+            "rating": 8.3
+          },
+          {
+            "id": "kevin-de-bruyne",
+            "name": "Kevin De Bruyne",
+            "short": "De Bruyne",
+            "position": "CM",
+            "photo": "assets/photos/people/kevin-de-bruyne.jpg",
+            "x": 32,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "andre-frank-zambo-anguissa",
+            "name": "André-Frank Zambo Anguissa",
+            "short": "Anguissa",
+            "position": "CM",
+            "photo": "assets/photos/people/andre-frank-zambo-anguissa.jpg",
+            "x": 32,
+            "y": 78,
+            "rating": 7.3
+          },
+          {
+            "id": "noa-lang",
+            "name": "Noa Lang",
+            "short": "Lang",
+            "position": "LW",
+            "photo": "assets/photos/people/noa-lang.jpg",
+            "x": 46,
+            "y": 23,
+            "rating": 7.2
+          },
+          {
+            "id": "rasmus-hjlund",
+            "name": "Rasmus Højlund",
+            "short": "Højlund",
+            "position": "ST",
+            "photo": "assets/photos/people/rasmus-hjlund.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "matteo-politano",
+            "name": "Matteo Politano",
+            "short": "Politano",
+            "position": "RW",
+            "photo": null,
+            "x": 46,
+            "y": 78,
+            "rating": 8.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "stanislav-lobotka",
+            "name": "Stanislav Lobotka",
+            "short": "Lobotka",
+            "position": "CM",
+            "photo": "assets/photos/people/stanislav-lobotka.jpg",
+            "rating": 7.5
+          },
+          {
+            "id": "mathias-olivera",
+            "name": "Mathías Olivera",
+            "short": "Olivera",
+            "position": "RW",
+            "photo": "assets/photos/people/mathias-olivera.jpg",
+            "rating": 7.6
+          },
+          {
+            "id": "giovane",
+            "name": "Giovane",
+            "short": "Giovane",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "sam-beukema",
+            "name": "Sam Beukema",
+            "short": "Beukema",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "vanja-milinkovic-savic",
+            "name": "Vanja Milinković-Savić",
+            "short": "Milinković-Savić",
+            "position": "CM",
+            "photo": "assets/photos/people/vanja-milinkovic-savic.jpg",
+            "rating": null
+          },
+          {
+            "id": "nikita-contini",
+            "name": "Nikita Contini",
+            "short": "Contini",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "billy-gilmour",
+            "name": "Billy Gilmour",
+            "short": "Gilmour",
+            "position": "CM",
+            "photo": "assets/photos/people/billy-gilmour.jpg",
+            "rating": null
+          },
+          {
+            "id": "benoit-badiashile",
+            "name": "Benoît Badiashile",
+            "short": "Badiashile",
+            "position": "CM",
+            "photo": "assets/photos/people/benoit-badiashile.jpg",
+            "rating": null
+          },
+          {
+            "id": "lorenzo-lucca",
+            "name": "Lorenzo Lucca",
+            "short": "Lucca",
+            "position": "CM",
+            "photo": "assets/photos/people/lorenzo-lucca.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "kjetil-knutsen",
+          "name": "Kjetil Knutsen",
+          "short": "Knutsen",
+          "position": "Coach",
+          "photo": "assets/photos/people/kjetil-knutsen.jpg"
+        },
+        "starting": [
+          {
+            "id": "nikita-haykin",
+            "name": "Nikita Haykin",
+            "short": "Haykin",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.1
+          },
+          {
+            "id": "fredrik-andre-bjrkan",
+            "name": "Fredrik André Bjørkan",
+            "short": "Bjørkan",
+            "position": "LB",
+            "photo": "assets/photos/people/fredrik-andre-bjrkan.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 6.4
+          },
+          {
+            "id": "odin-bjrtuft",
+            "name": "Odin Bjørtuft",
+            "short": "Bjørtuft",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.3
+          },
+          {
+            "id": "jostein-gundersen",
+            "name": "Jostein Gundersen",
+            "short": "Gundersen",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.3
+          },
+          {
+            "id": "fredrik-sjvold",
+            "name": "Fredrik Sjøvold",
+            "short": "Sjøvold",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "jens-petter-hauge",
+            "name": "Jens Petter Hauge",
+            "short": "Hauge",
+            "position": "LW",
+            "photo": "assets/photos/people/jens-petter-hauge.jpg",
+            "x": 68,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "sondre-brunstad-fet",
+            "name": "Sondre Brunstad Fet",
+            "short": "Fet",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 8.6
+          },
+          {
+            "id": "patrick-berg",
+            "name": "Patrick Berg",
+            "short": "Berg",
+            "position": "CM",
+            "photo": "assets/photos/people/patrick-berg.jpg",
+            "x": 68,
+            "y": 36,
+            "rating": 6.2
+          },
+          {
+            "id": "sondre-auklend",
+            "name": "Sondre Auklend",
+            "short": "Auklend",
+            "position": "RW",
+            "photo": "assets/photos/people/sondre-auklend.jpg",
+            "x": 68,
+            "y": 12,
+            "rating": 6.2
+          },
+          {
+            "id": "andreas-helmersen",
+            "name": "Andreas Helmersen",
+            "short": "Helmersen",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "ole-didrik-blomberg",
+            "name": "Ole Didrik Blomberg",
+            "short": "Blomberg",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 6.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "ola-brynhildsen",
+            "name": "Ola Brynhildsen",
+            "short": "Brynhildsen",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "ulrik-saltnes",
+            "name": "Ulrik Saltnes",
+            "short": "Saltnes",
+            "position": "RW",
+            "photo": "assets/photos/people/ulrik-saltnes.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "haitam-aleesami",
+            "name": "Haitam Aleesami",
+            "short": "Aleesami",
+            "position": "CB",
+            "photo": "assets/photos/people/haitam-aleesami.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "joel-mvuka",
+            "name": "Joel Mvuka",
+            "short": "Mvuka",
+            "position": "ST",
+            "photo": "assets/photos/people/joel-mvuka.jpg",
+            "rating": 7.2
+          },
+          {
+            "id": "isak-dybvik-maatta",
+            "name": "Isak Dybvik Määttä",
+            "short": "Määttä",
+            "position": "LB",
+            "photo": "assets/photos/people/isak-dybvik-maatta.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "villads-nielsen",
+            "name": "Villads Nielsen",
+            "short": "Nielsen",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "joshua-kitolano",
+            "name": "Joshua Kitolano",
+            "short": "Kitolano",
+            "position": "CM",
+            "photo": "assets/photos/people/joshua-kitolano.jpg",
+            "rating": null
+          },
+          {
+            "id": "julian-faye-lund",
+            "name": "Julian Faye Lund",
+            "short": "Lund",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 1,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "matteo-politano",
+          "name": "Matteo Politano",
+          "short": "Politano",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "leonardo-spinazzola",
+          "name": "Leonardo Spinazzola",
+          "short": "Spinazzola",
+          "position": "LB",
+          "photo": "assets/photos/people/leonardo-spinazzola.jpg"
+        },
+        "goalType": "build",
+        "description": "Inside the first minute Spinazzola crossed from the left and Politano volleyed left-footed from the centre of the box into the roof of the net."
+      },
+      {
+        "minute": 27,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "jens-petter-hauge",
+          "name": "Jens Petter Hauge",
+          "short": "Hauge",
+          "position": "LW",
+          "photo": "assets/photos/people/jens-petter-hauge.jpg"
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "sondre-brunstad-fet",
+          "name": "Sondre Brunstad Fet",
+          "short": "Fet",
+          "position": "CM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Fet set up Hauge, who cut in and finished right-footed from the left side of the box into the bottom-right corner."
+      },
+      {
+        "minute": 41,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "scott-mctominay",
+          "name": "Scott McTominay",
+          "short": "McTominay",
+          "position": "CM",
+          "photo": "assets/photos/people/scott-mctominay.jpg"
+        },
+        "scoreAfter": "2 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "kevin-de-bruyne",
+          "name": "Kevin De Bruyne",
+          "short": "De Bruyne",
+          "position": "CM",
+          "photo": "assets/photos/people/kevin-de-bruyne.jpg"
+        },
+        "goalType": "build",
+        "description": "De Bruyne's through ball released McTominay, who fired right-footed from the left side of the box into the high centre of the goal."
+      },
+      {
+        "minute": 48,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "andre-frank-zambo-anguissa",
+          "name": "André-Frank Zambo Anguissa",
+          "short": "Anguissa",
+          "position": "CM",
+          "photo": "assets/photos/people/andre-frank-zambo-anguissa.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 58,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "noa-lang",
+          "name": "Noa Lang",
+          "short": "Lang",
+          "position": "LW",
+          "photo": "assets/photos/people/noa-lang.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "stanislav-lobotka",
+          "name": "Stanislav Lobotka",
+          "short": "Lobotka",
+          "position": "CM",
+          "photo": "assets/photos/people/stanislav-lobotka.jpg"
+        },
+        "replaced": {
+          "id": "andre-frank-zambo-anguissa",
+          "name": "André-Frank Zambo Anguissa",
+          "short": "Anguissa",
+          "position": "CM",
+          "photo": "assets/photos/people/andre-frank-zambo-anguissa.jpg"
+        }
+      },
+      {
+        "minute": 62,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "andreas-helmersen",
+          "name": "Andreas Helmersen",
+          "short": "Helmersen",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "sondre-brunstad-fet",
+          "name": "Sondre Brunstad Fet",
+          "short": "Fet",
+          "position": "CM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "After efforts from Auklend and Berg were blocked in a goalmouth scramble, Fet found Helmersen, who finished left-footed from the centre of the box into the bottom-right corner."
+      },
+      {
+        "minute": 75,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "scott-mctominay",
+          "name": "Scott McTominay",
+          "short": "McTominay",
+          "position": "CM",
+          "photo": "assets/photos/people/scott-mctominay.jpg"
+        },
+        "scoreAfter": "3 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "matteo-politano",
+          "name": "Matteo Politano",
+          "short": "Politano",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Politano crossed and McTominay headed in from the centre of the box into the high centre of the goal."
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ola-brynhildsen",
+          "name": "Ola Brynhildsen",
+          "short": "Brynhildsen",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "andreas-helmersen",
+          "name": "Andreas Helmersen",
+          "short": "Helmersen",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "mathias-olivera",
+          "name": "Mathías Olivera",
+          "short": "Olivera",
+          "position": "RW",
+          "photo": "assets/photos/people/mathias-olivera.jpg"
+        },
+        "replaced": {
+          "id": "matteo-politano",
+          "name": "Matteo Politano",
+          "short": "Politano",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "giovane",
+          "name": "Giovane",
+          "short": "Giovane",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "noa-lang",
+          "name": "Noa Lang",
+          "short": "Lang",
+          "position": "LW",
+          "photo": "assets/photos/people/noa-lang.jpg"
+        }
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "sam-beukema",
+          "name": "Sam Beukema",
+          "short": "Beukema",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "leonardo-spinazzola",
+          "name": "Leonardo Spinazzola",
+          "short": "Spinazzola",
+          "position": "LB",
+          "photo": "assets/photos/people/leonardo-spinazzola.jpg"
+        }
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ulrik-saltnes",
+          "name": "Ulrik Saltnes",
+          "short": "Saltnes",
+          "position": "RW",
+          "photo": "assets/photos/people/ulrik-saltnes.jpg"
+        },
+        "replaced": {
+          "id": "sondre-auklend",
+          "name": "Sondre Auklend",
+          "short": "Auklend",
+          "position": "RW",
+          "photo": "assets/photos/people/sondre-auklend.jpg"
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "haitam-aleesami",
+          "name": "Haitam Aleesami",
+          "short": "Aleesami",
+          "position": "CB",
+          "photo": "assets/photos/people/haitam-aleesami.jpg"
+        },
+        "replaced": {
+          "id": "jostein-gundersen",
+          "name": "Jostein Gundersen",
+          "short": "Gundersen",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "joel-mvuka",
+          "name": "Joel Mvuka",
+          "short": "Mvuka",
+          "position": "ST",
+          "photo": "assets/photos/people/joel-mvuka.jpg"
+        },
+        "replaced": {
+          "id": "ole-didrik-blomberg",
+          "name": "Ole Didrik Blomberg",
+          "short": "Blomberg",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "isak-dybvik-maatta",
+          "name": "Isak Dybvik Määttä",
+          "short": "Määttä",
+          "position": "LB",
+          "photo": "assets/photos/people/isak-dybvik-maatta.jpg"
+        },
+        "replaced": {
+          "id": "fredrik-andre-bjrkan",
+          "name": "Fredrik André Bjørkan",
+          "short": "Bjørkan",
+          "position": "LB",
+          "photo": "assets/photos/people/fredrik-andre-bjrkan.jpg"
+        }
+      },
+      {
+        "minute": 86,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "giovanni-di-lorenzo",
+          "name": "Giovanni Di Lorenzo",
+          "short": "Di Lorenzo",
+          "position": "RB",
+          "photo": "assets/photos/people/giovanni-di-lorenzo.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 88,
+        "type": "own_goal",
+        "team": "home",
+        "player": {
+          "id": "odin-bjrtuft",
+          "name": "Odin Bjørtuft",
+          "short": "Bjørtuft",
+          "position": "CB",
+          "photo": null
+        },
+        "scoreAfter": "4 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Bodø/Glimt centre-back Bjørtuft put the ball into his own net to make it 4-2; the sources give no further detail on the move."
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "sondre-brunstad-fet",
+          "name": "Sondre Brunstad Fet",
+          "short": "Fet",
+          "position": "CM",
+          "photo": null
+        },
+        "scoreAfter": "4 - 3",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "In stoppage time (90+4), from a corner Bjørtuft hit the bar and Fet headed the rebound in from very close range into the bottom-left corner."
+      }
+    ],
+    "stats": {
+      "shots": [
+        17,
+        15
+      ],
+      "onTarget": [
+        8,
+        6
+      ],
+      "corners": [
+        2,
+        5
+      ],
+      "fouls": [
+        7,
+        5
+      ],
+      "possession": 43
+    },
+    "attendance": 35096,
+    "referee": {
+      "name": "José María Sánchez",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401915400",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915400",
+      "https://match.uefa.com/v5/matches/2049594/lineups",
+      "https://www.uefa.com/uefachampionsleague/match/2049594/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

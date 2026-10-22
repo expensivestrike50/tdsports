@@ -1,0 +1,770 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "venezia-napoli-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "15:00",
+    "competition": "Serie A",
+    "round": "Matchday 7",
+    "status": "FT",
+    "home": {
+      "name": "Venezia",
+      "id": "venezia",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+      "country": "IT"
+    },
+    "away": {
+      "name": "Napoli",
+      "id": "napoli",
+      "crest": "assets/clubs/114.png",
+      "country": "IT"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stadio Pier Luigi Penzo",
+      "city": "Venezia",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "3-5-2",
+        "coach": {
+          "id": "davide-nicola",
+          "name": "Davide Nicola",
+          "short": "Nicola",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "filip-stankovic",
+            "name": "Filip Stankovic",
+            "short": "Stankovic",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "juan-jesus",
+            "name": "Juan Jesus",
+            "short": "Jesus",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 23,
+            "rating": 6.5
+          },
+          {
+            "id": "matias-moreno",
+            "name": "Matías Moreno",
+            "short": "Moreno",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 50,
+            "rating": 7.3
+          },
+          {
+            "id": "redouane-halhal",
+            "name": "Redouane Halhal",
+            "short": "Halhal",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 78,
+            "rating": 7.1
+          },
+          {
+            "id": "ridgeciano-haps",
+            "name": "Ridgeciano Haps",
+            "short": "Haps",
+            "position": "LB",
+            "photo": null,
+            "x": 32,
+            "y": 8,
+            "rating": 6.4
+          },
+          {
+            "id": "toma-basic",
+            "name": "Toma Basic",
+            "short": "Basic",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 29,
+            "rating": 7.1
+          },
+          {
+            "id": "enrique-perez",
+            "name": "Enrique Perez",
+            "short": "Perez",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "antoine-hainaut",
+            "name": "Antoine Hainaut",
+            "short": "Hainaut",
+            "position": "RB",
+            "photo": null,
+            "x": 32,
+            "y": 71,
+            "rating": 7.3
+          },
+          {
+            "id": "simon-sohm",
+            "name": "Simon Sohm",
+            "short": "Sohm",
+            "position": "AM",
+            "photo": null,
+            "x": 32,
+            "y": 92,
+            "rating": 8.1
+          },
+          {
+            "id": "akor-adams",
+            "name": "Akor Adams",
+            "short": "Adams",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 8.3
+          },
+          {
+            "id": "john-yeboah",
+            "name": "John Yeboah",
+            "short": "Yeboah",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 7.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "amir-rrahmani-venezia-napoli-2026-10-17",
+            "name": "Amir Rrahmani",
+            "short": "Rrahmani",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "thorir-johann-helgason",
+            "name": "Thorir Johann Helgason",
+            "short": "Helgason",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "pasquale-mazzocchi",
+            "name": "Pasquale Mazzocchi",
+            "short": "Mazzocchi",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "joel-schingtienne",
+            "name": "Joel Schingtienne",
+            "short": "Schingtienne",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "lamine-dabo",
+            "name": "Lamine Dabo",
+            "short": "Dabo",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "rufai-mohammed",
+            "name": "Rufai Mohammed",
+            "short": "Mohammed",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lion-lauberbach",
+            "name": "Lion Lauberbach",
+            "short": "Lauberbach",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kornel-lisman",
+            "name": "Kornel Lisman",
+            "short": "Lisman",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "richie-sagrado",
+            "name": "Richie Sagrado",
+            "short": "Sagrado",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lorenzo-montipo",
+            "name": "Lorenzo Montipò",
+            "short": "Montipò",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ale-gomes",
+            "name": "Ale Gomes",
+            "short": "Gomes",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "lorenzo-berardi",
+            "name": "Lorenzo Berardi",
+            "short": "Berardi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "toni-fernandez",
+            "name": "Toni Fernández",
+            "short": "Fernández",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "simone-panada",
+            "name": "Simone Panada",
+            "short": "Panada",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "matteo-dagasso",
+            "name": "Matteo Dagasso",
+            "short": "Dagasso",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "3-4-2-1",
+        "coach": {
+          "id": "massimiliano-allegri-venezia-napoli-2026-10-17",
+          "name": "Massimiliano Allegri",
+          "short": "Allegri",
+          "position": "Coach",
+          "photo": "assets/photos/people/massimiliano-allegri.jpg"
+        },
+        "starting": [
+          {
+            "id": "alex-meret-venezia-napoli-2026-10-17",
+            "name": "Alex Meret",
+            "short": "Meret",
+            "position": "GK",
+            "photo": "assets/photos/people/alex-meret.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "benoit-badiashile-venezia-napoli-2026-10-17",
+            "name": "Benoît Badiashile",
+            "short": "Badiashile",
+            "position": "CB",
+            "photo": "assets/photos/people/benoit-badiashile.jpg",
+            "x": 82,
+            "y": 77,
+            "rating": 6.7
+          },
+          {
+            "id": "amir-rrahmani-venezia-napoli-2026-10-17",
+            "name": "Amir Rrahmani",
+            "short": "Rrahmani",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "sam-beukema-venezia-napoli-2026-10-17",
+            "name": "Sam Beukema",
+            "short": "Beukema",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 22,
+            "rating": 7.3
+          },
+          {
+            "id": "leonardo-spinazzola-venezia-napoli-2026-10-17",
+            "name": "Leonardo Spinazzola",
+            "short": "Spinazzola",
+            "position": "LB",
+            "photo": "assets/photos/people/leonardo-spinazzola.jpg",
+            "x": 73,
+            "y": 88,
+            "rating": 6.1
+          },
+          {
+            "id": "stanislav-lobotka-venezia-napoli-2026-10-17",
+            "name": "Stanislav Lobotka",
+            "short": "Lobotka",
+            "position": "CM",
+            "photo": "assets/photos/people/stanislav-lobotka.jpg",
+            "x": 73,
+            "y": 62,
+            "rating": 6.5
+          },
+          {
+            "id": "billy-gilmour-venezia-napoli-2026-10-17",
+            "name": "Billy Gilmour",
+            "short": "Gilmour",
+            "position": "CM",
+            "photo": "assets/photos/people/billy-gilmour.jpg",
+            "x": 73,
+            "y": 36,
+            "rating": 6.6
+          },
+          {
+            "id": "giovanni-di-lorenzo-venezia-napoli-2026-10-17",
+            "name": "Giovanni Di Lorenzo",
+            "short": "Di Lorenzo",
+            "position": "RB",
+            "photo": "assets/photos/people/giovanni-di-lorenzo.jpg",
+            "x": 73,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "scott-mctominay-venezia-napoli-2026-10-17",
+            "name": "Scott McTominay",
+            "short": "McTominay",
+            "position": "AM",
+            "photo": "assets/photos/people/scott-mctominay.jpg",
+            "x": 63,
+            "y": 70,
+            "rating": 7.1
+          },
+          {
+            "id": "giovane-venezia-napoli-2026-10-17",
+            "name": "Giovane",
+            "short": "Giovane",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 30,
+            "rating": 7
+          },
+          {
+            "id": "lorenzo-lucca-venezia-napoli-2026-10-17",
+            "name": "Lorenzo Lucca",
+            "short": "Lucca",
+            "position": "ST",
+            "photo": "assets/photos/people/lorenzo-lucca.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 6.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "rasmus-hjlund-venezia-napoli-2026-10-17",
+            "name": "Rasmus Højlund",
+            "short": "Højlund",
+            "position": "ST",
+            "photo": "assets/photos/people/rasmus-hjlund.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "alisson-santos",
+            "name": "Alisson Santos",
+            "short": "Santos",
+            "position": "AM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "kevin-de-bruyne-venezia-napoli-2026-10-17",
+            "name": "Kevin De Bruyne",
+            "short": "Bruyne",
+            "position": "CM",
+            "photo": "assets/photos/people/kevin-de-bruyne.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "matteo-politano-venezia-napoli-2026-10-17",
+            "name": "Matteo Politano",
+            "short": "Politano",
+            "position": "CB",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "mathias-olivera-venezia-napoli-2026-10-17",
+            "name": "Mathías Olivera",
+            "short": "Olivera",
+            "position": "LB",
+            "photo": "assets/photos/people/mathias-olivera.jpg",
+            "rating": 6.1
+          },
+          {
+            "id": "frank-anguissa",
+            "name": "Frank Anguissa",
+            "short": "Anguissa",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-marianucci",
+            "name": "Luca Marianucci",
+            "short": "Marianucci",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "noa-lang-venezia-napoli-2026-10-17",
+            "name": "Noa Lang",
+            "short": "Lang",
+            "position": "CM",
+            "photo": "assets/photos/people/noa-lang.jpg",
+            "rating": null
+          },
+          {
+            "id": "nikita-contini-venezia-napoli-2026-10-17",
+            "name": "Nikita Contini",
+            "short": "Contini",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rafa-marin-venezia-napoli-2026-10-17",
+            "name": "Rafa Marín",
+            "short": "Marín",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "vanja-milinkovic-savic-venezia-napoli-2026-10-17",
+            "name": "Vanja Milinkovic-Savic",
+            "short": "Milinkovic-Savic",
+            "position": "CM",
+            "photo": "assets/photos/people/vanja-milinkovic-savic.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 49,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "akor-adams",
+          "name": "Akor Adams",
+          "short": "Adams",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "simon-sohm",
+          "name": "Simon Sohm",
+          "short": "Sohm",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Akor Adams right footed shot from the centre of the box to the bottom left corner. Assisted by Simon Sohm following a fast break."
+      },
+      {
+        "minute": 54,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "rasmus-hjlund-venezia-napoli-2026-10-17",
+          "name": "Rasmus Højlund",
+          "short": "Højlund",
+          "position": "ST",
+          "photo": "assets/photos/people/rasmus-hjlund.jpg"
+        },
+        "replaced": {
+          "id": "lorenzo-lucca-venezia-napoli-2026-10-17",
+          "name": "Lorenzo Lucca",
+          "short": "Lucca",
+          "position": "ST",
+          "photo": "assets/photos/people/lorenzo-lucca.jpg"
+        }
+      },
+      {
+        "minute": 54,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alisson-santos",
+          "name": "Alisson Santos",
+          "short": "Santos",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "giovane-venezia-napoli-2026-10-17",
+          "name": "Giovane",
+          "short": "Giovane",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 54,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "kevin-de-bruyne-venezia-napoli-2026-10-17",
+          "name": "Kevin De Bruyne",
+          "short": "Bruyne",
+          "position": "CM",
+          "photo": "assets/photos/people/kevin-de-bruyne.jpg"
+        },
+        "replaced": {
+          "id": "billy-gilmour-venezia-napoli-2026-10-17",
+          "name": "Billy Gilmour",
+          "short": "Gilmour",
+          "position": "CM",
+          "photo": "assets/photos/people/billy-gilmour.jpg"
+        }
+      },
+      {
+        "minute": 61,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "toma-basic",
+          "name": "Toma Basic",
+          "short": "Basic",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "amir-rrahmani-venezia-napoli-2026-10-17",
+          "name": "Amir Rrahmani",
+          "short": "Rrahmani",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "john-yeboah",
+          "name": "John Yeboah",
+          "short": "Yeboah",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 63,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "matteo-politano-venezia-napoli-2026-10-17",
+          "name": "Matteo Politano",
+          "short": "Politano",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "sam-beukema-venezia-napoli-2026-10-17",
+          "name": "Sam Beukema",
+          "short": "Beukema",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "thorir-johann-helgason",
+          "name": "Thorir Johann Helgason",
+          "short": "Helgason",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "toma-basic",
+          "name": "Toma Basic",
+          "short": "Basic",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "pasquale-mazzocchi",
+          "name": "Pasquale Mazzocchi",
+          "short": "Mazzocchi",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ridgeciano-haps",
+          "name": "Ridgeciano Haps",
+          "short": "Haps",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "joel-schingtienne",
+          "name": "Joel Schingtienne",
+          "short": "Schingtienne",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "matias-moreno",
+          "name": "Matías Moreno",
+          "short": "Moreno",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "enrique-perez",
+          "name": "Enrique Perez",
+          "short": "Perez",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Unspecified"
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "lamine-dabo",
+          "name": "Lamine Dabo",
+          "short": "Dabo",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "simon-sohm",
+          "name": "Simon Sohm",
+          "short": "Sohm",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "mathias-olivera-venezia-napoli-2026-10-17",
+          "name": "Mathías Olivera",
+          "short": "Olivera",
+          "position": "LB",
+          "photo": "assets/photos/people/mathias-olivera.jpg"
+        },
+        "replaced": {
+          "id": "leonardo-spinazzola-venezia-napoli-2026-10-17",
+          "name": "Leonardo Spinazzola",
+          "short": "Spinazzola",
+          "position": "LB",
+          "photo": "assets/photos/people/leonardo-spinazzola.jpg"
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        9,
+        29
+      ],
+      "onTarget": [
+        4,
+        10
+      ],
+      "corners": [
+        0,
+        12
+      ],
+      "fouls": [
+        7,
+        6
+      ],
+      "possession": 29
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Juan Luca Sacchi",
+      "country": "Italy"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/summary?event=401874760",
+      "https://www.espn.com/soccer/match/_/gameId/401874760",
+      "https://www.calciomercato.com/liste/venezia-napoli-live/blt88e47dafdfba77b3",
+      "https://www.fantacalcio.it/news/calcio-italia/14_10_2026/serie-a-le-designazioni-arbitrali-della-7-giornata-499192"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

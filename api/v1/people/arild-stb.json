@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "arild-stb",
+    "name": "Arild Østbø",
+    "short": "Østbø",
+    "position": "GK",
+    "photo": "assets/photos/people/arild-stb.jpg",
+    "matches": [
+      {
+        "match": "villa-viking",
+        "date": "2026-10-21",
+        "team": "Viking",
+        "role": "starter"
+      }
+    ]
+  }
+}

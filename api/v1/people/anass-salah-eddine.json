@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "anass-salah-eddine",
+    "name": "Anass Salah-Eddine",
+    "short": "Salah-Eddine",
+    "position": "LB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "france-morocco-2026-07-09",
+        "date": "2026-07-09",
+        "team": "Morocco",
+        "role": "starter"
+      }
+    ]
+  }
+}

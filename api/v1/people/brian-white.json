@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "brian-white",
+    "name": "Brian White",
+    "short": "White",
+    "position": "ST",
+    "photo": null,
+    "matches": [
+      {
+        "match": "austin-vancouver-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Vancouver",
+        "role": "starter"
+      }
+    ]
+  }
+}

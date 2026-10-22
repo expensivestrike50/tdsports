@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "giovanni-di-lorenzo",
+    "name": "Giovanni Di Lorenzo",
+    "short": "Di Lorenzo",
+    "position": "RB",
+    "photo": "assets/photos/people/giovanni-di-lorenzo.jpg",
+    "matches": [
+      {
+        "match": "napoli-bodo",
+        "date": "2026-10-20",
+        "team": "Napoli",
+        "role": "starter"
+      }
+    ]
+  }
+}

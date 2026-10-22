@@ -1,0 +1,866 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "getafe-rayo-2026-10-19",
+    "date": "2026-10-19",
+    "kickoff": "21:00",
+    "competition": "LaLiga",
+    "round": "Matchday 9",
+    "status": "FT",
+    "home": {
+      "name": "Getafe",
+      "id": "getafe",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Rayo",
+      "id": "rayo",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estadio Coliseum",
+      "city": "Getafe",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "jose-bordalas",
+          "name": "José Bordalás",
+          "short": "Bordalás",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "david-soria",
+            "name": "David Soria",
+            "short": "D. Soria",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "dani-carvajal",
+            "name": "Dani Carvajal",
+            "short": "D. Carvajal",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "djene",
+            "name": "Djené",
+            "short": "Djené",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 5.4
+          },
+          {
+            "id": "jean-ives-valou",
+            "name": "Jean Ives Valou",
+            "short": "J. Valou",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.3
+          },
+          {
+            "id": "johan-mojica",
+            "name": "Johan Mojica",
+            "short": "J. Mojica",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "kiko-femenia",
+            "name": "Kiko Femenía",
+            "short": "K. Femenía",
+            "position": "RW",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "nemanja-gudelj",
+            "name": "Nemanja Gudelj",
+            "short": "N. Gudelj",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "mario-martin",
+            "name": "Mario Martín",
+            "short": "M. Martín",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 7
+          },
+          {
+            "id": "martin-satriano",
+            "name": "Martín Satriano",
+            "short": "M. Satriano",
+            "position": "LW",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "ramon-terrats",
+            "name": "Ramón Terrats",
+            "short": "R. Terrats",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 6.5
+          },
+          {
+            "id": "enes-unal",
+            "name": "Enes Ünal",
+            "short": "E. Ünal",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 6.8
+          }
+        ],
+        "bench": [
+          {
+            "id": "abdel-abqar",
+            "name": "Abdel Abqar",
+            "short": "Abqar",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "francho-serrano",
+            "name": "Francho Serrano",
+            "short": "Serrano",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.8
+          },
+          {
+            "id": "andres-garcia",
+            "name": "Andrés García",
+            "short": "García",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.1
+          },
+          {
+            "id": "sebastian-boselli",
+            "name": "Sebastián Boselli",
+            "short": "Boselli",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "borja-mayoral",
+            "name": "Borja Mayoral",
+            "short": "Mayoral",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "alberto-risco",
+            "name": "Alberto Risco",
+            "short": "Risco",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "saba-sazonov",
+            "name": "Saba Sazonov",
+            "short": "Sazonov",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "davinchi",
+            "name": "Davinchi",
+            "short": "Davinchi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "diego-ferrer",
+            "name": "Diego Ferrer",
+            "short": "Ferrer",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jiri-letacek",
+            "name": "Jirí Letácek",
+            "short": "Letácek",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "benat-san-jose",
+          "name": "Beñat San José",
+          "short": "José",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "emil-audero",
+            "name": "Emil Audero",
+            "short": "E. Audero",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "ivan-balliu",
+            "name": "Iván Balliu",
+            "short": "I. Balliu",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "florian-lejeune",
+            "name": "Florian Lejeune",
+            "short": "F. Lejeune",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 6.8
+          },
+          {
+            "id": "mujaid-sadick",
+            "name": "Mujaid Sadick",
+            "short": "M. Sadick",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.3
+          },
+          {
+            "id": "adria-pedrosa",
+            "name": "Adrià Pedrosa",
+            "short": "A. Pedrosa",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "unai-lopez",
+            "name": "Unai López",
+            "short": "U. López",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 6.4
+          },
+          {
+            "id": "pathe-ciss",
+            "name": "Pathé Ciss",
+            "short": "P. Ciss",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 6.9
+          },
+          {
+            "id": "isi-palazon",
+            "name": "Isi Palazón",
+            "short": "I. Palazón",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.5
+          },
+          {
+            "id": "sergio-camello",
+            "name": "Sergio Camello",
+            "short": "S. Camello",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "alvaro-garcia",
+            "name": "Álvaro García",
+            "short": "Á. García",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 7.2
+          },
+          {
+            "id": "jorge-de-frutos",
+            "name": "Jorge de Frutos",
+            "short": "J. de Frutos",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "oscar-valentin",
+            "name": "Óscar Valentín",
+            "short": "Valentín",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "pedro-diaz",
+            "name": "Pedro Díaz",
+            "short": "Díaz",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "giorgi-tsitaishvili",
+            "name": "Giorgi Tsitaishvili",
+            "short": "Tsitaishvili",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "alexandre-alemao",
+            "name": "Alexandre Alemão",
+            "short": "Alemão",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "fran-perez",
+            "name": "Fran Pérez",
+            "short": "Pérez",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "daniel-cardenas",
+            "name": "Daniel Cárdenas",
+            "short": "Cárdenas",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "pelayo-fernandez",
+            "name": "Pelayo Fernández",
+            "short": "Fernández",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gnangoro-bouare-samake",
+            "name": "Gnangoro Bouare Samake",
+            "short": "Samake",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rayane-belaid",
+            "name": "Rayane Belaid",
+            "short": "Belaid",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marash-kumbulla",
+            "name": "Marash Kumbulla",
+            "short": "Kumbulla",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ivan-alonso-martin",
+            "name": "Iván Alonso Martín",
+            "short": "Martín",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jozhua-vertrouwd",
+            "name": "Jozhua Vertrouwd",
+            "short": "Vertrouwd",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 1,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "kiko-femenia",
+          "name": "Kiko Femenía",
+          "short": "K. Femenía",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 11,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "alvaro-garcia",
+          "name": "Álvaro García",
+          "short": "Á. García",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "jorge-de-frutos",
+          "name": "Jorge de Frutos",
+          "short": "J. de Frutos",
+          "position": "ST",
+          "photo": null
+        },
+        "goalType": "counter",
+        "description": "Álvaro García right footed shot from the centre of the box to the bottom left corner. Assist: Jorge de Frutos with a cross following a fast break."
+      },
+      {
+        "minute": 16,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "djene",
+          "name": "Djené",
+          "short": "Djené",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Handball"
+      },
+      {
+        "minute": 28,
+        "type": "red_card",
+        "team": "home",
+        "player": {
+          "id": "djene",
+          "name": "Djené",
+          "short": "Djené",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Not specified"
+      },
+      {
+        "minute": 32,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "abdel-abqar",
+          "name": "Abdel Abqar",
+          "short": "Abqar",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ramon-terrats",
+          "name": "Ramón Terrats",
+          "short": "R. Terrats",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "francho-serrano",
+          "name": "Francho Serrano",
+          "short": "Serrano",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kiko-femenia",
+          "name": "Kiko Femenía",
+          "short": "K. Femenía",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "andres-garcia",
+          "name": "Andrés García",
+          "short": "García",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mario-martin",
+          "name": "Mario Martín",
+          "short": "M. Martín",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "ivan-balliu",
+          "name": "Iván Balliu",
+          "short": "I. Balliu",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 51,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "francho-serrano",
+          "name": "Francho Serrano",
+          "short": "Serrano",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 56,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "martin-satriano",
+          "name": "Martín Satriano",
+          "short": "M. Satriano",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "1 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "francho-serrano",
+          "name": "Francho Serrano",
+          "short": "Serrano",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Martín Satriano right footed shot from very close range to the bottom left corner. Assist: Francho Serrano with a cross."
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "oscar-valentin",
+          "name": "Óscar Valentín",
+          "short": "Valentín",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "isi-palazon",
+          "name": "Isi Palazón",
+          "short": "I. Palazón",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "pedro-diaz",
+          "name": "Pedro Díaz",
+          "short": "Díaz",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ivan-balliu",
+          "name": "Iván Balliu",
+          "short": "I. Balliu",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 65,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "giorgi-tsitaishvili",
+          "name": "Giorgi Tsitaishvili",
+          "short": "Tsitaishvili",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jorge-de-frutos",
+          "name": "Jorge de Frutos",
+          "short": "J. de Frutos",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "pathe-ciss",
+          "name": "Pathé Ciss",
+          "short": "P. Ciss",
+          "position": "DM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 79,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "dani-carvajal",
+          "name": "Dani Carvajal",
+          "short": "D. Carvajal",
+          "position": "RB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alexandre-alemao",
+          "name": "Alexandre Alemão",
+          "short": "Alemão",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "alvaro-garcia",
+          "name": "Álvaro García",
+          "short": "Á. García",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "sebastian-boselli",
+          "name": "Sebastián Boselli",
+          "short": "Boselli",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "dani-carvajal",
+          "name": "Dani Carvajal",
+          "short": "D. Carvajal",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "fran-perez",
+          "name": "Fran Pérez",
+          "short": "Pérez",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "unai-lopez",
+          "name": "Unai López",
+          "short": "U. López",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "enes-unal",
+          "name": "Enes Ünal",
+          "short": "E. Ünal",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "borja-mayoral",
+          "name": "Borja Mayoral",
+          "short": "Mayoral",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "enes-unal",
+          "name": "Enes Ünal",
+          "short": "E. Ünal",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "nemanja-gudelj",
+          "name": "Nemanja Gudelj",
+          "short": "N. Gudelj",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "sergio-camello",
+          "name": "Sergio Camello",
+          "short": "S. Camello",
+          "position": "AM",
+          "photo": null
+        },
+        "detail": "Not specified"
+      }
+    ],
+    "stats": {
+      "shots": [
+        12,
+        21
+      ],
+      "onTarget": [
+        4,
+        5
+      ],
+      "corners": [
+        8,
+        8
+      ],
+      "fouls": [
+        12,
+        9
+      ],
+      "possession": 32
+    },
+    "attendance": 7674,
+    "referee": {
+      "name": "Jon Ander González Esteban",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882842",
+      "https://www.espn.com/soccer/match/_/gameId/401882842",
+      "https://www.cope.es/programas/tiempo-de-juego/cronica/directo-getafe-rayo-vallecano-novena-jornada-primera-division-19-20261019_3458568.html",
+      "https://unionrayo.es/cronica-getafe-rayo-j9-laliga/",
+      "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

@@ -1,0 +1,816 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "bournemouth-sturm-graz-2026-10-15",
+    "date": "2026-10-15",
+    "kickoff": "20:00",
+    "competition": "UEFA Europa League",
+    "round": "League phase, matchday 2",
+    "status": "FT",
+    "home": {
+      "name": "Bournemouth",
+      "id": "bournemouth",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+      "country": "GB"
+    },
+    "away": {
+      "name": "Sturm Graz",
+      "id": "sturm-graz",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png",
+      "country": "AT"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Vitality Stadium",
+      "city": "Bournemouth",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "marco-rose",
+          "name": "Marco Rose",
+          "short": "Rose",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "djordje-petrovic",
+            "name": "Djordje Petrovic",
+            "short": "Petrovic",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 7.5
+          },
+          {
+            "id": "julio-soler",
+            "name": "Julio Soler",
+            "short": "Soler",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.4
+          },
+          {
+            "id": "antonio-silva",
+            "name": "António Silva",
+            "short": "Silva",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "bafode-diakite",
+            "name": "Bafodé Diakité",
+            "short": "Diakité",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.5
+          },
+          {
+            "id": "adam-smith",
+            "name": "Adam Smith",
+            "short": "Smith",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 7.7
+          },
+          {
+            "id": "marcus-tavernier",
+            "name": "Marcus Tavernier",
+            "short": "Tavernier",
+            "position": "LW",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 7
+          },
+          {
+            "id": "tyler-adams",
+            "name": "Tyler Adams",
+            "short": "Adams",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 6.7
+          },
+          {
+            "id": "lewis-cook",
+            "name": "Lewis Cook",
+            "short": "Cook",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 6.3
+          },
+          {
+            "id": "ben-gannon-doak",
+            "name": "Ben Gannon-Doak",
+            "short": "Gannon-Doak",
+            "position": "RW",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "alvaro-rodriguez",
+            "name": "Álvaro Rodríguez",
+            "short": "Rodríguez",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 8.1
+          },
+          {
+            "id": "evanilson",
+            "name": "Evanilson",
+            "short": "Evanilson",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 8.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "james-hill",
+            "name": "James Hill",
+            "short": "Hill",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "ryan-christie",
+            "name": "Ryan Christie",
+            "short": "Christie",
+            "position": "CM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "rayan",
+            "name": "Rayan",
+            "short": "Rayan",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "justin-kluivert",
+            "name": "Justin Kluivert",
+            "short": "Kluivert",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "amine-adli",
+            "name": "Amine Adli",
+            "short": "Adli",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "michele-di-gregorio",
+            "name": "Michele Di Gregorio",
+            "short": "Gregorio",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mack-allan",
+            "name": "Mack Allan",
+            "short": "Allan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alex-toth",
+            "name": "Alex Tóth",
+            "short": "Tóth",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "adrien-truffert",
+            "name": "Adrien Truffert",
+            "short": "Truffert",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "david-brooks",
+            "name": "David Brooks",
+            "short": "Brooks",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "5-3-2",
+        "coach": {
+          "id": "fabio-ingolitsch",
+          "name": "Fabio Ingolitsch",
+          "short": "Ingolitsch",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "danill-khudiakov",
+            "name": "Danill Khudiakov",
+            "short": "Khudiakov",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "luis-balbo",
+            "name": "Luís Balbo",
+            "short": "Balbo",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 92,
+            "rating": 6.3
+          },
+          {
+            "id": "petar-petrovic",
+            "name": "Petar Petrovic",
+            "short": "Petrovic",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 71,
+            "rating": 7.4
+          },
+          {
+            "id": "joshua-quarshie",
+            "name": "Joshua Quarshie",
+            "short": "Quarshie",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "arjan-malic",
+            "name": "Arjan Malic",
+            "short": "Malic",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 29,
+            "rating": 6.9
+          },
+          {
+            "id": "jurgen-heil",
+            "name": "Jürgen Heil",
+            "short": "Heil",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 8,
+            "rating": 6.6
+          },
+          {
+            "id": "jacob-peter-hodl",
+            "name": "Jacob Peter Hödl",
+            "short": "Hödl",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 77,
+            "rating": 7
+          },
+          {
+            "id": "jon-gorenc-stankovic",
+            "name": "Jon Gorenc Stankovic",
+            "short": "Stankovic",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 50,
+            "rating": 6.4
+          },
+          {
+            "id": "valmir-matoshi",
+            "name": "Valmir Matoshi",
+            "short": "Matoshi",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 22,
+            "rating": 6.2
+          },
+          {
+            "id": "belmin-beganovic",
+            "name": "Belmin Beganovic",
+            "short": "Beganovic",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 6.8
+          },
+          {
+            "id": "simon-seidl",
+            "name": "Simon Seidl",
+            "short": "Seidl",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 6.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "bafode-diakite",
+            "name": "Bafodé Diakité",
+            "short": "Diakité",
+            "position": "CB",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "axel-kayombo",
+            "name": "Axel Kayombo",
+            "short": "Kayombo",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "julian-halwachs",
+            "name": "Julian Halwachs",
+            "short": "Halwachs",
+            "position": "CM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "albert-vallci",
+            "name": "Albert Vallci",
+            "short": "Vallci",
+            "position": "CB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "paul-friedrich-koller",
+            "name": "Paul-Friedrich Koller",
+            "short": "Koller",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "mate-grgic",
+            "name": "Mate Grgić",
+            "short": "Grgić",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jonas-petritsch",
+            "name": "Jonas Petritsch",
+            "short": "Petritsch",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "elias-lorenz",
+            "name": "Elias Lorenz",
+            "short": "Lorenz",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jonas-peinhart",
+            "name": "Jonas Peinhart",
+            "short": "Peinhart",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ammar-helac",
+            "name": "Ammar Helac",
+            "short": "Helac",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luca-weinhandl",
+            "name": "Luca Weinhandl",
+            "short": "Weinhandl",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 14,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "evanilson",
+          "name": "Evanilson",
+          "short": "Evanilson",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 41,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "belmin-beganovic",
+          "name": "Belmin Beganovic",
+          "short": "Beganovic",
+          "position": "ST",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 43,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "evanilson",
+          "name": "Evanilson",
+          "short": "Evanilson",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "adam-smith",
+          "name": "Adam Smith",
+          "short": "Smith",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Adam Smith provided the assist with a cross; Evanilson scored with a header from the centre of the box to the top left corner."
+      },
+      {
+        "minute": 58,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "bafode-diakite",
+          "name": "Bafodé Diakité",
+          "short": "Diakité",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "bafode-diakite",
+          "name": "Bafodé Diakité",
+          "short": "Diakité",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "belmin-beganovic",
+          "name": "Belmin Beganovic",
+          "short": "Beganovic",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "james-hill",
+          "name": "James Hill",
+          "short": "Hill",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adam-smith",
+          "name": "Adam Smith",
+          "short": "Smith",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "julio-soler",
+          "name": "Julio Soler",
+          "short": "Soler",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ryan-christie",
+          "name": "Ryan Christie",
+          "short": "Christie",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tyler-adams",
+          "name": "Tyler Adams",
+          "short": "Adams",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "rayan",
+          "name": "Rayan",
+          "short": "Rayan",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "evanilson",
+          "name": "Evanilson",
+          "short": "Evanilson",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 70,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "justin-kluivert",
+          "name": "Justin Kluivert",
+          "short": "Kluivert",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "marcus-tavernier",
+          "name": "Marcus Tavernier",
+          "short": "Tavernier",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "axel-kayombo",
+          "name": "Axel Kayombo",
+          "short": "Kayombo",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "simon-seidl",
+          "name": "Simon Seidl",
+          "short": "Seidl",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "julian-halwachs",
+          "name": "Julian Halwachs",
+          "short": "Halwachs",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jacob-peter-hodl",
+          "name": "Jacob Peter Hödl",
+          "short": "Hödl",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "albert-vallci",
+          "name": "Albert Vallci",
+          "short": "Vallci",
+          "position": "CB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "petar-petrovic",
+          "name": "Petar Petrovic",
+          "short": "Petrovic",
+          "position": "CB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 76,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "rayan",
+          "name": "Rayan",
+          "short": "Rayan",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "Rayan scored with a right-footed shot from the centre of the box to the centre of the goal following a corner."
+      },
+      {
+        "minute": 83,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "paul-friedrich-koller",
+          "name": "Paul-Friedrich Koller",
+          "short": "Koller",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "luis-balbo",
+          "name": "Luís Balbo",
+          "short": "Balbo",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 84,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "amine-adli",
+          "name": "Amine Adli",
+          "short": "Adli",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ben-gannon-doak",
+          "name": "Ben Gannon-Doak",
+          "short": "Gannon-Doak",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 85,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "julian-halwachs",
+          "name": "Julian Halwachs",
+          "short": "Halwachs",
+          "position": "CM",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 87,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "albert-vallci",
+          "name": "Albert Vallci",
+          "short": "Vallci",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "alvaro-rodriguez",
+          "name": "Álvaro Rodríguez",
+          "short": "Rodríguez",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": true,
+        "assist": null,
+        "goalType": "penalty",
+        "description": "Álvaro Rodríguez converted the penalty with a left-footed shot to the centre of the goal."
+      }
+    ],
+    "stats": {
+      "shots": [
+        23,
+        6
+      ],
+      "onTarget": [
+        7,
+        1
+      ],
+      "corners": [
+        7,
+        3
+      ],
+      "fouls": [
+        11,
+        18
+      ],
+      "possession": 62
+    },
+    "attendance": 12070,
+    "referee": {
+      "name": "Jérôme Brisard",
+      "country": "France"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/summary?event=401915571",
+      "https://www.espn.com/soccer/match/_/gameId/401915571",
+      "https://match.uefa.com/v5/matches?competitionId=14&fromDate=2026-10-15&toDate=2026-10-15",
+      "https://match.uefa.com/v5/matches/2050086/lineups"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

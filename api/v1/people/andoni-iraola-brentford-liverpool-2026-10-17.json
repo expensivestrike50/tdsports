@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "andoni-iraola-brentford-liverpool-2026-10-17",
+    "name": "Andoni Iraola",
+    "short": "Iraola",
+    "position": "Coach",
+    "photo": "assets/photos/people/andoni-iraola.jpg",
+    "matches": [
+      {
+        "match": "brentford-liverpool-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Liverpool",
+        "role": "coach"
+      }
+    ]
+  }
+}

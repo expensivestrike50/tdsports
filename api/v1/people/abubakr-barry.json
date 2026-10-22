@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "abubakr-barry",
+    "name": "Abubakr Barry",
+    "short": "Barry",
+    "position": "DM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "rb-salzburg-milan-2026-10-15",
+        "date": "2026-10-15",
+        "team": "RB Salzburg",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "declan-rice-england-argentina-2026-07-15",
+    "name": "Declan Rice",
+    "short": "Rice",
+    "position": "DM",
+    "photo": "assets/photos/people/declan-rice.jpg",
+    "matches": [
+      {
+        "match": "england-argentina-2026-07-15",
+        "date": "2026-07-15",
+        "team": "England",
+        "role": "starter"
+      }
+    ]
+  }
+}

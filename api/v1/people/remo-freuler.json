@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "remo-freuler",
+    "name": "Remo Freuler",
+    "short": "Freuler",
+    "position": "DM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "marseille-olympiacos-2026-10-15",
+        "date": "2026-10-15",
+        "team": "Olympiacos",
+        "role": "bench"
+      }
+    ]
+  }
+}

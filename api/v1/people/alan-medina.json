@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "alan-medina",
+    "name": "Alan Medina",
+    "short": "Medina",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "santos-unam-2026-10-21",
+        "date": "2026-10-21",
+        "team": "UNAM",
+        "role": "bench"
+      }
+    ]
+  }
+}

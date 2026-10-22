@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "harold-moukoudi",
+    "name": "Harold Moukoudi",
+    "short": "Moukoudi",
+    "position": "CB",
+    "photo": "assets/photos/people/harold-moukoudi.jpg",
+    "matches": [
+      {
+        "match": "city-aek",
+        "date": "2026-10-20",
+        "team": "AEK Athens",
+        "role": "starter"
+      }
+    ]
+  }
+}

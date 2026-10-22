@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "jeremy-jacquet",
+    "name": "Jérémy Jacquet",
+    "short": "Jacquet",
+    "position": "CB",
+    "photo": "assets/photos/people/jeremy-jacquet.jpg",
+    "matches": [
+      {
+        "match": "liverpool-villarreal",
+        "date": "2026-10-20",
+        "team": "Liverpool",
+        "role": "starter"
+      }
+    ]
+  }
+}

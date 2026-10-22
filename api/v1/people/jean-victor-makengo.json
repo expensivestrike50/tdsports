@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "jean-victor-makengo",
+    "name": "Jean-Victor Makengo",
+    "short": "Makengo",
+    "position": "AM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "lorient-monaco-2026-10-18",
+        "date": "2026-10-18",
+        "team": "Lorient",
+        "role": "starter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "daniele-ghilardi",
+    "name": "Daniele Ghilardi",
+    "short": "Ghilardi",
+    "position": "CB",
+    "photo": null,
+    "matches": [
+      {
+        "match": "as-roma-slovan-bratislava-2026-10-20",
+        "date": "2026-10-20",
+        "team": "AS Roma",
+        "role": "starter"
+      }
+    ]
+  }
+}

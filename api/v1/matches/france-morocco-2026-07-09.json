@@ -1,0 +1,785 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "france-morocco-2026-07-09",
+    "date": "2026-07-09",
+    "kickoff": "16:00",
+    "competition": "FIFA World Cup",
+    "round": "Quarter-final",
+    "status": "FT",
+    "home": {
+      "name": "France",
+      "id": "france",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Morocco",
+      "id": "morocco",
+      "crest": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
+      "country": "MA"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Gillette Stadium",
+      "city": "Foxborough, Massachusetts",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "didier-deschamps",
+          "name": "Didier Deschamps",
+          "short": "Deschamps",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "mike-maignan-france-morocco-2026-07-09",
+            "name": "Mike Maignan",
+            "short": "Maignan",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "lucas-digne-france-morocco-2026-07-09",
+            "name": "Lucas Digne",
+            "short": "Digne",
+            "position": "LB",
+            "photo": "assets/photos/people/lucas-digne.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 7.5
+          },
+          {
+            "id": "william-saliba",
+            "name": "William Saliba",
+            "short": "Saliba",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 7.4
+          },
+          {
+            "id": "dayot-upamecano-france-morocco-2026-07-09",
+            "name": "Dayot Upamecano",
+            "short": "Upamecano",
+            "position": "CB",
+            "photo": "assets/photos/people/dayot-upamecano.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 6.8
+          },
+          {
+            "id": "jules-kounde-france-morocco-2026-07-09",
+            "name": "Jules Koundé",
+            "short": "Koundé",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.7
+          },
+          {
+            "id": "adrien-rabiot-france-morocco-2026-07-09",
+            "name": "Adrien Rabiot",
+            "short": "Rabiot",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.4
+          },
+          {
+            "id": "manu-kone",
+            "name": "Manu Koné",
+            "short": "Koné",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 6.3
+          },
+          {
+            "id": "desire-doue-france-morocco-2026-07-09",
+            "name": "Désiré Doué",
+            "short": "Doué",
+            "position": "LW",
+            "photo": "assets/photos/people/desire-doue.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 6.9
+          },
+          {
+            "id": "michael-olise-france-morocco-2026-07-09",
+            "name": "Michael Olise",
+            "short": "Olise",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "ousmane-dembele-france-morocco-2026-07-09",
+            "name": "Ousmane Dembélé",
+            "short": "Dembélé",
+            "position": "RW",
+            "photo": "assets/photos/people/ousmane-dembele.jpg",
+            "x": 37,
+            "y": 78,
+            "rating": 8
+          },
+          {
+            "id": "kylian-mbappe-france-morocco-2026-07-09",
+            "name": "Kylian Mbappé",
+            "short": "Mbappé",
+            "position": "ST",
+            "photo": "assets/photos/people/kylian-mbappe.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 8.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "warren-zaire-emery-france-morocco-2026-07-09",
+            "name": "Warren Zaïre-Emery",
+            "short": "Zaïre-Emery",
+            "position": "DM",
+            "photo": "assets/photos/people/warren-zaire-emery.jpg",
+            "rating": 6.4
+          },
+          {
+            "id": "jean-philippe-mateta-france-morocco-2026-07-09",
+            "name": "Jean-Philippe Mateta",
+            "short": "Mateta",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "bradley-barcola-france-morocco-2026-07-09",
+            "name": "Bradley Barcola",
+            "short": "Barcola",
+            "position": "LW",
+            "photo": "assets/photos/people/bradley-barcola.jpg",
+            "rating": 7.2
+          },
+          {
+            "id": "malo-gusto",
+            "name": "Malo Gusto",
+            "short": "Gusto",
+            "position": "RB",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "n-golo-kante-france-morocco-2026-07-09",
+            "name": "N'Golo Kanté",
+            "short": "Kanté",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ibrahima-konate-france-morocco-2026-07-09",
+            "name": "Ibrahima Konaté",
+            "short": "Konaté",
+            "position": "CM",
+            "photo": "assets/photos/people/ibrahima-konate.jpg",
+            "rating": null
+          },
+          {
+            "id": "robin-risser-france-morocco-2026-07-09",
+            "name": "Robin Risser",
+            "short": "Risser",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rayan-cherki-france-morocco-2026-07-09",
+            "name": "Rayan Cherki",
+            "short": "Cherki",
+            "position": "CM",
+            "photo": "assets/photos/people/rayan-cherki.jpg",
+            "rating": null
+          },
+          {
+            "id": "theo-hernandez",
+            "name": "Theo Hernández",
+            "short": "Hernández",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marcus-thuram-france-morocco-2026-07-09",
+            "name": "Marcus Thuram",
+            "short": "Thuram",
+            "position": "CM",
+            "photo": "assets/photos/people/marcus-thuram.jpg",
+            "rating": null
+          },
+          {
+            "id": "brice-samba-france-morocco-2026-07-09",
+            "name": "Brice Samba",
+            "short": "Samba",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "maxence-lacroix-france-morocco-2026-07-09",
+            "name": "Maxence Lacroix",
+            "short": "Lacroix",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "maghnes-akliouche-france-morocco-2026-07-09",
+            "name": "Maghnes Akliouche",
+            "short": "Akliouche",
+            "position": "CM",
+            "photo": "assets/photos/people/maghnes-akliouche.jpg",
+            "rating": null
+          },
+          {
+            "id": "aurelien-tchouameni-france-morocco-2026-07-09",
+            "name": "Aurélien Tchouaméni",
+            "short": "Tchouaméni",
+            "position": "CM",
+            "photo": "assets/photos/people/aurelien-tchouameni.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "mohamed-ouahbi",
+          "name": "Mohamed Ouahbi",
+          "short": "Ouahbi",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "yassine-bounou",
+            "name": "Yassine Bounou",
+            "short": "Bounou",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "anass-salah-eddine",
+            "name": "Anass Salah-Eddine",
+            "short": "Salah-Eddine",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "noussair-mazraoui-france-morocco-2026-07-09",
+            "name": "Noussair Mazraoui",
+            "short": "Mazraoui",
+            "position": "CB",
+            "photo": "assets/photos/people/noussair-mazraoui.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 7.2
+          },
+          {
+            "id": "issa-diop-france-morocco-2026-07-09",
+            "name": "Issa Diop",
+            "short": "Diop",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 6.5
+          },
+          {
+            "id": "achraf-hakimi-france-morocco-2026-07-09",
+            "name": "Achraf Hakimi",
+            "short": "Hakimi",
+            "position": "RB",
+            "photo": "assets/photos/people/achraf-hakimi.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 7.4
+          },
+          {
+            "id": "neil-el-aynaoui-france-morocco-2026-07-09",
+            "name": "Neil El Aynaoui",
+            "short": "El Aynaoui",
+            "position": "DM",
+            "photo": "assets/photos/people/neil-el-aynaoui.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "ayyoub-bouaddi-france-morocco-2026-07-09",
+            "name": "Ayyoub Bouaddi",
+            "short": "Bouaddi",
+            "position": "DM",
+            "photo": "assets/photos/people/ayyoub-bouaddi.jpg",
+            "x": 73,
+            "y": 30,
+            "rating": 7.2
+          },
+          {
+            "id": "chemsdine-talbi-france-morocco-2026-07-09",
+            "name": "Chemsdine Talbi",
+            "short": "Talbi",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.8
+          },
+          {
+            "id": "azzedine-ounahi",
+            "name": "Azzedine Ounahi",
+            "short": "Ounahi",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 6.2
+          },
+          {
+            "id": "brahim-diaz-france-morocco-2026-07-09",
+            "name": "Brahim Díaz",
+            "short": "Díaz",
+            "position": "RW",
+            "photo": "assets/photos/people/brahim-diaz.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 6.8
+          },
+          {
+            "id": "bilal-el-khannouss-france-morocco-2026-07-09",
+            "name": "Bilal El Khannouss",
+            "short": "El Khannouss",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 6.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "soufiane-rahimi",
+            "name": "Soufiane Rahimi",
+            "short": "Rahimi",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.3
+          },
+          {
+            "id": "sofyan-amrabat",
+            "name": "Sofyan Amrabat",
+            "short": "Amrabat",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "zakaria-el-ouahdi-france-morocco-2026-07-09",
+            "name": "Zakaria El Ouahdi",
+            "short": "Ouahdi",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "gessime-yassine-france-morocco-2026-07-09",
+            "name": "Gessime Yassine",
+            "short": "Yassine",
+            "position": "RW",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "amine-sbai-france-morocco-2026-07-09",
+            "name": "Amine Sbaï",
+            "short": "Sbaï",
+            "position": "LW",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "ahmed-reda-tagnaouti",
+            "name": "Ahmed Reda Tagnaouti",
+            "short": "Tagnaouti",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "youssef-belammari",
+            "name": "Youssef Belammari",
+            "short": "Belammari",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "samir-el-mourabet-france-morocco-2026-07-09",
+            "name": "Samir El Mourabet",
+            "short": "Mourabet",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "redouane-halhal-france-morocco-2026-07-09",
+            "name": "Redouane Halhal",
+            "short": "Halhal",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marwane-saadane",
+            "name": "Marwane Saadane",
+            "short": "Saadane",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ismael-saibari-france-morocco-2026-07-09",
+            "name": "Ismael Saibari",
+            "short": "Saibari",
+            "position": "CM",
+            "photo": "assets/photos/people/ismael-saibari.jpg",
+            "rating": null
+          },
+          {
+            "id": "chadi-riad",
+            "name": "Chadi Riad",
+            "short": "Riad",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "munir-el-kajoui",
+            "name": "Munir El Kajoui",
+            "short": "Kajoui",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ayoube-amaimouni-france-morocco-2026-07-09",
+            "name": "Ayoube Amaimouni",
+            "short": "Amaimouni",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ayoub-el-kaabi",
+            "name": "Ayoub El Kaabi",
+            "short": "Kaabi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 60,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "kylian-mbappe-france-morocco-2026-07-09",
+          "name": "Kylian Mbappé",
+          "short": "Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "desire-doue-france-morocco-2026-07-09",
+          "name": "Désiré Doué",
+          "short": "Doué",
+          "position": "LW",
+          "photo": "assets/photos/people/desire-doue.jpg"
+        },
+        "goalType": "build",
+        "description": "Mbappé cut in from the left side of the box and fired a right-footed shot into the top right corner after a pass from Désiré Doué."
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "soufiane-rahimi",
+          "name": "Soufiane Rahimi",
+          "short": "Rahimi",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bilal-el-khannouss-france-morocco-2026-07-09",
+          "name": "Bilal El Khannouss",
+          "short": "El Khannouss",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "sofyan-amrabat",
+          "name": "Sofyan Amrabat",
+          "short": "Amrabat",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ayyoub-bouaddi-france-morocco-2026-07-09",
+          "name": "Ayyoub Bouaddi",
+          "short": "Bouaddi",
+          "position": "DM",
+          "photo": "assets/photos/people/ayyoub-bouaddi.jpg"
+        }
+      },
+      {
+        "minute": 63,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "issa-diop-france-morocco-2026-07-09",
+          "name": "Issa Diop",
+          "short": "Diop",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 66,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "ousmane-dembele-france-morocco-2026-07-09",
+          "name": "Ousmane Dembélé",
+          "short": "Dembélé",
+          "position": "RW",
+          "photo": "assets/photos/people/ousmane-dembele.jpg"
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "kylian-mbappe-france-morocco-2026-07-09",
+          "name": "Kylian Mbappé",
+          "short": "Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        },
+        "goalType": "build",
+        "description": "Dembélé struck a right-footed shot from outside the box into the bottom right corner, set up by Mbappé."
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "warren-zaire-emery-france-morocco-2026-07-09",
+          "name": "Warren Zaïre-Emery",
+          "short": "Zaïre-Emery",
+          "position": "DM",
+          "photo": "assets/photos/people/warren-zaire-emery.jpg"
+        },
+        "replaced": {
+          "id": "manu-kone",
+          "name": "Manu Koné",
+          "short": "Koné",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "zakaria-el-ouahdi-france-morocco-2026-07-09",
+          "name": "Zakaria El Ouahdi",
+          "short": "Ouahdi",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "anass-salah-eddine",
+          "name": "Anass Salah-Eddine",
+          "short": "Salah-Eddine",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gessime-yassine-france-morocco-2026-07-09",
+          "name": "Gessime Yassine",
+          "short": "Yassine",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "brahim-diaz-france-morocco-2026-07-09",
+          "name": "Brahim Díaz",
+          "short": "Díaz",
+          "position": "RW",
+          "photo": "assets/photos/people/brahim-diaz.jpg"
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "jean-philippe-mateta-france-morocco-2026-07-09",
+          "name": "Jean-Philippe Mateta",
+          "short": "Mateta",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "kylian-mbappe-france-morocco-2026-07-09",
+          "name": "Kylian Mbappé",
+          "short": "Mbappé",
+          "position": "ST",
+          "photo": "assets/photos/people/kylian-mbappe.jpg"
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "bradley-barcola-france-morocco-2026-07-09",
+          "name": "Bradley Barcola",
+          "short": "Barcola",
+          "position": "LW",
+          "photo": "assets/photos/people/bradley-barcola.jpg"
+        },
+        "replaced": {
+          "id": "desire-doue-france-morocco-2026-07-09",
+          "name": "Désiré Doué",
+          "short": "Doué",
+          "position": "LW",
+          "photo": "assets/photos/people/desire-doue.jpg"
+        }
+      },
+      {
+        "minute": 85,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "amine-sbai-france-morocco-2026-07-09",
+          "name": "Amine Sbaï",
+          "short": "Sbaï",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "chemsdine-talbi-france-morocco-2026-07-09",
+          "name": "Chemsdine Talbi",
+          "short": "Talbi",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 87,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "malo-gusto",
+          "name": "Malo Gusto",
+          "short": "Gusto",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jules-kounde-france-morocco-2026-07-09",
+          "name": "Jules Koundé",
+          "short": "Koundé",
+          "position": "RB",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        22,
+        5
+      ],
+      "onTarget": [
+        8,
+        1
+      ],
+      "corners": [
+        5,
+        5
+      ],
+      "fouls": [
+        10,
+        13
+      ],
+      "possession": 48
+    },
+    "attendance": 63811,
+    "referee": {
+      "name": "Facundo Tello",
+      "country": "Argentina"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event=760510",
+      "https://www.espn.com/soccer/match/_/gameId/760510",
+      "https://citizen.digital/article/france-v-morocco-rematch-as-world-cup-quarter-finals-get-under-way-n386086",
+      "https://blog.wego.com/morocco-match-at-the-world-cup/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

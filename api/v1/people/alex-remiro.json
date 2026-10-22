@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "alex-remiro",
+    "name": "Álex Remiro",
+    "short": "Remiro",
+    "position": "CM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "union-sg-real-sociedad-2026-10-15",
+        "date": "2026-10-15",
+        "team": "Real Sociedad",
+        "role": "bench"
+      }
+    ]
+  }
+}

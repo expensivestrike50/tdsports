@@ -1,0 +1,772 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "marseille-olympiacos-2026-10-15",
+    "date": "2026-10-15",
+    "kickoff": "21:00",
+    "competition": "UEFA Europa League",
+    "round": "League phase, matchday 2",
+    "status": "FT",
+    "home": {
+      "name": "Marseille",
+      "id": "marseille",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "country": "FR"
+    },
+    "away": {
+      "name": "Olympiacos",
+      "id": "olympiacos",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
+      "country": "GR"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Stade Vélodrome",
+      "city": "Marseille",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "bruno-genesio",
+          "name": "Bruno Génésio",
+          "short": "Génésio",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "jeffrey-de-lange",
+            "name": "Jeffrey de Lange",
+            "short": "de Lange",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "emerson",
+            "name": "Emerson",
+            "short": "Emerson",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.3
+          },
+          {
+            "id": "nayef-aguerd",
+            "name": "Nayef Aguerd",
+            "short": "Aguerd",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.6
+          },
+          {
+            "id": "bamo-meite",
+            "name": "Bamo Meïté",
+            "short": "Meïté",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 7.2
+          },
+          {
+            "id": "timothy-weah",
+            "name": "Timothy Weah",
+            "short": "Weah",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.6
+          },
+          {
+            "id": "tochukwu-nnadi",
+            "name": "Tochukwu Nnadi",
+            "short": "Nnadi",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 30,
+            "rating": 6.4
+          },
+          {
+            "id": "himad-abdelli",
+            "name": "Himad Abdelli",
+            "short": "Abdelli",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7
+          },
+          {
+            "id": "igor-paixao",
+            "name": "Igor Paixão",
+            "short": "Igor Paixão",
+            "position": "LW",
+            "photo": null,
+            "x": 37,
+            "y": 23,
+            "rating": 6.6
+          },
+          {
+            "id": "angel-gomes",
+            "name": "Angel Gomes",
+            "short": "Gomes",
+            "position": "AM",
+            "photo": null,
+            "x": 37,
+            "y": 50,
+            "rating": 6.6
+          },
+          {
+            "id": "keyliane-abdallah",
+            "name": "Keyliane Abdallah",
+            "short": "Abdallah",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 6.1
+          },
+          {
+            "id": "neal-maupay",
+            "name": "Neal Maupay",
+            "short": "Maupay",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 50,
+            "rating": 6.7
+          }
+        ],
+        "bench": [
+          {
+            "id": "amine-harit",
+            "name": "Amine Harit",
+            "short": "Harit",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "amine-gouiri",
+            "name": "Amine Gouiri",
+            "short": "Gouiri",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "ulisses-garcia",
+            "name": "Ulisses Garcia",
+            "short": "Garcia",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "faris-moumbagna",
+            "name": "Faris Moumbagna",
+            "short": "Moumbagna",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "geoffrey-kondogbia",
+            "name": "Geoffrey Kondogbia",
+            "short": "Kondogbia",
+            "position": "RW",
+            "photo": null,
+            "rating": 7.3
+          },
+          {
+            "id": "alexi-koum",
+            "name": "Alexi Koum",
+            "short": "Koum",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tadjidine-mmadi",
+            "name": "Tadjidine Mmadi",
+            "short": "Mmadi",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nouhoum-kamissoko",
+            "name": "Nouhoum Kamissoko",
+            "short": "Kamissoko",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "cj-egan-riley",
+            "name": "CJ Egan-Riley",
+            "short": "Egan-Riley",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "theo-vermot",
+            "name": "Théo Vermot",
+            "short": "Vermot",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "kelyann-bezahaf",
+            "name": "Kelyann Bezahaf",
+            "short": "Bezahaf",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jelle-van-neck",
+            "name": "Jelle Van Neck",
+            "short": "Neck",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "imanol-alguacil",
+          "name": "Imanol Alguacil",
+          "short": "Alguacil",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "stefan-ortega",
+            "name": "Stefan Ortega",
+            "short": "Ortega",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.4
+          },
+          {
+            "id": "bruno-onyemaechi",
+            "name": "Bruno Onyemaechi",
+            "short": "Onyemaechi",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.1
+          },
+          {
+            "id": "lorenzo-pirola",
+            "name": "Lorenzo Pirola",
+            "short": "Pirola",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.6
+          },
+          {
+            "id": "panagiotis-retsos",
+            "name": "Panagiotis Retsos",
+            "short": "Retsos",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.4
+          },
+          {
+            "id": "manolis-saliakas",
+            "name": "Manolis Saliakas",
+            "short": "Saliakas",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 6.9
+          },
+          {
+            "id": "santiago-hezze",
+            "name": "Santiago Hezze",
+            "short": "Hezze",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 70,
+            "rating": 8.3
+          },
+          {
+            "id": "gustavo-puerta",
+            "name": "Gustavo Puerta",
+            "short": "Puerta",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 7.6
+          },
+          {
+            "id": "gelson-martins",
+            "name": "Gelson Martins",
+            "short": "Martins",
+            "position": "LW",
+            "photo": null,
+            "x": 63,
+            "y": 77,
+            "rating": 6.7
+          },
+          {
+            "id": "chiquinho",
+            "name": "Chiquinho",
+            "short": "Chiquinho",
+            "position": "AM",
+            "photo": null,
+            "x": 63,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "jota-silva",
+            "name": "Jota Silva",
+            "short": "Silva",
+            "position": "RW",
+            "photo": null,
+            "x": 63,
+            "y": 22,
+            "rating": 7.1
+          },
+          {
+            "id": "roman-yaremchuk",
+            "name": "Roman Yaremchuk",
+            "short": "Yaremchuk",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 50,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "remo-freuler",
+            "name": "Remo Freuler",
+            "short": "Freuler",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.9
+          },
+          {
+            "id": "armando-gonzalez",
+            "name": "Armando González",
+            "short": "González",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "kostas-fortounis",
+            "name": "Kostas Fortounis",
+            "short": "Fortounis",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.8
+          },
+          {
+            "id": "nayair-tiknizyan",
+            "name": "Nayair Tiknizyan",
+            "short": "Tiknizyan",
+            "position": "LB",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "gustavo-sa",
+            "name": "Gustavo Sá",
+            "short": "Sá",
+            "position": "AM",
+            "photo": null,
+            "rating": 7.6
+          },
+          {
+            "id": "iason-georgakopoulos",
+            "name": "Iason Georgakopoulos",
+            "short": "Georgakopoulos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "christos-filis",
+            "name": "Christos Filis",
+            "short": "Filis",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "dimitrios-stournaras",
+            "name": "Dimitrios Stournaras",
+            "short": "Stournaras",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "zinedin-smajlovic",
+            "name": "Zinedin Smajlovic",
+            "short": "Smajlovic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "marcus-holmgren-pedersen",
+            "name": "Marcus Holmgren Pedersen",
+            "short": "Pedersen",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "david-carmo",
+            "name": "David Carmo",
+            "short": "Carmo",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 36,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "keyliane-abdallah",
+          "name": "Keyliane Abdallah",
+          "short": "Abdallah",
+          "position": "RW",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 42,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "santiago-hezze",
+          "name": "Santiago Hezze",
+          "short": "Hezze",
+          "position": "DM",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "chiquinho",
+          "name": "Chiquinho",
+          "short": "Chiquinho",
+          "position": "AM",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Chiquinho provided the assist with a cross following a corner; Santiago Hezze scored with a header from the centre of the box to the high centre of the goal."
+      },
+      {
+        "minute": 43,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "panagiotis-retsos",
+          "name": "Panagiotis Retsos",
+          "short": "Retsos",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "not specified"
+      },
+      {
+        "minute": 60,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "bruno-onyemaechi",
+          "name": "Bruno Onyemaechi",
+          "short": "Onyemaechi",
+          "position": "LB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "amine-harit",
+          "name": "Amine Harit",
+          "short": "Harit",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "tochukwu-nnadi",
+          "name": "Tochukwu Nnadi",
+          "short": "Nnadi",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "amine-gouiri",
+          "name": "Amine Gouiri",
+          "short": "Gouiri",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "neal-maupay",
+          "name": "Neal Maupay",
+          "short": "Maupay",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ulisses-garcia",
+          "name": "Ulisses Garcia",
+          "short": "Garcia",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "emerson",
+          "name": "Emerson",
+          "short": "Emerson",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "remo-freuler",
+          "name": "Remo Freuler",
+          "short": "Freuler",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "gustavo-puerta",
+          "name": "Gustavo Puerta",
+          "short": "Puerta",
+          "position": "DM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 67,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "armando-gonzalez",
+          "name": "Armando González",
+          "short": "González",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "roman-yaremchuk",
+          "name": "Roman Yaremchuk",
+          "short": "Yaremchuk",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 72,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "kostas-fortounis",
+          "name": "Kostas Fortounis",
+          "short": "Fortounis",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jota-silva",
+          "name": "Jota Silva",
+          "short": "Silva",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "nayair-tiknizyan",
+          "name": "Nayair Tiknizyan",
+          "short": "Tiknizyan",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "bruno-onyemaechi",
+          "name": "Bruno Onyemaechi",
+          "short": "Onyemaechi",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 75,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "faris-moumbagna",
+          "name": "Faris Moumbagna",
+          "short": "Moumbagna",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "angel-gomes",
+          "name": "Angel Gomes",
+          "short": "Gomes",
+          "position": "AM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "bamo-meite",
+          "name": "Bamo Meïté",
+          "short": "Meïté",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "bad foul"
+      },
+      {
+        "minute": 80,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "geoffrey-kondogbia",
+          "name": "Geoffrey Kondogbia",
+          "short": "Kondogbia",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "keyliane-abdallah",
+          "name": "Keyliane Abdallah",
+          "short": "Abdallah",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "gustavo-sa",
+          "name": "Gustavo Sá",
+          "short": "Sá",
+          "position": "AM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "chiquinho",
+          "name": "Chiquinho",
+          "short": "Chiquinho",
+          "position": "AM",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        11,
+        9
+      ],
+      "onTarget": [
+        5,
+        4
+      ],
+      "corners": [
+        9,
+        1
+      ],
+      "fouls": [
+        15,
+        11
+      ],
+      "possession": 56
+    },
+    "attendance": 57051,
+    "referee": {
+      "name": "Michael Oliver",
+      "country": "England"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/summary?event=401915550",
+      "https://www.espn.com/soccer/match/_/gameId/401915550",
+      "https://match.uefa.com/v5/matches?competitionId=14&fromDate=2026-10-15&toDate=2026-10-15",
+      "https://match.uefa.com/v5/matches/2050078/lineups"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

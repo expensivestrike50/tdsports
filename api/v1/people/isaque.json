@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "isaque",
+    "name": "Isaque",
+    "short": "Isaque",
+    "position": "DM",
+    "photo": null,
+    "matches": [
+      {
+        "match": "inter-shakhtar",
+        "date": "2026-10-21",
+        "team": "Shakhtar Donetsk",
+        "role": "bench"
+      }
+    ]
+  }
+}

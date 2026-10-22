@@ -1,0 +1,831 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "bayern-munchen-rb-leipzig-2026-10-17",
+    "date": "2026-10-17",
+    "kickoff": "18:30",
+    "competition": "Bundesliga",
+    "round": "Matchday 6",
+    "status": "FT",
+    "home": {
+      "name": "Bayern München",
+      "id": "bayern-munchen",
+      "crest": "assets/clubs/132.png",
+      "country": "DE"
+    },
+    "away": {
+      "name": "RB Leipzig",
+      "id": "rb-leipzig",
+      "crest": "assets/clubs/11420.png",
+      "country": "DE"
+    },
+    "score": {
+      "home": 6,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Allianz Arena",
+      "city": "München",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "vincent-kompany-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Vincent Kompany",
+          "short": "Kompany",
+          "position": "Coach",
+          "photo": "assets/photos/people/vincent-kompany.jpg"
+        },
+        "starting": [
+          {
+            "id": "jonas-urbig-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Jonas Urbig",
+            "short": "Urbig",
+            "position": "GK",
+            "photo": "assets/photos/people/jonas-urbig.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 6.7
+          },
+          {
+            "id": "nathaniel-brown-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Nathaniel Brown",
+            "short": "Brown",
+            "position": "LB",
+            "photo": "assets/photos/people/nathaniel-brown.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 7.7
+          },
+          {
+            "id": "kim-min-jae-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Kim Min-Jae",
+            "short": "Kim",
+            "position": "CB",
+            "photo": "assets/photos/people/kim-min-jae.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 7.7
+          },
+          {
+            "id": "dayot-upamecano-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Dayot Upamecano",
+            "short": "Upamecano",
+            "position": "CB",
+            "photo": "assets/photos/people/dayot-upamecano.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 7.3
+          },
+          {
+            "id": "konrad-laimer-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Konrad Laimer",
+            "short": "Laimer",
+            "position": "RB",
+            "photo": "assets/photos/people/konrad-laimer.jpg",
+            "x": 18,
+            "y": 88,
+            "rating": 7.4
+          },
+          {
+            "id": "aleksandar-pavlovic-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Aleksandar Pavlovic",
+            "short": "Pavlovic",
+            "position": "DM",
+            "photo": "assets/photos/people/aleksandar-pavlovic.jpg",
+            "x": 27,
+            "y": 30,
+            "rating": 8.1
+          },
+          {
+            "id": "joshua-kimmich",
+            "name": "Joshua Kimmich",
+            "short": "Kimmich",
+            "position": "DM",
+            "photo": null,
+            "x": 27,
+            "y": 70,
+            "rating": 7.2
+          },
+          {
+            "id": "luis-diaz-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Luis Díaz",
+            "short": "Díaz",
+            "position": "LW",
+            "photo": "assets/photos/people/luis-diaz.jpg",
+            "x": 37,
+            "y": 23,
+            "rating": 9.6
+          },
+          {
+            "id": "ismael-saibari-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Ismael Saibari",
+            "short": "Saibari",
+            "position": "AM",
+            "photo": "assets/photos/people/ismael-saibari.jpg",
+            "x": 37,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "michael-olise",
+            "name": "Michael Olise",
+            "short": "Olise",
+            "position": "RW",
+            "photo": null,
+            "x": 37,
+            "y": 78,
+            "rating": 8.1
+          },
+          {
+            "id": "harry-kane-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Harry Kane",
+            "short": "Kane",
+            "position": "ST",
+            "photo": "assets/photos/people/harry-kane.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 8.6
+          }
+        ],
+        "bench": [
+          {
+            "id": "tom-bischof-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Tom Bischof",
+            "short": "Bischof",
+            "position": "DM",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "josip-stanisic-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Josip Stanisic",
+            "short": "Stanisic",
+            "position": "RB",
+            "photo": "assets/photos/people/josip-stanisic.jpg",
+            "rating": 6.7
+          },
+          {
+            "id": "lennart-karl-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Lennart Karl",
+            "short": "Karl",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "serge-gnabry-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Serge Gnabry",
+            "short": "Gnabry",
+            "position": "AM",
+            "photo": "assets/photos/people/serge-gnabry.jpg",
+            "rating": 7.5
+          },
+          {
+            "id": "sacha-boey-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Sacha Boey",
+            "short": "Boey",
+            "position": "CB",
+            "photo": "assets/photos/people/sacha-boey.jpg",
+            "rating": 7.3
+          },
+          {
+            "id": "jonathan-tah-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Jonathan Tah",
+            "short": "Tah",
+            "position": "CM",
+            "photo": "assets/photos/people/jonathan-tah.jpg",
+            "rating": null
+          },
+          {
+            "id": "hiroki-ito-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Hiroki Ito",
+            "short": "Ito",
+            "position": "CM",
+            "photo": "assets/photos/people/hiroki-ito.jpg",
+            "rating": null
+          },
+          {
+            "id": "alphonso-davies-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Alphonso Davies",
+            "short": "Davies",
+            "position": "CM",
+            "photo": "assets/photos/people/alphonso-davies.jpg",
+            "rating": null
+          },
+          {
+            "id": "sven-ulreich-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Sven Ulreich",
+            "short": "Ulreich",
+            "position": "CM",
+            "photo": "assets/photos/people/sven-ulreich.jpg",
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-5-1",
+        "coach": {
+          "id": "martin-demichelis-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Martín Demichelis",
+          "short": "Demichelis",
+          "position": "Coach",
+          "photo": "assets/photos/people/martin-demichelis.jpg"
+        },
+        "starting": [
+          {
+            "id": "maarten-vandevoordt-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Maarten Vandevoordt",
+            "short": "Vandevoordt",
+            "position": "GK",
+            "photo": "assets/photos/people/maarten-vandevoordt.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 6.1
+          },
+          {
+            "id": "david-raum-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "David Raum",
+            "short": "Raum",
+            "position": "LB",
+            "photo": "assets/photos/people/david-raum.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 7
+          },
+          {
+            "id": "castello-lukeba-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Castello Lukeba",
+            "short": "Lukeba",
+            "position": "CB",
+            "photo": "assets/photos/people/castello-lukeba.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "willi-orban-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Willi Orbán",
+            "short": "Orbán",
+            "position": "CB",
+            "photo": "assets/photos/people/willi-orban.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 6.1
+          },
+          {
+            "id": "lukas-klostermann-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Lukas Klostermann",
+            "short": "Klostermann",
+            "position": "RB",
+            "photo": "assets/photos/people/lukas-klostermann.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 7.2
+          },
+          {
+            "id": "antonio-nusa-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Antonio Nusa",
+            "short": "Nusa",
+            "position": "LW",
+            "photo": "assets/photos/people/antonio-nusa.jpg",
+            "x": 68,
+            "y": 92,
+            "rating": 6.4
+          },
+          {
+            "id": "ezechiel-banzuzi-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Ezechiel Banzuzi",
+            "short": "Banzuzi",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 71,
+            "rating": 6.5
+          },
+          {
+            "id": "neil-el-aynaoui-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Neil El Aynaoui",
+            "short": "El Aynaoui",
+            "position": "AM",
+            "photo": "assets/photos/people/neil-el-aynaoui.jpg",
+            "x": 68,
+            "y": 50,
+            "rating": 6.8
+          },
+          {
+            "id": "rocco-reitz-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Rocco Reitz",
+            "short": "Reitz",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 29,
+            "rating": 7.2
+          },
+          {
+            "id": "brajan-gruda-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Brajan Gruda",
+            "short": "Gruda",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 8,
+            "rating": 6.7
+          },
+          {
+            "id": "christopher-nkunku-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Christopher Nkunku",
+            "short": "Nkunku",
+            "position": "ST",
+            "photo": "assets/photos/people/christopher-nkunku.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 6.4
+          }
+        ],
+        "bench": [
+          {
+            "id": "nicolas-seiwald-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Nicolas Seiwald",
+            "short": "Seiwald",
+            "position": "CM",
+            "photo": "assets/photos/people/nicolas-seiwald.jpg",
+            "rating": 6.7
+          },
+          {
+            "id": "tidiam-gomis-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Tidiam Gomis",
+            "short": "Gomis",
+            "position": "ST",
+            "photo": null,
+            "rating": 7.5
+          },
+          {
+            "id": "benjamin-henrichs-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Benjamin Henrichs",
+            "short": "Henrichs",
+            "position": "RB",
+            "photo": "assets/photos/people/benjamin-henrichs.jpg",
+            "rating": 7
+          },
+          {
+            "id": "romulo-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Rômulo",
+            "short": "Rômulo",
+            "position": "LW",
+            "photo": "assets/photos/people/romulo.jpg",
+            "rating": 7.1
+          },
+          {
+            "id": "andrija-maksimovic-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Andrija Maksimovic",
+            "short": "Maksimovic",
+            "position": "CM",
+            "photo": "assets/photos/people/andrija-maksimovic.jpg",
+            "rating": 7.2
+          },
+          {
+            "id": "max-finkgrafe-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Max Finkgrafe",
+            "short": "Finkgrafe",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "maxime-esteve-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Maxime Estève",
+            "short": "Estève",
+            "position": "CM",
+            "photo": "assets/photos/people/maxime-esteve.jpg",
+            "rating": null
+          },
+          {
+            "id": "rjan-nyland-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Ørjan Nyland",
+            "short": "Nyland",
+            "position": "CM",
+            "photo": "assets/photos/people/rjan-nyland.jpg",
+            "rating": null
+          },
+          {
+            "id": "ridle-baku-bayern-munchen-rb-leipzig-2026-10-17",
+            "name": "Ridle Baku",
+            "short": "Baku",
+            "position": "CM",
+            "photo": "assets/photos/people/ridle-baku.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 12,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "luis-diaz-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Luis Díaz",
+          "short": "Díaz",
+          "position": "LW",
+          "photo": "assets/photos/people/luis-diaz.jpg"
+        },
+        "scoreAfter": "1 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "joshua-kimmich",
+          "name": "Joshua Kimmich",
+          "short": "Kimmich",
+          "position": "DM",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Luis Díaz scored with a right-footed shot from the centre of the box to the bottom left corner. Assist: Joshua Kimmich with a through ball."
+      },
+      {
+        "minute": 26,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "aleksandar-pavlovic-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Aleksandar Pavlovic",
+          "short": "Pavlovic",
+          "position": "DM",
+          "photo": "assets/photos/people/aleksandar-pavlovic.jpg"
+        },
+        "scoreAfter": "2 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "luis-diaz-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Luis Díaz",
+          "short": "Díaz",
+          "position": "LW",
+          "photo": "assets/photos/people/luis-diaz.jpg"
+        },
+        "goalType": "build",
+        "description": "Aleksandar Pavlovic scored with a left-footed shot from the left side of the box to the bottom left corner. Assist: Luis Díaz."
+      },
+      {
+        "minute": 34,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "michael-olise",
+          "name": "Michael Olise",
+          "short": "Olise",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "3 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "harry-kane-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Harry Kane",
+          "short": "Kane",
+          "position": "ST",
+          "photo": "assets/photos/people/harry-kane.jpg"
+        },
+        "goalType": "build",
+        "description": "Michael Olise scored with a left-footed shot from outside the box to the bottom right corner. Assist: Harry Kane."
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "nicolas-seiwald-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Nicolas Seiwald",
+          "short": "Seiwald",
+          "position": "CM",
+          "photo": "assets/photos/people/nicolas-seiwald.jpg"
+        },
+        "replaced": {
+          "id": "ezechiel-banzuzi-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Ezechiel Banzuzi",
+          "short": "Banzuzi",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 46,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "tidiam-gomis-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Tidiam Gomis",
+          "short": "Gomis",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "christopher-nkunku-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Christopher Nkunku",
+          "short": "Nkunku",
+          "position": "ST",
+          "photo": "assets/photos/people/christopher-nkunku.jpg"
+        }
+      },
+      {
+        "minute": 47,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "luis-diaz-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Luis Díaz",
+          "short": "Díaz",
+          "position": "LW",
+          "photo": "assets/photos/people/luis-diaz.jpg"
+        },
+        "scoreAfter": "4 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "harry-kane-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Harry Kane",
+          "short": "Kane",
+          "position": "ST",
+          "photo": "assets/photos/people/harry-kane.jpg"
+        },
+        "goalType": "build",
+        "description": "Luis Díaz scored with a right-footed shot from the left side of the box to the bottom right corner. Assist: Harry Kane."
+      },
+      {
+        "minute": 51,
+        "type": "yellow_card",
+        "team": "home",
+        "player": {
+          "id": "konrad-laimer-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Konrad Laimer",
+          "short": "Laimer",
+          "position": "RB",
+          "photo": "assets/photos/people/konrad-laimer.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 52,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "harry-kane-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Harry Kane",
+          "short": "Kane",
+          "position": "ST",
+          "photo": "assets/photos/people/harry-kane.jpg"
+        },
+        "scoreAfter": "5 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "nathaniel-brown-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Nathaniel Brown",
+          "short": "Brown",
+          "position": "LB",
+          "photo": "assets/photos/people/nathaniel-brown.jpg"
+        },
+        "goalType": "counter",
+        "description": "Harry Kane scored with a right-footed shot from very close range to the centre of the goal. Assist: Nathaniel Brown following a fast break."
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "tom-bischof-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Tom Bischof",
+          "short": "Bischof",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "aleksandar-pavlovic-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Aleksandar Pavlovic",
+          "short": "Pavlovic",
+          "position": "DM",
+          "photo": "assets/photos/people/aleksandar-pavlovic.jpg"
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "josip-stanisic-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Josip Stanisic",
+          "short": "Stanisic",
+          "position": "RB",
+          "photo": "assets/photos/people/josip-stanisic.jpg"
+        },
+        "replaced": {
+          "id": "konrad-laimer-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Konrad Laimer",
+          "short": "Laimer",
+          "position": "RB",
+          "photo": "assets/photos/people/konrad-laimer.jpg"
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "lennart-karl-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Lennart Karl",
+          "short": "Karl",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "harry-kane-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Harry Kane",
+          "short": "Kane",
+          "position": "ST",
+          "photo": "assets/photos/people/harry-kane.jpg"
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "serge-gnabry-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Serge Gnabry",
+          "short": "Gnabry",
+          "position": "AM",
+          "photo": "assets/photos/people/serge-gnabry.jpg"
+        },
+        "replaced": {
+          "id": "ismael-saibari-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Ismael Saibari",
+          "short": "Saibari",
+          "position": "AM",
+          "photo": "assets/photos/people/ismael-saibari.jpg"
+        }
+      },
+      {
+        "minute": 59,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "benjamin-henrichs-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Benjamin Henrichs",
+          "short": "Henrichs",
+          "position": "RB",
+          "photo": "assets/photos/people/benjamin-henrichs.jpg"
+        },
+        "replaced": {
+          "id": "lukas-klostermann-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Lukas Klostermann",
+          "short": "Klostermann",
+          "position": "RB",
+          "photo": "assets/photos/people/lukas-klostermann.jpg"
+        }
+      },
+      {
+        "minute": 60,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "romulo-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Rômulo",
+          "short": "Rômulo",
+          "position": "LW",
+          "photo": "assets/photos/people/romulo.jpg"
+        },
+        "replaced": {
+          "id": "antonio-nusa-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Antonio Nusa",
+          "short": "Nusa",
+          "position": "LW",
+          "photo": "assets/photos/people/antonio-nusa.jpg"
+        }
+      },
+      {
+        "minute": 69,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "luis-diaz-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Luis Díaz",
+          "short": "Díaz",
+          "position": "LW",
+          "photo": "assets/photos/people/luis-diaz.jpg"
+        },
+        "scoreAfter": "6 - 0",
+        "penalty": false,
+        "assist": {
+          "id": "michael-olise",
+          "name": "Michael Olise",
+          "short": "Olise",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "set",
+        "description": "Luis Díaz scored with a right-footed shot from outside the box to the bottom right corner. Assist: Michael Olise following a corner."
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "andrija-maksimovic-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Andrija Maksimovic",
+          "short": "Maksimovic",
+          "position": "CM",
+          "photo": "assets/photos/people/andrija-maksimovic.jpg"
+        },
+        "replaced": {
+          "id": "rocco-reitz-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Rocco Reitz",
+          "short": "Reitz",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 77,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "sacha-boey-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Sacha Boey",
+          "short": "Boey",
+          "position": "CB",
+          "photo": "assets/photos/people/sacha-boey.jpg"
+        },
+        "replaced": {
+          "id": "kim-min-jae-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Kim Min-Jae",
+          "short": "Kim",
+          "position": "CB",
+          "photo": "assets/photos/people/kim-min-jae.jpg"
+        }
+      },
+      {
+        "minute": 90,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "andrija-maksimovic-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Andrija Maksimovic",
+          "short": "Maksimovic",
+          "position": "CM",
+          "photo": "assets/photos/people/andrija-maksimovic.jpg"
+        },
+        "scoreAfter": "6 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "brajan-gruda-bayern-munchen-rb-leipzig-2026-10-17",
+          "name": "Brajan Gruda",
+          "short": "Gruda",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Andrija Maksimovic scored with a left-footed shot from the centre of the box to the high centre of the goal. Assist: Brajan Gruda."
+      }
+    ],
+    "stats": {
+      "shots": [
+        29,
+        12
+      ],
+      "onTarget": [
+        17,
+        4
+      ],
+      "corners": [
+        11,
+        3
+      ],
+      "fouls": [
+        15,
+        6
+      ],
+      "possession": 62
+    },
+    "attendance": 75000,
+    "referee": {
+      "name": "Tobias Stieler",
+      "country": "Germany"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/summary?event=401884772",
+      "https://www.espn.com/soccer/match/_/gameId/401884772",
+      "https://www.transfermarkt.com/spielbericht/index/spielbericht/4916168",
+      "https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/saison_id/2026/spieltag/6"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

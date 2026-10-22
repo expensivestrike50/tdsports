@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "tani-oluwaseyi-villarreal-elche-2026-10-17",
+    "name": "Tani Oluwaseyi",
+    "short": "T. Oluwaseyi",
+    "position": "LW",
+    "photo": "assets/photos/people/tani-oluwaseyi.jpg",
+    "matches": [
+      {
+        "match": "villarreal-elche-2026-10-17",
+        "date": "2026-10-17",
+        "team": "Villarreal",
+        "role": "starter"
+      }
+    ]
+  }
+}

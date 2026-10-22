@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "marquinhos",
+    "name": "Marquinhos",
+    "short": "Marquinhos",
+    "position": "CB",
+    "photo": "assets/photos/people/marquinhos.jpg",
+    "matches": [
+      {
+        "match": "psg-barcelona",
+        "date": "2026-10-20",
+        "team": "PSG",
+        "role": "starter"
+      }
+    ]
+  }
+}

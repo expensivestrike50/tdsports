@@ -1,0 +1,738 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "porto-psv",
+    "date": "2026-10-20",
+    "kickoff": "20:00",
+    "competition": "UEFA Champions League",
+    "round": "League phase, matchday 3",
+    "status": "FT",
+    "home": {
+      "name": "FC Porto",
+      "id": "fc-porto",
+      "crest": "assets/clubs/437.png",
+      "country": "PT"
+    },
+    "away": {
+      "name": "PSV Eindhoven",
+      "id": "psv-eindhoven",
+      "crest": "assets/clubs/148.png",
+      "country": "NL"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "Estádio do Dragão",
+      "city": "Porto",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-3-3",
+        "coach": {
+          "id": "francesco-farioli",
+          "name": "Francesco Farioli",
+          "short": "Farioli",
+          "position": "Coach",
+          "photo": "assets/photos/people/francesco-farioli.jpg"
+        },
+        "starting": [
+          {
+            "id": "diogo-costa",
+            "name": "Diogo Costa",
+            "short": "Diogo Costa",
+            "position": "GK",
+            "photo": "assets/photos/people/diogo-costa.jpg",
+            "x": 5,
+            "y": 50,
+            "rating": 7
+          },
+          {
+            "id": "zaidu-sanusi",
+            "name": "Zaidu Sanusi",
+            "short": "Zaidu",
+            "position": "LB",
+            "photo": "assets/photos/people/zaidu-sanusi.jpg",
+            "x": 18,
+            "y": 12,
+            "rating": 6.8
+          },
+          {
+            "id": "jakub-kiwior",
+            "name": "Jakub Kiwior",
+            "short": "Kiwior",
+            "position": "CB",
+            "photo": "assets/photos/people/jakub-kiwior.jpg",
+            "x": 18,
+            "y": 38,
+            "rating": 6.4
+          },
+          {
+            "id": "jan-bednarek",
+            "name": "Jan Bednarek",
+            "short": "Bednarek",
+            "position": "CB",
+            "photo": "assets/photos/people/jan-bednarek.jpg",
+            "x": 18,
+            "y": 64,
+            "rating": 6.8
+          },
+          {
+            "id": "alberto-costa",
+            "name": "Alberto Costa",
+            "short": "Alberto Costa",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.9
+          },
+          {
+            "id": "gabri-veiga",
+            "name": "Gabri Veiga",
+            "short": "Gabri Veiga",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 23,
+            "rating": 7.2
+          },
+          {
+            "id": "pablo-rosario",
+            "name": "Pablo Rosario",
+            "short": "Rosario",
+            "position": "DM",
+            "photo": "assets/photos/people/pablo-rosario.jpg",
+            "x": 32,
+            "y": 50,
+            "rating": 6.5
+          },
+          {
+            "id": "victor-froholdt",
+            "name": "Victor Froholdt",
+            "short": "Froholdt",
+            "position": "CM",
+            "photo": "assets/photos/people/victor-froholdt.jpg",
+            "x": 32,
+            "y": 78,
+            "rating": 7.3
+          },
+          {
+            "id": "oskar-pietuszewski",
+            "name": "Oskar Pietuszewski",
+            "short": "Pietuszewski",
+            "position": "LW",
+            "photo": "assets/photos/people/oskar-pietuszewski.jpg",
+            "x": 46,
+            "y": 23,
+            "rating": 7.3
+          },
+          {
+            "id": "samu-aghehowa",
+            "name": "Samu Aghehowa",
+            "short": "Samu",
+            "position": "ST",
+            "photo": "assets/photos/people/samu-aghehowa.jpg",
+            "x": 46,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "pepe",
+            "name": "Pepê",
+            "short": "Pepê",
+            "position": "RW",
+            "photo": "assets/photos/people/pepe.jpg",
+            "x": 46,
+            "y": 78,
+            "rating": 7
+          }
+        ],
+        "bench": [
+          {
+            "id": "andre-silva",
+            "name": "André Silva",
+            "short": "Silva",
+            "position": "ST",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "borja-sainz",
+            "name": "Borja Sainz",
+            "short": "Sainz",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "hwang-in-beom",
+            "name": "Hwang In-beom",
+            "short": "In-beom",
+            "position": "CM",
+            "photo": "assets/photos/people/hwang-in-beom.jpg",
+            "rating": 6.3
+          },
+          {
+            "id": "souza",
+            "name": "Souza",
+            "short": "Souza",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.6
+          },
+          {
+            "id": "seko-fofana",
+            "name": "Seko Fofana",
+            "short": "Fofana",
+            "position": "CM",
+            "photo": "assets/photos/people/seko-fofana.jpg",
+            "rating": 6.5
+          },
+          {
+            "id": "martim-fernandes",
+            "name": "Martim Fernandes",
+            "short": "Fernandes",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "santiago-gimenez",
+            "name": "Santiago Giménez",
+            "short": "Giménez",
+            "position": "CM",
+            "photo": "assets/photos/people/santiago-gimenez.jpg",
+            "rating": null
+          },
+          {
+            "id": "nehuen-perez",
+            "name": "Nehuén Pérez",
+            "short": "Pérez",
+            "position": "CM",
+            "photo": "assets/photos/people/nehuen-perez.jpg",
+            "rating": null
+          },
+          {
+            "id": "moura",
+            "name": "Moura",
+            "short": "Moura",
+            "position": "CM",
+            "photo": "assets/photos/people/moura.jpg",
+            "rating": null
+          },
+          {
+            "id": "joao-costa",
+            "name": "João Costa",
+            "short": "Costa",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alan-varela",
+            "name": "Alan Varela",
+            "short": "Varela",
+            "position": "CM",
+            "photo": "assets/photos/people/alan-varela.jpg",
+            "rating": null
+          },
+          {
+            "id": "claudio-ramos",
+            "name": "Cláudio Ramos",
+            "short": "Ramos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-2-3-1",
+        "coach": {
+          "id": "peter-bosz",
+          "name": "Peter Bosz",
+          "short": "Bosz",
+          "position": "Coach",
+          "photo": "assets/photos/people/peter-bosz.jpg"
+        },
+        "starting": [
+          {
+            "id": "matej-kovar",
+            "name": "Matěj Kovář",
+            "short": "Kovář",
+            "position": "GK",
+            "photo": "assets/photos/people/matej-kovar.jpg",
+            "x": 95,
+            "y": 50,
+            "rating": 7.2
+          },
+          {
+            "id": "filip-kostic",
+            "name": "Filip Kostić",
+            "short": "Kostić",
+            "position": "LB",
+            "photo": "assets/photos/people/filip-kostic.jpg",
+            "x": 82,
+            "y": 88,
+            "rating": 6.8
+          },
+          {
+            "id": "yarek-gasiorowski",
+            "name": "Yarek Gasiorowski",
+            "short": "Gasiorowski",
+            "position": "CB",
+            "photo": "assets/photos/people/yarek-gasiorowski.jpg",
+            "x": 82,
+            "y": 62,
+            "rating": 6.7
+          },
+          {
+            "id": "lutsharel-geertruida",
+            "name": "Lutsharel Geertruida",
+            "short": "Geertruida",
+            "position": "CB",
+            "photo": "assets/photos/people/lutsharel-geertruida.jpg",
+            "x": 82,
+            "y": 36,
+            "rating": 6.4
+          },
+          {
+            "id": "sergino-dest",
+            "name": "Sergiño Dest",
+            "short": "Dest",
+            "position": "RB",
+            "photo": "assets/photos/people/sergino-dest.jpg",
+            "x": 82,
+            "y": 12,
+            "rating": 7.5
+          },
+          {
+            "id": "mauro-junior",
+            "name": "Mauro Júnior",
+            "short": "Mauro Júnior",
+            "position": "DM",
+            "photo": "assets/photos/people/mauro-junior.jpg",
+            "x": 73,
+            "y": 70,
+            "rating": 7
+          },
+          {
+            "id": "kodai-sano",
+            "name": "Kodai Sano",
+            "short": "Sano",
+            "position": "DM",
+            "photo": null,
+            "x": 73,
+            "y": 30,
+            "rating": 6.3
+          },
+          {
+            "id": "ivan-perisic",
+            "name": "Ivan Perišić",
+            "short": "Perišić",
+            "position": "LW",
+            "photo": "assets/photos/people/ivan-perisic.jpg",
+            "x": 63,
+            "y": 77,
+            "rating": 7.6
+          },
+          {
+            "id": "sven-mijnans",
+            "name": "Sven Mijnans",
+            "short": "Mijnans",
+            "position": "AM",
+            "photo": "assets/photos/people/sven-mijnans.jpg",
+            "x": 63,
+            "y": 50,
+            "rating": 7.8
+          },
+          {
+            "id": "esmir-bajraktarevic",
+            "name": "Esmir Bajraktarević",
+            "short": "Bajraktarević",
+            "position": "RW",
+            "photo": "assets/photos/people/esmir-bajraktarevic.jpg",
+            "x": 63,
+            "y": 22,
+            "rating": 7.6
+          },
+          {
+            "id": "guus-til",
+            "name": "Guus Til",
+            "short": "Til",
+            "position": "ST",
+            "photo": "assets/photos/people/guus-til.jpg",
+            "x": 54,
+            "y": 50,
+            "rating": 7.9
+          }
+        ],
+        "bench": [
+          {
+            "id": "armando-obispo",
+            "name": "Armando Obispo",
+            "short": "Obispo",
+            "position": "CB",
+            "photo": "assets/photos/people/armando-obispo.jpg",
+            "rating": 6.8
+          },
+          {
+            "id": "noah-fernandez",
+            "name": "Noah Fernandez",
+            "short": "Fernandez",
+            "position": "DM",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "dennis-man",
+            "name": "Dennis Man",
+            "short": "Man",
+            "position": "RW",
+            "photo": "assets/photos/people/dennis-man.jpg",
+            "rating": 7.7
+          },
+          {
+            "id": "amir-bouhamdi",
+            "name": "Amir Bouhamdi",
+            "short": "Bouhamdi",
+            "position": "LW",
+            "photo": null,
+            "rating": 7.4
+          },
+          {
+            "id": "ryan-flamingo",
+            "name": "Ryan Flamingo",
+            "short": "Flamingo",
+            "position": "LB",
+            "photo": "assets/photos/people/ryan-flamingo.jpg",
+            "rating": 6.6
+          },
+          {
+            "id": "shuryjano-cornecion",
+            "name": "Shuryjano Cornecion",
+            "short": "Cornecion",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "mikkel-hansen",
+            "name": "Mikkel Hansen",
+            "short": "Hansen",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "tijn-smolenaars",
+            "name": "Tijn Smolenaars",
+            "short": "Smolenaars",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "ayoni-santos",
+            "name": "Ayoni Santos",
+            "short": "Santos",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "nick-olij",
+            "name": "Nick Olij",
+            "short": "Olij",
+            "position": "CM",
+            "photo": "assets/photos/people/nick-olij.jpg",
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 39,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "lutsharel-geertruida",
+          "name": "Lutsharel Geertruida",
+          "short": "Geertruida",
+          "position": "CB",
+          "photo": "assets/photos/people/lutsharel-geertruida.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 57,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "guus-til",
+          "name": "Guus Til",
+          "short": "Til",
+          "position": "ST",
+          "photo": "assets/photos/people/guus-til.jpg"
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "sven-mijnans",
+          "name": "Sven Mijnans",
+          "short": "Mijnans",
+          "position": "AM",
+          "photo": "assets/photos/people/sven-mijnans.jpg"
+        },
+        "goalType": "build",
+        "description": "In a sustained spell of PSV pressure, Bajraktarević hit the right post from Perišić's cross and Mijnans then shot wide before Mijnans teed up Til to finish left-footed from very close range into the bottom-left corner."
+      },
+      {
+        "minute": 58,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "andre-silva",
+          "name": "André Silva",
+          "short": "Silva",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "samu-aghehowa",
+          "name": "Samu Aghehowa",
+          "short": "Samu",
+          "position": "ST",
+          "photo": "assets/photos/people/samu-aghehowa.jpg"
+        }
+      },
+      {
+        "minute": 58,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "borja-sainz",
+          "name": "Borja Sainz",
+          "short": "Sainz",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "oskar-pietuszewski",
+          "name": "Oskar Pietuszewski",
+          "short": "Pietuszewski",
+          "position": "LW",
+          "photo": "assets/photos/people/oskar-pietuszewski.jpg"
+        }
+      },
+      {
+        "minute": 58,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "hwang-in-beom",
+          "name": "Hwang In-beom",
+          "short": "In-beom",
+          "position": "CM",
+          "photo": "assets/photos/people/hwang-in-beom.jpg"
+        },
+        "replaced": {
+          "id": "gabri-veiga",
+          "name": "Gabri Veiga",
+          "short": "Gabri Veiga",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 69,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "souza",
+          "name": "Souza",
+          "short": "Souza",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "zaidu-sanusi",
+          "name": "Zaidu Sanusi",
+          "short": "Zaidu",
+          "position": "LB",
+          "photo": "assets/photos/people/zaidu-sanusi.jpg"
+        }
+      },
+      {
+        "minute": 74,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "armando-obispo",
+          "name": "Armando Obispo",
+          "short": "Obispo",
+          "position": "CB",
+          "photo": "assets/photos/people/armando-obispo.jpg"
+        },
+        "replaced": {
+          "id": "yarek-gasiorowski",
+          "name": "Yarek Gasiorowski",
+          "short": "Gasiorowski",
+          "position": "CB",
+          "photo": "assets/photos/people/yarek-gasiorowski.jpg"
+        }
+      },
+      {
+        "minute": 75,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "mauro-junior",
+          "name": "Mauro Júnior",
+          "short": "Mauro Júnior",
+          "position": "DM",
+          "photo": "assets/photos/people/mauro-junior.jpg"
+        },
+        "detail": "Foul"
+      },
+      {
+        "minute": 76,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "seko-fofana",
+          "name": "Seko Fofana",
+          "short": "Fofana",
+          "position": "CM",
+          "photo": "assets/photos/people/seko-fofana.jpg"
+        },
+        "replaced": {
+          "id": "victor-froholdt",
+          "name": "Victor Froholdt",
+          "short": "Froholdt",
+          "position": "CM",
+          "photo": "assets/photos/people/victor-froholdt.jpg"
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "noah-fernandez",
+          "name": "Noah Fernandez",
+          "short": "Fernandez",
+          "position": "DM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "mauro-junior",
+          "name": "Mauro Júnior",
+          "short": "Mauro Júnior",
+          "position": "DM",
+          "photo": "assets/photos/people/mauro-junior.jpg"
+        }
+      },
+      {
+        "minute": 81,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "dennis-man",
+          "name": "Dennis Man",
+          "short": "Man",
+          "position": "RW",
+          "photo": "assets/photos/people/dennis-man.jpg"
+        },
+        "replaced": {
+          "id": "esmir-bajraktarevic",
+          "name": "Esmir Bajraktarević",
+          "short": "Bajraktarević",
+          "position": "RW",
+          "photo": "assets/photos/people/esmir-bajraktarevic.jpg"
+        }
+      },
+      {
+        "minute": 88,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "amir-bouhamdi",
+          "name": "Amir Bouhamdi",
+          "short": "Bouhamdi",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ivan-perisic",
+          "name": "Ivan Perišić",
+          "short": "Perišić",
+          "position": "LW",
+          "photo": "assets/photos/people/ivan-perisic.jpg"
+        }
+      },
+      {
+        "minute": 88,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "ryan-flamingo",
+          "name": "Ryan Flamingo",
+          "short": "Flamingo",
+          "position": "LB",
+          "photo": "assets/photos/people/ryan-flamingo.jpg"
+        },
+        "replaced": {
+          "id": "filip-kostic",
+          "name": "Filip Kostić",
+          "short": "Kostić",
+          "position": "LB",
+          "photo": "assets/photos/people/filip-kostic.jpg"
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        14,
+        18
+      ],
+      "onTarget": [
+        4,
+        3
+      ],
+      "corners": [
+        2,
+        3
+      ],
+      "fouls": [
+        7,
+        9
+      ],
+      "possession": 40
+    },
+    "attendance": 48935,
+    "referee": {
+      "name": "Daniel Siebert",
+      "country": "Germany"
+    },
+    "sources": [
+      "https://www.espn.com/soccer/match/_/gameId/401915398",
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event=401915398",
+      "https://match.uefa.com/v5/matches/2049593/lineups",
+      "https://www.uefa.com/uefachampionsleague/match/2049593/"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}

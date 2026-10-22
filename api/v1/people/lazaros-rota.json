@@ -1,0 +1,18 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "lazaros-rota",
+    "name": "Lazaros Rota",
+    "short": "Rota",
+    "position": "RB",
+    "photo": "assets/photos/people/lazaros-rota.jpg",
+    "matches": [
+      {
+        "match": "city-aek",
+        "date": "2026-10-20",
+        "team": "AEK Athens",
+        "role": "starter"
+      }
+    ]
+  }
+}

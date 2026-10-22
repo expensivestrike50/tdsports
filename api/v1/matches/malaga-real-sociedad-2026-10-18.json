@@ -1,0 +1,874 @@
+{
+  "generated": "2026-10-22T13:33:35.800Z",
+  "data": {
+    "id": "malaga-real-sociedad-2026-10-18",
+    "date": "2026-10-18",
+    "kickoff": "18:30",
+    "competition": "LaLiga",
+    "round": "Matchday 9",
+    "status": "FT",
+    "home": {
+      "name": "Málaga",
+      "id": "malaga",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+      "country": "ES"
+    },
+    "away": {
+      "name": "Real Sociedad",
+      "id": "real-sociedad",
+      "crest": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "country": "ES"
+    },
+    "score": {
+      "home": 2,
+      "away": 5
+    },
+    "tv": null,
+    "sample": false,
+    "hasLineups": true,
+    "venue": {
+      "name": "La Rosaleda",
+      "city": "Málaga",
+      "capacity": null
+    },
+    "lineups": {
+      "home": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "juan-francisco-funes",
+          "name": "Juan Francisco Funes",
+          "short": "Funes",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "alfonso-herrero",
+            "name": "Alfonso Herrero",
+            "short": "A. Herrero",
+            "position": "GK",
+            "photo": null,
+            "x": 5,
+            "y": 50,
+            "rating": 6.3
+          },
+          {
+            "id": "rafa-garrido",
+            "name": "Rafa Garrido",
+            "short": "R. Garrido",
+            "position": "RB",
+            "photo": null,
+            "x": 18,
+            "y": 12,
+            "rating": 6.9
+          },
+          {
+            "id": "fernando-calero",
+            "name": "Fernando Calero",
+            "short": "F. Calero",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 38,
+            "rating": 6.4
+          },
+          {
+            "id": "angel-recio",
+            "name": "Ángel Recio",
+            "short": "Á. Recio",
+            "position": "CB",
+            "photo": null,
+            "x": 18,
+            "y": 64,
+            "rating": 6.2
+          },
+          {
+            "id": "jose-salinas",
+            "name": "José Salinas",
+            "short": "J. Salinas",
+            "position": "LB",
+            "photo": null,
+            "x": 18,
+            "y": 88,
+            "rating": 6.3
+          },
+          {
+            "id": "david-larrubia",
+            "name": "David Larrubia",
+            "short": "D. Larrubia",
+            "position": "RW",
+            "photo": null,
+            "x": 32,
+            "y": 12,
+            "rating": 7.3
+          },
+          {
+            "id": "carlos-dotor",
+            "name": "Carlos Dotor",
+            "short": "C. Dotor",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 38,
+            "rating": 6.6
+          },
+          {
+            "id": "izan-merino",
+            "name": "Izan Merino",
+            "short": "I. Merino",
+            "position": "CM",
+            "photo": null,
+            "x": 32,
+            "y": 64,
+            "rating": 6.1
+          },
+          {
+            "id": "pablo-martinez",
+            "name": "Pablo Martínez",
+            "short": "P. Martínez",
+            "position": "LW",
+            "photo": null,
+            "x": 32,
+            "y": 88,
+            "rating": 7.9
+          },
+          {
+            "id": "adrian-nino",
+            "name": "Adrián Niño",
+            "short": "A. Niño",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 30,
+            "rating": 7.4
+          },
+          {
+            "id": "chupete",
+            "name": "Chupete",
+            "short": "Chupete",
+            "position": "ST",
+            "photo": null,
+            "x": 46,
+            "y": 70,
+            "rating": 6.3
+          }
+        ],
+        "bench": [
+          {
+            "id": "ramon-enriquez",
+            "name": "Ramón Enríquez",
+            "short": "Enríquez",
+            "position": "CM",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "adam-aznou",
+            "name": "Adam Aznou",
+            "short": "Aznou",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.2
+          },
+          {
+            "id": "daniel-lorenzo",
+            "name": "Daniel Lorenzo",
+            "short": "Lorenzo",
+            "position": "CM",
+            "photo": null,
+            "rating": 7
+          },
+          {
+            "id": "joaquin-munoz",
+            "name": "Joaquín Muñoz",
+            "short": "Muñoz",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "carlos-puga",
+            "name": "Carlos Puga",
+            "short": "Puga",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.7
+          },
+          {
+            "id": "haitam-abaida",
+            "name": "Haitam Abaida",
+            "short": "Abaida",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alex-pastor",
+            "name": "Álex Pastor",
+            "short": "Pastor",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "eneko-jauregui",
+            "name": "Eneko Jauregui",
+            "short": "Jauregui",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "carlos-lopez",
+            "name": "Carlos López",
+            "short": "López",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "rafa-rodriguez",
+            "name": "Rafa Rodríguez",
+            "short": "Rodríguez",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "einar-galilea",
+            "name": "Einar Galilea",
+            "short": "Galilea",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "jens-cajuste",
+            "name": "Jens Cajuste",
+            "short": "Cajuste",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      },
+      "away": {
+        "formation": "4-4-2",
+        "coach": {
+          "id": "pellegrino-matarazzo-malaga-real-sociedad-2026-10-18",
+          "name": "Pellegrino Matarazzo",
+          "short": "Matarazzo",
+          "position": "Coach",
+          "photo": null
+        },
+        "starting": [
+          {
+            "id": "alex-remiro-malaga-real-sociedad-2026-10-18",
+            "name": "Álex Remiro",
+            "short": "Á. Remiro",
+            "position": "GK",
+            "photo": null,
+            "x": 95,
+            "y": 50,
+            "rating": 7.6
+          },
+          {
+            "id": "hector-fort-malaga-real-sociedad-2026-10-18",
+            "name": "Héctor Fort",
+            "short": "H. Fort",
+            "position": "RB",
+            "photo": null,
+            "x": 82,
+            "y": 88,
+            "rating": 7.3
+          },
+          {
+            "id": "jon-martin-malaga-real-sociedad-2026-10-18",
+            "name": "Jon Martín",
+            "short": "J. Martín",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 62,
+            "rating": 7.4
+          },
+          {
+            "id": "mamadou-sarr-malaga-real-sociedad-2026-10-18",
+            "name": "Mamadou Sarr",
+            "short": "M. Sarr",
+            "position": "CB",
+            "photo": null,
+            "x": 82,
+            "y": 36,
+            "rating": 7.5
+          },
+          {
+            "id": "aihen-munoz-malaga-real-sociedad-2026-10-18",
+            "name": "Aihen Muñoz",
+            "short": "A. Muñoz",
+            "position": "LB",
+            "photo": null,
+            "x": 82,
+            "y": 12,
+            "rating": 7.6
+          },
+          {
+            "id": "takefusa-kubo-malaga-real-sociedad-2026-10-18",
+            "name": "Takefusa Kubo",
+            "short": "T. Kubo",
+            "position": "RW",
+            "photo": null,
+            "x": 68,
+            "y": 88,
+            "rating": 7.9
+          },
+          {
+            "id": "jon-gorrotxategi-malaga-real-sociedad-2026-10-18",
+            "name": "Jon Gorrotxategi",
+            "short": "J. Gorrotxategi",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 62,
+            "rating": 6.7
+          },
+          {
+            "id": "carlos-soler-malaga-real-sociedad-2026-10-18",
+            "name": "Carlos Soler",
+            "short": "C. Soler",
+            "position": "CM",
+            "photo": null,
+            "x": 68,
+            "y": 36,
+            "rating": 6.7
+          },
+          {
+            "id": "ander-barrenetxea-malaga-real-sociedad-2026-10-18",
+            "name": "Ander Barrenetxea",
+            "short": "A. Barrenetxea",
+            "position": "LW",
+            "photo": null,
+            "x": 68,
+            "y": 12,
+            "rating": 6.5
+          },
+          {
+            "id": "mikel-oyarzabal-malaga-real-sociedad-2026-10-18",
+            "name": "Mikel Oyarzabal",
+            "short": "M. Oyarzabal",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 70,
+            "rating": 8.4
+          },
+          {
+            "id": "orri-oskarsson-malaga-real-sociedad-2026-10-18",
+            "name": "Orri Óskarsson",
+            "short": "O. Óskarsson",
+            "position": "ST",
+            "photo": null,
+            "x": 54,
+            "y": 30,
+            "rating": 7.5
+          }
+        ],
+        "bench": [
+          {
+            "id": "goncalo-guedes-malaga-real-sociedad-2026-10-18",
+            "name": "Gonçalo Guedes",
+            "short": "Guedes",
+            "position": "LW",
+            "photo": null,
+            "rating": 8.3
+          },
+          {
+            "id": "igor-zubeldia-malaga-real-sociedad-2026-10-18",
+            "name": "Igor Zubeldia",
+            "short": "Zubeldia",
+            "position": "RB",
+            "photo": null,
+            "rating": 7.2
+          },
+          {
+            "id": "sergio-gomez-malaga-real-sociedad-2026-10-18",
+            "name": "Sergio Gómez",
+            "short": "Gómez",
+            "position": "LB",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "job-ochieng-malaga-real-sociedad-2026-10-18",
+            "name": "Job Ochieng",
+            "short": "Ochieng",
+            "position": "RW",
+            "photo": null,
+            "rating": 6.4
+          },
+          {
+            "id": "alex-marchal-malaga-real-sociedad-2026-10-18",
+            "name": "Alex Marchal",
+            "short": "Marchal",
+            "position": "ST",
+            "photo": null,
+            "rating": 6.5
+          },
+          {
+            "id": "jon-pacheco-malaga-real-sociedad-2026-10-18",
+            "name": "Jon Pacheco",
+            "short": "Pacheco",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "arsen-zakharyan-malaga-real-sociedad-2026-10-18",
+            "name": "Arsen Zakharyan",
+            "short": "Zakharyan",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "luka-sucic-malaga-real-sociedad-2026-10-18",
+            "name": "Luka Sucic",
+            "short": "Sucic",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "gorka-carrera",
+            "name": "Gorka Carrera",
+            "short": "Carrera",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "unai-marrero-malaga-real-sociedad-2026-10-18",
+            "name": "Unai Marrero",
+            "short": "Marrero",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "benat-turrientes-malaga-real-sociedad-2026-10-18",
+            "name": "Beñat Turrientes",
+            "short": "Turrientes",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          },
+          {
+            "id": "alex-lebarbier",
+            "name": "Alex Lebarbier",
+            "short": "Lebarbier",
+            "position": "CM",
+            "photo": null,
+            "rating": null
+          }
+        ]
+      }
+    },
+    "events": [
+      {
+        "minute": 3,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "takefusa-kubo-malaga-real-sociedad-2026-10-18",
+          "name": "Takefusa Kubo",
+          "short": "T. Kubo",
+          "position": "RW",
+          "photo": null
+        },
+        "scoreAfter": "0 - 1",
+        "penalty": false,
+        "assist": {
+          "id": "hector-fort-malaga-real-sociedad-2026-10-18",
+          "name": "Héctor Fort",
+          "short": "H. Fort",
+          "position": "RB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Takefusa Kubo left footed shot from outside the box to the top left corner. Assist: Héctor Fort."
+      },
+      {
+        "minute": 26,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "orri-oskarsson-malaga-real-sociedad-2026-10-18",
+          "name": "Orri Óskarsson",
+          "short": "O. Óskarsson",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "0 - 2",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Orri Óskarsson right footed shot from the centre of the box to the bottom right corner."
+      },
+      {
+        "minute": 37,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "jon-martin-malaga-real-sociedad-2026-10-18",
+          "name": "Jon Martín",
+          "short": "J. Martín",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "ramon-enriquez",
+          "name": "Ramón Enríquez",
+          "short": "Enríquez",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "izan-merino",
+          "name": "Izan Merino",
+          "short": "I. Merino",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 45,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "adam-aznou",
+          "name": "Adam Aznou",
+          "short": "Aznou",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "jose-salinas",
+          "name": "José Salinas",
+          "short": "J. Salinas",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 54,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "adrian-nino",
+          "name": "Adrián Niño",
+          "short": "A. Niño",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 2",
+        "penalty": false,
+        "assist": {
+          "id": "pablo-martinez",
+          "name": "Pablo Martínez",
+          "short": "P. Martínez",
+          "position": "LW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Adrián Niño right footed shot from the centre of the box to the top right corner. Assist: Pablo Martínez."
+      },
+      {
+        "minute": 59,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "mikel-oyarzabal-malaga-real-sociedad-2026-10-18",
+          "name": "Mikel Oyarzabal",
+          "short": "M. Oyarzabal",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "1 - 3",
+        "penalty": false,
+        "assist": {
+          "id": "takefusa-kubo-malaga-real-sociedad-2026-10-18",
+          "name": "Takefusa Kubo",
+          "short": "T. Kubo",
+          "position": "RW",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Mikel Oyarzabal left footed shot from the right side of the box to the bottom right corner. Assist: Takefusa Kubo."
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "goncalo-guedes-malaga-real-sociedad-2026-10-18",
+          "name": "Gonçalo Guedes",
+          "short": "Guedes",
+          "position": "LW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "ander-barrenetxea-malaga-real-sociedad-2026-10-18",
+          "name": "Ander Barrenetxea",
+          "short": "A. Barrenetxea",
+          "position": "LW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 61,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "igor-zubeldia-malaga-real-sociedad-2026-10-18",
+          "name": "Igor Zubeldia",
+          "short": "Zubeldia",
+          "position": "RB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "hector-fort-malaga-real-sociedad-2026-10-18",
+          "name": "Héctor Fort",
+          "short": "H. Fort",
+          "position": "RB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 62,
+        "type": "yellow_card",
+        "team": "away",
+        "player": {
+          "id": "mamadou-sarr-malaga-real-sociedad-2026-10-18",
+          "name": "Mamadou Sarr",
+          "short": "M. Sarr",
+          "position": "CB",
+          "photo": null
+        },
+        "detail": "Bad foul"
+      },
+      {
+        "minute": 64,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "daniel-lorenzo",
+          "name": "Daniel Lorenzo",
+          "short": "Lorenzo",
+          "position": "CM",
+          "photo": null
+        },
+        "replaced": {
+          "id": "carlos-dotor",
+          "name": "Carlos Dotor",
+          "short": "C. Dotor",
+          "position": "CM",
+          "photo": null
+        }
+      },
+      {
+        "minute": 66,
+        "type": "goal",
+        "team": "home",
+        "player": {
+          "id": "pablo-martinez",
+          "name": "Pablo Martínez",
+          "short": "P. Martínez",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "2 - 3",
+        "penalty": false,
+        "assist": null,
+        "goalType": "set",
+        "description": "Pablo Martínez right footed shot from the left side of the box to the top right corner following a corner."
+      },
+      {
+        "minute": 67,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "mikel-oyarzabal-malaga-real-sociedad-2026-10-18",
+          "name": "Mikel Oyarzabal",
+          "short": "M. Oyarzabal",
+          "position": "ST",
+          "photo": null
+        },
+        "scoreAfter": "2 - 4",
+        "penalty": false,
+        "assist": {
+          "id": "jon-martin-malaga-real-sociedad-2026-10-18",
+          "name": "Jon Martín",
+          "short": "J. Martín",
+          "position": "CB",
+          "photo": null
+        },
+        "goalType": "build",
+        "description": "Mikel Oyarzabal left footed shot from outside the box to the bottom right corner. Assist: Jon Martín."
+      },
+      {
+        "minute": 68,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "joaquin-munoz",
+          "name": "Joaquín Muñoz",
+          "short": "Muñoz",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "david-larrubia",
+          "name": "David Larrubia",
+          "short": "D. Larrubia",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "sergio-gomez-malaga-real-sociedad-2026-10-18",
+          "name": "Sergio Gómez",
+          "short": "Gómez",
+          "position": "LB",
+          "photo": null
+        },
+        "replaced": {
+          "id": "aihen-munoz-malaga-real-sociedad-2026-10-18",
+          "name": "Aihen Muñoz",
+          "short": "A. Muñoz",
+          "position": "LB",
+          "photo": null
+        }
+      },
+      {
+        "minute": 71,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "job-ochieng-malaga-real-sociedad-2026-10-18",
+          "name": "Job Ochieng",
+          "short": "Ochieng",
+          "position": "RW",
+          "photo": null
+        },
+        "replaced": {
+          "id": "takefusa-kubo-malaga-real-sociedad-2026-10-18",
+          "name": "Takefusa Kubo",
+          "short": "T. Kubo",
+          "position": "RW",
+          "photo": null
+        }
+      },
+      {
+        "minute": 73,
+        "type": "goal",
+        "team": "away",
+        "player": {
+          "id": "goncalo-guedes-malaga-real-sociedad-2026-10-18",
+          "name": "Gonçalo Guedes",
+          "short": "Guedes",
+          "position": "LW",
+          "photo": null
+        },
+        "scoreAfter": "2 - 5",
+        "penalty": false,
+        "assist": null,
+        "goalType": "build",
+        "description": "Gonçalo Guedes right footed shot from the right side of the six yard box to the centre of the goal."
+      },
+      {
+        "minute": 79,
+        "type": "substitution",
+        "team": "away",
+        "player": {
+          "id": "alex-marchal-malaga-real-sociedad-2026-10-18",
+          "name": "Alex Marchal",
+          "short": "Marchal",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "orri-oskarsson-malaga-real-sociedad-2026-10-18",
+          "name": "Orri Óskarsson",
+          "short": "O. Óskarsson",
+          "position": "ST",
+          "photo": null
+        }
+      },
+      {
+        "minute": 82,
+        "type": "substitution",
+        "team": "home",
+        "player": {
+          "id": "carlos-puga",
+          "name": "Carlos Puga",
+          "short": "Puga",
+          "position": "ST",
+          "photo": null
+        },
+        "replaced": {
+          "id": "adrian-nino",
+          "name": "Adrián Niño",
+          "short": "A. Niño",
+          "position": "ST",
+          "photo": null
+        }
+      }
+    ],
+    "stats": {
+      "shots": [
+        17,
+        21
+      ],
+      "onTarget": [
+        6,
+        9
+      ],
+      "corners": [
+        4,
+        5
+      ],
+      "fouls": [
+        4,
+        9
+      ],
+      "possession": 45
+    },
+    "attendance": null,
+    "referee": {
+      "name": "Lluís Bestard Servera",
+      "country": "Spain"
+    },
+    "sources": [
+      "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882841",
+      "https://www.espn.com/soccer/match/_/gameId/401882841",
+      "https://www.abc.com.py/deportes/futbol/internacional/2026/10/18/2-5-la-real-sociedad-somete-con-una-goleada-a-un-inocente-malaga/",
+      "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2026-27"
+    ],
+    "provenance": {
+      "events": "real",
+      "lineups": "real",
+      "stats": "real (ESPN / UEFA)",
+      "ratings": "sample"
+    }
+  }
+}
