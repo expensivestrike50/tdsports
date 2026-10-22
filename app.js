@@ -1532,7 +1532,7 @@ function renderMatch(id, tab) {
     return;
   }
   if (!match) { location.hash = ''; return; }
-  if (match.espn && match.state === 'pre') { renderPreview(match); return; }
+  if (match.espn && match.state === 'pre') { renderPreview(match, tab); return; }
   const fav = state.favs.includes(match.id);
   const d = details(match);
   const [h, a] = analytics(match).teams;
