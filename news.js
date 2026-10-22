@@ -7,6 +7,46 @@
 
 const NEWS_REMOTE = 'https://raw.githubusercontent.com/expensivestrike50/tdsports/news-data/news.json';
 const NEWS_PAGE = 30;
+
+// Total visits to the News page and stories opened from TDsports, kept by a free public
+// counter (abacus). Only the hosted site counts, once per visit per browser session; local
+// copies just read the totals. Nothing about the visitor is sent, only "+1".
+const COUNTER = 'https://abacus.jasoncameron.dev';
+const COUNTER_NS = 'tdsports-expensivestrike50';
+const COUNTING = location.hostname.endsWith('github.io');
+let newsCounts = null; // { visits, reads }
+
+async function countNews(kind, hit) {
+  try {
+    const r = await fetch(`${COUNTER}/${hit && COUNTING ? 'hit' : 'get'}/${COUNTER_NS}/news-${kind}`);
+    return r.ok ? (await r.json()).value : 0;
+  } catch { return null; }
+}
+
+async function countNewsVisit() {
+  let counted = false;
+  try { counted = sessionStorage.getItem('tdsports-news-visit') === '1'; sessionStorage.setItem('tdsports-news-visit', '1'); } catch { /* storage unavailable */ }
+  const [visits, reads] = await Promise.all([countNews('visits', !counted), countNews('reads', false)]);
+  if (visits === null && reads === null) return;
+  newsCounts = { visits: visits || 0, reads: reads || 0 };
+  showNewsCounts();
+}
+
+function showNewsCounts() {
+  const box = document.querySelector('.news-counts');
+  if (box && newsCounts) box.innerHTML = newsCountsHtml();
+}
+const newsCountsHtml = () => (newsCounts ? `
+  <span><b>${newsCounts.visits.toLocaleString()}</b>page visits</span>
+  <span><b>${newsCounts.reads.toLocaleString()}</b>stories read</span>` : '');
+
+// A story opened from TDsports counts as a read.
+document.addEventListener('click', e => {
+  const a = e.target.closest('a[data-read]');
+  if (!a) return;
+  if (newsCounts) { newsCounts.reads += 1; showNewsCounts(); }
+  if (COUNTING) fetch(`${COUNTER}/hit/${COUNTER_NS}/news-reads`, { keepalive: true }).catch(() => {});
+});
 let newsFeed = null; // { updated, sources, articles }
 let newsShown = NEWS_PAGE;
 
@@ -65,7 +105,7 @@ const newsTags = a => (a.clubs.length ? `<span class="news-tags">${a.clubs.slice
 function newsCard(a) {
   return `
     <article class="news-card">
-      <a href="${esc(a.url)}" target="_blank" rel="noopener" class="news-link">
+      <a href="${esc(a.url)}" target="_blank" rel="noopener" class="news-link" data-read>
         ${newsImage(a)}
         <span class="news-body">
           ${newsMeta(a)}
@@ -84,6 +124,7 @@ function renderNews() {
     loadNews().then(() => { if (route().view === 'news') render(); });
     return;
   }
+  if (!newsCounts && !renderNews.counting) { renderNews.counting = true; countNewsVisit(); }
   const list = filteredNews();
   const filtered = state.newsSource || state.newsLeague || state.newsClub || state.newsQuery;
   const [lead, ...rest] = list;
@@ -104,6 +145,7 @@ function renderNews() {
             <h1 class="news-page-title">Football news</h1>
             <p class="muted">${newsFeed.articles.length} stories from ${sources.length} sources · updated ${timeAgo(newsFeed.updated)}</p>
           </div>
+          <div class="news-counts" aria-label="News page totals">${newsCountsHtml()}</div>
           <input class="filter news-search" id="news-search" type="search" placeholder="Search news" aria-label="Search news" value="${esc(state.newsQuery || '')}">
         </div>
         <div class="news-chips" role="group" aria-label="Filter by competition">
@@ -121,7 +163,7 @@ function renderNews() {
           ${!lead ? `<div class="card news-empty"><p>No stories match these filters.</p><button class="pill" data-action="news-reset">Show all news</button></div>` : `
           <div class="news-top ${side.length ? '' : 'solo'}">
             <article class="card news-lead-card">
-              <a href="${esc(lead.url)}" target="_blank" rel="noopener" class="news-link">
+              <a href="${esc(lead.url)}" target="_blank" rel="noopener" class="news-link" data-read>
                 ${newsImage(lead, 'lead')}
                 <span class="news-body">
                   ${newsMeta(lead)}
@@ -132,7 +174,7 @@ function renderNews() {
               ${newsTags(lead)}
             </article>
             ${side.length ? `<div class="card news-side-list">${side.map(a => `
-              <a class="news-mini" href="${esc(a.url)}" target="_blank" rel="noopener">
+              <a class="news-mini" href="${esc(a.url)}" target="_blank" rel="noopener" data-read>
                 ${newsImage(a, 'mini')}
                 <span>${newsMeta(a)}<b>${esc(a.title)}</b></span>
               </a>`).join('')}</div>` : ''}
@@ -160,13 +202,13 @@ function homeNewsItems() {
   if (!newsFeed) return null;
   const [lead, ...rest] = newsFeed.articles.filter(a => a.image);
   return `
-    <a class="news-lead" href="${esc(lead.url)}" target="_blank" rel="noopener">
+    <a class="news-lead" href="${esc(lead.url)}" target="_blank" rel="noopener" data-read>
       <img src="${esc(lead.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">
       <span class="news-title">${esc(lead.title)}</span>
       <span class="muted">${esc(lead.source)} · ${timeAgo(lead.published)}</span>
     </a>
     ${rest.slice(0, 4).map(a => `
-      <a class="news-item" href="${esc(a.url)}" target="_blank" rel="noopener">
+      <a class="news-item" href="${esc(a.url)}" target="_blank" rel="noopener" data-read>
         <img src="${esc(a.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">
         <span><b>${esc(a.title)}</b><span class="muted">${esc(a.source)} · ${timeAgo(a.published)}</span></span>
       </a>`).join('')}

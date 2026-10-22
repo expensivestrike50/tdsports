@@ -200,13 +200,6 @@ const CLUB_COUNTRY = {
   'Feyenoord': 'NL', 'PSV Eindhoven': 'NL', 'RB Leipzig': 'DE', 'Bayern München': 'DE', 'AEK Athens': 'GR',
 };
 
-const TV_SCHEDULE = [
-  ['Champions League', 'Wed 18:45', 'Paramount+'],
-  ['Champions League', 'Wed 21:00', 'CBS Sports'],
-  ['Premier League', 'Sat 15:00', 'Peacock'],
-  ['LaLiga', 'Sat 20:00', 'ESPN+'],
-];
-
 // Wikimedia Commons photo credits: [local path, subject, author, license, source page].
 // Generated from assets/photo-sources.json.
 const PHOTO_CREDITS = [

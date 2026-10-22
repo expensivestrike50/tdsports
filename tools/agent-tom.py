@@ -10,7 +10,7 @@ Every 30 seconds Tom:
      edited files get a new ?v= hash and browsers load the new version.
 Every 10 minutes Tom also audits the scouts' research files (valid JSON, 11 players per
 lineup, goals that add up to the final score) and refreshes news.json, the aggregated
-football news (tools/fetch-news.py).
+football news (tools/fetch-news.py), and tv.json, the week's TV listings (tools/fetch-tv.py).
 Results: Tom keeps results.json with finished matches from the last 21 days for every
 league. ESPN only serves one day per request, so finished days are cached and fetched
 once (a few per cycle until the backlog is filled); today and yesterday are refreshed.
@@ -205,6 +205,8 @@ def main():
             m = re.search(r'(\d+) articles from (\d+) sources', run.stdout)
             news_count = int(m.group(1)) if m else 0
             note(f'News: {m.group(0)}' if m else 'News refresh failed')
+            tv = subprocess.run([sys.executable, os.path.join(ROOT, 'tools', 'fetch-tv.py')], capture_output=True, text=True, timeout=300)
+            note(f'TV: {tv.stdout.strip()}' if tv.returncode == 0 else 'TV listings refresh failed')
 
         # Keep the ?v= hashes in index.html current, so browsers never run stale scripts.
         subprocess.run([sys.executable, os.path.join(ROOT, 'tools', 'stamp-assets.py')], capture_output=True)

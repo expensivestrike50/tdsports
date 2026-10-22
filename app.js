@@ -1830,12 +1830,12 @@ const actions = {
   'news-club'(el) { state.newsClub = el.dataset.club; newsShown = NEWS_PAGE; if (route().view === 'news') { render(); window.scrollTo({ top: 0, behavior: 'smooth' }); } else location.hash = '#/news'; },
   'news-more'() { newsShown += NEWS_PAGE; render(); },
   'news-reset'() { Object.assign(state, { newsLeague: '', newsSource: '', newsClub: '', newsQuery: '' }); newsShown = NEWS_PAGE; render(); },
-  about() {
-    info('About TDsports', '<p>Your matchday companion for scores, lineups and player performance.</p><p class="muted">This preview uses illustrative match data: scores, ratings, events and standings are samples, not real results.</p>');
-  },
-  tv() {
-    info('TV schedules', `<table class="table"><tbody>${TV_SCHEDULE.map(([l, t, ch]) => `<tr><td>${esc(l)}</td><td>${esc(t)}</td><td><b>${esc(ch)}</b></td></tr>`).join('')}</tbody></table>`);
-  },
+  about() { location.hash = '#/about'; },
+  tv() { location.hash = '#/tv'; },
+  'tv-day'(el) { state.tvDay = el.dataset.value; render(); },
+  'tv-league'(el) { state.tvLeague = el.dataset.value; render(); },
+  'tv-channel'(el) { state.tvChannel = el.dataset.value; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); },
+  'tv-reset'() { Object.assign(state, { tvLeague: '', tvChannel: '' }); render(); },
   credits: creditsModal,
   'past-more'() { state.pastDays = (state.pastDays || 5) + 5; const box = $('#past'); if (box) { box.innerHTML = pastResults(); fitSidebars(); } },
   api() { location.hash = '#/api'; },
@@ -1947,6 +1947,8 @@ function route() {
   const api = hash.match(/^#\/api(?:\/([\w-]+))?$/);
   if (api) return { view: 'api', page: api[1] || '' };
   if (hash === '#/news') return { view: 'news' };
+  if (hash === '#/tv') return { view: 'tv' };
+  if (hash === '#/about') return { view: 'about' };
   if (!m) return { view: 'home' };
   const tab = TABS.find(t => t.toLowerCase() === (m[2] || 'facts')) || 'Facts';
   return { view: 'match', id: m[1], tab };
@@ -1959,6 +1961,8 @@ function render() {
   if (r.view === 'home') renderHome();
   else if (r.view === 'api') renderApi(r.page);
   else if (r.view === 'news') renderNews();
+  else if (r.view === 'tv') renderTv();
+  else if (r.view === 'about') renderAbout();
   else renderMatch(r.id, r.tab);
   mountReplay();
   fitStyleRows();
