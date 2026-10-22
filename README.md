@@ -2,6 +2,23 @@
 
 A matchday scores app prototype: results, match facts, momentum, events, lineups, standings and player ratings.
 
+Live site: **https://expensivestrike50.github.io/tdsports/** (GitHub Pages, from the `main` branch).
+
+## Hosting on GitHub Pages
+
+The app is fully static, so GitHub Pages serves it as is. To publish changes:
+
+    python3 tools/stamp-assets.py   # refresh the ?v= hashes so browsers load the new files
+    git add -A && git commit -m "Update" && git push
+
+On the hosted site there is no Agent Tom: `live.json` and `results.json` are the last committed snapshots, so the app fetches live scores and the last week of results straight from ESPN. The JSON API works as static files (`api/v1/*.json`). Three FotMob headshots are kept out of the repository (see `.gitignore`) because they are copyrighted; those players show initials online.
+
+## Research data
+
+`research/agent-*.json` holds real match facts, one file per research agent, in the same schema: lineups, formations, coaches, goals with descriptions, cards, subs, VAR, stats, venue, referee and sources. Besides the Champions League matchday, it covers the latest round of the Premier League, LaLiga, Bundesliga, Serie A, Ligue 1, MLS, Liga MX and the Europa League, plus the 2026 World Cup from the quarter-finals on. Rebuild after any change:
+
+    python3 tools/build-match-data.py && node tools/build-api.js
+
 ## Run on your PC
 
 Double click `index.html` to open it in your browser. No installation, API key, npm packages or build step is needed. Keep the `assets` folder beside `index.html`.
