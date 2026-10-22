@@ -1208,11 +1208,18 @@ a.news-trend { grid-template-columns: 22px 1fr auto; }
   .ad-param { grid-template-columns: minmax(0, 1fr); }
 }
 
-/* ---------- News counters ---------- */
-.news-counts { display: flex; gap: 10px; margin-left: auto; }
-.news-counts span { display: grid; gap: 1px; padding: 6px 14px; border: 1px solid var(--border); border-radius: 10px; font-size: 12px; color: var(--muted); min-width: 92px; }
-.news-counts b { font-size: 18px; color: var(--text); font-variant-numeric: tabular-nums; }
+/* ---------- News counters and active filters ---------- */
+.news-head { position: relative; }
+.news-counts { position: absolute; top: 14px; right: 18px; display: flex; gap: 12px; font-size: 11px; color: var(--muted); }
+.news-counts b { color: var(--text); font-weight: 700; font-variant-numeric: tabular-nums; }
 .news-counts:empty { display: none; }
+.news-title-row { padding-right: 150px; }
+.chip-x { margin-left: 6px; font-size: 10px; opacity: .7; }
+.pill.selected:hover .chip-x { opacity: 1; }
+.news-active { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 10px; padding-top: 12px; border-top: 1px solid var(--border); font-size: 13px; }
+.news-active .pill { display: inline-flex; align-items: center; gap: 6px; }
+.news-active .crest { width: 16px; height: 16px; }
+.news-clear { font-size: 13px; margin-left: 4px; }
 
 /* ---------- TV schedules ---------- */
 .tv-days { display: flex; gap: 8px; overflow-x: auto; padding: 2px 0 10px; scrollbar-width: none; }

@@ -36,9 +36,7 @@ function showNewsCounts() {
   const box = document.querySelector('.news-counts');
   if (box && newsCounts) box.innerHTML = newsCountsHtml();
 }
-const newsCountsHtml = () => (newsCounts ? `
-  <span><b>${newsCounts.visits.toLocaleString()}</b>page visits</span>
-  <span><b>${newsCounts.reads.toLocaleString()}</b>stories read</span>` : '');
+const newsCountsHtml = () => (newsCounts ? `<span><b>${newsCounts.visits.toLocaleString()}</b> visits</span><span><b>${newsCounts.reads.toLocaleString()}</b> reads</span>` : '');
 
 // A story opened from TDsports counts as a read.
 document.addEventListener('click', e => {
@@ -135,17 +133,17 @@ function renderNews() {
   newsFeed.articles.forEach(a => a.clubs.forEach(c => { clubCount[c] = (clubCount[c] || 0) + 1; }));
   const trending = Object.entries(clubCount).sort((a, b) => b[1] - a[1]).slice(0, 10);
   const leagues = LEAGUES.filter(l => newsFeed.articles.some(a => a.leagues.includes(l.name)));
-  const chip = (action, value, label, active, extra = '') => `<button class="pill ${active ? 'selected' : ''}" data-action="${action}" data-value="${esc(value)}" aria-pressed="${active}">${extra}${esc(label)}</button>`;
+  const chip = (action, value, label, active, extra = '') => `<button class="pill ${active ? 'selected' : ''}" data-action="${action}" data-value="${esc(value)}" aria-pressed="${active}"${active && value ? ` title="Remove filter"` : ''}>${extra}${esc(label)}${active && value ? '<span class="chip-x" aria-hidden="true">✕</span>' : ''}</button>`;
 
   app.innerHTML = `
     <div class="news-page">
       <div class="card news-head">
+        <div class="news-counts" aria-label="News page totals">${newsCountsHtml()}</div>
         <div class="news-title-row">
           <div>
             <h1 class="news-page-title">Football news</h1>
             <p class="muted">${newsFeed.articles.length} stories from ${sources.length} sources · updated ${timeAgo(newsFeed.updated)}</p>
           </div>
-          <div class="news-counts" aria-label="News page totals">${newsCountsHtml()}</div>
           <input class="filter news-search" id="news-search" type="search" placeholder="Search news" aria-label="Search news" value="${esc(state.newsQuery || '')}">
         </div>
         <div class="news-chips" role="group" aria-label="Filter by competition">
@@ -156,7 +154,12 @@ function renderNews() {
           ${chip('news-source', '', 'All sources', !state.newsSource)}
           ${sources.map(s => chip('news-source', s.name, s.name, state.newsSource === s.name, sourceIcon(s.name))).join('')}
         </div>
-        ${state.newsClub ? `<div class="news-chips"><button class="pill selected" data-action="news-club" data-club="">${crest(state.newsClub)} ${esc(state.newsClub)} ✕</button></div>` : ''}
+        ${filtered ? `<div class="news-active"><span class="muted">Filtered by</span>${[
+          state.newsLeague && `<button class="pill selected" data-action="news-league" data-value="${esc(state.newsLeague)}" title="Remove filter">${esc(state.newsLeague)}<span class="chip-x" aria-hidden="true">✕</span></button>`,
+          state.newsSource && `<button class="pill selected" data-action="news-source" data-value="${esc(state.newsSource)}" title="Remove filter">${esc(state.newsSource)}<span class="chip-x" aria-hidden="true">✕</span></button>`,
+          state.newsClub && `<button class="pill selected" data-action="news-club" data-club="${esc(state.newsClub)}" title="Remove filter">${crest(state.newsClub)} ${esc(state.newsClub)}<span class="chip-x" aria-hidden="true">✕</span></button>`,
+          state.newsQuery && `<button class="pill selected" data-action="news-query-clear" title="Remove filter">“${esc(state.newsQuery)}”<span class="chip-x" aria-hidden="true">✕</span></button>`,
+        ].filter(Boolean).join('')}<button class="link news-clear" data-action="news-reset">Clear all</button></div>` : ''}
       </div>
       <div class="news-layout">
         <section aria-label="Stories">
