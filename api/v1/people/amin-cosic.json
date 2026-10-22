@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "amin-cosic",
     "name": "Amin Cosic",
     "short": "Cosic",
     "position": "CB",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1751162.png.jpg",
     "matches": [
       {
         "match": "villa-viking",

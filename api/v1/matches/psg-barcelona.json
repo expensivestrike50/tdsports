@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "psg-barcelona",
     "date": "2026-10-20",
@@ -207,7 +207,7 @@
             "name": "Dro Fernández",
             "short": "Fernández",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1682313.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Quentin Ndjantou",
             "short": "Ndjantou",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1699549.png.jpg",
             "rating": null
           },
           {
@@ -307,7 +307,7 @@
             "name": "Xavi Espart",
             "short": "Espart",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1815149.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 7.7
@@ -467,7 +467,7 @@
             "name": "Brian Fariñas",
             "short": "Fariñas",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1821727.png.jpg",
             "rating": null
           }
         ]
@@ -557,7 +557,7 @@
           "name": "Xavi Espart",
           "short": "Espart",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1815149.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": false,
@@ -705,7 +705,7 @@
           "name": "Xavi Espart",
           "short": "Espart",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1815149.png.jpg"
         }
       },
       {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "leverkusen-freiburg-2026-10-18",
     "date": "2026-10-18",
@@ -39,7 +39,7 @@
           "name": "Carles Martínez",
           "short": "Martínez",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1515447.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Mark Flekken",
             "short": "Flekken",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/330643.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.7
@@ -57,7 +57,7 @@
             "name": "Miguel Gutiérrez",
             "short": "Gutiérrez",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/942379.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.5
@@ -67,7 +67,7 @@
             "name": "Facundo Medina",
             "short": "Medina",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/812652.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 7.7
@@ -77,7 +77,7 @@
             "name": "Edmond Tapsoba",
             "short": "Tapsoba",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789914.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.5
@@ -87,7 +87,7 @@
             "name": "Jarell Quansah",
             "short": "Quansah",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1107620.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.1
@@ -107,7 +107,7 @@
             "name": "Aleix García",
             "short": "García",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/642551.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 7.1
@@ -117,7 +117,7 @@
             "name": "Afonso Moreira",
             "short": "Moreira",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1367047.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 7.3
@@ -127,7 +127,7 @@
             "name": "Ibrahim Maza",
             "short": "Maza",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1457626.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 9.1
@@ -137,7 +137,7 @@
             "name": "Moussa Diaby",
             "short": "Diaby",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/923498.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 6.7
@@ -147,7 +147,7 @@
             "name": "Patrik Schick",
             "short": "Schick",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540097.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 8.6
@@ -159,7 +159,7 @@
             "name": "Nathan Tella",
             "short": "Tella",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/877700.png.jpg",
             "rating": 7.6
           },
           {
@@ -167,7 +167,7 @@
             "name": "Malik Tillman",
             "short": "Tillman",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1126058.png.jpg",
             "rating": 6.3
           },
           {
@@ -175,7 +175,7 @@
             "name": "Jonas Hofmann",
             "short": "Hofmann",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/331542.png.jpg",
             "rating": 6.3
           },
           {
@@ -183,7 +183,7 @@
             "name": "Janis Blaswich",
             "short": "Blaswich",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/278814.png.jpg",
             "rating": null
           },
           {
@@ -191,7 +191,7 @@
             "name": "Lucas Vázquez",
             "short": "Vázquez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/359193.png.jpg",
             "rating": null
           },
           {
@@ -199,7 +199,7 @@
             "name": "Victor Boniface",
             "short": "Boniface",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/victor-boniface.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Robert Andrich",
             "short": "Andrich",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/411851.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Tim Oermann",
             "short": "Oermann",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1381853.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Loïc Badé",
             "short": "Badé",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1119461.png.jpg",
             "rating": null
           }
         ]
@@ -235,7 +235,7 @@
           "name": "Julian Schuster",
           "short": "Schuster",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/36771.png.jpg"
         },
         "starting": [
           {
@@ -243,7 +243,7 @@
             "name": "Mio Backhaus",
             "short": "Backhaus",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1352996.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.3
@@ -253,7 +253,7 @@
             "name": "Jordy Makengo",
             "short": "Makengo",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/jordy-makengo.jpg",
             "x": 82,
             "y": 88,
             "rating": 6.8
@@ -263,7 +263,7 @@
             "name": "Philipp Lienhart",
             "short": "Lienhart",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/643724.png.jpg",
             "x": 82,
             "y": 62,
             "rating": 6.3
@@ -273,7 +273,7 @@
             "name": "Matthias Ginter",
             "short": "Ginter",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/303912.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 7.4
@@ -283,7 +283,7 @@
             "name": "Philipp Treu",
             "short": "Treu",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281090.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 7.2
@@ -293,7 +293,7 @@
             "name": "Yannick Engelhardt",
             "short": "Engelhardt",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1269497.png.jpg",
             "x": 73,
             "y": 70,
             "rating": 6.2
@@ -303,7 +303,7 @@
             "name": "Maximilian Eggestein",
             "short": "Eggestein",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/602523.png.jpg",
             "x": 73,
             "y": 30,
             "rating": 6.1
@@ -313,7 +313,7 @@
             "name": "Derry Scherhant",
             "short": "Scherhant",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1302666.png.jpg",
             "x": 63,
             "y": 77,
             "rating": 7
@@ -323,7 +323,7 @@
             "name": "Keisuke Goto",
             "short": "Goto",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1436730.png.jpg",
             "x": 63,
             "y": 50,
             "rating": 6.1
@@ -333,7 +333,7 @@
             "name": "Niklas Beste",
             "short": "Beste",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/864157.png.jpg",
             "x": 63,
             "y": 22,
             "rating": 6.5
@@ -343,7 +343,7 @@
             "name": "Igor Matanovic",
             "short": "Matanovic",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1210893.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.8
@@ -355,7 +355,7 @@
             "name": "Lukas Kübler",
             "short": "Kübler",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/307209.png.jpg",
             "rating": 6.7
           },
           {
@@ -363,7 +363,7 @@
             "name": "Lucas Höler",
             "short": "Höler",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/556524.png.jpg",
             "rating": 6.2
           },
           {
@@ -371,7 +371,7 @@
             "name": "Patrick Osterhage",
             "short": "Osterhage",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1075815.png.jpg",
             "rating": 7.1
           },
           {
@@ -379,7 +379,7 @@
             "name": "Cyriaque Irié",
             "short": "Irié",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1526221.png.jpg",
             "rating": 6.9
           },
           {
@@ -387,7 +387,7 @@
             "name": "Vincenzo Grifo",
             "short": "Grifo",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/400625.png.jpg",
             "rating": 6.2
           },
           {
@@ -395,7 +395,7 @@
             "name": "Max Rosenfelder",
             "short": "Rosenfelder",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281107.png.jpg",
             "rating": null
           },
           {
@@ -403,7 +403,7 @@
             "name": "Christian Günter",
             "short": "Günter",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/355358.png.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "Florian Müller",
             "short": "Müller",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/737365.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Rihito Yamamoto",
             "short": "Yamamoto",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1030836.png.jpg",
             "rating": null
           }
         ]
@@ -435,7 +435,7 @@
           "name": "Derry Scherhant",
           "short": "Scherhant",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1302666.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": false,
@@ -444,7 +444,7 @@
           "name": "Philipp Treu",
           "short": "Treu",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281090.png.jpg"
         },
         "goalType": "build",
         "description": "Derry Scherhant scored with a left-footed shot from the centre of the box to the bottom left corner. Assist: Philipp Treu."
@@ -458,7 +458,7 @@
           "name": "Ibrahim Maza",
           "short": "Maza",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1457626.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": false,
@@ -467,7 +467,7 @@
           "name": "Patrik Schick",
           "short": "Schick",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540097.png.jpg"
         },
         "goalType": "build",
         "description": "Ibrahim Maza scored with a right-footed shot from the centre of the box to the bottom left corner. Assist: Patrik Schick."
@@ -481,7 +481,7 @@
           "name": "Philipp Treu",
           "short": "Treu",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281090.png.jpg"
         },
         "detail": "Foul"
       },
@@ -494,14 +494,14 @@
           "name": "Nathan Tella",
           "short": "Tella",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/877700.png.jpg"
         },
         "replaced": {
           "id": "afonso-moreira",
           "name": "Afonso Moreira",
           "short": "Moreira",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1367047.png.jpg"
         }
       },
       {
@@ -513,14 +513,14 @@
           "name": "Lukas Kübler",
           "short": "Kübler",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/307209.png.jpg"
         },
         "replaced": {
           "id": "philipp-treu",
           "name": "Philipp Treu",
           "short": "Treu",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281090.png.jpg"
         }
       },
       {
@@ -532,14 +532,14 @@
           "name": "Lucas Höler",
           "short": "Höler",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/556524.png.jpg"
         },
         "replaced": {
           "id": "keisuke-goto",
           "name": "Keisuke Goto",
           "short": "Goto",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1436730.png.jpg"
         }
       },
       {
@@ -551,14 +551,14 @@
           "name": "Malik Tillman",
           "short": "Tillman",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1126058.png.jpg"
         },
         "replaced": {
           "id": "moussa-diaby",
           "name": "Moussa Diaby",
           "short": "Diaby",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/923498.png.jpg"
         }
       },
       {
@@ -570,7 +570,7 @@
           "name": "Patrik Schick",
           "short": "Schick",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540097.png.jpg"
         },
         "scoreAfter": "2 - 1",
         "penalty": false,
@@ -579,7 +579,7 @@
           "name": "Ibrahim Maza",
           "short": "Maza",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1457626.png.jpg"
         },
         "goalType": "build",
         "description": "Patrik Schick scored with a right-footed shot from the centre of the box to the centre of the goal. Assist: Ibrahim Maza."
@@ -593,14 +593,14 @@
           "name": "Patrick Osterhage",
           "short": "Osterhage",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1075815.png.jpg"
         },
         "replaced": {
           "id": "yannick-engelhardt",
           "name": "Yannick Engelhardt",
           "short": "Engelhardt",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1269497.png.jpg"
         }
       },
       {
@@ -612,14 +612,14 @@
           "name": "Cyriaque Irié",
           "short": "Irié",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1526221.png.jpg"
         },
         "replaced": {
           "id": "niklas-beste",
           "name": "Niklas Beste",
           "short": "Beste",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/864157.png.jpg"
         }
       },
       {
@@ -631,14 +631,14 @@
           "name": "Jonas Hofmann",
           "short": "Hofmann",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/331542.png.jpg"
         },
         "replaced": {
           "id": "ibrahim-maza",
           "name": "Ibrahim Maza",
           "short": "Maza",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1457626.png.jpg"
         }
       },
       {
@@ -650,14 +650,14 @@
           "name": "Vincenzo Grifo",
           "short": "Grifo",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/400625.png.jpg"
         },
         "replaced": {
           "id": "derry-scherhant",
           "name": "Derry Scherhant",
           "short": "Scherhant",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1302666.png.jpg"
         }
       }
     ],

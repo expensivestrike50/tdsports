@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "sabah-fk-borussia-dortmund-2026-10-20",
     "date": "2026-10-20",
@@ -39,7 +39,7 @@
           "name": "Valdas Dambrauskas",
           "short": "Dambrauskas",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/551679.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Stas Pokatilov",
             "short": "Pokatilov",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/489507.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 7.4
@@ -57,7 +57,7 @@
             "name": "Tymoteusz Puchacz",
             "short": "Puchacz",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/823121.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 7
@@ -67,7 +67,7 @@
             "name": "Aden McCarthy",
             "short": "McCarthy",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1337091.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 8.2
@@ -77,7 +77,7 @@
             "name": "Steve Solvet",
             "short": "Solvet",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/764834.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.8
@@ -87,7 +87,7 @@
             "name": "Akim Zedadka",
             "short": "Zedadka",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/542777.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.3
@@ -97,7 +97,7 @@
             "name": "Ivan Lepinjica",
             "short": "Lepinjica",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/906920.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 7.5
@@ -107,7 +107,7 @@
             "name": "Umarali Rakhmonaliev",
             "short": "Rakhmonaliev",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1429286.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 6.9
@@ -117,7 +117,7 @@
             "name": "Veljko Simic",
             "short": "Simic",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/458807.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 7.1
@@ -127,7 +127,7 @@
             "name": "Du Queiroz",
             "short": "Du Queiroz",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1271367.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 6.2
@@ -137,7 +137,7 @@
             "name": "Kaheem Parris",
             "short": "Parris",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/876149.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 6.7
@@ -147,7 +147,7 @@
             "name": "Joy-Lance Mickels",
             "short": "Mickels",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/617465.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 6.4
@@ -159,7 +159,7 @@
             "name": "Aleksey Isayev",
             "short": "Isayev",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688887.png.jpg",
             "rating": 6.9
           },
           {
@@ -167,7 +167,7 @@
             "name": "Patrick Orphe M'Bina",
             "short": "M'Bina",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1197093.png.jpg",
             "rating": 7.3
           },
           {
@@ -175,7 +175,7 @@
             "name": "Abdulakh Khaybulaev",
             "short": "Khaybulaev",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1351085.png.jpg",
             "rating": 7.2
           },
           {
@@ -183,7 +183,7 @@
             "name": "Christian Nwachukwu",
             "short": "Nwachukwu",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1624072.png.jpg",
             "rating": 6.3
           },
           {
@@ -191,7 +191,7 @@
             "name": "Xander Severina",
             "short": "Severina",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1239800.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Tellur Mutallimov",
             "short": "Mutallimov",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/763300.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Amin Ramazanov",
             "short": "Ramazanov",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1297104.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Rodrigo Fernandes",
             "short": "Fernandes",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1106946.png.jpg",
             "rating": null
           },
           {
@@ -259,7 +259,7 @@
           "name": "Niko Kovač",
           "short": "Kovač",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/33072.png.jpg"
         },
         "starting": [
           {
@@ -267,7 +267,7 @@
             "name": "Gregor Kobel",
             "short": "Kobel",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/764018.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.5
@@ -277,7 +277,7 @@
             "name": "Ramy Bensebaini",
             "short": "Bensebaini",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/559065.png.jpg",
             "x": 82,
             "y": 77,
             "rating": 6.9
@@ -287,7 +287,7 @@
             "name": "Nico Schlotterbeck",
             "short": "Schlotterbeck",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1002058.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 7.5
@@ -297,7 +297,7 @@
             "name": "Waldemar Anton",
             "short": "Anton",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/664970.png.jpg",
             "x": 82,
             "y": 22,
             "rating": 6.4
@@ -307,7 +307,7 @@
             "name": "Joey Veerman",
             "short": "Veerman",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/joey-veerman.jpg",
             "x": 73,
             "y": 50,
             "rating": 7.6
@@ -317,7 +317,7 @@
             "name": "Daniel Svensson",
             "short": "Svensson",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1209228.png.jpg",
             "x": 63,
             "y": 88,
             "rating": 7.7
@@ -327,7 +327,7 @@
             "name": "Felix Nmecha",
             "short": "Nmecha",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/966019.png.jpg",
             "x": 63,
             "y": 62,
             "rating": 7
@@ -337,7 +337,7 @@
             "name": "Carney Chukwuemeka",
             "short": "Chukwuemeka",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1089685.png.jpg",
             "x": 63,
             "y": 36,
             "rating": 6.7
@@ -347,7 +347,7 @@
             "name": "Julian Ryerson",
             "short": "Ryerson",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/659272.png.jpg",
             "x": 63,
             "y": 12,
             "rating": 6.3
@@ -357,7 +357,7 @@
             "name": "Fábio Silva",
             "short": "Silva",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1050158.png.jpg",
             "x": 54,
             "y": 70,
             "rating": 6.3
@@ -367,7 +367,7 @@
             "name": "Serhou Guirassy",
             "short": "Guirassy",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/448540.png.jpg",
             "x": 54,
             "y": 30,
             "rating": 8.2
@@ -379,7 +379,7 @@
             "name": "Marcel Sabitzer",
             "short": "Sabitzer",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/215151.png.jpg",
             "rating": 7.1
           },
           {
@@ -387,7 +387,7 @@
             "name": "Jobe Bellingham",
             "short": "Bellingham",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1287373.png.jpg",
             "rating": 6.3
           },
           {
@@ -395,7 +395,7 @@
             "name": "Kouakou Gadou",
             "short": "Gadou",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1479742.png.jpg",
             "rating": 7.5
           },
           {
@@ -403,7 +403,7 @@
             "name": "Maximilian Beier",
             "short": "Beier",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1047667.png.jpg",
             "rating": 7.6
           },
           {
@@ -411,7 +411,7 @@
             "name": "Ethan Nwaneri",
             "short": "Nwaneri",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1254234.png.jpg",
             "rating": 6.7
           },
           {
@@ -419,7 +419,7 @@
             "name": "Patrick Drewes",
             "short": "Drewes",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/359203.png.jpg",
             "rating": null
           },
           {
@@ -427,7 +427,7 @@
             "name": "Samuele Inácio",
             "short": "Inácio",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1761151.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Filippo Mané",
             "short": "Mané",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1663094.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Mathis Albert",
             "short": "Albert",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1692797.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Luca Reggiani",
             "short": "Reggiani",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1845173.png.jpg",
             "rating": null
           },
           {
@@ -467,7 +467,7 @@
             "name": "Alexander Meyer",
             "short": "Meyer",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/743381.png.jpg",
             "rating": null
           }
         ]
@@ -483,7 +483,7 @@
           "name": "Serhou Guirassy",
           "short": "Guirassy",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/448540.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": false,
@@ -500,7 +500,7 @@
           "name": "Steve Solvet",
           "short": "Solvet",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/764834.png.jpg"
         },
         "detail": "Foul"
       },
@@ -513,7 +513,7 @@
           "name": "Aden McCarthy",
           "short": "McCarthy",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1337091.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": false,
@@ -522,7 +522,7 @@
           "name": "Tymoteusz Puchacz",
           "short": "Puchacz",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/823121.png.jpg"
         },
         "goalType": "set",
         "description": "Sabah equalised from a set piece: Tymoteusz Puchacz delivered a cross from a free kick and Aden McCarthy headed in from very close range into the bottom left corner."
@@ -536,7 +536,7 @@
           "name": "Ivan Lepinjica",
           "short": "Lepinjica",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/906920.png.jpg"
         },
         "detail": "Foul"
       },
@@ -549,7 +549,7 @@
           "name": "Serhou Guirassy",
           "short": "Guirassy",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/448540.png.jpg"
         },
         "scoreAfter": "1 - 2",
         "penalty": false,
@@ -558,7 +558,7 @@
           "name": "Joey Veerman",
           "short": "Veerman",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/joey-veerman.jpg"
         },
         "goalType": "build",
         "description": "Guirassy scored his second to restore Dortmund's lead, volleying Joey Veerman's cross in left-footed from the left side of the six-yard box."
@@ -572,7 +572,7 @@
           "name": "Aden McCarthy",
           "short": "McCarthy",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1337091.png.jpg"
         },
         "detail": "Foul"
       },
@@ -585,14 +585,14 @@
           "name": "Aleksey Isayev",
           "short": "Isayev",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688887.png.jpg"
         },
         "replaced": {
           "id": "du-queiroz",
           "name": "Du Queiroz",
           "short": "Du Queiroz",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1271367.png.jpg"
         }
       },
       {
@@ -604,14 +604,14 @@
           "name": "Patrick Orphe M'Bina",
           "short": "M'Bina",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1197093.png.jpg"
         },
         "replaced": {
           "id": "kaheem-parris",
           "name": "Kaheem Parris",
           "short": "Parris",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/876149.png.jpg"
         }
       },
       {
@@ -623,14 +623,14 @@
           "name": "Marcel Sabitzer",
           "short": "Sabitzer",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/215151.png.jpg"
         },
         "replaced": {
           "id": "carney-chukwuemeka-sabah-fk-borussia-dortmund-2026-10-20",
           "name": "Carney Chukwuemeka",
           "short": "Chukwuemeka",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1089685.png.jpg"
         }
       },
       {
@@ -642,14 +642,14 @@
           "name": "Jobe Bellingham",
           "short": "Bellingham",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1287373.png.jpg"
         },
         "replaced": {
           "id": "felix-nmecha-sabah-fk-borussia-dortmund-2026-10-20",
           "name": "Felix Nmecha",
           "short": "Nmecha",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/966019.png.jpg"
         }
       },
       {
@@ -661,14 +661,14 @@
           "name": "Kouakou Gadou",
           "short": "Gadou",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1479742.png.jpg"
         },
         "replaced": {
           "id": "ramy-bensebaini-sabah-fk-borussia-dortmund-2026-10-20",
           "name": "Ramy Bensebaini",
           "short": "Bensebaini",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/559065.png.jpg"
         }
       },
       {
@@ -680,14 +680,14 @@
           "name": "Maximilian Beier",
           "short": "Beier",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1047667.png.jpg"
         },
         "replaced": {
           "id": "daniel-svensson-sabah-fk-borussia-dortmund-2026-10-20",
           "name": "Daniel Svensson",
           "short": "Svensson",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1209228.png.jpg"
         }
       },
       {
@@ -699,14 +699,14 @@
           "name": "Abdulakh Khaybulaev",
           "short": "Khaybulaev",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1351085.png.jpg"
         },
         "replaced": {
           "id": "umarali-rakhmonaliev",
           "name": "Umarali Rakhmonaliev",
           "short": "Rakhmonaliev",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1429286.png.jpg"
         }
       },
       {
@@ -718,14 +718,14 @@
           "name": "Christian Nwachukwu",
           "short": "Nwachukwu",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1624072.png.jpg"
         },
         "replaced": {
           "id": "joy-lance-mickels",
           "name": "Joy-Lance Mickels",
           "short": "Mickels",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/617465.png.jpg"
         }
       },
       {
@@ -737,7 +737,7 @@
           "name": "Akim Zedadka",
           "short": "Zedadka",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/542777.png.jpg"
         },
         "detail": "Not specified in ESPN feed"
       },
@@ -750,14 +750,14 @@
           "name": "Ethan Nwaneri",
           "short": "Nwaneri",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1254234.png.jpg"
         },
         "replaced": {
           "id": "fabio-silva-sabah-fk-borussia-dortmund-2026-10-20",
           "name": "Fábio Silva",
           "short": "Silva",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1050158.png.jpg"
         }
       }
     ],

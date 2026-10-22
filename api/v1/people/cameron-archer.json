@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "cameron-archer",
     "name": "Cameron Archer",
     "short": "Archer",
     "position": "ST",
-    "photo": null,
+    "photo": "assets/photos/people/cameron-archer.jpg",
     "matches": [
       {
         "match": "le-havre-auxerre-2026-10-18",

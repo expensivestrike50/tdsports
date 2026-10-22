@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "pere-milla",
     "name": "Pere Milla",
     "short": "Milla",
     "position": "CM",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/593129.png.jpg",
     "matches": [
       {
         "match": "espanyol-atletico-madrid-2026-10-17",

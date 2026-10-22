@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "fenerbahce-slavia-prague-2026-10-20",
     "date": "2026-10-20",
@@ -39,7 +39,7 @@
           "name": "İsmail Kartal",
           "short": "Kartal",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/ismail-kartal.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Ederson",
             "short": "Ederson",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/957203.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.5
@@ -57,7 +57,7 @@
             "name": "Archie Brown",
             "short": "Brown",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1113704.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.7
@@ -67,7 +67,7 @@
             "name": "Nathan Aké",
             "short": "Aké",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/417068.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 7.1
@@ -77,7 +77,7 @@
             "name": "Milan Skriniar",
             "short": "Skriniar",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/309328.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 7.4
@@ -87,7 +87,7 @@
             "name": "Nélson Semedo",
             "short": "Semedo",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/470834.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.4
@@ -97,7 +97,7 @@
             "name": "Matteo Guendouzi",
             "short": "Guendouzi",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/800609.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 7.1
@@ -107,7 +107,7 @@
             "name": "N'Golo Kanté",
             "short": "Kanté",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/319300.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 6.3
@@ -117,7 +117,7 @@
             "name": "Kerem Aktürkoglu",
             "short": "Aktürkoglu",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1117570.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 6.5
@@ -127,7 +127,7 @@
             "name": "Mason Greenwood",
             "short": "Greenwood",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950473.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 8.1
@@ -137,7 +137,7 @@
             "name": "Oguz Aydin",
             "short": "Aydin",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1092015.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 7.4
@@ -147,7 +147,7 @@
             "name": "Vedat Muriqi",
             "short": "Muriqi",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/517052.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 6.2
@@ -159,7 +159,7 @@
             "name": "Kojo Peprah Oppong",
             "short": "Oppong",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1429607.png.jpg",
             "rating": 6.7
           },
           {
@@ -167,7 +167,7 @@
             "name": "Romelu Lukaku",
             "short": "Lukaku",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/181276.png.jpg",
             "rating": 6.2
           },
           {
@@ -175,7 +175,7 @@
             "name": "Nene Dorgeles",
             "short": "Dorgeles",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1230287.png.jpg",
             "rating": 6.9
           },
           {
@@ -183,7 +183,7 @@
             "name": "Irfan Can Kahveci",
             "short": "Kahveci",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/316544.png.jpg",
             "rating": 7.2
           },
           {
@@ -191,7 +191,7 @@
             "name": "Ismail Yüksek",
             "short": "Yüksek",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1183589.png.jpg",
             "rating": 7.2
           },
           {
@@ -199,7 +199,7 @@
             "name": "Yiğit Demir",
             "short": "Demir",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1414040.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Munir Mercan",
             "short": "Mercan",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1080172.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Bartug Elmaz",
             "short": "Elmaz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1216728.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Mert Günok",
             "short": "Günok",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/150372.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Ognjen Mimovic",
             "short": "Mimovic",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1666975.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Tarik Cetin",
             "short": "Cetin",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/903995.png.jpg",
             "rating": null
           }
         ]
@@ -251,7 +251,7 @@
           "name": "Jindřich Trpišovský",
           "short": "Trpišovský",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/658511.png.jpg"
         },
         "starting": [
           {
@@ -259,7 +259,7 @@
             "name": "Jakub Markovic",
             "short": "Markovic",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1085744.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.2
@@ -269,7 +269,7 @@
             "name": "Ange N'Guessan",
             "short": "N'Guessan",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1421040.png.jpg",
             "x": 82,
             "y": 77,
             "rating": 6.4
@@ -279,7 +279,7 @@
             "name": "David Zima",
             "short": "Zima",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1085401.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 6.9
@@ -289,7 +289,7 @@
             "name": "Tomáš Vlček",
             "short": "Vlček",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/979540.png.jpg",
             "x": 82,
             "y": 22,
             "rating": 6.8
@@ -299,7 +299,7 @@
             "name": "Oskar Kubiak",
             "short": "Kubiak",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1782189.png.jpg",
             "x": 73,
             "y": 88,
             "rating": 6.3
@@ -309,7 +309,7 @@
             "name": "Wiktor Nowak",
             "short": "Nowak",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1395322.png.jpg",
             "x": 73,
             "y": 62,
             "rating": 6.2
@@ -319,7 +319,7 @@
             "name": "David Moses",
             "short": "Moses",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1509423.png.jpg",
             "x": 73,
             "y": 36,
             "rating": 6.8
@@ -329,7 +329,7 @@
             "name": "Mubarak Suleiman",
             "short": "Suleiman",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1840847.png.jpg",
             "x": 73,
             "y": 12,
             "rating": 6.4
@@ -339,7 +339,7 @@
             "name": "Danijel Sturm",
             "short": "Sturm",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1270718.png.jpg",
             "x": 63,
             "y": 70,
             "rating": 7
@@ -349,7 +349,7 @@
             "name": "Emmanuel Dennis Ayaosi",
             "short": "Ayaosi",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1327747.png.jpg",
             "x": 63,
             "y": 30,
             "rating": 7
@@ -359,7 +359,7 @@
             "name": "Lukáš Provod",
             "short": "Provod",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/791682.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 7.6
@@ -371,7 +371,7 @@
             "name": "Mojmír Chytil",
             "short": "Chytil",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/988769.png.jpg",
             "rating": 7.4
           },
           {
@@ -379,7 +379,7 @@
             "name": "Samuel Isife",
             "short": "Isife",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1744791.png.jpg",
             "rating": 7.1
           },
           {
@@ -387,7 +387,7 @@
             "name": "Toumani Diakité",
             "short": "Diakité",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1781770.png.jpg",
             "rating": 7
           },
           {
@@ -395,7 +395,7 @@
             "name": "Michal Sadílek",
             "short": "Sadílek",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/806551.png.jpg",
             "rating": 6.1
           },
           {
@@ -403,7 +403,7 @@
             "name": "Pavel Kačor",
             "short": "Kačor",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1585595.png.jpg",
             "rating": 8.1
           },
           {
@@ -411,7 +411,7 @@
             "name": "Tomás Holes",
             "short": "Holes",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/306168.png.jpg",
             "rating": null
           },
           {
@@ -427,7 +427,7 @@
             "name": "Mikulás Konecny",
             "short": "Konecny",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1405567.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Petr Potmesil",
             "short": "Potmesil",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1814509.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Adam Rezek",
             "short": "Rezek",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1791346.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Nazar Domchak",
             "short": "Domchak",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1666193.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "David Barcot",
             "short": "Barcot",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1840592.png.jpg",
             "rating": null
           }
         ]
@@ -475,7 +475,7 @@
           "name": "Oguz Aydin",
           "short": "Aydin",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1092015.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -484,7 +484,7 @@
           "name": "Milan Skriniar",
           "short": "Skriniar",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/309328.png.jpg"
         },
         "goalType": "build",
         "description": "Oğuz Aydın opened the scoring after four minutes, taking Milan Skriniar's pass and firing a left-footed shot from outside the box into the top left corner."
@@ -498,7 +498,7 @@
           "name": "Mason Greenwood",
           "short": "Greenwood",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950473.png.jpg"
         },
         "scoreAfter": "2 - 0",
         "penalty": false,
@@ -507,7 +507,7 @@
           "name": "Nélson Semedo",
           "short": "Semedo",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/470834.png.jpg"
         },
         "goalType": "build",
         "description": "Nélson Semedo set up Mason Greenwood, who struck a right-footed shot from the centre of the box into the top right corner to make it 2-0."
@@ -521,7 +521,7 @@
           "name": "Lukáš Provod",
           "short": "Provod",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/791682.png.jpg"
         },
         "scoreAfter": "2 - 1",
         "penalty": false,
@@ -538,14 +538,14 @@
           "name": "Kojo Peprah Oppong",
           "short": "Oppong",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1429607.png.jpg"
         },
         "replaced": {
           "id": "nathan-ake",
           "name": "Nathan Aké",
           "short": "Aké",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/417068.png.jpg"
         }
       },
       {
@@ -557,7 +557,7 @@
           "name": "N'Golo Kanté",
           "short": "Kanté",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/319300.png.jpg"
         },
         "detail": "Foul"
       },
@@ -570,7 +570,7 @@
           "name": "Milan Skriniar",
           "short": "Skriniar",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/309328.png.jpg"
         },
         "detail": "Foul"
       },
@@ -583,7 +583,7 @@
           "name": "Wiktor Nowak",
           "short": "Nowak",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1395322.png.jpg"
         },
         "detail": "Foul"
       },
@@ -596,14 +596,14 @@
           "name": "Mojmír Chytil",
           "short": "Chytil",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/988769.png.jpg"
         },
         "replaced": {
           "id": "danijel-sturm",
           "name": "Danijel Sturm",
           "short": "Sturm",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1270718.png.jpg"
         }
       },
       {
@@ -615,14 +615,14 @@
           "name": "Samuel Isife",
           "short": "Isife",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1744791.png.jpg"
         },
         "replaced": {
           "id": "tomas-vlcek",
           "name": "Tomáš Vlček",
           "short": "Vlček",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/979540.png.jpg"
         }
       },
       {
@@ -634,14 +634,14 @@
           "name": "Romelu Lukaku",
           "short": "Lukaku",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/181276.png.jpg"
         },
         "replaced": {
           "id": "vedat-muriqi",
           "name": "Vedat Muriqi",
           "short": "Muriqi",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/517052.png.jpg"
         }
       },
       {
@@ -653,14 +653,14 @@
           "name": "Nene Dorgeles",
           "short": "Dorgeles",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1230287.png.jpg"
         },
         "replaced": {
           "id": "oguz-aydin",
           "name": "Oguz Aydin",
           "short": "Aydin",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1092015.png.jpg"
         }
       },
       {
@@ -672,14 +672,14 @@
           "name": "Toumani Diakité",
           "short": "Diakité",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1781770.png.jpg"
         },
         "replaced": {
           "id": "oskar-kubiak",
           "name": "Oskar Kubiak",
           "short": "Kubiak",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1782189.png.jpg"
         }
       },
       {
@@ -691,14 +691,14 @@
           "name": "Irfan Can Kahveci",
           "short": "Kahveci",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/316544.png.jpg"
         },
         "replaced": {
           "id": "mason-greenwood",
           "name": "Mason Greenwood",
           "short": "Greenwood",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950473.png.jpg"
         }
       },
       {
@@ -710,14 +710,14 @@
           "name": "Ismail Yüksek",
           "short": "Yüksek",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1183589.png.jpg"
         },
         "replaced": {
           "id": "kerem-akturkoglu",
           "name": "Kerem Aktürkoglu",
           "short": "Aktürkoglu",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1117570.png.jpg"
         }
       },
       {
@@ -729,14 +729,14 @@
           "name": "Michal Sadílek",
           "short": "Sadílek",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/806551.png.jpg"
         },
         "replaced": {
           "id": "lukas-provod",
           "name": "Lukáš Provod",
           "short": "Provod",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/791682.png.jpg"
         }
       },
       {
@@ -748,14 +748,14 @@
           "name": "Pavel Kačor",
           "short": "Kačor",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1585595.png.jpg"
         },
         "replaced": {
           "id": "mubarak-suleiman",
           "name": "Mubarak Suleiman",
           "short": "Suleiman",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1840847.png.jpg"
         }
       },
       {
@@ -767,7 +767,7 @@
           "name": "Ismail Yüksek",
           "short": "Yüksek",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1183589.png.jpg"
         },
         "detail": "Foul"
       },
@@ -780,7 +780,7 @@
           "name": "Pavel Kačor",
           "short": "Kačor",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1585595.png.jpg"
         },
         "scoreAfter": "2 - 2",
         "penalty": false,
@@ -789,7 +789,7 @@
           "name": "Emmanuel Dennis Ayaosi",
           "short": "Ayaosi",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1327747.png.jpg"
         },
         "goalType": "build",
         "description": "Substitute Pavel Kačor rescued a point in stoppage time, converting Emmanuel Ayaosi's cross from very close range into the roof of the net."

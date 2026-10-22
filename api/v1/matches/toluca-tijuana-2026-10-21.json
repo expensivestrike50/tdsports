@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "toluca-tijuana-2026-10-21",
     "date": "2026-10-21",
@@ -39,7 +39,7 @@
           "name": "Antonio Mohamed",
           "short": "Mohamed",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/345646.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Luis García",
             "short": "García",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/417520.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.5
@@ -57,7 +57,7 @@
             "name": "Jesús Gallardo",
             "short": "Gallardo",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/597976.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.8
@@ -67,7 +67,7 @@
             "name": "Everardo López",
             "short": "López",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1353113.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.9
@@ -77,7 +77,7 @@
             "name": "Federico Pereira",
             "short": "Pereira",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1053836.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.3
@@ -97,7 +97,7 @@
             "name": "Nicolás Castro",
             "short": "Castro",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1099712.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 8
@@ -107,7 +107,7 @@
             "name": "Franco Romero",
             "short": "Romero",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/833581.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 7.3
@@ -117,7 +117,7 @@
             "name": "Alexis Vega",
             "short": "Vega",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/728365.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 6.3
@@ -127,7 +127,7 @@
             "name": "Jesús Angulo",
             "short": "Angulo",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/730888.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 6.4
@@ -137,7 +137,7 @@
             "name": "Helinho",
             "short": "Helinho",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/935183.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 8.3
@@ -159,7 +159,7 @@
             "name": "Federico Viñas",
             "short": "Viñas",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1032811.png.jpg",
             "rating": 8
           },
           {
@@ -167,7 +167,7 @@
             "name": "Luis García",
             "short": "García",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/417520.png.jpg",
             "rating": 6.5
           },
           {
@@ -175,7 +175,7 @@
             "name": "Érick Gutiérrez",
             "short": "Gutiérrez",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/497838.png.jpg",
             "rating": 7.3
           },
           {
@@ -183,7 +183,7 @@
             "name": "Jorge Díaz",
             "short": "Díaz",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/914079.png.jpg",
             "rating": 7.4
           },
           {
@@ -191,7 +191,7 @@
             "name": "Joban González",
             "short": "González",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1729963.png.jpg",
             "rating": 7
           },
           {
@@ -199,7 +199,7 @@
             "name": "Luan",
             "short": "Luan",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/387490.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Pável Pérez",
             "short": "Pérez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1179357.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Fernando Arce",
             "short": "Arce",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/659034.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Bruno Méndez",
             "short": "Méndez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/933574.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Santiago Simón",
             "short": "Simón",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1208803.png.jpg",
             "rating": null
           }
         ]
@@ -243,7 +243,7 @@
           "name": "Sebastián Abreu",
           "short": "Abreu",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/3240.png.jpg"
         },
         "starting": [
           {
@@ -251,7 +251,7 @@
             "name": "Antonio Rodríguez",
             "short": "Rodríguez",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/324432.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.5
@@ -271,7 +271,7 @@
             "name": "Unai Bilbao",
             "short": "Bilbao",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/616540.png.jpg",
             "x": 82,
             "y": 71,
             "rating": 6.8
@@ -281,7 +281,7 @@
             "name": "Jackson Porozo",
             "short": "Porozo",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1032039.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 7
@@ -291,7 +291,7 @@
             "name": "Rafael Fernández",
             "short": "Fernández",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1169764.png.jpg",
             "x": 82,
             "y": 29,
             "rating": 6.7
@@ -301,7 +301,7 @@
             "name": "Ramiro Árciga",
             "short": "Árciga",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1455072.png.jpg",
             "x": 82,
             "y": 8,
             "rating": 7.3
@@ -311,7 +311,7 @@
             "name": "Joban González",
             "short": "González",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1729963.png.jpg",
             "x": 68,
             "y": 88,
             "rating": 7
@@ -321,7 +321,7 @@
             "name": "Ángel Zapata",
             "short": "Zapata",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1173461.png.jpg",
             "x": 68,
             "y": 62,
             "rating": 6.5
@@ -331,7 +331,7 @@
             "name": "Frank Thierry Boya",
             "short": "Boya",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/791820.png.jpg",
             "x": 68,
             "y": 36,
             "rating": 7.1
@@ -341,7 +341,7 @@
             "name": "Jonathan Padilla",
             "short": "Padilla",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1457724.png.jpg",
             "x": 68,
             "y": 12,
             "rating": 8.1
@@ -351,7 +351,7 @@
             "name": "Elias Manoel",
             "short": "Elias Manoel",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1248672.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 7.9
@@ -363,7 +363,7 @@
             "name": "Mourad El Ghezouani",
             "short": "Ghezouani",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1119943.png.jpg",
             "rating": 7.2
           },
           {
@@ -371,7 +371,7 @@
             "name": "Adonis Preciado",
             "short": "Preciado",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1072829.png.jpg",
             "rating": 6.5
           },
           {
@@ -379,7 +379,7 @@
             "name": "Ignacio Rivero",
             "short": "Rivero",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/430015.png.jpg",
             "rating": 6.3
           },
           {
@@ -395,7 +395,7 @@
             "name": "Joban González",
             "short": "González",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1729963.png.jpg",
             "rating": 7
           },
           {
@@ -403,7 +403,7 @@
             "name": "Iván Tona",
             "short": "Tona",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1071276.png.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "Diego Abreu",
             "short": "Abreu",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1603564.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Aaron Mejía",
             "short": "Mejía",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1228559.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
           "name": "Elias Manoel",
           "short": "Elias Manoel",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1248672.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": false,
@@ -460,7 +460,7 @@
           "name": "Jonathan Padilla",
           "short": "Padilla",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1457724.png.jpg"
         },
         "goalType": "counter",
         "description": "Tijuana broke quickly and Jonathan Padilla set up Elias Manoel, who finished with his right foot from the centre of the box into the bottom right corner."
@@ -474,14 +474,14 @@
           "name": "Federico Viñas",
           "short": "Viñas",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1032811.png.jpg"
         },
         "replaced": {
           "id": "jesus-angulo",
           "name": "Jesús Angulo",
           "short": "Angulo",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/730888.png.jpg"
         }
       },
       {
@@ -493,7 +493,7 @@
           "name": "Luis García",
           "short": "García",
           "position": "GK",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/417520.png.jpg"
         },
         "replaced": {
           "id": "diego-zaragoza",
@@ -512,14 +512,14 @@
           "name": "Mourad El Ghezouani",
           "short": "Ghezouani",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1119943.png.jpg"
         },
         "replaced": {
           "id": "elias-manoel",
           "name": "Elias Manoel",
           "short": "Elias Manoel",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1248672.png.jpg"
         }
       },
       {
@@ -531,14 +531,14 @@
           "name": "Adonis Preciado",
           "short": "Preciado",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1072829.png.jpg"
         },
         "replaced": {
           "id": "joban-gonzalez",
           "name": "Joban González",
           "short": "González",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1729963.png.jpg"
         }
       },
       {
@@ -550,7 +550,7 @@
           "name": "Federico Viñas",
           "short": "Viñas",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1032811.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": false,
@@ -559,7 +559,7 @@
           "name": "Helinho",
           "short": "Helinho",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/935183.png.jpg"
         },
         "goalType": "build",
         "description": "Half-time substitute Federico Viñas took Helinho's pass and scored with a left-footed shot from the centre of the box into the bottom right corner."
@@ -573,7 +573,7 @@
           "name": "Helinho",
           "short": "Helinho",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/935183.png.jpg"
         },
         "scoreAfter": "2 - 1",
         "penalty": false,
@@ -582,7 +582,7 @@
           "name": "Nicolás Castro",
           "short": "Castro",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1099712.png.jpg"
         },
         "goalType": "counter",
         "description": "On a fast break Nicolás Castro found Helinho, who finished left-footed from the centre of the box into the bottom left corner."
@@ -596,14 +596,14 @@
           "name": "Ignacio Rivero",
           "short": "Rivero",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/430015.png.jpg"
         },
         "replaced": {
           "id": "angel-zapata",
           "name": "Ángel Zapata",
           "short": "Zapata",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1173461.png.jpg"
         }
       },
       {
@@ -615,7 +615,7 @@
           "name": "Jonathan Padilla",
           "short": "Padilla",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1457724.png.jpg"
         },
         "scoreAfter": "2 - 2",
         "penalty": false,
@@ -624,7 +624,7 @@
           "name": "Rafael Fernández",
           "short": "Fernández",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1169764.png.jpg"
         },
         "goalType": "set",
         "description": "Following a corner, Rafael Fernández set up Jonathan Padilla, who struck a right-footed shot from the centre of the box into the top right corner."
@@ -645,7 +645,7 @@
           "name": "Ramiro Árciga",
           "short": "Árciga",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1455072.png.jpg"
         }
       },
       {
@@ -657,14 +657,14 @@
           "name": "Joban González",
           "short": "González",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1729963.png.jpg"
         },
         "replaced": {
           "id": "jonathan-padilla",
           "name": "Jonathan Padilla",
           "short": "Padilla",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1457724.png.jpg"
         }
       },
       {
@@ -676,14 +676,14 @@
           "name": "Érick Gutiérrez",
           "short": "Gutiérrez",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/497838.png.jpg"
         },
         "replaced": {
           "id": "nicolas-castro",
           "name": "Nicolás Castro",
           "short": "Castro",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1099712.png.jpg"
         }
       },
       {
@@ -695,14 +695,14 @@
           "name": "Jorge Díaz",
           "short": "Díaz",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/914079.png.jpg"
         },
         "replaced": {
           "id": "alexis-vega",
           "name": "Alexis Vega",
           "short": "Vega",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/728365.png.jpg"
         }
       }
     ],

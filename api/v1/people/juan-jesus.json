@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "juan-jesus",
     "name": "Juan Jesus",
     "short": "Jesus",
     "position": "CB",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/197352.png.jpg",
     "matches": [
       {
         "match": "venezia-napoli-2026-10-17",

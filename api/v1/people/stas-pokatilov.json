@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "stas-pokatilov",
     "name": "Stas Pokatilov",
     "short": "Pokatilov",
     "position": "GK",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/489507.png.jpg",
     "matches": [
       {
         "match": "sabah-fk-borussia-dortmund-2026-10-20",

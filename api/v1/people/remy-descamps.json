@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "remy-descamps",
     "name": "Rémy Descamps",
     "short": "Descamps",
     "position": "CM",
-    "photo": null,
+    "photo": "assets/photos/people/remy-descamps.jpg",
     "matches": [
       {
         "match": "lyon-c-palace-2026-10-15",

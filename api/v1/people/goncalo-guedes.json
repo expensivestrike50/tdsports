@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "goncalo-guedes",
     "name": "Gonçalo Guedes",
     "short": "Guedes",
     "position": "LW",
-    "photo": null,
+    "photo": "assets/photos/people/goncalo-guedes.jpg",
     "matches": [
       {
         "match": "union-sg-real-sociedad-2026-10-15",

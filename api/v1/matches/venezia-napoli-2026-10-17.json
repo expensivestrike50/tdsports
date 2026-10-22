@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "venezia-napoli-2026-10-17",
     "date": "2026-10-17",
@@ -39,7 +39,7 @@
           "name": "Davide Nicola",
           "short": "Nicola",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/davide-nicola.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Filip Stankovic",
             "short": "Stankovic",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1130600.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 7.5
@@ -57,7 +57,7 @@
             "name": "Juan Jesus",
             "short": "Jesus",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/197352.png.jpg",
             "x": 18,
             "y": 23,
             "rating": 6.5
@@ -67,7 +67,7 @@
             "name": "Matías Moreno",
             "short": "Moreno",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1605748.png.jpg",
             "x": 18,
             "y": 50,
             "rating": 7.3
@@ -77,7 +77,7 @@
             "name": "Redouane Halhal",
             "short": "Halhal",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1298186.png.jpg",
             "x": 18,
             "y": 78,
             "rating": 7.1
@@ -87,7 +87,7 @@
             "name": "Ridgeciano Haps",
             "short": "Haps",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/414232.png.jpg",
             "x": 32,
             "y": 8,
             "rating": 6.4
@@ -97,7 +97,7 @@
             "name": "Toma Basic",
             "short": "Basic",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/651435.png.jpg",
             "x": 32,
             "y": 29,
             "rating": 7.1
@@ -107,7 +107,7 @@
             "name": "Enrique Perez",
             "short": "Perez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/186936.png.jpg",
             "x": 32,
             "y": 50,
             "rating": 6.8
@@ -117,7 +117,7 @@
             "name": "Antoine Hainaut",
             "short": "Hainaut",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1290968.png.jpg",
             "x": 32,
             "y": 71,
             "rating": 7.3
@@ -127,7 +127,7 @@
             "name": "Simon Sohm",
             "short": "Sohm",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/simon-sohm.jpg",
             "x": 32,
             "y": 92,
             "rating": 8.1
@@ -137,7 +137,7 @@
             "name": "Akor Adams",
             "short": "Adams",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/958640.png.jpg",
             "x": 46,
             "y": 30,
             "rating": 8.3
@@ -147,7 +147,7 @@
             "name": "John Yeboah",
             "short": "Yeboah",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/845368.png.jpg",
             "x": 46,
             "y": 70,
             "rating": 7.4
@@ -159,7 +159,7 @@
             "name": "Amir Rrahmani",
             "short": "Rrahmani",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/544693.png.jpg",
             "rating": 6.4
           },
           {
@@ -167,7 +167,7 @@
             "name": "Thorir Johann Helgason",
             "short": "Helgason",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/939593.png.jpg",
             "rating": 6.6
           },
           {
@@ -175,7 +175,7 @@
             "name": "Pasquale Mazzocchi",
             "short": "Mazzocchi",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/675327.png.jpg",
             "rating": 6.7
           },
           {
@@ -183,7 +183,7 @@
             "name": "Joel Schingtienne",
             "short": "Schingtienne",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1352744.png.jpg",
             "rating": 6.7
           },
           {
@@ -199,7 +199,7 @@
             "name": "Rufai Mohammed",
             "short": "Mohammed",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1681811.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Lion Lauberbach",
             "short": "Lauberbach",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/866165.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Kornel Lisman",
             "short": "Lisman",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1529483.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Richie Sagrado",
             "short": "Sagrado",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1388039.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Lorenzo Montipò",
             "short": "Montipò",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/491784.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Ale Gomes",
             "short": "Gomes",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1842921.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Lorenzo Berardi",
             "short": "Berardi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1803901.png.jpg",
             "rating": null
           },
           {
@@ -255,7 +255,7 @@
             "name": "Toni Fernández",
             "short": "Fernández",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1665438.png.jpg",
             "rating": null
           },
           {
@@ -263,7 +263,7 @@
             "name": "Simone Panada",
             "short": "Panada",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1050821.png.jpg",
             "rating": null
           },
           {
@@ -271,7 +271,7 @@
             "name": "Matteo Dagasso",
             "short": "Dagasso",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1592168.png.jpg",
             "rating": null
           }
         ]
@@ -311,7 +311,7 @@
             "name": "Amir Rrahmani",
             "short": "Rrahmani",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/544693.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 6.2
@@ -321,7 +321,7 @@
             "name": "Sam Beukema",
             "short": "Beukema",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/873573.png.jpg",
             "x": 82,
             "y": 22,
             "rating": 7.3
@@ -381,7 +381,7 @@
             "name": "Giovane",
             "short": "Giovane",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1355574.png.jpg",
             "x": 63,
             "y": 30,
             "rating": 7
@@ -411,7 +411,7 @@
             "name": "Alisson Santos",
             "short": "Santos",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1355552.png.jpg",
             "rating": 6.7
           },
           {
@@ -427,7 +427,7 @@
             "name": "Matteo Politano",
             "short": "Politano",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/415539.png.jpg",
             "rating": 7
           },
           {
@@ -443,7 +443,7 @@
             "name": "Frank Anguissa",
             "short": "Anguissa",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/612863.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Luca Marianucci",
             "short": "Marianucci",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1529148.png.jpg",
             "rating": null
           },
           {
@@ -467,7 +467,7 @@
             "name": "Nikita Contini",
             "short": "Contini",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/517068.png.jpg",
             "rating": null
           },
           {
@@ -475,7 +475,7 @@
             "name": "Rafa Marín",
             "short": "Marín",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1313884.png.jpg",
             "rating": null
           },
           {
@@ -499,7 +499,7 @@
           "name": "Akor Adams",
           "short": "Adams",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/958640.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -508,7 +508,7 @@
           "name": "Simon Sohm",
           "short": "Sohm",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/simon-sohm.jpg"
         },
         "goalType": "counter",
         "description": "Akor Adams right footed shot from the centre of the box to the bottom left corner. Assisted by Simon Sohm following a fast break."
@@ -541,14 +541,14 @@
           "name": "Alisson Santos",
           "short": "Santos",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1355552.png.jpg"
         },
         "replaced": {
           "id": "giovane-venezia-napoli-2026-10-17",
           "name": "Giovane",
           "short": "Giovane",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1355574.png.jpg"
         }
       },
       {
@@ -579,7 +579,7 @@
           "name": "Toma Basic",
           "short": "Basic",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/651435.png.jpg"
         },
         "detail": "Unspecified"
       },
@@ -592,14 +592,14 @@
           "name": "Amir Rrahmani",
           "short": "Rrahmani",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/544693.png.jpg"
         },
         "replaced": {
           "id": "john-yeboah",
           "name": "John Yeboah",
           "short": "Yeboah",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/845368.png.jpg"
         }
       },
       {
@@ -611,14 +611,14 @@
           "name": "Matteo Politano",
           "short": "Politano",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/415539.png.jpg"
         },
         "replaced": {
           "id": "sam-beukema-venezia-napoli-2026-10-17",
           "name": "Sam Beukema",
           "short": "Beukema",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/873573.png.jpg"
         }
       },
       {
@@ -630,14 +630,14 @@
           "name": "Thorir Johann Helgason",
           "short": "Helgason",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/939593.png.jpg"
         },
         "replaced": {
           "id": "toma-basic",
           "name": "Toma Basic",
           "short": "Basic",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/651435.png.jpg"
         }
       },
       {
@@ -649,14 +649,14 @@
           "name": "Pasquale Mazzocchi",
           "short": "Mazzocchi",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/675327.png.jpg"
         },
         "replaced": {
           "id": "ridgeciano-haps",
           "name": "Ridgeciano Haps",
           "short": "Haps",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/414232.png.jpg"
         }
       },
       {
@@ -668,14 +668,14 @@
           "name": "Joel Schingtienne",
           "short": "Schingtienne",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1352744.png.jpg"
         },
         "replaced": {
           "id": "matias-moreno",
           "name": "Matías Moreno",
           "short": "Moreno",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1605748.png.jpg"
         }
       },
       {
@@ -687,7 +687,7 @@
           "name": "Enrique Perez",
           "short": "Perez",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/186936.png.jpg"
         },
         "detail": "Unspecified"
       },
@@ -707,7 +707,7 @@
           "name": "Simon Sohm",
           "short": "Sohm",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/simon-sohm.jpg"
         }
       },
       {

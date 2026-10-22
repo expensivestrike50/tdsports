@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "fiorentina-como-2026-10-18",
     "date": "2026-10-18",
@@ -39,7 +39,7 @@
           "name": "Paolo Vanoli",
           "short": "Vanoli",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/42632.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "David de Gea",
             "short": "de Gea",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/182917.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.1
@@ -57,7 +57,7 @@
             "name": "Viery",
             "short": "Viery",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1501917.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 7.2
@@ -67,7 +67,7 @@
             "name": "Marin Pongracic",
             "short": "Pongracic",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/831474.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 7.4
@@ -77,7 +77,7 @@
             "name": "Radu Dragusin",
             "short": "Dragusin",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1203661.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.8
@@ -87,7 +87,7 @@
             "name": "Álex Jiménez",
             "short": "Jiménez",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1526689.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.2
@@ -97,7 +97,7 @@
             "name": "Nicolò Fagioli",
             "short": "Fagioli",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/951712.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 6.5
@@ -107,7 +107,7 @@
             "name": "Cher Ndour",
             "short": "Ndour",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/cher-ndour.jpg",
             "x": 27,
             "y": 70,
             "rating": 7.5
@@ -117,7 +117,7 @@
             "name": "Alieu Njie",
             "short": "Njie",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1607014.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 7.3
@@ -127,7 +127,7 @@
             "name": "Pedro Gonçalves",
             "short": "Gonçalves",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/pedro-goncalves.jpg",
             "x": 37,
             "y": 50,
             "rating": 7.1
@@ -137,7 +137,7 @@
             "name": "Franco Mastantuono",
             "short": "Mastantuono",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1607566.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 6.6
@@ -147,7 +147,7 @@
             "name": "Mateo Pellegrino",
             "short": "Pellegrino",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1224237.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7.4
@@ -159,7 +159,7 @@
             "name": "Wilfried Gnonto",
             "short": "Gnonto",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1107286.png.jpg",
             "rating": 7.4
           },
           {
@@ -175,7 +175,7 @@
             "name": "Marco Brescianini",
             "short": "Brescianini",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950596.png.jpg",
             "rating": 7
           },
           {
@@ -183,7 +183,7 @@
             "name": "Dodô",
             "short": "Dodô",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/750734.png.jpg",
             "rating": 6.3
           },
           {
@@ -191,7 +191,7 @@
             "name": "Beto",
             "short": "Beto",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1079485.png.jpg",
             "rating": 6.4
           },
           {
@@ -199,7 +199,7 @@
             "name": "Oliver Christensen",
             "short": "Christensen",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/806972.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Christ Inao Oulaï",
             "short": "Oulaï",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/christ-inao-oulai.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Arnis Ademi",
             "short": "Ademi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1574399.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Brando Mazzeo",
             "short": "Mazzeo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1835436.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Luca Lezzerini",
             "short": "Lezzerini",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/luca-lezzerini.jpg",
             "rating": null
           }
         ]
@@ -297,7 +297,7 @@
             "name": "Trevoh Chalobah",
             "short": "Chalobah",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/793907.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 6.6
@@ -307,7 +307,7 @@
             "name": "Ivan Smolcic",
             "short": "Smolcic",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1353289.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 6.5
@@ -317,7 +317,7 @@
             "name": "Lucas Da Cunha",
             "short": "Da Cunha",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1076647.png.jpg",
             "x": 73,
             "y": 70,
             "rating": 7.5
@@ -327,7 +327,7 @@
             "name": "Luis Milla",
             "short": "Milla",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/638090.png.jpg",
             "x": 73,
             "y": 30,
             "rating": 7.1
@@ -357,7 +357,7 @@
             "name": "Mattia Liberali",
             "short": "Liberali",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1593861.png.jpg",
             "x": 63,
             "y": 22,
             "rating": 8.4
@@ -379,7 +379,7 @@
             "name": "Jacobo Ramón",
             "short": "Ramón",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1413963.png.jpg",
             "rating": 7.4
           },
           {
@@ -403,7 +403,7 @@
             "name": "Willy Kambwala",
             "short": "Kambwala",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1344550.png.jpg",
             "rating": 6.5
           },
           {
@@ -427,7 +427,7 @@
             "name": "Jayden Addai",
             "short": "Addai",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1347241.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Adrian Lahdo",
             "short": "Lahdo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1615459.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Edoardo Goldaniga",
             "short": "Goldaniga",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/362121.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Mauro Vigorito",
             "short": "Vigorito",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/111741.png.jpg",
             "rating": null
           },
           {
@@ -467,7 +467,7 @@
             "name": "Jesús Rodriguez",
             "short": "Rodriguez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1624039.png.jpg",
             "rating": null
           },
           {
@@ -483,7 +483,7 @@
             "name": "Yan Couto",
             "short": "Couto",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1109171.png.jpg",
             "rating": null
           }
         ]
@@ -499,14 +499,14 @@
           "name": "Jacobo Ramón",
           "short": "Ramón",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1413963.png.jpg"
         },
         "replaced": {
           "id": "trevoh-chalobah",
           "name": "Trevoh Chalobah",
           "short": "Chalobah",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/793907.png.jpg"
         }
       },
       {
@@ -531,7 +531,7 @@
           "name": "Mattia Liberali",
           "short": "Liberali",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1593861.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": false,
@@ -590,7 +590,7 @@
           "name": "Marin Pongracic",
           "short": "Pongracic",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/831474.png.jpg"
         },
         "scoreAfter": "1 - 2",
         "penalty": false,
@@ -626,7 +626,7 @@
           "name": "Jacobo Ramón",
           "short": "Ramón",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1413963.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -639,7 +639,7 @@
           "name": "Marin Pongracic",
           "short": "Pongracic",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/831474.png.jpg"
         },
         "detail": "Goal ruled out for offside after a lengthy VAR review"
       },
@@ -694,14 +694,14 @@
           "name": "Wilfried Gnonto",
           "short": "Gnonto",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1107286.png.jpg"
         },
         "replaced": {
           "id": "pedro-goncalves",
           "name": "Pedro Gonçalves",
           "short": "Gonçalves",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/pedro-goncalves.jpg"
         }
       },
       {
@@ -720,7 +720,7 @@
           "name": "Viery",
           "short": "Viery",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1501917.png.jpg"
         }
       },
       {
@@ -732,7 +732,7 @@
           "name": "Cher Ndour",
           "short": "Ndour",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/cher-ndour.jpg"
         },
         "detail": "Bad foul"
       },
@@ -745,14 +745,14 @@
           "name": "Marco Brescianini",
           "short": "Brescianini",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950596.png.jpg"
         },
         "replaced": {
           "id": "franco-mastantuono",
           "name": "Franco Mastantuono",
           "short": "Mastantuono",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1607566.png.jpg"
         }
       },
       {
@@ -764,14 +764,14 @@
           "name": "Dodô",
           "short": "Dodô",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/750734.png.jpg"
         },
         "replaced": {
           "id": "alex-jimenez",
           "name": "Álex Jiménez",
           "short": "Jiménez",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1526689.png.jpg"
         }
       },
       {
@@ -783,7 +783,7 @@
           "name": "Franco Mastantuono",
           "short": "Mastantuono",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1607566.png.jpg"
         },
         "detail": "Unspecified"
       },
@@ -796,14 +796,14 @@
           "name": "Beto",
           "short": "Beto",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1079485.png.jpg"
         },
         "replaced": {
           "id": "cher-ndour",
           "name": "Cher Ndour",
           "short": "Ndour",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/cher-ndour.jpg"
         }
       },
       {
@@ -815,14 +815,14 @@
           "name": "Willy Kambwala",
           "short": "Kambwala",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1344550.png.jpg"
         },
         "replaced": {
           "id": "mattia-liberali-fiorentina-como-2026-10-18",
           "name": "Mattia Liberali",
           "short": "Liberali",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1593861.png.jpg"
         }
       },
       {
@@ -841,7 +841,7 @@
           "name": "Lucas Da Cunha",
           "short": "Da Cunha",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1076647.png.jpg"
         }
       }
     ],

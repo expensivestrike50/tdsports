@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "edin-dzeko",
     "name": "Edin Dzeko",
     "short": "Dzeko",
     "position": "ST",
-    "photo": null,
+    "photo": "assets/photos/people/edin-dzeko.jpg",
     "matches": [
       {
         "match": "schalke-mainz-2026-10-17",

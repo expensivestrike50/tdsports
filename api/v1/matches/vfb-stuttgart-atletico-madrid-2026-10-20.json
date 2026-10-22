@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "vfb-stuttgart-atletico-madrid-2026-10-20",
     "date": "2026-10-20",
@@ -39,7 +39,7 @@
           "name": "Sebastian Hoeneß",
           "short": "Hoeneß",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/36490.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Dennis Seimen",
             "short": "Seimen",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1478098.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.7
@@ -57,7 +57,7 @@
             "name": "Maximilian Mittelstädt",
             "short": "Mittelstädt",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/614384.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.6
@@ -67,7 +67,7 @@
             "name": "Jeff Chabot",
             "short": "Chabot",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/867080.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 7.4
@@ -77,7 +77,7 @@
             "name": "Ramon Hendriks",
             "short": "Hendriks",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1125187.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 7.2
@@ -87,7 +87,7 @@
             "name": "Josha Vagnoman",
             "short": "Vagnoman",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/928454.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.5
@@ -97,7 +97,7 @@
             "name": "Angelo Stiller",
             "short": "Stiller",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1071186.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 6.3
@@ -107,7 +107,7 @@
             "name": "Grischa Prömel",
             "short": "Prömel",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/625175.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 7.2
@@ -117,7 +117,7 @@
             "name": "Chris Führich",
             "short": "Führich",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/892679.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 7.3
@@ -127,7 +127,7 @@
             "name": "Bilal El Khannouss",
             "short": "El Khannouss",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1340895.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 7
@@ -137,7 +137,7 @@
             "name": "Jamie Leweling",
             "short": "Leweling",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1074968.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 8.1
@@ -147,7 +147,7 @@
             "name": "Deniz Undav",
             "short": "Undav",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/661519.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 6.3
@@ -159,7 +159,7 @@
             "name": "Lorenz Assignon",
             "short": "Assignon",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1192406.png.jpg",
             "rating": 6.4
           },
           {
@@ -167,7 +167,7 @@
             "name": "Ermedin Demirovic",
             "short": "Demirovic",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/840241.png.jpg",
             "rating": 6.4
           },
           {
@@ -175,7 +175,7 @@
             "name": "Dzenan Pejcinovic",
             "short": "Pejcinovic",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1366602.png.jpg",
             "rating": 6.5
           },
           {
@@ -183,7 +183,7 @@
             "name": "Leo Sauer",
             "short": "Sauer",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/leo-sauer.jpg",
             "rating": 7.4
           },
           {
@@ -191,7 +191,7 @@
             "name": "Marius Funk",
             "short": "Funk",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/659086.png.jpg",
             "rating": null
           },
           {
@@ -199,7 +199,7 @@
             "name": "Luca Jaquez",
             "short": "Jaquez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1270002.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Ameen Al Dakhil",
             "short": "Dakhil",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1279764.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Atakan Karazor",
             "short": "Karazor",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/684983.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Fabian Bredlow",
             "short": "Bredlow",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/522236.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Finn Jeltsch",
             "short": "Jeltsch",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1487877.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Nikolas Nartey",
             "short": "Nartey",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/nikolas-nartey.jpg",
             "rating": null
           }
         ]
@@ -251,7 +251,7 @@
           "name": "Diego Simeone",
           "short": "Simeone",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/2642.png.jpg"
         },
         "starting": [
           {
@@ -259,7 +259,7 @@
             "name": "Jan Oblak",
             "short": "Oblak",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/177126.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.3
@@ -269,7 +269,7 @@
             "name": "Alejandro Grimaldo",
             "short": "Grimaldo",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/288406.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 6.2
@@ -279,7 +279,7 @@
             "name": "Dávid Hancko",
             "short": "Hancko",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/david-hancko.jpg",
             "x": 82,
             "y": 62,
             "rating": 6.8
@@ -289,7 +289,7 @@
             "name": "Marc Pubill",
             "short": "Pubill",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/marc-pubill.jpg",
             "x": 82,
             "y": 36,
             "rating": 6.3
@@ -299,7 +299,7 @@
             "name": "Marcos Llorente",
             "short": "Llorente",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/602563.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 7.1
@@ -309,7 +309,7 @@
             "name": "Álex Baena",
             "short": "Baena",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/942372.png.jpg",
             "x": 68,
             "y": 88,
             "rating": 6.8
@@ -319,7 +319,7 @@
             "name": "Morten Hjulmand",
             "short": "Hjulmand",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950199.png.jpg",
             "x": 68,
             "y": 62,
             "rating": 6.1
@@ -329,7 +329,7 @@
             "name": "Pablo Barrios",
             "short": "Barrios",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1338192.png.jpg",
             "x": 68,
             "y": 36,
             "rating": 6.5
@@ -339,7 +339,7 @@
             "name": "Giuliano Simeone",
             "short": "Simeone",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/giuliano-simeone.jpg",
             "x": 68,
             "y": 12,
             "rating": 7.1
@@ -349,7 +349,7 @@
             "name": "Julián Álvarez",
             "short": "Álvarez",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/974753.png.jpg",
             "x": 54,
             "y": 70,
             "rating": 7.6
@@ -359,7 +359,7 @@
             "name": "Jonathan David",
             "short": "David",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/939569.png.jpg",
             "x": 54,
             "y": 30,
             "rating": 7.1
@@ -371,7 +371,7 @@
             "name": "Ademola Lookman",
             "short": "Lookman",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/690516.png.jpg",
             "rating": 7.4
           },
           {
@@ -379,7 +379,7 @@
             "name": "Johnny Cardoso",
             "short": "Cardoso",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1173678.png.jpg",
             "rating": 7.2
           },
           {
@@ -387,7 +387,7 @@
             "name": "Obed Vargas",
             "short": "Vargas",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1254394.png.jpg",
             "rating": 7.3
           },
           {
@@ -395,7 +395,7 @@
             "name": "Robin Le Normand",
             "short": "Normand",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/609516.png.jpg",
             "rating": 6.5
           },
           {
@@ -403,7 +403,7 @@
             "name": "Alexander Sørloth",
             "short": "Sørloth",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/440330.png.jpg",
             "rating": 6.3
           },
           {
@@ -411,7 +411,7 @@
             "name": "Juan Musso",
             "short": "Musso",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/389050.png.jpg",
             "rating": null
           },
           {
@@ -427,7 +427,7 @@
             "name": "Lee Kang-In",
             "short": "Kang-In",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/940976.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Rodrigo Mendoza",
             "short": "Mendoza",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1419969.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Arnau Ortiz",
             "short": "Ortiz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1297989.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Jorge Castillo",
             "short": "Castillo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1692877.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Jorge Domínguez",
             "short": "Domínguez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1842329.png.jpg",
             "rating": null
           }
         ]
@@ -475,7 +475,7 @@
           "name": "Maximilian Mittelstädt",
           "short": "Mittelstädt",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/614384.png.jpg"
         },
         "detail": "Foul"
       },
@@ -488,7 +488,7 @@
           "name": "Jamie Leweling",
           "short": "Leweling",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1074968.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -505,14 +505,14 @@
           "name": "Ademola Lookman",
           "short": "Lookman",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/690516.png.jpg"
         },
         "replaced": {
           "id": "jonathan-david",
           "name": "Jonathan David",
           "short": "David",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/939569.png.jpg"
         }
       },
       {
@@ -524,7 +524,7 @@
           "name": "Julián Álvarez",
           "short": "Álvarez",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/974753.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": false,
@@ -533,7 +533,7 @@
           "name": "Ademola Lookman",
           "short": "Lookman",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/690516.png.jpg"
         },
         "goalType": "build",
         "description": "Two minutes after half-time, half-time substitute Ademola Lookman set up Julián Álvarez, who fired a left-footed shot from the centre of the box into the top right corner."
@@ -547,14 +547,14 @@
           "name": "Lorenz Assignon",
           "short": "Assignon",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1192406.png.jpg"
         },
         "replaced": {
           "id": "josha-vagnoman-vfb-stuttgart-atletico-madrid-2026-10-20",
           "name": "Josha Vagnoman",
           "short": "Vagnoman",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/928454.png.jpg"
         }
       },
       {
@@ -566,7 +566,7 @@
           "name": "Morten Hjulmand",
           "short": "Hjulmand",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950199.png.jpg"
         },
         "detail": "Straight red card; ESPN commentary records a foul by him on Angelo Stiller in the same minute"
       },
@@ -579,14 +579,14 @@
           "name": "Johnny Cardoso",
           "short": "Cardoso",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1173678.png.jpg"
         },
         "replaced": {
           "id": "alex-baena",
           "name": "Álex Baena",
           "short": "Baena",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/942372.png.jpg"
         }
       },
       {
@@ -598,14 +598,14 @@
           "name": "Ermedin Demirovic",
           "short": "Demirovic",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/840241.png.jpg"
         },
         "replaced": {
           "id": "jamie-leweling-vfb-stuttgart-atletico-madrid-2026-10-20",
           "name": "Jamie Leweling",
           "short": "Leweling",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1074968.png.jpg"
         }
       },
       {
@@ -617,14 +617,14 @@
           "name": "Obed Vargas",
           "short": "Vargas",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1254394.png.jpg"
         },
         "replaced": {
           "id": "julian-alvarez",
           "name": "Julián Álvarez",
           "short": "Álvarez",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/974753.png.jpg"
         }
       },
       {
@@ -636,14 +636,14 @@
           "name": "Robin Le Normand",
           "short": "Normand",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/609516.png.jpg"
         },
         "replaced": {
           "id": "pablo-barrios",
           "name": "Pablo Barrios",
           "short": "Barrios",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1338192.png.jpg"
         }
       },
       {
@@ -655,14 +655,14 @@
           "name": "Alexander Sørloth",
           "short": "Sørloth",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/440330.png.jpg"
         },
         "replaced": {
           "id": "giuliano-simeone",
           "name": "Giuliano Simeone",
           "short": "Simeone",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/giuliano-simeone.jpg"
         }
       },
       {
@@ -674,14 +674,14 @@
           "name": "Dzenan Pejcinovic",
           "short": "Pejcinovic",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1366602.png.jpg"
         },
         "replaced": {
           "id": "deniz-undav-vfb-stuttgart-atletico-madrid-2026-10-20",
           "name": "Deniz Undav",
           "short": "Undav",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/661519.png.jpg"
         }
       },
       {
@@ -693,14 +693,14 @@
           "name": "Leo Sauer",
           "short": "Sauer",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/leo-sauer.jpg"
         },
         "replaced": {
           "id": "chris-fuhrich-vfb-stuttgart-atletico-madrid-2026-10-20",
           "name": "Chris Führich",
           "short": "Führich",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/892679.png.jpg"
         }
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "porto-psv",
     "date": "2026-10-20",
@@ -87,7 +87,7 @@
             "name": "Alberto Costa",
             "short": "Alberto Costa",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1387439.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.9
@@ -159,7 +159,7 @@
             "name": "André Silva",
             "short": "Silva",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/388523.png.jpg",
             "rating": 7
           },
           {
@@ -167,7 +167,7 @@
             "name": "Borja Sainz",
             "short": "Sainz",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1083204.png.jpg",
             "rating": 7.2
           },
           {
@@ -183,7 +183,7 @@
             "name": "Souza",
             "short": "Souza",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1636513.png.jpg",
             "rating": 6.6
           },
           {
@@ -199,7 +199,7 @@
             "name": "Martim Fernandes",
             "short": "Fernandes",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1404949.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "João Costa",
             "short": "Costa",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/289253.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Cláudio Ramos",
             "short": "Ramos",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/181433.png.jpg",
             "rating": null
           }
         ]
@@ -327,7 +327,7 @@
             "name": "Kodai Sano",
             "short": "Sano",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1337282.png.jpg",
             "x": 73,
             "y": 30,
             "rating": 6.3
@@ -387,7 +387,7 @@
             "name": "Noah Fernandez",
             "short": "Fernandez",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1699551.png.jpg",
             "rating": 6.7
           },
           {
@@ -403,7 +403,7 @@
             "name": "Amir Bouhamdi",
             "short": "Bouhamdi",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1834912.png.jpg",
             "rating": 7.4
           },
           {
@@ -435,7 +435,7 @@
             "name": "Tijn Smolenaars",
             "short": "Smolenaars",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1402624.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Ayoni Santos",
             "short": "Santos",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1678727.png.jpg",
             "rating": null
           },
           {
@@ -503,7 +503,7 @@
           "name": "André Silva",
           "short": "Silva",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/388523.png.jpg"
         },
         "replaced": {
           "id": "samu-aghehowa",
@@ -522,7 +522,7 @@
           "name": "Borja Sainz",
           "short": "Sainz",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1083204.png.jpg"
         },
         "replaced": {
           "id": "oskar-pietuszewski",
@@ -560,7 +560,7 @@
           "name": "Souza",
           "short": "Souza",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1636513.png.jpg"
         },
         "replaced": {
           "id": "zaidu-sanusi",
@@ -630,7 +630,7 @@
           "name": "Noah Fernandez",
           "short": "Fernandez",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1699551.png.jpg"
         },
         "replaced": {
           "id": "mauro-junior",
@@ -668,7 +668,7 @@
           "name": "Amir Bouhamdi",
           "short": "Bouhamdi",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1834912.png.jpg"
         },
         "replaced": {
           "id": "ivan-perisic",

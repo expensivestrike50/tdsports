@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "brighton-c-palace-2026-10-18",
     "date": "2026-10-18",
@@ -39,7 +39,7 @@
           "name": "Fabian Hürzeler",
           "short": "Hürzeler",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/208516.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Bart Verbruggen",
             "short": "Verbruggen",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/bart-verbruggen.jpg",
             "x": 5,
             "y": 50,
             "rating": 7.2
@@ -57,7 +57,7 @@
             "name": "Ferdi Kadioglu",
             "short": "Kadioglu",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/774448.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.5
@@ -67,7 +67,7 @@
             "name": "Luka Vuskovic",
             "short": "Vuskovic",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1413996.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 7.6
@@ -77,7 +77,7 @@
             "name": "Lewis Dunk",
             "short": "Dunk",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/201690.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 7.4
@@ -87,7 +87,7 @@
             "name": "Olivier Boscagli",
             "short": "Boscagli",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/613715.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.9
@@ -97,7 +97,7 @@
             "name": "Pascal Gross",
             "short": "Gross",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/167008.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 6.8
@@ -107,7 +107,7 @@
             "name": "Chema Andrés",
             "short": "Andrés",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1586552.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 7.2
@@ -117,7 +117,7 @@
             "name": "Diego Gómez",
             "short": "Gómez",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1354561.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 7.4
@@ -127,7 +127,7 @@
             "name": "Yasin Ayari",
             "short": "Ayari",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1168311.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 7.8
@@ -137,7 +137,7 @@
             "name": "Maxim De Cuyper",
             "short": "De Cuyper",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1134871.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 7.5
@@ -147,7 +147,7 @@
             "name": "Charalambos Kostoulas",
             "short": "Kostoulas",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1561249.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 8.5
@@ -159,7 +159,7 @@
             "name": "Jack Hinshelwood",
             "short": "Hinshelwood",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1251334.png.jpg",
             "rating": 7.3
           },
           {
@@ -167,7 +167,7 @@
             "name": "Georginio Rutter",
             "short": "Rutter",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/956925.png.jpg",
             "rating": 6.6
           },
           {
@@ -175,7 +175,7 @@
             "name": "Jaouen Hadjam",
             "short": "Hadjam",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1178324.png.jpg",
             "rating": 7.1
           },
           {
@@ -183,7 +183,7 @@
             "name": "Malick Yalcouyé",
             "short": "Yalcouyé",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1602352.png.jpg",
             "rating": 7
           },
           {
@@ -191,7 +191,7 @@
             "name": "Michael Svoboda",
             "short": "Svoboda",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/951921.png.jpg",
             "rating": 6.8
           },
           {
@@ -199,7 +199,7 @@
             "name": "Ibrahim Osman",
             "short": "Osman",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1215410.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Costinha",
             "short": "Costinha",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1079456.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Matt O'Riley",
             "short": "O'Riley",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/866686.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Jason Steele",
             "short": "Steele",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/107917.png.jpg",
             "rating": null
           }
         ]
@@ -235,7 +235,7 @@
           "name": "Pierre Sage",
           "short": "Sage",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1586853.png.jpg"
         },
         "starting": [
           {
@@ -243,7 +243,7 @@
             "name": "Walter Benítez",
             "short": "Benítez",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/448897.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.1
@@ -253,7 +253,7 @@
             "name": "Jaydee Canvot",
             "short": "Canvot",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1664722.png.jpg",
             "x": 82,
             "y": 77,
             "rating": 6.3
@@ -263,7 +263,7 @@
             "name": "Chris Richards",
             "short": "Richards",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950829.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 6.5
@@ -273,7 +273,7 @@
             "name": "Honest Ahanor",
             "short": "Ahanor",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1669629.png.jpg",
             "x": 82,
             "y": 22,
             "rating": 6.8
@@ -283,7 +283,7 @@
             "name": "Anan Khalaili",
             "short": "Khalaili",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1477878.png.jpg",
             "x": 73,
             "y": 88,
             "rating": 6.8
@@ -293,7 +293,7 @@
             "name": "Adam Wharton",
             "short": "Wharton",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1296650.png.jpg",
             "x": 73,
             "y": 62,
             "rating": 6.9
@@ -303,7 +303,7 @@
             "name": "Quinten Timber",
             "short": "Timber",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/970563.png.jpg",
             "x": 73,
             "y": 36,
             "rating": 6.5
@@ -313,7 +313,7 @@
             "name": "Tyrick Mitchell",
             "short": "Mitchell",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1120224.png.jpg",
             "x": 73,
             "y": 12,
             "rating": 6.9
@@ -323,7 +323,7 @@
             "name": "Daichi Kamada",
             "short": "Kamada",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/621515.png.jpg",
             "x": 63,
             "y": 70,
             "rating": 7.2
@@ -333,7 +333,7 @@
             "name": "Yéremy Pino",
             "short": "Pino",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/yeremy-pino.jpg",
             "x": 63,
             "y": 30,
             "rating": 7.2
@@ -343,7 +343,7 @@
             "name": "Jørgen Strand Larsen",
             "short": "Larsen",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/821100.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.9
@@ -355,7 +355,7 @@
             "name": "Dwight McNeil",
             "short": "McNeil",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/939542.png.jpg",
             "rating": 6.5
           },
           {
@@ -363,7 +363,7 @@
             "name": "Jefferson Lerma",
             "short": "Lerma",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/466672.png.jpg",
             "rating": 6.5
           },
           {
@@ -371,7 +371,7 @@
             "name": "Jean-Philippe Mateta",
             "short": "Mateta",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/706297.png.jpg",
             "rating": 6.7
           },
           {
@@ -379,7 +379,7 @@
             "name": "Eddie Nketiah",
             "short": "Nketiah",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/860920.png.jpg",
             "rating": 6.4
           },
           {
@@ -387,7 +387,7 @@
             "name": "Will Hughes",
             "short": "Hughes",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/295067.png.jpg",
             "rating": 7.1
           },
           {
@@ -395,7 +395,7 @@
             "name": "Ismaïla Sarr",
             "short": "Sarr",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/771294.png.jpg",
             "rating": null
           },
           {
@@ -403,7 +403,7 @@
             "name": "Remi Matthews",
             "short": "Matthews",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/remi-matthews.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "Óscar Mingueza",
             "short": "Mingueza",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/952095.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Darío Osorio",
             "short": "Osorio",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1329007.png.jpg",
             "rating": null
           }
         ]
@@ -435,7 +435,7 @@
           "name": "Jaydee Canvot",
           "short": "Canvot",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1664722.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -452,7 +452,7 @@
           "name": "Diego Gómez",
           "short": "Gómez",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1354561.png.jpg"
         },
         "scoreAfter": "2 - 0",
         "penalty": false,
@@ -461,7 +461,7 @@
           "name": "Olivier Boscagli",
           "short": "Boscagli",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/613715.png.jpg"
         },
         "goalType": "counter",
         "description": "Diego Gómez caught Palace off guard with an audacious right-footed strike from around the halfway line into the high centre of the goal, the move started by Olivier Boscagli."
@@ -475,7 +475,7 @@
           "name": "Yasin Ayari",
           "short": "Ayari",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1168311.png.jpg"
         },
         "scoreAfter": "3 - 0",
         "penalty": false,
@@ -484,7 +484,7 @@
           "name": "Charalambos Kostoulas",
           "short": "Kostoulas",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1561249.png.jpg"
         },
         "goalType": "build",
         "description": "Yasin Ayari made it 3-0 inside 10 minutes with a right-footed finish from the centre of the box into the bottom left corner, set up by Charalambos Kostoulas."
@@ -498,7 +498,7 @@
           "name": "Pascal Gross",
           "short": "Gross",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/167008.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -511,14 +511,14 @@
           "name": "Dwight McNeil",
           "short": "McNeil",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/939542.png.jpg"
         },
         "replaced": {
           "id": "quinten-timber-brighton-c-palace-2026-10-18",
           "name": "Quinten Timber",
           "short": "Timber",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/970563.png.jpg"
         }
       },
       {
@@ -530,7 +530,7 @@
           "name": "Charalambos Kostoulas",
           "short": "Kostoulas",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1561249.png.jpg"
         },
         "scoreAfter": "4 - 0",
         "penalty": false,
@@ -547,7 +547,7 @@
           "name": "Charalambos Kostoulas",
           "short": "Kostoulas",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1561249.png.jpg"
         },
         "detail": "Goal checked for handball; confirmed following VAR review."
       },
@@ -560,7 +560,7 @@
           "name": "Daichi Kamada",
           "short": "Kamada",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/621515.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -573,14 +573,14 @@
           "name": "Jefferson Lerma",
           "short": "Lerma",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/466672.png.jpg"
         },
         "replaced": {
           "id": "honest-ahanor-brighton-c-palace-2026-10-18",
           "name": "Honest Ahanor",
           "short": "Ahanor",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1669629.png.jpg"
         }
       },
       {
@@ -592,14 +592,14 @@
           "name": "Jean-Philippe Mateta",
           "short": "Mateta",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/706297.png.jpg"
         },
         "replaced": {
           "id": "jrgen-strand-larsen-brighton-c-palace-2026-10-18",
           "name": "Jørgen Strand Larsen",
           "short": "Larsen",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/821100.png.jpg"
         }
       },
       {
@@ -611,14 +611,14 @@
           "name": "Eddie Nketiah",
           "short": "Nketiah",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/860920.png.jpg"
         },
         "replaced": {
           "id": "yeremy-pino-brighton-c-palace-2026-10-18",
           "name": "Yéremy Pino",
           "short": "Pino",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/yeremy-pino.jpg"
         }
       },
       {
@@ -630,7 +630,7 @@
           "name": "Chema Andrés",
           "short": "Andrés",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1586552.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -643,14 +643,14 @@
           "name": "Jack Hinshelwood",
           "short": "Hinshelwood",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1251334.png.jpg"
         },
         "replaced": {
           "id": "pascal-gross",
           "name": "Pascal Gross",
           "short": "Gross",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/167008.png.jpg"
         }
       },
       {
@@ -662,14 +662,14 @@
           "name": "Georginio Rutter",
           "short": "Rutter",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/956925.png.jpg"
         },
         "replaced": {
           "id": "charalambos-kostoulas",
           "name": "Charalambos Kostoulas",
           "short": "Kostoulas",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1561249.png.jpg"
         }
       },
       {
@@ -681,14 +681,14 @@
           "name": "Will Hughes",
           "short": "Hughes",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/295067.png.jpg"
         },
         "replaced": {
           "id": "daichi-kamada-brighton-c-palace-2026-10-18",
           "name": "Daichi Kamada",
           "short": "Kamada",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/621515.png.jpg"
         }
       },
       {
@@ -700,14 +700,14 @@
           "name": "Jaouen Hadjam",
           "short": "Hadjam",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1178324.png.jpg"
         },
         "replaced": {
           "id": "olivier-boscagli",
           "name": "Olivier Boscagli",
           "short": "Boscagli",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/613715.png.jpg"
         }
       },
       {
@@ -719,14 +719,14 @@
           "name": "Malick Yalcouyé",
           "short": "Yalcouyé",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1602352.png.jpg"
         },
         "replaced": {
           "id": "yasin-ayari",
           "name": "Yasin Ayari",
           "short": "Ayari",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1168311.png.jpg"
         }
       },
       {
@@ -738,7 +738,7 @@
           "name": "Jack Hinshelwood",
           "short": "Hinshelwood",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1251334.png.jpg"
         },
         "scoreAfter": "5 - 0",
         "penalty": false,
@@ -755,14 +755,14 @@
           "name": "Michael Svoboda",
           "short": "Svoboda",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/951921.png.jpg"
         },
         "replaced": {
           "id": "lewis-dunk",
           "name": "Lewis Dunk",
           "short": "Dunk",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/201690.png.jpg"
         }
       }
     ],

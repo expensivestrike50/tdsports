@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "la-galaxy-san-diego-2026-10-17",
     "date": "2026-10-17",
@@ -39,7 +39,7 @@
           "name": "Greg Vanney",
           "short": "Vanney",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30387.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "JT Marcinkowski",
             "short": "Marcinkowski",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/847987.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.5
@@ -57,7 +57,7 @@
             "name": "John Nelson",
             "short": "Nelson",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1026048.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.9
@@ -67,7 +67,7 @@
             "name": "Carlos Garcés",
             "short": "Garcés",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/424444.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 7.2
@@ -77,7 +77,7 @@
             "name": "Justin Haak",
             "short": "Haak",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1026144.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.1
@@ -87,7 +87,7 @@
             "name": "Harbor Miller",
             "short": "Miller",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1683714.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.4
@@ -97,7 +97,7 @@
             "name": "Sergi Roberto",
             "short": "Roberto",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/212472.png.jpg",
             "x": 32,
             "y": 23,
             "rating": 7.4
@@ -107,7 +107,7 @@
             "name": "Marco Reus",
             "short": "Reus",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/129944.png.jpg",
             "x": 32,
             "y": 50,
             "rating": 6.7
@@ -117,7 +117,7 @@
             "name": "Pablo Ruiz",
             "short": "Ruiz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/866068.png.jpg",
             "x": 32,
             "y": 78,
             "rating": 7.4
@@ -127,7 +127,7 @@
             "name": "Erik Thommy",
             "short": "Thommy",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/519093.png.jpg",
             "x": 46,
             "y": 23,
             "rating": 7.3
@@ -137,7 +137,7 @@
             "name": "João Klauss",
             "short": "Klauss",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/839021.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7.8
@@ -147,7 +147,7 @@
             "name": "Robert Taylor",
             "short": "Taylor",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/448543.png.jpg",
             "x": 46,
             "y": 78,
             "rating": 6.4
@@ -159,7 +159,7 @@
             "name": "Joseph Paintsil",
             "short": "Paintsil",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/850924.png.jpg",
             "rating": 7.4
           },
           {
@@ -167,7 +167,7 @@
             "name": "Jakob Glesnes",
             "short": "Glesnes",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/259484.png.jpg",
             "rating": 6.3
           },
           {
@@ -175,7 +175,7 @@
             "name": "Lucas Sanabria",
             "short": "Sanabria",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1609838.png.jpg",
             "rating": 6.3
           },
           {
@@ -183,7 +183,7 @@
             "name": "Calegari",
             "short": "Calegari",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1070331.png.jpg",
             "rating": 6.3
           },
           {
@@ -191,7 +191,7 @@
             "name": "Elijah Wynder",
             "short": "Wynder",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/elijah-wynder.jpg",
             "rating": null
           },
           {
@@ -199,7 +199,7 @@
             "name": "Troy Elgersma",
             "short": "Elgersma",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1922451.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Novak Micovic",
             "short": "Micovic",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1068655.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Julián Aude",
             "short": "Aude",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1200661.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Maya Yoshida",
             "short": "Yoshida",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/72665.png.jpg",
             "rating": null
           }
         ]
@@ -235,7 +235,7 @@
           "name": "Mikey Varas",
           "short": "Varas",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1481472.png.jpg"
         },
         "starting": [
           {
@@ -243,7 +243,7 @@
             "name": "Pablo Sisniega",
             "short": "Sisniega",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/678241.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7
@@ -253,7 +253,7 @@
             "name": "Kieran Sargeant",
             "short": "Sargeant",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1613512.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 7.1
@@ -263,7 +263,7 @@
             "name": "Manu Duah",
             "short": "Duah",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/manu-duah.jpg",
             "x": 82,
             "y": 62,
             "rating": 6.3
@@ -273,7 +273,7 @@
             "name": "Christopher McVey",
             "short": "McVey",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/885504.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 6.4
@@ -283,7 +283,7 @@
             "name": "Oscar Verhoeven",
             "short": "Verhoeven",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1510858.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 6.2
@@ -293,7 +293,7 @@
             "name": "Gabriel Pirani",
             "short": "Pirani",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1202616.png.jpg",
             "x": 68,
             "y": 77,
             "rating": 7.1
@@ -303,7 +303,7 @@
             "name": "Aníbal Godoy",
             "short": "Godoy",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/308131.png.jpg",
             "x": 68,
             "y": 50,
             "rating": 6.6
@@ -323,7 +323,7 @@
             "name": "Elias Achouri",
             "short": "Achouri",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1015128.png.jpg",
             "x": 54,
             "y": 77,
             "rating": 7.2
@@ -333,7 +333,7 @@
             "name": "Cédric Bakambu",
             "short": "Bakambu",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/201939.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 7.4
@@ -343,7 +343,7 @@
             "name": "Anders Dreyer",
             "short": "Dreyer",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/641344.png.jpg",
             "x": 54,
             "y": 22,
             "rating": 7.2
@@ -355,7 +355,7 @@
             "name": "Jeppe Tverskov",
             "short": "Tverskov",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/435493.png.jpg",
             "rating": 7.1
           },
           {
@@ -363,7 +363,7 @@
             "name": "Marcus Ingvartsen",
             "short": "Ingvartsen",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/443733.png.jpg",
             "rating": 6.3
           },
           {
@@ -371,7 +371,7 @@
             "name": "Onni Valakari",
             "short": "Valakari",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/835948.png.jpg",
             "rating": 6.2
           },
           {
@@ -379,7 +379,7 @@
             "name": "Dagur Thórhallsson",
             "short": "Thórhallsson",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/937015.png.jpg",
             "rating": 7.1
           },
           {
@@ -387,7 +387,7 @@
             "name": "Amahl Pellegrino",
             "short": "Pellegrino",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/313121.png.jpg",
             "rating": 7.2
           },
           {
@@ -395,7 +395,7 @@
             "name": "Ian Pilcher",
             "short": "Pilcher",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1721726.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
           "name": "João Klauss",
           "short": "Klauss",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/839021.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -444,7 +444,7 @@
           "name": "Sergi Roberto",
           "short": "Roberto",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/212472.png.jpg"
         },
         "goalType": "counter",
         "description": "João Klauss right footed shot from outside the box to the bottom right corner. Assisted by Sergi Roberto following a fast break."
@@ -458,7 +458,7 @@
           "name": "Anders Dreyer",
           "short": "Dreyer",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/641344.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": true,
@@ -475,7 +475,7 @@
           "name": "João Klauss",
           "short": "Klauss",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/839021.png.jpg"
         },
         "detail": "Goal ruled out after VAR review"
       },
@@ -488,7 +488,7 @@
           "name": "Erik Thommy",
           "short": "Thommy",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/519093.png.jpg"
         },
         "scoreAfter": "2 - 1",
         "penalty": false,
@@ -497,7 +497,7 @@
           "name": "Harbor Miller",
           "short": "Miller",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1683714.png.jpg"
         },
         "goalType": "build",
         "description": "Erik Thommy right footed shot from the centre of the box to the bottom left corner. Assisted by Harbor Tarczynski-Miller with a cross."
@@ -511,7 +511,7 @@
           "name": "Aníbal Godoy",
           "short": "Godoy",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/308131.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -524,7 +524,7 @@
           "name": "Gabriel Pirani",
           "short": "Pirani",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1202616.png.jpg"
         },
         "scoreAfter": "2 - 2",
         "penalty": false,
@@ -541,7 +541,7 @@
           "name": "João Klauss",
           "short": "Klauss",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/839021.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -554,14 +554,14 @@
           "name": "Joseph Paintsil",
           "short": "Paintsil",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/850924.png.jpg"
         },
         "replaced": {
           "id": "robert-taylor",
           "name": "Robert Taylor",
           "short": "Taylor",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/448543.png.jpg"
         }
       },
       {
@@ -573,14 +573,14 @@
           "name": "Jakob Glesnes",
           "short": "Glesnes",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/259484.png.jpg"
         },
         "replaced": {
           "id": "carlos-garces",
           "name": "Carlos Garcés",
           "short": "Garcés",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/424444.png.jpg"
         }
       },
       {
@@ -592,7 +592,7 @@
           "name": "Jeppe Tverskov",
           "short": "Tverskov",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/435493.png.jpg"
         },
         "replaced": {
           "id": "alejandro-alvarado-jr",
@@ -611,14 +611,14 @@
           "name": "Marcus Ingvartsen",
           "short": "Ingvartsen",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/443733.png.jpg"
         },
         "replaced": {
           "id": "cedric-bakambu",
           "name": "Cédric Bakambu",
           "short": "Bakambu",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/201939.png.jpg"
         }
       },
       {
@@ -630,14 +630,14 @@
           "name": "Lucas Sanabria",
           "short": "Sanabria",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1609838.png.jpg"
         },
         "replaced": {
           "id": "sergi-roberto",
           "name": "Sergi Roberto",
           "short": "Roberto",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/212472.png.jpg"
         }
       },
       {
@@ -649,14 +649,14 @@
           "name": "Onni Valakari",
           "short": "Valakari",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/835948.png.jpg"
         },
         "replaced": {
           "id": "gabriel-pirani",
           "name": "Gabriel Pirani",
           "short": "Pirani",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1202616.png.jpg"
         }
       },
       {
@@ -668,14 +668,14 @@
           "name": "Calegari",
           "short": "Calegari",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1070331.png.jpg"
         },
         "replaced": {
           "id": "harbor-miller",
           "name": "Harbor Miller",
           "short": "Miller",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1683714.png.jpg"
         }
       },
       {
@@ -687,14 +687,14 @@
           "name": "Dagur Thórhallsson",
           "short": "Thórhallsson",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/937015.png.jpg"
         },
         "replaced": {
           "id": "kieran-sargeant",
           "name": "Kieran Sargeant",
           "short": "Sargeant",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1613512.png.jpg"
         }
       },
       {
@@ -706,14 +706,14 @@
           "name": "Amahl Pellegrino",
           "short": "Pellegrino",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/313121.png.jpg"
         },
         "replaced": {
           "id": "elias-achouri",
           "name": "Elias Achouri",
           "short": "Achouri",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1015128.png.jpg"
         }
       },
       {
@@ -725,7 +725,7 @@
           "name": "Marco Reus",
           "short": "Reus",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/129944.png.jpg"
         },
         "detail": "not specified"
       }

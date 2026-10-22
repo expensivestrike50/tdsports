@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "manuel-capasso",
     "name": "Manuel Capasso",
     "short": "Capasso",
     "position": "CM",
-    "photo": null,
+    "photo": "assets/photos/people/manuel-capasso.jpg",
     "matches": [
       {
         "match": "atlas-club-america-2026-10-21",

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "matias-almeyda",
     "name": "Matías Almeyda",
     "short": "Almeyda",
     "position": "Coach",
-    "photo": null,
+    "photo": "assets/photos/people/matias-almeyda.jpg",
     "matches": [
       {
         "match": "puebla-monterrey-2026-10-21",

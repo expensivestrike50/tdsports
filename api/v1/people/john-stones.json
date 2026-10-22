@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "john-stones",
     "name": "John Stones",
     "short": "Stones",
     "position": "CB",
-    "photo": null,
+    "photo": "assets/photos/people/john-stones.jpg",
     "matches": [
       {
         "match": "norway-england-2026-07-11",

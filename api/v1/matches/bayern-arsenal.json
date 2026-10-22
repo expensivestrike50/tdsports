@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "bayern-arsenal",
     "date": "2026-10-21",
@@ -107,7 +107,7 @@
             "name": "Tom Bischof",
             "short": "Bischof",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1286183.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 6.1
@@ -175,7 +175,7 @@
             "name": "Lennart Karl",
             "short": "Karl",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1737700.png.jpg",
             "rating": 7
           },
           {
@@ -207,7 +207,7 @@
             "name": "Tim Binder",
             "short": "Binder",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1740666.png.jpg",
             "rating": null
           },
           {
@@ -610,7 +610,7 @@
           "name": "Lennart Karl",
           "short": "Karl",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1737700.png.jpg"
         },
         "replaced": {
           "id": "serge-gnabry",

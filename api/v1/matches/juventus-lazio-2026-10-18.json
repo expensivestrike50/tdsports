@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "juventus-lazio-2026-10-18",
     "date": "2026-10-18",
@@ -39,7 +39,7 @@
           "name": "Luciano Spalletti",
           "short": "Spalletti",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/78584.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Guglielmo Vicario",
             "short": "Vicario",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/538501.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.8
@@ -57,7 +57,7 @@
             "name": "Zeki Çelik",
             "short": "Çelik",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/867225.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 7.2
@@ -67,7 +67,7 @@
             "name": "Jhon Lucumí",
             "short": "Lucumí",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/860913.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.3
@@ -77,7 +77,7 @@
             "name": "Bremer",
             "short": "Bremer",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/857269.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 7.2
@@ -87,7 +87,7 @@
             "name": "Pierre Kalulu",
             "short": "Kalulu",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/pierre-kalulu.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.3
@@ -97,7 +97,7 @@
             "name": "Pape Matar Sarr",
             "short": "Sarr",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1107280.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 6.7
@@ -107,7 +107,7 @@
             "name": "Douglas Luiz",
             "short": "Luiz",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/787350.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 7.1
@@ -117,7 +117,7 @@
             "name": "Kerim Alajbegovic",
             "short": "Alajbegovic",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1684401.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 6.8
@@ -127,7 +127,7 @@
             "name": "Weston McKennie",
             "short": "McKennie",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/848266.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 6.8
@@ -137,7 +137,7 @@
             "name": "Nico González",
             "short": "González",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280132.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 7.5
@@ -147,7 +147,7 @@
             "name": "Randal Kolo Muani",
             "short": "Kolo Muani",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/823825.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 6.3
@@ -159,7 +159,7 @@
             "name": "Nick Woltemade",
             "short": "Woltemade",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1106563.png.jpg",
             "rating": 7.1
           },
           {
@@ -167,7 +167,7 @@
             "name": "Francisco Conceição",
             "short": "Conceição",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1185336.png.jpg",
             "rating": 7
           },
           {
@@ -175,7 +175,7 @@
             "name": "Edon Zhegrova",
             "short": "Zhegrova",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/862616.png.jpg",
             "rating": 6.5
           },
           {
@@ -183,7 +183,7 @@
             "name": "Andrea Cambiaso",
             "short": "Cambiaso",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1078846.png.jpg",
             "rating": 7.3
           },
           {
@@ -191,7 +191,7 @@
             "name": "Jérémie Boga",
             "short": "Boga",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/643229.png.jpg",
             "rating": 7.4
           },
           {
@@ -199,7 +199,7 @@
             "name": "Daniele Rugani",
             "short": "Rugani",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/358155.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Carlo Pinsoglio",
             "short": "Pinsoglio",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/196074.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Lloyd Kelly",
             "short": "Kelly",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/819215.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Neto",
             "short": "Neto",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/176186.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Federico Gatti",
             "short": "Gatti",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1189288.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Teun Koopmeiners",
             "short": "Koopmeiners",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/866516.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Juan Cabal",
             "short": "Cabal",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1083562.png.jpg",
             "rating": null
           }
         ]
@@ -259,7 +259,7 @@
           "name": "Gennaro Gattuso",
           "short": "Gattuso",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30721.png.jpg"
         },
         "starting": [
           {
@@ -267,7 +267,7 @@
             "name": "Christos Mandas",
             "short": "Mandas",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/915156.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.8
@@ -277,7 +277,7 @@
             "name": "Nuno Tavares",
             "short": "Tavares",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/957118.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 7
@@ -287,7 +287,7 @@
             "name": "Oliver Provstgaard",
             "short": "Provstgaard",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1333331.png.jpg",
             "x": 82,
             "y": 62,
             "rating": 7.7
@@ -297,7 +297,7 @@
             "name": "Josip Sutalo",
             "short": "Sutalo",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1186228.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 6.4
@@ -307,7 +307,7 @@
             "name": "Romano Floriani",
             "short": "Floriani",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1307957.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 7.7
@@ -317,7 +317,7 @@
             "name": "Kenneth Taylor",
             "short": "Taylor",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/970565.png.jpg",
             "x": 68,
             "y": 77,
             "rating": 6.5
@@ -327,7 +327,7 @@
             "name": "Reda Belahyane",
             "short": "Belahyane",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1388071.png.jpg",
             "x": 68,
             "y": 50,
             "rating": 6.6
@@ -337,7 +337,7 @@
             "name": "Davide Frattesi",
             "short": "Frattesi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/815431.png.jpg",
             "x": 68,
             "y": 22,
             "rating": 7.5
@@ -347,7 +347,7 @@
             "name": "Mattia Zaccagni",
             "short": "Zaccagni",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/541555.png.jpg",
             "x": 54,
             "y": 77,
             "rating": 8
@@ -357,7 +357,7 @@
             "name": "Tijjani Noslin",
             "short": "Noslin",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1282285.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.3
@@ -367,7 +367,7 @@
             "name": "Gustav Isaksen",
             "short": "Isaksen",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1016093.png.jpg",
             "x": 54,
             "y": 22,
             "rating": 8.3
@@ -379,7 +379,7 @@
             "name": "Fisayo Dele-Bashiru",
             "short": "Dele-Bashiru",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1091907.png.jpg",
             "rating": 7.5
           },
           {
@@ -387,7 +387,7 @@
             "name": "Andrea Pinamonti",
             "short": "Pinamonti",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/750030.png.jpg",
             "rating": 8.1
           },
           {
@@ -395,7 +395,7 @@
             "name": "Manuel Lazzari",
             "short": "Lazzari",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/662205.png.jpg",
             "rating": 6.8
           },
           {
@@ -403,7 +403,7 @@
             "name": "Alfonso Pedraza",
             "short": "Pedraza",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/629594.png.jpg",
             "rating": 6.4
           },
           {
@@ -411,7 +411,7 @@
             "name": "Adrian Przyborek",
             "short": "Przyborek",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1435833.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Davide Renzetti",
             "short": "Renzetti",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1444195.png.jpg",
             "rating": null
           },
           {
@@ -427,7 +427,7 @@
             "name": "Diogo Leite",
             "short": "Leite",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/824635.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Luca Pellegrini",
             "short": "Pellegrini",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/807148.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Danilo Cataldi",
             "short": "Cataldi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/362120.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Edoardo Motta",
             "short": "Motta",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1621082.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Valerio Farcomeni",
             "short": "Farcomeni",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1816668.png.jpg",
             "rating": null
           },
           {
@@ -467,7 +467,7 @@
             "name": "Federico Serra",
             "short": "Serra",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1711283.png.jpg",
             "rating": null
           },
           {
@@ -475,7 +475,7 @@
             "name": "Danilho Doekhi",
             "short": "Doekhi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/danilho-doekhi.jpg",
             "rating": null
           }
         ]
@@ -491,7 +491,7 @@
           "name": "Oliver Provstgaard",
           "short": "Provstgaard",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1333331.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": false,
@@ -500,7 +500,7 @@
           "name": "Mattia Zaccagni",
           "short": "Zaccagni",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/541555.png.jpg"
         },
         "goalType": "set",
         "description": "Oliver Provstgaard header from the centre of the box to the bottom right corner. Assisted by Mattia Zaccagni with a cross following a corner."
@@ -514,7 +514,7 @@
           "name": "Kenneth Taylor",
           "short": "Taylor",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/970565.png.jpg"
         },
         "detail": "Unspecified"
       },
@@ -527,14 +527,14 @@
           "name": "Nick Woltemade",
           "short": "Woltemade",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1106563.png.jpg"
         },
         "replaced": {
           "id": "kerim-alajbegovic-juventus-lazio-2026-10-18",
           "name": "Kerim Alajbegovic",
           "short": "Alajbegovic",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1684401.png.jpg"
         }
       },
       {
@@ -546,7 +546,7 @@
           "name": "Mattia Zaccagni",
           "short": "Zaccagni",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/541555.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -559,7 +559,7 @@
           "name": "Gustav Isaksen",
           "short": "Isaksen",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1016093.png.jpg"
         },
         "scoreAfter": "0 - 2",
         "penalty": false,
@@ -568,7 +568,7 @@
           "name": "Nuno Tavares",
           "short": "Tavares",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/957118.png.jpg"
         },
         "goalType": "build",
         "description": "Gustav Isaksen left footed shot from the right side of the box to the bottom left corner. Assisted by Nuno Tavares."
@@ -582,14 +582,14 @@
           "name": "Francisco Conceição",
           "short": "Conceição",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1185336.png.jpg"
         },
         "replaced": {
           "id": "douglas-luiz-juventus-lazio-2026-10-18",
           "name": "Douglas Luiz",
           "short": "Luiz",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/787350.png.jpg"
         }
       },
       {
@@ -601,14 +601,14 @@
           "name": "Edon Zhegrova",
           "short": "Zhegrova",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/862616.png.jpg"
         },
         "replaced": {
           "id": "nico-gonzalez-juventus-lazio-2026-10-18",
           "name": "Nico González",
           "short": "González",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280132.png.jpg"
         }
       },
       {
@@ -620,14 +620,14 @@
           "name": "Fisayo Dele-Bashiru",
           "short": "Dele-Bashiru",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1091907.png.jpg"
         },
         "replaced": {
           "id": "kenneth-taylor",
           "name": "Kenneth Taylor",
           "short": "Taylor",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/970565.png.jpg"
         }
       },
       {
@@ -639,14 +639,14 @@
           "name": "Andrea Pinamonti",
           "short": "Pinamonti",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/750030.png.jpg"
         },
         "replaced": {
           "id": "tijjani-noslin",
           "name": "Tijjani Noslin",
           "short": "Noslin",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1282285.png.jpg"
         }
       },
       {
@@ -658,14 +658,14 @@
           "name": "Andrea Cambiaso",
           "short": "Cambiaso",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1078846.png.jpg"
         },
         "replaced": {
           "id": "zeki-celik-juventus-lazio-2026-10-18",
           "name": "Zeki Çelik",
           "short": "Çelik",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/867225.png.jpg"
         }
       },
       {
@@ -677,14 +677,14 @@
           "name": "Manuel Lazzari",
           "short": "Lazzari",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/662205.png.jpg"
         },
         "replaced": {
           "id": "gustav-isaksen",
           "name": "Gustav Isaksen",
           "short": "Isaksen",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1016093.png.jpg"
         }
       },
       {
@@ -696,14 +696,14 @@
           "name": "Alfonso Pedraza",
           "short": "Pedraza",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/629594.png.jpg"
         },
         "replaced": {
           "id": "mattia-zaccagni",
           "name": "Mattia Zaccagni",
           "short": "Zaccagni",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/541555.png.jpg"
         }
       },
       {
@@ -715,14 +715,14 @@
           "name": "Jérémie Boga",
           "short": "Boga",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/643229.png.jpg"
         },
         "replaced": {
           "id": "pape-matar-sarr-juventus-lazio-2026-10-18",
           "name": "Pape Matar Sarr",
           "short": "Sarr",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1107280.png.jpg"
         }
       },
       {
@@ -734,7 +734,7 @@
           "name": "Fisayo Dele-Bashiru",
           "short": "Dele-Bashiru",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1091907.png.jpg"
         },
         "scoreAfter": "0 - 3",
         "penalty": false,
@@ -743,7 +743,7 @@
           "name": "Andrea Pinamonti",
           "short": "Pinamonti",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/750030.png.jpg"
         },
         "goalType": "counter",
         "description": "Fisayo Dele-Bashiru right footed shot from the right side of the box to the centre of the goal. Assisted by Andrea Pinamonti following a fast break."

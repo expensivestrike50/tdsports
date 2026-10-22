@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "rafael-nel",
     "name": "Rafael Nel",
     "short": "Nel",
     "position": "CM",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1525416.png.jpg",
     "matches": [
       {
         "match": "sporting-lask",

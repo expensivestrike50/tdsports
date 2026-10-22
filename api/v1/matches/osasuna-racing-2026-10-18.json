@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "osasuna-racing-2026-10-18",
     "date": "2026-10-18",
@@ -39,7 +39,7 @@
           "name": "Jagoba Arrasate",
           "short": "Arrasate",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/jagoba-arrasate.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Aitor Fernández",
             "short": "A. Fernández",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/213471.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.6
@@ -57,7 +57,7 @@
             "name": "Valentin Rosier",
             "short": "V. Rosier",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/valentin-rosier.jpg",
             "x": 18,
             "y": 12,
             "rating": 7.2
@@ -67,7 +67,7 @@
             "name": "Alejandro Catena",
             "short": "A. Catena",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/814663.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.4
@@ -87,7 +87,7 @@
             "name": "Abel Bretones",
             "short": "A. Bretones",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1323398.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.9
@@ -97,7 +97,7 @@
             "name": "Iker Muñoz",
             "short": "I. Muñoz",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1323863.png.jpg",
             "x": 32,
             "y": 23,
             "rating": 7
@@ -107,7 +107,7 @@
             "name": "Jon Moncayola",
             "short": "J. Moncayola",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/921825.png.jpg",
             "x": 32,
             "y": 50,
             "rating": 7.2
@@ -117,7 +117,7 @@
             "name": "Moi Gómez",
             "short": "Moi Gómez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/moi-gomez.jpg",
             "x": 32,
             "y": 78,
             "rating": 7.6
@@ -127,7 +127,7 @@
             "name": "Rubén García",
             "short": "R. García",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/384413.png.jpg",
             "x": 46,
             "y": 23,
             "rating": 6.5
@@ -137,7 +137,7 @@
             "name": "Ante Budimir",
             "short": "A. Budimir",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/251269.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 8
@@ -147,7 +147,7 @@
             "name": "Jonathan Dubasin",
             "short": "J. Dubasin",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1242139.png.jpg",
             "x": 46,
             "y": 78,
             "rating": 6.8
@@ -159,7 +159,7 @@
             "name": "Asier Osambela",
             "short": "Osambela",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1431121.png.jpg",
             "rating": 8.4
           },
           {
@@ -167,7 +167,7 @@
             "name": "Lucas Torró",
             "short": "Torró",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/303879.png.jpg",
             "rating": 6.9
           },
           {
@@ -175,7 +175,7 @@
             "name": "Raúl Moro",
             "short": "Moro",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1169596.png.jpg",
             "rating": 6.9
           },
           {
@@ -183,7 +183,7 @@
             "name": "Iñigo Arguibide",
             "short": "Arguibide",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1614872.png.jpg",
             "rating": 6.9
           },
           {
@@ -199,7 +199,7 @@
             "name": "Rafa Fernández",
             "short": "Fernández",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1762938.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Rockson Yeboah",
             "short": "Yeboah",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1603025.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Sergio Herrera",
             "short": "Herrera",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/683762.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Unai Santos",
             "short": "Santos",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1682298.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Mauro Echegoyen",
             "short": "Echegoyen",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1699317.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Enrique Barja",
             "short": "Barja",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/574624.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Diego Rico",
             "short": "Rico",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/488718.png.jpg",
             "rating": null
           }
         ]
@@ -267,7 +267,7 @@
             "name": "Julen Agirrezabala",
             "short": "J. Agirrezabala",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280020.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.1
@@ -277,7 +277,7 @@
             "name": "Alvaro Mantilla",
             "short": "A. Mantilla",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1199649.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 6.9
@@ -287,7 +287,7 @@
             "name": "Pablo Ramon",
             "short": "P. Ramon",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/982734.png.jpg",
             "x": 82,
             "y": 62,
             "rating": 7.5
@@ -297,7 +297,7 @@
             "name": "Jeanuël Belocian",
             "short": "J. Belocian",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/jeanuel-belocian.jpg",
             "x": 82,
             "y": 36,
             "rating": 6.6
@@ -307,7 +307,7 @@
             "name": "Jorge Salinas",
             "short": "J. Salinas",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1670161.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 6.4
@@ -317,7 +317,7 @@
             "name": "Iván Martín",
             "short": "I. Martín",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/967871.png.jpg",
             "x": 73,
             "y": 70,
             "rating": 6.3
@@ -327,7 +327,7 @@
             "name": "Matteo Prati",
             "short": "M. Prati",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1396089.png.jpg",
             "x": 73,
             "y": 30,
             "rating": 6.2
@@ -337,7 +337,7 @@
             "name": "Sergio Canales",
             "short": "S. Canales",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/150649.png.jpg",
             "x": 63,
             "y": 77,
             "rating": 6.5
@@ -347,7 +347,7 @@
             "name": "André Almeida",
             "short": "A. Almeida",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/777028.png.jpg",
             "x": 63,
             "y": 50,
             "rating": 7.1
@@ -357,7 +357,7 @@
             "name": "Iñigo Vicente",
             "short": "I. Vicente",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/889229.png.jpg",
             "x": 63,
             "y": 22,
             "rating": 6.7
@@ -367,7 +367,7 @@
             "name": "Yassir Zabiri",
             "short": "Y. Zabiri",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1640985.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 7.2
@@ -379,7 +379,7 @@
             "name": "Andrés Martín",
             "short": "Martín",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/899195.png.jpg",
             "rating": 6.6
           },
           {
@@ -395,7 +395,7 @@
             "name": "Asier Villalibre",
             "short": "Villalibre",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/670031.png.jpg",
             "rating": 6.2
           },
           {
@@ -403,7 +403,7 @@
             "name": "Giorgi Guliashvili",
             "short": "Guliashvili",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1065640.png.jpg",
             "rating": 6.4
           },
           {
@@ -411,7 +411,7 @@
             "name": "Laro Gómez",
             "short": "Gómez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1810878.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Íñigo Sainz",
             "short": "Sainz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1168852.png.jpg",
             "rating": null
           },
           {
@@ -427,7 +427,7 @@
             "name": "Iker Luque",
             "short": "Luque",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1586390.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Pedro Felipe",
             "short": "Felipe",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1644302.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Juan Carlos Arana",
             "short": "Arana",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1225417.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Maguette Gueye",
             "short": "Gueye",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1363232.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Facundo González",
             "short": "González",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1212179.png.jpg",
             "rating": null
           }
         ]
@@ -475,7 +475,7 @@
           "name": "Jonathan Dubasin",
           "short": "J. Dubasin",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1242139.png.jpg"
         },
         "detail": "Goal ruled out after VAR review"
       },
@@ -488,7 +488,7 @@
           "name": "Alvaro Mantilla",
           "short": "A. Mantilla",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1199649.png.jpg"
         },
         "detail": "Not specified"
       },
@@ -501,7 +501,7 @@
           "name": "Ante Budimir",
           "short": "A. Budimir",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/251269.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": true,
@@ -518,7 +518,7 @@
           "name": "Valentin Rosier",
           "short": "V. Rosier",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/valentin-rosier.jpg"
         },
         "detail": "Bad foul"
       },
@@ -531,14 +531,14 @@
           "name": "Andrés Martín",
           "short": "Martín",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/899195.png.jpg"
         },
         "replaced": {
           "id": "andre-almeida",
           "name": "André Almeida",
           "short": "A. Almeida",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/777028.png.jpg"
         }
       },
       {
@@ -550,7 +550,7 @@
           "name": "Jorge Salinas",
           "short": "J. Salinas",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1670161.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -563,7 +563,7 @@
           "name": "Ante Budimir",
           "short": "A. Budimir",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/251269.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -576,14 +576,14 @@
           "name": "Asier Osambela",
           "short": "Osambela",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1431121.png.jpg"
         },
         "replaced": {
           "id": "moi-gomez",
           "name": "Moi Gómez",
           "short": "Moi Gómez",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/moi-gomez.jpg"
         }
       },
       {
@@ -595,14 +595,14 @@
           "name": "Lucas Torró",
           "short": "Torró",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/303879.png.jpg"
         },
         "replaced": {
           "id": "iker-munoz",
           "name": "Iker Muñoz",
           "short": "I. Muñoz",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1323863.png.jpg"
         }
       },
       {
@@ -621,7 +621,7 @@
           "name": "Sergio Canales",
           "short": "S. Canales",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/150649.png.jpg"
         }
       },
       {
@@ -633,14 +633,14 @@
           "name": "Raúl Moro",
           "short": "Moro",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1169596.png.jpg"
         },
         "replaced": {
           "id": "jonathan-dubasin",
           "name": "Jonathan Dubasin",
           "short": "J. Dubasin",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1242139.png.jpg"
         }
       },
       {
@@ -652,14 +652,14 @@
           "name": "Iñigo Arguibide",
           "short": "Arguibide",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1614872.png.jpg"
         },
         "replaced": {
           "id": "valentin-rosier",
           "name": "Valentin Rosier",
           "short": "V. Rosier",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/valentin-rosier.jpg"
         }
       },
       {
@@ -671,7 +671,7 @@
           "name": "Iván Martín",
           "short": "I. Martín",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/967871.png.jpg"
         },
         "detail": "Handball"
       },
@@ -684,14 +684,14 @@
           "name": "Andrés Martín",
           "short": "Martín",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/899195.png.jpg"
         },
         "replaced": {
           "id": "jorge-salinas",
           "name": "Jorge Salinas",
           "short": "J. Salinas",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1670161.png.jpg"
         }
       },
       {
@@ -703,14 +703,14 @@
           "name": "Asier Villalibre",
           "short": "Villalibre",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/670031.png.jpg"
         },
         "replaced": {
           "id": "ivan-martin",
           "name": "Iván Martín",
           "short": "I. Martín",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/967871.png.jpg"
         }
       },
       {
@@ -722,7 +722,7 @@
           "name": "Asier Osambela",
           "short": "Osambela",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1431121.png.jpg"
         },
         "scoreAfter": "2 - 0",
         "penalty": false,
@@ -746,7 +746,7 @@
           "name": "Rubén García",
           "short": "R. García",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/384413.png.jpg"
         }
       },
       {
@@ -758,14 +758,14 @@
           "name": "Giorgi Guliashvili",
           "short": "Guliashvili",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1065640.png.jpg"
         },
         "replaced": {
           "id": "yassir-zabiri",
           "name": "Yassir Zabiri",
           "short": "Y. Zabiri",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1640985.png.jpg"
         }
       }
     ],

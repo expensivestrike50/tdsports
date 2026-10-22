@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "liverpool-villarreal",
     "date": "2026-10-20",
@@ -191,7 +191,7 @@
             "name": "James McConnell",
             "short": "McConnell",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1231075.png.jpg",
             "rating": 6.5
           },
           {
@@ -223,7 +223,7 @@
             "name": "Jayden Danns",
             "short": "Danns",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1416696.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Michael Laffey",
             "short": "Laffey",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1603811.png.jpg",
             "rating": null
           }
         ]
@@ -269,7 +269,7 @@
             "name": "Sergi Cardona",
             "short": "Cardona",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1059657.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 7.2
@@ -289,7 +289,7 @@
             "name": "Pau Navarro",
             "short": "Navarro",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1531887.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 7.4
@@ -299,7 +299,7 @@
             "name": "Santiago Mouriño",
             "short": "Mouriño",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1407468.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 6.1
@@ -329,7 +329,7 @@
             "name": "Alberto Moleiro",
             "short": "Moleiro",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1184694.png.jpg",
             "x": 63,
             "y": 77,
             "rating": 6.6
@@ -411,7 +411,7 @@
             "name": "Carlos Macià",
             "short": "Macià",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1841906.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Joselillo",
             "short": "Joselillo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1834473.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Alassane Diatta",
             "short": "Diatta",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1695966.png.jpg",
             "rating": null
           }
         ]
@@ -492,7 +492,7 @@
           "name": "Alberto Moleiro",
           "short": "Moleiro",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1184694.png.jpg"
         },
         "detail": "Foul"
       },
@@ -505,7 +505,7 @@
           "name": "Sergi Cardona",
           "short": "Cardona",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1059657.png.jpg"
         },
         "scoreAfter": "0 - 2",
         "penalty": false,
@@ -551,7 +551,7 @@
           "name": "Santiago Mouriño",
           "short": "Mouriño",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1407468.png.jpg"
         },
         "detail": "Foul"
       },
@@ -632,7 +632,7 @@
           "name": "Alberto Moleiro",
           "short": "Moleiro",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1184694.png.jpg"
         }
       },
       {
@@ -804,7 +804,7 @@
           "name": "James McConnell",
           "short": "McConnell",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1231075.png.jpg"
         },
         "replaced": {
           "id": "trey-nyoni",

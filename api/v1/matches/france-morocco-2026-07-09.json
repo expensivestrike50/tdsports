@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "france-morocco-2026-07-09",
     "date": "2026-07-09",
@@ -39,7 +39,7 @@
           "name": "Didier Deschamps",
           "short": "Deschamps",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/didier-deschamps.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Mike Maignan",
             "short": "Maignan",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/466439.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.7
@@ -67,7 +67,7 @@
             "name": "William Saliba",
             "short": "Saliba",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/955406.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 7.4
@@ -87,7 +87,7 @@
             "name": "Jules Koundé",
             "short": "Koundé",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/705450.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.7
@@ -97,7 +97,7 @@
             "name": "Adrien Rabiot",
             "short": "Rabiot",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/352879.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 6.4
@@ -107,7 +107,7 @@
             "name": "Manu Koné",
             "short": "Koné",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1016132.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 6.3
@@ -127,7 +127,7 @@
             "name": "Michael Olise",
             "short": "Olise",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029063.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 6.8
@@ -167,7 +167,7 @@
             "name": "Jean-Philippe Mateta",
             "short": "Mateta",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/706297.png.jpg",
             "rating": 7.4
           },
           {
@@ -183,7 +183,7 @@
             "name": "Malo Gusto",
             "short": "Gusto",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1197250.png.jpg",
             "rating": 6.7
           },
           {
@@ -191,7 +191,7 @@
             "name": "N'Golo Kanté",
             "short": "Kanté",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/319300.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Robin Risser",
             "short": "Risser",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1390336.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Theo Hernández",
             "short": "Hernández",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/724371.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Brice Samba",
             "short": "Samba",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/279714.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Maxence Lacroix",
             "short": "Lacroix",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950485.png.jpg",
             "rating": null
           },
           {
@@ -275,7 +275,7 @@
           "name": "Mohamed Ouahbi",
           "short": "Ouahbi",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1816954.png.jpg"
         },
         "starting": [
           {
@@ -283,7 +283,7 @@
             "name": "Yassine Bounou",
             "short": "Bounou",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/340020.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.7
@@ -293,7 +293,7 @@
             "name": "Anass Salah-Eddine",
             "short": "Salah-Eddine",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1050838.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 6.9
@@ -313,7 +313,7 @@
             "name": "Issa Diop",
             "short": "Diop",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/696443.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 6.5
@@ -353,7 +353,7 @@
             "name": "Chemsdine Talbi",
             "short": "Talbi",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1368654.png.jpg",
             "x": 63,
             "y": 77,
             "rating": 6.8
@@ -363,7 +363,7 @@
             "name": "Azzedine Ounahi",
             "short": "Ounahi",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1073143.png.jpg",
             "x": 63,
             "y": 50,
             "rating": 6.2
@@ -383,7 +383,7 @@
             "name": "Bilal El Khannouss",
             "short": "El Khannouss",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1340895.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.7
@@ -395,7 +395,7 @@
             "name": "Soufiane Rahimi",
             "short": "Rahimi",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/988749.png.jpg",
             "rating": 6.3
           },
           {
@@ -403,7 +403,7 @@
             "name": "Sofyan Amrabat",
             "short": "Amrabat",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/593116.png.jpg",
             "rating": 6.4
           },
           {
@@ -411,7 +411,7 @@
             "name": "Zakaria El Ouahdi",
             "short": "Ouahdi",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1287871.png.jpg",
             "rating": 6.5
           },
           {
@@ -419,7 +419,7 @@
             "name": "Gessime Yassine",
             "short": "Yassine",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1603755.png.jpg",
             "rating": 7
           },
           {
@@ -427,7 +427,7 @@
             "name": "Amine Sbaï",
             "short": "Sbaï",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1242587.png.jpg",
             "rating": 6.7
           },
           {
@@ -435,7 +435,7 @@
             "name": "Ahmed Reda Tagnaouti",
             "short": "Tagnaouti",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/885288.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Youssef Belammari",
             "short": "Belammari",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/909908.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Samir El Mourabet",
             "short": "Mourabet",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1598170.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Redouane Halhal",
             "short": "Halhal",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1298186.png.jpg",
             "rating": null
           },
           {
@@ -467,7 +467,7 @@
             "name": "Marwane Saadane",
             "short": "Saadane",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/614912.png.jpg",
             "rating": null
           },
           {
@@ -483,7 +483,7 @@
             "name": "Chadi Riad",
             "short": "Riad",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/chadi-riad.jpg",
             "rating": null
           },
           {
@@ -499,7 +499,7 @@
             "name": "Ayoube Amaimouni",
             "short": "Amaimouni",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1680173.png.jpg",
             "rating": null
           },
           {
@@ -507,7 +507,7 @@
             "name": "Ayoub El Kaabi",
             "short": "Kaabi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/884382.png.jpg",
             "rating": null
           }
         ]
@@ -546,14 +546,14 @@
           "name": "Soufiane Rahimi",
           "short": "Rahimi",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/988749.png.jpg"
         },
         "replaced": {
           "id": "bilal-el-khannouss-france-morocco-2026-07-09",
           "name": "Bilal El Khannouss",
           "short": "El Khannouss",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1340895.png.jpg"
         }
       },
       {
@@ -565,7 +565,7 @@
           "name": "Sofyan Amrabat",
           "short": "Amrabat",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/593116.png.jpg"
         },
         "replaced": {
           "id": "ayyoub-bouaddi-france-morocco-2026-07-09",
@@ -584,7 +584,7 @@
           "name": "Issa Diop",
           "short": "Diop",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/696443.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -627,7 +627,7 @@
           "name": "Manu Koné",
           "short": "Koné",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1016132.png.jpg"
         }
       },
       {
@@ -639,14 +639,14 @@
           "name": "Zakaria El Ouahdi",
           "short": "Ouahdi",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1287871.png.jpg"
         },
         "replaced": {
           "id": "anass-salah-eddine",
           "name": "Anass Salah-Eddine",
           "short": "Salah-Eddine",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1050838.png.jpg"
         }
       },
       {
@@ -658,7 +658,7 @@
           "name": "Gessime Yassine",
           "short": "Yassine",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1603755.png.jpg"
         },
         "replaced": {
           "id": "brahim-diaz-france-morocco-2026-07-09",
@@ -677,7 +677,7 @@
           "name": "Jean-Philippe Mateta",
           "short": "Mateta",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/706297.png.jpg"
         },
         "replaced": {
           "id": "kylian-mbappe-france-morocco-2026-07-09",
@@ -715,14 +715,14 @@
           "name": "Amine Sbaï",
           "short": "Sbaï",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1242587.png.jpg"
         },
         "replaced": {
           "id": "chemsdine-talbi-france-morocco-2026-07-09",
           "name": "Chemsdine Talbi",
           "short": "Talbi",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1368654.png.jpg"
         }
       },
       {
@@ -734,14 +734,14 @@
           "name": "Malo Gusto",
           "short": "Gusto",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1197250.png.jpg"
         },
         "replaced": {
           "id": "jules-kounde-france-morocco-2026-07-09",
           "name": "Jules Koundé",
           "short": "Koundé",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/705450.png.jpg"
         }
       }
     ],

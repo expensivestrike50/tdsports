@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "bournemouth-sunderland-2026-10-18",
     "date": "2026-10-18",
@@ -39,7 +39,7 @@
           "name": "Marco Rose",
           "short": "Rose",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/27493.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Djordje Petrovic",
             "short": "Petrovic",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1067256.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.8
@@ -57,7 +57,7 @@
             "name": "Adam Smith",
             "short": "Smith",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/160447.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.9
@@ -67,7 +67,7 @@
             "name": "James Hill",
             "short": "Hill",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/959407.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 7.3
@@ -77,7 +77,7 @@
             "name": "António Silva",
             "short": "Silva",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1292092.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 7.6
@@ -87,7 +87,7 @@
             "name": "Adrien Truffert",
             "short": "Truffert",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1177358.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.5
@@ -97,7 +97,7 @@
             "name": "Tyler Adams",
             "short": "Adams",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/729769.png.jpg",
             "x": 27,
             "y": 50,
             "rating": 6.3
@@ -117,7 +117,7 @@
             "name": "Ryan Christie",
             "short": "Christie",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/439369.png.jpg",
             "x": 37,
             "y": 38,
             "rating": 6.3
@@ -127,7 +127,7 @@
             "name": "Lewis Cook",
             "short": "Cook",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/562724.png.jpg",
             "x": 37,
             "y": 64,
             "rating": 6.8
@@ -137,7 +137,7 @@
             "name": "Marcus Tavernier",
             "short": "Tavernier",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789630.png.jpg",
             "x": 37,
             "y": 88,
             "rating": 7.4
@@ -147,7 +147,7 @@
             "name": "Evanilson",
             "short": "Evanilson",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1098096.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 9
@@ -159,7 +159,7 @@
             "name": "Justin Kluivert",
             "short": "Kluivert",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/794253.png.jpg",
             "rating": 7.4
           },
           {
@@ -167,7 +167,7 @@
             "name": "Álvaro Rodríguez",
             "short": "Rodríguez",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1327406.png.jpg",
             "rating": 7
           },
           {
@@ -175,7 +175,7 @@
             "name": "Amine Adli",
             "short": "Adli",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1079557.png.jpg",
             "rating": 6.7
           },
           {
@@ -183,7 +183,7 @@
             "name": "Bafodé Diakité",
             "short": "Diakité",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/979752.png.jpg",
             "rating": 6.8
           },
           {
@@ -191,7 +191,7 @@
             "name": "Ben Gannon-Doak",
             "short": "Gannon-Doak",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1324871.png.jpg",
             "rating": 6.8
           },
           {
@@ -199,7 +199,7 @@
             "name": "Juanlu Sanchez",
             "short": "Sanchez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1158512.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Michele Di Gregorio",
             "short": "Gregorio",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/766062.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "David Brooks",
             "short": "Brooks",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/674014.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Julio Soler",
             "short": "Soler",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1358655.png.jpg",
             "rating": null
           }
         ]
@@ -235,7 +235,7 @@
           "name": "Régis Le Bris",
           "short": "Bris",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1381583.png.jpg"
         },
         "starting": [
           {
@@ -243,7 +243,7 @@
             "name": "Robin Roefs",
             "short": "Roefs",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1125720.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.6
@@ -253,7 +253,7 @@
             "name": "Nordi Mukiele",
             "short": "Mukiele",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/602304.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 6.1
@@ -263,7 +263,7 @@
             "name": "Kevin Danso",
             "short": "Danso",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/kevin-danso.jpg",
             "x": 82,
             "y": 62,
             "rating": 5.5
@@ -273,7 +273,7 @@
             "name": "Omar Alderete",
             "short": "Alderete",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/omar-alderete.jpg",
             "x": 82,
             "y": 36,
             "rating": 6.6
@@ -293,7 +293,7 @@
             "name": "Granit Xhaka",
             "short": "Xhaka",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/207236.png.jpg",
             "x": 73,
             "y": 70,
             "rating": 7.1
@@ -303,7 +303,7 @@
             "name": "Noah Sadiki",
             "short": "Sadiki",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1359649.png.jpg",
             "x": 73,
             "y": 30,
             "rating": 6.5
@@ -313,7 +313,7 @@
             "name": "Trai Hume",
             "short": "Hume",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1067763.png.jpg",
             "x": 63,
             "y": 77,
             "rating": 7.4
@@ -323,7 +323,7 @@
             "name": "Chris Rigg",
             "short": "Rigg",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1327319.png.jpg",
             "x": 63,
             "y": 50,
             "rating": 6.4
@@ -333,7 +333,7 @@
             "name": "Enzo Le Fée",
             "short": "Le Fée",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1049999.png.jpg",
             "x": 63,
             "y": 22,
             "rating": 6.3
@@ -343,7 +343,7 @@
             "name": "Tymur Tutierov",
             "short": "Tutierov",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1421003.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.2
@@ -355,7 +355,7 @@
             "name": "Habib Diarra",
             "short": "Diarra",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1285866.png.jpg",
             "rating": 6.2
           },
           {
@@ -363,7 +363,7 @@
             "name": "Luke O'Nien",
             "short": "O'Nien",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/480253.png.jpg",
             "rating": 6.3
           },
           {
@@ -371,7 +371,7 @@
             "name": "Jules Ahoka",
             "short": "Ahoka",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1811265.png.jpg",
             "rating": 6.2
           },
           {
@@ -379,7 +379,7 @@
             "name": "Juan Angulo",
             "short": "Angulo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1829355.png.jpg",
             "rating": null
           },
           {
@@ -387,7 +387,7 @@
             "name": "Melker Ellborg",
             "short": "Ellborg",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/melker-ellborg.jpg",
             "rating": null
           },
           {
@@ -395,7 +395,7 @@
             "name": "Dayann Methalie",
             "short": "Methalie",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1664716.png.jpg",
             "rating": null
           },
           {
@@ -403,7 +403,7 @@
             "name": "Chemsdine Talbi",
             "short": "Talbi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1368654.png.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "Malick Fofana",
             "short": "Fofana",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1364069.png.jpg",
             "rating": null
           }
         ]
@@ -427,7 +427,7 @@
           "name": "Marcus Tavernier",
           "short": "Tavernier",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789630.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -436,7 +436,7 @@
           "name": "Evanilson",
           "short": "Evanilson",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1098096.png.jpg"
         },
         "goalType": "build",
         "description": "Evanilson nipped in after Kevin Danso and Omar Alderete failed to deal with a routine long ball and set up the unmarked Marcus Tavernier to head in from close range."
@@ -450,7 +450,7 @@
           "name": "Kevin Danso",
           "short": "Danso",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/kevin-danso.jpg"
         },
         "detail": "Denying an obvious goal-scoring opportunity (hauled down Evanilson when through on goal)"
       },
@@ -463,7 +463,7 @@
           "name": "António Silva",
           "short": "Silva",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1292092.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -476,7 +476,7 @@
           "name": "Omar Alderete",
           "short": "Alderete",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/omar-alderete.jpg"
         },
         "detail": "Bad foul"
       },
@@ -489,7 +489,7 @@
           "name": "Lewis Cook",
           "short": "Cook",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/562724.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -502,7 +502,7 @@
           "name": "Evanilson",
           "short": "Evanilson",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1098096.png.jpg"
         },
         "scoreAfter": "2 - 0",
         "penalty": false,
@@ -519,14 +519,14 @@
           "name": "Habib Diarra",
           "short": "Diarra",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1285866.png.jpg"
         },
         "replaced": {
           "id": "tymur-tutierov",
           "name": "Tymur Tutierov",
           "short": "Tutierov",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1421003.png.jpg"
         }
       },
       {
@@ -538,14 +538,14 @@
           "name": "Luke O'Nien",
           "short": "O'Nien",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/480253.png.jpg"
         },
         "replaced": {
           "id": "omar-alderete",
           "name": "Omar Alderete",
           "short": "Alderete",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/omar-alderete.jpg"
         }
       },
       {
@@ -557,14 +557,14 @@
           "name": "Justin Kluivert",
           "short": "Kluivert",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/794253.png.jpg"
         },
         "replaced": {
           "id": "lewis-cook-bournemouth-sunderland-2026-10-18",
           "name": "Lewis Cook",
           "short": "Cook",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/562724.png.jpg"
         }
       },
       {
@@ -576,14 +576,14 @@
           "name": "Jules Ahoka",
           "short": "Ahoka",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1811265.png.jpg"
         },
         "replaced": {
           "id": "chris-rigg",
           "name": "Chris Rigg",
           "short": "Rigg",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1327319.png.jpg"
         }
       },
       {
@@ -595,7 +595,7 @@
           "name": "Chris Rigg",
           "short": "Rigg",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1327319.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -608,14 +608,14 @@
           "name": "Álvaro Rodríguez",
           "short": "Rodríguez",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1327406.png.jpg"
         },
         "replaced": {
           "id": "evanilson-bournemouth-sunderland-2026-10-18",
           "name": "Evanilson",
           "short": "Evanilson",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1098096.png.jpg"
         }
       },
       {
@@ -627,14 +627,14 @@
           "name": "Amine Adli",
           "short": "Adli",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1079557.png.jpg"
         },
         "replaced": {
           "id": "marcus-tavernier-bournemouth-sunderland-2026-10-18",
           "name": "Marcus Tavernier",
           "short": "Tavernier",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789630.png.jpg"
         }
       },
       {
@@ -646,7 +646,7 @@
           "name": "Ryan Christie",
           "short": "Christie",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/439369.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -659,14 +659,14 @@
           "name": "Bafodé Diakité",
           "short": "Diakité",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/979752.png.jpg"
         },
         "replaced": {
           "id": "tyler-adams-bournemouth-sunderland-2026-10-18",
           "name": "Tyler Adams",
           "short": "Adams",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/729769.png.jpg"
         }
       },
       {
@@ -678,7 +678,7 @@
           "name": "Ben Gannon-Doak",
           "short": "Gannon-Doak",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1324871.png.jpg"
         },
         "replaced": {
           "id": "rayan-bournemouth-sunderland-2026-10-18",

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "dario-essugo",
     "name": "Dário Essugo",
     "short": "Essugo",
     "position": "DM",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1239595.png.jpg",
     "matches": [
       {
         "match": "strasbourg-psg-2026-10-17",

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "guillermo-almada",
     "name": "Guillermo Almada",
     "short": "Almada",
     "position": "Coach",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/430002.png.jpg",
     "matches": [
       {
         "match": "atlas-club-america-2026-10-21",

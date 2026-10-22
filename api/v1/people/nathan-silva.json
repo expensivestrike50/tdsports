@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "nathan-silva",
     "name": "Nathan Silva",
     "short": "Silva",
     "position": "CB",
-    "photo": null,
+    "photo": "assets/photos/people/nathan-silva.jpg",
     "matches": [
       {
         "match": "santos-unam-2026-10-21",

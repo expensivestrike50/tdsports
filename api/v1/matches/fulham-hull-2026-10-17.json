@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "fulham-hull-2026-10-17",
     "date": "2026-10-17",
@@ -39,7 +39,7 @@
           "name": "Álvaro Arbeloa",
           "short": "Arbeloa",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/37442.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Bernd Leno",
             "short": "Leno",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/215168.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.4
@@ -57,7 +57,7 @@
             "name": "Timothy Castagne",
             "short": "Castagne",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/465750.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 7
@@ -67,7 +67,7 @@
             "name": "David Affengruber",
             "short": "Affengruber",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1073980.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.7
@@ -77,7 +77,7 @@
             "name": "Calvin Bassey",
             "short": "Bassey",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/calvin-bassey.jpg",
             "x": 18,
             "y": 64,
             "rating": 7.6
@@ -87,7 +87,7 @@
             "name": "Antonee Robinson",
             "short": "Robinson",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/antonee-robinson.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.6
@@ -97,7 +97,7 @@
             "name": "Sander Berge",
             "short": "Berge",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540963.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 7.5
@@ -107,7 +107,7 @@
             "name": "Shea Charles",
             "short": "Charles",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281452.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 6.3
@@ -117,7 +117,7 @@
             "name": "Oscar Bobb",
             "short": "Bobb",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1113790.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 7.4
@@ -127,7 +127,7 @@
             "name": "Josh King",
             "short": "King",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1422593.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 7.2
@@ -137,7 +137,7 @@
             "name": "Alex Iwobi",
             "short": "Iwobi",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/604785.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 7.3
@@ -147,7 +147,7 @@
             "name": "Gonzalo García",
             "short": "García",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1413847.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7
@@ -159,7 +159,7 @@
             "name": "Ryan Sessegnon",
             "short": "Sessegnon",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/773991.png.jpg",
             "rating": 6
           },
           {
@@ -167,7 +167,7 @@
             "name": "Tom Cairney",
             "short": "Cairney",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/182962.png.jpg",
             "rating": 7
           },
           {
@@ -175,7 +175,7 @@
             "name": "César Palacios",
             "short": "Palacios",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1403691.png.jpg",
             "rating": 7.2
           },
           {
@@ -183,7 +183,7 @@
             "name": "Benjamin Lecomte",
             "short": "Lecomte",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/210114.png.jpg",
             "rating": null
           },
           {
@@ -191,7 +191,7 @@
             "name": "Manuel Ángel",
             "short": "Ángel",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1508427.png.jpg",
             "rating": null
           },
           {
@@ -199,7 +199,7 @@
             "name": "Joachim Andersen",
             "short": "Andersen",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/503659.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Kevin",
             "short": "Kevin",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1318400.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Rodrigo Muniz",
             "short": "Muniz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1128945.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Kenny Tete",
             "short": "Tete",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/469804.png.jpg",
             "rating": null
           }
         ]
@@ -235,7 +235,7 @@
           "name": "Sergej Jakirović",
           "short": "Jakirović",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/9012.png.jpg"
         },
         "starting": [
           {
@@ -243,7 +243,7 @@
             "name": "Konstantinos Tzolakis",
             "short": "Tzolakis",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/konstantinos-tzolakis.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.1
@@ -253,7 +253,7 @@
             "name": "Lewie Coyle",
             "short": "Coyle",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/lewie-coyle.jpg",
             "x": 82,
             "y": 92,
             "rating": 6.5
@@ -263,7 +263,7 @@
             "name": "Semi Ajayi",
             "short": "Ajayi",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/410836.png.jpg",
             "x": 82,
             "y": 71,
             "rating": 7.3
@@ -273,7 +273,7 @@
             "name": "John Egan",
             "short": "Egan",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/295062.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 7.2
@@ -283,7 +283,7 @@
             "name": "Lucas Herrington",
             "short": "Herrington",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1686118.png.jpg",
             "x": 82,
             "y": 29,
             "rating": 7.3
@@ -293,7 +293,7 @@
             "name": "Brooke Norton-Cuffy",
             "short": "Norton-Cuffy",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1214915.png.jpg",
             "x": 82,
             "y": 8,
             "rating": 6.9
@@ -303,7 +303,7 @@
             "name": "Mohamed Belloumi",
             "short": "Belloumi",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1231090.png.jpg",
             "x": 68,
             "y": 88,
             "rating": 7
@@ -313,7 +313,7 @@
             "name": "Matt Crooks",
             "short": "Crooks",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/280507.png.jpg",
             "x": 68,
             "y": 62,
             "rating": 6.2
@@ -323,7 +323,7 @@
             "name": "Regan Slater",
             "short": "Slater",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/807930.png.jpg",
             "x": 68,
             "y": 36,
             "rating": 7.2
@@ -333,7 +333,7 @@
             "name": "Sorba Thomas",
             "short": "Thomas",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/812982.png.jpg",
             "x": 68,
             "y": 12,
             "rating": 7.2
@@ -343,7 +343,7 @@
             "name": "Oliver McBurnie",
             "short": "McBurnie",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/509151.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 7.2
@@ -355,7 +355,7 @@
             "name": "Tim Iroegbunam",
             "short": "Iroegbunam",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1203512.png.jpg",
             "rating": 6.3
           },
           {
@@ -363,7 +363,7 @@
             "name": "Robinio Vaz",
             "short": "Vaz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1705134.png.jpg",
             "rating": 6.3
           },
           {
@@ -371,7 +371,7 @@
             "name": "Joe Gelhardt",
             "short": "Gelhardt",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/956161.png.jpg",
             "rating": 6.4
           },
           {
@@ -379,7 +379,7 @@
             "name": "Ryan Giles",
             "short": "Giles",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/933635.png.jpg",
             "rating": 6.1
           },
           {
@@ -387,7 +387,7 @@
             "name": "Hidemasa Morita",
             "short": "Morita",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/915102.png.jpg",
             "rating": 7.1
           },
           {
@@ -395,7 +395,7 @@
             "name": "Jens Hjerto Dahl",
             "short": "Dahl",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1377949.png.jpg",
             "rating": null
           },
           {
@@ -403,7 +403,7 @@
             "name": "Dillon Phillips",
             "short": "Phillips",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/dillon-phillips.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "Paddy McNair",
             "short": "McNair",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/575780.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Elliot Stroud",
             "short": "Stroud",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1272349.png.jpg",
             "rating": null
           }
         ]
@@ -435,7 +435,7 @@
           "name": "Lucas Herrington",
           "short": "Herrington",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1686118.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -448,7 +448,7 @@
           "name": "Josh King",
           "short": "King",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1422593.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -461,7 +461,7 @@
           "name": "Regan Slater",
           "short": "Slater",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/807930.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -474,7 +474,7 @@
           "name": "Alex Iwobi",
           "short": "Iwobi",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/604785.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -483,7 +483,7 @@
           "name": "Sander Berge",
           "short": "Berge",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540963.png.jpg"
         },
         "goalType": "build",
         "description": "Alex Iwobi finished a sweeping move with a right-footed shot from the centre of the box that trickled through goalkeeper Konstantinos Tzolakis' arms, assisted by Sander Berge."
@@ -497,14 +497,14 @@
           "name": "Tim Iroegbunam",
           "short": "Iroegbunam",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1203512.png.jpg"
         },
         "replaced": {
           "id": "lucas-herrington",
           "name": "Lucas Herrington",
           "short": "Herrington",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1686118.png.jpg"
         }
       },
       {
@@ -516,14 +516,14 @@
           "name": "Robinio Vaz",
           "short": "Vaz",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1705134.png.jpg"
         },
         "replaced": {
           "id": "matt-crooks",
           "name": "Matt Crooks",
           "short": "Crooks",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/280507.png.jpg"
         }
       },
       {
@@ -535,14 +535,14 @@
           "name": "Joe Gelhardt",
           "short": "Gelhardt",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/956161.png.jpg"
         },
         "replaced": {
           "id": "sorba-thomas",
           "name": "Sorba Thomas",
           "short": "Thomas",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/812982.png.jpg"
         }
       },
       {
@@ -554,14 +554,14 @@
           "name": "Ryan Giles",
           "short": "Giles",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/933635.png.jpg"
         },
         "replaced": {
           "id": "brooke-norton-cuffy",
           "name": "Brooke Norton-Cuffy",
           "short": "Norton-Cuffy",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1214915.png.jpg"
         }
       },
       {
@@ -573,14 +573,14 @@
           "name": "Hidemasa Morita",
           "short": "Morita",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/915102.png.jpg"
         },
         "replaced": {
           "id": "regan-slater",
           "name": "Regan Slater",
           "short": "Slater",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/807930.png.jpg"
         }
       },
       {
@@ -592,14 +592,14 @@
           "name": "Ryan Sessegnon",
           "short": "Sessegnon",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/773991.png.jpg"
         },
         "replaced": {
           "id": "josh-king",
           "name": "Josh King",
           "short": "King",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1422593.png.jpg"
         }
       },
       {
@@ -611,14 +611,14 @@
           "name": "Tom Cairney",
           "short": "Cairney",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/182962.png.jpg"
         },
         "replaced": {
           "id": "oscar-bobb",
           "name": "Oscar Bobb",
           "short": "Bobb",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1113790.png.jpg"
         }
       },
       {
@@ -630,7 +630,7 @@
           "name": "Sander Berge",
           "short": "Berge",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540963.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -643,14 +643,14 @@
           "name": "César Palacios",
           "short": "Palacios",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1403691.png.jpg"
         },
         "replaced": {
           "id": "gonzalo-garcia",
           "name": "Gonzalo García",
           "short": "García",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1413847.png.jpg"
         }
       },
       {
@@ -662,7 +662,7 @@
           "name": "Ryan Sessegnon",
           "short": "Sessegnon",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/773991.png.jpg"
         },
         "detail": "Late challenge on Robinio Vaz"
       }

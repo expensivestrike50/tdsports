@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "man-city-ipswich-2026-10-17",
     "date": "2026-10-17",
@@ -57,7 +57,7 @@
             "name": "Matheus Nunes",
             "short": "Nunes",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/955529.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 7.6
@@ -87,7 +87,7 @@
             "name": "Nico O'Reilly",
             "short": "O'Reilly",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1300526.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.7
@@ -97,7 +97,7 @@
             "name": "Mateo Kovacic",
             "short": "Kovacic",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/mateo-kovacic.jpg",
             "x": 27,
             "y": 30,
             "rating": 7.8
@@ -191,7 +191,7 @@
             "name": "Antoine Semenyo",
             "short": "Semenyo",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/933576.png.jpg",
             "rating": 7.1
           },
           {
@@ -235,7 +235,7 @@
           "name": "Gary O'Neil",
           "short": "O'Neil",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/24393.png.jpg"
         },
         "starting": [
           {
@@ -243,7 +243,7 @@
             "name": "Christian Walton",
             "short": "Walton",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/512013.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.5
@@ -253,7 +253,7 @@
             "name": "Dara O'Shea",
             "short": "O'Shea",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789578.png.jpg",
             "x": 82,
             "y": 77,
             "rating": 6.3
@@ -263,7 +263,7 @@
             "name": "Issa Diop",
             "short": "Diop",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/696443.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 7.4
@@ -273,7 +273,7 @@
             "name": "Jacob Greaves",
             "short": "Greaves",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1079103.png.jpg",
             "x": 82,
             "y": 22,
             "rating": 6.3
@@ -283,7 +283,7 @@
             "name": "Abdoul Ouattara",
             "short": "Ouattara",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/abdoul-ouattara.jpg",
             "x": 73,
             "y": 88,
             "rating": 7.1
@@ -293,7 +293,7 @@
             "name": "Florentino",
             "short": "Florentino",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/793255.png.jpg",
             "x": 73,
             "y": 62,
             "rating": 7.3
@@ -303,7 +303,7 @@
             "name": "Exequiel Palacios",
             "short": "Palacios",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/693599.png.jpg",
             "x": 73,
             "y": 36,
             "rating": 7.4
@@ -313,7 +313,7 @@
             "name": "Leif Davis",
             "short": "Davis",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/980381.png.jpg",
             "x": 73,
             "y": 12,
             "rating": 6.6
@@ -323,7 +323,7 @@
             "name": "Daizen Maeda",
             "short": "Maeda",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/728765.png.jpg",
             "x": 63,
             "y": 70,
             "rating": 7.7
@@ -333,7 +333,7 @@
             "name": "Julio Enciso",
             "short": "Enciso",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1073742.png.jpg",
             "x": 63,
             "y": 30,
             "rating": 7.3
@@ -343,7 +343,7 @@
             "name": "Emersonn",
             "short": "Emersonn",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1320949.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.6
@@ -355,7 +355,7 @@
             "name": "Azor Matusiwa",
             "short": "Matusiwa",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/797594.png.jpg",
             "rating": 7.3
           },
           {
@@ -371,7 +371,7 @@
             "name": "Zian Flemming",
             "short": "Flemming",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/873559.png.jpg",
             "rating": 7.7
           },
           {
@@ -379,7 +379,7 @@
             "name": "Chuba Akpom",
             "short": "Akpom",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/413158.png.jpg",
             "rating": 6.8
           },
           {
@@ -387,7 +387,7 @@
             "name": "Jack Clarke",
             "short": "Clarke",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/914402.png.jpg",
             "rating": 7.5
           },
           {
@@ -395,7 +395,7 @@
             "name": "Cedric Kipre",
             "short": "Kipre",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/760398.png.jpg",
             "rating": null
           },
           {
@@ -403,7 +403,7 @@
             "name": "Darnell Furlong",
             "short": "Furlong",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/609733.png.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "Kjell Scherpen",
             "short": "Scherpen",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/796398.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Jaden Philogene",
             "short": "Philogene",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/jaden-philogene.jpg",
             "rating": null
           }
         ]
@@ -458,7 +458,7 @@
           "name": "Daizen Maeda",
           "short": "Maeda",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/728765.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": false,
@@ -467,7 +467,7 @@
           "name": "Abdoul Ouattara",
           "short": "Ouattara",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/abdoul-ouattara.jpg"
         },
         "goalType": "build",
         "description": "Daizen Maeda shrugged off Marc Guéhi and levelled with a low left-footed finish past Gianluigi Donnarumma, assisted by Abdoul Ouattara."
@@ -490,7 +490,7 @@
           "name": "Mateo Kovacic",
           "short": "Kovacic",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/mateo-kovacic.jpg"
         },
         "goalType": "build",
         "description": "Mateo Kovacic glided down the right side of the box unopposed and clipped a cross for Erling Haaland to head in from the penalty spot area."
@@ -511,7 +511,7 @@
           "name": "Mateo Kovacic",
           "short": "Kovacic",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/mateo-kovacic.jpg"
         }
       },
       {
@@ -530,7 +530,7 @@
           "name": "Nico O'Reilly",
           "short": "O'Reilly",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1300526.png.jpg"
         }
       },
       {
@@ -565,14 +565,14 @@
           "name": "Azor Matusiwa",
           "short": "Matusiwa",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/797594.png.jpg"
         },
         "replaced": {
           "id": "florentino",
           "name": "Florentino",
           "short": "Florentino",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/793255.png.jpg"
         }
       },
       {
@@ -591,7 +591,7 @@
           "name": "Daizen Maeda",
           "short": "Maeda",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/728765.png.jpg"
         }
       },
       {
@@ -603,7 +603,7 @@
           "name": "Abdoul Ouattara",
           "short": "Ouattara",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/abdoul-ouattara.jpg"
         },
         "detail": "Foul"
       },
@@ -623,7 +623,7 @@
           "name": "Matheus Nunes",
           "short": "Nunes",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/955529.png.jpg"
         }
       },
       {
@@ -654,7 +654,7 @@
           "name": "Antoine Semenyo",
           "short": "Semenyo",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/933576.png.jpg"
         },
         "replaced": {
           "id": "jeremy-doku-man-city-ipswich-2026-10-17",
@@ -673,14 +673,14 @@
           "name": "Zian Flemming",
           "short": "Flemming",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/873559.png.jpg"
         },
         "replaced": {
           "id": "emersonn",
           "name": "Emersonn",
           "short": "Emersonn",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1320949.png.jpg"
         }
       },
       {
@@ -692,14 +692,14 @@
           "name": "Chuba Akpom",
           "short": "Akpom",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/413158.png.jpg"
         },
         "replaced": {
           "id": "julio-enciso",
           "name": "Julio Enciso",
           "short": "Enciso",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1073742.png.jpg"
         }
       },
       {
@@ -737,7 +737,7 @@
           "name": "Zian Flemming",
           "short": "Flemming",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/873559.png.jpg"
         },
         "scoreAfter": "3 - 2",
         "penalty": true,
@@ -754,14 +754,14 @@
           "name": "Jack Clarke",
           "short": "Clarke",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/914402.png.jpg"
         },
         "replaced": {
           "id": "jacob-greaves",
           "name": "Jacob Greaves",
           "short": "Greaves",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1079103.png.jpg"
         }
       },
       {
@@ -786,7 +786,7 @@
           "name": "Leif Davis",
           "short": "Davis",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/980381.png.jpg"
         },
         "detail": "Bad foul"
       }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "england-argentina-2026-07-15",
     "date": "2026-07-15",
@@ -39,7 +39,7 @@
           "name": "Thomas Tuchel",
           "short": "Tuchel",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/thomas-tuchel.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Jordan Pickford",
             "short": "Pickford",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/303919.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.2
@@ -77,7 +77,7 @@
             "name": "John Stones",
             "short": "Stones",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/john-stones.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.4
@@ -87,7 +87,7 @@
             "name": "Reece James",
             "short": "James",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/reece-james.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.4
@@ -137,7 +137,7 @@
             "name": "Morgan Rogers",
             "short": "Rogers",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/883080.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 7.2
@@ -167,7 +167,7 @@
             "name": "Dan Burn",
             "short": "Burn",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/188058.png.jpg",
             "rating": 7.2
           },
           {
@@ -175,7 +175,7 @@
             "name": "Nico O'Reilly",
             "short": "O'Reilly",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1300526.png.jpg",
             "rating": 7.4
           },
           {
@@ -183,7 +183,7 @@
             "name": "Ivan Toney",
             "short": "Toney",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/408987.png.jpg",
             "rating": 6.8
           },
           {
@@ -191,7 +191,7 @@
             "name": "Marcus Rashford",
             "short": "Rashford",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/696365.png.jpg",
             "rating": 7.3
           },
           {
@@ -199,7 +199,7 @@
             "name": "Jordan Henderson",
             "short": "Henderson",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/156008.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Ollie Watkins",
             "short": "Watkins",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540088.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Trevoh Chalobah",
             "short": "Chalobah",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/793907.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "James Trafford",
             "short": "Trafford",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/james-trafford.jpg",
             "rating": null
           },
           {
@@ -255,7 +255,7 @@
             "name": "Kobbie Mainoo",
             "short": "Mainoo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1292810.png.jpg",
             "rating": null
           }
         ]
@@ -267,7 +267,7 @@
           "name": "Lionel Scaloni",
           "short": "Scaloni",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/38922.png.jpg"
         },
         "starting": [
           {
@@ -275,7 +275,7 @@
             "name": "Emiliano Martínez",
             "short": "E. Martínez",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/268375.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.9
@@ -285,7 +285,7 @@
             "name": "Nicolás Tagliafico",
             "short": "Tagliafico",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/195750.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 6.4
@@ -295,7 +295,7 @@
             "name": "Lisandro Martínez",
             "short": "Lisandro",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/847983.png.jpg",
             "x": 82,
             "y": 62,
             "rating": 6.4
@@ -305,7 +305,7 @@
             "name": "Cristian Romero",
             "short": "Romero",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789066.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 7.2
@@ -315,7 +315,7 @@
             "name": "Nahuel Molina",
             "short": "Molina",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/726345.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 7
@@ -335,7 +335,7 @@
             "name": "Julián Álvarez",
             "short": "Álvarez",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/974753.png.jpg",
             "x": 63,
             "y": 88,
             "rating": 7.1
@@ -365,7 +365,7 @@
             "name": "Giuliano Simeone",
             "short": "Simeone",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/giuliano-simeone.jpg",
             "x": 63,
             "y": 12,
             "rating": 6.3
@@ -375,7 +375,7 @@
             "name": "Lionel Messi",
             "short": "Messi",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30981.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 8.4
@@ -387,7 +387,7 @@
             "name": "Nico González",
             "short": "González",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280132.png.jpg",
             "rating": 7.5
           },
           {
@@ -395,7 +395,7 @@
             "name": "Gonzalo Montiel",
             "short": "Montiel",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/687008.png.jpg",
             "rating": 7.5
           },
           {
@@ -403,7 +403,7 @@
             "name": "Rodrigo De Paul",
             "short": "Paul",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/324578.png.jpg",
             "rating": 7.6
           },
           {
@@ -411,7 +411,7 @@
             "name": "Nicolás Otamendi",
             "short": "Otamendi",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/174321.png.jpg",
             "rating": 6.4
           },
           {
@@ -419,7 +419,7 @@
             "name": "Lautaro Martínez",
             "short": "Martínez",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/690230.png.jpg",
             "rating": 8.5
           },
           {
@@ -427,7 +427,7 @@
             "name": "Marcos Senesi",
             "short": "Senesi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/785411.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Facundo Medina",
             "short": "Medina",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/812652.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Juan Musso",
             "short": "Musso",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/389050.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Valentín Barco",
             "short": "Barco",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1272440.png.jpg",
             "rating": null
           },
           {
@@ -483,7 +483,7 @@
             "name": "Thiago Almada",
             "short": "Almada",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/955271.png.jpg",
             "rating": null
           },
           {
@@ -491,7 +491,7 @@
             "name": "Exequiel Palacios",
             "short": "Palacios",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/693599.png.jpg",
             "rating": null
           },
           {
@@ -499,7 +499,7 @@
             "name": "José Manuel López",
             "short": "López",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1216079.png.jpg",
             "rating": null
           }
         ]
@@ -528,7 +528,7 @@
           "name": "Lisandro Martínez",
           "short": "Lisandro",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/847983.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -541,7 +541,7 @@
           "name": "Cristian Romero",
           "short": "Romero",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789066.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -563,7 +563,7 @@
           "name": "Morgan Rogers",
           "short": "Rogers",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/883080.png.jpg"
         },
         "goalType": "build",
         "description": "Morgan Rogers crossed and Anthony Gordon finished with his right foot from very close range into the bottom left corner."
@@ -577,7 +577,7 @@
           "name": "Nico González",
           "short": "González",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280132.png.jpg"
         },
         "replaced": {
           "id": "leandro-paredes-england-argentina-2026-07-15",
@@ -615,14 +615,14 @@
           "name": "Gonzalo Montiel",
           "short": "Montiel",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/687008.png.jpg"
         },
         "replaced": {
           "id": "nahuel-molina-england-argentina-2026-07-15",
           "name": "Nahuel Molina",
           "short": "Molina",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/726345.png.jpg"
         }
       },
       {
@@ -634,14 +634,14 @@
           "name": "Rodrigo De Paul",
           "short": "Paul",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/324578.png.jpg"
         },
         "replaced": {
           "id": "giuliano-simeone-england-argentina-2026-07-15",
           "name": "Giuliano Simeone",
           "short": "Simeone",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/giuliano-simeone.jpg"
         }
       },
       {
@@ -653,14 +653,14 @@
           "name": "Nicolás Otamendi",
           "short": "Otamendi",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/174321.png.jpg"
         },
         "replaced": {
           "id": "lisandro-martinez-england-argentina-2026-07-15",
           "name": "Lisandro Martínez",
           "short": "Lisandro",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/847983.png.jpg"
         }
       },
       {
@@ -672,14 +672,14 @@
           "name": "Lautaro Martínez",
           "short": "Martínez",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/690230.png.jpg"
         },
         "replaced": {
           "id": "nicolas-tagliafico-england-argentina-2026-07-15",
           "name": "Nicolás Tagliafico",
           "short": "Tagliafico",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/195750.png.jpg"
         }
       },
       {
@@ -691,14 +691,14 @@
           "name": "Dan Burn",
           "short": "Burn",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/188058.png.jpg"
         },
         "replaced": {
           "id": "reece-james-england-argentina-2026-07-15",
           "name": "Reece James",
           "short": "James",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/reece-james.jpg"
         }
       },
       {
@@ -710,7 +710,7 @@
           "name": "Nico O'Reilly",
           "short": "O'Reilly",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1300526.png.jpg"
         },
         "replaced": {
           "id": "declan-rice-england-argentina-2026-07-15",
@@ -738,7 +738,7 @@
           "name": "Lionel Messi",
           "short": "Messi",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30981.png.jpg"
         },
         "goalType": "set",
         "description": "After a corner, Lionel Messi laid the ball off and Enzo Fernández drove a right-footed shot from outside the box into the bottom left corner."
@@ -752,7 +752,7 @@
           "name": "Lautaro Martínez",
           "short": "Martínez",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/690230.png.jpg"
         },
         "scoreAfter": "1 - 2",
         "penalty": false,
@@ -761,7 +761,7 @@
           "name": "Lionel Messi",
           "short": "Messi",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30981.png.jpg"
         },
         "goalType": "build",
         "description": "Lionel Messi crossed and substitute Lautaro Martínez headed in from very close range in stoppage time."
@@ -775,14 +775,14 @@
           "name": "Ivan Toney",
           "short": "Toney",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/408987.png.jpg"
         },
         "replaced": {
           "id": "john-stones-england-argentina-2026-07-15",
           "name": "John Stones",
           "short": "Stones",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/john-stones.jpg"
         }
       },
       {
@@ -794,7 +794,7 @@
           "name": "Marcus Rashford",
           "short": "Rashford",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/696365.png.jpg"
         },
         "replaced": {
           "id": "djed-spence-england-argentina-2026-07-15",
@@ -813,7 +813,7 @@
           "name": "Rodrigo De Paul",
           "short": "Paul",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/324578.png.jpg"
         },
         "detail": "Not specified by source"
       }

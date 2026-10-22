@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "franco-pardo",
     "name": "Franco Pardo",
     "short": "Pardo",
     "position": "CB",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/845263.png.jpg",
     "matches": [
       {
         "match": "santos-unam-2026-10-21",

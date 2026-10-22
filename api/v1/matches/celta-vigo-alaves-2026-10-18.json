@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "celta-vigo-alaves-2026-10-18",
     "date": "2026-10-18",
@@ -39,7 +39,7 @@
           "name": "Claudio Giráldez",
           "short": "Giráldez",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1622886.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Andrei Radu",
             "short": "A. Radu",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/491408.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.3
@@ -57,7 +57,7 @@
             "name": "Javi Rodríguez",
             "short": "J. Rodríguez",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1435439.png.jpg",
             "x": 18,
             "y": 23,
             "rating": 8.8
@@ -67,7 +67,7 @@
             "name": "Yoel Lago",
             "short": "Y. Lago",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1578176.png.jpg",
             "x": 18,
             "y": 50,
             "rating": 7.7
@@ -77,7 +77,7 @@
             "name": "Sebastián Cáceres",
             "short": "S. Cáceres",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1020026.png.jpg",
             "x": 18,
             "y": 78,
             "rating": 6.6
@@ -87,7 +87,7 @@
             "name": "Sergio Carreira",
             "short": "S. Carreira",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1106742.png.jpg",
             "x": 32,
             "y": 12,
             "rating": 7.1
@@ -97,7 +97,7 @@
             "name": "Hugo Burcio",
             "short": "H. Burcio",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1825995.png.jpg",
             "x": 32,
             "y": 38,
             "rating": 6.5
@@ -107,7 +107,7 @@
             "name": "Ilaix Moriba",
             "short": "I. Moriba",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1109046.png.jpg",
             "x": 32,
             "y": 64,
             "rating": 6.9
@@ -117,7 +117,7 @@
             "name": "Hugo Álvarez",
             "short": "H. Álvarez",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1308414.png.jpg",
             "x": 32,
             "y": 88,
             "rating": 6.5
@@ -127,7 +127,7 @@
             "name": "Couhaib Driouech",
             "short": "C. Driouech",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1184693.png.jpg",
             "x": 46,
             "y": 23,
             "rating": 6.3
@@ -137,7 +137,7 @@
             "name": "Ferran Jutglà",
             "short": "F. Jutglà",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1102732.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7.4
@@ -147,7 +147,7 @@
             "name": "Williot Swedberg",
             "short": "W. Swedberg",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/williot-swedberg.jpg",
             "x": 46,
             "y": 78,
             "rating": 6.8
@@ -159,7 +159,7 @@
             "name": "Aleix Febas",
             "short": "Febas",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/671686.png.jpg",
             "rating": 6.6
           },
           {
@@ -167,7 +167,7 @@
             "name": "Javi Rueda",
             "short": "Rueda",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1310440.png.jpg",
             "rating": 7.3
           },
           {
@@ -175,7 +175,7 @@
             "name": "Iago Aspas",
             "short": "Aspas",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/iago-aspas.jpg",
             "rating": 7.8
           },
           {
@@ -183,7 +183,7 @@
             "name": "Andrés Antañón",
             "short": "Antañón",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1732791.png.jpg",
             "rating": 7.1
           },
           {
@@ -191,7 +191,7 @@
             "name": "Marcos Alonso",
             "short": "Alonso",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/196169.png.jpg",
             "rating": 7.1
           },
           {
@@ -199,7 +199,7 @@
             "name": "Javi Galán",
             "short": "Galán",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/695062.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Álvaro Núñez",
             "short": "Núñez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1132355.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Ángel Arcos",
             "short": "Arcos",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1700562.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Hugo Gonzalez",
             "short": "Gonzalez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1226783.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Altay Bayindir",
             "short": "Bayindir",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/866967.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Iván Villar",
             "short": "Villar",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/786630.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Abdoulaye Faye",
             "short": "Faye",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/abdoulaye-faye.jpg",
             "rating": null
           }
         ]
@@ -259,7 +259,7 @@
           "name": "Quique Sánchez Flores",
           "short": "Flores",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/78725.png.jpg"
         },
         "starting": [
           {
@@ -267,7 +267,7 @@
             "name": "Antonio Sivera",
             "short": "A. Sivera",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/530468.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.4
@@ -277,7 +277,7 @@
             "name": "Nahuel Tenaglia",
             "short": "N. Tenaglia",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/860314.png.jpg",
             "x": 82,
             "y": 92,
             "rating": 6.7
@@ -287,7 +287,7 @@
             "name": "Jonny",
             "short": "Jonny",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/360918.png.jpg",
             "x": 82,
             "y": 71,
             "rating": 7.1
@@ -297,7 +297,7 @@
             "name": "Ville Koski",
             "short": "V. Koski",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1056461.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 6.4
@@ -307,7 +307,7 @@
             "name": "Nicolás Valentini",
             "short": "N. Valentini",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1249665.png.jpg",
             "x": 82,
             "y": 29,
             "rating": 6.3
@@ -327,7 +327,7 @@
             "name": "Pablo Ibáñez",
             "short": "P. Ibáñez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1238154.png.jpg",
             "x": 68,
             "y": 77,
             "rating": 7.5
@@ -337,7 +337,7 @@
             "name": "Antonio Blanco",
             "short": "A. Blanco",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/845998.png.jpg",
             "x": 68,
             "y": 50,
             "rating": 6.2
@@ -347,7 +347,7 @@
             "name": "Carles Aleñá",
             "short": "C. Aleñá",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/637756.png.jpg",
             "x": 68,
             "y": 22,
             "rating": 6.4
@@ -357,7 +357,7 @@
             "name": "Toni Martínez",
             "short": "T. Martínez",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/640123.png.jpg",
             "x": 54,
             "y": 70,
             "rating": 7.2
@@ -367,7 +367,7 @@
             "name": "Lucas Boyé",
             "short": "L. Boyé",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/561164.png.jpg",
             "x": 54,
             "y": 30,
             "rating": 6.5
@@ -379,7 +379,7 @@
             "name": "Hugo Novoa",
             "short": "Novoa",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1175969.png.jpg",
             "rating": 8.2
           },
           {
@@ -387,7 +387,7 @@
             "name": "Mariano Díaz",
             "short": "Díaz",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/518525.png.jpg",
             "rating": 7.2
           },
           {
@@ -395,7 +395,7 @@
             "name": "Denis Suárez",
             "short": "Suárez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/282281.png.jpg",
             "rating": 6.3
           },
           {
@@ -403,7 +403,7 @@
             "name": "Aitor Mañas",
             "short": "Mañas",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553663.png.jpg",
             "rating": 7.2
           },
           {
@@ -411,7 +411,7 @@
             "name": "Ander Guevara",
             "short": "Guevara",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/873827.png.jpg",
             "rating": 7.3
           },
           {
@@ -419,7 +419,7 @@
             "name": "Adrián Rodríguez",
             "short": "Rodríguez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1136937.png.jpg",
             "rating": null
           },
           {
@@ -427,7 +427,7 @@
             "name": "Carlos Protesoni",
             "short": "Protesoni",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/799914.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Grégoire Swiderski",
             "short": "Swiderski",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1467806.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Xanet Oláiz",
             "short": "Oláiz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1721181.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Selu Diallo",
             "short": "Diallo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1431307.png.jpg",
             "rating": null
           }
         ]
@@ -475,7 +475,7 @@
           "name": "Sebastián Cáceres",
           "short": "S. Cáceres",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1020026.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -488,14 +488,14 @@
           "name": "Aleix Febas",
           "short": "Febas",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/671686.png.jpg"
         },
         "replaced": {
           "id": "ilaix-moriba-celta-vigo-alaves-2026-10-18",
           "name": "Ilaix Moriba",
           "short": "I. Moriba",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1109046.png.jpg"
         }
       },
       {
@@ -507,14 +507,14 @@
           "name": "Javi Rueda",
           "short": "Rueda",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1310440.png.jpg"
         },
         "replaced": {
           "id": "williot-swedberg-celta-vigo-alaves-2026-10-18",
           "name": "Williot Swedberg",
           "short": "W. Swedberg",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/williot-swedberg.jpg"
         }
       },
       {
@@ -526,7 +526,7 @@
           "name": "Toni Martínez",
           "short": "T. Martínez",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/640123.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -539,7 +539,7 @@
           "name": "Ferran Jutglà",
           "short": "F. Jutglà",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1102732.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -548,7 +548,7 @@
           "name": "Javi Rodríguez",
           "short": "J. Rodríguez",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1435439.png.jpg"
         },
         "goalType": "build",
         "description": "Ferran Jutglà left footed shot from the centre of the box to the bottom right corner. Assist: Javi Rodríguez with a through ball."
@@ -562,14 +562,14 @@
           "name": "Hugo Novoa",
           "short": "Novoa",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1175969.png.jpg"
         },
         "replaced": {
           "id": "jonny",
           "name": "Jonny",
           "short": "Jonny",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/360918.png.jpg"
         }
       },
       {
@@ -581,14 +581,14 @@
           "name": "Mariano Díaz",
           "short": "Díaz",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/518525.png.jpg"
         },
         "replaced": {
           "id": "toni-martinez",
           "name": "Toni Martínez",
           "short": "T. Martínez",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/640123.png.jpg"
         }
       },
       {
@@ -600,14 +600,14 @@
           "name": "Denis Suárez",
           "short": "Suárez",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/282281.png.jpg"
         },
         "replaced": {
           "id": "carles-alena",
           "name": "Carles Aleñá",
           "short": "C. Aleñá",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/637756.png.jpg"
         }
       },
       {
@@ -619,14 +619,14 @@
           "name": "Iago Aspas",
           "short": "Aspas",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/iago-aspas.jpg"
         },
         "replaced": {
           "id": "couhaib-driouech-celta-vigo-alaves-2026-10-18",
           "name": "Couhaib Driouech",
           "short": "C. Driouech",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1184693.png.jpg"
         }
       },
       {
@@ -638,14 +638,14 @@
           "name": "Andrés Antañón",
           "short": "Antañón",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1732791.png.jpg"
         },
         "replaced": {
           "id": "hugo-burcio-celta-vigo-alaves-2026-10-18",
           "name": "Hugo Burcio",
           "short": "H. Burcio",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1825995.png.jpg"
         }
       },
       {
@@ -657,7 +657,7 @@
           "name": "Javi Rodríguez",
           "short": "J. Rodríguez",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1435439.png.jpg"
         },
         "scoreAfter": "2 - 0",
         "penalty": false,
@@ -666,7 +666,7 @@
           "name": "Iago Aspas",
           "short": "Aspas",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/iago-aspas.jpg"
         },
         "goalType": "build",
         "description": "Javi Rodríguez right footed shot from the right side of the six yard box to the bottom left corner. Assist: Iago Aspas."
@@ -680,14 +680,14 @@
           "name": "Marcos Alonso",
           "short": "Alonso",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/196169.png.jpg"
         },
         "replaced": {
           "id": "sebastian-caceres-celta-vigo-alaves-2026-10-18",
           "name": "Sebastián Cáceres",
           "short": "S. Cáceres",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1020026.png.jpg"
         }
       },
       {
@@ -699,7 +699,7 @@
           "name": "Hugo Novoa",
           "short": "Novoa",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1175969.png.jpg"
         },
         "scoreAfter": "2 - 1",
         "penalty": false,
@@ -708,7 +708,7 @@
           "name": "Mariano Díaz",
           "short": "Díaz",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/518525.png.jpg"
         },
         "goalType": "counter",
         "description": "Hugo Novoa left footed shot from the right side of the box to the top left corner. Assist: Mariano Díaz following a fast break."
@@ -722,7 +722,7 @@
           "name": "Aitor Mañas",
           "short": "Mañas",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553663.png.jpg"
         },
         "replaced": {
           "id": "abde-rebbach",
@@ -741,14 +741,14 @@
           "name": "Ander Guevara",
           "short": "Guevara",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/873827.png.jpg"
         },
         "replaced": {
           "id": "antonio-blanco",
           "name": "Antonio Blanco",
           "short": "A. Blanco",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/845998.png.jpg"
         }
       }
     ],

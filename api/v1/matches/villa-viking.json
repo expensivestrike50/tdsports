@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "villa-viking",
     "date": "2026-10-21",
@@ -137,7 +137,7 @@
             "name": "Alysson",
             "short": "Alysson",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1656860.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 7.3
@@ -223,7 +223,7 @@
             "name": "James Wright",
             "short": "Wright",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1340673.png.jpg",
             "rating": null
           },
           {
@@ -289,7 +289,7 @@
             "name": "Gianni Stensness",
             "short": "Stensness",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029026.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 6.5
@@ -319,7 +319,7 @@
             "name": "Tobias Moi",
             "short": "Moi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1636182.png.jpg",
             "x": 68,
             "y": 71,
             "rating": 6.1
@@ -371,7 +371,7 @@
             "name": "Henrik Rorvik Bjordal",
             "short": "Bjordal",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/440313.png.jpg",
             "rating": 6.9
           },
           {
@@ -387,7 +387,7 @@
             "name": "Amin Cosic",
             "short": "Cosic",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1751162.png.jpg",
             "rating": 7.5
           },
           {
@@ -403,7 +403,7 @@
             "name": "Essien Bassey",
             "short": "Bassey",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1697028.png.jpg",
             "rating": 7.1
           },
           {
@@ -435,7 +435,7 @@
             "name": "Niklas Fuglestad",
             "short": "Fuglestad",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1636186.png.jpg",
             "rating": null
           },
           {
@@ -498,7 +498,7 @@
           "name": "Alysson",
           "short": "Alysson",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1656860.png.jpg"
         },
         "detail": "Penalty awarded to Aston Villa confirmed by VAR (foul by Zlatko Tripic)"
       },
@@ -545,14 +545,14 @@
           "name": "Henrik Rorvik Bjordal",
           "short": "Bjordal",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/440313.png.jpg"
         },
         "replaced": {
           "id": "tobias-moi",
           "name": "Tobias Moi",
           "short": "Moi",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1636182.png.jpg"
         }
       },
       {
@@ -666,7 +666,7 @@
           "name": "Alysson",
           "short": "Alysson",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1656860.png.jpg"
         }
       },
       {
@@ -678,7 +678,7 @@
           "name": "Amin Cosic",
           "short": "Cosic",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1751162.png.jpg"
         },
         "replaced": {
           "id": "jesper-daland",
@@ -739,7 +739,7 @@
           "name": "Essien Bassey",
           "short": "Bassey",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1697028.png.jpg"
         },
         "replaced": {
           "id": "herman-haugen",

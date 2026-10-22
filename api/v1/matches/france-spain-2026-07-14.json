@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "france-spain-2026-07-14",
     "date": "2026-07-14",
@@ -39,7 +39,7 @@
           "name": "Didier Deschamps",
           "short": "Deschamps",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/didier-deschamps.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Mike Maignan",
             "short": "Maignan",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/466439.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 7.3
@@ -67,7 +67,7 @@
             "name": "William Saliba",
             "short": "Saliba",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/955406.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.8
@@ -87,7 +87,7 @@
             "name": "Jules Koundé",
             "short": "Koundé",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/705450.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.3
@@ -97,7 +97,7 @@
             "name": "Adrien Rabiot",
             "short": "Rabiot",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/352879.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 7.1
@@ -127,7 +127,7 @@
             "name": "Michael Olise",
             "short": "Olise",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029063.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 6.5
@@ -159,7 +159,7 @@
             "name": "Maxence Lacroix",
             "short": "Lacroix",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950485.png.jpg",
             "rating": 7.1
           },
           {
@@ -167,7 +167,7 @@
             "name": "Manu Koné",
             "short": "Koné",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1016132.png.jpg",
             "rating": 6.2
           },
           {
@@ -183,7 +183,7 @@
             "name": "Theo Hernández",
             "short": "Hernández",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/724371.png.jpg",
             "rating": 7.4
           },
           {
@@ -199,7 +199,7 @@
             "name": "Brice Samba",
             "short": "Samba",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/279714.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Robin Risser",
             "short": "Risser",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1390336.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Malo Gusto",
             "short": "Gusto",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1197250.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Jean-Philippe Mateta",
             "short": "Mateta",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/706297.png.jpg",
             "rating": null
           },
           {
@@ -255,7 +255,7 @@
             "name": "N'Golo Kanté",
             "short": "Kanté",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/319300.png.jpg",
             "rating": null
           },
           {
@@ -275,7 +275,7 @@
           "name": "Luis de la Fuente",
           "short": "Fuente",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1059866.png.jpg"
         },
         "starting": [
           {
@@ -283,7 +283,7 @@
             "name": "Unai Simón",
             "short": "Simón",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/660625.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.5
@@ -303,7 +303,7 @@
             "name": "Aymeric Laporte",
             "short": "Laporte",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/aymeric-laporte.jpg",
             "x": 82,
             "y": 62,
             "rating": 7.4
@@ -323,7 +323,7 @@
             "name": "Pedro Porro",
             "short": "Porro",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/941573.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 8
@@ -353,7 +353,7 @@
             "name": "Álex Baena",
             "short": "Baena",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/942372.png.jpg",
             "x": 63,
             "y": 77,
             "rating": 6.7
@@ -383,7 +383,7 @@
             "name": "Mikel Oyarzabal",
             "short": "Oyarzabal",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/678234.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 7.2
@@ -419,7 +419,7 @@
             "name": "Marcos Llorente",
             "short": "Llorente",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/602563.png.jpg",
             "rating": 7.5
           },
           {
@@ -427,7 +427,7 @@
             "name": "Nico Williams",
             "short": "Williams",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1202110.png.jpg",
             "rating": 7
           },
           {
@@ -435,7 +435,7 @@
             "name": "Alejandro Grimaldo",
             "short": "Grimaldo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/288406.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Marc Pubill",
             "short": "Pubill",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/marc-pubill.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Borja Iglesias",
             "short": "Iglesias",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/609505.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Víctor Muñoz",
             "short": "Muñoz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553105.png.jpg",
             "rating": null
           },
           {
@@ -467,7 +467,7 @@
             "name": "Yéremy Pino",
             "short": "Pino",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/yeremy-pino.jpg",
             "rating": null
           },
           {
@@ -475,7 +475,7 @@
             "name": "Eric García",
             "short": "García",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/940573.png.jpg",
             "rating": null
           },
           {
@@ -515,7 +515,7 @@
           "name": "Adrien Rabiot",
           "short": "Rabiot",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/352879.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -528,7 +528,7 @@
           "name": "Mikel Oyarzabal",
           "short": "Oyarzabal",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/678234.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": true,
@@ -545,14 +545,14 @@
           "name": "Maxence Lacroix",
           "short": "Lacroix",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950485.png.jpg"
         },
         "replaced": {
           "id": "william-saliba-france-spain-2026-07-14",
           "name": "William Saliba",
           "short": "Saliba",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/955406.png.jpg"
         }
       },
       {
@@ -577,14 +577,14 @@
           "name": "Manu Koné",
           "short": "Koné",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1016132.png.jpg"
         },
         "replaced": {
           "id": "adrien-rabiot-france-spain-2026-07-14",
           "name": "Adrien Rabiot",
           "short": "Rabiot",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/352879.png.jpg"
         }
       },
       {
@@ -615,7 +615,7 @@
           "name": "Pedro Porro",
           "short": "Porro",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/941573.png.jpg"
         },
         "scoreAfter": "0 - 2",
         "penalty": false,
@@ -638,7 +638,7 @@
           "name": "Theo Hernández",
           "short": "Hernández",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/724371.png.jpg"
         },
         "replaced": {
           "id": "lucas-digne-france-spain-2026-07-14",
@@ -664,7 +664,7 @@
           "name": "Michael Olise",
           "short": "Olise",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029063.png.jpg"
         }
       },
       {
@@ -683,7 +683,7 @@
           "name": "Mikel Oyarzabal",
           "short": "Oyarzabal",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/678234.png.jpg"
         }
       },
       {
@@ -733,7 +733,7 @@
           "name": "Theo Hernández",
           "short": "Hernández",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/724371.png.jpg"
         },
         "detail": "VAR Decision: Other Decision Cancelled."
       },
@@ -746,14 +746,14 @@
           "name": "Marcos Llorente",
           "short": "Llorente",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/602563.png.jpg"
         },
         "replaced": {
           "id": "pedro-porro-france-spain-2026-07-14",
           "name": "Pedro Porro",
           "short": "Porro",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/941573.png.jpg"
         }
       },
       {
@@ -765,14 +765,14 @@
           "name": "Nico Williams",
           "short": "Williams",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1202110.png.jpg"
         },
         "replaced": {
           "id": "alex-baena-france-spain-2026-07-14",
           "name": "Álex Baena",
           "short": "Baena",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/942372.png.jpg"
         }
       },
       {

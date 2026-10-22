@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "bayern-munchen-rb-leipzig-2026-10-17",
     "date": "2026-10-17",
@@ -107,7 +107,7 @@
             "name": "Joshua Kimmich",
             "short": "Kimmich",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/460632.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 7.2
@@ -137,7 +137,7 @@
             "name": "Michael Olise",
             "short": "Olise",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029063.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 8.1
@@ -159,7 +159,7 @@
             "name": "Tom Bischof",
             "short": "Bischof",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1286183.png.jpg",
             "rating": 7.5
           },
           {
@@ -175,7 +175,7 @@
             "name": "Lennart Karl",
             "short": "Karl",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1737700.png.jpg",
             "rating": 6.6
           },
           {
@@ -303,7 +303,7 @@
             "name": "Ezechiel Banzuzi",
             "short": "Banzuzi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1310001.png.jpg",
             "x": 68,
             "y": 71,
             "rating": 6.5
@@ -323,7 +323,7 @@
             "name": "Rocco Reitz",
             "short": "Reitz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1174726.png.jpg",
             "x": 68,
             "y": 29,
             "rating": 7.2
@@ -333,7 +333,7 @@
             "name": "Brajan Gruda",
             "short": "Gruda",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1430151.png.jpg",
             "x": 68,
             "y": 8,
             "rating": 6.7
@@ -363,7 +363,7 @@
             "name": "Tidiam Gomis",
             "short": "Gomis",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1482733.png.jpg",
             "rating": 7.5
           },
           {
@@ -395,7 +395,7 @@
             "name": "Max Finkgrafe",
             "short": "Finkgrafe",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1529161.png.jpg",
             "rating": null
           },
           {
@@ -444,7 +444,7 @@
           "name": "Joshua Kimmich",
           "short": "Kimmich",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/460632.png.jpg"
         },
         "goalType": "build",
         "description": "Luis Díaz scored with a right-footed shot from the centre of the box to the bottom left corner. Assist: Joshua Kimmich with a through ball."
@@ -481,7 +481,7 @@
           "name": "Michael Olise",
           "short": "Olise",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029063.png.jpg"
         },
         "scoreAfter": "3 - 0",
         "penalty": false,
@@ -511,7 +511,7 @@
           "name": "Ezechiel Banzuzi",
           "short": "Banzuzi",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1310001.png.jpg"
         }
       },
       {
@@ -523,7 +523,7 @@
           "name": "Tidiam Gomis",
           "short": "Gomis",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1482733.png.jpg"
         },
         "replaced": {
           "id": "christopher-nkunku-bayern-munchen-rb-leipzig-2026-10-17",
@@ -601,7 +601,7 @@
           "name": "Tom Bischof",
           "short": "Bischof",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1286183.png.jpg"
         },
         "replaced": {
           "id": "aleksandar-pavlovic-bayern-munchen-rb-leipzig-2026-10-17",
@@ -639,7 +639,7 @@
           "name": "Lennart Karl",
           "short": "Karl",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1737700.png.jpg"
         },
         "replaced": {
           "id": "harry-kane-bayern-munchen-rb-leipzig-2026-10-17",
@@ -724,7 +724,7 @@
           "name": "Michael Olise",
           "short": "Olise",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029063.png.jpg"
         },
         "goalType": "set",
         "description": "Luis Díaz scored with a right-footed shot from outside the box to the bottom right corner. Assist: Michael Olise following a corner."
@@ -745,7 +745,7 @@
           "name": "Rocco Reitz",
           "short": "Reitz",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1174726.png.jpg"
         }
       },
       {
@@ -785,7 +785,7 @@
           "name": "Brajan Gruda",
           "short": "Gruda",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1430151.png.jpg"
         },
         "goalType": "build",
         "description": "Andrija Maksimovic scored with a left-footed shot from the centre of the box to the high centre of the goal. Assist: Brajan Gruda."

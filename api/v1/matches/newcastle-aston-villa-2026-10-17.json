@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "newcastle-aston-villa-2026-10-17",
     "date": "2026-10-17",
@@ -39,7 +39,7 @@
           "name": "Matthias Jaissle",
           "short": "Jaissle",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/59582.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Lukás Hornícek",
             "short": "Hornícek",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1186978.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 7.3
@@ -57,7 +57,7 @@
             "name": "Lewis Miley",
             "short": "Miley",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1296763.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.5
@@ -67,7 +67,7 @@
             "name": "Malick Thiaw",
             "short": "Thiaw",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1137407.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.6
@@ -77,7 +77,7 @@
             "name": "Sven Botman",
             "short": "Botman",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/sven-botman.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.8
@@ -87,7 +87,7 @@
             "name": "Lewis Hall",
             "short": "Hall",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1197655.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.1
@@ -97,7 +97,7 @@
             "name": "Joelinton",
             "short": "Joelinton",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/joelinton.jpg",
             "x": 27,
             "y": 30,
             "rating": 6.7
@@ -107,7 +107,7 @@
             "name": "Nico González",
             "short": "González",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280132.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 6.7
@@ -117,7 +117,7 @@
             "name": "Matias Fernandez-Pardo",
             "short": "Fernandez-Pardo",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1444231.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 7.5
@@ -127,7 +127,7 @@
             "name": "Joe Willock",
             "short": "Willock",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/860975.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 6.7
@@ -137,7 +137,7 @@
             "name": "Harvey Barnes",
             "short": "Barnes",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/760359.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 7.1
@@ -147,7 +147,7 @@
             "name": "Yoane Wissa",
             "short": "Wissa",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/666857.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7.1
@@ -159,7 +159,7 @@
             "name": "Bazoumana Touré",
             "short": "Touré",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/bazoumana-toure.jpg",
             "rating": 6.9
           },
           {
@@ -167,7 +167,7 @@
             "name": "William Osula",
             "short": "Osula",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1258092.png.jpg",
             "rating": 6.3
           },
           {
@@ -175,7 +175,7 @@
             "name": "Dan Burn",
             "short": "Burn",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/188058.png.jpg",
             "rating": 6.4
           },
           {
@@ -183,7 +183,7 @@
             "name": "Fabian Schär",
             "short": "Schär",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/189982.png.jpg",
             "rating": null
           },
           {
@@ -191,7 +191,7 @@
             "name": "Aladji Bamba",
             "short": "Bamba",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1695681.png.jpg",
             "rating": null
           },
           {
@@ -199,7 +199,7 @@
             "name": "Amar Dedic",
             "short": "Dedic",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/958010.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Nick Pope",
             "short": "Pope",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/280484.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Sean Steur",
             "short": "Steur",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1643770.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Jacob Murphy",
             "short": "Murphy",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/jacob-murphy.jpg",
             "rating": null
           }
         ]
@@ -283,7 +283,7 @@
             "name": "Aaron Wan-Bissaka",
             "short": "Wan-Bissaka",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/760320.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 7
@@ -313,7 +313,7 @@
             "name": "Alysson",
             "short": "Alysson",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1656860.png.jpg",
             "x": 63,
             "y": 77,
             "rating": 7.5
@@ -323,7 +323,7 @@
             "name": "Johan Manzambi",
             "short": "Manzambi",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1520063.png.jpg",
             "x": 63,
             "y": 50,
             "rating": 8.5
@@ -411,7 +411,7 @@
             "name": "Brian Madjo",
             "short": "Madjo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1729841.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
           "name": "Joelinton",
           "short": "Joelinton",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/joelinton.jpg"
         },
         "detail": "Bad foul"
       },
@@ -448,7 +448,7 @@
           "name": "Sven Botman",
           "short": "Botman",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/sven-botman.jpg"
         },
         "detail": "Bad foul"
       },
@@ -461,7 +461,7 @@
           "name": "Sven Botman",
           "short": "Botman",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/sven-botman.jpg"
         },
         "detail": "Yellow card for challenge on Nicolas Jackson reviewed for possible serious foul play; on-field decision confirmed, no red card."
       },
@@ -487,7 +487,7 @@
           "name": "Alysson",
           "short": "Alysson",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1656860.png.jpg"
         },
         "detail": "Foul"
       },
@@ -500,7 +500,7 @@
           "name": "Johan Manzambi",
           "short": "Manzambi",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1520063.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": false,
@@ -530,7 +530,7 @@
           "name": "Alysson",
           "short": "Alysson",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1656860.png.jpg"
         }
       },
       {
@@ -542,7 +542,7 @@
           "name": "Nico González",
           "short": "González",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280132.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -555,7 +555,7 @@
           "name": "Yoane Wissa",
           "short": "Wissa",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/666857.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -568,14 +568,14 @@
           "name": "Bazoumana Touré",
           "short": "Touré",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/bazoumana-toure.jpg"
         },
         "replaced": {
           "id": "matias-fernandez-pardo",
           "name": "Matias Fernandez-Pardo",
           "short": "Fernandez-Pardo",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1444231.png.jpg"
         }
       },
       {
@@ -587,14 +587,14 @@
           "name": "William Osula",
           "short": "Osula",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1258092.png.jpg"
         },
         "replaced": {
           "id": "joe-willock",
           "name": "Joe Willock",
           "short": "Willock",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/860975.png.jpg"
         }
       },
       {
@@ -651,7 +651,7 @@
           "name": "Johan Manzambi",
           "short": "Manzambi",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1520063.png.jpg"
         }
       },
       {
@@ -670,7 +670,7 @@
           "name": "Aaron Wan-Bissaka",
           "short": "Wan-Bissaka",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/760320.png.jpg"
         }
       },
       {
@@ -682,7 +682,7 @@
           "name": "William Osula",
           "short": "Osula",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1258092.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -695,7 +695,7 @@
           "name": "Malick Thiaw",
           "short": "Thiaw",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1137407.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -708,14 +708,14 @@
           "name": "Dan Burn",
           "short": "Burn",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/188058.png.jpg"
         },
         "replaced": {
           "id": "joelinton",
           "name": "Joelinton",
           "short": "Joelinton",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/joelinton.jpg"
         }
       }
     ],

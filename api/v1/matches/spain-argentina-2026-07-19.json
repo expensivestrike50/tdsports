@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "spain-argentina-2026-07-19",
     "date": "2026-07-19",
@@ -39,7 +39,7 @@
           "name": "Luis de la Fuente",
           "short": "Fuente",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1059866.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Unai Simón",
             "short": "Simón",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/660625.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 7.2
@@ -67,7 +67,7 @@
             "name": "Aymeric Laporte",
             "short": "Laporte",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/aymeric-laporte.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.6
@@ -87,7 +87,7 @@
             "name": "Pedro Porro",
             "short": "Porro",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/941573.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.7
@@ -117,7 +117,7 @@
             "name": "Álex Baena",
             "short": "Baena",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/942372.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 7.1
@@ -147,7 +147,7 @@
             "name": "Mikel Oyarzabal",
             "short": "Oyarzabal",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/678234.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 6.7
@@ -175,7 +175,7 @@
             "name": "Nico Williams",
             "short": "Williams",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1202110.png.jpg",
             "rating": 8.1
           },
           {
@@ -199,7 +199,7 @@
             "name": "Eric García",
             "short": "García",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/940573.png.jpg",
             "rating": 7.4
           },
           {
@@ -207,7 +207,7 @@
             "name": "Alejandro Grimaldo",
             "short": "Grimaldo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/288406.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Borja Iglesias",
             "short": "Iglesias",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/609505.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Víctor Muñoz",
             "short": "Muñoz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553105.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Marc Pubill",
             "short": "Pubill",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/marc-pubill.jpg",
             "rating": null
           },
           {
@@ -255,7 +255,7 @@
             "name": "Marcos Llorente",
             "short": "Llorente",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/602563.png.jpg",
             "rating": null
           },
           {
@@ -263,7 +263,7 @@
             "name": "Yéremy Pino",
             "short": "Pino",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/yeremy-pino.jpg",
             "rating": null
           }
         ]
@@ -275,7 +275,7 @@
           "name": "Lionel Scaloni",
           "short": "Scaloni",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/38922.png.jpg"
         },
         "starting": [
           {
@@ -283,7 +283,7 @@
             "name": "Emiliano Martínez",
             "short": "E. Martínez",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/268375.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.7
@@ -293,7 +293,7 @@
             "name": "Nicolás Tagliafico",
             "short": "Tagliafico",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/195750.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 6.9
@@ -303,7 +303,7 @@
             "name": "Lisandro Martínez",
             "short": "Lisandro",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/847983.png.jpg",
             "x": 82,
             "y": 62,
             "rating": 7.4
@@ -313,7 +313,7 @@
             "name": "Cristian Romero",
             "short": "Romero",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789066.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 6.6
@@ -323,7 +323,7 @@
             "name": "Gonzalo Montiel",
             "short": "Montiel",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/687008.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 7.3
@@ -333,7 +333,7 @@
             "name": "Nico González",
             "short": "González",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280132.png.jpg",
             "x": 68,
             "y": 88,
             "rating": 6.2
@@ -363,7 +363,7 @@
             "name": "Rodrigo De Paul",
             "short": "De Paul",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/324578.png.jpg",
             "x": 68,
             "y": 12,
             "rating": 7.3
@@ -373,7 +373,7 @@
             "name": "Julián Álvarez",
             "short": "Álvarez",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/974753.png.jpg",
             "x": 54,
             "y": 70,
             "rating": 7
@@ -383,7 +383,7 @@
             "name": "Lionel Messi",
             "short": "Messi",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30981.png.jpg",
             "x": 54,
             "y": 30,
             "rating": 7.5
@@ -395,7 +395,7 @@
             "name": "Nicolás Otamendi",
             "short": "Otamendi",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/174321.png.jpg",
             "rating": 6.9
           },
           {
@@ -411,7 +411,7 @@
             "name": "Nahuel Molina",
             "short": "Molina",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/726345.png.jpg",
             "rating": 6.7
           },
           {
@@ -419,7 +419,7 @@
             "name": "Facundo Medina",
             "short": "Medina",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/812652.png.jpg",
             "rating": 7.4
           },
           {
@@ -427,7 +427,7 @@
             "name": "Giuliano Simeone",
             "short": "Simeone",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/giuliano-simeone.jpg",
             "rating": 6.7
           },
           {
@@ -435,7 +435,7 @@
             "name": "Marcos Senesi",
             "short": "Senesi",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/785411.png.jpg",
             "rating": 7.5
           },
           {
@@ -443,7 +443,7 @@
             "name": "Exequiel Palacios",
             "short": "Palacios",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/693599.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Valentín Barco",
             "short": "Barco",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1272440.png.jpg",
             "rating": null
           },
           {
@@ -475,7 +475,7 @@
             "name": "José Manuel López",
             "short": "López",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1216079.png.jpg",
             "rating": null
           },
           {
@@ -483,7 +483,7 @@
             "name": "Thiago Almada",
             "short": "Almada",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/955271.png.jpg",
             "rating": null
           },
           {
@@ -491,7 +491,7 @@
             "name": "Lautaro Martínez",
             "short": "Martínez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/690230.png.jpg",
             "rating": null
           },
           {
@@ -499,7 +499,7 @@
             "name": "Juan Musso",
             "short": "Musso",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/389050.png.jpg",
             "rating": null
           },
           {
@@ -523,7 +523,7 @@
           "name": "Lisandro Martínez",
           "short": "Lisandro",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/847983.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -536,14 +536,14 @@
           "name": "Nicolás Otamendi",
           "short": "Otamendi",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/174321.png.jpg"
         },
         "replaced": {
           "id": "lisandro-martinez-spain-argentina-2026-07-19",
           "name": "Lisandro Martínez",
           "short": "Lisandro",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/847983.png.jpg"
         }
       },
       {
@@ -562,7 +562,7 @@
           "name": "Nico González",
           "short": "González",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280132.png.jpg"
         }
       },
       {
@@ -587,14 +587,14 @@
           "name": "Nahuel Molina",
           "short": "Molina",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/726345.png.jpg"
         },
         "replaced": {
           "id": "gonzalo-montiel-spain-argentina-2026-07-19",
           "name": "Gonzalo Montiel",
           "short": "Montiel",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/687008.png.jpg"
         }
       },
       {
@@ -613,7 +613,7 @@
           "name": "Mikel Oyarzabal",
           "short": "Oyarzabal",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/678234.png.jpg"
         }
       },
       {
@@ -644,14 +644,14 @@
           "name": "Facundo Medina",
           "short": "Medina",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/812652.png.jpg"
         },
         "replaced": {
           "id": "cristian-romero-spain-argentina-2026-07-19",
           "name": "Cristian Romero",
           "short": "Romero",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789066.png.jpg"
         }
       },
       {
@@ -663,14 +663,14 @@
           "name": "Giuliano Simeone",
           "short": "Simeone",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/giuliano-simeone.jpg"
         },
         "replaced": {
           "id": "rodrigo-de-paul-spain-argentina-2026-07-19",
           "name": "Rodrigo De Paul",
           "short": "De Paul",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/324578.png.jpg"
         }
       },
       {
@@ -682,14 +682,14 @@
           "name": "Nico Williams",
           "short": "Williams",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1202110.png.jpg"
         },
         "replaced": {
           "id": "alex-baena-spain-argentina-2026-07-19",
           "name": "Álex Baena",
           "short": "Baena",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/942372.png.jpg"
         }
       },
       {
@@ -733,7 +733,7 @@
           "name": "Cristian Romero",
           "short": "Romero",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789066.png.jpg"
         },
         "detail": "Not specified by source"
       },
@@ -778,14 +778,14 @@
           "name": "Eric García",
           "short": "García",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/940573.png.jpg"
         },
         "replaced": {
           "id": "aymeric-laporte-spain-argentina-2026-07-19",
           "name": "Aymeric Laporte",
           "short": "Laporte",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/aymeric-laporte.jpg"
         }
       },
       {
@@ -797,14 +797,14 @@
           "name": "Marcos Senesi",
           "short": "Senesi",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/785411.png.jpg"
         },
         "replaced": {
           "id": "julian-alvarez-spain-argentina-2026-07-19",
           "name": "Julián Álvarez",
           "short": "Álvarez",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/974753.png.jpg"
         }
       },
       {
@@ -825,7 +825,7 @@
           "name": "Nico Williams",
           "short": "Williams",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1202110.png.jpg"
         },
         "goalType": "build",
         "description": "Nico Williams nodded the ball on and Ferran Torres struck a left-footed shot from the centre of the box into the high centre of the goal."

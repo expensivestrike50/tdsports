@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "kamory-doumbia",
     "name": "Kamory Doumbia",
     "short": "Doumbia",
     "position": "AM",
-    "photo": null,
+    "photo": "assets/photos/people/kamory-doumbia.jpg",
     "matches": [
       {
         "match": "lille-brest-2026-10-17",

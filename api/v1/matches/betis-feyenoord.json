@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "betis-feyenoord",
     "date": "2026-10-21",
@@ -57,7 +57,7 @@
             "name": "Fran García",
             "short": "Fran García",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/750028.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 7.2
@@ -97,7 +97,7 @@
             "name": "Marc Roca",
             "short": "Roca",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/640220.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 7
@@ -183,7 +183,7 @@
             "name": "Nelson Deossa",
             "short": "Deossa",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1315711.png.jpg",
             "rating": 7.5
           },
           {
@@ -191,7 +191,7 @@
             "name": "Ángel Ortiz",
             "short": "Ortiz",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1580522.png.jpg",
             "rating": 6.3
           },
           {
@@ -207,7 +207,7 @@
             "name": "José Morante",
             "short": "Morante",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1793845.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Aitor Ruibal",
             "short": "Ruibal",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/676533.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Facundo Bernal",
             "short": "Bernal",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1436133.png.jpg",
             "rating": null
           },
           {
@@ -267,7 +267,7 @@
             "name": "Tjark Ernst",
             "short": "Ernst",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1336731.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.7
@@ -317,7 +317,7 @@
             "name": "Oussama Targhaline",
             "short": "Targhaline",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1228273.png.jpg",
             "x": 68,
             "y": 77,
             "rating": 6.3
@@ -357,7 +357,7 @@
             "name": "Nacho Ferri",
             "short": "Ferri",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1382019.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 7.3
@@ -379,7 +379,7 @@
             "name": "Tsuyoshi Watanabe",
             "short": "Watanabe",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1023887.png.jpg",
             "rating": 7.4
           },
           {
@@ -387,7 +387,7 @@
             "name": "Gaoussou Diarra",
             "short": "Diarra",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1675966.png.jpg",
             "rating": 7.2
           },
           {
@@ -403,7 +403,7 @@
             "name": "Tobias van den Elshout",
             "short": "Elshout",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1692856.png.jpg",
             "rating": 7.4
           },
           {
@@ -427,7 +427,7 @@
             "name": "Thijs Kraaijeveld",
             "short": "Kraaijeveld",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553376.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Tijme Wessels",
             "short": "Wessels",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/2088463.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Jerayno Schaken",
             "short": "Schaken",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1876640.png.jpg",
             "rating": null
           }
         ]
@@ -556,7 +556,7 @@
           "name": "Tsuyoshi Watanabe",
           "short": "Watanabe",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1023887.png.jpg"
         },
         "replaced": {
           "id": "jerry-st-juste",
@@ -575,7 +575,7 @@
           "name": "Gaoussou Diarra",
           "short": "Diarra",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1675966.png.jpg"
         },
         "replaced": {
           "id": "charles-vanhoutte",
@@ -613,7 +613,7 @@
           "name": "Nelson Deossa",
           "short": "Deossa",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1315711.png.jpg"
         },
         "replaced": {
           "id": "troy-parrott",
@@ -632,7 +632,7 @@
           "name": "Ángel Ortiz",
           "short": "Ortiz",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1580522.png.jpg"
         },
         "replaced": {
           "id": "hector-bellerin",
@@ -683,14 +683,14 @@
           "name": "Tobias van den Elshout",
           "short": "Elshout",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1692856.png.jpg"
         },
         "replaced": {
           "id": "oussama-targhaline",
           "name": "Oussama Targhaline",
           "short": "Targhaline",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1228273.png.jpg"
         }
       }
     ],

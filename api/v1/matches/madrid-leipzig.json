@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "madrid-leipzig",
     "date": "2026-10-21",
@@ -183,7 +183,7 @@
             "name": "Carlos Espí",
             "short": "Espí",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1610744.png.jpg",
             "rating": 6.9
           },
           {
@@ -215,7 +215,7 @@
             "name": "Thiago Pitarch",
             "short": "Pitarch",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1796908.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Trent Alexander-Arnold",
             "short": "Alexander-Arnold",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/760712.png.jpg",
             "rating": null
           },
           {
@@ -357,7 +357,7 @@
             "name": "Brajan Gruda",
             "short": "Gruda",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1430151.png.jpg",
             "x": 63,
             "y": 22,
             "rating": 6.8
@@ -379,7 +379,7 @@
             "name": "Rocco Reitz",
             "short": "Reitz",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1174726.png.jpg",
             "rating": 7
           },
           {
@@ -395,7 +395,7 @@
             "name": "Max Finkgrafe",
             "short": "Finkgrafe",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1529161.png.jpg",
             "rating": 6.3
           },
           {
@@ -403,7 +403,7 @@
             "name": "Tidiam Gomis",
             "short": "Gomis",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1482733.png.jpg",
             "rating": 7.4
           },
           {
@@ -419,7 +419,7 @@
             "name": "Ezechiel Banzuzi",
             "short": "Banzuzi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1310001.png.jpg",
             "rating": null
           },
           {
@@ -523,7 +523,7 @@
           "name": "Rocco Reitz",
           "short": "Reitz",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1174726.png.jpg"
         },
         "replaced": {
           "id": "neil-el-aynaoui",
@@ -549,7 +549,7 @@
           "name": "Brajan Gruda",
           "short": "Gruda",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1430151.png.jpg"
         }
       },
       {
@@ -612,7 +612,7 @@
           "name": "Rocco Reitz",
           "short": "Reitz",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1174726.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -625,7 +625,7 @@
           "name": "Max Finkgrafe",
           "short": "Finkgrafe",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1529161.png.jpg"
         },
         "replaced": {
           "id": "david-raum",
@@ -644,7 +644,7 @@
           "name": "Tidiam Gomis",
           "short": "Gomis",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1482733.png.jpg"
         },
         "replaced": {
           "id": "antonio-nusa",
@@ -724,7 +724,7 @@
           "name": "Tidiam Gomis",
           "short": "Gomis",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1482733.png.jpg"
         },
         "scoreAfter": "3 - 1",
         "penalty": false,
@@ -770,7 +770,7 @@
           "name": "Carlos Espí",
           "short": "Espí",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1610744.png.jpg"
         },
         "replaced": {
           "id": "kylian-mbappe",

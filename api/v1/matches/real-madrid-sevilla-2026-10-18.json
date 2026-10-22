@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "real-madrid-sevilla-2026-10-18",
     "date": "2026-10-18",
@@ -183,7 +183,7 @@
             "name": "Carlos Espí",
             "short": "Espí",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1610744.png.jpg",
             "rating": 7.3
           },
           {
@@ -199,7 +199,7 @@
             "name": "Thiago Pitarch",
             "short": "Pitarch",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1796908.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Trent Alexander-Arnold",
             "short": "Alexander-Arnold",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/760712.png.jpg",
             "rating": null
           },
           {
@@ -267,7 +267,7 @@
             "name": "Odisseas Vlachodimos",
             "short": "O. Vlachodimos",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/304355.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.6
@@ -277,7 +277,7 @@
             "name": "Juan Iglesias",
             "short": "J. Iglesias",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1102289.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 7.4
@@ -307,7 +307,7 @@
             "name": "Gabriel Suazo",
             "short": "G. Suazo",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/659490.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 6.4
@@ -317,7 +317,7 @@
             "name": "Lucien Agoumé",
             "short": "L. Agoumé",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/971790.png.jpg",
             "x": 73,
             "y": 70,
             "rating": 6.6
@@ -327,7 +327,7 @@
             "name": "Youssouf Fofana",
             "short": "Y. Fofana",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/954621.png.jpg",
             "x": 73,
             "y": 30,
             "rating": 7.1
@@ -337,7 +337,7 @@
             "name": "Rubén Vargas",
             "short": "R. Vargas",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/ruben-vargas.jpg",
             "x": 63,
             "y": 77,
             "rating": 6.3
@@ -347,7 +347,7 @@
             "name": "Peque",
             "short": "Peque",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1132607.png.jpg",
             "x": 63,
             "y": 50,
             "rating": 7.2
@@ -357,7 +357,7 @@
             "name": "Felix Correia",
             "short": "F. Correia",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/942358.png.jpg",
             "x": 63,
             "y": 22,
             "rating": 6.6
@@ -367,7 +367,7 @@
             "name": "Robbie Ure",
             "short": "R. Ure",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1399218.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.9
@@ -379,7 +379,7 @@
             "name": "Chidera Ejuke",
             "short": "Ejuke",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/837270.png.jpg",
             "rating": 6.6
           },
           {
@@ -387,7 +387,7 @@
             "name": "Lucas Stassin",
             "short": "Stassin",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1398377.png.jpg",
             "rating": 7.5
           },
           {
@@ -395,7 +395,7 @@
             "name": "Manu Bueno",
             "short": "Bueno",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1428849.png.jpg",
             "rating": 7.8
           },
           {
@@ -403,7 +403,7 @@
             "name": "José Ángel Carmona",
             "short": "Carmona",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281461.png.jpg",
             "rating": 6.5
           },
           {
@@ -427,7 +427,7 @@
             "name": "Arouna Sangante",
             "short": "Sangante",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1244272.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Fábio Cardoso",
             "short": "Cardoso",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/361751.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Nico Guillén",
             "short": "Guillén",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1783498.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Rafael Romero",
             "short": "Romero",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1130991.png.jpg",
             "rating": null
           }
         ]
@@ -475,7 +475,7 @@
           "name": "Felix Correia",
           "short": "F. Correia",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/942358.png.jpg"
         },
         "detail": "Not specified"
       },
@@ -547,14 +547,14 @@
           "name": "Chidera Ejuke",
           "short": "Ejuke",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/837270.png.jpg"
         },
         "replaced": {
           "id": "ruben-vargas",
           "name": "Rubén Vargas",
           "short": "R. Vargas",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/ruben-vargas.jpg"
         }
       },
       {
@@ -566,14 +566,14 @@
           "name": "Lucas Stassin",
           "short": "Stassin",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1398377.png.jpg"
         },
         "replaced": {
           "id": "robbie-ure",
           "name": "Robbie Ure",
           "short": "R. Ure",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1399218.png.jpg"
         }
       },
       {
@@ -585,14 +585,14 @@
           "name": "Manu Bueno",
           "short": "Bueno",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1428849.png.jpg"
         },
         "replaced": {
           "id": "peque",
           "name": "Peque",
           "short": "Peque",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1132607.png.jpg"
         }
       },
       {
@@ -640,7 +640,7 @@
           "name": "Juan Iglesias",
           "short": "J. Iglesias",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1102289.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -672,14 +672,14 @@
           "name": "José Ángel Carmona",
           "short": "Carmona",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281461.png.jpg"
         },
         "replaced": {
           "id": "juan-iglesias",
           "name": "Juan Iglesias",
           "short": "J. Iglesias",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1102289.png.jpg"
         }
       },
       {
@@ -698,7 +698,7 @@
           "name": "Felix Correia",
           "short": "F. Correia",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/942358.png.jpg"
         }
       },
       {
@@ -742,7 +742,7 @@
           "name": "Manu Bueno",
           "short": "Bueno",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1428849.png.jpg"
         },
         "scoreAfter": "3 - 1",
         "penalty": false,
@@ -751,7 +751,7 @@
           "name": "Lucas Stassin",
           "short": "Stassin",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1398377.png.jpg"
         },
         "goalType": "build",
         "description": "Manu Bueno left footed shot from the right side of the box to the bottom left corner. Assist: Lucas Stassin."
@@ -788,7 +788,7 @@
           "name": "Carlos Espí",
           "short": "Espí",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1610744.png.jpg"
         },
         "replaced": {
           "id": "kylian-mbappe-real-madrid-sevilla-2026-10-18",

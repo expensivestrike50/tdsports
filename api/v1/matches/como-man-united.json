@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "como-man-united",
     "date": "2026-10-21",
@@ -77,7 +77,7 @@
             "name": "Jacobo Ramón",
             "short": "Ramón",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1413963.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 7.7
@@ -87,7 +87,7 @@
             "name": "Yan Couto",
             "short": "Couto",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1109171.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.4
@@ -107,7 +107,7 @@
             "name": "Luis Milla",
             "short": "Milla",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/638090.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 7.5
@@ -137,7 +137,7 @@
             "name": "Lucas Da Cunha",
             "short": "Da Cunha",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1076647.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 7.5
@@ -191,7 +191,7 @@
             "name": "Ivan Smolcic",
             "short": "Smolcic",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1353289.png.jpg",
             "rating": 7.4
           },
           {
@@ -215,7 +215,7 @@
             "name": "Mattia Liberali",
             "short": "Liberali",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1593861.png.jpg",
             "rating": null
           }
         ]
@@ -379,7 +379,7 @@
             "name": "Shea Lacey",
             "short": "Lacey",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1436260.png.jpg",
             "rating": 7.5
           },
           {
@@ -387,7 +387,7 @@
             "name": "Tynan Thompson",
             "short": "Thompson",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1681978.png.jpg",
             "rating": null
           },
           {
@@ -403,7 +403,7 @@
             "name": "Jack Fletcher",
             "short": "Fletcher",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1575707.png.jpg",
             "rating": null
           },
           {
@@ -427,7 +427,7 @@
             "name": "Jaydan Kamason",
             "short": "Kamason",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1473693.png.jpg",
             "rating": null
           }
         ]
@@ -452,7 +452,7 @@
           "name": "Lucas Da Cunha",
           "short": "Da Cunha",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1076647.png.jpg"
         },
         "goalType": "build",
         "description": "Nico Paz collected Lucas Da Cunha's pass on the edge of the box, immediately cut onto his left foot and bent the ball past Senne Lammens into the bottom left corner after two minutes."
@@ -615,7 +615,7 @@
           "name": "Lucas Da Cunha",
           "short": "Da Cunha",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1076647.png.jpg"
         }
       },
       {
@@ -627,7 +627,7 @@
           "name": "Jacobo Ramón",
           "short": "Ramón",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1413963.png.jpg"
         },
         "scoreAfter": "4 - 0",
         "penalty": false,
@@ -707,14 +707,14 @@
           "name": "Ivan Smolcic",
           "short": "Smolcic",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1353289.png.jpg"
         },
         "replaced": {
           "id": "yan-couto",
           "name": "Yan Couto",
           "short": "Couto",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1109171.png.jpg"
         }
       },
       {
@@ -739,7 +739,7 @@
           "name": "Shea Lacey",
           "short": "Lacey",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1436260.png.jpg"
         },
         "replaced": {
           "id": "bryan-mbeumo",
@@ -758,7 +758,7 @@
           "name": "Shea Lacey",
           "short": "Lacey",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1436260.png.jpg"
         },
         "detail": "Bad foul"
       },

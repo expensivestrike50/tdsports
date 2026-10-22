@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "hoffenheim-besiktas-2026-10-15",
     "date": "2026-10-15",
@@ -39,7 +39,7 @@
           "name": "Christian Ilzer",
           "short": "Ilzer",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/601384.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Oliver Baumann",
             "short": "Baumann",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/178778.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.7
@@ -57,7 +57,7 @@
             "name": "Bernardo",
             "short": "Bernardo",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/637716.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.8
@@ -67,7 +67,7 @@
             "name": "Koki Machida",
             "short": "Machida",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/727817.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 8.3
@@ -77,7 +77,7 @@
             "name": "Ozan Kabak",
             "short": "Kabak",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/845990.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.7
@@ -87,7 +87,7 @@
             "name": "Vladimír Coufal",
             "short": "Coufal",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/307317.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.5
@@ -97,7 +97,7 @@
             "name": "Leon Avdullahu",
             "short": "Avdullahu",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1478148.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 7.4
@@ -107,7 +107,7 @@
             "name": "Wouter Burger",
             "short": "Burger",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/947884.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 6.7
@@ -117,7 +117,7 @@
             "name": "Adam Daghim",
             "short": "Daghim",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1353000.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 7.2
@@ -127,7 +127,7 @@
             "name": "Fisnik Asllani",
             "short": "Asllani",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1219540.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 7.3
@@ -137,7 +137,7 @@
             "name": "Andrej Kramaric",
             "short": "Kramaric",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/173461.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 6.9
@@ -147,7 +147,7 @@
             "name": "Adam Hlozek",
             "short": "Hlozek",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/969870.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 6.7
@@ -159,7 +159,7 @@
             "name": "Alexander Prass",
             "short": "Prass",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1027194.png.jpg",
             "rating": 6.9
           },
           {
@@ -167,7 +167,7 @@
             "name": "Tim Lemperle",
             "short": "Lemperle",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1124825.png.jpg",
             "rating": 7.3
           },
           {
@@ -175,7 +175,7 @@
             "name": "Nathan De Cat",
             "short": "Cat",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1664759.png.jpg",
             "rating": 6.8
           },
           {
@@ -183,7 +183,7 @@
             "name": "Bambasé Conté",
             "short": "Conté",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1338957.png.jpg",
             "rating": 6.9
           },
           {
@@ -191,7 +191,7 @@
             "name": "Robin Hranác",
             "short": "Hranác",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1225995.png.jpg",
             "rating": 6.5
           },
           {
@@ -199,7 +199,7 @@
             "name": "Valentin Gendrey",
             "short": "Gendrey",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1077653.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Cajetan Lenz",
             "short": "Lenz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1793498.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Lúkas Petersson",
             "short": "Petersson",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1567973.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Natnael Abraha",
             "short": "Abraha",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1899713.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Mats Rots",
             "short": "Rots",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1445416.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Luca Philipp",
             "short": "Philipp",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1175933.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Max Moerstedt",
             "short": "Moerstedt",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1486537.png.jpg",
             "rating": null
           }
         ]
@@ -259,7 +259,7 @@
           "name": "Vincenzo Italiano",
           "short": "Italiano",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/42581.png.jpg"
         },
         "starting": [
           {
@@ -267,7 +267,7 @@
             "name": "Alexander Nübel",
             "short": "Nübel",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/alexander-nubel.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.4
@@ -277,7 +277,7 @@
             "name": "Kassoum Ouattara",
             "short": "Ouattara",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1387194.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 6.8
@@ -287,7 +287,7 @@
             "name": "Emir Han Topcu",
             "short": "Topcu",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/873855.png.jpg",
             "x": 82,
             "y": 62,
             "rating": 6.9
@@ -297,7 +297,7 @@
             "name": "Emmanuel Agbadou",
             "short": "Agbadou",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1114979.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 6.4
@@ -307,7 +307,7 @@
             "name": "Amir Murillo",
             "short": "Murillo",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/643635.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 8.4
@@ -317,7 +317,7 @@
             "name": "Orkun Kökçü",
             "short": "Kökçü",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/935409.png.jpg",
             "x": 73,
             "y": 70,
             "rating": 7.4
@@ -327,7 +327,7 @@
             "name": "Wilfred Ndidi",
             "short": "Ndidi",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/533228.png.jpg",
             "x": 73,
             "y": 30,
             "rating": 7
@@ -337,7 +337,7 @@
             "name": "Leandro Trossard",
             "short": "Trossard",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/318615.png.jpg",
             "x": 63,
             "y": 77,
             "rating": 7.6
@@ -347,7 +347,7 @@
             "name": "Junior Olaitan",
             "short": "Olaitan",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1264368.png.jpg",
             "x": 63,
             "y": 50,
             "rating": 7
@@ -357,7 +357,7 @@
             "name": "Ilhan Fakili",
             "short": "Fakili",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1642084.png.jpg",
             "x": 63,
             "y": 22,
             "rating": 7.3
@@ -379,7 +379,7 @@
             "name": "Fabio Miretti",
             "short": "Miretti",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280080.png.jpg",
             "rating": 7.1
           },
           {
@@ -387,7 +387,7 @@
             "name": "Salih Özcan",
             "short": "Özcan",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/738064.png.jpg",
             "rating": 7.1
           },
           {
@@ -395,7 +395,7 @@
             "name": "Semih Kiliçsoy",
             "short": "Kiliçsoy",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1435689.png.jpg",
             "rating": 7.5
           },
           {
@@ -411,7 +411,7 @@
             "name": "Umit Akdag",
             "short": "Akdag",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1366373.png.jpg",
             "rating": 6.8
           },
           {
@@ -419,7 +419,7 @@
             "name": "Ahmet Bircan",
             "short": "Bircan",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1896214.png.jpg",
             "rating": null
           },
           {
@@ -427,7 +427,7 @@
             "name": "Ernest Poku",
             "short": "Poku",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1251666.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Yasin Ozcan",
             "short": "Ozcan",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1393980.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Dogan Alemdar",
             "short": "Alemdar",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/958273.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Taylan Bulut",
             "short": "Bulut",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1487872.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Tiago Djaló",
             "short": "Djaló",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/tiago-djalo.jpg",
             "rating": null
           }
         ]
@@ -475,7 +475,7 @@
           "name": "Fisnik Asllani",
           "short": "Asllani",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1219540.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -488,14 +488,14 @@
           "name": "Fabio Miretti",
           "short": "Miretti",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280080.png.jpg"
         },
         "replaced": {
           "id": "orkun-kokcu",
           "name": "Orkun Kökçü",
           "short": "Kökçü",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/935409.png.jpg"
         }
       },
       {
@@ -507,14 +507,14 @@
           "name": "Alexander Prass",
           "short": "Prass",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1027194.png.jpg"
         },
         "replaced": {
           "id": "adam-daghim-hoffenheim-besiktas-2026-10-15",
           "name": "Adam Daghim",
           "short": "Daghim",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1353000.png.jpg"
         }
       },
       {
@@ -526,14 +526,14 @@
           "name": "Tim Lemperle",
           "short": "Lemperle",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1124825.png.jpg"
         },
         "replaced": {
           "id": "adam-hlozek-hoffenheim-besiktas-2026-10-15",
           "name": "Adam Hlozek",
           "short": "Hlozek",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/969870.png.jpg"
         }
       },
       {
@@ -545,7 +545,7 @@
           "name": "Amir Murillo",
           "short": "Murillo",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/643635.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": false,
@@ -568,7 +568,7 @@
           "name": "Ozan Kabak",
           "short": "Kabak",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/845990.png.jpg"
         },
         "detail": "not specified"
       },
@@ -581,7 +581,7 @@
           "name": "Fisnik Asllani",
           "short": "Asllani",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1219540.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": false,
@@ -590,7 +590,7 @@
           "name": "Tim Lemperle",
           "short": "Lemperle",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1124825.png.jpg"
         },
         "goalType": "build",
         "description": "Tim Lemperle provided the assist; Fisnik Asllani scored with a right-footed shot from the centre of the box to the bottom left corner."
@@ -613,7 +613,7 @@
           "name": "Junior Olaitan",
           "short": "Olaitan",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1264368.png.jpg"
         },
         "goalType": "counter",
         "description": "Junior Olaitan provided the assist with a through ball following a fast break; Oh Hyeon-Gyu scored with a right-footed shot from the left side of the box to the bottom left corner."
@@ -627,14 +627,14 @@
           "name": "Nathan De Cat",
           "short": "Cat",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1664759.png.jpg"
         },
         "replaced": {
           "id": "wouter-burger-hoffenheim-besiktas-2026-10-15",
           "name": "Wouter Burger",
           "short": "Burger",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/947884.png.jpg"
         }
       },
       {
@@ -646,14 +646,14 @@
           "name": "Bambasé Conté",
           "short": "Conté",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1338957.png.jpg"
         },
         "replaced": {
           "id": "andrej-kramaric-hoffenheim-besiktas-2026-10-15",
           "name": "Andrej Kramaric",
           "short": "Kramaric",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/173461.png.jpg"
         }
       },
       {
@@ -665,14 +665,14 @@
           "name": "Salih Özcan",
           "short": "Özcan",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/738064.png.jpg"
         },
         "replaced": {
           "id": "junior-olaitan",
           "name": "Junior Olaitan",
           "short": "Olaitan",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1264368.png.jpg"
         }
       },
       {
@@ -693,7 +693,7 @@
           "name": "Ilhan Fakili",
           "short": "Fakili",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1642084.png.jpg"
         },
         "goalType": "counter",
         "description": "Ilhan Fakili provided the assist with a cross following a fast break; Oh Hyeon-Gyu scored with a right-footed shot from the centre of the box to the bottom left corner."
@@ -720,14 +720,14 @@
           "name": "Robin Hranác",
           "short": "Hranác",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1225995.png.jpg"
         },
         "replaced": {
           "id": "ozan-kabak-hoffenheim-besiktas-2026-10-15",
           "name": "Ozan Kabak",
           "short": "Kabak",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/845990.png.jpg"
         }
       },
       {
@@ -739,7 +739,7 @@
           "name": "Semih Kiliçsoy",
           "short": "Kiliçsoy",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1435689.png.jpg"
         },
         "replaced": {
           "id": "oh-hyeon-gyu",
@@ -758,7 +758,7 @@
           "name": "Koki Machida",
           "short": "Machida",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/727817.png.jpg"
         },
         "scoreAfter": "2 - 3",
         "penalty": false,
@@ -767,7 +767,7 @@
           "name": "Vladimír Coufal",
           "short": "Coufal",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/307317.png.jpg"
         },
         "goalType": "set",
         "description": "Vladimír Coufal provided the assist with a cross following a corner; Koki Machida scored with a header from the centre of the box to the bottom right corner."
@@ -788,7 +788,7 @@
           "name": "Kassoum Ouattara",
           "short": "Ouattara",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1387194.png.jpg"
         }
       },
       {
@@ -800,14 +800,14 @@
           "name": "Umit Akdag",
           "short": "Akdag",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1366373.png.jpg"
         },
         "replaced": {
           "id": "wilfred-ndidi",
           "name": "Wilfred Ndidi",
           "short": "Ndidi",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/533228.png.jpg"
         }
       },
       {
@@ -819,7 +819,7 @@
           "name": "Tim Lemperle",
           "short": "Lemperle",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1124825.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -832,7 +832,7 @@
           "name": "Koki Machida",
           "short": "Machida",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/727817.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -845,7 +845,7 @@
           "name": "Vladimír Coufal",
           "short": "Coufal",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/307317.png.jpg"
         },
         "detail": "not specified"
       }

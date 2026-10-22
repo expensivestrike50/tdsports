@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "sporting-lask",
     "date": "2026-10-21",
@@ -47,7 +47,7 @@
             "name": "Kaique",
             "short": "Kaique",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1320169.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.8
@@ -57,7 +57,7 @@
             "name": "Maxi Araújo",
             "short": "Araújo",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1031656.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.5
@@ -97,7 +97,7 @@
             "name": "Issa Doumbia",
             "short": "Doumbia",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1339345.png.jpg",
             "x": 32,
             "y": 23,
             "rating": 6.3
@@ -107,7 +107,7 @@
             "name": "Sergi Altimira",
             "short": "Altimira",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1310480.png.jpg",
             "x": 32,
             "y": 50,
             "rating": 7.1
@@ -117,7 +117,7 @@
             "name": "João Simões",
             "short": "Simões",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1663855.png.jpg",
             "x": 32,
             "y": 78,
             "rating": 7.1
@@ -147,7 +147,7 @@
             "name": "Geny Catamo",
             "short": "Catamo",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1088753.png.jpg",
             "x": 46,
             "y": 78,
             "rating": 7
@@ -159,7 +159,7 @@
             "name": "Flávio Gonçalves",
             "short": "Gonçalves",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1691190.png.jpg",
             "rating": 6.2
           },
           {
@@ -175,7 +175,7 @@
             "name": "Jesse Derry",
             "short": "Derry",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1526704.png.jpg",
             "rating": 6.5
           },
           {
@@ -183,7 +183,7 @@
             "name": "Fotis Ioannidis",
             "short": "Ioannidis",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/899701.png.jpg",
             "rating": 6.7
           },
           {
@@ -191,7 +191,7 @@
             "name": "Ibrahima Ba",
             "short": "Ba",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1609327.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Eduardo Felicíssimo",
             "short": "Felicíssimo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1648470.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Georgios Vagiannidis",
             "short": "Vagiannidis",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1119687.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Rodrigo Dias",
             "short": "Dias",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1703622.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Silas Andersen",
             "short": "Andersen",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1425101.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Rafael Nel",
             "short": "Nel",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1525416.png.jpg",
             "rating": null
           },
           {
@@ -287,7 +287,7 @@
             "name": "Alemão",
             "short": "Alemão",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1437941.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 6.9
@@ -337,7 +337,7 @@
             "name": "Kasper Jørgensen",
             "short": "Jørgensen",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029360.png.jpg",
             "x": 68,
             "y": 12,
             "rating": 7.9
@@ -347,7 +347,7 @@
             "name": "Christoph Lang",
             "short": "Lang",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1232205.png.jpg",
             "x": 54,
             "y": 77,
             "rating": 8.1
@@ -395,7 +395,7 @@
             "name": "Samuel Adeniran",
             "short": "Adeniran",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1188855.png.jpg",
             "rating": 7.2
           },
           {
@@ -403,7 +403,7 @@
             "name": "Moses Usor",
             "short": "Usor",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1366348.png.jpg",
             "rating": 6.3
           },
           {
@@ -419,7 +419,7 @@
             "name": "Manoël Louis-Philippe Verhaeghe",
             "short": "Verhaeghe",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1863042.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Melayro Bogarde",
             "short": "Bogarde",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1108604.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Nael Kane",
             "short": "Kane",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1756283.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Miguel Freckleton",
             "short": "Freckleton",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1420822.png.jpg",
             "rating": null
           }
         ]
@@ -492,7 +492,7 @@
           "name": "Christoph Lang",
           "short": "Lang",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1232205.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": false,
@@ -501,7 +501,7 @@
           "name": "Kasper Jørgensen",
           "short": "Jørgensen",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029360.png.jpg"
         },
         "goalType": "build",
         "description": "Kasper Jørgensen set up Christoph Lang, who levelled with a right-footed shot from the centre of the box into the bottom left corner."
@@ -515,7 +515,7 @@
           "name": "Christoph Lang",
           "short": "Lang",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1232205.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -583,7 +583,7 @@
           "name": "Issa Doumbia",
           "short": "Doumbia",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1339345.png.jpg"
         },
         "detail": "Foul"
       },
@@ -615,14 +615,14 @@
           "name": "Samuel Adeniran",
           "short": "Adeniran",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1188855.png.jpg"
         },
         "replaced": {
           "id": "christoph-lang",
           "name": "Christoph Lang",
           "short": "Lang",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1232205.png.jpg"
         }
       },
       {
@@ -634,7 +634,7 @@
           "name": "João Simões",
           "short": "Simões",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1663855.png.jpg"
         },
         "detail": "Foul"
       },
@@ -647,14 +647,14 @@
           "name": "Flávio Gonçalves",
           "short": "Gonçalves",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1691190.png.jpg"
         },
         "replaced": {
           "id": "joao-simoes",
           "name": "João Simões",
           "short": "Simões",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1663855.png.jpg"
         }
       },
       {
@@ -675,7 +675,7 @@
           "name": "Samuel Adeniran",
           "short": "Adeniran",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1188855.png.jpg"
         },
         "goalType": "counter",
         "description": "Another fast break: substitute Samuel Adeniran found Krystof Danek, who fired left-footed from the right side of the box into the bottom right corner."
@@ -709,7 +709,7 @@
           "name": "Geny Catamo",
           "short": "Catamo",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1088753.png.jpg"
         }
       },
       {
@@ -721,7 +721,7 @@
           "name": "Jesse Derry",
           "short": "Derry",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1526704.png.jpg"
         },
         "replaced": {
           "id": "nestory-irankunda",
@@ -740,14 +740,14 @@
           "name": "Fotis Ioannidis",
           "short": "Ioannidis",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/899701.png.jpg"
         },
         "replaced": {
           "id": "issa-doumbia",
           "name": "Issa Doumbia",
           "short": "Doumbia",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1339345.png.jpg"
         }
       },
       {
@@ -759,7 +759,7 @@
           "name": "Moses Usor",
           "short": "Usor",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1366348.png.jpg"
         },
         "replaced": {
           "id": "sasa-kalajdzic",
@@ -785,7 +785,7 @@
           "name": "Kasper Jørgensen",
           "short": "Jørgensen",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029360.png.jpg"
         }
       },
       {

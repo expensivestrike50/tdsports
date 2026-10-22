@@ -23,6 +23,8 @@ from PIL import Image
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, 'assets', 'photos', 'venues')
 SOURCES = os.path.join(ROOT, 'assets', 'photo-sources.json')
+# Venues whose Wikipedia lead image isn't the stadium (a portrait, a logo).
+SKIP = {'Santiago Bernabéu', 'Citi Field'}
 VENUE = re.compile(r'stadium|stadio|estadio|est[aá]dio|stade|arena|ground|park|field|venue|football|soccer|sports', re.I)
 
 # Reuse the Wikipedia/Commons helpers from the player photo fetcher.
@@ -53,7 +55,7 @@ def main():
                 names.add(name.strip())
     sources = json.load(open(SOURCES, encoding='utf-8'))
     have = {s['local'] for s in sources}
-    todo = sorted(n for n in names if not os.path.exists(os.path.join(OUT_DIR, slug(n) + '.jpg')))
+    todo = sorted(n for n in names if n not in SKIP and not os.path.exists(os.path.join(OUT_DIR, slug(n) + '.jpg')))
     print(f'{len(todo)} venues without photos', flush=True)
 
     ok = lambda info: info and info[1] and VENUE.search(info[2] or '') and '/commons/' in info[3]

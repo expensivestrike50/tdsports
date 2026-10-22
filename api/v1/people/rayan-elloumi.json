@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "rayan-elloumi",
     "name": "Rayan Elloumi",
     "short": "Elloumi",
     "position": "ST",
-    "photo": null,
+    "photo": "assets/photos/people/rayan-elloumi.jpg",
     "matches": [
       {
         "match": "austin-vancouver-2026-10-17",

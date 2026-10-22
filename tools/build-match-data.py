@@ -249,6 +249,13 @@ def main():
             p['photo'] = slug(p['name'])
             s = by_local[local]
             credits.append([local, s['subject'], s['author'], s['license'], s['source']])
+    # Everyone else: FotMob headshots found by tools/fetch-fotmob-photos.py (linked, not copied).
+    fotmob_path = os.path.join(ROOT, 'assets', 'fotmob-photos.json')
+    fotmob = json.load(open(fotmob_path, encoding='utf-8')) if os.path.exists(fotmob_path) else {}
+    for p in people.values():
+        fid = fotmob.get(slug(p['name']))
+        if fid and not p.get('photo'):
+            p['photo'] = f'https://images.fotmob.com/image_resources/playerimages/{fid}.png'
     # Stadium photos fetched by tools/fetch-venue-photos.py, keyed by the venue named in each match.
     for L in lineups.values():
         name = (L.get('venue') or {}).get('name')

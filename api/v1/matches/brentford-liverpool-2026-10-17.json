@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "brentford-liverpool-2026-10-17",
     "date": "2026-10-17",
@@ -39,7 +39,7 @@
           "name": "Keith Andrews",
           "short": "Andrews",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/38711.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Caoimhín Kelleher",
             "short": "Kelleher",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/776689.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.6
@@ -57,7 +57,7 @@
             "name": "Michael Kayode",
             "short": "Kayode",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1429912.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.5
@@ -67,7 +67,7 @@
             "name": "Sepp van den Berg",
             "short": "van den Berg",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/919435.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.9
@@ -77,7 +77,7 @@
             "name": "Kristoffer Ajer",
             "short": "Ajer",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/552718.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.7
@@ -87,7 +87,7 @@
             "name": "Keane Lewis-Potter",
             "short": "Lewis-Potter",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1010426.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.1
@@ -97,7 +97,7 @@
             "name": "Yehor Yarmoliuk",
             "short": "Yarmoliuk",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1157236.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 6.3
@@ -107,7 +107,7 @@
             "name": "Vitaly Janelt",
             "short": "Janelt",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688273.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 5.7
@@ -117,7 +117,7 @@
             "name": "Dango Ouattara",
             "short": "Ouattara",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1250253.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 6.7
@@ -127,7 +127,7 @@
             "name": "Mathias Jensen",
             "short": "Jensen",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/650616.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 6.6
@@ -137,7 +137,7 @@
             "name": "Jaidon Anthony",
             "short": "Anthony",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/jaidon-anthony.jpg",
             "x": 37,
             "y": 78,
             "rating": 6.2
@@ -147,7 +147,7 @@
             "name": "Igor Thiago",
             "short": "Thiago",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1302005.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7.8
@@ -159,7 +159,7 @@
             "name": "Kevin Schade",
             "short": "Schade",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1083796.png.jpg",
             "rating": 7
           },
           {
@@ -167,7 +167,7 @@
             "name": "Mamadou Sangare",
             "short": "Sangare",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1185211.png.jpg",
             "rating": 6.8
           },
           {
@@ -175,7 +175,7 @@
             "name": "Aaron Hickey",
             "short": "Hickey",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1002039.png.jpg",
             "rating": 7
           },
           {
@@ -183,7 +183,7 @@
             "name": "El Hadji Malick Diouf",
             "short": "Diouf",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1451265.png.jpg",
             "rating": 6.7
           },
           {
@@ -191,7 +191,7 @@
             "name": "Mikkel Damsgaard",
             "short": "Damsgaard",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/888912.png.jpg",
             "rating": 6.4
           },
           {
@@ -199,7 +199,7 @@
             "name": "Fábio Carvalho",
             "short": "Carvalho",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/963965.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Nathan Collins",
             "short": "Collins",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/961306.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Hákon Valdimarsson",
             "short": "Valdimarsson",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/850962.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Callum Wilson",
             "short": "Wilson",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/184321.png.jpg",
             "rating": null
           }
         ]
@@ -303,7 +303,7 @@
             "name": "Dominik Szoboszlai",
             "short": "Szoboszlai",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/dominik-szoboszlai.jpg",
             "x": 73,
             "y": 30,
             "rating": 7.1
@@ -313,7 +313,7 @@
             "name": "Víctor Muñoz",
             "short": "Muñoz",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553105.png.jpg",
             "x": 63,
             "y": 77,
             "rating": 7.2
@@ -363,7 +363,7 @@
             "name": "Jeremie Frimpong",
             "short": "Frimpong",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/966018.png.jpg",
             "rating": 7.1
           },
           {
@@ -411,7 +411,7 @@
             "name": "Wataru Endo",
             "short": "Endo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/202643.png.jpg",
             "rating": null
           },
           {
@@ -455,7 +455,7 @@
           "name": "Dominik Szoboszlai",
           "short": "Szoboszlai",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/dominik-szoboszlai.jpg"
         }
       },
       {
@@ -477,7 +477,7 @@
           "name": "Keane Lewis-Potter",
           "short": "Lewis-Potter",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1010426.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -486,7 +486,7 @@
           "name": "Igor Thiago",
           "short": "Thiago",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1302005.png.jpg"
         },
         "goalType": "build",
         "description": "Keane Lewis-Potter headed Igor Thiago's delivery into the top right corner, moments after Liverpool had a penalty overturned by VAR."
@@ -500,7 +500,7 @@
           "name": "Jeremie Frimpong",
           "short": "Frimpong",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/966018.png.jpg"
         },
         "replaced": {
           "id": "ronald-araujo-brentford-liverpool-2026-10-17",
@@ -519,14 +519,14 @@
           "name": "Kevin Schade",
           "short": "Schade",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1083796.png.jpg"
         },
         "replaced": {
           "id": "dango-ouattara",
           "name": "Dango Ouattara",
           "short": "Ouattara",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1250253.png.jpg"
         }
       },
       {
@@ -538,14 +538,14 @@
           "name": "Mamadou Sangare",
           "short": "Sangare",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1185211.png.jpg"
         },
         "replaced": {
           "id": "mathias-jensen",
           "name": "Mathias Jensen",
           "short": "Jensen",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/650616.png.jpg"
         }
       },
       {
@@ -557,7 +557,7 @@
           "name": "Yehor Yarmoliuk",
           "short": "Yarmoliuk",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1157236.png.jpg"
         },
         "detail": "Violent conduct (headbutt on Jérémy Jacquet)"
       },
@@ -570,7 +570,7 @@
           "name": "Yehor Yarmoliuk",
           "short": "Yarmoliuk",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1157236.png.jpg"
         },
         "detail": "Referee sent to pitch-side monitor; card upgraded to straight red for violent conduct (headbutt on Jérémy Jacquet)."
       },
@@ -583,7 +583,7 @@
           "name": "Igor Thiago",
           "short": "Thiago",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1302005.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -616,7 +616,7 @@
           "name": "Jeremie Frimpong",
           "short": "Frimpong",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/966018.png.jpg"
         }
       },
       {
@@ -641,7 +641,7 @@
           "name": "Kevin Schade",
           "short": "Schade",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1083796.png.jpg"
         },
         "detail": "Foul"
       },
@@ -654,7 +654,7 @@
           "name": "Víctor Muñoz",
           "short": "Muñoz",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553105.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": false,
@@ -677,7 +677,7 @@
           "name": "Vitaly Janelt",
           "short": "Janelt",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688273.png.jpg"
         },
         "detail": "Foul"
       },
@@ -713,14 +713,14 @@
           "name": "Aaron Hickey",
           "short": "Hickey",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1002039.png.jpg"
         },
         "replaced": {
           "id": "sepp-van-den-berg",
           "name": "Sepp van den Berg",
           "short": "van den Berg",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/919435.png.jpg"
         }
       },
       {
@@ -732,14 +732,14 @@
           "name": "El Hadji Malick Diouf",
           "short": "Diouf",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1451265.png.jpg"
         },
         "replaced": {
           "id": "keane-lewis-potter",
           "name": "Keane Lewis-Potter",
           "short": "Lewis-Potter",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1010426.png.jpg"
         }
       },
       {
@@ -751,14 +751,14 @@
           "name": "Mikkel Damsgaard",
           "short": "Damsgaard",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/888912.png.jpg"
         },
         "replaced": {
           "id": "jaidon-anthony",
           "name": "Jaidon Anthony",
           "short": "Anthony",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/jaidon-anthony.jpg"
         }
       },
       {
@@ -796,7 +796,7 @@
           "name": "Víctor Muñoz",
           "short": "Muñoz",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553105.png.jpg"
         }
       },
       {
@@ -808,7 +808,7 @@
           "name": "Vitaly Janelt",
           "short": "Janelt",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688273.png.jpg"
         },
         "detail": "Second yellow card for a foul on Rio Ngumoha"
       }

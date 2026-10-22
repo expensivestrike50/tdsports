@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "kansas-city-salt-lake-2026-10-17",
     "date": "2026-10-17",
@@ -39,7 +39,7 @@
           "name": "Rapha Wicky",
           "short": "Wicky",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30705.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Stefan Cleveland",
             "short": "Cleveland",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/846521.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.2
@@ -57,7 +57,7 @@
             "name": "Emir Karic",
             "short": "Karic",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/642153.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 7
@@ -67,7 +67,7 @@
             "name": "Wyatt Meyer",
             "short": "Meyer",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1600922.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 7.2
@@ -77,7 +77,7 @@
             "name": "Jansen Miller",
             "short": "Miller",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1083287.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 7.2
@@ -87,7 +87,7 @@
             "name": "Jacob Bartlett",
             "short": "Bartlett",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1710542.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.3
@@ -97,7 +97,7 @@
             "name": "Calvin Harris",
             "short": "Harris",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1244938.png.jpg",
             "x": 32,
             "y": 12,
             "rating": 7.3
@@ -107,7 +107,7 @@
             "name": "Zorhan Bassong",
             "short": "Bassong",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1023070.png.jpg",
             "x": 32,
             "y": 38,
             "rating": 7
@@ -117,7 +117,7 @@
             "name": "Kwaku Agyabeng",
             "short": "Agyabeng",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1907812.png.jpg",
             "x": 32,
             "y": 64,
             "rating": 7
@@ -127,7 +127,7 @@
             "name": "André Luiz",
             "short": "André Luiz",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1284944.png.jpg",
             "x": 32,
             "y": 88,
             "rating": 6.9
@@ -137,7 +137,7 @@
             "name": "Stephen Afrifa",
             "short": "Afrifa",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1439990.png.jpg",
             "x": 46,
             "y": 30,
             "rating": 7.5
@@ -147,7 +147,7 @@
             "name": "Taylor Calheira",
             "short": "Calheira",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1625713.png.jpg",
             "x": 46,
             "y": 70,
             "rating": 7.8
@@ -159,7 +159,7 @@
             "name": "Capita",
             "short": "Capita",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1187420.png.jpg",
             "rating": 6.4
           },
           {
@@ -167,7 +167,7 @@
             "name": "Jacob Davis",
             "short": "Davis",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1082905.png.jpg",
             "rating": 7.5
           },
           {
@@ -175,7 +175,7 @@
             "name": "Ian James",
             "short": "James",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1710543.png.jpg",
             "rating": 6.9
           },
           {
@@ -183,7 +183,7 @@
             "name": "Seymour Reid",
             "short": "Reid",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1726789.png.jpg",
             "rating": 6.7
           },
           {
@@ -191,7 +191,7 @@
             "name": "Ruben Ramos",
             "short": "Ramos",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1478368.png.jpg",
             "rating": 6.7
           },
           {
@@ -199,7 +199,7 @@
             "name": "Ethan Bartlow",
             "short": "Bartlow",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1246605.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Shapi Suleymanov",
             "short": "Suleymanov",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/861720.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "John Pulskamp",
             "short": "Pulskamp",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1083233.png.jpg",
             "rating": null
           }
         ]
@@ -227,7 +227,7 @@
           "name": "Pablo Mastroeni",
           "short": "Mastroeni",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30810.png.jpg"
         },
         "starting": [
           {
@@ -245,7 +245,7 @@
             "name": "Juan Manuel Sanabria",
             "short": "Sanabria",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1053963.png.jpg",
             "x": 82,
             "y": 92,
             "rating": 7.1
@@ -255,7 +255,7 @@
             "name": "Philip Quinton",
             "short": "Quinton",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1338757.png.jpg",
             "x": 82,
             "y": 71,
             "rating": 6.9
@@ -265,7 +265,7 @@
             "name": "Luc de Fougerolles",
             "short": "de Fougerolles",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1399943.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 6.8
@@ -275,7 +275,7 @@
             "name": "Kobi Henry",
             "short": "Henry",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1172163.png.jpg",
             "x": 82,
             "y": 29,
             "rating": 7.6
@@ -285,7 +285,7 @@
             "name": "Dominik Marczuk",
             "short": "Marczuk",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1206970.png.jpg",
             "x": 82,
             "y": 8,
             "rating": 7.5
@@ -295,7 +295,7 @@
             "name": "Saba Lobjanidze",
             "short": "Lobjanidze",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/652955.png.jpg",
             "x": 68,
             "y": 88,
             "rating": 7.4
@@ -305,7 +305,7 @@
             "name": "Noel Caliskan",
             "short": "Caliskan",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1439925.png.jpg",
             "x": 68,
             "y": 62,
             "rating": 7.8
@@ -315,7 +315,7 @@
             "name": "Stijn Spierings",
             "short": "Spierings",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/614602.png.jpg",
             "x": 68,
             "y": 36,
             "rating": 7
@@ -325,7 +325,7 @@
             "name": "Morgan Guilavogui",
             "short": "Guilavogui",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1092680.png.jpg",
             "x": 68,
             "y": 12,
             "rating": 9.1
@@ -335,7 +335,7 @@
             "name": "Sergi Solans",
             "short": "Solans",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1907793.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 8.4
@@ -347,7 +347,7 @@
             "name": "Zach Booth",
             "short": "Booth",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1257558.png.jpg",
             "rating": 7.2
           },
           {
@@ -355,7 +355,7 @@
             "name": "Aiden Hezarkhani",
             "short": "Hezarkhani",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1643328.png.jpg",
             "rating": 6.5
           },
           {
@@ -363,7 +363,7 @@
             "name": "Ariath Piol",
             "short": "Piol",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1610777.png.jpg",
             "rating": 7.5
           },
           {
@@ -371,7 +371,7 @@
             "name": "Samuel Junqua",
             "short": "Junqua",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1026060.png.jpg",
             "rating": 7.5
           },
           {
@@ -379,7 +379,7 @@
             "name": "Alexandros Katranis",
             "short": "Katranis",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/784824.png.jpg",
             "rating": 6.6
           },
           {
@@ -387,7 +387,7 @@
             "name": "Colin Guske",
             "short": "Guske",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1624002.png.jpg",
             "rating": null
           },
           {
@@ -395,7 +395,7 @@
             "name": "Dušan Žagar",
             "short": "Žagar",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1786672.png.jpg",
             "rating": null
           },
           {
@@ -403,7 +403,7 @@
             "name": "Mason Stajduhar",
             "short": "Stajduhar",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/729507.png.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "DeAndre Yedlin",
             "short": "Yedlin",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/432040.png.jpg",
             "rating": null
           }
         ]
@@ -427,7 +427,7 @@
           "name": "Morgan Guilavogui",
           "short": "Guilavogui",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1092680.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": false,
@@ -436,7 +436,7 @@
           "name": "Noel Caliskan",
           "short": "Caliskan",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1439925.png.jpg"
         },
         "goalType": "build",
         "description": "Morgan Guilavogui right footed shot from the left side of the six yard box to the bottom right corner. Assisted by Noel Caliskan."
@@ -450,7 +450,7 @@
           "name": "Sergi Solans",
           "short": "Solans",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1907793.png.jpg"
         },
         "scoreAfter": "0 - 2",
         "penalty": false,
@@ -467,7 +467,7 @@
           "name": "Taylor Calheira",
           "short": "Calheira",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1625713.png.jpg"
         },
         "scoreAfter": "1 - 2",
         "penalty": false,
@@ -476,7 +476,7 @@
           "name": "André Luiz",
           "short": "André Luiz",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1284944.png.jpg"
         },
         "goalType": "counter",
         "description": "Taylor Calheira right footed shot from the centre of the box to the top right corner. Assisted by André Luiz following a fast break."
@@ -490,7 +490,7 @@
           "name": "Luc de Fougerolles",
           "short": "de Fougerolles",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1399943.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -503,7 +503,7 @@
           "name": "Morgan Guilavogui",
           "short": "Guilavogui",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1092680.png.jpg"
         },
         "scoreAfter": "1 - 3",
         "penalty": false,
@@ -512,7 +512,7 @@
           "name": "Noel Caliskan",
           "short": "Caliskan",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1439925.png.jpg"
         },
         "goalType": "build",
         "description": "Morgan Guilavogui right footed shot from the left side of the box to the centre of the goal. Assisted by Noel Caliskan."
@@ -526,14 +526,14 @@
           "name": "Capita",
           "short": "Capita",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1187420.png.jpg"
         },
         "replaced": {
           "id": "stephen-afrifa",
           "name": "Stephen Afrifa",
           "short": "Afrifa",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1439990.png.jpg"
         }
       },
       {
@@ -545,14 +545,14 @@
           "name": "Jacob Davis",
           "short": "Davis",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1082905.png.jpg"
         },
         "replaced": {
           "id": "kwaku-agyabeng",
           "name": "Kwaku Agyabeng",
           "short": "Agyabeng",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1907812.png.jpg"
         }
       },
       {
@@ -564,14 +564,14 @@
           "name": "Zach Booth",
           "short": "Booth",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1257558.png.jpg"
         },
         "replaced": {
           "id": "dominik-marczuk",
           "name": "Dominik Marczuk",
           "short": "Marczuk",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1206970.png.jpg"
         }
       },
       {
@@ -583,7 +583,7 @@
           "name": "Juan Manuel Sanabria",
           "short": "Sanabria",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1053963.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -596,14 +596,14 @@
           "name": "Ian James",
           "short": "James",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1710543.png.jpg"
         },
         "replaced": {
           "id": "zorhan-bassong",
           "name": "Zorhan Bassong",
           "short": "Bassong",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1023070.png.jpg"
         }
       },
       {
@@ -615,14 +615,14 @@
           "name": "Seymour Reid",
           "short": "Reid",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1726789.png.jpg"
         },
         "replaced": {
           "id": "taylor-calheira",
           "name": "Taylor Calheira",
           "short": "Calheira",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1625713.png.jpg"
         }
       },
       {
@@ -634,7 +634,7 @@
           "name": "Calvin Harris",
           "short": "Harris",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1244938.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -647,7 +647,7 @@
           "name": "Jacob Bartlett",
           "short": "Bartlett",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1710542.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -660,14 +660,14 @@
           "name": "Aiden Hezarkhani",
           "short": "Hezarkhani",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1643328.png.jpg"
         },
         "replaced": {
           "id": "saba-lobjanidze",
           "name": "Saba Lobjanidze",
           "short": "Lobjanidze",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/652955.png.jpg"
         }
       },
       {
@@ -679,14 +679,14 @@
           "name": "Ariath Piol",
           "short": "Piol",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1610777.png.jpg"
         },
         "replaced": {
           "id": "sergi-solans",
           "name": "Sergi Solans",
           "short": "Solans",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1907793.png.jpg"
         }
       },
       {
@@ -698,14 +698,14 @@
           "name": "Samuel Junqua",
           "short": "Junqua",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1026060.png.jpg"
         },
         "replaced": {
           "id": "luc-de-fougerolles",
           "name": "Luc de Fougerolles",
           "short": "de Fougerolles",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1399943.png.jpg"
         }
       },
       {
@@ -717,14 +717,14 @@
           "name": "Alexandros Katranis",
           "short": "Katranis",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/784824.png.jpg"
         },
         "replaced": {
           "id": "morgan-guilavogui",
           "name": "Morgan Guilavogui",
           "short": "Guilavogui",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1092680.png.jpg"
         }
       },
       {
@@ -736,14 +736,14 @@
           "name": "Ruben Ramos",
           "short": "Ramos",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1478368.png.jpg"
         },
         "replaced": {
           "id": "calvin-harris",
           "name": "Calvin Harris",
           "short": "Harris",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1244938.png.jpg"
         }
       },
       {
@@ -755,7 +755,7 @@
           "name": "Zach Booth",
           "short": "Booth",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1257558.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -768,7 +768,7 @@
           "name": "Stijn Spierings",
           "short": "Spierings",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/614602.png.jpg"
         },
         "detail": "not specified"
       },
@@ -781,7 +781,7 @@
           "name": "Jansen Miller",
           "short": "Miller",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1083287.png.jpg"
         },
         "detail": "bad foul"
       }

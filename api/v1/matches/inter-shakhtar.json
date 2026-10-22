@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "inter-shakhtar",
     "date": "2026-10-21",
@@ -207,7 +207,7 @@
             "name": "Ivan Provedel",
             "short": "Provedel",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/364822.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Raffaele Di Gennaro",
             "short": "Gennaro",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/417743.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Leonardo Bovio",
             "short": "Bovio",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1830575.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Francesco Stante",
             "short": "Stante",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1413923.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Mattia Mosconi",
             "short": "Mosconi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1646520.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Aleksandar Stankovic",
             "short": "Stankovic",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1410437.png.jpg",
             "rating": null
           }
         ]
@@ -327,7 +327,7 @@
             "name": "Gleiker Mendoza",
             "short": "Mendoza",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1460572.png.jpg",
             "x": 63,
             "y": 88,
             "rating": 6.9
@@ -337,7 +337,7 @@
             "name": "Marlon Gomes",
             "short": "Marlon Gomes",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1396465.png.jpg",
             "x": 63,
             "y": 62,
             "rating": 6.6
@@ -357,7 +357,7 @@
             "name": "Alisson Santana",
             "short": "Alisson Santana",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1503318.png.jpg",
             "x": 63,
             "y": 12,
             "rating": 6.5
@@ -367,7 +367,7 @@
             "name": "Kauã Elias",
             "short": "Kauã Elias",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1483508.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.2
@@ -379,7 +379,7 @@
             "name": "Yehor Nazaryna",
             "short": "Nazaryna",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/728941.png.jpg",
             "rating": 6.1
           },
           {
@@ -387,7 +387,7 @@
             "name": "Isaque",
             "short": "Isaque",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1697412.png.jpg",
             "rating": 6.4
           },
           {
@@ -411,7 +411,7 @@
             "name": "Bruninho",
             "short": "Bruninho",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1903980.png.jpg",
             "rating": 6.1
           },
           {
@@ -427,7 +427,7 @@
             "name": "Kiril Fesiun",
             "short": "Fesiun",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1106594.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Alaa Ghram",
             "short": "Ghram",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1173774.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Lucas Ferreira",
             "short": "Ferreira",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1699018.png.jpg",
             "rating": null
           },
           {
@@ -483,7 +483,7 @@
           "name": "Yehor Nazaryna",
           "short": "Nazaryna",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/728941.png.jpg"
         },
         "replaced": {
           "id": "pedro-henrique",
@@ -598,7 +598,7 @@
           "name": "Marlon Gomes",
           "short": "Marlon Gomes",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1396465.png.jpg"
         },
         "detail": "Foul"
       },
@@ -624,7 +624,7 @@
           "name": "Isaque",
           "short": "Isaque",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1697412.png.jpg"
         },
         "replaced": {
           "id": "oleh-ocheretko",
@@ -650,7 +650,7 @@
           "name": "Gleiker Mendoza",
           "short": "Mendoza",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1460572.png.jpg"
         }
       },
       {
@@ -669,7 +669,7 @@
           "name": "Kauã Elias",
           "short": "Kauã Elias",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1483508.png.jpg"
         }
       },
       {
@@ -755,14 +755,14 @@
           "name": "Bruninho",
           "short": "Bruninho",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1903980.png.jpg"
         },
         "replaced": {
           "id": "alisson-santana",
           "name": "Alisson Santana",
           "short": "Alisson Santana",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1503318.png.jpg"
         }
       }
     ],

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "sergio-carreira",
     "name": "Sergio Carreira",
     "short": "Carreira",
     "position": "LB",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1106742.png.jpg",
     "matches": [
       {
         "match": "celta-vigo-juventus-2026-10-15",

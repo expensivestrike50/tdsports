@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "koki-machida",
     "name": "Koki Machida",
     "short": "Machida",
     "position": "CB",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/727817.png.jpg",
     "matches": [
       {
         "match": "gladbach-hoffenheim-2026-10-18",

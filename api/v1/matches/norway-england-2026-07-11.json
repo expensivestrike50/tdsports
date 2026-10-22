@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "norway-england-2026-07-11",
     "date": "2026-07-11",
@@ -39,7 +39,7 @@
           "name": "Ståle Solbakken",
           "short": "Solbakken",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/78638.png.jpg"
         },
         "starting": [
           {
@@ -57,7 +57,7 @@
             "name": "David Møller Wolfe",
             "short": "Møller Wolfe",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1049679.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.2
@@ -67,7 +67,7 @@
             "name": "Torbjørn Heggem",
             "short": "Heggem",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/935550.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.7
@@ -77,7 +77,7 @@
             "name": "Kristoffer Ajer",
             "short": "Ajer",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/552718.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.8
@@ -87,7 +87,7 @@
             "name": "Julian Ryerson",
             "short": "Ryerson",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/659272.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.3
@@ -107,7 +107,7 @@
             "name": "Sander Berge",
             "short": "Berge",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540963.png.jpg",
             "x": 32,
             "y": 50,
             "rating": 6.6
@@ -127,7 +127,7 @@
             "name": "Andreas Schjelderup",
             "short": "Schjelderup",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1228558.png.jpg",
             "x": 46,
             "y": 23,
             "rating": 8.2
@@ -137,7 +137,7 @@
             "name": "Alexander Sørloth",
             "short": "Sørloth",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/440330.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7.3
@@ -159,7 +159,7 @@
             "name": "Fredrik Aursnes",
             "short": "Aursnes",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/310768.png.jpg",
             "rating": 6.4
           },
           {
@@ -167,7 +167,7 @@
             "name": "Oscar Bobb",
             "short": "Bobb",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1113790.png.jpg",
             "rating": 6.9
           },
           {
@@ -183,7 +183,7 @@
             "name": "Marcus Holmgren Pedersen",
             "short": "Pedersen",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/935622.png.jpg",
             "rating": 7.1
           },
           {
@@ -191,7 +191,7 @@
             "name": "Leo Østigard",
             "short": "Østigard",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/740944.png.jpg",
             "rating": 6.2
           },
           {
@@ -199,7 +199,7 @@
             "name": "Jørgen Strand Larsen",
             "short": "Larsen",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/821100.png.jpg",
             "rating": 6.3
           },
           {
@@ -207,7 +207,7 @@
             "name": "Thelo Aasgaard",
             "short": "Aasgaard",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1184468.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Sondre Langas",
             "short": "Langas",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1127585.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Kristian Thorstvedt",
             "short": "Thorstvedt",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/921921.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Morten Thorsby",
             "short": "Thorsby",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/439148.png.jpg",
             "rating": null
           },
           {
@@ -255,7 +255,7 @@
             "name": "Sander Tangvik",
             "short": "Tangvik",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1145714.png.jpg",
             "rating": null
           },
           {
@@ -263,7 +263,7 @@
             "name": "Egil Selvik",
             "short": "Selvik",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/631757.png.jpg",
             "rating": null
           },
           {
@@ -283,7 +283,7 @@
           "name": "Thomas Tuchel",
           "short": "Tuchel",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/thomas-tuchel.jpg"
         },
         "starting": [
           {
@@ -291,7 +291,7 @@
             "name": "Jordan Pickford",
             "short": "Pickford",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/303919.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.5
@@ -301,7 +301,7 @@
             "name": "Nico O'Reilly",
             "short": "O'Reilly",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1300526.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 7.2
@@ -321,7 +321,7 @@
             "name": "John Stones",
             "short": "Stones",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/john-stones.jpg",
             "x": 82,
             "y": 36,
             "rating": 7.4
@@ -419,7 +419,7 @@
             "name": "Reece James",
             "short": "James",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/reece-james.jpg",
             "rating": 7
           },
           {
@@ -435,7 +435,7 @@
             "name": "Morgan Rogers",
             "short": "Rogers",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/883080.png.jpg",
             "rating": 6.8
           },
           {
@@ -443,7 +443,7 @@
             "name": "Dan Burn",
             "short": "Burn",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/188058.png.jpg",
             "rating": 7.3
           },
           {
@@ -451,7 +451,7 @@
             "name": "Dean Henderson",
             "short": "Henderson",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/719330.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Marcus Rashford",
             "short": "Rashford",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/696365.png.jpg",
             "rating": null
           },
           {
@@ -467,7 +467,7 @@
             "name": "Ollie Watkins",
             "short": "Watkins",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540088.png.jpg",
             "rating": null
           },
           {
@@ -475,7 +475,7 @@
             "name": "James Trafford",
             "short": "Trafford",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/james-trafford.jpg",
             "rating": null
           },
           {
@@ -483,7 +483,7 @@
             "name": "Trevoh Chalobah",
             "short": "Chalobah",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/793907.png.jpg",
             "rating": null
           },
           {
@@ -491,7 +491,7 @@
             "name": "Ivan Toney",
             "short": "Toney",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/408987.png.jpg",
             "rating": null
           },
           {
@@ -499,7 +499,7 @@
             "name": "Kobbie Mainoo",
             "short": "Mainoo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1292810.png.jpg",
             "rating": null
           }
         ]
@@ -515,7 +515,7 @@
           "name": "Andreas Schjelderup",
           "short": "Schjelderup",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1228558.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -599,7 +599,7 @@
           "name": "Torbjørn Heggem",
           "short": "Heggem",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/935550.png.jpg"
         },
         "detail": "Goal by Torbjørn Heggem (55') ruled out after VAR review for a foul by Erling Haaland. VAR Decision: No Goal Norway 1-1 England."
       },
@@ -612,14 +612,14 @@
           "name": "Fredrik Aursnes",
           "short": "Aursnes",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/310768.png.jpg"
         },
         "replaced": {
           "id": "julian-ryerson-norway-england-2026-07-11",
           "name": "Julian Ryerson",
           "short": "Ryerson",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/659272.png.jpg"
         }
       },
       {
@@ -631,14 +631,14 @@
           "name": "Oscar Bobb",
           "short": "Bobb",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1113790.png.jpg"
         },
         "replaced": {
           "id": "alexander-srloth-norway-england-2026-07-11",
           "name": "Alexander Sørloth",
           "short": "Sørloth",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/440330.png.jpg"
         }
       },
       {
@@ -657,7 +657,7 @@
           "name": "Andreas Schjelderup",
           "short": "Schjelderup",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1228558.png.jpg"
         }
       },
       {
@@ -669,7 +669,7 @@
           "name": "Reece James",
           "short": "James",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/reece-james.jpg"
         },
         "replaced": {
           "id": "anthony-gordon-norway-england-2026-07-11",
@@ -695,7 +695,7 @@
           "name": "Nico O'Reilly",
           "short": "O'Reilly",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1300526.png.jpg"
         }
       },
       {
@@ -707,7 +707,7 @@
           "name": "Morgan Rogers",
           "short": "Rogers",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/883080.png.jpg"
         },
         "replaced": {
           "id": "ezri-konsa-norway-england-2026-07-11",
@@ -726,14 +726,14 @@
           "name": "Marcus Holmgren Pedersen",
           "short": "Pedersen",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/935622.png.jpg"
         },
         "replaced": {
           "id": "david-mller-wolfe-norway-england-2026-07-11",
           "name": "David Møller Wolfe",
           "short": "Møller Wolfe",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1049679.png.jpg"
         }
       },
       {
@@ -745,14 +745,14 @@
           "name": "Leo Østigard",
           "short": "Østigard",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/740944.png.jpg"
         },
         "replaced": {
           "id": "torbjrn-heggem-norway-england-2026-07-11",
           "name": "Torbjørn Heggem",
           "short": "Heggem",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/935550.png.jpg"
         }
       },
       {
@@ -794,7 +794,7 @@
           "name": "Jørgen Strand Larsen",
           "short": "Larsen",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/821100.png.jpg"
         },
         "replaced": {
           "id": "erling-haaland-norway-england-2026-07-11",
@@ -813,7 +813,7 @@
           "name": "Dan Burn",
           "short": "Burn",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/188058.png.jpg"
         },
         "replaced": {
           "id": "jude-bellingham-norway-england-2026-07-11",
@@ -832,7 +832,7 @@
           "name": "Kristoffer Ajer",
           "short": "Ajer",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/552718.png.jpg"
         },
         "detail": "Not specified by source"
       }

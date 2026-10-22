@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "as-roma-genoa-2026-10-17",
     "date": "2026-10-17",
@@ -39,7 +39,7 @@
           "name": "Gian Piero Gasperini",
           "short": "Gasperini",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/96945.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Pierluigi Gollini",
             "short": "Gollini",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/553849.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.5
@@ -57,7 +57,7 @@
             "name": "Konstantinos Koulierakis",
             "short": "Koulierakis",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1337884.png.jpg",
             "x": 18,
             "y": 23,
             "rating": 6.7
@@ -67,7 +67,7 @@
             "name": "Evan Ndicka",
             "short": "Ndicka",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/787242.png.jpg",
             "x": 18,
             "y": 50,
             "rating": 6.4
@@ -77,7 +77,7 @@
             "name": "Leonardo Balerdi",
             "short": "Balerdi",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/958464.png.jpg",
             "x": 18,
             "y": 78,
             "rating": 7.4
@@ -87,7 +87,7 @@
             "name": "Devyne Rensch",
             "short": "Rensch",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1180321.png.jpg",
             "x": 27,
             "y": 12,
             "rating": 6.5
@@ -97,7 +97,7 @@
             "name": "Niccolò Pisilli",
             "short": "Pisilli",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1451196.png.jpg",
             "x": 27,
             "y": 38,
             "rating": 7.3
@@ -107,7 +107,7 @@
             "name": "Marten de Roon",
             "short": "de Roon",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/198559.png.jpg",
             "x": 27,
             "y": 64,
             "rating": 7.7
@@ -117,7 +117,7 @@
             "name": "Emanuele Lulli",
             "short": "Lulli",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1800491.png.jpg",
             "x": 27,
             "y": 88,
             "rating": 8.2
@@ -127,7 +127,7 @@
             "name": "Rodrigo Mora",
             "short": "Mora",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1525065.png.jpg",
             "x": 37,
             "y": 30,
             "rating": 7.3
@@ -137,7 +137,7 @@
             "name": "Matìas Soulè",
             "short": "Soulè",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280082.png.jpg",
             "x": 37,
             "y": 70,
             "rating": 7.2
@@ -147,7 +147,7 @@
             "name": "Santiago Castro",
             "short": "Castro",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1282008.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 8.5
@@ -159,7 +159,7 @@
             "name": "Lorenzo Pellegrini",
             "short": "Pellegrini",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540307.png.jpg",
             "rating": 7.1
           },
           {
@@ -167,7 +167,7 @@
             "name": "Mario Hermoso",
             "short": "Hermoso",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/671203.png.jpg",
             "rating": 7.3
           },
           {
@@ -175,7 +175,7 @@
             "name": "Wesley",
             "short": "Wesley",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1320176.png.jpg",
             "rating": 6.8
           },
           {
@@ -183,7 +183,7 @@
             "name": "Daniele Ghilardi",
             "short": "Ghilardi",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1386006.png.jpg",
             "rating": 6.9
           },
           {
@@ -191,7 +191,7 @@
             "name": "Alessandro Di Nunzio",
             "short": "Nunzio",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/2026491.png.jpg",
             "rating": 6.7
           },
           {
@@ -199,7 +199,7 @@
             "name": "Johan Vásquez",
             "short": "Vásquez",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/914103.png.jpg",
             "rating": 6.4
           },
           {
@@ -207,7 +207,7 @@
             "name": "Giorgio De Marzi",
             "short": "Marzi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1667016.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Lorenzo Paratici",
             "short": "Paratici",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/2156601.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Antonio Arena",
             "short": "Arena",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1726757.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Nahuel Molina",
             "short": "Molina",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/726345.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Gianluca Mancini",
             "short": "Mancini",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/588687.png.jpg",
             "rating": null
           }
         ]
@@ -259,7 +259,7 @@
           "name": "Daniele De Rossi",
           "short": "Rossi",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30682.png.jpg"
         },
         "starting": [
           {
@@ -267,7 +267,7 @@
             "name": "Justin Bijlow",
             "short": "Bijlow",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/721533.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.3
@@ -277,7 +277,7 @@
             "name": "Johan Vásquez",
             "short": "Vásquez",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/914103.png.jpg",
             "x": 82,
             "y": 77,
             "rating": 6.2
@@ -287,7 +287,7 @@
             "name": "Leo Østigard",
             "short": "Østigard",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/740944.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 6.4
@@ -297,7 +297,7 @@
             "name": "Alessandro Marcandalli",
             "short": "Marcandalli",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1436436.png.jpg",
             "x": 82,
             "y": 22,
             "rating": 6.9
@@ -307,7 +307,7 @@
             "name": "David Puczka",
             "short": "Puczka",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1405996.png.jpg",
             "x": 73,
             "y": 88,
             "rating": 6.6
@@ -317,7 +317,7 @@
             "name": "Morten Frendrup",
             "short": "Frendrup",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/921543.png.jpg",
             "x": 73,
             "y": 62,
             "rating": 6.9
@@ -327,7 +327,7 @@
             "name": "Samuel Wiafe",
             "short": "Wiafe",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1902062.png.jpg",
             "x": 73,
             "y": 36,
             "rating": 6.6
@@ -337,7 +337,7 @@
             "name": "Mikael Ellertsson",
             "short": "Ellertsson",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/mikael-ellertsson.jpg",
             "x": 73,
             "y": 12,
             "rating": 7
@@ -347,7 +347,7 @@
             "name": "Stephan El Shaarawy",
             "short": "El Shaarawy",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/161328.png.jpg",
             "x": 63,
             "y": 70,
             "rating": 7.4
@@ -357,7 +357,7 @@
             "name": "Junior Messias",
             "short": "Messias",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1003368.png.jpg",
             "x": 63,
             "y": 30,
             "rating": 7.3
@@ -367,7 +367,7 @@
             "name": "Milutin Osmajic",
             "short": "Osmajic",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/936603.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.7
@@ -387,7 +387,7 @@
             "name": "Robinho Junior",
             "short": "Junior",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/robinho-junior.jpg",
             "rating": 6.3
           },
           {
@@ -395,7 +395,7 @@
             "name": "Alexsandro Amorim",
             "short": "Amorim",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1469120.png.jpg",
             "rating": 6.9
           },
           {
@@ -403,7 +403,7 @@
             "name": "Hamed Traoré",
             "short": "Traoré",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/875672.png.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "Mario Mitaj",
             "short": "Mitaj",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1184458.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Cody Drameh",
             "short": "Drameh",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/962046.png.jpg",
             "rating": null
           },
           {
@@ -427,7 +427,7 @@
             "name": "Daniele Sommariva",
             "short": "Sommariva",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/577914.png.jpg",
             "rating": null
           },
           {
@@ -435,7 +435,7 @@
             "name": "Stefano Sabelli",
             "short": "Sabelli",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/364104.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Lukas Klisys",
             "short": "Klisys",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1959202.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Sebastian Otoa",
             "short": "Otoa",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1404077.png.jpg",
             "rating": null
           },
           {
@@ -467,7 +467,7 @@
             "name": "Franz Stolz",
             "short": "Stolz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/951238.png.jpg",
             "rating": null
           },
           {
@@ -475,7 +475,7 @@
             "name": "Tommaso Baldanzi",
             "short": "Baldanzi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1200591.png.jpg",
             "rating": null
           }
         ]
@@ -491,7 +491,7 @@
           "name": "Matìas Soulè",
           "short": "Soulè",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280082.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -504,7 +504,7 @@
           "name": "Santiago Castro",
           "short": "Castro",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1282008.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -521,7 +521,7 @@
           "name": "Johan Vásquez",
           "short": "Vásquez",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/914103.png.jpg"
         },
         "detail": "Unspecified"
       },
@@ -534,14 +534,14 @@
           "name": "Lorenzo Pellegrini",
           "short": "Pellegrini",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540307.png.jpg"
         },
         "replaced": {
           "id": "rodrigo-mora-as-roma-genoa-2026-10-17",
           "name": "Rodrigo Mora",
           "short": "Mora",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1525065.png.jpg"
         }
       },
       {
@@ -553,14 +553,14 @@
           "name": "Mario Hermoso",
           "short": "Hermoso",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/671203.png.jpg"
         },
         "replaced": {
           "id": "konstantinos-koulierakis-as-roma-genoa-2026-10-17",
           "name": "Konstantinos Koulierakis",
           "short": "Koulierakis",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1337884.png.jpg"
         }
       },
       {
@@ -579,7 +579,7 @@
           "name": "Stephan El Shaarawy",
           "short": "El Shaarawy",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/161328.png.jpg"
         }
       },
       {
@@ -591,7 +591,7 @@
           "name": "Leo Østigard",
           "short": "Østigard",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/740944.png.jpg"
         },
         "detail": "Unspecified"
       },
@@ -604,7 +604,7 @@
           "name": "Emanuele Lulli",
           "short": "Lulli",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1800491.png.jpg"
         },
         "scoreAfter": "2 - 0",
         "penalty": false,
@@ -621,7 +621,7 @@
           "name": "Niccolò Pisilli",
           "short": "Pisilli",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1451196.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -634,14 +634,14 @@
           "name": "Wesley",
           "short": "Wesley",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1320176.png.jpg"
         },
         "replaced": {
           "id": "emanuele-lulli-as-roma-genoa-2026-10-17",
           "name": "Emanuele Lulli",
           "short": "Lulli",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1800491.png.jpg"
         }
       },
       {
@@ -653,7 +653,7 @@
           "name": "Mikael Ellertsson",
           "short": "Ellertsson",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/mikael-ellertsson.jpg"
         },
         "detail": "Bad foul"
       },
@@ -666,14 +666,14 @@
           "name": "Robinho Junior",
           "short": "Junior",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/robinho-junior.jpg"
         },
         "replaced": {
           "id": "junior-messias",
           "name": "Junior Messias",
           "short": "Messias",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1003368.png.jpg"
         }
       },
       {
@@ -685,14 +685,14 @@
           "name": "Alexsandro Amorim",
           "short": "Amorim",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1469120.png.jpg"
         },
         "replaced": {
           "id": "morten-frendrup",
           "name": "Morten Frendrup",
           "short": "Frendrup",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/921543.png.jpg"
         }
       },
       {
@@ -704,14 +704,14 @@
           "name": "Daniele Ghilardi",
           "short": "Ghilardi",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1386006.png.jpg"
         },
         "replaced": {
           "id": "devyne-rensch-as-roma-genoa-2026-10-17",
           "name": "Devyne Rensch",
           "short": "Rensch",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1180321.png.jpg"
         }
       },
       {
@@ -723,14 +723,14 @@
           "name": "Alessandro Di Nunzio",
           "short": "Nunzio",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/2026491.png.jpg"
         },
         "replaced": {
           "id": "niccolo-pisilli-as-roma-genoa-2026-10-17",
           "name": "Niccolò Pisilli",
           "short": "Pisilli",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1451196.png.jpg"
         }
       }
     ],

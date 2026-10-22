@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "tom-cairney",
     "name": "Tom Cairney",
     "short": "Cairney",
     "position": "RW",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/182962.png.jpg",
     "matches": [
       {
         "match": "fulham-hull-2026-10-17",

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "nacho-perez",
     "name": "Nacho Pérez",
     "short": "N. Pérez",
     "position": "RB",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1800611.png.jpg",
     "matches": [
       {
         "match": "deportivo-levante-2026-10-16",

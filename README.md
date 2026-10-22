@@ -19,10 +19,11 @@ On the hosted site there is no Agent Tom: `live.json` and `results.json` are the
 
     python3 tools/build-match-data.py && node tools/build-api.js
 
-Player and stadium photos come from Wikimedia Commons (credits in `assets/photo-sources.json`):
+Photos: stadiums and some players come from Wikimedia Commons (credits in `assets/photo-sources.json`); every other player and coach uses their FotMob headshot, linked from FotMob's image CDN rather than copied into the repository (ids in `assets/fotmob-photos.json`). Rebuild after fetching:
 
-    python3 tools/fetch-player-photos.py --skip-search   # exact Wikipedia titles only; drop the flag to also search (slow)
-    python3 tools/fetch-venue-photos.py
+    python3 tools/fetch-fotmob-photos.py                 # about 96% of players and coaches
+    python3 tools/fetch-venue-photos.py                  # stadiums
+    python3 tools/fetch-player-photos.py --skip-search   # optional: freely licensed Wikimedia headshots
 
 ## Run on your PC
 

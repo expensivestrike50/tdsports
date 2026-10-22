@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "talles-magno",
     "name": "Talles Magno",
     "short": "Magno",
     "position": "RW",
-    "photo": null,
+    "photo": "assets/photos/people/talles-magno.jpg",
     "matches": [
       {
         "match": "nycfc-lafc-2026-10-17",

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "imanol-alguacil",
     "name": "Imanol Alguacil",
     "short": "Alguacil",
     "position": "Coach",
-    "photo": null,
+    "photo": "assets/photos/people/imanol-alguacil.jpg",
     "matches": [
       {
         "match": "marseille-olympiacos-2026-10-15",

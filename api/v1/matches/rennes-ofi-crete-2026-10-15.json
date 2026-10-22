@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "rennes-ofi-crete-2026-10-15",
     "date": "2026-10-15",
@@ -39,7 +39,7 @@
           "name": "Franck Haise",
           "short": "Haise",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/804046.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Brice Samba",
             "short": "Samba",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/279714.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.3
@@ -57,7 +57,7 @@
             "name": "Mahamadou Nagida",
             "short": "Nagida",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553514.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 8.5
@@ -67,7 +67,7 @@
             "name": "Abdelhamid Aït Boudlal",
             "short": "Aït Boudlal",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1581722.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 8.2
@@ -77,7 +77,7 @@
             "name": "Charlie Cresswell",
             "short": "Cresswell",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1186444.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 7.1
@@ -87,7 +87,7 @@
             "name": "Przemyslaw Frankowski",
             "short": "Frankowski",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/402419.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.2
@@ -97,7 +97,7 @@
             "name": "Mahdi Camara",
             "short": "Camara",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/770321.png.jpg",
             "x": 32,
             "y": 23,
             "rating": 7.4
@@ -107,7 +107,7 @@
             "name": "Valentin Rongier",
             "short": "Rongier",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/562719.png.jpg",
             "x": 32,
             "y": 50,
             "rating": 7.3
@@ -117,7 +117,7 @@
             "name": "Sebastian Szymanski",
             "short": "Szymanski",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/765466.png.jpg",
             "x": 32,
             "y": 78,
             "rating": 6.6
@@ -137,7 +137,7 @@
             "name": "Ludovic Blas",
             "short": "Blas",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/693171.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7.1
@@ -147,7 +147,7 @@
             "name": "Esteban Lepaul",
             "short": "Lepaul",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280225.png.jpg",
             "x": 46,
             "y": 78,
             "rating": 7.2
@@ -159,7 +159,7 @@
             "name": "Boulaye Dia",
             "short": "Dia",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/972120.png.jpg",
             "rating": 7.3
           },
           {
@@ -167,7 +167,7 @@
             "name": "Eliezer Mayenda",
             "short": "Mayenda",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1391052.png.jpg",
             "rating": 7.6
           },
           {
@@ -175,7 +175,7 @@
             "name": "Issa Soumaré",
             "short": "Soumaré",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/issa-soumare.jpg",
             "rating": 7.6
           },
           {
@@ -183,7 +183,7 @@
             "name": "Djaoui Cissé",
             "short": "Cissé",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553515.png.jpg",
             "rating": 6.9
           },
           {
@@ -191,7 +191,7 @@
             "name": "Bryan Reynolds",
             "short": "Reynolds",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/924446.png.jpg",
             "rating": 6.8
           },
           {
@@ -199,7 +199,7 @@
             "name": "Quentin Merlin",
             "short": "Merlin",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1233931.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Gonçalo Oliveira",
             "short": "Oliveira",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1692872.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Nicolas Lemaitre",
             "short": "Lemaitre",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/625422.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Anthony Rouault",
             "short": "Rouault",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/anthony-rouault.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Arnaud Nordin",
             "short": "Nordin",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/arnaud-nordin.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Adrien Thomasson",
             "short": "Thomasson",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/317062.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Kilian Belazzoug",
             "short": "Belazzoug",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1841191.png.jpg",
             "rating": null
           }
         ]
@@ -259,7 +259,7 @@
           "name": "Christos Kontis",
           "short": "Kontis",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/39506.png.jpg"
         },
         "starting": [
           {
@@ -267,7 +267,7 @@
             "name": "Nikos Christogeorgos",
             "short": "Christogeorgos",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1106824.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.4
@@ -277,7 +277,7 @@
             "name": "Kresimir Krizmanic",
             "short": "Krizmanic",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1240425.png.jpg",
             "x": 82,
             "y": 77,
             "rating": 6.9
@@ -287,7 +287,7 @@
             "name": "Dimitris Nikolaou",
             "short": "Nikolaou",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/dimitris-nikolaou.jpg",
             "x": 82,
             "y": 50,
             "rating": 6.1
@@ -297,7 +297,7 @@
             "name": "Achilleas Poungouras",
             "short": "Poungouras",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/604348.png.jpg",
             "x": 82,
             "y": 22,
             "rating": 6.6
@@ -307,7 +307,7 @@
             "name": "Nicolaos Athanasiou",
             "short": "Athanasiou",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1225435.png.jpg",
             "x": 68,
             "y": 88,
             "rating": 7.9
@@ -317,7 +317,7 @@
             "name": "Andreas Bouchalakis",
             "short": "Bouchalakis",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/300618.png.jpg",
             "x": 68,
             "y": 62,
             "rating": 6.6
@@ -327,7 +327,7 @@
             "name": "Thanasis Androutsos",
             "short": "Androutsos",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/784493.png.jpg",
             "x": 68,
             "y": 36,
             "rating": 6.9
@@ -337,7 +337,7 @@
             "name": "Lorenzo Dickmann",
             "short": "Dickmann",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/543172.png.jpg",
             "x": 68,
             "y": 12,
             "rating": 6.8
@@ -347,7 +347,7 @@
             "name": "Thiago Thomas Nuss",
             "short": "Nuss",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1033314.png.jpg",
             "x": 54,
             "y": 77,
             "rating": 7.2
@@ -357,7 +357,7 @@
             "name": "Kenan Kodro",
             "short": "Kodro",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/574623.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.2
@@ -367,7 +367,7 @@
             "name": "Taxiarchis Fountas",
             "short": "Fountas",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/307446.png.jpg",
             "x": 54,
             "y": 22,
             "rating": 7.9
@@ -379,7 +379,7 @@
             "name": "Giannis Apostolakis",
             "short": "Apostolakis",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1318668.png.jpg",
             "rating": 6.4
           },
           {
@@ -387,7 +387,7 @@
             "name": "Zisis Karachalios",
             "short": "Karachalios",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/655165.png.jpg",
             "rating": 7.3
           },
           {
@@ -395,7 +395,7 @@
             "name": "Aitor Cantalapiedra",
             "short": "Cantalapiedra",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/675600.png.jpg",
             "rating": 6.3
           },
           {
@@ -403,7 +403,7 @@
             "name": "Giannis Theodosoulakis",
             "short": "Theodosoulakis",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1398146.png.jpg",
             "rating": 6.4
           },
           {
@@ -411,7 +411,7 @@
             "name": "Borja González",
             "short": "González",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1071487.png.jpg",
             "rating": 7.4
           },
           {
@@ -419,7 +419,7 @@
             "name": "Konstantinos Kostoulas",
             "short": "Kostoulas",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1574181.png.jpg",
             "rating": null
           },
           {
@@ -443,7 +443,7 @@
             "name": "Klidman Lilo",
             "short": "Lilo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1533544.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Panagiotis Katsikas",
             "short": "Katsikas",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1011961.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Thiago Romano",
             "short": "Romano",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1668460.png.jpg",
             "rating": null
           },
           {
@@ -467,7 +467,7 @@
             "name": "Giorgos Kanellopoulos",
             "short": "Kanellopoulos",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/916949.png.jpg",
             "rating": null
           }
         ]
@@ -483,7 +483,7 @@
           "name": "Taxiarchis Fountas",
           "short": "Fountas",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/307446.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": false,
@@ -492,7 +492,7 @@
           "name": "Nicolaos Athanasiou",
           "short": "Athanasiou",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1225435.png.jpg"
         },
         "goalType": "build",
         "description": "Nicolaos Athanasiou provided the assist with a cross; Taxiarchis Fountas scored with a header from the centre of the box to the bottom left corner."
@@ -506,7 +506,7 @@
           "name": "Kresimir Krizmanic",
           "short": "Krizmanic",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1240425.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -519,14 +519,14 @@
           "name": "Giannis Apostolakis",
           "short": "Apostolakis",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1318668.png.jpg"
         },
         "replaced": {
           "id": "taxiarchis-fountas",
           "name": "Taxiarchis Fountas",
           "short": "Fountas",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/307446.png.jpg"
         }
       },
       {
@@ -538,7 +538,7 @@
           "name": "Lorenzo Dickmann",
           "short": "Dickmann",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/543172.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -551,14 +551,14 @@
           "name": "Boulaye Dia",
           "short": "Dia",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/972120.png.jpg"
         },
         "replaced": {
           "id": "valentin-rongier",
           "name": "Valentin Rongier",
           "short": "Rongier",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/562719.png.jpg"
         }
       },
       {
@@ -570,14 +570,14 @@
           "name": "Eliezer Mayenda",
           "short": "Mayenda",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1391052.png.jpg"
         },
         "replaced": {
           "id": "ludovic-blas",
           "name": "Ludovic Blas",
           "short": "Blas",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/693171.png.jpg"
         }
       },
       {
@@ -589,14 +589,14 @@
           "name": "Zisis Karachalios",
           "short": "Karachalios",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/655165.png.jpg"
         },
         "replaced": {
           "id": "andreas-bouchalakis",
           "name": "Andreas Bouchalakis",
           "short": "Bouchalakis",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/300618.png.jpg"
         }
       },
       {
@@ -608,7 +608,7 @@
           "name": "Abdelhamid Aït Boudlal",
           "short": "Aït Boudlal",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1581722.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -621,14 +621,14 @@
           "name": "Aitor Cantalapiedra",
           "short": "Cantalapiedra",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/675600.png.jpg"
         },
         "replaced": {
           "id": "kenan-kodro",
           "name": "Kenan Kodro",
           "short": "Kodro",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/574623.png.jpg"
         }
       },
       {
@@ -640,7 +640,7 @@
           "name": "Mahamadou Nagida",
           "short": "Nagida",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553514.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": false,
@@ -657,7 +657,7 @@
           "name": "Issa Soumaré",
           "short": "Soumaré",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/issa-soumare.jpg"
         },
         "replaced": {
           "id": "mousa-al-tamari",
@@ -676,14 +676,14 @@
           "name": "Djaoui Cissé",
           "short": "Cissé",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1553515.png.jpg"
         },
         "replaced": {
           "id": "sebastian-szymanski",
           "name": "Sebastian Szymanski",
           "short": "Szymanski",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/765466.png.jpg"
         }
       },
       {
@@ -695,14 +695,14 @@
           "name": "Bryan Reynolds",
           "short": "Reynolds",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/924446.png.jpg"
         },
         "replaced": {
           "id": "przemyslaw-frankowski",
           "name": "Przemyslaw Frankowski",
           "short": "Frankowski",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/402419.png.jpg"
         }
       },
       {
@@ -714,7 +714,7 @@
           "name": "Mahdi Camara",
           "short": "Camara",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/770321.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -727,14 +727,14 @@
           "name": "Giannis Theodosoulakis",
           "short": "Theodosoulakis",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1398146.png.jpg"
         },
         "replaced": {
           "id": "thiago-thomas-nuss",
           "name": "Thiago Thomas Nuss",
           "short": "Nuss",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1033314.png.jpg"
         }
       },
       {
@@ -746,14 +746,14 @@
           "name": "Borja González",
           "short": "González",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1071487.png.jpg"
         },
         "replaced": {
           "id": "lorenzo-dickmann",
           "name": "Lorenzo Dickmann",
           "short": "Dickmann",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/543172.png.jpg"
         }
       },
       {
@@ -765,7 +765,7 @@
           "name": "Abdelhamid Aït Boudlal",
           "short": "Aït Boudlal",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1581722.png.jpg"
         },
         "scoreAfter": "2 - 1",
         "penalty": false,
@@ -782,7 +782,7 @@
           "name": "Brice Samba",
           "short": "Samba",
           "position": "GK",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/279714.png.jpg"
         },
         "detail": "not specified"
       }

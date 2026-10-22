@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "nottm-forest-arsenal-2026-10-18",
     "date": "2026-10-18",
@@ -39,7 +39,7 @@
           "name": "Oliver Glasner",
           "short": "Glasner",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/43009.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Matz Sels",
             "short": "Sels",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/181069.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 6.9
@@ -57,7 +57,7 @@
             "name": "Jair Paula",
             "short": "Cunha",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1391209.png.jpg",
             "x": 18,
             "y": 23,
             "rating": 6.3
@@ -67,7 +67,7 @@
             "name": "Ousmane Diomande",
             "short": "Diomande",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1425182.png.jpg",
             "x": 18,
             "y": 50,
             "rating": 6.1
@@ -77,7 +77,7 @@
             "name": "Murillo",
             "short": "Murillo",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1458711.png.jpg",
             "x": 18,
             "y": 78,
             "rating": 7.2
@@ -87,7 +87,7 @@
             "name": "Daniel Muñoz",
             "short": "Muñoz",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/859282.png.jpg",
             "x": 27,
             "y": 12,
             "rating": 6.1
@@ -97,7 +97,7 @@
             "name": "James McAtee",
             "short": "McAtee",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1107648.png.jpg",
             "x": 27,
             "y": 38,
             "rating": 6.9
@@ -107,7 +107,7 @@
             "name": "Xaver Schlager",
             "short": "Schlager",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/620027.png.jpg",
             "x": 27,
             "y": 64,
             "rating": 7.1
@@ -117,7 +117,7 @@
             "name": "Neco Williams",
             "short": "Williams",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/neco-williams.jpg",
             "x": 27,
             "y": 88,
             "rating": 7.4
@@ -127,7 +127,7 @@
             "name": "Nicolás Domínguez",
             "short": "Domínguez",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/827315.png.jpg",
             "x": 37,
             "y": 30,
             "rating": 6.1
@@ -137,7 +137,7 @@
             "name": "Dan Ndoye",
             "short": "Ndoye",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1022649.png.jpg",
             "x": 37,
             "y": 70,
             "rating": 7.3
@@ -147,7 +147,7 @@
             "name": "Liam Delap",
             "short": "Delap",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1113903.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7
@@ -159,7 +159,7 @@
             "name": "Arnaud Kalimuendo",
             "short": "Kalimuendo",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1095445.png.jpg",
             "rating": 6.4
           },
           {
@@ -167,7 +167,7 @@
             "name": "Ibrahim Sangaré",
             "short": "Sangaré",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/795371.png.jpg",
             "rating": 6.8
           },
           {
@@ -175,7 +175,7 @@
             "name": "Chris Wood",
             "short": "Wood",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/169719.png.jpg",
             "rating": 6.7
           },
           {
@@ -183,7 +183,7 @@
             "name": "Callum Hudson-Odoi",
             "short": "Hudson-Odoi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/846383.png.jpg",
             "rating": 6.8
           },
           {
@@ -191,7 +191,7 @@
             "name": "Ola Aina",
             "short": "Aina",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/ola-aina.jpg",
             "rating": null
           },
           {
@@ -199,7 +199,7 @@
             "name": "John Victor",
             "short": "Victor",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/749834.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Ryan Yates",
             "short": "Yates",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/775614.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Nikola Milenkovic",
             "short": "Milenkovic",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/766611.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Luca Netz",
             "short": "Netz",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1155130.png.jpg",
             "rating": null
           }
         ]
@@ -435,7 +435,7 @@
           "name": "Neco Williams",
           "short": "Williams",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/neco-williams.jpg"
         },
         "detail": "Bad foul"
       },
@@ -537,14 +537,14 @@
           "name": "Arnaud Kalimuendo",
           "short": "Kalimuendo",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1095445.png.jpg"
         },
         "replaced": {
           "id": "dan-ndoye",
           "name": "Dan Ndoye",
           "short": "Ndoye",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1022649.png.jpg"
         }
       },
       {
@@ -556,14 +556,14 @@
           "name": "Ibrahim Sangaré",
           "short": "Sangaré",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/795371.png.jpg"
         },
         "replaced": {
           "id": "nicolas-dominguez",
           "name": "Nicolás Domínguez",
           "short": "Domínguez",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/827315.png.jpg"
         }
       },
       {
@@ -598,14 +598,14 @@
           "name": "Chris Wood",
           "short": "Wood",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/169719.png.jpg"
         },
         "replaced": {
           "id": "jair-paula",
           "name": "Jair Paula",
           "short": "Cunha",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1391209.png.jpg"
         }
       },
       {
@@ -617,14 +617,14 @@
           "name": "Callum Hudson-Odoi",
           "short": "Hudson-Odoi",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/846383.png.jpg"
         },
         "replaced": {
           "id": "james-mcatee",
           "name": "James McAtee",
           "short": "McAtee",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1107648.png.jpg"
         }
       }
     ],

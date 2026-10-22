@@ -27,7 +27,9 @@ from PIL import Image
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, 'assets', 'photos', 'people')
 SOURCES = os.path.join(ROOT, 'assets', 'photo-sources.json')
-UA = {'User-Agent': 'TDsportsPrototype/1.0 (football app prototype; player headshots)'}
+# Wikimedia asks for a User-Agent with a way to contact the operator; unidentified clients
+# are rate-limited much harder.
+UA = {'User-Agent': 'TDsportsPrototype/1.0 (https://github.com/expensivestrike50/tdsports; player headshots)'}
 FOOTBALL = re.compile(r'football|soccer|goalkeeper|striker|midfielder|defender|manager|coach', re.I)
 
 
@@ -115,7 +117,7 @@ def main():
     skip_path = os.path.join(ROOT, 'assets', 'photo-skip.json')
     skip = set(json.load(open(skip_path))['skip']) if os.path.exists(skip_path) else set()
     todo = {pid: p for pid, p in people.items()
-            if slug(p['name']) not in skip and not os.path.exists(os.path.join(OUT_DIR, slug(p['name']) + '.jpg'))}
+            if slug(p['name']) not in skip and f"assets/photos/people/{slug(p['name'])}.jpg" not in have}
     print(f'{len(todo)} people without photos', flush=True)
 
     # 1) exact titles in batches of 50
@@ -146,7 +148,7 @@ def main():
     for i in range(0, len(files), 50):
         meta.update(commons_meta(files[i:i + 50]))
     saved = 0
-    for name, (title, file, desc, _) in found.items():
+    for name, (title, file, desc, lead_thumb) in found.items():
         m = meta.get(file.replace(' ', '_'))
         if not m or not m['thumb']:
             continue
@@ -154,7 +156,9 @@ def main():
         if local in have:
             continue
         try:
-            headshot(get(m['thumb'], binary=True)).save(os.path.join(ROOT, local), quality=84, optimize=True)
+            # The article's 400px lead thumbnail is CDN-cached and far less rate-limited than
+            # the Commons thumbnail (often the unscaled original).
+            headshot(get(lead_thumb or m['thumb'], binary=True)).save(os.path.join(ROOT, local), quality=84, optimize=True)
         except Exception as e:
             print('download failed', name, e, flush=True)
             continue

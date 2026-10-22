@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "city-aek",
     "date": "2026-10-20",
@@ -147,7 +147,7 @@
             "name": "Floyd Samba",
             "short": "Samba",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1726962.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7.1
@@ -159,7 +159,7 @@
             "name": "Ryan McAidoo",
             "short": "McAidoo",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1680328.png.jpg",
             "rating": 7.1
           },
           {
@@ -183,7 +183,7 @@
             "name": "Kaden Braithwaite",
             "short": "Braithwaite",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1682403.png.jpg",
             "rating": 6.8
           },
           {
@@ -259,7 +259,7 @@
             "name": "Alberto Brignoli",
             "short": "Brignoli",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/299879.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.1
@@ -269,7 +269,7 @@
             "name": "Stavros Pilios",
             "short": "Pilios",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1015750.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 7.9
@@ -279,7 +279,7 @@
             "name": "Filipe Relvas",
             "short": "Relvas",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1285815.png.jpg",
             "x": 82,
             "y": 62,
             "rating": 6.3
@@ -329,7 +329,7 @@
             "name": "Kervin Arriaga",
             "short": "Arriaga",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/839750.png.jpg",
             "x": 68,
             "y": 36,
             "rating": 6.2
@@ -427,7 +427,7 @@
             "name": "Marios Balamotis",
             "short": "Balamotis",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1798250.png.jpg",
             "rating": null
           },
           {
@@ -537,7 +537,7 @@
           "name": "Stavros Pilios",
           "short": "Pilios",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1015750.png.jpg"
         },
         "scoreAfter": "2 - 1",
         "penalty": false,
@@ -596,14 +596,14 @@
           "name": "Ryan McAidoo",
           "short": "McAidoo",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1680328.png.jpg"
         },
         "replaced": {
           "id": "floyd-samba",
           "name": "Floyd Samba",
           "short": "Samba",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1726962.png.jpg"
         }
       },
       {
@@ -704,7 +704,7 @@
           "name": "Ryan McAidoo",
           "short": "McAidoo",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1680328.png.jpg"
         },
         "goalType": "build",
         "description": "Substitute McAidoo set up Foden to complete his hat-trick with a left-footed finish from very close range into the top-left corner."
@@ -718,7 +718,7 @@
           "name": "Kaden Braithwaite",
           "short": "Braithwaite",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1682403.png.jpg"
         },
         "replaced": {
           "id": "ruben-dias",
@@ -744,7 +744,7 @@
           "name": "Kervin Arriaga",
           "short": "Arriaga",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/839750.png.jpg"
         }
       },
       {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "atlanta-inter-miami-2026-10-17",
     "date": "2026-10-17",
@@ -39,7 +39,7 @@
           "name": "Gerardo Martino",
           "short": "Martino",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/80651.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Lucas Hoyos",
             "short": "Hoyos",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/113620.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 7.2
@@ -57,7 +57,7 @@
             "name": "Elías Baez",
             "short": "Baez",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1513339.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 7
@@ -67,7 +67,7 @@
             "name": "Júnior Alonso",
             "short": "Alonso",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/466214.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.6
@@ -77,7 +77,7 @@
             "name": "Paulo Díaz",
             "short": "Díaz",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/447556.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.7
@@ -87,7 +87,7 @@
             "name": "Tomás Jacob",
             "short": "Jacob",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1308412.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.3
@@ -97,7 +97,7 @@
             "name": "Mauricio Amaro",
             "short": "Amaro",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1437531.png.jpg",
             "x": 32,
             "y": 23,
             "rating": 6.2
@@ -107,7 +107,7 @@
             "name": "Tristan Muyumba",
             "short": "Muyumba",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/769928.png.jpg",
             "x": 32,
             "y": 50,
             "rating": 6.4
@@ -117,7 +117,7 @@
             "name": "Giuliano Galoppo",
             "short": "Galoppo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/921603.png.jpg",
             "x": 32,
             "y": 78,
             "rating": 7
@@ -127,7 +127,7 @@
             "name": "Alexey Miranchuk",
             "short": "Miranchuk",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/442581.png.jpg",
             "x": 46,
             "y": 23,
             "rating": 6.6
@@ -137,7 +137,7 @@
             "name": "Breel Embolo",
             "short": "Embolo",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/527103.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7.2
@@ -147,7 +147,7 @@
             "name": "Miguel Almirón",
             "short": "Almirón",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/442277.png.jpg",
             "x": 46,
             "y": 78,
             "rating": 6.6
@@ -159,7 +159,7 @@
             "name": "Steven Alzate",
             "short": "Alzate",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789567.png.jpg",
             "rating": 7
           },
           {
@@ -167,7 +167,7 @@
             "name": "Cooper Sanchez",
             "short": "Sanchez",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1732500.png.jpg",
             "rating": 6.8
           },
           {
@@ -175,7 +175,7 @@
             "name": "Fafà Picault",
             "short": "Picault",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/580600.png.jpg",
             "rating": 7.2
           },
           {
@@ -191,7 +191,7 @@
             "name": "Jayden Hibbert",
             "short": "Hibbert",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1649302.png.jpg",
             "rating": null
           },
           {
@@ -199,7 +199,7 @@
             "name": "Enea Mihaj",
             "short": "Mihaj",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/784876.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Sergio Santos",
             "short": "Santos",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/604410.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Jay Fortune",
             "short": "Fortune",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1170743.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Luke Brennan",
             "short": "Brennan",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1305664.png.jpg",
             "rating": null
           }
         ]
@@ -235,7 +235,7 @@
           "name": "Cristian González",
           "short": "González",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/34542.png.jpg"
         },
         "starting": [
           {
@@ -243,7 +243,7 @@
             "name": "Dayne St. Clair",
             "short": "St. Clair",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1026105.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.1
@@ -253,7 +253,7 @@
             "name": "Sergio Reguilón",
             "short": "Reguilón",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/724436.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 6.8
@@ -263,7 +263,7 @@
             "name": "Micael",
             "short": "Micael",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1262208.png.jpg",
             "x": 82,
             "y": 62,
             "rating": 7.6
@@ -273,7 +273,7 @@
             "name": "Casemiro",
             "short": "Casemiro",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/208494.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 7.1
@@ -283,7 +283,7 @@
             "name": "Gonzalo Luján",
             "short": "Luján",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1257342.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 6.6
@@ -293,7 +293,7 @@
             "name": "Matías Galarza",
             "short": "Galarza",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1241957.png.jpg",
             "x": 68,
             "y": 77,
             "rating": 6.9
@@ -303,7 +303,7 @@
             "name": "David Ayala",
             "short": "Ayala",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1118540.png.jpg",
             "x": 68,
             "y": 50,
             "rating": 6.5
@@ -313,7 +313,7 @@
             "name": "Rodrigo De Paul",
             "short": "De Paul",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/324578.png.jpg",
             "x": 68,
             "y": 22,
             "rating": 7.1
@@ -323,7 +323,7 @@
             "name": "Germán Berterame",
             "short": "Berterame",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/743536.png.jpg",
             "x": 54,
             "y": 77,
             "rating": 8.3
@@ -343,7 +343,7 @@
             "name": "Lionel Messi",
             "short": "Messi",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30981.png.jpg",
             "x": 54,
             "y": 22,
             "rating": 8.7
@@ -355,7 +355,7 @@
             "name": "Maximiliano Falcón",
             "short": "Falcón",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/maximiliano-falcon.jpg",
             "rating": 7.1
           },
           {
@@ -363,7 +363,7 @@
             "name": "Telasco Segovia",
             "short": "Segovia",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1253904.png.jpg",
             "rating": 7.2
           },
           {
@@ -371,7 +371,7 @@
             "name": "Facundo Mura",
             "short": "Mura",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029392.png.jpg",
             "rating": 7.7
           },
           {
@@ -379,7 +379,7 @@
             "name": "Dániel Pintér",
             "short": "Pintér",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1626969.png.jpg",
             "rating": null
           },
           {
@@ -387,7 +387,7 @@
             "name": "Rocco Ríos Novo",
             "short": "Novo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/rocco-rios-novo.jpg",
             "rating": null
           },
           {
@@ -395,7 +395,7 @@
             "name": "Riquelme",
             "short": "Riquelme",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1664487.png.jpg",
             "rating": null
           },
           {
@@ -403,7 +403,7 @@
             "name": "Santiago Morales",
             "short": "Morales",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1529403.png.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "Ian Fray",
             "short": "Fray",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1171135.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Alexander Shaw",
             "short": "Shaw",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1780795.png.jpg",
             "rating": null
           }
         ]
@@ -435,7 +435,7 @@
           "name": "Tomás Jacob",
           "short": "Jacob",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1308412.png.jpg"
         },
         "detail": "bad foul"
       },
@@ -448,7 +448,7 @@
           "name": "Germán Berterame",
           "short": "Berterame",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/743536.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": false,
@@ -471,7 +471,7 @@
           "name": "Mauricio Amaro",
           "short": "Amaro",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1437531.png.jpg"
         },
         "detail": "not specified"
       },
@@ -484,7 +484,7 @@
           "name": "Lionel Messi",
           "short": "Messi",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30981.png.jpg"
         },
         "scoreAfter": "0 - 2",
         "penalty": false,
@@ -493,7 +493,7 @@
           "name": "Germán Berterame",
           "short": "Berterame",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/743536.png.jpg"
         },
         "goalType": "build",
         "description": "Lionel Messi left footed shot from the centre of the box to the centre of the goal. Assisted by Germán Berterame."
@@ -507,7 +507,7 @@
           "name": "Lionel Messi",
           "short": "Messi",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30981.png.jpg"
         },
         "scoreAfter": "0 - 3",
         "penalty": false,
@@ -530,14 +530,14 @@
           "name": "Steven Alzate",
           "short": "Alzate",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/789567.png.jpg"
         },
         "replaced": {
           "id": "tristan-muyumba",
           "name": "Tristan Muyumba",
           "short": "Muyumba",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/769928.png.jpg"
         }
       },
       {
@@ -549,7 +549,7 @@
           "name": "Breel Embolo",
           "short": "Embolo",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/527103.png.jpg"
         },
         "detail": "not specified"
       },
@@ -572,14 +572,14 @@
           "name": "Maximiliano Falcón",
           "short": "Falcón",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/maximiliano-falcon.jpg"
         },
         "replaced": {
           "id": "casemiro",
           "name": "Casemiro",
           "short": "Casemiro",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/208494.png.jpg"
         }
       },
       {
@@ -591,14 +591,14 @@
           "name": "Telasco Segovia",
           "short": "Segovia",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1253904.png.jpg"
         },
         "replaced": {
           "id": "matias-galarza",
           "name": "Matías Galarza",
           "short": "Galarza",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1241957.png.jpg"
         }
       },
       {
@@ -610,14 +610,14 @@
           "name": "Facundo Mura",
           "short": "Mura",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029392.png.jpg"
         },
         "replaced": {
           "id": "german-berterame",
           "name": "Germán Berterame",
           "short": "Berterame",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/743536.png.jpg"
         }
       },
       {
@@ -629,14 +629,14 @@
           "name": "Cooper Sanchez",
           "short": "Sanchez",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1732500.png.jpg"
         },
         "replaced": {
           "id": "giuliano-galoppo",
           "name": "Giuliano Galoppo",
           "short": "Galoppo",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/921603.png.jpg"
         }
       },
       {
@@ -648,14 +648,14 @@
           "name": "Fafà Picault",
           "short": "Picault",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/580600.png.jpg"
         },
         "replaced": {
           "id": "miguel-almiron",
           "name": "Miguel Almirón",
           "short": "Almirón",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/442277.png.jpg"
         }
       },
       {
@@ -674,7 +674,7 @@
           "name": "Elías Baez",
           "short": "Baez",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1513339.png.jpg"
         }
       },
       {
@@ -686,7 +686,7 @@
           "name": "Fafà Picault",
           "short": "Picault",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/580600.png.jpg"
         },
         "scoreAfter": "1 - 3",
         "penalty": true,
@@ -703,7 +703,7 @@
           "name": "Maximiliano Falcón",
           "short": "Falcón",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/maximiliano-falcon.jpg"
         },
         "detail": "bad foul"
       },
@@ -716,7 +716,7 @@
           "name": "Lionel Messi",
           "short": "Messi",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/30981.png.jpg"
         },
         "detail": "bad foul"
       }

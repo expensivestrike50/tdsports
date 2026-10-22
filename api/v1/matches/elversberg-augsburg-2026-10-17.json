@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "elversberg-augsburg-2026-10-17",
     "date": "2026-10-17",
@@ -39,7 +39,7 @@
           "name": "Vincent Wagner",
           "short": "Wagner",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/94647.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Nicolas Kristof",
             "short": "Kristof",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1285926.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 7
@@ -57,7 +57,7 @@
             "name": "Lasse Günther",
             "short": "Günther",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1245692.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 8.1
@@ -67,7 +67,7 @@
             "name": "Maximilian Rohr",
             "short": "Rohr",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1077911.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 8.1
@@ -77,7 +77,7 @@
             "name": "Lukas Finn Pinckert",
             "short": "Pinckert",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280560.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.6
@@ -87,7 +87,7 @@
             "name": "Jan Gyamerah",
             "short": "Gyamerah",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/458602.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7
@@ -97,7 +97,7 @@
             "name": "Lukasz Poreba",
             "short": "Poreba",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/962113.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 7.2
@@ -107,7 +107,7 @@
             "name": "Felix Keidel",
             "short": "Keidel",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1366338.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 7.9
@@ -117,7 +117,7 @@
             "name": "Maurice Krattenmacher",
             "short": "Krattenmacher",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1412933.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 8.2
@@ -127,7 +127,7 @@
             "name": "Noah Darvich",
             "short": "Darvich",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1479921.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 6.8
@@ -137,7 +137,7 @@
             "name": "Lukas Petkov",
             "short": "Petkov",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/lukas-petkov.jpg",
             "x": 37,
             "y": 78,
             "rating": 8.3
@@ -147,7 +147,7 @@
             "name": "David Mokwa",
             "short": "Mokwa",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1459758.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 6.6
@@ -159,7 +159,7 @@
             "name": "Luca Sirch",
             "short": "Sirch",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1097361.png.jpg",
             "rating": 7.1
           },
           {
@@ -167,7 +167,7 @@
             "name": "Frederik Schmahl",
             "short": "Schmahl",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281256.png.jpg",
             "rating": 8.5
           },
           {
@@ -175,7 +175,7 @@
             "name": "Noel Futkeu",
             "short": "Futkeu",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1138725.png.jpg",
             "rating": 7.3
           },
           {
@@ -183,7 +183,7 @@
             "name": "Raif Adam",
             "short": "Adam",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1730149.png.jpg",
             "rating": 6.3
           },
           {
@@ -191,7 +191,7 @@
             "name": "Amara Conde",
             "short": "Conde",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/763990.png.jpg",
             "rating": 7.4
           },
           {
@@ -199,7 +199,7 @@
             "name": "Tim Boss",
             "short": "Boss",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/659051.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Nicholas Mickelson",
             "short": "Mickelson",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/633721.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Florian Le Joncour",
             "short": "Joncour",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/594886.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Luca Schnellbacher",
             "short": "Schnellbacher",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/459010.png.jpg",
             "rating": null
           }
         ]
@@ -235,7 +235,7 @@
           "name": "Manuel Baum",
           "short": "Baum",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/816800.png.jpg"
         },
         "starting": [
           {
@@ -243,7 +243,7 @@
             "name": "Finn Dahmen",
             "short": "Dahmen",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/926445.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.2
@@ -253,7 +253,7 @@
             "name": "Calvin Brackelmann",
             "short": "Brackelmann",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1300329.png.jpg",
             "x": 82,
             "y": 77,
             "rating": 6.6
@@ -263,7 +263,7 @@
             "name": "Chrislain Matsima",
             "short": "Matsima",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1178512.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 7.5
@@ -273,7 +273,7 @@
             "name": "Juma Bah",
             "short": "Bah",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1539619.png.jpg",
             "x": 82,
             "y": 22,
             "rating": 7.2
@@ -283,7 +283,7 @@
             "name": "Hennes Behrens",
             "short": "Behrens",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1678681.png.jpg",
             "x": 73,
             "y": 88,
             "rating": 7.8
@@ -293,7 +293,7 @@
             "name": "Fabian Rieder",
             "short": "Rieder",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1161211.png.jpg",
             "x": 73,
             "y": 62,
             "rating": 7.1
@@ -303,7 +303,7 @@
             "name": "Han-Noah Massengo",
             "short": "Massengo",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/978680.png.jpg",
             "x": 73,
             "y": 36,
             "rating": 6.8
@@ -313,7 +313,7 @@
             "name": "Marius Wolf",
             "short": "Wolf",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/556029.png.jpg",
             "x": 73,
             "y": 12,
             "rating": 6.3
@@ -323,7 +323,7 @@
             "name": "Arijon Ibrahimovic",
             "short": "Ibrahimovic",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1327150.png.jpg",
             "x": 63,
             "y": 70,
             "rating": 6.8
@@ -333,7 +333,7 @@
             "name": "Robin Fellhauer",
             "short": "Fellhauer",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1185609.png.jpg",
             "x": 63,
             "y": 30,
             "rating": 6.2
@@ -343,7 +343,7 @@
             "name": "Rodrigo Ribeiro",
             "short": "Ribeiro",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1343749.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.3
@@ -355,7 +355,7 @@
             "name": "Anton Kade",
             "short": "Kade",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1310103.png.jpg",
             "rating": 7
           },
           {
@@ -363,7 +363,7 @@
             "name": "Michael Gregoritsch",
             "short": "Gregoritsch",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/198316.png.jpg",
             "rating": 7.2
           },
           {
@@ -371,7 +371,7 @@
             "name": "Jeffrey Gouweleeuw",
             "short": "Gouweleeuw",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/245315.png.jpg",
             "rating": 6.3
           },
           {
@@ -379,7 +379,7 @@
             "name": "Mert Kömür",
             "short": "Kömür",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1453218.png.jpg",
             "rating": 8.3
           },
           {
@@ -387,7 +387,7 @@
             "name": "Seol Young-Woo",
             "short": "Young-Woo",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1132818.png.jpg",
             "rating": 6.4
           },
           {
@@ -395,7 +395,7 @@
             "name": "Yannik Keitel",
             "short": "Keitel",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/844431.png.jpg",
             "rating": null
           },
           {
@@ -403,7 +403,7 @@
             "name": "Tim Schnitzer",
             "short": "Schnitzer",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1875448.png.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "Uchenna Ogundu",
             "short": "Ogundu",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1718174.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Nediljko Labrovic",
             "short": "Labrovic",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1284464.png.jpg",
             "rating": null
           }
         ]
@@ -435,7 +435,7 @@
           "name": "Chrislain Matsima",
           "short": "Matsima",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1178512.png.jpg"
         },
         "detail": "Penalty awarded to Elversberg after VAR review for a handball by Matsima."
       },
@@ -448,7 +448,7 @@
           "name": "Lukas Petkov",
           "short": "Petkov",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/lukas-petkov.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -465,7 +465,7 @@
           "name": "Lasse Günther",
           "short": "Günther",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1245692.png.jpg"
         },
         "scoreAfter": "2 - 0",
         "penalty": false,
@@ -474,7 +474,7 @@
           "name": "Maurice Krattenmacher",
           "short": "Krattenmacher",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1412933.png.jpg"
         },
         "goalType": "counter",
         "description": "Lasse Günther scored with a right-footed shot from the centre of the box to the top right corner. Assist: Maurice Krattenmacher following a fast break."
@@ -488,7 +488,7 @@
           "name": "Maximilian Rohr",
           "short": "Rohr",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1077911.png.jpg"
         },
         "scoreAfter": "3 - 0",
         "penalty": false,
@@ -497,7 +497,7 @@
           "name": "Felix Keidel",
           "short": "Keidel",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1366338.png.jpg"
         },
         "goalType": "set",
         "description": "Maximilian Rohr scored with a header from the centre of the box to the bottom right corner. Assist: Felix Keidel with a cross following a corner."
@@ -511,7 +511,7 @@
           "name": "Han-Noah Massengo",
           "short": "Massengo",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/978680.png.jpg"
         },
         "detail": "Foul"
       },
@@ -524,7 +524,7 @@
           "name": "Rodrigo Ribeiro",
           "short": "Ribeiro",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1343749.png.jpg"
         },
         "detail": "Foul"
       },
@@ -537,14 +537,14 @@
           "name": "Luca Sirch",
           "short": "Sirch",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1097361.png.jpg"
         },
         "replaced": {
           "id": "jan-gyamerah",
           "name": "Jan Gyamerah",
           "short": "Gyamerah",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/458602.png.jpg"
         }
       },
       {
@@ -556,14 +556,14 @@
           "name": "Frederik Schmahl",
           "short": "Schmahl",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281256.png.jpg"
         },
         "replaced": {
           "id": "noah-darvich",
           "name": "Noah Darvich",
           "short": "Darvich",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1479921.png.jpg"
         }
       },
       {
@@ -575,7 +575,7 @@
           "name": "Fabian Rieder",
           "short": "Rieder",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1161211.png.jpg"
         },
         "scoreAfter": "3 - 1",
         "penalty": true,
@@ -592,7 +592,7 @@
           "name": "Maximilian Rohr",
           "short": "Rohr",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1077911.png.jpg"
         },
         "detail": "Penalty awarded to Augsburg after VAR review for a handball by Rohr (45+8)."
       },
@@ -605,14 +605,14 @@
           "name": "Anton Kade",
           "short": "Kade",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1310103.png.jpg"
         },
         "replaced": {
           "id": "marius-wolf",
           "name": "Marius Wolf",
           "short": "Wolf",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/556029.png.jpg"
         }
       },
       {
@@ -624,14 +624,14 @@
           "name": "Michael Gregoritsch",
           "short": "Gregoritsch",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/198316.png.jpg"
         },
         "replaced": {
           "id": "rodrigo-ribeiro",
           "name": "Rodrigo Ribeiro",
           "short": "Ribeiro",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1343749.png.jpg"
         }
       },
       {
@@ -643,14 +643,14 @@
           "name": "Jeffrey Gouweleeuw",
           "short": "Gouweleeuw",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/245315.png.jpg"
         },
         "replaced": {
           "id": "juma-bah",
           "name": "Juma Bah",
           "short": "Bah",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1539619.png.jpg"
         }
       },
       {
@@ -662,7 +662,7 @@
           "name": "Chrislain Matsima",
           "short": "Matsima",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1178512.png.jpg"
         },
         "detail": "Foul"
       },
@@ -675,7 +675,7 @@
           "name": "Felix Keidel",
           "short": "Keidel",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1366338.png.jpg"
         },
         "detail": "Not specified"
       },
@@ -688,14 +688,14 @@
           "name": "Mert Kömür",
           "short": "Kömür",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1453218.png.jpg"
         },
         "replaced": {
           "id": "arijon-ibrahimovic",
           "name": "Arijon Ibrahimovic",
           "short": "Ibrahimovic",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1327150.png.jpg"
         }
       },
       {
@@ -707,14 +707,14 @@
           "name": "Seol Young-Woo",
           "short": "Young-Woo",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1132818.png.jpg"
         },
         "replaced": {
           "id": "robin-fellhauer",
           "name": "Robin Fellhauer",
           "short": "Fellhauer",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1185609.png.jpg"
         }
       },
       {
@@ -726,7 +726,7 @@
           "name": "Lukas Finn Pinckert",
           "short": "Pinckert",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1280560.png.jpg"
         },
         "detail": "Foul"
       },
@@ -739,7 +739,7 @@
           "name": "Michael Gregoritsch",
           "short": "Gregoritsch",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/198316.png.jpg"
         },
         "scoreAfter": "3 - 2",
         "penalty": true,
@@ -756,14 +756,14 @@
           "name": "Noel Futkeu",
           "short": "Futkeu",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1138725.png.jpg"
         },
         "replaced": {
           "id": "david-mokwa",
           "name": "David Mokwa",
           "short": "Mokwa",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1459758.png.jpg"
         }
       },
       {
@@ -775,14 +775,14 @@
           "name": "Raif Adam",
           "short": "Adam",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1730149.png.jpg"
         },
         "replaced": {
           "id": "maurice-krattenmacher",
           "name": "Maurice Krattenmacher",
           "short": "Krattenmacher",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1412933.png.jpg"
         }
       },
       {
@@ -794,7 +794,7 @@
           "name": "Raif Adam",
           "short": "Adam",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1730149.png.jpg"
         },
         "detail": "Goal by Raif Adam ruled out for offside after VAR review."
       },
@@ -807,7 +807,7 @@
           "name": "Nicolas Kristof",
           "short": "Kristof",
           "position": "GK",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1285926.png.jpg"
         },
         "detail": "Not specified"
       },
@@ -820,7 +820,7 @@
           "name": "Frederik Schmahl",
           "short": "Schmahl",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281256.png.jpg"
         },
         "scoreAfter": "4 - 2",
         "penalty": false,
@@ -829,7 +829,7 @@
           "name": "Lukas Petkov",
           "short": "Petkov",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/lukas-petkov.jpg"
         },
         "goalType": "build",
         "description": "Frederik Schmahl scored with a right-footed shot from very close range to the bottom right corner. Assist: Lukas Petkov."
@@ -843,7 +843,7 @@
           "name": "Mert Kömür",
           "short": "Kömür",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1453218.png.jpg"
         },
         "scoreAfter": "4 - 3",
         "penalty": false,
@@ -852,7 +852,7 @@
           "name": "Hennes Behrens",
           "short": "Behrens",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1678681.png.jpg"
         },
         "goalType": "build",
         "description": "Mert Kömür scored with a left-footed shot from the centre of the box to the bottom right corner. Assist: Hennes Behrens with a cross."
@@ -866,14 +866,14 @@
           "name": "Amara Conde",
           "short": "Conde",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/763990.png.jpg"
         },
         "replaced": {
           "id": "felix-keidel",
           "name": "Felix Keidel",
           "short": "Keidel",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1366338.png.jpg"
         }
       },
       {
@@ -885,7 +885,7 @@
           "name": "Frederik Schmahl",
           "short": "Schmahl",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1281256.png.jpg"
         },
         "detail": "Foul"
       }

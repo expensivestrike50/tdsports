@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "angers-marseille-2026-10-18",
     "date": "2026-10-18",
@@ -39,7 +39,7 @@
           "name": "Stéphane Gilli",
           "short": "Gilli",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1141972.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Anthony Lopes",
             "short": "Lopes",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/167035.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 7.3
@@ -57,7 +57,7 @@
             "name": "Lilian Raolisoa",
             "short": "Raolisoa",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1431818.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 8
@@ -77,7 +77,7 @@
             "name": "Emmanuel Biumla",
             "short": "Biumla",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1428420.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 6.5
@@ -87,7 +87,7 @@
             "name": "Carlens Arcus",
             "short": "Arcus",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/634110.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.3
@@ -97,7 +97,7 @@
             "name": "Branco van den Boomen",
             "short": "van den Boomen",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/505059.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 6.2
@@ -107,7 +107,7 @@
             "name": "Yassin Belkhdim",
             "short": "Belkhdim",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/yassin-belkhdim.jpg",
             "x": 27,
             "y": 70,
             "rating": 7.1
@@ -117,7 +117,7 @@
             "name": "Amine Sbaï",
             "short": "Sbaï",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1242587.png.jpg",
             "x": 37,
             "y": 23,
             "rating": 6.8
@@ -127,7 +127,7 @@
             "name": "Louis Mouton",
             "short": "Mouton",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1329255.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 6.2
@@ -137,7 +137,7 @@
             "name": "Jim Allevinah",
             "short": "Allevinah",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/jim-allevinah.jpg",
             "x": 37,
             "y": 78,
             "rating": 7.1
@@ -147,7 +147,7 @@
             "name": "Amine El Ouazzani",
             "short": "El Ouazzani",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1123505.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 7.7
@@ -159,7 +159,7 @@
             "name": "Prosper Peter",
             "short": "Peter",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1748405.png.jpg",
             "rating": 6.2
           },
           {
@@ -175,7 +175,7 @@
             "name": "Harouna Djibirin",
             "short": "Djibirin",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1832893.png.jpg",
             "rating": 7.3
           },
           {
@@ -183,7 +183,7 @@
             "name": "Bané Diatta",
             "short": "Diatta",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1958964.png.jpg",
             "rating": 7.1
           },
           {
@@ -191,7 +191,7 @@
             "name": "Anthony Bermont",
             "short": "Bermont",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1573544.png.jpg",
             "rating": 7.4
           },
           {
@@ -199,7 +199,7 @@
             "name": "Jules Bouffandeau",
             "short": "Bouffandeau",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/2173845.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Marius Louãr",
             "short": "Louãr",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1688980.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Mamadou Simbakoli",
             "short": "Simbakoli",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1169692.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Oumar Pona",
             "short": "Pona",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1607778.png.jpg",
             "rating": null
           }
         ]
@@ -235,7 +235,7 @@
           "name": "Bruno Genesio",
           "short": "Genesio",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/712734.png.jpg"
         },
         "starting": [
           {
@@ -243,7 +243,7 @@
             "name": "Jeffrey de Lange",
             "short": "de Lange",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/687868.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.1
@@ -253,7 +253,7 @@
             "name": "Emerson",
             "short": "Emerson",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/267371.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 8.2
@@ -263,7 +263,7 @@
             "name": "Geoffrey Kondogbia",
             "short": "Kondogbia",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/214972.png.jpg",
             "x": 82,
             "y": 62,
             "rating": 7.3
@@ -273,7 +273,7 @@
             "name": "CJ Egan-Riley",
             "short": "Egan-Riley",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1187227.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 7.2
@@ -283,7 +283,7 @@
             "name": "Timothy Weah",
             "short": "Weah",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/889536.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 8.5
@@ -293,7 +293,7 @@
             "name": "Nouhoum Kamissoko",
             "short": "Kamissoko",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1698484.png.jpg",
             "x": 73,
             "y": 70,
             "rating": 8.1
@@ -303,7 +303,7 @@
             "name": "Tochukwu Nnadi",
             "short": "Nnadi",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1353104.png.jpg",
             "x": 73,
             "y": 30,
             "rating": 7.7
@@ -313,7 +313,7 @@
             "name": "Igor Paixão",
             "short": "Igor Paixão",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1265963.png.jpg",
             "x": 63,
             "y": 77,
             "rating": 7.3
@@ -323,7 +323,7 @@
             "name": "Himad Abdelli",
             "short": "Abdelli",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/956659.png.jpg",
             "x": 63,
             "y": 50,
             "rating": 7.4
@@ -333,7 +333,7 @@
             "name": "Amine Harit",
             "short": "Harit",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/780815.png.jpg",
             "x": 63,
             "y": 22,
             "rating": 8
@@ -343,7 +343,7 @@
             "name": "Amine Gouiri",
             "short": "Gouiri",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/844437.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 8.3
@@ -355,7 +355,7 @@
             "name": "Nayef Aguerd",
             "short": "Aguerd",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/617310.png.jpg",
             "rating": 7.1
           },
           {
@@ -363,7 +363,7 @@
             "name": "Angel Gomes",
             "short": "Gomes",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/848667.png.jpg",
             "rating": 6.4
           },
           {
@@ -371,7 +371,7 @@
             "name": "Keyliane Abdallah",
             "short": "Abdallah",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1638922.png.jpg",
             "rating": 6.9
           },
           {
@@ -379,7 +379,7 @@
             "name": "Neal Maupay",
             "short": "Maupay",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/391064.png.jpg",
             "rating": 7.2
           },
           {
@@ -387,7 +387,7 @@
             "name": "Ulisses Garcia",
             "short": "Garcia",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/520979.png.jpg",
             "rating": 7.5
           },
           {
@@ -395,7 +395,7 @@
             "name": "Kelyann Bezahaf",
             "short": "Bezahaf",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1843428.png.jpg",
             "rating": null
           },
           {
@@ -403,7 +403,7 @@
             "name": "Bamo Meïté",
             "short": "Meïté",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1287489.png.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "Tadjidine Mmadi",
             "short": "Mmadi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1814264.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Théo Vermot",
             "short": "Vermot",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1078904.png.jpg",
             "rating": null
           }
         ]
@@ -435,7 +435,7 @@
           "name": "Lilian Raolisoa",
           "short": "Raolisoa",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1431818.png.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": false,
@@ -452,7 +452,7 @@
           "name": "Himad Abdelli",
           "short": "Abdelli",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/956659.png.jpg"
         },
         "scoreAfter": "1 - 1",
         "penalty": false,
@@ -461,7 +461,7 @@
           "name": "Timothy Weah",
           "short": "Weah",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/889536.png.jpg"
         },
         "goalType": "build",
         "description": "Timothy Weah crossed and Himad Abdelli headed in from very close range to equalise."
@@ -475,7 +475,7 @@
           "name": "Nouhoum Kamissoko",
           "short": "Kamissoko",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1698484.png.jpg"
         },
         "scoreAfter": "1 - 2",
         "penalty": false,
@@ -484,7 +484,7 @@
           "name": "Emerson",
           "short": "Emerson",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/267371.png.jpg"
         },
         "goalType": "set",
         "description": "From a Marseille corner, Emerson's cross was headed into the bottom left corner by Nouhoum Kamissoko from the centre of the box."
@@ -498,14 +498,14 @@
           "name": "Prosper Peter",
           "short": "Peter",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1748405.png.jpg"
         },
         "replaced": {
           "id": "louis-mouton",
           "name": "Louis Mouton",
           "short": "Mouton",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1329255.png.jpg"
         }
       },
       {
@@ -517,7 +517,7 @@
           "name": "Amine Gouiri",
           "short": "Gouiri",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/844437.png.jpg"
         },
         "scoreAfter": "1 - 3",
         "penalty": false,
@@ -534,14 +534,14 @@
           "name": "Nayef Aguerd",
           "short": "Aguerd",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/617310.png.jpg"
         },
         "replaced": {
           "id": "geoffrey-kondogbia-angers-marseille-2026-10-18",
           "name": "Geoffrey Kondogbia",
           "short": "Kondogbia",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/214972.png.jpg"
         }
       },
       {
@@ -553,7 +553,7 @@
           "name": "Emmanuel Biumla",
           "short": "Biumla",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1428420.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -573,7 +573,7 @@
           "name": "Emmanuel Biumla",
           "short": "Biumla",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1428420.png.jpg"
         }
       },
       {
@@ -585,14 +585,14 @@
           "name": "Harouna Djibirin",
           "short": "Djibirin",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1832893.png.jpg"
         },
         "replaced": {
           "id": "jim-allevinah",
           "name": "Jim Allevinah",
           "short": "Allevinah",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/jim-allevinah.jpg"
         }
       },
       {
@@ -604,7 +604,7 @@
           "name": "Tochukwu Nnadi",
           "short": "Nnadi",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1353104.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -617,7 +617,7 @@
           "name": "Amine El Ouazzani",
           "short": "El Ouazzani",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1123505.png.jpg"
         },
         "scoreAfter": "2 - 3",
         "penalty": true,
@@ -634,14 +634,14 @@
           "name": "Angel Gomes",
           "short": "Gomes",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/848667.png.jpg"
         },
         "replaced": {
           "id": "nouhoum-kamissoko-angers-marseille-2026-10-18",
           "name": "Nouhoum Kamissoko",
           "short": "Kamissoko",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1698484.png.jpg"
         }
       },
       {
@@ -653,14 +653,14 @@
           "name": "Keyliane Abdallah",
           "short": "Abdallah",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1638922.png.jpg"
         },
         "replaced": {
           "id": "himad-abdelli-angers-marseille-2026-10-18",
           "name": "Himad Abdelli",
           "short": "Abdelli",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/956659.png.jpg"
         }
       },
       {
@@ -672,7 +672,7 @@
           "name": "Amine Harit",
           "short": "Harit",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/780815.png.jpg"
         },
         "scoreAfter": "2 - 4",
         "penalty": false,
@@ -681,7 +681,7 @@
           "name": "Tochukwu Nnadi",
           "short": "Nnadi",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1353104.png.jpg"
         },
         "goalType": "build",
         "description": "Amine Harit took Tochukwu Nnadi's pass and struck a right-footed shot from outside the box into the bottom right corner."
@@ -695,7 +695,7 @@
           "name": "Igor Paixão",
           "short": "Igor Paixão",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1265963.png.jpg"
         },
         "scoreAfter": "2 - 5",
         "penalty": false,
@@ -704,7 +704,7 @@
           "name": "Timothy Weah",
           "short": "Weah",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/889536.png.jpg"
         },
         "goalType": "build",
         "description": "Timothy Weah's headed pass set up Igor Paixão, who finished right-footed from the centre of the box into the bottom right corner."
@@ -718,14 +718,14 @@
           "name": "Bané Diatta",
           "short": "Diatta",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1958964.png.jpg"
         },
         "replaced": {
           "id": "amine-el-ouazzani",
           "name": "Amine El Ouazzani",
           "short": "El Ouazzani",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1123505.png.jpg"
         }
       },
       {
@@ -737,14 +737,14 @@
           "name": "Anthony Bermont",
           "short": "Bermont",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1573544.png.jpg"
         },
         "replaced": {
           "id": "amine-sbai",
           "name": "Amine Sbaï",
           "short": "Sbaï",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1242587.png.jpg"
         }
       },
       {
@@ -756,14 +756,14 @@
           "name": "Neal Maupay",
           "short": "Maupay",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/391064.png.jpg"
         },
         "replaced": {
           "id": "tochukwu-nnadi-angers-marseille-2026-10-18",
           "name": "Tochukwu Nnadi",
           "short": "Nnadi",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1353104.png.jpg"
         }
       },
       {
@@ -775,14 +775,14 @@
           "name": "Ulisses Garcia",
           "short": "Garcia",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/520979.png.jpg"
         },
         "replaced": {
           "id": "amine-harit-angers-marseille-2026-10-18",
           "name": "Amine Harit",
           "short": "Harit",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/780815.png.jpg"
         }
       }
     ],

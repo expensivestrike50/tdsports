@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "neco-williams",
     "name": "Neco Williams",
     "short": "Williams",
     "position": "LB",
-    "photo": null,
+    "photo": "assets/photos/people/neco-williams.jpg",
     "matches": [
       {
         "match": "nottm-forest-arsenal-2026-10-18",

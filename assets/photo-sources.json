@@ -51,6 +51,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Abdoul_Kon%C3%A9"
   },
   {
+    "subject": "Abdoul Ouattara",
+    "local": "assets/photos/people/abdoul-ouattara.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Abdoul_Ouattara_190926.jpg",
+    "author": "COYB123",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abdoul_Ouattara"
+  },
+  {
+    "subject": "Abdoulaye Faye",
+    "local": "assets/photos/people/abdoulaye-faye.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Abdoulaye_Diagne-Faye_cropped.jpg",
+    "author": "Ronnie Macdonald",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abdoulaye_Faye"
+  },
+  {
     "subject": "Abdukodir Khusanov",
     "local": "assets/photos/people/abdukodir-khusanov.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Abdukodir_Khusanov_(cropped).jpg",
@@ -73,6 +89,38 @@
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Achraf_Hakimi"
+  },
+  {
+    "subject": "Adalberto Carrasquilla",
+    "local": "assets/photos/people/adalberto-carrasquilla.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Adalberto_Carrasquilla_England_v_Panama_27_June_26-015.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adalberto_Carrasquilla"
+  },
+  {
+    "subject": "Adam Obert",
+    "local": "assets/photos/people/adam-obert.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Adam_Obert.jpg",
+    "author": "SonoGrazy",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Obert"
+  },
+  {
+    "subject": "Aihen Muñoz",
+    "local": "assets/photos/people/aihen-munoz.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aihen.jpg",
+    "author": "Giovanni Batista Rodriguez from San Sebastian-Donostia, España",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aihen_Mu%C3%B1oz"
+  },
+  {
+    "subject": "Aïssa Mandi",
+    "local": "assets/photos/people/aissa-mandi.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mandi_asselosc_2425_(cropped).jpg",
+    "author": "Paté kroute",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/A%C3%AFssa_Mandi"
   },
   {
     "subject": "Yunus Akgün",
@@ -154,6 +202,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Alex_Meret"
   },
   {
+    "subject": "Álex Remiro",
+    "local": "assets/photos/people/alex-remiro.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:DSC_2448_(51300097850)_(Alex_Remiro).jpg",
+    "author": "Giovanni Batista Rodriguez from San Sebastian-Donostia, España",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%81lex_Remiro"
+  },
+  {
     "subject": "Álex Valle",
     "local": "assets/photos/people/alex-valle.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Alex_Valle_ACCI_FCBARCELONA_Turisme_Catalunya_gira_pretemporada.jpg",
@@ -168,6 +224,22 @@
     "author": "Mikael Hervestad",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Isak"
+  },
+  {
+    "subject": "Alexander Nübel",
+    "local": "assets/photos/people/alexander-nubel.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Alexander_Nubel_Ecuador_v_Germany_25_June_2026-154.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_N%C3%BCbel"
+  },
+  {
+    "subject": "Alexander Schlager",
+    "local": "assets/photos/people/alexander-schlager.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_vs._Atletico_Madrid_(2025-01-29_UEFA_Championsleague)_47.jpg",
+    "author": "Werner100359",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Schlager"
   },
   {
     "subject": "Alexis Mac Allister",
@@ -249,6 +321,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Anastasios_Douvikas"
   },
   {
+    "subject": "Andoni Gorosabel",
+    "local": "assets/photos/people/andoni-gorosabel.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:DSC_2424_(51299094836)_(gorosabel).jpg",
+    "author": "Giovanni Batista Rodriguez from San Sebastian-Donostia, España",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andoni_Gorosabel"
+  },
+  {
     "subject": "Andoni Iraola",
     "local": "assets/photos/people/andoni-iraola.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Andoni_Iraola_in_a_press_conference_for_AFC_Bournemouth,_2026_(cropped).webp",
@@ -278,6 +358,14 @@
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Andrade_%28footballer%2C_born_1998%29"
+  },
+  {
+    "subject": "Andrés Cubas",
+    "local": "assets/photos/people/andres-cubas.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Andres_Cubas_France_v_Paraguay_4_July_2026-173.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Cubas"
   },
   {
     "subject": "Andrey Santos",
@@ -328,12 +416,36 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Anis_Hadj_Moussa"
   },
   {
+    "subject": "Ansgar Knauff",
+    "local": "assets/photos/people/ansgar-knauff.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2022128173650_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0682_-_AK8I7417_(Ansgar_Knauff_cropped).jpg",
+    "author": "Sven Mandel",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ansgar_Knauff"
+  },
+  {
     "subject": "Anthony Gordon",
     "local": "assets/photos/people/anthony-gordon.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Anthony_Gordon_England_v_Ghana_23_June_2026-017_(cropped).jpg",
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Gordon_%28footballer%29"
+  },
+  {
+    "subject": "Anthony Rouault",
+    "local": "assets/photos/people/anthony-rouault.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rouault_2022-01-19_3_(cropped_bust).jpg",
+    "author": "Gaillac",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Rouault"
+  },
+  {
+    "subject": "Antonee Robinson",
+    "local": "assets/photos/people/antonee-robinson.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Antonee_Robinson_Australia_v_USA_19_June_2026-24_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonee_Robinson"
   },
   {
     "subject": "Antonio Nusa",
@@ -392,12 +504,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Armando_Obispo"
   },
   {
+    "subject": "Arnaud Nordin",
+    "local": "assets/photos/people/arnaud-nordin.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nordin_asse_mhsc_2425.png",
+    "author": "Paté kroute",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnaud_Nordin"
+  },
+  {
     "subject": "Aurélien Tchouaméni",
     "local": "assets/photos/people/aurelien-tchouameni.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Aurelien_Tchouameni_France_v_Senegal_16_June_2026-447_(cropped).jpg",
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Aur%C3%A9lien_Tchouam%C3%A9ni"
+  },
+  {
+    "subject": "Aymeric Laporte",
+    "local": "assets/photos/people/aymeric-laporte.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aymeric_Laporte_Argentina_v_Spain_19_July_2026-067_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aymeric_Laporte"
   },
   {
     "subject": "Ayoze Pérez",
@@ -446,11 +574,43 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Barnab%C3%A1s_Varga"
   },
   {
+    "subject": "Bart Verbruggen",
+    "local": "assets/photos/people/bart-verbruggen.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bart_Verbruggen.png",
+    "author": "AFC Bournemouth",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bart_Verbruggen"
+  },
+  {
+    "subject": "Bartosz Mrozek",
+    "local": "assets/photos/people/bartosz-mrozek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bartosz_Mrozek_Lech_Pozna%C5%84_2023.jpg",
+    "author": "Klapi",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bartosz_Mrozek"
+  },
+  {
     "subject": "Aleksey Batrakov",
     "local": "assets/photos/people/batrakov.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Aleksey_Batrakov.jpg",
     "author": "Dmitry Burdonov",
     "license": "CC BY 2.0"
+  },
+  {
+    "subject": "Bazoumana Touré",
+    "local": "assets/photos/people/bazoumana-toure.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bazoumana_Toure_Cote_D%27Ivoire_v_Ecuador_14_June_2026-50.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bazoumana_Tour%C3%A9"
+  },
+  {
+    "subject": "Ben Olsen",
+    "local": "assets/photos/people/ben-olsen.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ben_Olsen.jpg",
+    "author": "Paul Frederiksen",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Olsen"
   },
   {
     "subject": "Ben White",
@@ -461,12 +621,36 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Ben_White_%28footballer%29"
   },
   {
+    "subject": "Benedict Hollerbach",
+    "local": "assets/photos/people/benedict-hollerbach.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:U19_DFB_Perspektivteam,_Duisburg-Wedau.jpg",
+    "author": "Winfrey",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Hollerbach"
+  },
+  {
+    "subject": "Benjamin André",
+    "local": "assets/photos/people/benjamin-andre.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Benjamin_andre_asse_losc_2425_(cropped).jpg",
+    "author": "Paté kroute",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Andr%C3%A9"
+  },
+  {
     "subject": "Benjamin Henrichs",
     "local": "assets/photos/people/benjamin-henrichs.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Benjamin_Henrichs_for_RB_Leipzig_in_2022_(cropped).jpg",
     "author": "Steffen Prößdorf",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Henrichs"
+  },
+  {
+    "subject": "Benjamin Nygren",
+    "local": "assets/photos/people/benjamin-nygren.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_-_Greece7_(cropped).jpg",
+    "author": "Mikael Hervestad",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Nygren"
   },
   {
     "subject": "Benoît Badiashile",
@@ -532,6 +716,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Brahim_D%C3%ADaz"
   },
   {
+    "subject": "Brian Schmetzer",
+    "local": "assets/photos/people/brian-schmetzer.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Brian_Schmetzer_NYCFC.Seattle.18.Oct.2025-155.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Schmetzer"
+  },
+  {
+    "subject": "Brooks Lennon",
+    "local": "assets/photos/people/brooks-lennon.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Brooks_Lennon_Red_Bull_Atlanta_5.31.25-12_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brooks_Lennon"
+  },
+  {
     "subject": "Bruno Fernandes",
     "local": "assets/photos/people/bruno-fernandes.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_(cropped).jpg",
@@ -571,6 +771,30 @@
     "license": "CC BY 3.0"
   },
   {
+    "subject": "Calvin Bassey",
+    "local": "assets/photos/people/calvin-bassey.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Calvin_Bassey_01112025_(1).jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Calvin_Bassey"
+  },
+  {
+    "subject": "Cameron Archer",
+    "local": "assets/photos/people/cameron-archer.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cameron_Archer_221202024.jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cameron_Archer"
+  },
+  {
+    "subject": "Carlos Acevedo",
+    "local": "assets/photos/people/carlos-acevedo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Carlos_Acevedo.png",
+    "author": "Selección Nacional de México",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Acevedo"
+  },
+  {
     "subject": "Carlos Augusto",
     "local": "assets/photos/people/carlos-augusto.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_Inter_Mailand_(UEFA_Championsleague_2023-11-08)_15.jpg",
@@ -595,12 +819,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Castello_Lukeba"
   },
   {
+    "subject": "Cesare Casadei",
+    "local": "assets/photos/people/cesare-casadei.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_28_(cropped).jpg",
+    "author": "MichaelEmilio",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cesare_Casadei"
+  },
+  {
     "subject": "Cesc Fàbregas",
     "local": "assets/photos/people/cesc-fabregas.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:2023_-_Cesc_Fabregas_(cropped).jpg",
     "author": "Web Summit",
     "license": "CC BY 2.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Cesc_F%C3%A0bregas"
+  },
+  {
+    "subject": "Chadi Riad",
+    "local": "assets/photos/people/chadi-riad.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Chadi_Riad_France_v_Morocco_9_July_2026-079.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chadi_Riad"
   },
   {
     "subject": "Charalampos Lykogiannis",
@@ -619,6 +859,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Charles_Vanhoutte"
   },
   {
+    "subject": "Cher Ndour",
+    "local": "assets/photos/people/cher-ndour.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cher_Ndour.jpg",
+    "author": "Unknown",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cher_Ndour"
+  },
+  {
+    "subject": "Christ Inao Oulaï",
+    "local": "assets/photos/people/christ-inao-oulai.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Christ_Inao_Oula%C3%AF_Cote_D%27Ivoire_v_Ecuador_14_June_2026-56.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christ_Inao_Oula%C3%AF"
+  },
+  {
     "subject": "Christoph Baumgartner",
     "local": "assets/photos/people/christoph-baumgartner.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Austria_national_under-21_football_team_-_Teamcamp_October_2019_(61)_(cropped).jpg",
@@ -633,6 +889,22 @@
     "author": "Steffen Prößdorf",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Nkunku"
+  },
+  {
+    "subject": "Clemens Riedel",
+    "local": "assets/photos/people/clemens-riedel.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:ClemensRiedel.jpg",
+    "author": "Silesia711",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clemens_Riedel"
+  },
+  {
+    "subject": "Clinton Mata",
+    "local": "assets/photos/people/clinton-mata.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mata_asse_ol_2425.png",
+    "author": "Paté kroute",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clinton_Mata"
   },
   {
     "subject": "Cody Gakpo",
@@ -651,12 +923,36 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Cristhian_Mosquera"
   },
   {
+    "subject": "Cristian Cásseres Jr.",
+    "local": "assets/photos/people/cristian-casseres-jr.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:C%C3%A1sseres_asse_tfc_2425.png",
+    "author": "Paté kroute",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristian_C%C3%A1sseres_Jr."
+  },
+  {
     "subject": "Cristian Chivu",
     "local": "assets/photos/people/cristian-chivu.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Chivu2018.jpg",
     "author": "Nuță Lucian from Cluj-Napoca, Romania",
     "license": "CC BY-SA 2.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Cristian_Chivu"
+  },
+  {
+    "subject": "Cristian Espinoza",
+    "local": "assets/photos/people/cristian-espinoza.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cristian_Espinoza_NYCFC_v_Nashville_4_Sep_2026-044_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristian_Espinoza"
+  },
+  {
+    "subject": "Daiki Matsuoka",
+    "local": "assets/photos/people/daiki-matsuoka.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Daiki_Matsuoka_2019.jpg",
+    "author": "Pedro  Semitiel",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daiki_Matsuoka"
   },
   {
     "subject": "Dani Ceballos",
@@ -683,12 +979,52 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Jones_%28American_football%29"
   },
   {
+    "subject": "Daniel Bragança",
+    "local": "assets/photos/people/daniel-braganca.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Daniel_Bragan%C3%A7a_2021.png",
+    "author": "Sporting Clube de Portugal",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Bragan%C3%A7a"
+  },
+  {
     "subject": "Daniel Elfadli",
     "local": "assets/photos/people/daniel-elfadli.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:2025-05-16_Hamburger_SV_Daniel_Elfadli.jpg",
     "author": "Lanthan2003",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Elfadli"
+  },
+  {
+    "subject": "Daniel Lovitz",
+    "local": "assets/photos/people/daniel-lovitz.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Daniel_Lovitz_Revolution_Nashville_6.25.25-063_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Lovitz"
+  },
+  {
+    "subject": "Danilho Doekhi",
+    "local": "assets/photos/people/danilho-doekhi.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:4_-_2023_Union_Berlin_(Danilho_Doekhi).jpg",
+    "author": "Lear 21",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danilho_Doekhi"
+  },
+  {
+    "subject": "Dave Romney",
+    "local": "assets/photos/people/dave-romney.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:HOUSTON_DYNAMO_VS._LA_GALAXY_3_-_0_1.jpg",
+    "author": "Victor Araiza",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dave_Romney"
+  },
+  {
+    "subject": "Dávid Hancko",
+    "local": "assets/photos/people/david-hancko.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%A1vid_Hancko.jpg",
+    "author": "Carlo Bruil Fotografie",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/D%C3%A1vid_Hancko"
   },
   {
     "subject": "David Raum",
@@ -712,6 +1048,14 @@
     "source": "https://commons.wikimedia.org/wiki/File:Davide_Ancelotti_Brazil_V_Morocco_13_June_2026-48.jpg",
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0"
+  },
+  {
+    "subject": "Davide Nicola",
+    "local": "assets/photos/people/davide-nicola.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nicola_Cagliari_2024_(cropped).jpg",
+    "author": "Sandrino 14",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Davide_Nicola"
   },
   {
     "subject": "Dayot Upamecano",
@@ -738,6 +1082,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Declan_Rice"
   },
   {
+    "subject": "Dembo Sylla",
+    "local": "assets/photos/people/dembo-sylla.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dembosylla1.jpg",
+    "author": "Fédération Guinéenne Football",
+    "license": "Public domain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dembo_Sylla"
+  },
+  {
     "subject": "Dennis Man",
     "local": "assets/photos/people/dennis-man.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Dennis_Man_-_23_November_2017.jpg",
@@ -762,12 +1114,36 @@
     "wikipedia": "https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Dou%C3%A9"
   },
   {
+    "subject": "Diadie Samassekou",
+    "local": "assets/photos/people/diadie-samassekou.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Admira_Wacker_M%C3%B6dling_vs._FC_Red_Bull_Salzburg_2018-04-15_(043).jpg",
+    "author": "Steindy (talk) 21:09, 28 August 2018 (UTC)",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diadie_Samass%C3%A9kou"
+  },
+  {
     "subject": "Soriba Diaoune",
     "local": "assets/photos/people/diaoune.jpg",
     "source": "https://images.fotmob.com/image_resources/playerimages/1684579.png",
     "author": "FotMob (club headshot)",
     "license": "All rights reserved; not freely licensed",
     "wikipedia": "https://en.wikipedia.org/wiki/Soriba_Diaoune"
+  },
+  {
+    "subject": "Didier Deschamps",
+    "local": "assets/photos/people/didier-deschamps.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Didier_Deschamps_France_v_Senegal_16_June_2026-294.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Didier_Deschamps"
+  },
+  {
+    "subject": "Didier Digard",
+    "local": "assets/photos/people/didier-digard.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Didier_Digard_18-10-2008_1.jpg",
+    "author": "Mattythewhite",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Didier_Digard"
   },
   {
     "subject": "Diego Conde",
@@ -792,6 +1168,22 @@
     "author": "Антон Зайцев",
     "license": "CC BY-SA 3.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Dietmar_K%C3%BChbauer"
+  },
+  {
+    "subject": "Dillon Phillips",
+    "local": "assets/photos/people/dillon-phillips.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dillon_Phillips_warming_up_prior_to_the_away_game_against_Brentford_in_2014.jpg",
+    "author": "Adam.P.Shaw",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dillon_Phillips"
+  },
+  {
+    "subject": "Dimitris Nikolaou",
+    "local": "assets/photos/people/dimitris-nikolaou.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dimitris_Nikolaou,_U21_CZE-GRE_2019-10-10.jpg",
+    "author": "Tadeáš Bednarz",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dimitrios_Nikolaou"
   },
   {
     "subject": "Diogo Costa",
@@ -850,6 +1242,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Dominik_Livakovi%C4%87"
   },
   {
+    "subject": "Dominik Szoboszlai",
+    "local": "assets/photos/people/dominik-szoboszlai.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dominik_Szoboszlai_04012026_(1).jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominik_Szoboszlai"
+  },
+  {
     "subject": "Eberechi Eze",
     "local": "assets/photos/people/eberechi-eze.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Eberechi_Eze_England_v_Ghana_23_June_2026-039.jpg",
@@ -864,6 +1264,14 @@
     "author": "Real Madrid",
     "license": "CC BY 3.0",
     "wikipedia": "https://en.wikipedia.org/wiki/%C3%89der_Milit%C3%A3o"
+  },
+  {
+    "subject": "Edin Dzeko",
+    "local": "assets/photos/people/edin-dzeko.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_(cropped).jpg",
+    "author": "Ailura",
+    "license": "CC BY-SA 3.0 at",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edin_D%C5%BEeko"
   },
   {
     "subject": "Eduardo Camavinga",
@@ -882,6 +1290,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Eduardo_Quaresma"
   },
   {
+    "subject": "Elijah Wynder",
+    "local": "assets/photos/people/elijah-wynder.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:ElijahWynder.jpg",
+    "author": "Connortrace",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elijah_Wynder"
+  },
+  {
     "subject": "Elliot Anderson",
     "local": "assets/photos/people/elliot-anderson.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Elliot_Anderson_England_v_Ghana_23_June_2026-059_(cropped).jpg",
@@ -898,12 +1314,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Emiliano_Buend%C3%ADa"
   },
   {
+    "subject": "Emmanuel Latte Lath",
+    "local": "assets/photos/people/emmanuel-latte-lath.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Emmanuel_Latte_Lath_Red_Bull_Atlanta_5.31.25-068_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmanuel_Latte_Lath"
+  },
+  {
     "subject": "Endrick",
     "local": "assets/photos/people/endrick.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_(Endrick).jpg",
     "author": "YantsImages",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Endrick"
+  },
+  {
+    "subject": "Enzo Bardeli",
+    "local": "assets/photos/people/enzo-bardeli.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Enzo_Bardeli,_RC_Lens_-_USL_Dunkerque_(08-07-2023)_61.jpg",
+    "author": "Supporterhéninois",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enzo_Bardeli"
   },
   {
     "subject": "Enzo Fernández",
@@ -953,12 +1385,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Esmir_Bajraktarevi%C4%87"
   },
   {
+    "subject": "Eusebio Di Francesco",
+    "local": "assets/photos/people/eusebio-di-francesco.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:CSKA-Roma18_(7).jpg",
+    "author": "Антон Зайцев",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eusebio_Di_Francesco"
+  },
+  {
     "subject": "Ezri Konsa",
     "local": "assets/photos/people/ezri-konsa.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Ezri_Konsa_England_v_Panama_27_June_26-259_(cropped).jpg",
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Ezri_Konsa"
+  },
+  {
+    "subject": "Fabian Herbers",
+    "local": "assets/photos/people/fabian-herbers.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:CINvBST_2018-06-13_-_Fabian_Herbers_(45328818292)_(cropped).jpg",
+    "author": "Hayden Schiff from Cincinnati, USA",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabian_Herbers"
   },
   {
     "subject": "Fabián Ruiz",
@@ -993,6 +1441,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Ferm%C3%ADn_L%C3%B3pez"
   },
   {
+    "subject": "Fernando Calero",
+    "local": "assets/photos/people/fernando-calero.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Real_Valladolid-Valencia_CF,_2019-05-18_(135)_(cropped).jpg",
+    "author": "www.realvalladolid.es",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernando_Calero"
+  },
+  {
     "subject": "Ferran Torres",
     "local": "assets/photos/people/ferran-torres.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Ferran_Torres_France_v_Spain_7.24.26-237_(cropped).jpg",
@@ -1023,6 +1479,14 @@
     "author": "Fuguito",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Florian_Kastenmeier"
+  },
+  {
+    "subject": "Florian Neuhaus",
+    "local": "assets/photos/people/florian-neuhaus.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Florian_Neuhaus_Champions_for_Charity_2022_(cropped).jpg",
+    "author": "Sven Mandel",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Florian_Neuhaus"
   },
   {
     "subject": "Florian Wirtz",
@@ -1057,12 +1521,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Fredrik_Andr%C3%A9_Bj%C3%B8rkan"
   },
   {
+    "subject": "Fredrik Oppegard",
+    "local": "assets/photos/people/fredrik-oppegard.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:GAE_-_Ajax_-_52787513607_(cropped).jpg",
+    "author": "Carlo Bruil Fotografie",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fredrik_Oppeg%C3%A5rd"
+  },
+  {
     "subject": "Frenkie de Jong",
     "local": "assets/photos/people/frenkie-de-jong.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Frenkie_De_Jong_(2025)_(cropped).png",
     "author": "Unknown authorUnknown author",
     "license": "CC BY 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Frenkie_de_Jong"
+  },
+  {
+    "subject": "Gabriel Índio",
+    "local": "assets/photos/people/gabriel-indio.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gabriel_Indio_2026.jpg",
+    "author": "Ser!",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_%C3%8Dndio"
   },
   {
     "subject": "Gabriel Jesus",
@@ -1136,12 +1616,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Ger%C3%B3nimo_Rulli"
   },
   {
+    "subject": "Gianluca Gaetano",
+    "local": "assets/photos/people/gianluca-gaetano.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gianluca_Gaetano_2017.png",
+    "author": "LorMo1991",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gianluca_Gaetano"
+  },
+  {
     "subject": "Gianluigi Donnarumma",
     "local": "assets/photos/people/gianluigi-donnarumma.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_17_(Gianluigi_Donnarumma).jpg",
     "author": "MichaelEmilio",
     "license": "CC BY 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Gianluigi_Donnarumma"
+  },
+  {
+    "subject": "Gibrán Lajud",
+    "local": "assets/photos/people/gibran-lajud.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gibr%C3%A1n_Lajud_(cropped).png",
+    "author": "Club Santos Laguna",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gibr%C3%A1n_Lajud"
   },
   {
     "subject": "Giorgi Mamardashvili",
@@ -1176,6 +1672,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_van_Bronckhorst"
   },
   {
+    "subject": "Giuliano Simeone",
+    "local": "assets/photos/people/giuliano-simeone.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Giuliano_Simeone_Argentina_v_Spain_19_July_2026-268.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuliano_Simeone"
+  },
+  {
     "subject": "Givairo Read",
     "local": "assets/photos/people/givairo-read.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Givairo_read-1772634849_(cropped).JPG",
@@ -1208,6 +1712,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Gon%C3%A7alo_Borges"
   },
   {
+    "subject": "Gonçalo Guedes",
+    "local": "assets/photos/people/goncalo-guedes.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Goncalo_Guedes_Croatia_v_Portugal_2_July_2026-004.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gon%C3%A7alo_Guedes"
+  },
+  {
     "subject": "Gonçalo Inácio",
     "local": "assets/photos/people/goncalo-inacio.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Gon%C3%A7alo_In%C3%A1cio_USMNT_v_Portugal_Mar_31_2026-42_(cropped).jpg",
@@ -1216,12 +1728,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Gon%C3%A7alo_In%C3%A1cio"
   },
   {
+    "subject": "Gonçalo Ramos",
+    "local": "assets/photos/people/goncalo-ramos.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gon%C3%A7alo_Ramos_USMNT_v_Portugal_Mar_31_2026-32_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gon%C3%A7alo_Ramos"
+  },
+  {
     "subject": "Guus Til",
     "local": "assets/photos/people/guus-til.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Guus_Til_(Spartak_Moscow,_19.08.2019).jpg",
     "author": "Анна Нэнси",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Guus_Til"
+  },
+  {
+    "subject": "Haissem Hassan",
+    "local": "assets/photos/people/haissem-hassan.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Haissem_Hassan_Argentina_v_Egypt_7_July_2026-122.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Haissem_Hassan"
   },
   {
     "subject": "Haitam Aleesami",
@@ -1240,12 +1768,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Hakan_%C3%87alhano%C4%9Flu"
   },
   {
+    "subject": "Hákon Haraldsson",
+    "local": "assets/photos/people/hakon-haraldsson.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RC_Lens_-_Lille_OSC_(08-10-2023)_17_(cropped).jpg",
+    "author": "Supporterhéninois",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A1kon_Haraldsson"
+  },
+  {
     "subject": "Hamza Abdelkarim",
     "local": "assets/photos/people/hamza-abdelkarim.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Hamza_Abdelkarim_Argentina_v_Egypt_7_July_2026-005.jpg",
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Hamza_Abdelkarim"
+  },
+  {
+    "subject": "Hamzat Ojediran",
+    "local": "assets/photos/people/hamzat-ojediran.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamzat_Ojediran_NYCFC_v_Colorado_Mar_14_2026-39_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hamzat_Ojediran"
   },
   {
     "subject": "Hansi Flick",
@@ -1261,6 +1805,14 @@
     "source": "https://commons.wikimedia.org/wiki/File:RC_Lens_-_Lille_OSC_(08-10-2023)_17_(cropped).jpg",
     "author": "Supporterhéninois",
     "license": "CC0"
+  },
+  {
+    "subject": "Haris Tabakovic",
+    "local": "assets/photos/people/haris-tabakovic.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Red_Bull_Salzburg_gegen_TSV_Hartberg_(Bundesliga_2026-27_Erste_Runde)_05.jpg",
+    "author": "Werner100359",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Haris_Tabakovi%C4%87"
   },
   {
     "subject": "Harold Moukoudi",
@@ -1293,6 +1845,22 @@
     "author": "UK Prime Minister",
     "license": "CC BY 2.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Harry_Maguire"
+  },
+  {
+    "subject": "Harry Winks",
+    "local": "assets/photos/people/harry-winks.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2020-03-10_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League_Achtelfinale,_RB_Leipzig_-_Tottenham_Hotspur_1DX_3701_by_Stepro.jpg",
+    "author": "Steffen Prößdorf",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Winks"
+  },
+  {
+    "subject": "Hayden Hackney",
+    "local": "assets/photos/people/hayden-hackney.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hayden_Hackney_16082025_(3).jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hayden_Hackney"
   },
   {
     "subject": "Héctor Bellerín",
@@ -1335,6 +1903,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Herman_Haugen"
   },
   {
+    "subject": "Hernán Crespo",
+    "local": "assets/photos/people/hernan-crespo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Chelsea_Legends_1_Inter_Forever_4_(27457022797).jpg",
+    "author": "@cfcunofficial (Chelsea Debs) London from London, UK",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Crespo"
+  },
+  {
     "subject": "Hiroki Ito",
     "local": "assets/photos/people/hiroki-ito.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Hiroki_Ito_VfB_Stuttgart.jpg",
@@ -1349,6 +1925,14 @@
     "author": "Explicit",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Hwang_In-beom"
+  },
+  {
+    "subject": "Iago Aspas",
+    "local": "assets/photos/people/iago-aspas.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_182_(cropped).jpg",
+    "author": "Estevoaei",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iago_Aspas"
   },
   {
     "subject": "Ian Maatsen",
@@ -1414,6 +1998,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Illia_Zabarnyi"
   },
   {
+    "subject": "Imanol Alguacil",
+    "local": "assets/photos/people/imanol-alguacil.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Imanol_Alguacil_2021.jpg",
+    "author": "Giovanni Batista Rodriguez from San Sebastian-Donostia, España",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imanol_Alguacil"
+  },
+  {
     "subject": "Iñigo Pérez",
     "local": "assets/photos/people/inigo-perez.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:CSC_0149_(29636216028)_Perez_(cropped).jpg",
@@ -1446,6 +2038,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Ismael_Saibari"
   },
   {
+    "subject": "İsmail Kartal",
+    "local": "assets/photos/people/ismail-kartal.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%C4%B0smail_Kartal_Fenerbah%C3%A7e_20260805_(3)_(cropped).JPG",
+    "author": "User:Zafer",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C4%B0smail_Kartal"
+  },
+  {
+    "subject": "Issa Soumaré",
+    "local": "assets/photos/people/issa-soumare.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lens_-_Orl%C3%A9ans_(09-03-2020)_46.jpg",
+    "author": "Supporterhéninois",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Issa_Soumar%C3%A9"
+  },
+  {
     "subject": "Iván Fresneda",
     "local": "assets/photos/people/ivan-fresneda.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Iv%C3%A1n_Fresneda_Corraliza.jpg",
@@ -1460,6 +2068,46 @@
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Ivan_Peri%C5%A1i%C4%87"
+  },
+  {
+    "subject": "Jack Grealish",
+    "local": "assets/photos/people/jack-grealish.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:ManCity20240722-017_(cropped).jpg",
+    "author": "Hameltion",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Grealish"
+  },
+  {
+    "subject": "Jacob Murphy",
+    "local": "assets/photos/people/jacob-murphy.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Premier_League_Newcastle-Arsenal_2023-05-07_29_(cropped_Jacob_Murphy).jpg",
+    "author": "SonoGrazy",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Murphy"
+  },
+  {
+    "subject": "Jaden Philogene",
+    "local": "assets/photos/people/jaden-philogene.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jaden_Philogene.jpg",
+    "author": "COYB123",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaden_Philogene"
+  },
+  {
+    "subject": "Jagoba Arrasate",
+    "local": "assets/photos/people/jagoba-arrasate.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jagoba_Arrasate_(octubre_de_2013)_(cropped).jpg",
+    "author": "rubénortegavega",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jagoba_Arrasate"
+  },
+  {
+    "subject": "Jaidon Anthony",
+    "local": "assets/photos/people/jaidon-anthony.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jaidon_Anthony_26042025_(3).jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaidon_Anthony"
   },
   {
     "subject": "Jakob Segadal Hansen",
@@ -1485,12 +2133,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Jakub_Kiwior"
   },
   {
+    "subject": "James Trafford",
+    "local": "assets/photos/people/james-trafford.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:James_Trafford_England_v_Ghana_23_June_2026-027.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Trafford"
+  },
+  {
     "subject": "Jan Bednarek",
     "local": "assets/photos/people/jan-bednarek.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Jan_Bednarek_22122024_(cropped).jpg",
     "author": "Timmy96",
     "license": "CC0",
     "wikipedia": "https://en.wikipedia.org/wiki/Jan_Bednarek"
+  },
+  {
+    "subject": "Jan Paul van Hecke",
+    "local": "assets/photos/people/jan-paul-van-hecke.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jan_Paul_van_Hecke_24012026_(2)_(cropped).jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jan_Paul_van_Hecke"
   },
   {
     "subject": "Javi López",
@@ -1507,6 +2171,14 @@
     "author": "Supporterhéninois",
     "license": "CC0",
     "wikipedia": "https://en.wikipedia.org/wiki/Jean_Butez"
+  },
+  {
+    "subject": "Jeanuël Belocian",
+    "local": "assets/photos/people/jeanuel-belocian.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lens_-_Stade_Rennais_(20-08-2023)_56_(cropped).jpg",
+    "author": "Supporterhéninois",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeanu%C3%ABl_Belocian"
   },
   {
     "subject": "Jens Petter Hauge",
@@ -1549,6 +2221,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Jesper_Daland"
   },
   {
+    "subject": "Jim Allevinah",
+    "local": "assets/photos/people/jim-allevinah.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Allevinah_asse_sco_2425.png",
+    "author": "Paté kroute",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Allevinah"
+  },
+  {
     "subject": "Joan García",
     "local": "assets/photos/people/joan-garcia.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:P20260719DT-1994_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final_(cropped).jpg",
@@ -1589,6 +2269,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Neves"
   },
   {
+    "subject": "Joaquin Seys",
+    "local": "assets/photos/people/joaquin-seys.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Joaquin_Seys_Belgium_v_USA_6_July_2026-033.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joaquin_Seys"
+  },
+  {
     "subject": "Joe Bell",
     "local": "assets/photos/people/joe-bell.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Joe_Bell_2023.jpg",
@@ -1613,6 +2301,30 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Joel_Mvuka"
   },
   {
+    "subject": "Joel Waterman",
+    "local": "assets/photos/people/joel-waterman.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Joel_Waterman_Canada_v_Qatar_18_June_2026-087.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joel_Waterman"
+  },
+  {
+    "subject": "Joelinton",
+    "local": "assets/photos/people/joelinton.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Joelinton_(cropped).jpg",
+    "author": "Silesia711",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joelinton"
+  },
+  {
+    "subject": "Joey Veerman",
+    "local": "assets/photos/people/joey-veerman.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Joey_Veerman_sc_Heerenveen.png",
+    "author": "VVV-Venlo",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joey_Veerman"
+  },
+  {
     "subject": "Johan Bakayoko",
     "local": "assets/photos/people/johan-bakayoko.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Johan_Bakayoko_(2024).jpg",
@@ -1629,6 +2341,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/John_McGinn"
   },
   {
+    "subject": "John Stones",
+    "local": "assets/photos/people/john-stones.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:John_Stones_England_v_Ghana_23_June_2026-038.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Stones"
+  },
+  {
+    "subject": "Jon Gallagher",
+    "local": "assets/photos/people/jon-gallagher.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jon_Gallagher_(53210514812)_(cropped).jpg",
+    "author": "David",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jon_Gallagher"
+  },
+  {
     "subject": "Jonas Urbig",
     "local": "assets/photos/people/jonas-urbig.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_(2026-01-06_Testspiel)_14.jpg",
@@ -1637,12 +2365,44 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Jonas_Urbig"
   },
   {
+    "subject": "Jonathan Bond",
+    "local": "assets/photos/people/jonathan-bond.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Houston_Dynamo_vs_Minnesota_United_(May_2025)_24.jpg",
+    "author": "u/reepers_hellcat",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Bond"
+  },
+  {
     "subject": "Jonathan Tah",
     "local": "assets/photos/people/jonathan-tah.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Jonathan_Tah_Ecuador_v_Germany_25_June_2026-116.jpg",
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Tah"
+  },
+  {
+    "subject": "Jordan Torunarigha",
+    "local": "assets/photos/people/jordan-torunarigha.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hertha_BSC_vs._West_Ham_United_20190731_(088)_(cropped).jpg",
+    "author": "--Steindy (talk) 15:50, 29 August 2019 (UTC)",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jordan_Torunarigha"
+  },
+  {
+    "subject": "Jordy Makengo",
+    "local": "assets/photos/people/jordy-makengo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:MakengoFreiburg2023.jpg",
+    "author": "ANCHE LEAGUE",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jordy_Makengo"
+  },
+  {
+    "subject": "José Bordalás",
+    "local": "assets/photos/people/jose-bordalas.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Bordal%C3%A1s_2021.png",
+    "author": "Valencia CF",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Bordal%C3%A1s"
   },
   {
     "subject": "José Mourinho",
@@ -1741,6 +2501,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Kaiki_Bruno"
   },
   {
+    "subject": "Kamory Doumbia",
+    "local": "assets/photos/people/kamory-doumbia.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Doumbia_asse_sb_2425.png",
+    "author": "Paté kroute",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kamory_Doumbia"
+  },
+  {
     "subject": "Karim Adeyemi",
     "local": "assets/photos/people/karim-adeyemi.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_(Championsleague_Achtelfinale_Hinspiel_16._Februar_2022)_63.jpg",
@@ -1765,6 +2533,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Kepa_Arrizabalaga"
   },
   {
+    "subject": "Kevin Danso",
+    "local": "assets/photos/people/kevin-danso.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kevin_Danso_ASSE_RCL_2425.jpg",
+    "author": "Paté kroute",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Danso"
+  },
+  {
     "subject": "Kevin De Bruyne",
     "local": "assets/photos/people/kevin-de-bruyne.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_(cropped).jpg",
@@ -1773,12 +2549,44 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne"
   },
   {
+    "subject": "Kevin Diks",
+    "local": "assets/photos/people/kevin-diks.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kevin_Diks_(Indonesia-Bahrain_25_March_2025).jpg",
+    "author": "BPMI Sekretariat Presiden/Muchlis Jr",
+    "license": "Public domain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Diks"
+  },
+  {
+    "subject": "Kevin Stöger",
+    "local": "assets/photos/people/kevin-stoger.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kevin-St%C3%B6ger-08-2019.jpg",
+    "author": "Fuguito",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_St%C3%B6ger"
+  },
+  {
+    "subject": "Kevin Wimmer",
+    "local": "assets/photos/people/kevin-wimmer.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:20150331_2024_AUT_BIH_2115.jpg",
+    "author": "Ailura",
+    "license": "CC BY-SA 3.0 at",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Wimmer"
+  },
+  {
     "subject": "Khvicha Kvaratskhelia",
     "local": "assets/photos/people/khvicha-kvaratskhelia.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Kvaratskhelia_asse_psg_2425.png",
     "author": "Paté kroute",
     "license": "CC0",
     "wikipedia": "https://en.wikipedia.org/wiki/Khvicha_Kvaratskhelia"
+  },
+  {
+    "subject": "Kiernan Dewsbury-Hall",
+    "local": "assets/photos/people/kiernan-dewsbury-hall.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kiernan_Dewsbury-Hall_FIFA_Club_World_Cup_final_extraction.jpg",
+    "author": "The White House",
+    "license": "Public domain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kiernan_Dewsbury-Hall"
   },
   {
     "subject": "Kim Min-jae",
@@ -1803,6 +2611,14 @@
     "author": "Steffen Prößdorf",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Konrad_Laimer"
+  },
+  {
+    "subject": "Konstantinos Tzolakis",
+    "local": "assets/photos/people/konstantinos-tzolakis.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sweden_-_Greece27_(Konstantinos_Tzolakis)_(cropped).jpg",
+    "author": "Mikael Hervestad",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Konstantinos_Tzolakis"
   },
   {
     "subject": "Kostas Tsimikas",
@@ -1869,6 +2685,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Lazaros_Rota"
   },
   {
+    "subject": "Leny Yoro",
+    "local": "assets/photos/people/leny-yoro.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RC_Lens_-_Lille_OSC_(08-10-2023)_12_(cropped1).jpg",
+    "author": "Supporterhéninois",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leny_Yoro"
+  },
+  {
+    "subject": "Leo Sauer",
+    "local": "assets/photos/people/leo-sauer.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Leo_Sauer_2024_(cropped).jpg",
+    "author": "Lukas Raich",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leo_Sauer"
+  },
+  {
     "subject": "Leon Goretzka",
     "local": "assets/photos/people/leon-goretzka.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Leon_Goretzka_Ecuador_v_Germany_25_June_2026-159.jpg",
@@ -1885,11 +2717,35 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Leonardo_Spinazzola"
   },
   {
+    "subject": "Leopold Querfeld",
+    "local": "assets/photos/people/leopold-querfeld.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Red_Bull_Salzburg_vs._SK_Rapid_Wien_(2022-09-18)_25a_(cropped)_(cropped).jpg",
+    "author": "Created by Werner100359; cropped Футболло",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leopold_Querfeld"
+  },
+  {
     "subject": "Leroy Sané",
     "local": "assets/photos/people/leroy-sane.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Leroy_Sane_Ecuador_v_Germany_25_June_2026-119_(cropped).jpg",
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0"
+  },
+  {
+    "subject": "Lewie Coyle",
+    "local": "assets/photos/people/lewie-coyle.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lewie_Coyle_July_2015.jpg",
+    "author": "Rccousins",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewie_Coyle"
+  },
+  {
+    "subject": "Lewis Ferguson",
+    "local": "assets/photos/people/lewis-ferguson.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lewis_Ferguson_Scotland_v_Bolivia_6_June_2026-52.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Ferguson"
   },
   {
     "subject": "Lewis Koumas",
@@ -1908,12 +2764,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Liam_Bossin"
   },
   {
+    "subject": "Linus Güther",
+    "local": "assets/photos/people/linus-guther.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Linus_G%C3%BCther_(2025%E2%80%9326).jpg",
+    "author": "FriederRöcklerII",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linus_G%C3%BCther"
+  },
+  {
     "subject": "Logan Costa",
     "local": "assets/photos/people/logan-costa.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Logan_Costa_-_2023-02-01_(cropped_medium_shot).jpg",
     "author": "Gaillac",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Logan_Costa"
+  },
+  {
+    "subject": "Lorenzo De Silvestri",
+    "local": "assets/photos/people/lorenzo-de-silvestri.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:De_Silvestri.jpg",
+    "author": "AssassinsCreed",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorenzo_De_Silvestri"
   },
   {
     "subject": "Lorenzo Lucca",
@@ -1940,6 +2812,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/%C4%BDubom%C3%ADr_Belko"
   },
   {
+    "subject": "Luca Koleosho",
+    "local": "assets/photos/people/luca-koleosho.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Luca_Koleosho_26042025_(2)_(cropped).jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luca_Koleosho"
+  },
+  {
+    "subject": "Luca Lezzerini",
+    "local": "assets/photos/people/luca-lezzerini.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Luca_Lezzerini_25072026_(1).jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luca_Lezzerini"
+  },
+  {
     "subject": "Luca Meirelles",
     "local": "assets/photos/people/luca-meirelles.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Luca_Meirelles_07-05-2025.png",
@@ -1954,6 +2842,14 @@
     "author": "Paté kroute",
     "license": "CC0",
     "wikipedia": "https://en.wikipedia.org/wiki/Lucas_Beraldo"
+  },
+  {
+    "subject": "Lucas Bretelle",
+    "local": "assets/photos/people/lucas-bretelle.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lucas_Bretelle_(cropped).jpg",
+    "author": "Pogbatinho",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucas_Bretelle"
   },
   {
     "subject": "Lucas Chevalier",
@@ -2060,6 +2956,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Lukas_Klostermann"
   },
   {
+    "subject": "Lukas Petkov",
+    "local": "assets/photos/people/lukas-petkov.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lukas_Petkov.jpg",
+    "author": "Biso",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lukas_Petkov"
+  },
+  {
     "subject": "Luke Chambers",
     "local": "assets/photos/people/luke-chambers.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:LukeChambersIpsNor.jpg",
@@ -2092,12 +2996,36 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Maghnes_Akliouche"
   },
   {
+    "subject": "Mamadou Sarr",
+    "local": "assets/photos/people/mamadou-sarr.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sarr_asse_rcsa_2425.jpg",
+    "author": "Paté kroute",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mamadou_Sarr"
+  },
+  {
+    "subject": "Manu Duah",
+    "local": "assets/photos/people/manu-duah.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Manu_Duah_Red_Bulls_v_San_Diego_10_October_2026-091.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manu_Duah"
+  },
+  {
     "subject": "Manuel Akanji",
     "local": "assets/photos/people/manuel-akanji.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:2023-10-04_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League,_RB_Leipzig_-_Manchester_City_FC_1DX_2792_(Manuel_Akanji).jpg",
     "author": "Steffen Prößdorf",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Akanji"
+  },
+  {
+    "subject": "Manuel Capasso",
+    "local": "assets/photos/people/manuel-capasso.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Manuel_Capasso_em_confer%C3%AAncia_de_Imprensa_de_2020_(cropped).jpg",
+    "author": "Youtube: Newell's Old Boys",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Capasso"
   },
   {
     "subject": "Manuel Neuer",
@@ -2156,12 +3084,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Marc-Oliver_Kempf"
   },
   {
+    "subject": "Marc Pubill",
+    "local": "assets/photos/people/marc-pubill.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Marc_Pubill_Argentina_v_Spain_19_July_2026-312.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marc_Pubill"
+  },
+  {
     "subject": "Marco Bizot",
     "local": "assets/photos/people/marco-bizot.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Bizot_asse_sb_2425.png",
     "author": "Paté kroute",
     "license": "CC0",
     "wikipedia": "https://en.wikipedia.org/wiki/Marco_Bizot"
+  },
+  {
+    "subject": "Marco Grüll",
+    "local": "assets/photos/people/marco-grull.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Austria_national_under-21_football_team_-_Teamcamp_October_2019_(31).jpg",
+    "author": "--Steindy (talk) 18:31, 13 October 2019 (UTC)",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marco_Gr%C3%BCll"
   },
   {
     "subject": "Marcus Bettinelli",
@@ -2185,6 +3129,14 @@
     "source": "https://commons.wikimedia.org/wiki/File:RC_Lens_-_OGC_Nice_(10-04-2022)_50.jpg",
     "author": "Supporterhéninois",
     "license": "CC0"
+  },
+  {
+    "subject": "Mark Travers",
+    "local": "assets/photos/people/mark-travers.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mark_Travers_29122024_(2).jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Travers"
   },
   {
     "subject": "Marko Nikolić",
@@ -2259,6 +3211,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Mat%C4%9Bj_Kov%C3%A1%C5%99"
   },
   {
+    "subject": "Mateo Kovacic",
+    "local": "assets/photos/people/mateo-kovacic.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mateo_Kovacic_Croatia_v_Portugal_2_July_2026-132.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mateo_Kova%C4%8Di%C4%87"
+  },
+  {
+    "subject": "Mateusz Lis",
+    "local": "assets/photos/people/mateusz-lis.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mateusz_Lis_2022.jpg",
+    "author": "ESTAC Troyes",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mateusz_Lis"
+  },
+  {
     "subject": "Matheus Cunha",
     "local": "assets/photos/people/matheus-cunha.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Matheus_Cunha_Brazil_V_Morocco_13_June_2026-178_(cropped).jpg",
@@ -2273,6 +3241,22 @@
     "author": "Hossein Zohrevand",
     "license": "CC BY 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Math%C3%ADas_Olivera"
+  },
+  {
+    "subject": "Mathieu Patouillet",
+    "local": "assets/photos/people/mathieu-patouillet.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mathieu_Patouillet_en_2022.png",
+    "author": "ESTAC Troyes",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mathieu_Patouillet"
+  },
+  {
+    "subject": "Matías Almeyda",
+    "local": "assets/photos/people/matias-almeyda.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Am%C3%A9rica_vs_Guadalajara_7.jpg",
+    "author": "Los ruidos del deporte",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mat%C3%ADas_Almeyda"
   },
   {
     "subject": "Mats Deijl",
@@ -2346,6 +3330,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Maxime_Est%C3%A8ve"
   },
   {
+    "subject": "Maximiliano Falcón",
+    "local": "assets/photos/people/maximiliano-falcon.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Maximiliano_Falc%C3%B3n_NE_Revolution_Inter_Miami_7.9.25-050_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maximiliano_Falc%C3%B3n"
+  },
+  {
     "subject": "Máximo Perrone",
     "local": "assets/photos/people/maximo-perrone.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Maximo_Perrone_(cropped).jpg",
@@ -2354,12 +3346,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A1ximo_Perrone"
   },
   {
+    "subject": "Melker Ellborg",
+    "local": "assets/photos/people/melker-ellborg.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Melker_Ellborg_05092026_(1).jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melker_Ellborg"
+  },
+  {
     "subject": "Michael Carrick",
     "local": "assets/photos/people/michael-carrick.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(5)_(cropped).jpg",
     "author": "Timmy96",
     "license": "CC0",
     "wikipedia": "https://en.wikipedia.org/wiki/Michael_Carrick"
+  },
+  {
+    "subject": "Michel Adopo",
+    "local": "assets/photos/people/michel-adopo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:MichelAdopo.png",
+    "author": "Sandrino 14",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michel_Ndary_Adopo"
   },
   {
     "subject": "Mijat Gaćinović",
@@ -2384,6 +3392,14 @@
     "author": "La Liga/SportsMaxTV",
     "license": "CC BY 3.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Mika_M%C3%A1rmol"
+  },
+  {
+    "subject": "Mikael Ellertsson",
+    "local": "assets/photos/people/mikael-ellertsson.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Venezia_-_Empoli_Serie_A_04012025_Stadio_Pier_Luigi_Penzo_11_(Mikael_Egill_Ellertsson).jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mikael_Egill_Ellertsson"
   },
   {
     "subject": "Mikel Arteta",
@@ -2416,6 +3432,30 @@
     "author": "AFC Bournemouth",
     "license": "CC BY 3.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Milos_Kerkez"
+  },
+  {
+    "subject": "Mohamed Amoura",
+    "local": "assets/photos/people/mohamed-amoura.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mohamed_Amoura,_October_2021.png",
+    "author": "Algeria Press Service",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_Amoura"
+  },
+  {
+    "subject": "Moi Gómez",
+    "local": "assets/photos/people/moi-gomez.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Moi_G%C3%B3mez.jpg",
+    "author": "Asturkian",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moi_G%C3%B3mez"
+  },
+  {
+    "subject": "Morgan Sanson",
+    "local": "assets/photos/people/morgan-sanson.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:U-19_EC-Qualifikation_Austria_vs._France_2013-06-10_(132).jpg",
+    "author": "Steindy (talk) 22:57, 13 June 2013 (UTC)",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Sanson"
   },
   {
     "subject": "Moura",
@@ -2458,6 +3498,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Natan_%28footballer%2C_born_2001%29"
   },
   {
+    "subject": "Nathan N'Goumou",
+    "local": "assets/photos/people/nathan-n-goumou.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ngoumou_2022-01-19_7_(cropped_bust).jpg",
+    "author": "Gaillac",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Ngoumou"
+  },
+  {
     "subject": "Nathan Saliba",
     "local": "assets/photos/people/nathan-saliba.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Nathan_Saliba_Canada_v_Qatar_18_June_2026-208_(cropped).jpg",
@@ -2466,12 +3514,36 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Saliba"
   },
   {
+    "subject": "Nathan Silva",
+    "local": "assets/photos/people/nathan-silva.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Inter_Miami_CF_3-1_UNAM_(6_August_2025)_16_(cropped).jpg",
+    "author": "TheSoccerBoy",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Silva"
+  },
+  {
     "subject": "Nathaniel Brown",
     "local": "assets/photos/people/nathaniel-brown.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Nathaniel_Brown_Ecuador_v_Germany_25_June_2026-160.jpg",
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Nathaniel_Brown_%28footballer%29"
+  },
+  {
+    "subject": "Nayair Tiknizyan",
+    "local": "assets/photos/people/nayair-tiknizyan.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nair_Tiknizyan_2021.jpg",
+    "author": "Анна Нэсси",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nair_Tiknizyan"
+  },
+  {
+    "subject": "Neco Williams",
+    "local": "assets/photos/people/neco-williams.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_(24)_(cropped).jpg",
+    "author": "حسین ظهروند",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neco_Williams"
   },
   {
     "subject": "Nehuén Pérez",
@@ -2521,6 +3593,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Nico_Paz"
   },
   {
+    "subject": "Nicola Zalewski",
+    "local": "assets/photos/people/nicola-zalewski.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_AS_Roma_(UEFA_Euroleague_play-off,_2023-02-16)_14_(cropped).jpg",
+    "author": "Werner100359",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Zalewski"
+  },
+  {
     "subject": "Nicolas Jackson",
     "local": "assets/photos/people/nicolas-jackson.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_France_v_Senegal_16_June_2026-369_(cropped).jpg",
@@ -2543,6 +3623,22 @@
     "author": "Biser Todorov",
     "license": "CC BY 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Nicol%C3%B2_Barella"
+  },
+  {
+    "subject": "Niklas Stark",
+    "local": "assets/photos/people/niklas-stark.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hertha_BSC_vs._West_Ham_United_20190731_(029).jpg",
+    "author": "--Steindy (talk) 15:35, 29 August 2019 (UTC)",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niklas_Stark"
+  },
+  {
+    "subject": "Nikolas Nartey",
+    "local": "assets/photos/people/nikolas-nartey.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nikolas_Nartey.jpg",
+    "author": "Jeollo",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikolas_Nartey"
   },
   {
     "subject": "Noa Lang",
@@ -2576,6 +3672,14 @@
     "license": "CC BY 4.0"
   },
   {
+    "subject": "Ola Aina",
+    "local": "assets/photos/people/ola-aina.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ola_Aina_2016.jpg",
+    "author": "@cfcunofficial (Chelsea Debs) London",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ola_Aina"
+  },
+  {
     "subject": "Oleh Ocheretko",
     "local": "assets/photos/people/oleh-ocheretko.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%BB%D0%B5%D0%B3_%D0%9E%D1%87%D0%B5%D1%80%D0%B5%D1%82%D1%8C%D0%BA%D0%BE_%E2%80%94_%D0%A4%D0%9A_%D0%9A%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D0%B8_%D0%9B%D1%8C%D0%B2%D1%96%D0%B2_(2024).jpg",
@@ -2607,6 +3711,14 @@
     "license": "CC BY 3.0"
   },
   {
+    "subject": "Omar Alderete",
+    "local": "assets/photos/people/omar-alderete.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Omar_Alderete_France_v_Paraguay_4_July_2026-108.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Omar_Alderete"
+  },
+  {
     "subject": "Victor Osimhen",
     "local": "assets/photos/people/osimhen.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Victor-osimhen-nigeria-2024-3-4.jpg",
@@ -2628,6 +3740,14 @@
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9"
+  },
+  {
+    "subject": "Ousseni Bouda",
+    "local": "assets/photos/people/ousseni-bouda.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ousseni_Bouda_SJPL_2026.jpg",
+    "author": "ECTran71",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ousseni_Bouda"
   },
   {
     "subject": "Berke Özer",
@@ -2669,6 +3789,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Berg"
   },
   {
+    "subject": "Patrick Yazbek",
+    "local": "assets/photos/people/patrick-yazbek.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Patrick_Yazbek_NYCFC_v_Nashville_4_Sep_2026-051_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Yazbek"
+  },
+  {
     "subject": "Pau Cubarsí",
     "local": "assets/photos/people/pau-cubarsi.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Pau_Cubarsi_Argentina_v_Spain_19_July_2026-181_(cropped).jpg",
@@ -2685,12 +3813,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Pau_Torres"
   },
   {
+    "subject": "Paxten Aaronson",
+    "local": "assets/photos/people/paxten-aaronson.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Paxten_Aaronson_NYCFC_v_Colorado_Mar_14_2026-28_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paxten_Aaronson"
+  },
+  {
     "subject": "Pedri",
     "local": "assets/photos/people/pedri.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Pedri_France_v_Spain_7.24.26-245.jpg",
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Pedri"
+  },
+  {
+    "subject": "Pedro Gonçalves",
+    "local": "assets/photos/people/pedro-goncalves.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pedro_Gon%C3%A7alves_USMNT_v_Portugal_Mar_31_2026-7.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Gon%C3%A7alves"
   },
   {
     "subject": "Pedro Henrique",
@@ -2707,6 +3851,14 @@
     "author": "Federação Pernambucana de Futebol from Brasil",
     "license": "Public domain",
     "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Lima_%28footballer%2C_born_2006%29"
+  },
+  {
+    "subject": "Pedro Vite",
+    "local": "assets/photos/people/pedro-vite.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pedro_Vite_Cote_D%27Ivoire_v_Ecuador_14_June_2026-71.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Vite"
   },
   {
     "subject": "Pepê",
@@ -2765,6 +3917,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Phil_Foden"
   },
   {
+    "subject": "Phillip Tietz",
+    "local": "assets/photos/people/phillip-tietz.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:PhillipTietz.jpg",
+    "author": "Silesia711",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phillip_Tietz"
+  },
+  {
+    "subject": "Pierre Kalulu",
+    "local": "assets/photos/people/pierre-kalulu.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:PierreKalulu2022.jpg",
+    "author": "Werner100359",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Kalulu"
+  },
+  {
     "subject": "Pio Esposito",
     "local": "assets/photos/people/pio-esposito.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Francesco_Pio_Esposito_a_La_Spezia_(cropped).jpg",
@@ -2779,6 +3947,14 @@
     "author": "Екатерина Лаут",
     "license": "CC BY-SA 3.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Piotr_Zieli%C5%84ski"
+  },
+  {
+    "subject": "Ranko Veselinovic",
+    "local": "assets/photos/people/ranko-veselinovic.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ranko_Veselinovi%C4%87,_Vancouver_Whitecaps_FC_v_Colorado_Rapids_2026-04-25_(cropped).jpg",
+    "author": "IDontHaveSkype",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ranko_Veselinovi%C4%87"
   },
   {
     "subject": "Raphinha",
@@ -2813,6 +3989,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Rayan_Cherki"
   },
   {
+    "subject": "Rayan Elloumi",
+    "local": "assets/photos/people/rayan-elloumi.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rayan_Elloumi,_Vancouver_Whitecaps_FC_v_Sporting_Kansas_City_2026-04-17_(cropped).jpg",
+    "author": "IDontHaveSkype",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rayan_Elloumi"
+  },
+  {
+    "subject": "Rayan Philippe",
+    "local": "assets/photos/people/rayan-philippe.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lens_-_Dijon_(15-08-2020)_17.jpg",
+    "author": "Supporterhéninois",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rayan_Philippe"
+  },
+  {
     "subject": "Răzvan Marin",
     "local": "assets/photos/people/razvan-marin.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Razvan_Marin_(cropped)_-_Sweden_vs_Romaina_23_March_2019.jpg",
@@ -2821,12 +4013,44 @@
     "wikipedia": "https://en.wikipedia.org/wiki/R%C4%83zvan_Marin"
   },
   {
+    "subject": "Reece James",
+    "local": "assets/photos/people/reece-james.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Reece_James_England_v_Ghana_23_June_2026-248_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reece_James"
+  },
+  {
+    "subject": "Remi Matthews",
+    "local": "assets/photos/people/remi-matthews.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fredrikstad_Fotballklubb_v_Crystal_Palace_FC,_28_August_2025_B30_(Remi_Matthews).jpg",
+    "author": "MichaelEmilio",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Remi_Matthews"
+  },
+  {
+    "subject": "Rémy Descamps",
+    "local": "assets/photos/people/remy-descamps.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Descamps_asse_ol_2425.png",
+    "author": "Paté kroute",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/R%C3%A9my_Descamps"
+  },
+  {
     "subject": "Renato Veiga",
     "local": "assets/photos/people/renato-veiga.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Renato_Veiga_USMNT_v_Portugal_Mar_31_2026-20.jpg",
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Renato_Veiga"
+  },
+  {
+    "subject": "René Wagner",
+    "local": "assets/photos/people/rene-wagner.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:SC_Mannsdorf_vs._SC_Wiener_Neustadt_2016-07-01_-066-.jpg",
+    "author": "Steindy (talk) 21:23, 19 July 2016 (UTC)",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Wagner"
   },
   {
     "subject": "Riccardo Calafiori",
@@ -2885,12 +4109,36 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Robert_S%C3%A1nchez"
   },
   {
+    "subject": "Robinho Junior",
+    "local": "assets/photos/people/robinho-junior.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Robinho_Jr_07-05-2025.png",
+    "author": "BrazilianDude70",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robinho_J%C3%BAnior"
+  },
+  {
+    "subject": "Rocco Ríos Novo",
+    "local": "assets/photos/people/rocco-rios-novo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rocco_R%C3%ADos_Novo_NYCFC_Miami_24_Sep_2025-002_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rocco_R%C3%ADos_Novo"
+  },
+  {
     "subject": "Rodri",
     "local": "assets/photos/people/rodri.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Rodri_Argentina_v_Spain_19_July_2026-187_(cropped).jpg",
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Rodri"
+  },
+  {
+    "subject": "Rodrigo Dourado",
+    "local": "assets/photos/people/rodrigo-dourado.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rodrigodouradocunha.jpg",
+    "author": "Fernando Frazão/Agência Brasil",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodrigo_Dourado"
   },
   {
     "subject": "Rodrigo Riquelme",
@@ -2907,6 +4155,14 @@
     "author": "Bé Speelman",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Romano_Postema"
+  },
+  {
+    "subject": "Romeo Lavia",
+    "local": "assets/photos/people/romeo-lavia.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rom%C3%A9o_Lavia_20042025_(1)_cropped.jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rom%C3%A9o_Lavia"
   },
   {
     "subject": "Rômulo",
@@ -2941,6 +4197,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/R%C3%BAben_Dias"
   },
   {
+    "subject": "Rubén Vargas",
+    "local": "assets/photos/people/ruben-vargas.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ruben_Vargas_SFV_2019.jpg",
+    "author": "Schweizerischer Fussballverband (SFV / ASF)",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Vargas"
+  },
+  {
     "subject": "Rui Borges",
     "local": "assets/photos/people/rui-borges.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Rui_Borges.png",
@@ -2971,6 +4235,14 @@
     "author": "crop by Sepguilherme",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Ryan_Gravenberch"
+  },
+  {
+    "subject": "Saba Sazonov",
+    "local": "assets/photos/people/saba-sazonov.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Saba_Sazonov_2022.jpg",
+    "author": "Екатерина Лаут",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saba_Sazonov"
   },
   {
     "subject": "Sacha Boey",
@@ -3051,6 +4323,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Scott_McTominay"
   },
   {
+    "subject": "Sead Kolasinac",
+    "local": "assets/photos/people/sead-kolasinac.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:1_Sead_Kola%C5%A1inac_2018_(cropped2).jpg",
+    "author": "Chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sead_Kola%C5%A1inac"
+  },
+  {
+    "subject": "Sean Zawadzki",
+    "local": "assets/photos/people/sean-zawadzki.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sean_Zawadzki_NYCFC_v_Columbus_10_May_2026-108_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_Zawadzki"
+  },
+  {
     "subject": "Seko Fofana",
     "local": "assets/photos/people/seko-fofana.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Seko_Fofana_Cote_D%27Ivoire_v_Ecuador_14_June_2026-48.jpg",
@@ -3107,6 +4395,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Simen_Kvia-Egeskog"
   },
   {
+    "subject": "Simon Sohm",
+    "local": "assets/photos/people/simon-sohm.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2019-07-12_Fu%C3%9Fball;_Freundschaftsspiel_RB_Leipzig_-_FC_Z%C3%BCrich_1DX_1009_by_Stepro_(headshot).jpg",
+    "author": "Original:  Steffen Prößdorf / Derivative work:  Danyele",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Sohm"
+  },
+  {
+    "subject": "Son Heung-Min",
+    "local": "assets/photos/people/son-heung-min.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:BFA_2023_-2_Heung-Min_Son_(cropped).jpg",
+    "author": "Ujishadow",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Son_Heung-min"
+  },
+  {
     "subject": "Sondre Auklend",
     "local": "assets/photos/people/sondre-auklend.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Sondre_Auklend_IMG_5210.jpg",
@@ -3121,6 +4425,30 @@
     "author": "Антон Зайцев",
     "license": "CC BY-SA 3.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Stanislav_Lobotka"
+  },
+  {
+    "subject": "Steffen Tigges",
+    "local": "assets/photos/people/steffen-tigges.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tigges,_Steffen_Osnabr%C3%BCck_15-16_WP_(cropped).jpg",
+    "author": "Northside",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steffen_Tigges"
+  },
+  {
+    "subject": "Stéphane Dumont",
+    "local": "assets/photos/people/stephane-dumont.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Anciens_du_RC_Lens_-_Anciens_du_Lille_OSC_(01-04-2017)_17.jpg",
+    "author": "Supporterhéninois",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/St%C3%A9phane_Dumont"
+  },
+  {
+    "subject": "Sven Botman",
+    "local": "assets/photos/people/sven-botman.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sven_Botman_24052026_(6)_(cropped).jpg",
+    "author": "Timmy96",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sven_Botman"
   },
   {
     "subject": "Sven Mijnans",
@@ -3145,6 +4473,14 @@
     "author": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Tajon_Buchanan"
+  },
+  {
+    "subject": "Talles Magno",
+    "local": "assets/photos/people/talles-magno.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Talles_Magno_NYCFC_v_Colorado_Mar_14_2026-14_(cropped).jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talles_Magno"
   },
   {
     "subject": "Tammy Abraham",
@@ -3186,6 +4522,46 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Thibaut_Courtois"
   },
   {
+    "subject": "Thomas Tuchel",
+    "local": "assets/photos/people/thomas-tuchel.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Thomas_Tuchel_England_v_Ghana_23_June_2026-081.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Tuchel"
+  },
+  {
+    "subject": "Tiago Djaló",
+    "local": "assets/photos/people/tiago-djalo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_OSC_Lille_(Cl-Gruppenphase_29._September_2021)_65_(cropped).jpg",
+    "author": "Werner100359",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiago_Djal%C3%B3"
+  },
+  {
+    "subject": "Tim Skarke",
+    "local": "assets/photos/people/tim-skarke.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Skarke,_Tim_Heidenheim_17-18_WP.jpg",
+    "author": "Northside",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Skarke"
+  },
+  {
+    "subject": "Timo Becker",
+    "local": "assets/photos/people/timo-becker.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2025-04-15_Timo_Becker.jpg",
+    "author": "Lanthan2003",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timo_Becker"
+  },
+  {
+    "subject": "Timo Werner",
+    "local": "assets/photos/people/timo-werner.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2020-03-10_Fu%C3%9Fball,_M%C3%A4nner,_UEFA_Champions_League_Achtelfinale,_RB_Leipzig_-_Tottenham_Hotspur_1DX_3684_by_Stepro.jpg",
+    "author": "Steffen Prößdorf",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timo_Werner"
+  },
+  {
     "subject": "Tobias Schützenauer",
     "local": "assets/photos/people/tobias-schutzenauer.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:FC_Red_Bull_Salzburg_gegen_SCR_Altach_(2023-10-28)_38_(cropped).jpg",
@@ -3225,6 +4601,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Troy_Parrott"
   },
   {
+    "subject": "Tyrique George",
+    "local": "assets/photos/people/tyrique-george.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tyrique_George_chelsea_gent_2024_warm_up.jpg",
+    "author": "Oscar0123",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyrique_George"
+  },
+  {
     "subject": "Tyrone Mings",
     "local": "assets/photos/people/tyrone-mings.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Tyrone_Mings_at_2026_SXSW_London.jpg",
@@ -3257,6 +4641,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Valent%C3%ADn_G%C3%B3mez"
   },
   {
+    "subject": "Valentin Rosier",
+    "local": "assets/photos/people/valentin-rosier.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Valentine_Rosier_20231008_(cropped).jpg",
+    "author": "Beşiktaş JK",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentin_Rosier"
+  },
+  {
     "subject": "Valeriy Bondar",
     "local": "assets/photos/people/valeriy-bondar.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Valeriy_Bondar.jpg",
@@ -3286,6 +4678,14 @@
     "author": "Zafer",
     "license": "CC BY 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Vetle_Auklend"
+  },
+  {
+    "subject": "Victor Boniface",
+    "local": "assets/photos/people/victor-boniface.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Boniface_Jr.jpg",
+    "author": "Yoroudhgd",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Boniface"
   },
   {
     "subject": "Victor Froholdt",
@@ -3352,6 +4752,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Virgil_van_Dijk"
   },
   {
+    "subject": "Vitaliy Mykolenko",
+    "local": "assets/photos/people/vitaliy-mykolenko.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE_%E2%80%94_1182449_(cropped).jpg",
+    "author": "Dynamomania.com",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vitaliy_Mykolenko"
+  },
+  {
     "subject": "Vitinha",
     "local": "assets/photos/people/vitinha.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Vitinha_USMNT_v_Portugal_Mar_31_2026-50_(cropped).jpg",
@@ -3392,6 +4800,14 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Willian_Pacho"
   },
   {
+    "subject": "Williot Swedberg",
+    "local": "assets/photos/people/williot-swedberg.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cropped,_Williot_Swedberg,_Hammarby_IF_-_Brage_2021-02-07_30.jpg",
+    "author": "User:Rolandhino1",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Williot_Swedberg"
+  },
+  {
     "subject": "Wojciech Szczęsny",
     "local": "assets/photos/people/wojciech-szczesny.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Wojciech_Szcz%C4%99sny.png",
@@ -3430,6 +4846,30 @@
     "author": "Hans Reefman",
     "license": "CC BY-SA 4.0",
     "wikipedia": "https://en.wikipedia.org/wiki/Yarek_Gasiorowski"
+  },
+  {
+    "subject": "Yassin Belkhdim",
+    "local": "assets/photos/people/yassin-belkhdim.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Belkhdim_asse_sco_2425.png",
+    "author": "Paté kroute",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yassin_Belkhdim"
+  },
+  {
+    "subject": "Yaya Touré",
+    "local": "assets/photos/people/yaya-toure.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yaya_Tour%C3%A9_(cropped).jpg",
+    "author": "Puma",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yaya_Tour%C3%A9"
+  },
+  {
+    "subject": "Yéremy Pino",
+    "local": "assets/photos/people/yeremy-pino.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yeremy_Pino_Argentina_v_Spain_19_July_2026-019.jpg",
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yeremy_Pino"
   },
   {
     "subject": "Barış Alper Yılmaz",
@@ -3479,11 +4919,67 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Zlatko_Tripi%C4%87"
   },
   {
+    "subject": "Allianz Arena",
+    "local": "assets/photos/venues/allianz-arena.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Allianz_Arena_2008-02-09.jpg",
+    "author": "2015 Michael 2015",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allianz_Arena"
+  },
+  {
+    "subject": "Allianz Stadium",
+    "local": "assets/photos/venues/allianz-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:SydneyFootballStadium_Aug2022_Pre-open.jpg",
+    "author": "Frigginawesomeimontv",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Football_Stadium_%282022%29"
+  },
+  {
+    "subject": "American Express Stadium",
+    "local": "assets/photos/venues/american-express-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Amex_Community_Stadium.jpg",
+    "author": "Barbara van Cleve",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Falmer_Stadium"
+  },
+  {
+    "subject": "Anfield",
+    "local": "assets/photos/venues/anfield.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Liverpool_anfield_road_stadium.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anfield"
+  },
+  {
     "subject": "Villa Park",
     "local": "assets/photos/venues/aston-villa.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Birmingham_aston_villa_park_stadium.jpg",
     "author": "Arne Müseler",
     "license": "CC BY-SA 3.0 de"
+  },
+  {
+    "subject": "AT&T Stadium",
+    "local": "assets/photos/venues/at-t-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Arlington_June_2020_4_(AT%26T_Stadium).jpg",
+    "author": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/AT%26T_Stadium"
+  },
+  {
+    "subject": "Balaidos",
+    "local": "assets/photos/venues/balaidos.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Balaidos_hoy.jpg",
+    "author": "BandidoBanderas",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bala%C3%ADdos_Stadium"
+  },
+  {
+    "subject": "BayArena",
+    "local": "assets/photos/venues/bayarena.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bayarena_Leverkusen_2020.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "wikipedia": "https://en.wikipedia.org/wiki/BayArena"
   },
   {
     "subject": "Allianz Arena",
@@ -3493,11 +4989,203 @@
     "license": "CC BY-SA 4.0"
   },
   {
+    "subject": "BORUSSIA-PARK",
+    "local": "assets/photos/venues/borussia-park.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%B6nchengladbach_stadion.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "wikipedia": "https://en.wikipedia.org/wiki/Borussia-Park"
+  },
+  {
     "subject": "Stadio Giuseppe Sinigaglia",
     "local": "assets/photos/venues/como.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Stadio_Sinigaglia_Como_16-07-2025.jpg",
     "author": "Vale93b",
     "license": "CC BY-SA 4.0"
+  },
+  {
+    "subject": "Craven Cottage",
+    "local": "assets/photos/venues/craven-cottage.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Craven_Cottage_(Fulham).jpg",
+    "author": "Quintin Soloviev",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Craven_Cottage"
+  },
+  {
+    "subject": "Decathlon Arena - Stade Pierre-Mauroy",
+    "local": "assets/photos/venues/decathlon-arena-stade-pierre-mauroy.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lille_vs_PSG_2019_-_Stade_Pierre_Mauroy.jpg",
+    "author": "Liondartois",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stade_Pierre-Mauroy"
+  },
+  {
+    "subject": "Deutsche Bank Park",
+    "local": "assets/photos/venues/deutsche-bank-park.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutsche_bank_park.jpg",
+    "author": "Patrik Meyer",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Waldstadion_%28Frankfurt%29"
+  },
+  {
+    "subject": "Dignity Health Sports Park",
+    "local": "assets/photos/venues/dignity-health-sports-park.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:LA_Galaxy_vs_Minnesota_United,_Dignity_Health_Sports_Park,_2024.jpg",
+    "author": "Sander Valdre",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dignity_Health_Sports_Park"
+  },
+  {
+    "subject": "El Sadar",
+    "local": "assets/photos/venues/el-sadar.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_El_Sadar.jpg",
+    "author": "Visma17",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/El_Sadar_Stadium"
+  },
+  {
+    "subject": "Elland Road",
+    "local": "assets/photos/venues/elland-road.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Leeds_United_-_31559864360.jpg",
+    "author": "chillilogic.com",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elland_Road"
+  },
+  {
+    "subject": "Ennio Tardini",
+    "local": "assets/photos/venues/ennio-tardini.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Ennio_Tardini_2026.jpg",
+    "author": "Brodolò1",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadio_Ennio_Tardini"
+  },
+  {
+    "subject": "Estadio Akron",
+    "local": "assets/photos/venues/estadio-akron.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Akron_02-07-2022_cabecera_sur_lado_derecho_(3).jpg",
+    "author": "Alejan98",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estadio_Akron"
+  },
+  {
+    "subject": "Estadio Coliseum",
+    "local": "assets/photos/venues/estadio-coliseum.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Getafe0-0Lega2018.jpg",
+    "author": "Miguelazo84",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estadio_Coliseum"
+  },
+  {
+    "subject": "Estadio Corona",
+    "local": "assets/photos/venues/estadio-corona.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tsmmundialsub17.jpg",
+    "author": "Gera vzqz92",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estadio_Corona"
+  },
+  {
+    "subject": "Estadio Cuauhtémoc",
+    "local": "assets/photos/venues/estadio-cuauhtemoc.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rampa_norte.jpg",
+    "author": "Eros 87",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estadio_Cuauht%C3%A9moc"
+  },
+  {
+    "subject": "Estádio da Luz",
+    "local": "assets/photos/venues/estadio-da-luz.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_da_Luz_2012.jpg",
+    "author": "Florent Dusonchet",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Luz"
+  },
+  {
+    "subject": "Estadio de la Cerámica",
+    "local": "assets/photos/venues/estadio-de-la-ceramica.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:ESTADIO3.jpg",
+    "author": "Frank94Rock",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estadio_de_la_Cer%C3%A1mica"
+  },
+  {
+    "subject": "Estádio do Dragão",
+    "local": "assets/photos/venues/estadio-do-dragao.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Porto_Est%C3%A1dio_do_Drag%C3%A3o_2.jpg",
+    "author": "Валерий Дед",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Drag%C3%A3o"
+  },
+  {
+    "subject": "Estadio Hidalgo",
+    "local": "assets/photos/venues/estadio-hidalgo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Hidalgo_22-05-2022.jpg",
+    "author": "Alejan98",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estadio_Hidalgo"
+  },
+  {
+    "subject": "Estadio Jalisco",
+    "local": "assets/photos/venues/estadio-jalisco.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Jalisco_06022022.jpg",
+    "author": "Alejan98",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estadio_Jalisco"
+  },
+  {
+    "subject": "Estádio José Alvalade",
+    "local": "assets/photos/venues/estadio-jose-alvalade.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Jos%C3%A9_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg",
+    "author": "Megutim",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jos%C3%A9_Alvalade"
+  },
+  {
+    "subject": "Estadio Libertad Financiera",
+    "local": "assets/photos/venues/estadio-libertad-financiera.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Alfonso-Lastras-Ram%C3%ADrez-.jpg",
+    "author": "San luis 10",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estadio_Libertad_Financiera"
+  },
+  {
+    "subject": "Estadio Nemesio Díez Riega",
+    "local": "assets/photos/venues/estadio-nemesio-diez-riega.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Nemesio_D%C3%ADez.jpg",
+    "author": "PresidenciaMX",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nemesio_Diez_Stadium"
+  },
+  {
+    "subject": "Estadio Santiago Bernabéu",
+    "local": "assets/photos/venues/estadio-santiago-bernabeu.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernab%C3%A9u_%E2%80%94_Real_Madrid_Juvenil_A_-_Santiago_Wanderers_Sub-20_(Intercontinental_Sub-20_2026)_%E2%80%94_R%C3%A9cord_de_asistencia_en_un_partido_de_juveniles.jpg",
+    "author": "Badefa",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernab%C3%A9u_%28stadium%29"
+  },
+  {
+    "subject": "Estadio Universitario",
+    "local": "assets/photos/venues/estadio-universitario.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Ol%C3%ADmpico_Universitario_-_2026_-_04.jpg",
+    "author": "ProtoplasmaKid",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Universitario"
+  },
+  {
+    "subject": "Etihad Stadium (City of Manchester Stadium)",
+    "local": "assets/photos/venues/etihad-stadium-city-of-manchester-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Manchester_city_academy_stadium.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "wikipedia": "https://en.wikipedia.org/wiki/Academy_Stadium"
+  },
+  {
+    "subject": "Etihad Stadium",
+    "local": "assets/photos/venues/etihad-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:City_of_Manchester_Stadium_2023_cropped.jpg",
+    "author": "Arne Müseler, cropped by Blackcat",
+    "license": "CC BY-SA 3.0 de",
+    "wikipedia": "https://en.wikipedia.org/wiki/Etihad_Stadium"
   },
   {
     "subject": "Estádio do Dragão",
@@ -3507,11 +5195,91 @@
     "license": "CC BY 3.0"
   },
   {
+    "subject": "GEHA Field at Arrowhead Stadium",
+    "local": "assets/photos/venues/geha-field-at-arrowhead-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg",
+    "author": "Ichabod",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arrowhead_Stadium"
+  },
+  {
+    "subject": "Gillette Stadium",
+    "local": "assets/photos/venues/gillette-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gillette_Stadium_(Top_View).jpg",
+    "author": "Art N.",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gillette_Stadium"
+  },
+  {
+    "subject": "Giuseppe Sinigaglia",
+    "local": "assets/photos/venues/giuseppe-sinigaglia.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Sinigaglia_Como_16-07-2025.jpg",
+    "author": "Vale93b",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadio_Giuseppe_Sinigaglia"
+  },
+  {
+    "subject": "Groupama Stadium",
+    "local": "assets/photos/venues/groupama-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Olympique_lyonnais_-_Stade_rennais,_demi-finale_de_Coupe_de_France_2019.jpg",
+    "author": "Sebleouf",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Parc_Olympique_Lyonnais"
+  },
+  {
+    "subject": "Gtech Community Stadium",
+    "local": "assets/photos/venues/gtech-community-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Brentford_Community_Stadium_2020.jpg",
+    "author": "AndyScott",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brentford_Community_Stadium"
+  },
+  {
+    "subject": "Hard Rock Stadium",
+    "local": "assets/photos/venues/hard-rock-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hard_Rock_Stadium_for_Super_Bowl_LIV_(49606710103).jpg",
+    "author": "elisfkc2",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hard_Rock_Stadium"
+  },
+  {
+    "subject": "Hill Dickinson Stadium",
+    "local": "assets/photos/venues/hill-dickinson-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hill_Dickinson_Stadium,_Liverpool_Waterfront_-_geograph.org.uk_-_8170881.jpg",
+    "author": "David Dixon",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hill_Dickinson_Stadium"
+  },
+  {
     "subject": "San Siro",
     "local": "assets/photos/venues/inter.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Stadio_Meazza_2021_3.jpg",
     "author": "Prelvini",
     "license": "CC BY-SA 4.0"
+  },
+  {
+    "subject": "Jan Breydel Stadium",
+    "local": "assets/photos/venues/jan-breydel-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Janbreydel.png",
+    "author": "Zergori",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jan_Breydel_Stadium"
+  },
+  {
+    "subject": "King Power at Den Dreef Stadion",
+    "local": "assets/photos/venues/king-power-at-den-dreef-stadion.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:King_Power_at_Den_Dreef_Stadion.jpg",
+    "author": "Joliennoens",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Den_Dreef"
+  },
+  {
+    "subject": "La Rosaleda",
+    "local": "assets/photos/venues/la-rosaleda.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:IMG-20220228-WA0055.jpg",
+    "author": "Meloptido",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estadio_La_Rosaleda"
   },
   {
     "subject": "Stade Pierre-Mauroy",
@@ -3528,11 +5296,59 @@
     "license": "CC BY-SA 3.0 de"
   },
   {
+    "subject": "Lumen Field",
+    "local": "assets/photos/venues/lumen-field.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2026_FIFA_World_Cup_-_Belgium_v._Egypt_in_Seattle_-_04.jpg",
+    "author": "SounderBruce",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lumen_Field"
+  },
+  {
     "subject": "Etihad Stadium",
     "local": "assets/photos/venues/man-city.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:City_of_Manchester_Stadium_2023_cropped.jpg",
     "author": "Arne Müseler, cropped by Blackcat",
     "license": "CC BY-SA 3.0 de"
+  },
+  {
+    "subject": "Mercedes-Benz Stadium",
+    "local": "assets/photos/venues/mercedes-benz-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_Stadium_time_lapse_capture_2017-08-13.jpg",
+    "author": "Atlanta Falcons",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mercedes-Benz_Stadium"
+  },
+  {
+    "subject": "Mestalla Stadium",
+    "local": "assets/photos/venues/mestalla-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mestalla_antes_del_partido_Valencia-Barcelona_LaLiga_2023-2024.jpg",
+    "author": "Anidae",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mestalla_Stadium"
+  },
+  {
+    "subject": "MetLife Stadium",
+    "local": "assets/photos/venues/metlife-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Metlife_stadium_(Aerial_view).jpg",
+    "author": "Anthony Quintano from Hillsborough, NJ, United States",
+    "license": "CC BY 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/MetLife_Stadium"
+  },
+  {
+    "subject": "MHPArena",
+    "local": "assets/photos/venues/mhparena.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stuttgart_stadium.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "wikipedia": "https://en.wikipedia.org/wiki/MHPArena"
+  },
+  {
+    "subject": "Municipal Stadium-Poznan",
+    "local": "assets/photos/venues/municipal-stadium-poznan.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadion_Miejski_Poznan,_2011-08-23.jpg",
+    "author": "Carte",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pozna%C5%84_Stadium"
   },
   {
     "subject": "Stadio Diego Armando Maradona",
@@ -3542,11 +5358,59 @@
     "license": "CC BY 4.0"
   },
   {
+    "subject": "Olimpico",
+    "local": "assets/photos/venues/olimpico.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_2024.jpg",
+    "author": "Messapi, cropped by Blackcat",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadio_Olimpico"
+  },
+  {
+    "subject": "PayPal Park",
+    "local": "assets/photos/venues/paypal-park.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:PayPal_Park_pregame_(Apr_1,_2023).jpg",
+    "author": "goonerabroad",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/PayPal_Park"
+  },
+  {
+    "subject": "PreZero Arena",
+    "local": "assets/photos/venues/prezero-arena.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:PreZero_Arena_wiki.jpg",
+    "author": "PreZero",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhein-Neckar-Arena"
+  },
+  {
+    "subject": "Providence Park",
+    "local": "assets/photos/venues/providence-park.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Portland_Thorns_vs_Chicago_Red_Stars_HT_20230521.jpg",
+    "author": "Socccc",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Providence_Park"
+  },
+  {
     "subject": "Parc des Princes",
     "local": "assets/photos/venues/psg.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Paris_Parc_des_Princes_1.jpg",
     "author": "Валерий Дед",
     "license": "CC BY 3.0"
+  },
+  {
+    "subject": "Q2 Stadium",
+    "local": "assets/photos/venues/q2-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Austin_FC_Stadium_vs._Columbus_Crew.jpg",
+    "author": "Daniel Ziegler",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Q2_Stadium"
+  },
+  {
+    "subject": "RCDE Stadium",
+    "local": "assets/photos/venues/rcde-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stage_Front_Stadium.jpg",
+    "author": "RCD Espanyol de Barcelona",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/RCDE_Stadium"
   },
   {
     "subject": "Estadio Benito Villamarín",
@@ -3563,10 +5427,266 @@
     "license": "CC0"
   },
   {
+    "subject": "Red Bull Arena Salzburg",
+    "local": "assets/photos/venues/red-bull-arena-salzburg.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_RBS_gegen_Celtic_Glasgow_01.jpg",
+    "author": "Werner100359",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Bull_Arena_%28Salzburg%29"
+  },
+  {
+    "subject": "Renato Dall'Ara",
+    "local": "assets/photos/venues/renato-dall-ara.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Dall%27Ara_01-02-2020.jpg",
+    "author": "Beric Dondarrion",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara"
+  },
+  {
+    "subject": "Riazor",
+    "local": "assets/photos/venues/riazor.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadioriazor2023.jpg",
+    "author": "Lisímaco de Egipto",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estadio_Riazor"
+  },
+  {
+    "subject": "Roazhon Park",
+    "local": "assets/photos/venues/roazhon-park.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Roazhon_Park_20190814.jpg",
+    "author": "EL Loko Foto",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roazhon_Park"
+  },
+  {
+    "subject": "San Siro",
+    "local": "assets/photos/venues/san-siro.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Meazza_2021_3.jpg",
+    "author": "Prelvini",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Siro"
+  },
+  {
+    "subject": "Shell Energy Stadium",
+    "local": "assets/photos/venues/shell-energy-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:PNC_Stadium_Skyline_View.jpg",
+    "author": "Paul Duron / Houtexusa at English Wikipedia",
+    "license": "GFDL",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shell_Energy_Stadium"
+  },
+  {
+    "subject": "SoFi Stadium",
+    "local": "assets/photos/venues/sofi-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:SoFi_Stadium_2023.jpg",
+    "author": "Troutfarm27",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/SoFi_Stadium"
+  },
+  {
     "subject": "Estádio José Alvalade",
     "local": "assets/photos/venues/sporting-cp.jpg",
     "source": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Jos%C3%A9_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg",
     "author": "Megutim",
     "license": "CC BY 4.0"
+  },
+  {
+    "subject": "Sporting Park",
+    "local": "assets/photos/venues/sporting-park.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Children%27s_Mercy_Park_Aerial.jpg",
+    "author": "Lectrician2",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sporting_Park"
+  },
+  {
+    "subject": "St. James' Park",
+    "local": "assets/photos/venues/st-james-park.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Newcastle_st-james-park_stadium.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "wikipedia": "https://en.wikipedia.org/wiki/St_James%27_Park"
+  },
+  {
+    "subject": "Stade de la Meinau",
+    "local": "assets/photos/venues/stade-de-la-meinau.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Meinau_en_National.jpg",
+    "author": "Xaviyeah",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stade_de_la_Meinau"
+  },
+  {
+    "subject": "Stade du Moustoir - Yves Allainmat",
+    "local": "assets/photos/venues/stade-du-moustoir-yves-allainmat.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stade_du_Moustoir.jpg",
+    "author": "NORMOTE",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stade_du_Moustoir"
+  },
+  {
+    "subject": "Stade Océane",
+    "local": "assets/photos/venues/stade-oceane.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Br%C3%A9sil_Ghana_au_Havre.jpg",
+    "author": "AxelCFC",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stade_Oc%C3%A9ane"
+  },
+  {
+    "subject": "Stade Raymond Kopa",
+    "local": "assets/photos/venues/stade-raymond-kopa.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stade_Jean_Bouin_Angers_2.JPG",
+    "author": "M. Mouchoir",
+    "license": "Public domain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stade_Raymond_Kopa"
+  },
+  {
+    "subject": "Stadio Artemio Franchi",
+    "local": "assets/photos/venues/stadio-artemio-franchi.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Firenze,_stadio_artemio_franchi,_campo_da_gioco,_10,0.jpg",
+    "author": "Sailko",
+    "license": "CC BY 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi"
+  },
+  {
+    "subject": "Stadio Benito Stirpe",
+    "local": "assets/photos/venues/stadio-benito-stirpe.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Benito_Stirpe_brescia_panoramica_ternana_sud_ospiti_main_notturna.jpg",
+    "author": "Roberto Celani",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadio_Benito_Stirpe"
+  },
+  {
+    "subject": "Stadio Diego Armando Maradona",
+    "local": "assets/photos/venues/stadio-diego-armando-maradona.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Maradona_Serie_A.jpg",
+    "author": "Gaetano Capaldo",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadio_Diego_Armando_Maradona"
+  },
+  {
+    "subject": "Stadio Friuli",
+    "local": "assets/photos/venues/stadio-friuli.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:DaciArena.jpg",
+    "author": "Matteo.favi",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadio_Friuli"
+  },
+  {
+    "subject": "Stadio Olimpico",
+    "local": "assets/photos/venues/stadio-olimpico.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_2024.jpg",
+    "author": "Messapi, cropped by Blackcat",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadio_Olimpico"
+  },
+  {
+    "subject": "Stadio Pier Luigi Penzo",
+    "local": "assets/photos/venues/stadio-pier-luigi-penzo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Pierluigi_Penzo.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadio_Pier_Luigi_Penzo"
+  },
+  {
+    "subject": "Stadio San Siro",
+    "local": "assets/photos/venues/stadio-san-siro.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Meazza_2021_3.jpg",
+    "author": "Prelvini",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Siro"
+  },
+  {
+    "subject": "Stadion An der Alten Försterei",
+    "local": "assets/photos/venues/stadion-an-der-alten-forsterei.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_alte_f%C3%B6rsterei.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadion_An_der_Alten_F%C3%B6rsterei"
+  },
+  {
+    "subject": "Şükrü Saracoğlu Stadium",
+    "local": "assets/photos/venues/sukru-saracoglu-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sukrusaracoglu.jpg",
+    "author": "Anl55400",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C5%9E%C3%BCkr%C3%BC_Saraco%C4%9Flu_Stadium"
+  },
+  {
+    "subject": "The City Ground",
+    "local": "assets/photos/venues/the-city-ground.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:CityGroundFromAboveTrentBridgeCricketGround.jpg",
+    "author": "Stadisimo",
+    "license": "CC BY 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/City_Ground"
+  },
+  {
+    "subject": "Tottenham Hotspur Stadium",
+    "local": "assets/photos/venues/tottenham-hotspur-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Tottenham_Hotspur_Stadium.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tottenham_Hotspur_Stadium"
+  },
+  {
+    "subject": "TQL Stadium",
+    "local": "assets/photos/venues/tql-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Cincinnati_vs._D.C._United_at_TQL_Stadium_(20210801140432).jpg",
+    "author": "Cornfield948",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/TQL_Stadium"
+  },
+  {
+    "subject": "U-Power Stadium",
+    "local": "assets/photos/venues/u-power-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Brianteo_2024_(cropped).jpg",
+    "author": "Simonemb",
+    "license": "CC0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stadio_Brianteo"
+  },
+  {
+    "subject": "URSAPHARM-Arena an der Kaiserlinde",
+    "local": "assets/photos/venues/ursapharm-arena-an-der-kaiserlinde.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:UrsapharmArena.jpg",
+    "author": "MüllerFrankElversberg",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Waldstadion_an_der_Kaiserlinde"
+  },
+  {
+    "subject": "Veltins Arena",
+    "local": "assets/photos/venues/veltins-arena.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Veltins_Arena_by_Arne_Mueseler.jpg",
+    "author": "Arne Müseler from Salzburg, AT",
+    "license": "CC BY-SA 2.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arena_AufSchalke"
+  },
+  {
+    "subject": "Villa Park",
+    "local": "assets/photos/venues/villa-park.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Birmingham_aston_villa_park_stadium.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "wikipedia": "https://en.wikipedia.org/wiki/Villa_Park"
+  },
+  {
+    "subject": "Vitality Stadium",
+    "local": "assets/photos/venues/vitality-stadium.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Deancourt_14092013_vblackpool.jpg",
+    "author": "Matthew Jackson",
+    "license": "CC BY-SA 3.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dean_Court"
+  },
+  {
+    "subject": "Volksparkstadion",
+    "local": "assets/photos/venues/volksparkstadion.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RK_1009_9831_Volksparkstadion.jpg",
+    "author": "Reinhard Kraasch",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Volksparkstadion"
+  },
+  {
+    "subject": "Weserstadion",
+    "local": "assets/photos/venues/weserstadion.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Germany_bremen_stadium.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 4.0",
+    "wikipedia": "https://en.wikipedia.org/wiki/Weserstadion"
   }
 ]

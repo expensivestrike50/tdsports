@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "milan-atalanta-2026-10-18",
     "date": "2026-10-18",
@@ -39,7 +39,7 @@
           "name": "Rúben Amorim",
           "short": "Amorim",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/11754.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Mike Maignan",
             "short": "Maignan",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/466439.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 7.3
@@ -57,7 +57,7 @@
             "name": "Strahinja Pavlovic",
             "short": "Pavlovic",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1048023.png.jpg",
             "x": 18,
             "y": 23,
             "rating": 7.3
@@ -67,7 +67,7 @@
             "name": "Koni De Winter",
             "short": "De Winter",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1200630.png.jpg",
             "x": 18,
             "y": 50,
             "rating": 6.8
@@ -77,7 +77,7 @@
             "name": "Mario Gila",
             "short": "Gila",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1106074.png.jpg",
             "x": 18,
             "y": 78,
             "rating": 8
@@ -87,7 +87,7 @@
             "name": "Diego Moreira",
             "short": "Moreira",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1342754.png.jpg",
             "x": 32,
             "y": 12,
             "rating": 7.8
@@ -97,7 +97,7 @@
             "name": "Luka Modric",
             "short": "Modric",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/31097.png.jpg",
             "x": 32,
             "y": 38,
             "rating": 7.1
@@ -107,7 +107,7 @@
             "name": "Yunus Musah",
             "short": "Musah",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1137272.png.jpg",
             "x": 32,
             "y": 64,
             "rating": 6.9
@@ -117,7 +117,7 @@
             "name": "Samuel Chukwueze",
             "short": "Chukwueze",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688300.png.jpg",
             "x": 32,
             "y": 88,
             "rating": 6.8
@@ -127,7 +127,7 @@
             "name": "Christian Pulisic",
             "short": "Pulisic",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688295.png.jpg",
             "x": 46,
             "y": 23,
             "rating": 6.6
@@ -137,7 +137,7 @@
             "name": "Gonçalo Ramos",
             "short": "Ramos",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/goncalo-ramos.jpg",
             "x": 46,
             "y": 50,
             "rating": 8
@@ -147,7 +147,7 @@
             "name": "Adrien Rabiot",
             "short": "Rabiot",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/352879.png.jpg",
             "x": 46,
             "y": 78,
             "rating": 8.4
@@ -159,7 +159,7 @@
             "name": "Omari Hutchinson",
             "short": "Hutchinson",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1215652.png.jpg",
             "rating": 7.1
           },
           {
@@ -167,7 +167,7 @@
             "name": "Ardon Jashari",
             "short": "Jashari",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1163219.png.jpg",
             "rating": 6.9
           },
           {
@@ -175,7 +175,7 @@
             "name": "Pervis Estupiñán",
             "short": "Estupiñán",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688278.png.jpg",
             "rating": 7.5
           },
           {
@@ -183,7 +183,7 @@
             "name": "Ruben Loftus-Cheek",
             "short": "Loftus-Cheek",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/604982.png.jpg",
             "rating": 7.1
           },
           {
@@ -191,7 +191,7 @@
             "name": "Fikayo Tomori",
             "short": "Tomori",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/749662.png.jpg",
             "rating": 7.3
           },
           {
@@ -199,7 +199,7 @@
             "name": "Christian Comotto",
             "short": "Comotto",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1787535.png.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Francesco Camarda",
             "short": "Camarda",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1554575.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Valeri Vladimirov",
             "short": "Vladimirov",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1988780.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Alphadjo Cissè",
             "short": "Cissè",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1445650.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Davide Bartesaghi",
             "short": "Bartesaghi",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1385856.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Filippo Terracciano",
             "short": "Terracciano",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1163501.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "Sankhoun Diawara",
             "short": "Diawara",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1669433.png.jpg",
             "rating": null
           },
           {
@@ -255,7 +255,7 @@
             "name": "Lorenzo Torriani",
             "short": "Torriani",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1642393.png.jpg",
             "rating": null
           },
           {
@@ -275,7 +275,7 @@
           "name": "Maurizio Sarri",
           "short": "Sarri",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/557567.png.jpg"
         },
         "starting": [
           {
@@ -283,7 +283,7 @@
             "name": "Marco Carnesecchi",
             "short": "Carnesecchi",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1013021.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.1
@@ -293,7 +293,7 @@
             "name": "Lorenzo Bernasconi",
             "short": "Bernasconi",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1191093.png.jpg",
             "x": 82,
             "y": 88,
             "rating": 6.2
@@ -303,7 +303,7 @@
             "name": "Sead Kolasinac",
             "short": "Kolasinac",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/sead-kolasinac.jpg",
             "x": 82,
             "y": 62,
             "rating": 7.4
@@ -313,7 +313,7 @@
             "name": "Thomas Kristensen",
             "short": "Kristensen",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1190029.png.jpg",
             "x": 82,
             "y": 36,
             "rating": 7.4
@@ -323,7 +323,7 @@
             "name": "Raoul Bellanova",
             "short": "Bellanova",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/902651.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 7.2
@@ -333,7 +333,7 @@
             "name": "Mario Pasalic",
             "short": "Pasalic",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/446266.png.jpg",
             "x": 68,
             "y": 77,
             "rating": 7.2
@@ -343,7 +343,7 @@
             "name": "Éderson",
             "short": "Éderson",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/957203.png.jpg",
             "x": 68,
             "y": 50,
             "rating": 7.3
@@ -353,7 +353,7 @@
             "name": "Lazar Samardzic",
             "short": "Samardzic",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1050178.png.jpg",
             "x": 68,
             "y": 22,
             "rating": 6.2
@@ -363,7 +363,7 @@
             "name": "Jon Rowe",
             "short": "Rowe",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1113694.png.jpg",
             "x": 54,
             "y": 77,
             "rating": 6.3
@@ -373,7 +373,7 @@
             "name": "Nikola Krstovic",
             "short": "Krstovic",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/833638.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 7.9
@@ -383,7 +383,7 @@
             "name": "Charles De Ketelaere",
             "short": "De Ketelaere",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1095432.png.jpg",
             "x": 54,
             "y": 22,
             "rating": 7.1
@@ -395,7 +395,7 @@
             "name": "Relja Obric",
             "short": "Obric",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1692456.png.jpg",
             "rating": 7.3
           },
           {
@@ -403,7 +403,7 @@
             "name": "Gianluca Gaetano",
             "short": "Gaetano",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/gianluca-gaetano.jpg",
             "rating": 7.9
           },
           {
@@ -411,7 +411,7 @@
             "name": "Nicola Zalewski",
             "short": "Zalewski",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/nicola-zalewski.jpg",
             "rating": 7.4
           },
           {
@@ -419,7 +419,7 @@
             "name": "Gianluca Scamacca",
             "short": "Scamacca",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/721089.png.jpg",
             "rating": 6.3
           },
           {
@@ -427,7 +427,7 @@
             "name": "Davide Zappacosta",
             "short": "Zappacosta",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/244811.png.jpg",
             "rating": 6.9
           },
           {
@@ -435,7 +435,7 @@
             "name": "Digne Pounga",
             "short": "Pounga",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1807305.png.jpg",
             "rating": null
           },
           {
@@ -451,7 +451,7 @@
             "name": "Marco Sportiello",
             "short": "Sportiello",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/212630.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Javison Idele",
             "short": "Idele",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1756869.png.jpg",
             "rating": null
           },
           {
@@ -467,7 +467,7 @@
             "name": "Matteo Plaia",
             "short": "Plaia",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1594763.png.jpg",
             "rating": null
           }
         ]
@@ -483,7 +483,7 @@
           "name": "Christian Pulisic",
           "short": "Pulisic",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688295.png.jpg"
         },
         "detail": "Goal ruled out after VAR review"
       },
@@ -496,14 +496,14 @@
           "name": "Relja Obric",
           "short": "Obric",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1692456.png.jpg"
         },
         "replaced": {
           "id": "sead-kolasinac",
           "name": "Sead Kolasinac",
           "short": "Kolasinac",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/sead-kolasinac.jpg"
         }
       },
       {
@@ -515,7 +515,7 @@
           "name": "Relja Obric",
           "short": "Obric",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1692456.png.jpg"
         },
         "detail": "Penalty awarded to Milan after VAR review for Obric handball"
       },
@@ -528,7 +528,7 @@
           "name": "Gonçalo Ramos",
           "short": "Ramos",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/goncalo-ramos.jpg"
         },
         "scoreAfter": "1 - 0",
         "penalty": true,
@@ -545,7 +545,7 @@
           "name": "Adrien Rabiot",
           "short": "Rabiot",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/352879.png.jpg"
         },
         "detail": "Unspecified"
       },
@@ -558,7 +558,7 @@
           "name": "Adrien Rabiot",
           "short": "Rabiot",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/352879.png.jpg"
         },
         "scoreAfter": "2 - 0",
         "penalty": false,
@@ -567,7 +567,7 @@
           "name": "Diego Moreira",
           "short": "Moreira",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1342754.png.jpg"
         },
         "goalType": "build",
         "description": "Adrien Rabiot right footed shot from the centre of the box to the bottom left corner. Assisted by Diego Moreira."
@@ -581,14 +581,14 @@
           "name": "Omari Hutchinson",
           "short": "Hutchinson",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1215652.png.jpg"
         },
         "replaced": {
           "id": "samuel-chukwueze-milan-atalanta-2026-10-18",
           "name": "Samuel Chukwueze",
           "short": "Chukwueze",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688300.png.jpg"
         }
       },
       {
@@ -600,7 +600,7 @@
           "name": "Thomas Kristensen",
           "short": "Kristensen",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1190029.png.jpg"
         },
         "detail": "Penalty awarded to Milan after VAR review for Kristensen handball (Ramos penalty saved)"
       },
@@ -613,7 +613,7 @@
           "name": "Mario Gila",
           "short": "Gila",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1106074.png.jpg"
         },
         "scoreAfter": "3 - 0",
         "penalty": false,
@@ -622,7 +622,7 @@
           "name": "Adrien Rabiot",
           "short": "Rabiot",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/352879.png.jpg"
         },
         "goalType": "set",
         "description": "Mario Gila header from very close range to the bottom right corner. Assisted by Adrien Rabiot with a headed pass following a corner."
@@ -636,14 +636,14 @@
           "name": "Gianluca Gaetano",
           "short": "Gaetano",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/gianluca-gaetano.jpg"
         },
         "replaced": {
           "id": "mario-pasalic",
           "name": "Mario Pasalic",
           "short": "Pasalic",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/446266.png.jpg"
         }
       },
       {
@@ -655,14 +655,14 @@
           "name": "Nicola Zalewski",
           "short": "Zalewski",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/nicola-zalewski.jpg"
         },
         "replaced": {
           "id": "jon-rowe",
           "name": "Jon Rowe",
           "short": "Rowe",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1113694.png.jpg"
         }
       },
       {
@@ -674,7 +674,7 @@
           "name": "Gianluca Gaetano",
           "short": "Gaetano",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/gianluca-gaetano.jpg"
         },
         "scoreAfter": "3 - 1",
         "penalty": false,
@@ -683,7 +683,7 @@
           "name": "Nicola Zalewski",
           "short": "Zalewski",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/nicola-zalewski.jpg"
         },
         "goalType": "build",
         "description": "Gianluca Gaetano left footed shot from the centre of the box to the bottom right corner. Assisted by Nicola Zalewski."
@@ -697,7 +697,7 @@
           "name": "Éderson",
           "short": "Éderson",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/957203.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -710,14 +710,14 @@
           "name": "Gianluca Scamacca",
           "short": "Scamacca",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/721089.png.jpg"
         },
         "replaced": {
           "id": "lazar-samardzic",
           "name": "Lazar Samardzic",
           "short": "Samardzic",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1050178.png.jpg"
         }
       },
       {
@@ -729,14 +729,14 @@
           "name": "Davide Zappacosta",
           "short": "Zappacosta",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/244811.png.jpg"
         },
         "replaced": {
           "id": "lorenzo-bernasconi",
           "name": "Lorenzo Bernasconi",
           "short": "Bernasconi",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1191093.png.jpg"
         }
       },
       {
@@ -748,14 +748,14 @@
           "name": "Ardon Jashari",
           "short": "Jashari",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1163219.png.jpg"
         },
         "replaced": {
           "id": "christian-pulisic-milan-atalanta-2026-10-18",
           "name": "Christian Pulisic",
           "short": "Pulisic",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688295.png.jpg"
         }
       },
       {
@@ -767,14 +767,14 @@
           "name": "Pervis Estupiñán",
           "short": "Estupiñán",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/688278.png.jpg"
         },
         "replaced": {
           "id": "yunus-musah-milan-atalanta-2026-10-18",
           "name": "Yunus Musah",
           "short": "Musah",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1137272.png.jpg"
         }
       },
       {
@@ -786,14 +786,14 @@
           "name": "Ruben Loftus-Cheek",
           "short": "Loftus-Cheek",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/604982.png.jpg"
         },
         "replaced": {
           "id": "luka-modric-milan-atalanta-2026-10-18",
           "name": "Luka Modric",
           "short": "Modric",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/31097.png.jpg"
         }
       },
       {
@@ -805,7 +805,7 @@
           "name": "Relja Obric",
           "short": "Obric",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1692456.png.jpg"
         },
         "detail": "Bad foul"
       },
@@ -818,7 +818,7 @@
           "name": "Nikola Krstovic",
           "short": "Krstovic",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/833638.png.jpg"
         },
         "scoreAfter": "3 - 2",
         "penalty": false,
@@ -827,7 +827,7 @@
           "name": "Raoul Bellanova",
           "short": "Bellanova",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/902651.png.jpg"
         },
         "goalType": "build",
         "description": "Nikola Krstovic right footed shot from the centre of the box to the bottom left corner. Assisted by Raoul Bellanova."
@@ -841,14 +841,14 @@
           "name": "Fikayo Tomori",
           "short": "Tomori",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/749662.png.jpg"
         },
         "replaced": {
           "id": "mario-gila-milan-atalanta-2026-10-18",
           "name": "Mario Gila",
           "short": "Gila",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1106074.png.jpg"
         }
       }
     ],

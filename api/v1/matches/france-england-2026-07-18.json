@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "france-england-2026-07-18",
     "date": "2026-07-18",
@@ -39,7 +39,7 @@
           "name": "Didier Deschamps",
           "short": "Deschamps",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/didier-deschamps.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Mike Maignan",
             "short": "Maignan",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/466439.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 7.1
@@ -57,7 +57,7 @@
             "name": "Theo Hernández",
             "short": "T. Hernández",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/724371.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 6.6
@@ -67,7 +67,7 @@
             "name": "Maxence Lacroix",
             "short": "Lacroix",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/950485.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.8
@@ -87,7 +87,7 @@
             "name": "Malo Gusto",
             "short": "Gusto",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1197250.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 7.3
@@ -97,7 +97,7 @@
             "name": "Adrien Rabiot",
             "short": "Rabiot",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/352879.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 6.3
@@ -137,7 +137,7 @@
             "name": "Michael Olise",
             "short": "Olise",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029063.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 7.3
@@ -191,7 +191,7 @@
             "name": "Jules Koundé",
             "short": "Koundé",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/705450.png.jpg",
             "rating": 6.3
           },
           {
@@ -207,7 +207,7 @@
             "name": "Robin Risser",
             "short": "Risser",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1390336.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Manu Koné",
             "short": "Koné",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1016132.png.jpg",
             "rating": null
           },
           {
@@ -231,7 +231,7 @@
             "name": "Jean-Philippe Mateta",
             "short": "Mateta",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/706297.png.jpg",
             "rating": null
           },
           {
@@ -239,7 +239,7 @@
             "name": "Brice Samba",
             "short": "Samba",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/279714.png.jpg",
             "rating": null
           },
           {
@@ -247,7 +247,7 @@
             "name": "William Saliba",
             "short": "Saliba",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/955406.png.jpg",
             "rating": null
           },
           {
@@ -255,7 +255,7 @@
             "name": "N'Golo Kanté",
             "short": "Kanté",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/319300.png.jpg",
             "rating": null
           },
           {
@@ -283,7 +283,7 @@
           "name": "Thomas Tuchel",
           "short": "Tuchel",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/thomas-tuchel.jpg"
         },
         "starting": [
           {
@@ -291,7 +291,7 @@
             "name": "Dean Henderson",
             "short": "Henderson",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/719330.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 7.5
@@ -331,7 +331,7 @@
             "name": "Jarell Quansah",
             "short": "Quansah",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1107620.png.jpg",
             "x": 82,
             "y": 12,
             "rating": 7.4
@@ -351,7 +351,7 @@
             "name": "Marcus Rashford",
             "short": "Rashford",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/696365.png.jpg",
             "x": 63,
             "y": 88,
             "rating": 8.1
@@ -371,7 +371,7 @@
             "name": "Morgan Rogers",
             "short": "Rogers",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/883080.png.jpg",
             "x": 63,
             "y": 36,
             "rating": 7
@@ -391,7 +391,7 @@
             "name": "Ivan Toney",
             "short": "Toney",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/408987.png.jpg",
             "x": 54,
             "y": 50,
             "rating": 6.6
@@ -403,7 +403,7 @@
             "name": "Ollie Watkins",
             "short": "Watkins",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540088.png.jpg",
             "rating": 7
           },
           {
@@ -427,7 +427,7 @@
             "name": "Reece James",
             "short": "James",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/reece-james.jpg",
             "rating": 6.9
           },
           {
@@ -435,7 +435,7 @@
             "name": "Trevoh Chalobah",
             "short": "Chalobah",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/793907.png.jpg",
             "rating": 6.5
           },
           {
@@ -443,7 +443,7 @@
             "name": "Jordan Pickford",
             "short": "Pickford",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/303919.png.jpg",
             "rating": null
           },
           {
@@ -459,7 +459,7 @@
             "name": "Nico O'Reilly",
             "short": "O'Reilly",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1300526.png.jpg",
             "rating": null
           },
           {
@@ -467,7 +467,7 @@
             "name": "James Trafford",
             "short": "Trafford",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/james-trafford.jpg",
             "rating": null
           },
           {
@@ -475,7 +475,7 @@
             "name": "John Stones",
             "short": "Stones",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/john-stones.jpg",
             "rating": null
           },
           {
@@ -483,7 +483,7 @@
             "name": "Dan Burn",
             "short": "Burn",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/188058.png.jpg",
             "rating": null
           },
           {
@@ -491,7 +491,7 @@
             "name": "Dean Henderson",
             "short": "Henderson",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/719330.png.jpg",
             "rating": null
           },
           {
@@ -572,7 +572,7 @@
           "name": "Marcus Rashford",
           "short": "Rashford",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/696365.png.jpg"
         },
         "goalType": "counter",
         "description": "England broke quickly and Marcus Rashford set up Bukayo Saka, who finished left-footed from the left side of the box."
@@ -654,7 +654,7 @@
           "name": "Theo Hernández",
           "short": "T. Hernández",
           "position": "LB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/724371.png.jpg"
         }
       },
       {
@@ -685,14 +685,14 @@
           "name": "Ollie Watkins",
           "short": "Watkins",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/540088.png.jpg"
         },
         "replaced": {
           "id": "marcus-rashford-france-england-2026-07-18",
           "name": "Marcus Rashford",
           "short": "Rashford",
           "position": "LW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/696365.png.jpg"
         }
       },
       {
@@ -713,7 +713,7 @@
           "name": "Michael Olise",
           "short": "Olise",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029063.png.jpg"
         },
         "goalType": "counter",
         "description": "On a counter-attack, Michael Olise's through ball found Kylian Mbappé, who finished left-footed into the bottom right corner."
@@ -759,7 +759,7 @@
           "name": "Michael Olise",
           "short": "Olise",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1029063.png.jpg"
         },
         "goalType": "build",
         "description": "Olise set up Mbappé again for a left-footed finish from the centre of the box to make it 3-4."
@@ -780,7 +780,7 @@
           "name": "Ivan Toney",
           "short": "Toney",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/408987.png.jpg"
         }
       },
       {
@@ -811,14 +811,14 @@
           "name": "Reece James",
           "short": "James",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/reece-james.jpg"
         },
         "replaced": {
           "id": "jarell-quansah-france-england-2026-07-18",
           "name": "Jarell Quansah",
           "short": "Quansah",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1107620.png.jpg"
         }
       },
       {
@@ -881,14 +881,14 @@
           "name": "Jules Koundé",
           "short": "Koundé",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/705450.png.jpg"
         },
         "replaced": {
           "id": "malo-gusto-france-england-2026-07-18",
           "name": "Malo Gusto",
           "short": "Gusto",
           "position": "RB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1197250.png.jpg"
         }
       },
       {
@@ -900,7 +900,7 @@
           "name": "Trevoh Chalobah",
           "short": "Chalobah",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/793907.png.jpg"
         },
         "replaced": {
           "id": "marc-guehi-france-england-2026-07-18",

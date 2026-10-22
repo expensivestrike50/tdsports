@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "didier-digard",
     "name": "Didier Digard",
     "short": "Digard",
     "position": "Coach",
-    "photo": null,
+    "photo": "assets/photos/people/didier-digard.jpg",
     "matches": [
       {
         "match": "le-havre-auxerre-2026-10-18",

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "florian-muller",
     "name": "Florian Müller",
     "short": "Müller",
     "position": "CM",
-    "photo": null,
+    "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/737365.png.jpg",
     "matches": [
       {
         "match": "leverkusen-freiburg-2026-10-18",

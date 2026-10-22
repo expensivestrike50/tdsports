@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:51:07.214Z",
+  "generated": "2026-10-22T17:28:43.938Z",
   "data": {
     "id": "bremen-paderborn-2026-10-17",
     "date": "2026-10-17",
@@ -39,7 +39,7 @@
           "name": "Daniel Thioune",
           "short": "Thioune",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/33244.png.jpg"
         },
         "starting": [
           {
@@ -47,7 +47,7 @@
             "name": "Karl Hein",
             "short": "Hein",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/982692.png.jpg",
             "x": 5,
             "y": 50,
             "rating": 7.4
@@ -57,7 +57,7 @@
             "name": "Olivier Deman",
             "short": "Deman",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/969856.png.jpg",
             "x": 18,
             "y": 12,
             "rating": 7.2
@@ -67,7 +67,7 @@
             "name": "Marco Friedl",
             "short": "Friedl",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/767789.png.jpg",
             "x": 18,
             "y": 38,
             "rating": 6.7
@@ -77,7 +77,7 @@
             "name": "Amos Pieper",
             "short": "Pieper",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/765998.png.jpg",
             "x": 18,
             "y": 64,
             "rating": 7.1
@@ -87,7 +87,7 @@
             "name": "Arthur",
             "short": "Arthur",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/654044.png.jpg",
             "x": 18,
             "y": 88,
             "rating": 6.8
@@ -97,7 +97,7 @@
             "name": "Youri Regeer",
             "short": "Regeer",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1111980.png.jpg",
             "x": 27,
             "y": 30,
             "rating": 7.4
@@ -107,7 +107,7 @@
             "name": "Ludovit Reis",
             "short": "Reis",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/869326.png.jpg",
             "x": 27,
             "y": 70,
             "rating": 6.4
@@ -117,7 +117,7 @@
             "name": "Marco Grüll",
             "short": "Grüll",
             "position": "LW",
-            "photo": null,
+            "photo": "assets/photos/people/marco-grull.jpg",
             "x": 37,
             "y": 23,
             "rating": 6.5
@@ -127,7 +127,7 @@
             "name": "Chuki",
             "short": "Chuki",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1315344.png.jpg",
             "x": 37,
             "y": 50,
             "rating": 7.4
@@ -137,7 +137,7 @@
             "name": "Eren Dinkci",
             "short": "Dinkci",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1146376.png.jpg",
             "x": 37,
             "y": 78,
             "rating": 7.2
@@ -147,7 +147,7 @@
             "name": "Niclas Füllkrug",
             "short": "Füllkrug",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/276791.png.jpg",
             "x": 46,
             "y": 50,
             "rating": 8.9
@@ -159,7 +159,7 @@
             "name": "Mitchell Weiser",
             "short": "Weiser",
             "position": "AM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/298823.png.jpg",
             "rating": 6.3
           },
           {
@@ -167,7 +167,7 @@
             "name": "Cedric Itten",
             "short": "Itten",
             "position": "RW",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/726956.png.jpg",
             "rating": 6.2
           },
           {
@@ -175,7 +175,7 @@
             "name": "Dariusz Stalmach",
             "short": "Stalmach",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1276988.png.jpg",
             "rating": 6.5
           },
           {
@@ -183,7 +183,7 @@
             "name": "Paul Bright Max Erevbenagie",
             "short": "Erevbenagie",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1810868.png.jpg",
             "rating": 7.2
           },
           {
@@ -191,7 +191,7 @@
             "name": "Oskar Wójcik",
             "short": "Wójcik",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1283403.png.jpg",
             "rating": null
           },
           {
@@ -199,7 +199,7 @@
             "name": "Niklas Stark",
             "short": "Stark",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/niklas-stark.jpg",
             "rating": null
           },
           {
@@ -207,7 +207,7 @@
             "name": "Mick Schmetgens",
             "short": "Schmetgens",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1714103.png.jpg",
             "rating": null
           },
           {
@@ -215,7 +215,7 @@
             "name": "Darwin Kaan Soylu",
             "short": "Soylu",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/2155105.png.jpg",
             "rating": null
           },
           {
@@ -223,7 +223,7 @@
             "name": "Alexander Schlager",
             "short": "Schlager",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/alexander-schlager.jpg",
             "rating": null
           }
         ]
@@ -235,7 +235,7 @@
           "name": "Ralf Kettemann",
           "short": "Kettemann",
           "position": "Coach",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/141102.png.jpg"
         },
         "starting": [
           {
@@ -243,7 +243,7 @@
             "name": "Nahuel Nicolas Noll",
             "short": "Noll",
             "position": "GK",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1257826.png.jpg",
             "x": 95,
             "y": 50,
             "rating": 6.4
@@ -253,7 +253,7 @@
             "name": "Mattes Hansen",
             "short": "Hansen",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1515976.png.jpg",
             "x": 82,
             "y": 77,
             "rating": 7.2
@@ -263,7 +263,7 @@
             "name": "Tjark Scheller",
             "short": "Scheller",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1415373.png.jpg",
             "x": 82,
             "y": 50,
             "rating": 6.3
@@ -273,7 +273,7 @@
             "name": "Jano Horst",
             "short": "Horst",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1520469.png.jpg",
             "x": 82,
             "y": 22,
             "rating": 6.2
@@ -283,7 +283,7 @@
             "name": "Santiago Castaneda",
             "short": "Castaneda",
             "position": "DM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1362492.png.jpg",
             "x": 73,
             "y": 50,
             "rating": 7.1
@@ -293,7 +293,7 @@
             "name": "Raphael Obermair",
             "short": "Obermair",
             "position": "LB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/784225.png.jpg",
             "x": 63,
             "y": 88,
             "rating": 6.5
@@ -303,7 +303,7 @@
             "name": "Gabriel Vidovic",
             "short": "Vidovic",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1276453.png.jpg",
             "x": 63,
             "y": 62,
             "rating": 6.8
@@ -313,7 +313,7 @@
             "name": "Laurin Ulrich",
             "short": "Ulrich",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1367587.png.jpg",
             "x": 63,
             "y": 36,
             "rating": 6.8
@@ -323,7 +323,7 @@
             "name": "Laurin Curda",
             "short": "Curda",
             "position": "RB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1426060.png.jpg",
             "x": 63,
             "y": 12,
             "rating": 6.9
@@ -333,7 +333,7 @@
             "name": "Steffen Tigges",
             "short": "Tigges",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/steffen-tigges.jpg",
             "x": 54,
             "y": 70,
             "rating": 8.6
@@ -343,7 +343,7 @@
             "name": "Stefano Marino",
             "short": "Marino",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1321553.png.jpg",
             "x": 54,
             "y": 30,
             "rating": 7.3
@@ -355,7 +355,7 @@
             "name": "Rayan Philippe",
             "short": "Philippe",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/rayan-philippe.jpg",
             "rating": 6.5
           },
           {
@@ -363,7 +363,7 @@
             "name": "Tom Baack",
             "short": "Baack",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/658444.png.jpg",
             "rating": 6.3
           },
           {
@@ -371,7 +371,7 @@
             "name": "Ruben Müller",
             "short": "Müller",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1688956.png.jpg",
             "rating": 6.2
           },
           {
@@ -379,7 +379,7 @@
             "name": "Marvin Pieringer",
             "short": "Pieringer",
             "position": "ST",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/956913.png.jpg",
             "rating": 6.3
           },
           {
@@ -387,7 +387,7 @@
             "name": "Jonah Sticker",
             "short": "Sticker",
             "position": "CB",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1520593.png.jpg",
             "rating": 6.6
           },
           {
@@ -395,7 +395,7 @@
             "name": "Markus Schubert",
             "short": "Schubert",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/659046.png.jpg",
             "rating": null
           },
           {
@@ -403,7 +403,7 @@
             "name": "Clemens Lippmann",
             "short": "Lippmann",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1701615.png.jpg",
             "rating": null
           },
           {
@@ -411,7 +411,7 @@
             "name": "Deniz Zeitler",
             "short": "Zeitler",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1580112.png.jpg",
             "rating": null
           },
           {
@@ -419,7 +419,7 @@
             "name": "Sven Michel",
             "short": "Michel",
             "position": "CM",
-            "photo": null,
+            "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/419774.png.jpg",
             "rating": null
           }
         ]
@@ -435,7 +435,7 @@
           "name": "Stefano Marino",
           "short": "Marino",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1321553.png.jpg"
         },
         "detail": "Foul"
       },
@@ -448,7 +448,7 @@
           "name": "Stefano Marino",
           "short": "Marino",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1321553.png.jpg"
         },
         "scoreAfter": "0 - 1",
         "penalty": false,
@@ -457,7 +457,7 @@
           "name": "Steffen Tigges",
           "short": "Tigges",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/steffen-tigges.jpg"
         },
         "goalType": "counter",
         "description": "Stefano Marino scored with a right-footed shot from the right side of the box to the top right corner. Assist: Steffen Tigges following a fast break."
@@ -471,7 +471,7 @@
           "name": "Steffen Tigges",
           "short": "Tigges",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/steffen-tigges.jpg"
         },
         "scoreAfter": "0 - 2",
         "penalty": false,
@@ -488,14 +488,14 @@
           "name": "Mitchell Weiser",
           "short": "Weiser",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/298823.png.jpg"
         },
         "replaced": {
           "id": "chuki",
           "name": "Chuki",
           "short": "Chuki",
           "position": "AM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1315344.png.jpg"
         }
       },
       {
@@ -507,7 +507,7 @@
           "name": "Niclas Füllkrug",
           "short": "Füllkrug",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/276791.png.jpg"
         },
         "scoreAfter": "1 - 2",
         "penalty": false,
@@ -516,7 +516,7 @@
           "name": "Eren Dinkci",
           "short": "Dinkci",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1146376.png.jpg"
         },
         "goalType": "build",
         "description": "Niclas Füllkrug scored with a left-footed shot from the centre of the box to the bottom left corner. Assist: Eren Dinkçi with a through ball."
@@ -530,14 +530,14 @@
           "name": "Cedric Itten",
           "short": "Itten",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/726956.png.jpg"
         },
         "replaced": {
           "id": "eren-dinkci",
           "name": "Eren Dinkci",
           "short": "Dinkci",
           "position": "RW",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1146376.png.jpg"
         }
       },
       {
@@ -549,7 +549,7 @@
           "name": "Niclas Füllkrug",
           "short": "Füllkrug",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/276791.png.jpg"
         },
         "scoreAfter": "2 - 2",
         "penalty": true,
@@ -566,14 +566,14 @@
           "name": "Rayan Philippe",
           "short": "Philippe",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/rayan-philippe.jpg"
         },
         "replaced": {
           "id": "stefano-marino",
           "name": "Stefano Marino",
           "short": "Marino",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1321553.png.jpg"
         }
       },
       {
@@ -585,14 +585,14 @@
           "name": "Tom Baack",
           "short": "Baack",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/658444.png.jpg"
         },
         "replaced": {
           "id": "laurin-ulrich",
           "name": "Laurin Ulrich",
           "short": "Ulrich",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1367587.png.jpg"
         }
       },
       {
@@ -604,14 +604,14 @@
           "name": "Ruben Müller",
           "short": "Müller",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1688956.png.jpg"
         },
         "replaced": {
           "id": "gabriel-vidovic",
           "name": "Gabriel Vidovic",
           "short": "Vidovic",
           "position": "CM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1276453.png.jpg"
         }
       },
       {
@@ -623,14 +623,14 @@
           "name": "Marvin Pieringer",
           "short": "Pieringer",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/956913.png.jpg"
         },
         "replaced": {
           "id": "steffen-tigges",
           "name": "Steffen Tigges",
           "short": "Tigges",
           "position": "ST",
-          "photo": null
+          "photo": "assets/photos/people/steffen-tigges.jpg"
         }
       },
       {
@@ -642,14 +642,14 @@
           "name": "Dariusz Stalmach",
           "short": "Stalmach",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1276988.png.jpg"
         },
         "replaced": {
           "id": "ludovit-reis",
           "name": "Ludovit Reis",
           "short": "Reis",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/869326.png.jpg"
         }
       },
       {
@@ -661,7 +661,7 @@
           "name": "Youri Regeer",
           "short": "Regeer",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1111980.png.jpg"
         },
         "detail": "Foul"
       },
@@ -674,14 +674,14 @@
           "name": "Paul Bright Max Erevbenagie",
           "short": "Erevbenagie",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1810868.png.jpg"
         },
         "replaced": {
           "id": "youri-regeer",
           "name": "Youri Regeer",
           "short": "Regeer",
           "position": "DM",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1111980.png.jpg"
         }
       },
       {
@@ -693,14 +693,14 @@
           "name": "Jonah Sticker",
           "short": "Sticker",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1520593.png.jpg"
         },
         "replaced": {
           "id": "mattes-hansen",
           "name": "Mattes Hansen",
           "short": "Hansen",
           "position": "CB",
-          "photo": null
+          "photo": "assets/photos/people/https://images.fotmob.com/image_resources/playerimages/1515976.png.jpg"
         }
       }
     ],

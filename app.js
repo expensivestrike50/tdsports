@@ -84,7 +84,7 @@ function avatar(id, size = 'md') {
   const p = PEOPLE[id];
   if (!p.photo) return `<span class="avatar avatar-${size} avatar-fallback" aria-hidden="true">${esc(initials(p.name))}</span>`;
   // If the photo is missing, swap in the initials fallback.
-  return `<img class="avatar avatar-${size}" src="assets/photos/people/${p.photo}.jpg" alt="" loading="lazy" data-initials="${esc(initials(p.name))}" onerror="avatarFallback(this)">`;
+  return `<img class="avatar avatar-${size}" src="${/^https?:/.test(p.photo) ? esc(p.photo) : `assets/photos/people/${p.photo}.jpg`}" alt="" loading="lazy" data-initials="${esc(initials(p.name))}" onerror="avatarFallback(this)">`;
 }
 
 function avatarFallback(img) {
@@ -1719,7 +1719,7 @@ function photoCredit(path) {
 
 function creditsModal() {
   info('Image credits', `
-    <p class="muted">Photos are from Wikimedia Commons under the licenses shown. Club and competition logos are from ESPN's public logo CDN and belong to their respective owners.</p>
+    <p class="muted">Photos listed below are from Wikimedia Commons under the licenses shown. Other player and coach headshots are linked from <a href="https://www.fotmob.com" target="_blank" rel="noopener">FotMob</a> and belong to their owners. Club and competition logos are from ESPN's public logo CDN and belong to their respective owners.</p>
     <ul class="credits">
       ${PHOTO_CREDITS.map(([, subject, author, license, url]) => `
         <li><a href="${url}" target="_blank" rel="noopener">${esc(subject)}</a><span class="muted">${esc(author)} · ${esc(license)}</span></li>`).join('')}
