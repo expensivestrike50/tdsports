@@ -203,8 +203,23 @@ function addEspnMatch(id, code, s) {
       .sort((a, b) => (a.rank || 99) - (b.rank || 99) || b.pts - a.pts);
   }
 
+  // Each team's last five matches before this one, from the team's side.
+  const form = {};
+  for (const t of s.lastFiveGames || []) {
+    const h = teamSide[t.team.id];
+    if (!h) continue;
+    form[h] = (t.events || []).map(g => {
+      const atHome = g.atVs !== '@';
+      const hs = +g.homeTeamScore || 0, as = +g.awayTeamScore || 0;
+      const [f, a] = atHome ? [hs, as] : [as, hs];
+      const opp = g.opponent || {};
+      return { date: (g.gameDate || '').slice(0, 10), opp: opp.displayName || '?', logo: g.opponentLogo || opp.logo || '', f, a,
+        res: (g.gameResult || (f > a ? 'W' : f === a ? 'D' : 'L')).toLowerCase(), comp: g.leagueAbbreviation || g.leagueName || '', venue: atHome ? 'H' : 'A' };
+    }).sort((x, y) => y.date.localeCompare(x.date));
+  }
+
   const match = {
-    id, espn: true, home, away, score, league,
+    id, espn: true, home, away, score, league, form,
     date: isoDay(start),
     kickoff: start.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' }),
     competition: league, round: (sideOf('home').team.groups && sideOf('home').team.groups.name) || s.header.season && s.header.season.name || '',

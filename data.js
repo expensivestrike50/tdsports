@@ -56,7 +56,6 @@ const CLUB_LOGOS = {
 
 // European clubs used as opponents in the sample form guide and match history (the first 40
 // crests above; the MLS and Liga MX clubs are only used in the live sample).
-const FORM_POOL = Object.keys(CLUB_LOGOS).slice(0, 40);
 
 // Home grounds of the home sides. Photos from Wikimedia Commons.
 const VENUES = {

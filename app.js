@@ -1323,22 +1323,19 @@ function standingsCard(match) {
     </div>`;
 }
 
+// Each team's real last five matches before this game (ESPN), most recent first.
 function formCard(match) {
-  const opponents = FORM_POOL;
-  const column = team => {
-    const r = rng('form-' + team);
-    const games = Array.from({ length: 5 }, () => {
-      let opp; do { opp = opponents[randInt(r, 0, opponents.length - 1)]; } while (opp === team);
-      const f = randInt(r, 0, 4), a = randInt(r, 0, 2);
-      return { opp, f, a, res: f > a ? 'w' : f === a ? 'd' : 'l' };
-    });
-    const pts = games.reduce((s, g) => s + (g.res === 'w' ? 3 : g.res === 'd' ? 1 : 0), 0);
+  const form = match.form || (typeof TEAM_FORM !== 'undefined' && TEAM_FORM[match.id]);
+  const label = { w: 'Won', d: 'Drew', l: 'Lost' };
+  const column = (team, games) => {
+    if (!games || !games.length) return `<div><h3 class="form-team">${crest(team)} ${esc(team)}</h3><p class="muted">No recent results available.</p></div>`;
+    const pts = games.reduce((t, g) => t + (g.res === 'w' ? 3 : g.res === 'd' ? 1 : 0), 0);
     return `<div>
-      <h3 class="form-team">${crest(team)} ${esc(team)} <span class="muted form-pts">${pts}/15 pts</span></h3>
-      ${games.map(g => `<div class="statrow"><span class="form-badge ${g.res}">${g.f} - ${g.a}</span><span class="form-opp">${crest(g.opp)} ${esc(g.opp)}</span></div>`).join('')}
+      <h3 class="form-team">${crest(team)} ${esc(team)} <span class="muted form-pts">${pts}/${games.length * 3} pts</span></h3>
+      ${games.map(g => `<div class="statrow" title="${label[g.res]} ${g.f}-${g.a} ${g.venue === 'H' ? 'at home' : 'away'} · ${esc(g.comp)} · ${esc(g.date)}"><span class="form-badge ${g.res}">${g.f} - ${g.a}</span><span class="form-opp">${g.logo ? `<img class="crest crest-sm" src="${esc(g.logo)}" alt="" loading="lazy">` : crest(g.opp)} ${esc(g.opp)} <small class="muted">${g.venue === 'H' ? '(H)' : '(A)'}</small></span></div>`).join('')}
     </div>`;
   };
-  return `<div class="card">${sectionHead('Team form', null, 'Last five matches, most recent first')}<div class="two">${column(match.home)}${column(match.away)}</div></div>`;
+  return `<div class="card">${sectionHead('Team form', null, 'Last five matches before this game, most recent first · score shown for the team')}<div class="two">${column(match.home, form && form.home)}${column(match.away, form && form.away)}</div></div>`;
 }
 
 // Sample vote origins for the poll map. Fans in each club's country lean heavily towards

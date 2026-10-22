@@ -450,11 +450,11 @@ function shapes(match, side) {
 }
 
 // Touch and recovery samples for the heatmaps, in pitch % (attacking left to right).
-// scope 'last10' combines this match with nine earlier ones (sample data); 'g<k>' is a single
+// scope 'last10' combines this match with the earlier ones in recentGames; 'g<k>' is a single
 // match, k matches ago. Earlier matches use the same shape shifted a little
 // up or down the pitch and with different volumes, as a team's games naturally vary.
 function heatSamples(match, side, kind, scope = 'match') {
-  const list = scope === 'last10' ? [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] : [Number(String(scope).replace('g', '')) || 0];
+  const list = scope === 'last10' ? recentGames(match, side).map(g => g.k) : [Number(String(scope).replace('g', '')) || 0];
   const games = list.length;
   const pts = [];
   for (const gIdx of list) {
@@ -490,24 +490,20 @@ function heatSamples(match, side, kind, scope = 'match') {
   return pts.map(([x, y, w]) => [Math.max(1, Math.min(99, x)), Math.max(1, Math.min(99, y)), w / games]);
 }
 
-// The side's last ten matches, most recent first: today plus nine earlier sample results.
-// Uses the same generator as the Team form card, so its five games match the first five here.
+// The side's recent matches, most recent first: today plus its real last five before it
+// (the same games as the Team form card).
 function recentGames(match, side) {
-  const team = side === 'home' ? match.home : match.away;
   const t = side === 'home' ? 0 : 1;
-  const opponents = FORM_POOL;
-  const r = rng('form-' + team);
-  const earlier = Array.from({ length: 9 }, () => {
-    let opp; do { opp = opponents[randInt(r, 0, opponents.length - 1)]; } while (opp === team);
-    return { opp, f: randInt(r, 0, 4), a: randInt(r, 0, 2) };
-  });
+  const form = match.form || (typeof TEAM_FORM !== 'undefined' && TEAM_FORM[match.id]);
+  const earlier = ((form && form[side]) || []).map(g => ({ opp: g.opp, f: g.f, a: g.a }));
   return [{ opp: t ? match.home : match.away, f: match.score[t], a: match.score[1 - t] }, ...earlier]
     .map((g, k) => ({ ...g, k, res: g.f > g.a ? 'W' : g.f === g.a ? 'D' : 'L' }));
 }
 
 function scopeLabel(match, side) {
-  if (state.heatScope === 'last10') return 'last 10 matches';
-  const g = recentGames(match, side)[Number(state.heatScope.replace('g', '')) || 0];
+  if (state.heatScope === 'last10') return `last ${recentGames(match, side).length} matches`;
+  const games = recentGames(match, side);
+  const g = games[Number(state.heatScope.replace('g', '')) || 0] || games[0];
   return `${g.k === 0 ? 'today' : `${g.k} match${g.k > 1 ? 'es' : ''} ago`} vs ${esc(g.opp)} (${g.res} ${g.f}-${g.a})`;
 }
 
@@ -604,7 +600,7 @@ function styleReviewTab(match) {
           <h3 class="style-h"><span class="sh-t">Touch map</span>
             <label class="scope-pick scope-sm">
               <select data-heat-scope aria-label="Choose which match to review">
-                <option value="last10" ${state.heatScope === 'last10' ? 'selected' : ''}>Last 10 matches</option>
+                <option value="last10" ${state.heatScope === 'last10' ? 'selected' : ''}>Last ${recentGames(match, side).length} matches</option>
                 ${recentGames(match, side).map(g => `<option value="g${g.k}" ${state.heatScope === `g${g.k}` ? 'selected' : ''}>${g.k === 0 ? 'Today' : `−${g.k}`} · vs ${esc(g.opp)} · ${g.res} ${g.f}-${g.a}</option>`).join('')}
               </select>
             </label>
