@@ -219,38 +219,8 @@ function addEspnMatch(id, code, s) {
     }).sort((x, y) => y.date.localeCompare(x.date));
   }
 
-  // Pre-match data: season totals, each team's leaders and the head-to-head record.
-  const preview = { season: {}, leaders: {}, h2h: [] };
-  for (const t of (s.boxscore && s.boxscore.teams) || []) {
-    const h = teamSide[t.team.id];
-    if (h) preview.season[h] = Object.fromEntries((t.statistics || []).map(x => [x.name, parseFloat(x.displayValue)]));
-  }
-  const LEADER_LABELS = { goalsLeaders: 'Goals', assistsLeaders: 'Assists', totalShots: 'Shots', accuratePasses: 'Accurate passes', saves: 'Saves' };
-  for (const t of s.leaders || []) {
-    const h = teamSide[t.team.id];
-    if (!h) continue;
-    preview.leaders[h] = (t.leaders || []).filter(c => LEADER_LABELS[c.name]).map(c => ({
-      label: LEADER_LABELS[c.name],
-      players: (c.leaders || []).slice(0, 3).map(l => {
-        const m = String(l.displayValue).match(/(?:Goals|Assists): (\d+)/);
-        const p = Object.values(PEOPLE).find(x => x.photo && x.name === l.athlete.displayName);
-        return { name: l.athlete.displayName, pos: ((l.athlete.position || {}).abbreviation || ''), value: m ? +m[1] : parseFloat(l.displayValue) || 0,
-          apps: +((String(l.displayValue).match(/Matches: (\d+)/) || [])[1] || 0), photo: p ? p.photo : null };
-      }),
-    }));
-  }
-  const series = (s.seasonseries || []).find(x => x.type === 'head-to-head');
-  for (const e of (series && series.events) || []) {
-    const c = { };
-    (e.competitors || []).forEach(x => { c[x.homeAway] = x; });
-    if (!c.home || !c.away || (e.statusType && e.statusType.state !== 'post')) continue;
-    const nameOf = x => (teamSide[x.team.id] ? team(teamSide[x.team.id]) : x.team.displayName);
-    preview.h2h.push({ date: (e.date || '').slice(0, 10), home: nameOf(c.home), away: nameOf(c.away), homeLogo: c.home.team.logo, awayLogo: c.away.team.logo,
-      hs: +c.home.score || 0, as: +c.away.score || 0 });
-  }
-
   const match = {
-    id, espn: true, home, away, score, league, form, preview,
+    id, espn: true, home, away, score, league, form,
     date: isoDay(start),
     kickoff: start.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' }),
     competition: league, // Cup phases come as the team's group ("League Phase"); league games carry the season name, which repeats the competition.
@@ -264,96 +234,60 @@ function addEspnMatch(id, code, s) {
   return match;
 }
 
-// A fixture that hasn't kicked off: the usual tabs, filled only with real pre-match
-// information (kickoff, venue, TV, form, season stats, team leaders, head-to-head, table)
-// instead of match stats. It becomes the full match page once the match starts.
+// A fixture that hasn't kicked off uses the same match page as a played match: the same
+// header, key-stats strip, tabs and cards in the same places. Cards that need the match
+// itself say "No data"; real pre-match information fills its usual slot (venue and TV,
+// team form, league table, the fan poll, and the lineups once announced).
 function renderPreview(match, tab = 'Facts') {
   const fav = state.favs.includes(match.id);
   const start = new Date(match.start);
   const listing = typeof tvFeed !== 'undefined' && tvFeed && tvFeed.matches.find(m => `espn-${m.code.replace('.', '_')}-${m.id}` === match.id);
   const channels = (listing && listing.channels) || [];
   const L = LINEUPS[match.id];
-  const pv = match.preview || { season: {}, leaders: {}, h2h: [] };
-  const venue = match.venue;
   const days = Math.round((new Date(isoDay(start)) - new Date(isoDay(new Date()))) / 864e5);
   const when = days === 0 ? 'Today' : days === 1 ? 'Tomorrow' : `In ${days} days`;
-  const table = ESPN_TABLES[match.id] || [];
-  const row = name => table.find(t => t.team === name);
-  const sides = [['home', match.home], ['away', match.away]];
-  const photoOf = p => (p.photo ? `<img class="avatar avatar-sm" src="${/^https?:/.test(p.photo) ? esc(p.photo) : `assets/photos/people/${p.photo}.jpg`}" alt="" loading="lazy">` : `<span class="avatar avatar-sm avatar-fallback">${esc(initials(p.name))}</span>`);
+  const v = matchVenue(match, { venue: match.venue });
   document.title = `${match.home} v ${match.away} | TDsports`;
 
-  const infoCard = `
-    <div class="card preview-info">
-      ${sectionHead('Match info')}
-      <div class="venue-facts">
-        <div><span class="muted">Kickoff</span><b>${start.toLocaleDateString('en', { weekday: 'long', day: 'numeric', month: 'long' })}, ${match.kickoff}</b></div>
-        <div><span class="muted">Competition</span><b>${esc(match.competition)}${match.round ? ` · ${esc(match.round)}` : ''}</b></div>
-        ${venue ? `<div><span class="muted">Venue</span><b>${esc(venue.name)}${venue.city ? ` <small class="muted">${esc(venue.city)}</small>` : ''}</b></div>` : ''}
-        <div><span class="muted">TV (US)</span><b>${channels.length ? channels.map(c => `📺 ${esc(c)}`).join(' · ') : 'Not listed yet'}</b></div>
+  const none = (title, sub = '') => `<div class="card">${sectionHead(title, match, sub)}<p class="no-data">No data</p></div>`;
+  const info = `
+    <div class="card venue-compact">
+      <div class="venue-row">
+        ${v && v.photo ? `<img class="venue-thumb" src="${v.photo}" alt="${esc(v.name)}" loading="lazy">` : ''}
+        <div><h2 class="venue-name">${v ? esc(v.name) : 'Match info'}</h2>${v && v.city ? `<span class="muted">${esc(v.city)}</span>` : ''}</div>
       </div>
-      <p class="muted preview-note">${L ? 'Lineups are in: see the Lineup tab.' : 'Lineups usually appear about an hour before kickoff; this page updates by itself.'}</p>
+      <div class="venue-facts">${[
+        ['Kickoff', `${start.toLocaleDateString('en', { weekday: 'short', day: 'numeric', month: 'short' })}, ${match.kickoff}`],
+        ['Capacity', v && v.capacity ? fmt(v.capacity) : 'No data'],
+        ['Attendance', 'No data'], ['Referee', 'No data'], ['Weather', 'No data'],
+        ['Broadcast', channels.length ? `📺 ${esc(channels.join(', '))}` : 'No data'],
+      ].map(([k, val]) => `<div><span class="muted">${k}</span><b>${val}</b></div>`).join('')}</div>
+      ${v && v.photo ? `<p class="photo-credit">${photoCredit(v.photo)}</p>` : ''}
     </div>`;
-
-  // Head-to-head: the last meetings, with each side's wins and the draws.
-  const wins = name => pv.h2h.filter(g => (g.home === name && g.hs > g.as) || (g.away === name && g.as > g.hs)).length;
-  const draws = pv.h2h.filter(g => g.hs === g.as).length;
-  const h2hCard = `
-    <div class="card">
-      ${sectionHead('Head-to-head', null, pv.h2h.length ? `Last ${pv.h2h.length} meetings` : 'No previous meetings on record')}
-      ${pv.h2h.length ? `
-      <div class="pv-h2h-sum"><div><b>${wins(match.home)}</b><span>${esc(match.home)} wins</span></div><div><b>${draws}</b><span>Draws</span></div><div><b>${wins(match.away)}</b><span>${esc(match.away)} wins</span></div></div>
-      ${pv.h2h.map(g => `
-        <div class="pv-meeting"><span class="muted">${new Date(g.date + 'T12:00').toLocaleDateString('en', { day: 'numeric', month: 'short', year: 'numeric' })}</span>
-          <span class="pv-m-team home">${esc(g.home)} <img class="crest crest-sm" src="${esc(g.homeLogo || '')}" alt=""></span>
-          <b class="pv-m-score">${g.hs} - ${g.as}</b>
-          <span class="pv-m-team"><img class="crest crest-sm" src="${esc(g.awayLogo || '')}" alt=""> ${esc(g.away)}</span></div>`).join('')}` : ''}
-    </div>`;
-
-  // Season comparison from the league table and ESPN's season totals.
-  const cmp = (label, hv, av, higherIsBetter = true, fmt = v => v, bars = true) => {
-    const h = +hv || 0, a = +av || 0, tot = Math.abs(h) + Math.abs(a) || 1;
-    const better = h === a ? '' : (h > a) === higherIsBetter ? 'home' : 'away';
-    return `<div class="pv-cmp"><b class="${better === 'home' ? 'lead' : ''}">${hv == null ? '—' : fmt(hv)}</b><span>${label}</span><b class="${better === 'away' ? 'lead' : ''}">${av == null ? '—' : fmt(av)}</b>
-      ${bars ? `<i class="pv-bar"><i class="h" style="width:${(Math.abs(h) / tot * 100).toFixed(0)}%"></i></i><i class="pv-bar right"><i class="a" style="width:${(Math.abs(a) / tot * 100).toFixed(0)}%"></i></i>` : ''}</div>`;
-  };
-  const [rh, ra] = [row(match.home), row(match.away)];
-  const [sh, sa] = [pv.season.home || {}, pv.season.away || {}];
-  const formPts = h => ((match.form || {})[h] || []).reduce((t, g) => t + (g.res === 'w' ? 3 : g.res === 'd' ? 1 : 0), 0);
-  const seasonCard = `
-    <div class="card">
-      ${sectionHead('Season so far', match, 'This season in this competition')}
-      <div class="pv-cmps">
-        ${rh && ra ? cmp('League position', rh.rank, ra.rank, false, v => v, false) + cmp('Points', rh.pts, ra.pts) + cmp('Played', rh.p, ra.p) + cmp('Won', rh.w, ra.w) + cmp('Drawn', rh.d, ra.d) + cmp('Lost', rh.l, ra.l, false) : ''}
-        ${cmp('Goals scored', sh.totalGoals, sa.totalGoals)}${cmp('Goals conceded', sh.goalsConceded, sa.goalsConceded, false)}
-        ${cmp('Goal difference', sh.goalDifference, sa.goalDifference, true, v => (v > 0 ? '+' : '') + v)}${cmp('Assists', sh.goalAssists, sa.goalAssists)}
-        ${rh && ra && rh.p && ra.p ? cmp('Points per game', (rh.pts / rh.p).toFixed(2), (ra.pts / ra.p).toFixed(2)) : ''}
-        ${cmp('Points, last 5 games', formPts('home'), formPts('away'))}
-      </div>
-    </div>`;
-
-  // Team leaders per category, both teams side by side.
-  const leaderList = h => (pv.leaders[h] || []);
-  const cats = [...new Set([...leaderList('home'), ...leaderList('away')].map(c => c.label))];
-  const leadersCard = (title = 'Players to watch', only = null) => `
-    <div class="card">
-      ${sectionHead(title, match, 'Season leaders for each team')}
-      ${cats.filter(c => !only || only.includes(c)).map(cat => `
-        <div class="pv-cat"><p class="pv-cat-title">${esc(cat)}</p>
-          <div class="pv-cat-cols">${sides.map(([h]) => `<div>${((leaderList(h).find(c => c.label === cat) || {}).players || []).map(p => `
-            <div class="pv-player">${photoOf(p)}<span><b>${esc(p.name)}</b><small class="muted">${esc(p.pos)}${p.apps ? ` · ${p.apps} apps` : ''}</small></span><b class="pv-val">${p.value}</b></div>`).join('') || '<p class="muted small">—</p>'}</div>`).join('')}</div>
-        </div>`).join('') || '<p class="muted preview-note">No season leaders published yet.</p>'}
-    </div>`;
-
-  const notYet = (title, text) => `<div class="card pv-wait">${sectionHead(title)}<p class="pv-wait-big">${when}, ${match.kickoff}</p><p class="muted">${text}</p></div>`;
+  const lineup = L ? cell(pitchCard(match), 'span-2') : cell(none('Lineups', 'Usually announced about an hour before kickoff'), 'span-2');
   const tabs = {
-    Facts: () => dash([stack(infoCard, h2hCard), seasonCard, formCard(match), cell(leadersCard('Players to watch', ['Goals', 'Assists']), 'span-3')]),
-    Stats: () => dash([cell(seasonCard, 'span-2'), h2hCard]),
-    Players: () => dash([cell(leadersCard('Team leaders'), 'span-3')]),
-    Lineup: () => (L ? dash([cell(pitchCard(match), 'span-2'), stack(teamSheetCard(match), infoCard)])
-      : dash([notYet('Lineups', 'Lineups are usually announced about an hour before kickoff. This page checks every minute and shows them as soon as they are out.'), cell(leadersCard('Likely key players', ['Goals', 'Assists']), 'span-2')])),
-    Events: () => dash([notYet('Match events', 'Goals, cards and substitutions will appear here live once the match kicks off.'), cell(h2hCard, 'span-2')]),
-    Table: () => dash([cell(standingsCard(match), 'span-2'), stack(formCard(match), infoCard)]),
+    Facts: () => dash([
+      stack(none('Momentum', 'Attacking pressure across the match · dots mark goals'), info), none('Top stats'), none('Player comparison'),
+      none('xG race', 'Cumulative expected goals; dots mark goals'), none('Shot map', 'Circle size = xG · hover a shot for details'), cell(none('Events'), 'row-2'),
+      none('Attacking'), none('Passing & build-up'),
+      lineup, stack(none('Top performers'), none('Goal replays')),
+      cell(none('Player statistics'), 'span-3'),
+      cell(none('Style of play', 'How each side played, and what comes next'), 'span-2 fit-col'), stack(formCard(match), pollCard(match)),
+      cell(otherMatchesCard(match), 'span-3'),
+    ]),
+    Stats: () => dash([
+      none('Top stats'), none('Attacking'), none('Passing & build-up'),
+      none('Defending'), none('Discipline & set pieces'), none('xG race', 'Cumulative expected goals; dots mark goals'),
+      cell(none('Shot map', 'Circle size = xG · hover a shot for details'), 'span-2'), none('Physical'),
+      cell(none('Style of play', 'How each side played, and what comes next'), 'span-3'),
+    ]),
+    Players: () => dash([
+      none('Player comparison'), none('Top performers'), stack(none('Goalkeeping'), none('Bench impact')),
+      cell(none('Player statistics'), 'span-3'),
+    ]),
+    Lineup: () => dash([lineup, stack(L ? teamSheetCard(match) : none('Team sheets', 'Squad-level view for each side'), none('Top performers'))]),
+    Events: () => dash([cell(none('Events'), 'span-2'), stack(none('xG race', 'Cumulative expected goals; dots mark goals'), info)]),
+    Table: () => dash([cell(standingsCard(match), 'span-2'), stack(formCard(match), otherMatchesCard(match))]),
   };
   app.innerHTML = `
     <div class="detail">
@@ -363,18 +297,23 @@ function renderPreview(match, tab = 'Facts') {
           <span class="competition"><img class="league-logo" src="${(LEAGUES.find(l => l.name === match.league) || LEAGUES[1]).logo}" alt=""> ${esc(match.competition)}${match.round ? ` · ${esc(match.round)}` : ''}</span>
           <button class="follow ${fav ? 'following' : ''}" data-action="fav" data-id="${match.id}" aria-pressed="${fav}">${fav ? 'Following ✓' : 'Follow'}</button>
         </div>
-        <p class="meta">${start.toLocaleDateString('en', { weekday: 'short', month: 'long', day: 'numeric' })}, ${match.kickoff}${venue ? ` · ${esc(venue.name)}` : ''}${channels.length ? ` · 📺 ${esc(channels.join(', '))}` : ''}</p>
+        <p class="meta">${start.toLocaleDateString('en', { weekday: 'short', month: 'long', day: 'numeric' })}, ${match.kickoff}${v ? ` · ${esc(v.name)}` : ''}${channels.length ? ` · 📺 ${esc(channels.join(', '))}` : ''}</p>
         <div class="scoreboard">
           <div class="teamname home">${esc(match.home)} ${crest(match.home, 'lg')}</div>
           <div class="bigscore preview-time">${match.kickoff}<small>${when} · not started</small></div>
           <div class="teamname away">${crest(match.away, 'lg')} ${esc(match.away)}</div>
         </div>
-        <p class="provenance"><span><b>Preview:</b> kickoff, venue, TV, form, season stats, leaders, head-to-head and table are real (ESPN). Match stats appear once it starts.</span></p>
+        <div class="scorers"><span></span><span class="ball">⚽</span><span></span></div>
+        <div class="keystrip">
+          ${['xG', 'Possession', 'Shots', 'Big chances', 'Pass accuracy', 'Field tilt', 'PPDA', 'Distance']
+            .map(k => `<div class="key-item"><span class="muted">${k}</span><b class="muted">No data</b></div>`).join('')}
+        </div>
+        <p class="provenance"><span><b>Real:</b> kickoff, venue, broadcast, team form, league table${L ? ', lineups' : ''}</span><span><b>No data yet:</b> everything else, until the match kicks off</span></p>
         <nav class="tabs" aria-label="Match sections">
           ${TABS.map(t => `<a class="tab ${tab === t ? 'active' : ''}" href="#/match/${match.id}/${t.toLowerCase()}" ${tab === t ? 'aria-current="page"' : ''}>${t}</a>`).join('')}
         </nav>
       </div>
-      <div id="detail-content">${tabs[tab] ? tabs[tab]() : tabs.Facts()}</div>
+      <div id="detail-content">${(tabs[tab] || tabs.Facts)()}</div>
     </div>`;
 }
 
