@@ -360,11 +360,11 @@ function feedRow(e, code) {
   return `
     <div class="match-row feed-row">
       <${href ? `a href="${href}"` : 'div'} class="match">
-        <span class="status">${esc(e.detail === 'FT' || !e.detail ? 'FT' : e.detail)}</span>
+        <span class="status ${e.state === 'in' ? 'live' : ''}">${esc(e.state === 'in' ? e.detail || 'Live' : e.detail === 'FT' || !e.detail ? 'FT' : e.detail)}</span>
         <span class="team home">${esc(e.home.name)}</span>${logo(e.home)}
         <span class="score">${esc(e.home.score)} - ${esc(e.away.score)}</span>
         ${logo(e.away)}<span class="team away">${esc(e.away.name)}</span>
-        <span class="tv-tag">ESPN</span>
+        ${e.state === 'in' ? '<span class="live-tag"><span class="live-pulse"></span>Live</span>' : '<span class="tv-tag">ESPN</span>'}
       </${href ? 'a' : 'div'}>
     </div>`;
 }
