@@ -72,11 +72,12 @@ function renderTv() {
           ${days.map(d => `<button role="tab" class="tv-day ${d === day ? 'on' : ''}" aria-selected="${d === day}" data-action="tv-day" data-value="${d}">
             <b>${label(d)}</b><span>${new Date(d + 'T12:00').toLocaleDateString('en', { day: 'numeric', month: 'short' })}</span><small>${(n => `${n} ${n === 1 ? 'match' : 'matches'}`)(tvFeed.matches.filter(m => tvDayOf(m) === d).length)}</small></button>`).join('')}
         </div>
-        <div class="news-chips" role="group" aria-label="Filter by competition">
-          ${chip('tv-league', '', 'All competitions', !state.tvLeague)}${leaguesToday.map(([l, n]) => chip('tv-league', l, `${l} · ${n}`, state.tvLeague === l, leagueLogo(l))).join('')}
-        </div>
-        <div class="news-chips" role="group" aria-label="Filter by channel">
-          ${chip('tv-channel', '', 'All channels', !state.tvChannel)}${channelsToday.map(([c]) => chip('tv-channel', c, c, state.tvChannel === c)).join('')}
+        <div class="news-chips tv-filters">
+          <span class="tv-filter-label">Competition</span>
+          <span class="tv-filter-group" role="group" aria-label="Filter by competition">${chip('tv-league', '', 'All', !state.tvLeague)}${leaguesToday.map(([l, n]) => chip('tv-league', l, `${l} · ${n}`, state.tvLeague === l, leagueLogo(l))).join('')}</span>
+          <span class="tv-filter-sep" aria-hidden="true"></span>
+          <span class="tv-filter-label">Channel</span>
+          <span class="tv-filter-group" role="group" aria-label="Filter by channel">${chip('tv-channel', '', 'All', !state.tvChannel)}${channelsToday.map(([c]) => chip('tv-channel', c, c, state.tvChannel === c)).join('')}</span>
         </div>
       </div>
       <div class="news-layout">

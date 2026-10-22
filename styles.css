@@ -1118,7 +1118,8 @@ a.news-trend { grid-template-columns: 22px 1fr auto; }
 .ad-group-title { font-size: 14px; font-weight: 700; margin: 16px 10px 6px; }
 .ad-link { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 7px 10px 7px 20px; border-radius: 6px; font-size: 13px; color: var(--text); text-decoration: none; }
 .ad-link:hover { background: var(--hover); }
-.ad-link.on { background: var(--accent-soft); color: var(--accent-text); font-weight: 600; }
+.ad-link.on { background: var(--accent); color: #fff; font-weight: 700; }
+.ad-link.on .ad-get { background: #fff; color: var(--accent); }
 .ad-get { font: 800 10px/1 ui-monospace, monospace; letter-spacing: .04em; color: #fff; background: #12985f; padding: 4px 7px; border-radius: 10px; }
 .ad-get.big { font-size: 12px; padding: 4px 9px; border-radius: 6px; }
 .ad-main { padding: 28px 40px 48px; max-width: 720px; width: 100%; justify-self: center; }
@@ -1214,7 +1215,9 @@ a.news-trend { grid-template-columns: 22px 1fr auto; }
 .news-counts b { color: var(--text); font-weight: 700; font-variant-numeric: tabular-nums; }
 .news-counts:empty { display: none; }
 .news-title-row { padding-right: 150px; }
-.chip-x { margin-left: 6px; font-size: 10px; opacity: .7; }
+.chip-x { margin-left: 6px; font-size: 10px; opacity: .8; }
+.news-page .pill.selected { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 700; border-radius: 8px; }
+.news-page .pill.selected:hover { filter: brightness(1.06); }
 .pill.selected:hover .chip-x { opacity: 1; }
 .news-active { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 10px; padding-top: 12px; border-top: 1px solid var(--border); font-size: 13px; }
 .news-active .pill { display: inline-flex; align-items: center; gap: 6px; }
@@ -1222,14 +1225,18 @@ a.news-trend { grid-template-columns: 22px 1fr auto; }
 .news-clear { font-size: 13px; margin-left: 4px; }
 
 /* ---------- TV schedules ---------- */
-.tv-days { display: flex; gap: 8px; overflow-x: auto; padding: 2px 0 10px; scrollbar-width: none; }
+.tv-days { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(96px, 1fr); gap: 8px; overflow-x: auto; padding: 2px 0 12px; scrollbar-width: none; }
 .tv-days::-webkit-scrollbar { display: none; }
-.tv-day { display: grid; gap: 2px; min-width: 104px; padding: 10px 14px; border: 1px solid var(--border); border-radius: 12px; text-align: left; flex-shrink: 0; }
+.tv-day { display: grid; gap: 2px; padding: 10px 14px; border: 1px solid var(--border); border-radius: 8px; text-align: left; }
 .tv-day span { font-size: 13px; color: var(--muted); }
 .tv-day small { font-size: 11px; color: var(--muted); }
 .tv-day:hover { background: var(--hover); }
-.tv-day.on { background: var(--accent-soft); border-color: color-mix(in srgb, var(--accent) 40%, transparent); }
-.tv-day.on b, .tv-day.on span { color: var(--accent-text); }
+.tv-day.on { background: var(--accent); border-color: var(--accent); }
+.tv-day.on b, .tv-day.on span, .tv-day.on small { color: #fff; }
+.tv-filters { align-items: center; gap: 8px; }
+.tv-filter-group { display: flex; gap: 8px; flex-shrink: 0; }
+.tv-filter-label { font-size: 12px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; flex-shrink: 0; }
+.tv-filter-sep { width: 1px; align-self: stretch; background: var(--border); margin: 0 8px; flex-shrink: 0; }
 .tv-slot { display: grid; grid-template-columns: 84px minmax(0, 1fr); margin-bottom: 16px; overflow: hidden; }
 .tv-time { padding: 18px 0 0 20px; font-size: 20px; font-weight: 800; font-variant-numeric: tabular-nums; }
 .tv-rows { border-left: 1px solid var(--border); }
