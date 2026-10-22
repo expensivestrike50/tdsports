@@ -33,7 +33,7 @@ const state = {
 
 // View choices that should survive a page reload (tabs, team, day, league), kept for the
 // browser session only.
-const SESSION_KEYS = ['league', 'day', 'styleTab', 'styleTeam', 'heatScope', 'shapePhase', 'apiLang'];
+const SESSION_KEYS = ['league', 'day', 'styleTab', 'styleTeam', 'heatScope', 'shapePhase', 'apiLang', 'newsLeague', 'newsSource'];
 try { Object.assign(state, JSON.parse(sessionStorage.getItem('tdsports-view')) || {}); } catch { /* storage unavailable */ }
 function saveView() {
   try { sessionStorage.setItem('tdsports-view', JSON.stringify(Object.fromEntries(SESSION_KEYS.map(k => [k, state[k]])))); } catch { /* storage unavailable */ }
@@ -584,6 +584,7 @@ function newsColumn() {
     <aside class="rightnews" id="news" aria-label="News">
       <div class="card">
         <h2 class="card-title">News</h2>
+        <div class="news-items">${homeNewsItems() || `
         <button class="news-lead" data-action="news" data-index="0">
           <img src="${lead.photo}" alt="${esc(lead.alt)}" loading="lazy">
           <span class="news-title">${esc(lead.title)}</span>
@@ -593,7 +594,7 @@ function newsColumn() {
           <button class="news-item" data-action="news" data-index="${i + 1}">
             <img src="${n.photo}" alt="${esc(n.alt)}" loading="lazy">
             <span><b>${esc(n.title)}</b><span class="muted">TDsports · ${n.hoursAgo} hr. ago</span></span>
-          </button>`).join('')}
+          </button>`).join('')}`}</div>
       </div>
       ${topPerformersHome()}
       ${comingUpCard()}
@@ -1823,12 +1824,12 @@ const actions = {
   player(el) { hideSearch(); playerModal(el.dataset.id, el.dataset.match); },
   coach(el) { hideSearch(); coachModal(el.dataset.id); },
   news(el) { newsModal(Number(el.dataset.index)); },
-  'news-nav'() {
-    const col = $('#news');
-    if (col && col.offsetParent) { col.scrollIntoView({ behavior: 'smooth' }); return; }
-    info('News', NEWS.map((n, i) => `
-      <button class="news-item" data-action="news" data-index="${i}"><img src="${n.photo}" alt="${esc(n.alt)}"><span><b>${esc(n.title)}</b><span class="muted">TDsports · ${n.hoursAgo} hr. ago</span></span></button>`).join(''));
-  },
+  'news-nav'() { location.hash = '#/news'; },
+  'news-league'(el) { state.newsLeague = el.dataset.value; newsShown = NEWS_PAGE; render(); },
+  'news-source'(el) { state.newsSource = el.dataset.value; newsShown = NEWS_PAGE; render(); },
+  'news-club'(el) { state.newsClub = el.dataset.club; newsShown = NEWS_PAGE; if (route().view === 'news') { render(); window.scrollTo({ top: 0, behavior: 'smooth' }); } else location.hash = '#/news'; },
+  'news-more'() { newsShown += NEWS_PAGE; render(); },
+  'news-reset'() { Object.assign(state, { newsLeague: '', newsSource: '', newsClub: '', newsQuery: '' }); newsShown = NEWS_PAGE; render(); },
   about() {
     info('About TDsports', '<p>Your matchday companion for scores, lineups and player performance.</p><p class="muted">This preview uses illustrative match data: scores, ratings, events and standings are samples, not real results.</p>');
   },
@@ -1879,6 +1880,16 @@ document.addEventListener('click', e => {
 });
 
 app.addEventListener('input', e => {
+  if (e.target.id === 'news-search') {
+    state.newsQuery = e.target.value;
+    newsShown = NEWS_PAGE;
+    const pos = e.target.selectionStart;
+    render();
+    const input = $('#news-search');
+    input.focus();
+    input.setSelectionRange(pos, pos);
+    return;
+  }
   if (e.target.id !== 'filter') return;
   state.query = e.target.value;
   const pos = e.target.selectionStart;
@@ -1922,6 +1933,7 @@ function route() {
   if (legacy) { location.replace(`#/match/${(MATCHES[legacy[1]] || MATCHES[0]).id}`); return null; }
   const m = hash.match(/^#\/match\/([\w-]+)(?:\/(\w+))?/);
   if (hash === '#/api') return { view: 'api' };
+  if (hash === '#/news') return { view: 'news' };
   if (!m) return { view: 'home' };
   const tab = TABS.find(t => t.toLowerCase() === (m[2] || 'facts')) || 'Facts';
   return { view: 'match', id: m[1], tab };
@@ -1933,6 +1945,7 @@ function render() {
   if (!r) return;
   if (r.view === 'home') renderHome();
   else if (r.view === 'api') renderApi();
+  else if (r.view === 'news') renderNews();
   else renderMatch(r.id, r.tab);
   mountReplay();
   fitStyleRows();

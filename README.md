@@ -92,6 +92,7 @@ The API files are static JSON in `api/v1/`, built from the app's data. Rebuild t
 | `style.js` | Style of play: style classifier, next-match style and lineup prediction, coach and key-player views |
 | `match-data.js` | Generated real match data for the other 12 fixtures (built by `tools/build-match-data.py` from `research/agent-*.json`) |
 | `app.js` | Rendering, routing, search, modals and interactions |
+| `news.js` | The News page and the home page's news card |
 | `espn-match.js` | Builds match pages for live scores and results from ESPN's match summary |
 | `api-docs.js` | The API documentation page (`#/api`) with the live "Try it" console |
 | `api/v1/` | Generated API files (built by `tools/build-api.js`) |
@@ -102,6 +103,7 @@ The API files are static JSON in `api/v1/`, built from the app's data. Rebuild t
 
 ## Features
 
+- **News:** the News page (`#/news`) aggregates football headlines from BBC Sport, The Guardian, Sky Sports, The Athletic, ESPN, FourFourTwo, talkSPORT, the Mirror, CBS Sports, Football Italia and football.london, with filters by competition, source and club, search, and trending clubs. Each story links to the publisher. `tools/fetch-news.py` builds `news.json`; Agent Tom refreshes it every 10 minutes locally, and the "Refresh news" GitHub Action refreshes the hosted copy every 30 minutes on the `news-data` branch (the app uses whichever is newer).
 - **Live and recent ESPN matches:** every row in "Live now" and "Earlier results" opens a full match page. Researched matches open their own page; any other match is built in the browser from ESPN's public match summary (lineups, formations, goals, cards, substitutions, team stats, venue and the real league table) by `espn-match.js`, and live ones refresh every minute. Ratings and detailed player stats there are sample values.
 - **Routing:** each match and tab has its own URL (`#/match/lille-galatasaray/lineup`), so the browser's Back button and bookmarks work.
 - **Full-width match dashboard:** sections sit in a 3-column grid (2 columns on laptops, 1 on phones). Tabs: Facts, Stats, Players, Lineup, Events, Table.

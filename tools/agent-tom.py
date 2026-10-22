@@ -8,8 +8,9 @@ Every 30 seconds Tom:
   2. Checks the app (localhost:8000) and the workstation (localhost:8781) respond.
   3. Re-stamps the script and stylesheet links in index.html (tools/stamp-assets.py), so
      edited files get a new ?v= hash and browsers load the new version.
-Every 10 minutes Tom also audits the scouts' research files: valid JSON, 11 players per
-lineup, and goals that add up to the final score.
+Every 10 minutes Tom also audits the scouts' research files (valid JSON, 11 players per
+lineup, goals that add up to the final score) and refreshes news.json, the aggregated
+football news (tools/fetch-news.py).
 Results: Tom keeps results.json with finished matches from the last 21 days for every
 league. ESPN only serves one day per request, so finished days are cached and fetched
 once (a few per cycle until the backlog is filled); today and yesterday are refreshed.
@@ -23,6 +24,7 @@ import subprocess
 import sys
 import json
 import os
+import re
 import time
 import urllib.request
 
@@ -172,6 +174,7 @@ def audit():
 def main():
     note('Agent Tom on duty: live feed every 30s, audits every 10 min')
     last_audit, audit_result = 0, (0, [])
+    last_news, news_count = 0, 0
     results_cache, last_results, result_count = load_results_cache(), 0, 0
     cycles = 0
     while True:
@@ -196,6 +199,13 @@ def main():
             last_results = time.time()
             note(f'Results: {result_count} finished matches over {RESULT_DAYS} days ({fetched} day files fetched)')
 
+        if time.time() - last_news > AUDIT_EVERY:
+            run = subprocess.run([sys.executable, os.path.join(ROOT, 'tools', 'fetch-news.py')], capture_output=True, text=True, timeout=300)
+            last_news = time.time()
+            m = re.search(r'(\d+) articles from (\d+) sources', run.stdout)
+            news_count = int(m.group(1)) if m else 0
+            note(f'News: {m.group(0)}' if m else 'News refresh failed')
+
         # Keep the ?v= hashes in index.html current, so browsers never run stale scripts.
         subprocess.run([sys.executable, os.path.join(ROOT, 'tools', 'stamp-assets.py')], capture_output=True)
 
@@ -206,6 +216,7 @@ def main():
             {'name': 'Live feed', 'ok': bool(leagues) and not errors, 'detail': f'{live_n} live · {total_n} fixtures'},
             {'name': 'App :8000', 'ok': app_ok, 'detail': 'responding' if app_ok else 'down'},
             {'name': 'Workstation :8781', 'ok': ws_ok, 'detail': 'responding' if ws_ok else 'down'},
+            {'name': 'News', 'ok': news_count > 0, 'detail': f'{news_count} articles'},
             {'name': 'Results', 'ok': result_count > 0, 'detail': f'{result_count} finished · last {RESULT_DAYS} days'},
             {'name': 'Research audit', 'ok': not audit_result[1], 'detail': f'{audit_result[0]} matches · {len(audit_result[1])} problems'},
         ]
