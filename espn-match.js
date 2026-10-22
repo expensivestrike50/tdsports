@@ -270,7 +270,17 @@ function renderPreview(match, tab = 'Facts') {
   const P = match.prediction && PREDICTED[match.prediction.id];
   const pred = (fn, title, sub) => (P ? fn(P).replace('<h2 class="card-title">', '<h2 class="card-title"><span class="pred-tag">Prediction</span>')
     .split(`#/match/${P.id}`).join(`#/match/${match.id}`) : none(title, sub));
-  const predLineup = P ? `<div class="pred-lineup"><span class="pred-tag pred-float">Predicted lineup · each side's last XI</span>${pred(pitchCard)}</div>` : null;
+  const PS = P && LINEUPS[P.id].possibleSubs;
+  const subsCard = () => (PS && (PS.home.length || PS.away.length) ? `
+    <div class="card">
+      ${sectionHead('<span class="pred-tag">Prediction</span>Possible substitutions', match, "Changes each side made in its last match, at the same minutes")}
+      <div class="two ps-cols">${['home', 'away'].map(h => `<div>${PS[h].map(x => `
+        <button class="ps-row" data-action="player" data-id="${x.on}" data-match="${P.id}">
+          <span class="ps-min">~${x.min}′</span>${avatar(x.on, 'sm')}
+          <span><b>${esc(PEOPLE[x.on].name)}</b><small class="muted block">⇄ for ${esc(PEOPLE[x.off].short)}</small></span>
+        </button>`).join('') || '<p class="muted ps-none">No changes last match</p>'}</div>`).join('')}</div>
+    </div>` : none('Possible substitutions'));
+  const predLineup = P ? `<div class="pred-lineup"><span class="pred-tag pred-float">Predicted lineup · each side's last XI</span>${pred(pitchCard).replace('<h3 class="card-title center">Substitutes</h3>', '<h3 class="card-title center">Possible substitutes <span class="muted">· minute they came on last match</span></h3>')}</div>` : null;
   const info = `
     <div class="card venue-compact">
       <div class="venue-row">
@@ -303,10 +313,10 @@ function renderPreview(match, tab = 'Facts') {
       cell(pred(styleCard, 'Style of play', 'How each side played, and what comes next'), 'span-3'),
     ]),
     Players: () => dash([
-      pred(compareCard, 'Player comparison'), none('Top performers'), stack(none('Goalkeeping'), none('Bench impact')),
+      pred(compareCard, 'Player comparison'), none('Top performers'), stack(none('Goalkeeping'), P ? subsCard() : none('Bench impact')),
       cell(none('Player statistics'), 'span-3'),
     ]),
-    Lineup: () => dash([lineup, stack(L ? teamSheetCard(match) : none('Team sheets', 'Squad-level view for each side'), none('Top performers'))]),
+    Lineup: () => dash([lineup, stack(L ? teamSheetCard(match) : P ? subsCard() : none('Team sheets', 'Squad-level view for each side'), none('Top performers'))]),
     Events: () => dash([cell(none('Events'), 'span-2'), stack(pred(xgRaceCard, 'xG race', 'Cumulative expected goals; dots mark goals'), info)]),
     Table: () => dash([cell(standingsCard(match), 'span-2'), stack(formCard(match), otherMatchesCard(match))]),
   };
@@ -377,7 +387,7 @@ async function predictFixture(match) {
   const summaries = await Promise.all(['home', 'away'].map(h => (match.lastGames[h]
     ? fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=${match.lastGames[h]}`).then(r => (r.ok ? r.json() : null)).catch(() => null)
     : null)));
-  const xi = { home: [], away: [] }, formations = ['', ''];
+  const xi = { home: [], away: [] }, formations = ['', ''], bench = { home: [], away: [] }, subs = { home: [], away: [] };
   const seeded = key => { let h = 2166136261; for (const ch of key) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return (h >>> 0) / 4294967295; };
   ['home', 'away'].forEach((h, i) => {
     const sum = summaries[i];
@@ -391,6 +401,17 @@ async function predictFixture(match) {
       const rating = Math.round((6.4 + seeded(pid + match.id) * 1.0) * 10) / 10;
       xi[h].push(h === 'home' ? [pid, px, py, rating] : [pid, 100 - px, 100 - py, rating]);
     }
+    // Possible substitutions: the changes this side made in that match, at the same minutes,
+    // and the rest of that bench.
+    for (const ev of sum.keyEvents || []) {
+      if (ev.type.type !== 'substitution' || !ev.team || ev.team.id !== match.teamIds[h]) continue;
+      const [on, off] = (ev.participants || []).map(x => x.athlete);
+      if (!on || !off) continue;
+      const offId = espnPerson(off, 'CM'), onId = espnPerson(on, PEOPLE['espn-' + off.id].pos);
+      if (xi[h].some(p => p[0] === offId) && !subs[h].some(s2 => s2.on === onId)) subs[h].push({ min: minuteOf(ev), on: onId, off: offId });
+    }
+    bench[h] = r.roster.filter(p => !p.starter).map(p => espnPerson(p.athlete, espnPosition(p.position && p.position.abbreviation).pos === 'GK' ? 'GK' : 'CM'))
+      .filter(pid => !subs[h].some(s2 => s2.on === pid));
   });
   if (!xi.home.length || !xi.away.length) return;
 
@@ -402,8 +423,11 @@ async function predictFixture(match) {
   };
   PREDICTED[pm.id] = pm;
   LINEUPS[pm.id] = {
-    predicted: true, formations, coaches: match.coachIds, home: xi.home, away: xi.away, homeSubs: [], awaySubs: [],
-    events: [], goalShots: {}, goalInfo: {}, researched: true,
+    predicted: true, formations, coaches: match.coachIds, home: xi.home, away: xi.away,
+    homeSubs: [...subs.home.map(x => [x.on, 6.5]), ...bench.home.map(pid => [pid])],
+    awaySubs: [...subs.away.map(x => [x.on, 6.5]), ...bench.away.map(pid => [pid])],
+    events: ['home', 'away'].flatMap(h => subs[h].map(x => [x.min, 'sub', h, x.on, x.off])).sort((a, b) => a[0] - b[0]),
+    possibleSubs: subs, goalShots: {}, goalInfo: {}, researched: true,
     stats: { xg: [+lh.toFixed(2), +la.toFixed(2)], shots, onTarget: shots.map(x => Math.round(x * 0.36)), possession: poss,
       corners: shots.map(x => Math.round(x * 0.42)), fouls: [11, 11], bigChances: [lh, la].map(l => Math.max(1, Math.round(l * 1.3))) },
   };
