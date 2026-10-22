@@ -87,8 +87,8 @@ function renderNews() {
   const list = filteredNews();
   const filtered = state.newsSource || state.newsLeague || state.newsClub || state.newsQuery;
   const [lead, ...rest] = list;
-  const side = filtered ? [] : rest.slice(0, 4);
-  const grid = (filtered ? rest : rest.slice(4)).slice(0, newsShown);
+  const side = filtered ? [] : rest.slice(0, 6);
+  const grid = (filtered ? rest : rest.slice(6)).slice(0, newsShown);
   const sources = newsFeed.sources.map(s => ({ ...s, n: newsFeed.articles.filter(a => a.source === s.name).length })).filter(s => s.n);
   const clubCount = {};
   newsFeed.articles.forEach(a => a.clubs.forEach(c => { clubCount[c] = (clubCount[c] || 0) + 1; }));
@@ -138,7 +138,7 @@ function renderNews() {
               </a>`).join('')}</div>` : ''}
           </div>
           <div class="news-grid">${grid.map(newsCard).join('')}</div>
-          ${grid.length < (filtered ? rest.length : rest.length - 4) ? `<button class="pill news-more" data-action="news-more">Load more stories</button>` : ''}`}
+          ${grid.length < (filtered ? rest.length : rest.length - 6) ? `<button class="pill news-more" data-action="news-more">Load more stories</button>` : ''}`}
         </section>
         <aside class="news-aside">
           <div class="card">

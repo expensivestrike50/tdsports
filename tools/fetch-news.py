@@ -95,8 +95,12 @@ def get(url):
 
 
 def clean(text, limit=240):
-    text = html.unescape(re.sub(r'<[^>]+>', ' ', text or ''))
+    # Some feeds escape their HTML twice, so unescape and strip tags in two passes.
+    for _ in range(2):
+        text = re.sub(r'<[^>]+>', ' ', html.unescape(text or ''))
     text = re.sub(r'\s+', ' ', text).strip()
+    if text.lower() in ('null', 'none', 'undefined'):
+        return ''
     if len(text) > limit:
         text = text[:limit].rsplit(' ', 1)[0].rstrip(',.;:') + '…'
     return text
