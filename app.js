@@ -1186,7 +1186,7 @@ const TABLE_VIEWS = {
   Defending: ['minutes', 'tackles', 'interceptions', 'clearances', 'blocks', 'recoveries', 'duelsWon', 'aerialsWon', 'fouls'],
   Physical: ['minutes', 'distance', 'sprints', 'hiRuns', 'topSpeed'],
   Goalkeeping: ['minutes', 'saves', 'goalsConceded', 'xgotFaced', 'goalsPrevented', 'passesAcc', 'longAcc'],
-  Value: ['minutes', 'marketValue', 'transferValue', 'value1y', 'value3y', 'value5y', 'age'],
+  Value: ['minutes', 'marketValue', 'transferValue', 'value1y', 'value3y', 'value5y', 'age', 'minutesShare', 'consistency'],
 };
 // [header, full label, decimals, per-90 eligible, ratio denominator key]
 const COLUMNS = {
@@ -1209,6 +1209,7 @@ const COLUMNS = {
   marketValue: ['Value', 'Market value (Transfermarkt)', 0, false], transferValue: ['Transfer', 'Predicted transfer value', 0, false],
   value1y: ['+1 yr', 'Predicted value in 1 year', 0, false], value3y: ['+3 yrs', 'Predicted value in 3 years', 0, false],
   value5y: ['+5 yrs', 'Predicted value in 5 years', 0, false], age: ['Age', 'Age', 0, false],
+  minutesShare: ['Min %', "Share of the club's minutes, last 12 months", 0, false], consistency: ['Cons', 'Consistency: quarters of the year as a regular (of 4)', 0, false],
 };
 
 function tableValue(p, key, per90) {
@@ -1240,7 +1241,7 @@ function playersTableCard(match) {
     const [, , dec, , denom] = COLUMNS[key];
     const v = tableValue(p, key, t.per90);
     if (key === 'rating') return `<span class="badge ${ratingClass(v)}">${v.toFixed(1)}</span>`;
-    if (MARKET_COLUMNS[key]) return key === 'age' ? (v || '–') : v ? euro(v) : '–';
+    if (MARKET_COLUMNS[key]) return key === 'age' ? (v || '–') : key === 'minutesShare' ? (v ? `${v}%` : '–') : key === 'consistency' ? `${v}/4` : v ? euro(v) : '–';
     const shown = t.per90 && COLUMNS[key][3] ? v.toFixed(Math.max(dec, 1)) : v.toFixed(dec);
     return denom && !t.per90 ? `${shown}<small class="muted">/${p[denom]}</small>` : key === 'passPct' ? `${shown}%` : shown;
   };

@@ -37,6 +37,7 @@ function marketSection(personId) {
         <div><span class="muted">Age · contract</span><b>${ageOn(m.dob)}</b><small class="muted">${m.until ? `until ${new Date(m.until).toLocaleDateString('en', { month: 'short', year: 'numeric' })}` : 'contract unknown'}</small></div>
         <div><span class="muted">Career peak</span><b>${euro(m.peak)}</b><small class="muted">${esc(m.club || '')}</small></div>
       </div>
+      ${formRow(m.form)}
       <h3 class="modal-h"><span class="pred-tag">Prediction</span>Market value, next 5 years <span class="muted">${change >= 0 ? '+' : ''}${Math.round(change * 100)}% by ${year + 5}</span></h3>
       <svg class="mv-chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="Predicted market value for the next five years">
         <polygon points="${band}" class="mv-band"/>
@@ -45,12 +46,31 @@ function marketSection(personId) {
           <text x="${x(i)}" y="${y(v) - 10}" text-anchor="${i === 0 ? 'start' : i === 5 ? 'end' : 'middle'}" class="mv-val">${euro(v)}</text>
           <text x="${x(i)}" y="${H - 6}" text-anchor="${i === 0 ? 'start' : i === 5 ? 'end' : 'middle'}" class="mv-yr">${i ? year + i : 'Now'}</text>`).join('')}
       </svg>
-      <p class="muted mv-note">Market value from Transfermarkt. Predictions come from TDsports models trained on ${(MARKET_MODEL.horizons[1].samples / 1000).toFixed(0)}k real valuation changes (age, position, value level, recent trend) and ${MARKET_MODEL.transferFees.toLocaleString()} real transfer fees, adjusted for contract length; shaded = likely range. Over five years the model's error is ${Math.round((1 - MARKET_MODEL.horizons[5].mae_model / MARKET_MODEL.horizons[5].mae_no_change) * 100)}% lower than assuming no change.</p>
+      <p class="muted mv-note">Market value and appearances from Transfermarkt. Predictions come from TDsports models trained on ${(MARKET_MODEL.horizons[1].samples / 1000).toFixed(0)}k real valuation changes (age, position, value level, recent trend, and performance and consistency over the previous 12 months) and ${MARKET_MODEL.transferFees.toLocaleString()} real transfer fees, adjusted for contract length; shaded = likely range. Over five years the model's error is ${Math.round((1 - MARKET_MODEL.horizons[5].mae_model / MARKET_MODEL.horizons[5].mae_no_change) * 100)}% lower than assuming no change.</p>
+    </div>`;
+}
+
+// Performance and consistency over the 12 months before the data's last match (the inputs
+// the predictions use). Consistency: in how many quarters of the year he played at least
+// half of his club's minutes.
+function formRow(f) {
+  if (!f) return '<p class="muted mv-form-none">No appearance data for his league, so the prediction uses value, age and trend only.</p>';
+  const level = f.cons >= 0.75 ? ['High', 'hi'] : f.cons >= 0.5 ? ['Medium', 'mid'] : ['Low', 'lo'];
+  const to = new Date(f.to);
+  return `
+    <h3 class="modal-h">Form &amp; consistency <span class="muted">12 months to ${to.toLocaleDateString('en', { month: 'short', year: 'numeric' })} · used in the prediction</span></h3>
+    <div class="mv-form">
+      <div><b>${f.apps}</b><span>appearances <small class="muted">of ${f.games} club games</small></span></div>
+      <div><b>${Math.round(f.share * 100)}%</b><span>of minutes played</span></div>
+      <div><b>${Math.round(f.starts * 100)}%</b><span>games played 60+ min</span></div>
+      <div><b>${f.ga90.toFixed(2)}</b><span>goals + assists per 90 <small class="muted">(${f.ga} in total)</small></span></div>
+      <div><b class="mv-cons ${level[1]}">${level[0]}</b><span>consistency <small class="muted">a regular in ${Math.round(f.cons * 4)} of 4 quarters</small></span></div>
     </div>`;
 }
 
 // Columns for the player statistics table's "Value" view.
 const MARKET_COLUMNS = {
   marketValue: m => m.v, transferValue: m => m.tv[1], value1y: m => m.p[0], value3y: m => m.p[2], value5y: m => m.p[4], age: m => ageOn(m.dob),
+  minutesShare: m => (m.form ? Math.round(m.form.share * 100) : 0), consistency: m => (m.form ? Math.round(m.form.cons * 4) : 0),
 };
 const marketCell = (personId, key) => { const m = marketOf(personId); return m ? MARKET_COLUMNS[key](m) : 0; };
