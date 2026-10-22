@@ -93,7 +93,7 @@ The API files are static JSON in `api/v1/`, built from the app's data. Rebuild t
 | `match-data.js` | Generated real match data for the other 12 fixtures (built by `tools/build-match-data.py` from `research/agent-*.json`) |
 | `app.js` | Rendering, routing, search, modals and interactions |
 | `news.js` | The News page and the home page's news card |
-| `pages.js` | The TV schedules and About pages |
+| `pages.js` | The TV schedules page |
 | `espn-match.js` | Builds match pages for live scores and results from ESPN's match summary |
 | `api-docs.js` | The API documentation page (`#/api`) with the live "Try it" console |
 | `api/v1/` | Generated API files (built by `tools/build-api.js`) |
@@ -106,7 +106,6 @@ The API files are static JSON in `api/v1/`, built from the app's data. Rebuild t
 
 - **News:** the News page (`#/news`) aggregates football headlines from BBC Sport, The Guardian, Sky Sports, The Athletic, ESPN, FourFourTwo, talkSPORT, the Mirror, CBS Sports, Football Italia and football.london, with filters by competition, source and club, search, and trending clubs. Each story links to the publisher. `tools/fetch-news.py` builds `news.json`; Agent Tom refreshes it every 10 minutes locally, and the "Refresh feeds" GitHub Action refreshes the hosted copy every 30 minutes on the `news-data` branch (the app uses whichever is newer).
 - **TV schedules:** `#/tv` lists this week's fixtures by day and kickoff time with the channels showing them (ESPN's US listings), filterable by competition and channel. `tools/fetch-tv.py` builds `tv.json`, refreshed with the news.
-- **About:** `#/about` explains what TDsports offers, where the data comes from and what's real or estimated.
 - **News counters:** the News page shows total page visits and stories read, counted on the hosted site with a free public counter (abacus.jasoncameron.dev); only a "+1" is sent.
 - **Live and recent ESPN matches:** every row in "Live now" and "Earlier results" opens a full match page. Researched matches open their own page; any other match is built in the browser from ESPN's public match summary (lineups, formations, goals, cards, substitutions, team stats, venue and the real league table) by `espn-match.js`, and live ones refresh every minute. Ratings and detailed player stats there are sample values.
 - **Routing:** each match and tab has its own URL (`#/match/lille-galatasaray/lineup`), so the browser's Back button and bookmarks work.

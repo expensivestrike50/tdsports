@@ -1831,7 +1831,6 @@ const actions = {
   'news-query-clear'() { state.newsQuery = ''; newsShown = NEWS_PAGE; render(); },
   'news-more'() { newsShown += NEWS_PAGE; render(); },
   'news-reset'() { Object.assign(state, { newsLeague: '', newsSource: '', newsClub: '', newsQuery: '' }); newsShown = NEWS_PAGE; render(); },
-  about() { location.hash = '#/about'; },
   tv() { location.hash = '#/tv'; },
   'tv-day'(el) { state.tvDay = el.dataset.value; render(); },
   'tv-league'(el) { state.tvLeague = state.tvLeague === el.dataset.value ? '' : el.dataset.value; render(); },
@@ -1950,7 +1949,6 @@ function route() {
   if (api) return { view: 'api', page: api[1] || '' };
   if (hash === '#/news') return { view: 'news' };
   if (hash === '#/tv') return { view: 'tv' };
-  if (hash === '#/about') return { view: 'about' };
   if (!m) return { view: 'home' };
   const tab = TABS.find(t => t.toLowerCase() === (m[2] || 'facts')) || 'Facts';
   return { view: 'match', id: m[1], tab };
@@ -1964,7 +1962,6 @@ function render() {
   else if (r.view === 'api') renderApi(r.page);
   else if (r.view === 'news') renderNews();
   else if (r.view === 'tv') renderTv();
-  else if (r.view === 'about') renderAbout();
   else renderMatch(r.id, r.tab);
   mountReplay();
   fitStyleRows();

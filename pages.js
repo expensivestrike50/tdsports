@@ -1,4 +1,4 @@
-// TV schedules (#/tv) and About (#/about).
+// TV schedules (#/tv).
 // tv.json is built by tools/fetch-tv.py (Agent Tom locally; the "Refresh feeds" GitHub
 // Action for the hosted site, on the news-data branch). The app uses whichever copy is
 // newer, and falls back to ESPN's scoreboard for today and tomorrow if neither loads.
@@ -110,68 +110,6 @@ function renderTv() {
           </div>
         </aside>
       </div>
-    </div>`;
-}
-
-function renderAbout() {
-  document.title = 'About | TDsports';
-  const people = Object.keys(PEOPLE).length;
-  const withPhoto = Object.values(PEOPLE).filter(p => p.photo).length;
-  const features = [
-    ['⚽', 'Live scores', 'Every match in play across the top competitions, refreshed every 30 seconds.', '#/'],
-    ['📊', 'Match analytics', 'Momentum, xG race, shot maps, passing networks and style of play for every match.', `#/match/${MATCHES[0].id}/stats`],
-    ['👥', 'Lineups and players', 'Formations, ratings and per-player stats, with photos for almost every player.', `#/match/${MATCHES[0].id}/lineup`],
-    ['📰', 'News', 'Headlines from the biggest football publishers in one place, filtered by club.', '#/news'],
-    ['📺', 'TV schedules', "This week's fixtures and the channels showing them.", '#/tv'],
-    ['🔌', 'Open API', 'All of it as free JSON: no key, no sign-up.', '#/api'],
-  ];
-  app.innerHTML = `
-    <div class="about">
-      <section class="about-hero">
-        <p class="about-kicker">About TDsports</p>
-        <h1 class="about-title">Football, in detail.</h1>
-        <p class="about-lead">TDsports brings live scores, deep match analysis, lineups, player stats, news and TV listings together in one fast, clean place, for fans who want to understand the game, not just follow the score.</p>
-      </section>
-      <section class="about-stats">
-        <div><b>${LEAGUES.length}</b><span>competitions</span></div>
-        <div><b>${MATCHES.length}</b><span>matches analysed</span></div>
-        <div><b>${people.toLocaleString()}</b><span>players and coaches</span></div>
-        <div><b>${(newsFeed ? newsFeed.sources.length : 11)}</b><span>news sources</span></div>
-      </section>
-      <section>
-        <h2 class="about-h2">What you'll find</h2>
-        <div class="about-grid">${features.map(([icon, title, text, href]) => `
-          <a class="about-card" href="${href}"><span class="about-icon">${icon}</span><b>${title}</b><span>${text}</span></a>`).join('')}</div>
-      </section>
-      <section class="about-split">
-        <div>
-          <h2 class="about-h2">Where the data comes from</h2>
-          <ul class="about-list">
-            <li><b>Scores, lineups and events</b> ESPN's public data and UEFA match reports; every researched match lists its sources.</li>
-            <li><b>Team form and league tables</b> ESPN.</li>
-            <li><b>News</b> BBC Sport, The Guardian, Sky Sports, The Athletic, ESPN and other publishers. Every story links to the original article.</li>
-            <li><b>TV listings</b> ESPN's US broadcast listings.</li>
-            <li><b>Photos</b> FotMob headshots for ${withPhoto.toLocaleString()} players and coaches, and Wikimedia Commons for stadiums. See <button class="link" data-action="credits">Image credits</button>.</li>
-          </ul>
-        </div>
-        <div>
-          <h2 class="about-h2">How it stays up to date</h2>
-          <ul class="about-list">
-            <li><b>Every 30 seconds</b> live scores refresh.</li>
-            <li><b>Every 10 minutes</b> news, TV listings and recent results refresh.</li>
-            <li><b>After every round</b> research agents gather lineups, goals, cards and substitutions for the matches.</li>
-          </ul>
-          <h2 class="about-h2">Honest about the numbers</h2>
-          <p class="about-p">Scores, lineups, goals, cards, substitutions, team stats and form are real. Player ratings and some detailed per-player stats are estimates, and each match page labels what's real and what's estimated.</p>
-        </div>
-      </section>
-      <section class="about-contact">
-        <div><h2 class="about-h2">Get in touch</h2><p class="about-p">Found a wrong score or a missing player? Have an idea? We'd like to hear it.</p></div>
-        <div class="about-actions">
-          <a class="about-btn primary" href="https://github.com/expensivestrike50/tdsports/issues" target="_blank" rel="noopener">Report an issue ↗</a>
-          <a class="about-btn" href="#/api">Use the API</a>
-        </div>
-      </section>
     </div>`;
 }
 
