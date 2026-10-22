@@ -11,6 +11,8 @@ The app is fully static, so GitHub Pages serves it as is. To publish changes:
     python3 tools/stamp-assets.py   # refresh the ?v= hashes so browsers load the new files
     git add -A && git commit -m "Update" && git push
 
+Every push to `main` is published by the "Deploy site" GitHub Action (`.github/workflows/pages.yml`) in about 30 seconds.
+
 On the hosted site there is no Agent Tom: `live.json` and `results.json` are the last committed snapshots, so the app fetches live scores and the last week of results straight from ESPN. The JSON API works as static files (`api/v1/*.json`). Three FotMob headshots are kept out of the repository (see `.gitignore`) because they are copyrighted; those players show initials online.
 
 ## Research data
