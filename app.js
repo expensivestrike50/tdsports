@@ -259,6 +259,33 @@ function dayDate(day) {
   return isoDay(d);
 }
 
+// Matches in play in the selected league, from the live feed (the Live filter).
+function liveEvents() {
+  const feed = liveFeed && liveFeed.leagues.find(l => l.league === state.league);
+  const q = state.query.trim().toLowerCase();
+  return feed ? feed.events.filter(e => e.state === 'in' && (!q || `${e.home.name} ${e.away.name}`.toLowerCase().includes(q)))
+    .sort((a, b) => Date.parse(a.start) - Date.parse(b.start)).map(e => ({ e, code: feed.code })) : [];
+}
+
+function matchList(list) {
+  if (state.live) {
+    const live = liveEvents();
+    return live.length ? live.map(({ e, code }) => feedRow(e, code)).join('')
+      : `<div class="empty"><p>${liveFeed ? `No ${esc(state.league)} matches are live right now.` : 'Connecting to the live feed…'}</p><button class="pill" data-action="clear-filters">Show all matches</button></div>`;
+  }
+  const [msg, btn, action] = emptyMessage();
+  return list.length ? list.map(matchRow).join('') : `<div class="empty"><p>${esc(msg)}</p><button class="pill" data-action="${action}">${esc(btn)}</button></div>`;
+}
+
+// Keep the Live filter's list and count in step with the live feed.
+function refreshLiveList() {
+  const box = document.getElementById('matches');
+  if (!box) return;
+  box.innerHTML = matchList([]);
+  const count = document.querySelector('.league-head .count');
+  if (count) { const n = liveEvents().length; count.textContent = `${n} live`; }
+}
+
 function visibleMatches() {
   if (state.live) return [];
   const q = state.query.trim().toLowerCase();
@@ -277,7 +304,6 @@ function emptyMessage() {
   if (!MATCHES.some(m => leagueOf(m) === state.league && matchDate(m) === dayDate(state.day))) {
     return [`No ${state.league} matches ${state.day === 0 ? 'today' : `on ${dayLabel(state.day)}`}. Earlier results are below.`, state.day === 0 ? 'Show Champions League' : 'Back to today', state.day === 0 ? 'league' : 'today'];
   }
-  if (state.live) return ['No matches are live right now. All of today’s matches have finished.', 'Show all matches', 'clear-filters'];
   return ['No matches match your filters.', 'Clear filters', 'clear-filters'];
 }
 
@@ -412,7 +438,6 @@ async function loadLive() {
   if (leagues.length) liveFeed = { updated: new Date().toISOString(), source: 'ESPN public scoreboard', via: 'direct', leagues };
 }
 
-const ago = iso => { const s = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 1000)); return s < 60 ? `${s}s ago` : `${Math.round(s / 60)} min ago`; };
 const feedCrest = t => (t.logo ? `<img class="crest crest-sm" src="${esc(t.logo)}" alt="" loading="lazy">` : `<span class="crest crest-sm crest-fallback">${esc(initials(t.name || '?'))}</span>`);
 
 function liveCard() {
@@ -438,7 +463,7 @@ function liveCard() {
   const status = e => (e.state === 'pre' ? new Date(e.start).toLocaleTimeString('en', { hour: '2-digit', minute: '2-digit' }) : e.detail);
   return `
     <div class="card side-extra live-card">
-      <div class="section-head"><h2 class="card-title"><span class="live-pulse ${liveCount ? '' : 'idle'}"></span>Live now<span class="muted block" title="${esc(liveFeed.source)}">Updated ${ago(liveFeed.updated)} · ${liveFeed.via === 'Agent Tom' ? 'via Agent Tom' : 'direct from ESPN'}</span></h2><span class="live-count">${liveCount ? `${liveCount} live` : 'none live'}</span></div>
+      <div class="section-head"><h2 class="card-title"><span class="live-pulse ${liveCount ? '' : 'idle'}"></span>Live now</h2><span class="live-count">${liveCount ? `${liveCount} live` : 'none live'}</span></div>
       ${groups.map(g => `
         <div class="fit-group">
         <div class="side-league">${LEAGUES.find(l => l.name === g.league) ? `<img class="league-logo" src="${LEAGUES.find(l => l.name === g.league).logo}" alt="">` : ''}${esc(g.key)}</div>
@@ -453,8 +478,8 @@ function liveCard() {
 }
 
 // Refresh the live card in place every 30 seconds (and once on load).
-// Only rebuild the card when a score or status changed; otherwise just update the
-// "Updated … ago" line, so the sidebar doesn't flicker or jump every 30 seconds.
+// Only rebuild the card (and the Live filter's list) when a score or status changed, so the
+// page doesn't flicker or jump every 30 seconds.
 let liveSig = '';
 async function refreshLive() {
   if (document.hidden) return;
@@ -467,10 +492,8 @@ async function refreshLive() {
     card.outerHTML = liveCard();
     const upcoming = document.querySelector('.upcoming-card');
     if (upcoming) upcoming.outerHTML = comingUpCard();
+    if (state.live) refreshLiveList();
     fitSidebars();
-  } else {
-    const note = card.querySelector('.card-title .muted');
-    if (note) note.textContent = `Updated ${ago(liveFeed.updated)} · ${liveFeed.via === 'Agent Tom' ? 'via Agent Tom' : 'direct from ESPN'}`;
   }
 }
 refreshLive();
@@ -581,7 +604,6 @@ function renderHome() {
   document.title = 'TDsports | Scores & player statistics';
   const list = visibleMatches();
   const league = LEAGUES.find(l => l.name === state.league);
-  const [msg, btn, action] = emptyMessage();
   app.innerHTML = `
     <div class="layout">
       <aside class="leagues" aria-label="Leagues">
@@ -619,10 +641,10 @@ function renderHome() {
           <div class="league-head">
             <img class="league-logo" src="${league.logo}" alt="">
             <span><b>${esc(league.name)}</b><span class="muted block">${esc(league.country)}</span></span>
-            <span class="count">${list.length} ${list.length === 1 ? 'match' : 'matches'}</span>
+            <span class="count">${state.live ? `${liveEvents().length} live` : `${list.length} ${list.length === 1 ? 'match' : 'matches'}`}</span>
           </div>
           <div id="matches">
-            ${list.length ? list.map(matchRow).join('') : `<div class="empty"><p>${esc(msg)}</p><button class="pill" data-action="${action}">${esc(btn)}</button></div>`}
+            ${matchList(list)}
           </div>
         </div>
         <div id="past">${pastResults()}</div>
