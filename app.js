@@ -273,8 +273,10 @@ function matchList(list) {
     return live.length ? live.map(({ e, code }) => feedRow(e, code)).join('')
       : `<div class="empty"><p>${liveFeed ? `No ${esc(state.league)} matches are live right now.` : 'Connecting to the live feed…'}</p><button class="pill" data-action="clear-filters">Show all matches</button></div>`;
   }
+  const fixtures = dayFixtures();
+  if (list.length || fixtures.length) return list.map(matchRow).join('') + fixtures.map(fixtureRow).join('');
   const [msg, btn, action] = emptyMessage();
-  return list.length ? list.map(matchRow).join('') : `<div class="empty"><p>${esc(msg)}</p><button class="pill" data-action="${action}">${esc(btn)}</button></div>`;
+  return `<div class="empty"><p>${esc(msg)}</p><button class="pill" data-action="${action}">${esc(btn)}</button></div>`;
 }
 
 // Keep the Live filter's list and count in step with the live feed.
@@ -642,7 +644,7 @@ function renderHome() {
           <div class="league-head">
             <img class="league-logo" src="${league.logo}" alt="">
             <span><b>${esc(league.name)}</b><span class="muted block">${esc(league.country)}</span></span>
-            <span class="count">${state.live ? `${liveEvents().length} live` : `${list.length} ${list.length === 1 ? 'match' : 'matches'}`}</span>
+            <span class="count">${state.live ? `${liveEvents().length} live` : (n => `${n} ${n === 1 ? 'match' : 'matches'}`)(list.length + dayFixtures().length)}</span>
           </div>
           <div id="matches">
             ${matchList(list)}
@@ -1509,7 +1511,7 @@ function espnTableCard(match, rows) {
             ${rows.map((t, i) => `
               <tr class="${t.team === match.home || t.team === match.away ? 'highlight' : ''}">
                 <td><span class="pos">${t.rank || i + 1}</span></td>
-                <td class="team-cell">${crest(t.team)} ${esc(t.team)}</td>
+                <td class="team-cell">${CLUB_LOGOS[t.team] ? crest(t.team) : `<img class="crest crest-sm" src="https://a.espncdn.com/i/teamlogos/soccer/500/${esc(t.id)}.png" alt="" loading="lazy">`} ${esc(t.team)}</td>
                 <td>${t.p}</td><td>${t.w}</td><td>${t.d}</td><td>${t.l}</td>
                 <td>${t.gd > 0 ? '+' : ''}${t.gd}</td><td><b>${t.pts}</b></td>
               </tr>`).join('')}
@@ -1530,6 +1532,7 @@ function renderMatch(id, tab) {
     return;
   }
   if (!match) { location.hash = ''; return; }
+  if (match.espn && match.state === 'pre') { renderPreview(match); return; }
   const fav = state.favs.includes(match.id);
   const d = details(match);
   const [h, a] = analytics(match).teams;

@@ -97,7 +97,8 @@ function addEspnMatch(id, code, s) {
     L.formations[h === 'home' ? 0 : 1] = r.formation || '';
     const roster = (r.roster || []).map(p => ({ p, role: espnPosition(p.position && p.position.abbreviation), place: +p.formationPlace || 99 }));
     const starters = roster.filter(x => x.p.starter);
-    for (const [x, px, py] of espnSpots(starters, r.formation)) {
+    // Before lineups are announced the roster is empty (or has no starters).
+    for (const [x, px, py] of starters.length ? espnSpots(starters, r.formation) : []) {
       const pid = person(x.p.athlete, x.role.pos);
       byAthlete[x.p.athlete.id] = pid;
       L[h].push(h === 'home' ? [pid, px, py] : [pid, 100 - px, 100 - py]);
@@ -165,7 +166,7 @@ function addEspnMatch(id, code, s) {
   for (const h of ['home', 'away']) {
     L[h] = L[h].map(([pid, x, y]) => [pid, x, y, rating(pid, h)]);
     const r = (s.rosters || []).find(x => x.homeAway === h);
-    const unused = r ? r.roster.filter(p => !p.starter).map(p => byAthlete[p.athlete.id]).filter(pid => !subsIn[h].includes(pid)) : [];
+    const unused = r && r.roster ? r.roster.filter(p => !p.starter).map(p => byAthlete[p.athlete.id]).filter(pid => !subsIn[h].includes(pid)) : [];
     L[h + 'Subs'] = [...subsIn[h].map(pid => [pid, rating(pid, h)]), ...unused.map(pid => [pid])];
   }
 
@@ -222,13 +223,62 @@ function addEspnMatch(id, code, s) {
     id, espn: true, home, away, score, league, form,
     date: isoDay(start),
     kickoff: start.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' }),
-    competition: league, round: (sideOf('home').team.groups && sideOf('home').team.groups.name) || s.header.season && s.header.season.name || '',
+    competition: league, // Cup phases come as the team's group ("League Phase"); league games carry the season name, which repeats the competition.
+    round: ((sideOf('home').team.groups || {}).name || '').replace(/^\d{4}-\d{2}\b.*/, ''),
+    start: comp.date, venue: L.venue || null,
     state: status.state, statusText: status.state === 'post' ? (status.description || 'Full time') : status.state === 'in' ? status.shortDetail : 'Not started',
   };
   const i = MATCHES.findIndex(m => m.id === id);
   if (i >= 0) MATCHES[i] = match; else MATCHES.push(match);
   for (const cache of [detailCache, analyticsCache, voteCache]) delete cache[id];
   return match;
+}
+
+// A fixture that hasn't kicked off: a preview with only real information (kickoff, venue,
+// TV channels, both teams' form and the league table), instead of match stats.
+function renderPreview(match) {
+  const fav = state.favs.includes(match.id);
+  const start = new Date(match.start);
+  const listing = typeof tvFeed !== 'undefined' && tvFeed && tvFeed.matches.find(m => `espn-${m.code.replace('.', '_')}-${m.id}` === match.id);
+  const channels = (listing && listing.channels) || [];
+  const L = LINEUPS[match.id];
+  const venue = match.venue;
+  const days = Math.round((new Date(isoDay(start)) - new Date(isoDay(new Date()))) / 864e5);
+  const when = days === 0 ? 'Today' : days === 1 ? 'Tomorrow' : `In ${days} days`;
+  document.title = `${match.home} v ${match.away} | TDsports`;
+  const infoCard = `
+    <div class="card preview-info">
+      ${sectionHead('Match info')}
+      <div class="venue-facts">
+        <div><span class="muted">Kickoff</span><b>${start.toLocaleDateString('en', { weekday: 'long', day: 'numeric', month: 'long' })}, ${match.kickoff}</b></div>
+        <div><span class="muted">Competition</span><b>${esc(match.competition)}${match.round ? ` · ${esc(match.round)}` : ''}</b></div>
+        ${venue ? `<div><span class="muted">Venue</span><b>${esc(venue.name)}${venue.city ? ` <small class="muted">${esc(venue.city)}</small>` : ''}</b></div>` : ''}
+        <div><span class="muted">TV (US)</span><b>${channels.length ? channels.map(c => `📺 ${esc(c)}`).join(' · ') : 'Not listed yet'}</b></div>
+      </div>
+      <p class="muted preview-note">${L ? 'Lineups are in: see the Lineup below.' : 'Lineups usually appear about an hour before kickoff; this page updates by itself.'}</p>
+    </div>`;
+  app.innerHTML = `
+    <div class="detail">
+      <div class="card match-header">
+        <div class="match-top">
+          <a class="pill" href="#">❮ Matches</a>
+          <span class="competition"><img class="league-logo" src="${(LEAGUES.find(l => l.name === match.league) || LEAGUES[1]).logo}" alt=""> ${esc(match.competition)}${match.round ? ` · ${esc(match.round)}` : ''}</span>
+          <button class="follow ${fav ? 'following' : ''}" data-action="fav" data-id="${match.id}" aria-pressed="${fav}">${fav ? 'Following ✓' : 'Follow'}</button>
+        </div>
+        <p class="meta">${start.toLocaleDateString('en', { weekday: 'short', month: 'long', day: 'numeric' })}, ${match.kickoff}${venue ? ` · ${esc(venue.name)}` : ''}${channels.length ? ` · 📺 ${esc(channels.join(', '))}` : ''}</p>
+        <div class="scoreboard">
+          <div class="teamname home">${esc(match.home)} ${crest(match.home, 'lg')}</div>
+          <div class="bigscore preview-time">${match.kickoff}<small>${when} · not started</small></div>
+          <div class="teamname away">${crest(match.away, 'lg')} ${esc(match.away)}</div>
+        </div>
+        <p class="provenance"><span><b>Preview:</b> kickoff, venue, TV, form and table are real (ESPN). Stats appear once the match starts.</span></p>
+      </div>
+      <div id="detail-content">${dash([
+        stack(infoCard, formCard(match)),
+        cell(standingsCard(match), 'span-2'),
+        L ? cell(pitchCard(match), 'span-3') : '',
+      ])}</div>
+    </div>`;
 }
 
 async function loadEspnMatch(id) {
@@ -243,11 +293,11 @@ async function loadEspnMatch(id) {
   return espnLoading[id];
 }
 
-// While a live ESPN match is open, refresh it every 60 seconds.
+// While a live or upcoming ESPN match is open, refresh it every 60 seconds.
 setInterval(async () => {
   const r = route();
   if (!r || r.view !== 'match' || document.hidden) return;
   const m = findMatch(r.id);
-  if (!m || !m.espn || m.state !== 'in') return;
+  if (!m || !m.espn || m.state === 'post') return;
   try { await loadEspnMatch(r.id); render(); } catch { /* keep the last version */ }
 }, 60000);

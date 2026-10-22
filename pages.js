@@ -29,6 +29,31 @@ async function loadTv() {
 const tvDayOf = m => isoDay(new Date(m.start)); // in the viewer's time zone
 const tvTime = iso => new Date(iso).toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
 
+// Fixtures for the home page's day view: the selected league's matches on that day from
+// the TV listings that the app doesn't already have its own page for.
+function dayFixtures() {
+  if (!tvFeed || state.live || state.favsOnly) return [];
+  const date = dayDate(state.day);
+  const q = state.query.trim().toLowerCase();
+  return tvFeed.matches.filter(m => m.league === state.league && tvDayOf(m) === date
+    && !/^#\/match\/(?!espn-)/.test(feedHref(m.code, m) || '')
+    && (!state.tv || m.channels.length) && (!q || `${m.home.name} ${m.away.name}`.toLowerCase().includes(q)));
+}
+
+function fixtureRow(m) {
+  const status = m.state === 'pre' ? tvTime(m.start) : m.state === 'in' ? m.detail || 'Live' : 'FT';
+  return `
+    <div class="match-row feed-row">
+      <a href="${feedHref(m.code, m) || '#'}" class="match">
+        <span class="status ${m.state === 'in' ? 'live' : m.state === 'pre' ? 'pre' : ''}">${esc(status)}</span>
+        <span class="team home">${esc(m.home.name)}</span>${feedCrest(m.home)}
+        <span class="score">${m.state === 'pre' ? '<span class="muted">vs</span>' : `${esc(m.home.score)} - ${esc(m.away.score)}`}</span>
+        ${feedCrest(m.away)}<span class="team away">${esc(m.away.name)}</span>
+        ${m.state === 'in' ? '<span class="live-tag"><span class="live-pulse"></span>Live</span>' : `<span class="tv-tag" title="${esc(m.channels.join(', '))}">${m.channels.length ? `📺 ${esc(m.channels[0])}` : ''}</span>`}
+      </a>
+    </div>`;
+}
+
 function renderTv() {
   document.title = 'TV schedules | TDsports';
   if (!tvFeed) {
@@ -114,7 +139,11 @@ function renderTv() {
     </div>`;
 }
 
-window.addEventListener('DOMContentLoaded', () => loadTv().then(() => { const r = route(); if (r && r.view === 'tv') render(); }));
+window.addEventListener('DOMContentLoaded', () => loadTv().then(() => {
+  const r = route();
+  // The home day view lists fixtures from it, and match previews show the TV channels.
+  if (r && (r.view === 'tv' || r.view === 'home' || (r.view === 'match' && /^espn-/.test(r.id)))) render();
+}));
 setInterval(async () => {
   if (document.hidden) return;
   await loadTv();
