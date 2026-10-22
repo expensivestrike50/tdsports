@@ -276,32 +276,49 @@ function renderApiHome() {
           <h1 class="ah-title">Build with live football data from the TDsports API</h1>
           <p class="ah-sub">Matches, lineups, events, players, live scores and news, as plain JSON.<br>No key, no sign-up, open CORS.</p>
         </div>
-        <svg class="ah-art" viewBox="0 0 300 236" aria-hidden="true">
-          <defs><pattern id="ah-grid" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M12 0H0V12" fill="none" class="g"/></pattern></defs>
-          <rect x="0.5" y="0.5" width="299" height="235" fill="url(#ah-grid)" class="frame"/>
-          <g class="pitch" transform="translate(150 128) skewX(-24) scale(1 .62)">
-            <rect x="-96" y="-90" width="192" height="180" rx="2"/><line x1="-96" y1="0" x2="96" y2="0"/><circle r="26"/>
-            <rect x="-44" y="-90" width="88" height="36"/><rect x="-44" y="54" width="88" height="36"/>
-          </g>
-          <circle cx="182" cy="112" r="7" class="ball"/>
-          <rect x="16" y="16" width="78" height="22" class="tag"/><text x="23" y="31" class="mono">100% STATIC</text>
-          <rect x="218" y="190" width="7" height="7" class="tag"/><text x="230" y="197" class="mono">API READY</text>
-          <line x1="189" y1="116" x2="218" y2="193" class="lead"/>
-        </svg>
+        ${apiMotion()}
       </section>
       <section class="ah-cards">
         ${cards.map(([k, title, text, page]) => `
           <a class="ah-card" href="#/api/${page}">
             <span class="ah-icon ${k}"><svg viewBox="0 0 24 24" aria-hidden="true">${icon[k]}</svg></span>
-            <span class="ah-arrow" aria-hidden="true">→</span>
             <b>${title}</b><span>${text}</span>
           </a>`).join('')}
       </section>
       <section class="ah-links">
-        <div><h2>Get started with the API</h2><a href="#/api/get-match">Try the API</a><a href="#/api/introduction">Your first request</a><a href="${apiRoot()}api/v1/matches.json" target="_blank" rel="noopener">Download all matches ↗</a></div>
+        <div><h2>Get started with the API</h2><a href="#/api/get-match">Try the API</a><a href="#/api/introduction">Your first request</a><a href="${apiRoot()}api/v1/matches.json" target="_blank" rel="noopener">Download all matches</a></div>
         <div><h2>Data and sources</h2><a href="#/api/responses">Responses and errors</a><a href="#/api/data">Real and sample data</a><a href="#/api/object-match">The Match object</a></div>
-        <div><h2>Get support</h2><a href="https://github.com/expensivestrike50/tdsports" target="_blank" rel="noopener">Source on GitHub ↗</a><a href="https://github.com/expensivestrike50/tdsports/issues" target="_blank" rel="noopener">Report an issue ↗</a></div>
+        <div><h2>Get support</h2><a href="https://github.com/expensivestrike50/tdsports" target="_blank" rel="noopener">Source on GitHub</a><a href="https://github.com/expensivestrike50/tdsports/issues" target="_blank" rel="noopener">Report an issue</a></div>
       </section>
+    </div>`;
+}
+
+// The hero's motion piece: a slow reveal that assembles the TDsports logo from the
+// things the API serves. A grid fades in, the pitch draws itself, live data fragments
+// drift in, the data points converge, and the logo is revealed with "API ready".
+// Plays once (about 7 seconds); Replay restarts it. Reduced motion shows the end state.
+function apiMotion() {
+  const tokens = [['"score": "2-4"', -104, -82, 1.6], ['xG 1.88', 112, -88, 1.9], ["67'", -132, 18, 2.2], ['"state": "in"', 96, 70, 2.0],
+    ['GET /matches', -92, 92, 2.4], ['4-2-3-1', 124, 4, 2.6]];
+  const dots = Array.from({ length: 22 }, (_, i) => {
+    const a = i * 2.39996, r = 70 + (i % 5) * 26;
+    return [Math.round(Math.cos(a) * r * 1.35), Math.round(Math.sin(a) * r * .8), (0.2 + (i % 7) * 0.12).toFixed(2)];
+  });
+  return `
+    <div class="am" role="img" aria-label="Animation: football data assembling into the TDsports logo">
+      <div class="am-grid"></div>
+      <svg class="am-pitch" viewBox="0 0 200 130" aria-hidden="true">
+        <rect pathLength="1" x="6" y="6" width="188" height="118" rx="3"/>
+        <line pathLength="1" x1="100" y1="6" x2="100" y2="124"/>
+        <circle pathLength="1" cx="100" cy="65" r="17"/>
+        <rect pathLength="1" x="6" y="36" width="28" height="58"/>
+        <rect pathLength="1" x="166" y="36" width="28" height="58"/>
+      </svg>
+      ${dots.map(([x, y, d]) => `<i class="am-dot" style="--x:${x}px;--y:${y}px;--d:${d}s"></i>`).join('')}
+      ${tokens.map(([t, x, y, d]) => `<span class="am-token" style="--x:${x}px;--y:${y}px;--d:${d}s">${esc(t)}</span>`).join('')}
+      <div class="am-logo"><img class="logo-light" src="assets/brand/tdsports-logo.png" alt=""><img class="logo-dark" src="assets/brand/tdsports-logo-dark.png" alt=""></div>
+      <div class="am-ready"><span class="am-ok">200 OK</span> API ready</div>
+      <button class="am-replay" data-action="api-replay">Replay</button>
     </div>`;
 }
 

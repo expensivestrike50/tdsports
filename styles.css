@@ -1107,36 +1107,73 @@ a.news-trend { grid-template-columns: 22px 1fr auto; }
 }
 
 /* ---------- API: landing page ---------- */
-.ah { max-width: 900px; margin: 0 auto; padding: 72px 24px 48px; }
-.ah-hero { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 48px; align-items: center; margin-bottom: 40px; }
-.ah-title { font-size: clamp(34px, 5vw, 52px); line-height: 1.08; letter-spacing: -.02em; margin: 0 0 22px; }
-.ah-sub { font-size: 17px; line-height: 1.6; color: var(--muted); margin: 0; }
-.ah-art { width: 100%; height: auto; }
-.ah-art .g { stroke: var(--border); stroke-width: .8; }
-.ah-art .frame { stroke: var(--border); }
-.ah-art .pitch * { fill: none; stroke: var(--accent); stroke-width: 1.6; vector-effect: non-scaling-stroke; }
-.ah-art .pitch rect:first-child { fill: color-mix(in srgb, var(--accent) 7%, transparent); }
-.ah-art .ball { fill: var(--surface); stroke: var(--accent); stroke-width: 1.6; }
-.ah-art .tag { fill: var(--surface); stroke: var(--border); }
-.ah-art .lead { stroke: var(--accent); stroke-width: 1; }
-.ah-art .mono { font: 600 8px ui-monospace, SFMono-Regular, Menlo, monospace; fill: var(--muted); letter-spacing: .06em; }
-.ah-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; max-width: 700px; margin: 0 auto 56px; }
-.ah-card { position: relative; display: flex; flex-direction: column; gap: 8px; padding: 20px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); color: inherit; text-decoration: none; transition: border-color .15s, box-shadow .15s; }
+.ah { max-width: 960px; margin: 0 auto; padding: 48px 24px 40px; }
+.ah-hero { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 40px; align-items: center; margin-bottom: 36px; }
+.ah-title { font-size: 26px; line-height: 1.25; margin: 0 0 10px; }
+.ah-sub { font-size: 14px; line-height: 1.6; color: var(--muted); margin: 0; }
+.ah-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 0 0 40px; }
+.ah-card { display: flex; flex-direction: column; gap: 4px; padding: 20px; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); transition: border-color .15s, box-shadow .15s; }
 .ah-card:hover { border-color: var(--accent); box-shadow: 0 6px 20px rgba(0, 0, 0, .06); }
-.ah-card b { font-size: 18px; margin-top: 14px; }
-.ah-card > span:last-child { font-size: 15px; color: var(--muted); }
-.ah-icon { width: 40px; height: 40px; border-radius: 6px; display: grid; place-items: center; }
-.ah-icon svg { width: 22px; height: 22px; fill: none; stroke: #fff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.ah-card b { font-size: 16px; margin-top: 12px; }
+.ah-card > span:last-child { font-size: 13px; color: var(--muted); }
+.ah-icon { width: 36px; height: 36px; border-radius: 8px; display: grid; place-items: center; }
+.ah-icon svg { width: 20px; height: 20px; fill: none; stroke: #fff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 .ah-icon.code { background: #12985f; }
 .ah-icon.live { background: #e5383b; }
 .ah-icon.news { background: #f07a1a; }
 .ah-icon.data { background: #6d4ae0; }
-.ah-arrow { position: absolute; top: 18px; right: 20px; font-size: 20px; color: var(--muted); transition: transform .15s; }
-.ah-card:hover .ah-arrow { transform: translateX(3px); color: var(--accent-text); }
-.ah-links { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
-.ah-links h2 { font-size: 18px; margin: 0 0 18px; }
-.ah-links a { display: block; font-size: 17px; color: var(--accent-text); margin-bottom: 12px; text-decoration: none; }
+.ah-links { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; padding: 24px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); }
+.ah-links h2 { font-size: 16px; margin: 0 0 12px; }
+.ah-links a { display: block; font-size: 14px; color: var(--accent-text); margin-bottom: 8px; }
 .ah-links a:hover { text-decoration: underline; }
+
+/* Hero motion: grid → pitch draws → data drifts in → points converge → logo reveal. */
+.am { position: relative; height: 260px; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); overflow: hidden; display: grid; place-items: center; }
+.am > * { grid-area: 1 / 1; }
+.am-grid { position: absolute; inset: 0; background-image: linear-gradient(var(--border) 1px, transparent 1px), linear-gradient(90deg, var(--border) 1px, transparent 1px); background-size: 16px 16px; opacity: 0; animation: am-fade 1.4s ease-out .1s forwards; mask-image: radial-gradient(circle at center, #000 30%, transparent 78%); }
+.am-pitch { width: 78%; margin-top: -14px; opacity: 1; animation: am-dim 1.6s ease-in-out 4.6s forwards; }
+.am-pitch * { fill: none; stroke: var(--accent); stroke-width: .9; stroke-dasharray: 1; stroke-dashoffset: 1; animation: am-draw 2.2s cubic-bezier(.6, 0, .2, 1) forwards; }
+.am-pitch :nth-child(1) { animation-delay: .5s; }
+.am-pitch :nth-child(2) { animation-delay: 1.1s; }
+.am-pitch :nth-child(3) { animation-delay: 1.4s; }
+.am-pitch :nth-child(4) { animation-delay: 1.7s; }
+.am-pitch :nth-child(5) { animation-delay: 1.9s; }
+.am-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); opacity: 0; transform: translate(var(--x), var(--y)); animation: am-converge 4.4s cubic-bezier(.7, 0, .3, 1) var(--d) forwards; }
+.am-dot:nth-child(3n) { background: var(--home); }
+.am-dot:nth-child(4n) { background: var(--away); }
+.am-token { font: 600 11px ui-monospace, SFMono-Regular, Menlo, monospace; color: var(--accent-text); background: var(--accent-soft); padding: 3px 7px; border-radius: 6px; white-space: nowrap; opacity: 0; transform: translate(var(--x), var(--y)); animation: am-token 3.6s ease-in-out var(--d) forwards; }
+.am-logo { width: 62%; opacity: 0; clip-path: inset(0 100% 0 0); transform: scale(.94); filter: blur(6px); animation: am-reveal 1.8s cubic-bezier(.2, .7, .2, 1) 5s forwards; }
+.am-logo img { width: 100%; display: block; }
+.am-ready { align-self: end; margin-bottom: 10px; font-size: 13px; color: var(--muted); opacity: 0; transform: translateY(6px); animation: am-up .8s ease-out 6.4s forwards; }
+.am-ok { font: 700 12px ui-monospace, monospace; color: #12985f; border: 1px solid var(--border); border-radius: 6px; padding: 2px 6px; margin-right: 6px; }
+.am-replay { position: absolute; top: 10px; right: 12px; font-size: 12px; color: var(--muted); padding: 3px 8px; border-radius: 6px; opacity: 0; animation: am-fade .6s ease-out 7s forwards; }
+.am-replay:hover { background: var(--hover); color: var(--text); }
+@keyframes am-fade { to { opacity: 1; } }
+@keyframes am-dim { to { opacity: .16; } }
+@keyframes am-draw { to { stroke-dashoffset: 0; } }
+@keyframes am-converge {
+  0% { opacity: 0; transform: translate(var(--x), var(--y)) scale(.4); }
+  18% { opacity: 1; transform: translate(var(--x), var(--y)) scale(1); }
+  60% { opacity: 1; transform: translate(calc(var(--x) * .9), calc(var(--y) * .9)) scale(1); }
+  100% { opacity: 0; transform: translate(0, 0) scale(.3); }
+}
+@keyframes am-token {
+  0% { opacity: 0; transform: translate(calc(var(--x) * 1.25), calc(var(--y) * 1.25)); }
+  25%, 65% { opacity: 1; transform: translate(var(--x), var(--y)); }
+  100% { opacity: 0; transform: translate(calc(var(--x) * .2), calc(var(--y) * .2)) scale(.8); }
+}
+@keyframes am-reveal {
+  0% { opacity: 1; clip-path: inset(0 100% 0 0); transform: scale(.94); filter: blur(6px); }
+  60% { filter: blur(0); }
+  100% { opacity: 1; clip-path: inset(0 0 0 0); transform: scale(1); filter: blur(0); }
+}
+@keyframes am-up { to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) {
+  .am *, .am-grid { animation: none !important; }
+  .am-grid, .am-logo, .am-ready, .am-replay { opacity: 1; clip-path: none; filter: none; transform: none; }
+  .am-pitch { opacity: .16; }
+  .am-pitch * { stroke-dashoffset: 0; }
+}
 
 /* ---------- API: reference ---------- */
 .ad { display: grid; grid-template-columns: 280px minmax(0, 1fr) 440px; min-height: calc(100vh - 72px); }
@@ -1144,9 +1181,9 @@ a.news-trend { grid-template-columns: 22px 1fr auto; }
 .ad-nav { position: sticky; top: 0; align-self: start; max-height: 100vh; overflow-y: auto; padding: 14px 16px 32px; border-right: 1px solid var(--border); background: var(--surface); }
 .ad-filter { display: flex; align-items: center; gap: 8px; padding: 7px 10px; border: 1px solid var(--border); border-radius: 6px; color: var(--muted); }
 .ad-filter input { border: 0; outline: 0; background: none; font: inherit; color: var(--text); width: 100%; }
-.ad-label { font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 26px 10px 12px; }
-.ad-group-title { font-size: 15px; font-weight: 600; margin: 16px 10px 6px; }
-.ad-link { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 7px 10px 7px 20px; border-radius: 6px; font-size: 14px; color: var(--text); text-decoration: none; }
+.ad-label { font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 26px 10px 12px; }
+.ad-group-title { font-size: 14px; font-weight: 700; margin: 16px 10px 6px; }
+.ad-link { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 7px 10px 7px 20px; border-radius: 6px; font-size: 13px; color: var(--text); text-decoration: none; }
 .ad-link:hover { background: var(--hover); }
 .ad-link.on { background: var(--accent-soft); color: var(--accent-text); font-weight: 600; }
 .ad-get { font: 800 10px/1 ui-monospace, monospace; letter-spacing: .04em; color: #fff; background: #12985f; padding: 4px 7px; border-radius: 10px; }
@@ -1155,21 +1192,21 @@ a.news-trend { grid-template-columns: 22px 1fr auto; }
 .ad-top { display: flex; justify-content: flex-end; }
 .ad-btn { border: 1px solid var(--border); border-radius: 6px; padding: 6px 12px; font-size: 14px; background: var(--surface); }
 .ad-btn:hover { background: var(--hover); }
-.ad-title { font-size: 32px; letter-spacing: -.01em; margin: 10px 0 10px; }
+.ad-title { font-size: 26px; margin: 10px 0 10px; }
 .ad-url { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 0 0 22px; }
 .ad-url code { font-size: 14px; color: var(--muted); overflow-wrap: anywhere; }
 .ad-url code b { color: var(--text); }
-.ad-text { font-size: 16px; line-height: 1.65; margin: 0 0 16px; }
+.ad-text { font-size: 14px; line-height: 1.6; margin: 0 0 14px; }
 .ad-text.small { font-size: 14px; margin: 0 0 6px; }
 .ad-main a { color: var(--accent-text); }
 .ad-main :not(pre) > code { font-size: .88em; padding: 1px 5px; border-radius: 4px; background: var(--surface-2); }
 .ad-hr { border: 0; border-top: 1px solid var(--border); margin: 28px 0; }
-.ad-h2 { font-size: 17px; margin: 30px 0 12px; }
+.ad-h2 { font-size: 16px; margin: 28px 0 12px; }
 .ad-box { border: 1px solid var(--border); border-radius: 8px; background: var(--surface); overflow: hidden; }
 .ad-box-head { padding: 12px 14px; border-bottom: 1px solid var(--border); background: var(--surface-2); display: flex; gap: 8px; align-items: baseline; }
 .ad-row { padding: 12px 14px; border-top: 1px solid var(--border); }
 .ad-row:first-child, .ad-box-head + .ad-row { border-top: 0; }
-.ad-row p { margin: 4px 0 0; font-size: 14px; color: var(--muted); line-height: 1.5; }
+.ad-row p { margin: 4px 0 0; font-size: 13px; color: var(--muted); line-height: 1.5; }
 .ad-main .ad-row code.ad-field, .ad-field { font-weight: 700; font-size: 14px; background: none; padding: 0; color: var(--text); }
 .ad-type { font-size: 12px; color: var(--muted); }
 .ad-req { font-size: 12px; color: #d33a3a; }
@@ -1229,9 +1266,9 @@ a.news-trend { grid-template-columns: 22px 1fr auto; }
   .ad-nav { position: static; max-height: 260px; border-right: 0; border-bottom: 1px solid var(--border); }
   .ad-side { grid-column: 1; padding: 0 16px 32px; }
   .ad-main { padding: 20px 16px 24px; }
-  .ah { padding: 40px 16px 32px; }
+  .ah { padding: 28px 16px 32px; }
   .ah-hero { grid-template-columns: minmax(0, 1fr); gap: 24px; }
-  .ah-art { max-width: 300px; }
+
   .ah-cards, .ah-links { grid-template-columns: minmax(0, 1fr); }
   .ad-param { grid-template-columns: minmax(0, 1fr); }
 }
