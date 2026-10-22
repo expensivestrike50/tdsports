@@ -1841,6 +1841,7 @@ const actions = {
   api() { location.hash = '#/api'; },
   'api-try'(el) { apiTry(el); },
   'api-copy'(el) { apiCopy(el); },
+  'api-copy-url'(el) { apiCopy(el); },
   'api-lang'(el) { state.apiLang = el.dataset.value; render(); },
   theme() {
     const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
@@ -1880,6 +1881,17 @@ document.addEventListener('click', e => {
 });
 
 app.addEventListener('input', e => {
+  if (e.target.id === 'api-filter' || e.target.dataset.param) {
+    if (e.target.id === 'api-filter') state.apiFilter = e.target.value;
+    else (apiParams[e.target.dataset.page] ||= {})[e.target.dataset.param] = e.target.value;
+    const sel = e.target.id === 'api-filter' ? '#api-filter' : `[data-param="${e.target.dataset.param}"]`;
+    const pos = e.target.selectionStart;
+    render();
+    const input = $(sel);
+    input.focus();
+    input.setSelectionRange(pos, pos);
+    return;
+  }
   if (e.target.id === 'news-search') {
     state.newsQuery = e.target.value;
     newsShown = NEWS_PAGE;
@@ -1932,7 +1944,8 @@ function route() {
   const legacy = hash.match(/^#match-(\d+)$/);
   if (legacy) { location.replace(`#/match/${(MATCHES[legacy[1]] || MATCHES[0]).id}`); return null; }
   const m = hash.match(/^#\/match\/([\w-]+)(?:\/(\w+))?/);
-  if (hash === '#/api') return { view: 'api' };
+  const api = hash.match(/^#\/api(?:\/([\w-]+))?$/);
+  if (api) return { view: 'api', page: api[1] || '' };
   if (hash === '#/news') return { view: 'news' };
   if (!m) return { view: 'home' };
   const tab = TABS.find(t => t.toLowerCase() === (m[2] || 'facts')) || 'Facts';
@@ -1944,14 +1957,14 @@ function render() {
   const r = route();
   if (!r) return;
   if (r.view === 'home') renderHome();
-  else if (r.view === 'api') renderApi();
+  else if (r.view === 'api') renderApi(r.page);
   else if (r.view === 'news') renderNews();
   else renderMatch(r.id, r.tab);
   mountReplay();
   fitStyleRows();
   fitSidebars();
   mountStyleReview();
-  const key = r.view === 'match' ? r.id : r.view;
+  const key = r.view === 'match' ? r.id : r.view === 'api' ? `api/${r.page}` : r.view;
   // Scroll to the top when moving to another page, but not on the first render, so a
   // reload keeps the browser's restored scroll position.
   if (lastView && key !== lastView) window.scrollTo(0, 0);
