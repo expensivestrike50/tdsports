@@ -23,6 +23,9 @@ They are downloaded to .cache/transfermarkt/ (not committed).
    by age, position and value tier, then adjusted for the years left on the contract.
    Value ranges are the model's 80% interval; transfer ranges cover the middle half of real fees.
 
+PARITY=<file.npy> also saves the held-out predictions (horizon, value then, actual, predicted,
+age) for a parity plot; CALIBRATE=1 prints actual vs predicted change by value tier and age.
+
 Writes market-values.js: MARKET_VALUES[name slug] = { v, at, peak, dob, pos, club, until,
 p: [5 predicted values], lo: [...], hi: [...], tv: [transfer low, mid, high] } plus
 MARKET_MODEL with the test scores. Re-run after updating the data.
@@ -227,7 +230,8 @@ def main():
         h.sort()
 
     # ---- 1. Value prediction models, one per horizon --------------------------------
-    rows = {k: ([], [], []) for k in range(1, HORIZONS + 1)}  # X, y, player id
+    rows = {k: ([], [], [], []) for k in range(1, HORIZONS + 1)}  # X, y, player id, value at the time
+    parity = []
     for pid, hist in history.items():
         p = info.get(pid)
         dob = parse_date(p['date_of_birth']) if p else None
@@ -251,6 +255,7 @@ def main():
                     rows[k][0].append(x)
                     rows[k][1].append(math.log(hist[j][1] / v))
                     rows[k][2].append(pid)
+                    rows[k][3].append(v)
     models, scores = {}, {}
     NBASE = len(features(26, 2, 1e6, 0.0, False, 0.0))
     perf_mean = {}
@@ -267,6 +272,9 @@ def main():
                      'mae_without_performance': round(float(np.mean(np.abs(y[test] - X[test][:, :NBASE] @ wb))), 3),
                      'mae_no_change': round(float(np.mean(np.abs(y[test]))), 3), 'with_performance_data': round(float(has.mean()), 2)}
         ages = X[:, 1:22].argmax(axis=1) + 17
+        if os.environ.get('PARITY'):  # held-out players: value at the time, actual and predicted value k years later
+            v0 = np.array(rows[k][3])[test]
+            parity.append(np.column_stack([np.full(int(test.sum()), k), v0, v0 * np.exp(y[test]), v0 * np.exp(pred), ages[test]]))
         if os.environ.get('CALIBRATE'):
             tiers = X[:, 1 + 21 + 12:1 + 21 + 12 + len(TIERS) + 1].argmax(axis=1)
             for lo_t, hi_t, a0, a1 in [(6, 8, 24, 27), (6, 8, 28, 31), (4, 5, 24, 27), (2, 3, 19, 22), (0, 2, 28, 32)]:
@@ -285,6 +293,10 @@ def main():
         print(f"{k}y: {len(y)} samples · test error (log) {scores[k]['mae_model']} · without performance "
               f"{scores[k]['mae_without_performance']} · no change {scores[k]['mae_no_change']} · age<=23: "
               f"{scores[k]['mae_young_model']} vs {scores[k]['mae_young_without_performance']}", flush=True)
+
+    if os.environ.get('PARITY'):
+        np.save(os.environ['PARITY'], np.vstack(parity))
+        print('held-out predictions saved to', os.environ['PARITY'], flush=True)
 
     # ---- 2. Transfer value model: real fees against market value at the time ---------
     TX, Ty = [], []
