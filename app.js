@@ -1186,6 +1186,7 @@ const TABLE_VIEWS = {
   Defending: ['minutes', 'tackles', 'interceptions', 'clearances', 'blocks', 'recoveries', 'duelsWon', 'aerialsWon', 'fouls'],
   Physical: ['minutes', 'distance', 'sprints', 'hiRuns', 'topSpeed'],
   Goalkeeping: ['minutes', 'saves', 'goalsConceded', 'xgotFaced', 'goalsPrevented', 'passesAcc', 'longAcc'],
+  Value: ['minutes', 'marketValue', 'transferValue', 'value1y', 'value3y', 'value5y', 'age'],
 };
 // [header, full label, decimals, per-90 eligible, ratio denominator key]
 const COLUMNS = {
@@ -1205,10 +1206,14 @@ const COLUMNS = {
   sprints: ['Spr', 'Sprints', 0, true], hiRuns: ['HIR', 'High-intensity runs', 0, true], topSpeed: ['Top', 'Top speed (km/h)', 1, false],
   saves: ['Sv', 'Saves', 0, true], goalsConceded: ['GA', 'Goals conceded', 0, false], xgotFaced: ['xGOTA', 'xGOT faced', 2, false],
   goalsPrevented: ['GP', 'Goals prevented', 2, false],
+  marketValue: ['Value', 'Market value (Transfermarkt)', 0, false], transferValue: ['Transfer', 'Predicted transfer value', 0, false],
+  value1y: ['+1 yr', 'Predicted value in 1 year', 0, false], value3y: ['+3 yrs', 'Predicted value in 3 years', 0, false],
+  value5y: ['+5 yrs', 'Predicted value in 5 years', 0, false], age: ['Age', 'Age', 0, false],
 };
 
 function tableValue(p, key, per90) {
   if (key === 'passPct') return pct(p.passesAcc, p.passesAtt);
+  if (MARKET_COLUMNS[key]) return marketCell(p.id, key);
   const v = p[key] ?? 0;
   return per90 && COLUMNS[key][3] && p.minutes ? (v * 90) / p.minutes : v;
 }
@@ -1235,6 +1240,7 @@ function playersTableCard(match) {
     const [, , dec, , denom] = COLUMNS[key];
     const v = tableValue(p, key, t.per90);
     if (key === 'rating') return `<span class="badge ${ratingClass(v)}">${v.toFixed(1)}</span>`;
+    if (MARKET_COLUMNS[key]) return key === 'age' ? (v || '–') : v ? euro(v) : '–';
     const shown = t.per90 && COLUMNS[key][3] ? v.toFixed(Math.max(dec, 1)) : v.toFixed(dec);
     return denom && !t.per90 ? `${shown}<small class="muted">/${p[denom]}</small>` : key === 'passPct' ? `${shown}%` : shown;
   };
@@ -1670,6 +1676,7 @@ function playerModal(id, matchId) {
         <span><b>${played ? `${p.minutes}′` : '–'}</b><small class="muted block">${p.sub && played ? `On at ${p.start}′` : 'Played'}</small></span>
       </div>
     </div>
+    ${marketSection(id)}
     ${played ? `
       <div class="modal-cols">
         <div>
@@ -1682,7 +1689,7 @@ function playerModal(id, matchId) {
         </div>
       </div>`
     : '<p class="empty">Unused substitute — no match data.</p>'}
-    <p class="muted modal-note">Sample ratings and stats.</p>`, `${person.name} match statistics`, played ? 'wide-xl' : '');
+    <p class="muted modal-note">Sample ratings and stats.</p>`, `${person.name} match statistics`, 'wide-xl');
 }
 
 function coachModal(id) {

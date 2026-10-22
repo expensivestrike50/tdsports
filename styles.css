@@ -1283,3 +1283,21 @@ a.news-trend { grid-template-columns: 22px 1fr auto; }
 @media (max-width: 1100px) { .tv-row { grid-template-columns: minmax(0, 1fr); gap: 8px; } .tv-ch { justify-content: flex-start; } }
 @media (max-width: 760px) { .tv-slot { grid-template-columns: minmax(0, 1fr); } .tv-time { padding: 14px 18px 4px; } .tv-rows { border-left: 0; } .news-counts { margin-left: 0; } }
 
+
+/* ---------- Player market value ---------- */
+.mv { padding: 6px 24px 4px; }
+.mv-none { text-align: center; font-size: 13px; padding: 10px 0; }
+.mv-tiles { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 6px 0 14px; }
+.mv-tiles div { display: grid; gap: 2px; padding: 12px 14px; border: 1px solid var(--border); border-radius: 10px; }
+.mv-tiles span { font-size: 12px; }
+.mv-tiles b { font-size: 22px; font-variant-numeric: tabular-nums; }
+.mv-tiles small { font-size: 11px; }
+.mv-chart { width: 100%; height: auto; display: block; }
+.mv-band { fill: color-mix(in srgb, #6d4ae0 14%, transparent); }
+.mv-line { fill: none; stroke: #6d4ae0; stroke-width: 2.5; stroke-linejoin: round; }
+.mv-dot { fill: var(--surface); stroke: #6d4ae0; stroke-width: 2.5; }
+.mv-now { fill: var(--accent); }
+.mv-val { font-size: 12px; font-weight: 700; fill: var(--text); }
+.mv-yr { font-size: 11px; fill: var(--muted); }
+.mv-note { font-size: 11px; line-height: 1.5; margin: 6px 0 10px; }
+@media (max-width: 760px) { .mv { padding: 6px 16px 4px; } .mv-tiles { grid-template-columns: 1fr 1fr; } }
