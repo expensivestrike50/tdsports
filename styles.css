@@ -185,6 +185,7 @@ h1, h2, h3 { margin: 0; }
 .day-label { padding: 6px 14px; border-radius: 16px; }
 .day-label:hover { background: var(--hover); }
 .filters { display: flex; gap: 8px; padding: 12px 16px; border-top: 1px solid var(--border); overflow-x: auto; }
+.filters > * { flex-shrink: 0; white-space: nowrap; }
 .filter {
   flex: 1; min-width: 120px; border: 1px solid var(--border); border-radius: 22px;
   padding: 7px 14px; background: var(--surface-2);
@@ -985,20 +986,24 @@ h1, h2, h3 { margin: 0; }
 }
 
 @media (max-width: 760px) {
-  .site-header { height: 60px; padding: 0 12px; gap: 12px; }
+  /* Phones: logo and search on the first row, News / TV schedules / API / theme on a second. */
+  .site-header { height: auto; flex-wrap: wrap; padding: 10px 12px 6px; gap: 6px 12px; }
+  .site-nav { order: 3; width: 100%; margin-left: 0; justify-content: space-between; gap: 4px; }
+  .site-nav button { font-size: 14px; padding: 6px 12px; }
   .logo img { height: 24px; }
   .search-wrap { flex: 1; min-width: 0; }
   .search { width: 100%; }
   .search-key { display: none; }
   .search-results { width: calc(100vw - 24px); }
-  .site-nav button:not(.theme-toggle):not([data-action="news-nav"]) { display: none; }
 
   .layout { display: block; padding: 0 10px; margin-top: 12px; }
   .leagues .card:first-child { background: none; border: 0; overflow: visible; margin-bottom: 8px; }
   .leagues .card-title, .all-leagues, .leagues .side-extra { display: none; }
   .leagues .league-list { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; }
-  .leagues .league { width: auto; white-space: nowrap; padding: 8px 14px; border-radius: 20px; background: var(--surface); border: 1px solid var(--border); }
+  .leagues .league { flex: none; width: auto; gap: 8px; white-space: nowrap; padding: 8px 14px; border-radius: 20px; background: var(--surface); border: 1px solid var(--border); }
   .leagues .league.active { background: var(--accent-soft); }
+  .filters { flex-wrap: wrap; overflow: visible; padding: 10px 12px; }
+  .filters .filter { flex: 1 1 140px; min-width: 0; }
 
   .match { grid-template-columns: 30px 1fr 20px 44px 20px 1fr; gap: 6px; padding: 10px 0 10px 10px; font-size: 13px; }
   .status { font-size: 10px; }
