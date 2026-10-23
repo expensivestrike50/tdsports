@@ -1025,6 +1025,14 @@ h1, h2, h3 { margin: 0; }
   .sn-panel + .sn-panel { border-left: 0 !important; }
     .leaders .leader:nth-child(odd) { border-right: 0; }
   .modal-cols > div + div { border-left: 0; }
+  /* Player statistics: a narrow name column with a clear edge, long names cut with "…". */
+  .data-table .sticky-col { max-width: 138px; padding-right: 8px; }
+  .data-table .sticky-col::after { content: ''; position: absolute; top: 0; bottom: 0; right: 0; width: 1px; background: var(--border); }
+  .data-table .player-cell { gap: 8px; width: 100%; min-width: 0; }
+  .data-table .player-cell > span { min-width: 0; }
+  .data-table .pc-name { display: block; overflow: hidden; text-overflow: ellipsis; }
+  .data-table .player-cell .avatar { width: 28px; height: 28px; flex-shrink: 0; }
+  .data-table th, .data-table td { padding: 8px; }
   .modal-h { display: block; }
   .modal-h > .muted { display: block; margin-top: 2px; font-size: 12px; }
   .match-top { padding: 10px 12px; }

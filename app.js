@@ -1280,7 +1280,7 @@ function playersTableCard(match) {
             ${rows.map(p => `
               <tr>
                 <td class="sticky-col"><button class="player-cell" data-action="player" data-id="${p.id}" data-match="${match.id}">
-                  ${avatar(p.id, 'sm')}<span>${esc(PEOPLE[p.id].name)}<small class="muted block">${crest(p.side === 'home' ? match.home : match.away)} ${p.pos}${p.sub ? ' · sub' : ''}</small></span>
+                  ${avatar(p.id, 'sm')}<span><span class="pc-name" title="${esc(PEOPLE[p.id].name)}">${esc(PEOPLE[p.id].name)}</span><small class="muted block">${crest(p.side === 'home' ? match.home : match.away)} ${p.pos}${p.sub ? ' · sub' : ''}</small></span>
                 </button></td>
                 ${cols.map(k => `<td class="${max[k] > 0 && tableValue(p, k, t.per90) === max[k] && k !== 'minutes' ? 'best' : ''}">${cellText(p, k)}</td>`).join('')}
               </tr>`).join('')}
