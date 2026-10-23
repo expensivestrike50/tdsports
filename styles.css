@@ -910,8 +910,8 @@ h1, h2, h3 { margin: 0; }
 
 .modal-back { position: fixed; inset: 0; z-index: 20; background: rgba(0, 0, 0, .55); display: grid; place-items: center; padding: 16px; animation: fade .15s ease-out; }
 .modal {
-  position: relative; background: var(--surface); border-radius: 22px; width: 400px; max-width: 100%;
-  max-height: calc(100vh - 32px); overflow: auto; box-shadow: var(--shadow); outline: none;
+  position: relative; background: var(--surface); border-radius: 22px; width: 400px; max-width: calc(100vw - 32px);
+  max-height: calc(100vh - 32px); max-height: calc(100dvh - 32px); overflow: auto; overscroll-behavior: contain; box-shadow: var(--shadow); outline: none;
   animation: rise .2s ease-out;
 }
 .modal.wide { width: 560px; }
@@ -1025,6 +1025,8 @@ h1, h2, h3 { margin: 0; }
   .sn-panel + .sn-panel { border-left: 0 !important; }
     .leaders .leader:nth-child(odd) { border-right: 0; }
   .modal-cols > div + div { border-left: 0; }
+  .modal-h { display: block; }
+  .modal-h > .muted { display: block; margin-top: 2px; font-size: 12px; }
   .match-top { padding: 10px 12px; }
   .competition { font-size: 12px; }
   .competition .league-logo { display: none; }
