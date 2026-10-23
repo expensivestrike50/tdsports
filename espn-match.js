@@ -10,6 +10,26 @@ const PREDICTED = {};         // "<match id>-pred" -> predicted match for an upc
 const ESPN_TABLES = {};       // match id -> [{ team, id, p, w, d, l, gd, pts, rank }]
 const espnLoading = {};       // match id -> pending Promise
 
+// Team news for upcoming fixtures: lineups.json, built by tools/fetch-lineups.py from FotMob
+// (predicted XIs, injuries and suspensions, and related headlines). Agent Tom refreshes the
+// local copy and the "Refresh feeds" Action the one on the news-data branch; the app uses
+// whichever is newer, re-reading it every 10 minutes.
+const LINEUPS_REMOTE = 'https://raw.githubusercontent.com/expensivestrike50/tdsports/news-data/lineups.json';
+let lineupsFeed = null, lineupsAt = 0;
+function loadLineups() {
+  if (!lineupsFeed || Date.now() - lineupsAt > 6e5) {
+    const grab = url => fetch(url, { cache: 'no-store' }).then(r => (r.ok ? r.json() : null)).catch(() => null);
+    lineupsAt = Date.now();
+    lineupsFeed = Promise.all([grab(`lineups.json?t=${Date.now()}`), grab(LINEUPS_REMOTE)])
+      .then(copies => copies.filter(d => d && d.matches).sort((a, b) => Date.parse(b.updated) - Date.parse(a.updated))[0] || { matches: {} });
+  }
+  return lineupsFeed;
+}
+const plainName = s => (s || '').normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z]+/g, ' ').trim();
+// FotMob's pitch layout (x own goal -> attack, y left -> right touchline) -> a position.
+const layoutPos = (x, y) => (x < 0.2 ? 'GK' : x < 0.4 ? (y > 0.7 ? 'RB' : y < 0.3 ? 'LB' : 'CB') : x < 0.6 ? 'CM'
+  : x < 0.8 ? (y > 0.75 ? 'RW' : y < 0.25 ? 'LW' : 'AM') : 'ST');
+
 const espnMatchId = (code, eventId) => `espn-${code.replace('.', '_')}-${eventId}`;
 const parseEspnId = id => { const m = id.match(/^espn-([a-z]+_[a-z0-9]+)-(\d+)$/); return m && { code: m[1].replace('_', '.'), event: m[2] }; };
 
@@ -227,15 +247,19 @@ function addEspnMatch(id, code, s) {
     const st = Object.fromEntries((t.statistics || []).map(x => [x.name, parseFloat(x.displayValue)]));
     if (h && !isNaN(st.totalGoals)) season[h] = { gf: st.totalGoals, ga: st.goalsConceded };
   }
-  const lastGames = {};
+  // Also each side's recent games in this competition (newest first), to find bans: a red
+  // card in this competition is served in this competition.
+  const lastGames = {}, leagueGames = {};
+  const sameComp = name => { const a = plainName(name).replace(/ /g, ''), b = plainName(league).replace(/ /g, ''); return !!a && !!b && (a.includes(b) || b.includes(a)); };
   for (const t of s.lastFiveGames || []) {
     const h = teamSide[t.team.id];
-    const latest = [...(t.events || [])].sort((x, y) => String(y.gameDate).localeCompare(String(x.gameDate)))[0];
-    if (h && latest) lastGames[h] = latest.id;
+    const recent = [...(t.events || [])].sort((x, y) => String(y.gameDate).localeCompare(String(x.gameDate)));
+    if (h && recent[0]) lastGames[h] = recent[0].id;
+    if (h) leagueGames[h] = recent.filter(e => sameComp(e.leagueAbbreviation) || sameComp(e.leagueName)).map(e => e.id);
   }
 
   const match = {
-    id, espn: true, home, away, score, league, form, season, lastGames, coachIds: L.coaches,
+    id, espn: true, home, away, score, league, form, season, lastGames, leagueGames, coachIds: L.coaches,
     teamIds: { home: sideOf('home').team.id, away: sideOf('away').team.id },
     date: isoDay(start),
     kickoff: start.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' }),
@@ -280,7 +304,23 @@ function renderPreview(match, tab = 'Facts') {
           <span><b>${esc(PEOPLE[x.on].name)}</b><small class="muted block">⇄ for ${esc(PEOPLE[x.off].short)}</small></span>
         </button>`).join('') || '<p class="muted ps-none">No changes last match</p>'}</div>`).join('')}</div>
     </div>` : none('Possible substitutions'));
-  const predLineup = P ? `<div class="pred-lineup"><span class="pred-tag pred-float">Predicted lineup · each side's last XI</span>${pred(pitchCard).replace('<h3 class="card-title center">Substitutes</h3>', '<h3 class="card-title center">Possible substitutes <span class="muted">· minute they came on last match</span></h3>')}</div>` : null;
+  const PL = P && LINEUPS[P.id];
+  const lineupNote = PL && PL.lineupSource === 'fotmob' ? 'Predicted lineup · without injured and suspended players' : "Predicted lineup · each side's last XI, minus anyone out";
+  // Team news: who is out for each side (injured or suspended, and when they are expected
+  // back), then recent headlines about either side's injuries, bans or team selection.
+  const teamNewsCard = () => (PL ? `
+    <div class="card team-news">
+      ${sectionHead('Team news', match, PL.lineupSource === 'fotmob' ? 'Injuries and suspensions from FotMob · expected return' : 'Players sent off whose ban is not yet served')}
+      <div class="two tn-cols">${['home', 'away'].map(h => `<div>
+        <h3 class="tn-team">${crest(match[h], 'sm')} ${esc(match[h])}</h3>
+        ${PL.absent[h].map(a => `<div class="tn-row">
+          <span class="tn-icon ${a.type === 'suspension' ? 'tn-ban' : 'tn-injury'}" title="${a.type === 'suspension' ? 'Suspended' : a.type === 'injury' ? 'Injured' : 'Unavailable'}">${a.type === 'suspension' ? '' : '+'}</span>
+          <span><b>${esc(a.name)}</b><small class="muted block">${a.type === 'suspension' ? 'Suspended' : a.type === 'injury' ? 'Injured' : 'Unavailable'}${a.back ? ` · ${esc(a.back)}` : ''}</small></span>
+        </div>`).join('') || '<p class="muted tn-none">No reported absences</p>'}</div>`).join('')}</div>
+      ${PL.news.length ? `<h3 class="tn-head">In the news</h3>${PL.news.map(n => `
+        <a class="tn-news" href="${esc(n.url)}" target="_blank" rel="noopener"><b>${esc(n.title)}</b><small class="muted block">${esc(n.source || '')}${n.published ? ` · ${timeAgo(n.published)}` : ''}</small></a>`).join('')}` : ''}
+    </div>` : none('Team news', 'Injuries and suspensions'));
+  const predLineup = P ? `<div class="pred-lineup"><span class="pred-tag pred-float">${lineupNote}</span>${pred(pitchCard).replace('<h3 class="card-title center">Substitutes</h3>', '<h3 class="card-title center">Possible substitutes <span class="muted">· minute they came on last match</span></h3>')}</div>` : null;
   const info = `
     <div class="card venue-compact">
       <div class="venue-row">
@@ -301,7 +341,7 @@ function renderPreview(match, tab = 'Facts') {
       stack(none('Momentum', 'Attacking pressure across the match · dots mark goals'), info), pred(topStatsCard, 'Top stats'), pred(compareCard, 'Player comparison'),
       pred(xgRaceCard, 'xG race', 'Cumulative expected goals; dots mark goals'), none('Shot map', 'Circle size = xG · hover a shot for details'), cell(none('Events'), 'row-2'),
       pred(attackingCard, 'Attacking'), pred(passingCard, 'Passing & build-up'),
-      lineup, stack(none('Top performers'), none('Goal replays')),
+      lineup, stack(teamNewsCard(), none('Goal replays')),
       cell(none('Player statistics'), 'span-3'),
       cell(pred(styleCard, 'Style of play', 'How each side played, and what comes next'), 'span-2 fit-col'), stack(formCard(match), pollCard(match)),
       cell(otherMatchesCard(match), 'span-3'),
@@ -316,7 +356,7 @@ function renderPreview(match, tab = 'Facts') {
       pred(compareCard, 'Player comparison'), none('Top performers'), stack(none('Goalkeeping'), P ? subsCard() : none('Bench impact')),
       cell(none('Player statistics'), 'span-3'),
     ]),
-    Lineup: () => dash([lineup, stack(L ? teamSheetCard(match) : P ? subsCard() : none('Team sheets', 'Squad-level view for each side'), none('Top performers'))]),
+    Lineup: () => dash([lineup, stack(L ? teamSheetCard(match) : P ? subsCard() : none('Team sheets', 'Squad-level view for each side'), teamNewsCard())]),
     Events: () => dash([cell(none('Events'), 'span-2'), stack(pred(xgRaceCard, 'xG race', 'Cumulative expected goals; dots mark goals'), info)]),
     Table: () => dash([cell(standingsCard(match), 'span-2'), stack(formCard(match), otherMatchesCard(match))]),
   };
@@ -345,7 +385,7 @@ function renderPreview(match, tab = 'Facts') {
               .map(([k, hv, av]) => `<div class="key-item pred"><span class="muted">${k} · predicted</span><b>${hv} <span class="muted">–</span> ${av}</b></div>`).join('');
           })()}
         </div>
-        <p class="provenance"><span><b>Real:</b> kickoff, venue, broadcast, team form, league table${L ? ', lineups' : ''}</span>${P ? `<span><b>Prediction:</b> ${L ? '' : 'lineups (each side\'s last XI), '}result, xG and team stats (season scoring rates)</span>` : ''}<span><b>No data yet:</b> events and player ratings, until the match kicks off</span></p>
+        <p class="provenance"><span><b>Real:</b> kickoff, venue, broadcast, team form, league table${L ? ', lineups' : ''}${PL ? ', team news' : ''}</span>${P ? `<span><b>Prediction:</b> ${L ? '' : PL.lineupSource === 'fotmob' ? 'lineups (FotMob, without injured and suspended players), ' : 'lineups (each side\'s last XI, minus anyone sent off), '}result, xG and team stats (season scoring rates)</span>` : ''}<span><b>No data yet:</b> events and player ratings, until the match kicks off</span></p>
         <nav class="tabs" aria-label="Match sections">
           ${TABS.map(t => `<a class="tab ${tab === t ? 'active' : ''}" href="#/match/${match.id}/${t.toLowerCase()}" ${tab === t ? 'aria-current="page"' : ''}>${t}</a>`).join('')}
         </nav>
@@ -383,35 +423,91 @@ async function predictFixture(match) {
   }
   const tot = pH + pD + pA;
 
-  // Predicted lineups from each side's latest match.
-  const summaries = await Promise.all(['home', 'away'].map(h => (match.lastGames[h]
-    ? fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=${match.lastGames[h]}`).then(r => (r.ok ? r.json() : null)).catch(() => null)
-    : null)));
-  const xi = { home: [], away: [] }, formations = ['', ''], bench = { home: [], away: [] }, subs = { home: [], away: [] };
+  // Predicted lineups. FotMob's predicted XI when lineups.json has the match, which already
+  // leaves out injured and suspended players. Otherwise each side's XI from its latest match,
+  // without anyone sent off in it (a ban for at least the next game), each gap filled from
+  // that bench in the same position. Possible substitutions and the bench come from that
+  // latest match, minus anyone out.
+  const fetched = {};
+  const summary = event => (event ? (fetched[event] = fetched[event]
+    || fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/all/summary?event=${event}`).then(r => (r.ok ? r.json() : null)).catch(() => null)) : null);
+  const [summaries, leagueSummaries, feedAll] = await Promise.all([
+    Promise.all(['home', 'away'].map(h => summary(match.lastGames[h]))),
+    Promise.all(['home', 'away'].map(h => Promise.all((match.leagueGames[h] || []).map(summary)))),
+    loadLineups(),
+  ]);
+  const feed = (feedAll.matches || {})[parseEspnId(match.id).event];
+  const xi = { home: [], away: [] }, formations = ['', ''], bench = { home: [], away: [] }, subs = { home: [], away: [] }, absent = { home: [], away: [] };
   const seeded = key => { let h = 2166136261; for (const ch of key) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return (h >>> 0) / 4294967295; };
+  const rating = pid => Math.round((6.4 + seeded(pid + match.id) * 1.0) * 10) / 10;
+  const place = (h, pid, px, py) => xi[h].push(h === 'home' ? [pid, px, py, rating(pid)] : [pid, 100 - px, 100 - py, rating(pid)]);
   ['home', 'away'].forEach((h, i) => {
     const sum = summaries[i];
     const r = sum && (sum.rosters || []).find(x => x.team && x.team.id === match.teamIds[h]);
-    if (!r || !r.roster) return;
-    formations[i] = r.formation || '';
-    const starters = r.roster.filter(p => p.starter).map(p => ({ p, role: espnPosition(p.position && p.position.abbreviation), place: +p.formationPlace || 99 }));
-    if (!starters.length) return;
-    for (const [x, px, py] of espnSpots(starters, r.formation)) {
-      const pid = espnPerson(x.p.athlete, x.role.pos);
-      const rating = Math.round((6.4 + seeded(pid + match.id) * 1.0) * 10) / 10;
-      xi[h].push(h === 'home' ? [pid, px, py, rating] : [pid, 100 - px, 100 - py, rating]);
+    const roster = (r && r.roster) || [];
+    const T = feed && feed[h];
+    // The same player in FotMob and ESPN, by name, so photos and links match the rest of the app.
+    const known = {};
+    for (const p of roster) known[plainName(p.athlete.displayName)] = p.athlete;
+    const out = new Set();
+    for (const u of (T && T.unavailable) || []) { absent[h].push({ name: u.name, type: u.type, back: u.return, fotmob: u.id }); out.add(plainName(u.name)); }
+    // Still banned: sent off in a recent game in this competition and not played in it since.
+    const banned = new Map();
+    for (const g of [...leagueSummaries[i]].reverse()) {
+      if (!g) continue;
+      const squad = ((g.rosters || []).find(x => x.team && x.team.id === match.teamIds[h]) || {}).roster || [];
+      for (const p of squad) if (p.starter || p.subbedIn) banned.delete(p.athlete.id);
+      for (const ev of g.keyEvents || []) {
+        const a = ((ev.participants || [])[0] || {}).athlete;
+        if (ev.type.type === 'red-card' && ev.team && ev.team.id === match.teamIds[h] && a) banned.set(a.id, a.displayName);
+      }
     }
-    // Possible substitutions: the changes this side made in that match, at the same minutes,
-    // and the rest of that bench.
-    for (const ev of sum.keyEvents || []) {
+    for (const name of banned.values()) {
+      if (!out.has(plainName(name))) { absent[h].push({ name, type: 'suspension', back: 'Sent off, ban not yet served' }); out.add(plainName(name)); }
+    }
+    const isOut = pid => out.has(plainName(PEOPLE[pid].name));
+
+    if (T && T.starters && T.starters.length === 11) {
+      formations[i] = T.formation || '';
+      for (const p of T.starters) {
+        const pos = layoutPos(p.x, p.y), a = known[plainName(p.name)];
+        const pid = a ? espnPerson(a, pos) : 'fm-' + p.id;
+        if (!PEOPLE[pid]) PEOPLE[pid] = { name: p.name, short: p.short, pos };
+        if (!PEOPLE[pid].photo) PEOPLE[pid].photo = `https://images.fotmob.com/image_resources/playerimages/${p.id}.png`;
+        place(h, pid, Math.max(5, Math.min(46, Math.round(5 + (p.x - 0.1) * 53))), Math.max(6, Math.min(94, Math.round((1 - p.y) * 100))));
+      }
+    } else if (roster.length) {
+      formations[i] = r.formation || '';
+      // ESPN lists the bench as "SUB"; a substitute takes the role of the player he replaced.
+      const abbr = {};
+      for (const p of roster) abbr[p.athlete.id] = p.position && p.position.abbreviation;
+      for (const ev of (sum && sum.keyEvents) || []) {
+        const [on, off] = (ev.participants || []).map(x => x.athlete);
+        if (ev.type.type === 'substitution' && on && off && abbr[off.id] !== 'SUB') abbr[on.id] = abbr[off.id];
+      }
+      const entry = p => ({ p, role: espnPosition(abbr[p.athlete.id]), place: +p.formationPlace || 99 });
+      const spare = roster.filter(p => !p.starter && !out.has(plainName(p.athlete.displayName))).map(entry);
+      const starters = roster.filter(p => p.starter).map(entry).map(x => {
+        if (!out.has(plainName(x.p.athlete.displayName))) return x;
+        // The same position, else the nearest line (keepers only for keepers).
+        const cost = y => (y.role.pos === x.role.pos ? 0 : (y.role.pos === 'GK') !== (x.role.pos === 'GK') ? Infinity : 1 + Math.abs(y.role.depth - x.role.depth));
+        const k = spare.reduce((best, y, j) => (cost(y) < (best < 0 ? Infinity : cost(spare[best])) ? j : best), -1);
+        return k < 0 ? null : { ...x, p: spare.splice(k, 1)[0].p };
+      }).filter(Boolean);
+      for (const [x, px, py] of espnSpots(starters, r.formation)) place(h, espnPerson(x.p.athlete, x.role.pos), px, py);
+    }
+    const inXi = pid => xi[h].some(p => p[0] === pid);
+    // Possible substitutions: the changes this side made in its latest match, at the same
+    // minutes, and the rest of that squad.
+    for (const ev of (sum && sum.keyEvents) || []) {
       if (ev.type.type !== 'substitution' || !ev.team || ev.team.id !== match.teamIds[h]) continue;
       const [on, off] = (ev.participants || []).map(x => x.athlete);
       if (!on || !off) continue;
       const offId = espnPerson(off, 'CM'), onId = espnPerson(on, PEOPLE['espn-' + off.id].pos);
-      if (xi[h].some(p => p[0] === offId) && !subs[h].some(s2 => s2.on === onId)) subs[h].push({ min: minuteOf(ev), on: onId, off: offId });
+      if (inXi(offId) && !inXi(onId) && !isOut(onId) && !subs[h].some(s2 => s2.on === onId)) subs[h].push({ min: minuteOf(ev), on: onId, off: offId });
     }
-    bench[h] = r.roster.filter(p => !p.starter).map(p => espnPerson(p.athlete, espnPosition(p.position && p.position.abbreviation).pos === 'GK' ? 'GK' : 'CM'))
-      .filter(pid => !subs[h].some(s2 => s2.on === pid));
+    bench[h] = roster.map(p => espnPerson(p.athlete, espnPosition(p.position && p.position.abbreviation).pos === 'GK' ? 'GK' : 'CM'))
+      .filter(pid => !inXi(pid) && !isOut(pid) && !subs[h].some(s2 => s2.on === pid));
   });
   if (!xi.home.length || !xi.away.length) return;
 
@@ -428,6 +524,7 @@ async function predictFixture(match) {
     awaySubs: [...subs.away.map(x => [x.on, 6.5]), ...bench.away.map(pid => [pid])],
     events: ['home', 'away'].flatMap(h => subs[h].map(x => [x.min, 'sub', h, x.on, x.off])).sort((a, b) => a[0] - b[0]),
     possibleSubs: subs, goalShots: {}, goalInfo: {}, researched: true,
+    lineupSource: feed && feed.home.starters.length === 11 && feed.away.starters.length === 11 ? 'fotmob' : 'last', absent, news: (feed && feed.news) || [],
     stats: { xg: [+lh.toFixed(2), +la.toFixed(2)], shots, onTarget: shots.map(x => Math.round(x * 0.36)), possession: poss,
       corners: shots.map(x => Math.round(x * 0.42)), fouls: [11, 11], bigChances: [lh, la].map(l => Math.max(1, Math.round(l * 1.3))) },
   };

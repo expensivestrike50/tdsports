@@ -1,4 +1,4 @@
-# Refreshes the aggregated football news and the TV listings for the hosted site every
+# Refreshes the aggregated football news, the TV listings and team news for the hosted site every
 # 30 minutes. The results go to the news-data branch (not main), so they never conflict with
 # pushes to main; the app reads them from raw.githubusercontent.com.
 name: Refresh feeds
@@ -27,13 +27,15 @@ jobs:
         run: python3 tools/fetch-news.py
       - name: TV listings
         run: python3 tools/fetch-tv.py
+      - name: Team news (predicted lineups, injuries, suspensions)
+        run: python3 tools/fetch-lineups.py || echo "team news unavailable"
       - name: Publish to the news-data branch
         run: |
-          mkdir /tmp/out && cp news.json tv.json /tmp/out/
+          mkdir /tmp/out && cp news.json tv.json /tmp/out/ && (cp lineups.json /tmp/out/ || true)
           cd /tmp/out
           git init -q -b news-data
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json tv.json
+          git add news.json tv.json $(ls lineups.json 2>/dev/null)
           git commit -q -m "Update news and TV listings"
           git push -q -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" news-data

@@ -65,6 +65,13 @@ const API_FIELDS = {
     ['channels', 'string[]', 'US TV channels showing it (from ESPN), e.g. Peacock, Paramount+.'],
     ['home · away', 'object', '{ name, logo, score }; score is set once the match starts.'],
   ],
+  'Team news': [
+    ['fotmob · type', 'number · string', "The FotMob match id, and whether the lineup is FotMob's prediction or the confirmed one (about an hour before kickoff)."],
+    ['home · away', 'object', '{ name, formation, coach, starters, subs, unavailable } for each side.'],
+    ['starters', 'object[]', '{ id, name, short, shirt, position, x, y }: x runs from own goal (0) to the opponent\'s (1), y from the left touchline (0) to the right (1).'],
+    ['unavailable', 'object[]', '{ id, name, type, return }: type is injury or suspension; return is the expected return, e.g. "Early November 2026".'],
+    ['news', 'object[]', 'Up to six recent headlines about either side\'s injuries, bans or team news: { title, url, source, published }.'],
+  ],
   Article: [
     ['id', 'string', 'Stable id for the story.'],
     ['title · summary', 'string', "The headline and the publisher's short summary."],
@@ -87,6 +94,8 @@ const API_PAGES = [
     text: 'One match in full: lineups with pitch positions, coaches and benches, every event, team stats, venue, referee, attendance and the sources the data came from.' },
   { group: 'Matches', id: 'upcoming-fixtures', title: 'Upcoming fixtures', path: 'tv.json', object: 'Fixture', list: true,
     text: "Every fixture from yesterday to six days ahead in all ten competitions, with kickoff time, venue and the US TV channels showing it. The shape is { updated, region, days, matches }. Refreshed every 30 minutes; the freshest copy is also at raw.githubusercontent.com/expensivestrike50/tdsports/news-data/tv.json." },
+  { group: 'Matches', id: 'team-news', title: 'Team news', path: 'lineups.json', object: 'Team news', list: true,
+    text: "Predicted lineups, injuries and suspensions for every upcoming fixture in Upcoming fixtures, from FotMob, plus related headlines from the News feed. The shape is { updated, source, matches: { <ESPN event id>: Team news } }. Refreshed every 30 minutes; the freshest copy is also at raw.githubusercontent.com/expensivestrike50/tdsports/news-data/lineups.json." },
   { group: 'Live', id: 'live-scores', title: 'Live scores', path: 'live.json', object: 'Live event', list: true,
     text: "Today's scoreboard across 10 competitions, from ESPN. Refreshed every 30 seconds while Agent Tom runs locally; on the hosted site it's the last published snapshot. The shape is { updated, source, leagues: [{ code, league, events }] }." },
   { group: 'Live', id: 'news', title: 'News feed', path: 'news.json', object: 'Article', list: true,
