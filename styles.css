@@ -341,7 +341,7 @@ h1, h2, h3 { margin: 0; }
 .box.left { left: -2px; }
 .box.right { right: -2px; }
 .player {
-  position: absolute; transform: translate(-50%, -50%); z-index: 1;
+  position: absolute; left: var(--x); top: var(--y); transform: translate(-50%, -50%); z-index: 1;
   display: flex; flex-direction: column; align-items: center; gap: 4px;
   width: 88px; padding: 6px 2px; border-radius: 12px; font-size: 12px; font-weight: 600;
 }
@@ -987,7 +987,7 @@ h1, h2, h3 { margin: 0; }
 @media (max-width: 760px) {
   .site-header { height: 60px; padding: 0 12px; gap: 12px; }
   .logo img { height: 24px; }
-  .search-wrap { flex: 1; }
+  .search-wrap { flex: 1; min-width: 0; }
   .search { width: 100%; }
   .search-key { display: none; }
   .search-results { width: calc(100vw - 24px); }
@@ -1035,7 +1035,23 @@ h1, h2, h3 { margin: 0; }
   .split, .subs > div + div, .two > div + div .form-team, .two > div + div > .statrow { border-left: 0; }
   .split { border-top: 1px solid var(--border); }
   .event { padding: 6px 12px; gap: 10px; }
-  .pitch { height: 460px; }
+  /* Phones: the pitch stands upright, home at the bottom attacking up, so the whole XI fits. */
+  .pitch-head { padding: 12px 14px; font-size: 13px; }
+  .pitch-head span { min-width: 0; white-space: nowrap; }
+  .pitch { min-width: 0; height: auto; aspect-ratio: 34 / 64; margin: 0 12px 12px;
+    background:
+      linear-gradient(180deg, transparent calc(50% - 1px), var(--pitch-line) calc(50% - 1px), var(--pitch-line) calc(50% + 1px), transparent calc(50% + 1px)),
+      repeating-linear-gradient(180deg, rgba(255, 255, 255, .03) 0 10%, transparent 10% 20%);
+  }
+  .pitch::before { width: 84px; height: 84px; }
+  .box { top: auto; bottom: auto; left: 22% !important; right: 22% !important; width: auto; height: 13%; }
+  .box.left { bottom: -2px; }
+  .box.right { top: -2px; }
+  .player { left: var(--y); top: var(--v); width: 62px; padding: 4px 0; gap: 2px; font-size: 11px; }
+  .player .avatar-md { width: 34px; height: 34px; }
+  .player-name { max-width: 60px; overflow: hidden; text-overflow: ellipsis; }
+  .rating { right: 2px; font-size: 10px; padding: 0 4px; }
+  .pred-lineup .pred-float { position: static; transform: none; display: block; margin: 0; border-radius: 0; padding: 6px 12px; text-align: center; white-space: normal; }
 }
 
 /* Live now and Earlier results rows open the match page */

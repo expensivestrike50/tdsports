@@ -1049,12 +1049,17 @@ function noLineupCard(match) {
     </div>`;
 }
 
+// Upright pitch (phones): distance from the top for a player at x across the landscape
+// pitch. Each half is squeezed a little towards its own goal, so the two front lines don't
+// meet at the halfway line.
+const uprightTop = x => { const t = 95 - (Math.min(x, 100 - x) - 5) * 0.95; return Math.round((x < 50 ? t : 100 - t) * 10) / 10; };
+
 function pitchCard(match) {
   const L = LINEUPS[match.id];
   if (!L) return noLineupCard(match);
   const people = lineupPeople(match);
   const playerBtn = p => `
-    <button class="player" style="left:${p.x}%;top:${p.y}%" data-action="player" data-id="${p.id}" data-match="${match.id}">
+    <button class="player" style="--x:${p.x}%;--y:${p.y}%;--v:${uprightTop(p.x)}%" data-action="player" data-id="${p.id}" data-match="${match.id}">
       <span class="rating ${ratingClass(p.rating)}">${p.rating.toFixed(1)}</span>
       ${avatar(p.id)}
       <span class="player-name">${esc(PEOPLE[p.id].short)}</span>
