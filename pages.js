@@ -9,7 +9,7 @@ let tvFeed = null; // { updated, region, days, matches }
 async function loadTv() {
   const grab = url => fetch(url, { cache: 'no-store' }).then(r => (r.ok ? r.json() : null)).catch(() => null);
   const copies = (await Promise.all([grab(`tv.json?t=${Date.now()}`), grab(TV_REMOTE)])).filter(d => d && Array.isArray(d.matches));
-  if (copies.length) { tvFeed = copies.sort((a, b) => Date.parse(b.updated) - Date.parse(a.updated))[0]; return; }
+  if (copies.length) { tvFeed = copies.sort((a, b) => Date.parse(b.updated) - Date.parse(a.updated))[0]; settleTv(); return; }
   const days = [0, 1].map(d => isoDay(new Date(Date.now() + d * 864e5)));
   const lists = await Promise.all(LIVE_LEAGUES.flatMap(([code, league]) => days.map(async day => {
     try {
@@ -24,6 +24,30 @@ async function loadTv() {
   })));
   const matches = lists.flat().sort((a, b) => Date.parse(a.start) - Date.parse(b.start));
   if (matches.length) tvFeed = { updated: new Date().toISOString(), region: 'US', days, matches };
+  settleTv();
+}
+
+// tv.json is a snapshot up to half an hour old (more when GitHub delays the Action), so a
+// match it caught in play would stay "live". Each listing takes its state and score from the
+// live scoreboard or the results when they have the match, and one still in play three
+// hours after kickoff counts as finished. Returns whether anything changed.
+function settleTv() {
+  if (!tvFeed) return false;
+  const fresh = {};
+  for (const f of [typeof resultsFeed !== 'undefined' && resultsFeed, typeof liveFeed !== 'undefined' && liveFeed]) {
+    for (const l of (f && f.leagues) || []) for (const e of l.events) fresh[e.id] = e;
+  }
+  let changed = false;
+  for (const m of tvFeed.matches) {
+    const e = fresh[m.id];
+    const next = e ? { state: e.state, detail: e.detail, home: { ...m.home, score: e.home.score }, away: { ...m.away, score: e.away.score } }
+      : m.state === 'in' && Date.now() - Date.parse(m.start) > 3 * 36e5 ? { state: 'post', detail: 'FT' } : null;
+    if (next && (next.state !== m.state || next.detail !== m.detail || (e && (e.home.score !== m.home.score || e.away.score !== m.away.score)))) {
+      Object.assign(m, next);
+      changed = true;
+    }
+  }
+  return changed;
 }
 
 const tvDayOf = m => isoDay(new Date(m.start)); // in the viewer's time zone

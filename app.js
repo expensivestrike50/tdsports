@@ -326,13 +326,15 @@ function matchRow(m) {
 
 // ----- Earlier results: finished matches from previous days, newest first -----
 
-// results.json is kept by Agent Tom (last 21 days, every league). Without it (e.g. the app
-// opened as a file), the last week is fetched from ESPN directly, one day per request.
+// results.json is kept by Agent Tom (last 21 days, every league). Without a recent copy
+// (e.g. the hosted site, or the app opened as a file), the last week is fetched from ESPN
+// directly, one day per request.
 let resultsFeed = null; // { leagues: [{ league, events: [...] }] }
 async function loadResults() {
   try {
     const r = await fetch(`results.json?t=${Date.now()}`, { cache: 'no-store' });
-    if (r.ok) { const d = await r.json(); if (d.leagues && d.leagues.length) { resultsFeed = d; return; } }
+    // The hosted copy is only as new as the last deploy; past two hours old, ask ESPN instead.
+    if (r.ok) { const d = await r.json(); if (d.leagues && d.leagues.length && !(Date.now() - Date.parse(d.updated) > 72e5)) { resultsFeed = d; return; } }
   } catch { /* fall through to ESPN */ }
   const days = Array.from({ length: 7 }, (_, i) => isoDay(new Date(Date.now() - (i + 1) * 864e5)).replace(/-/g, ''));
   const leagues = await Promise.all(LIVE_LEAGUES.map(async ([code, league]) => {
@@ -486,6 +488,8 @@ let liveSig = '';
 async function refreshLive() {
   if (document.hidden) return;
   await loadLive();
+  // Listings from tv.json follow the live scores (pages.js); redraw a page showing them.
+  if (settleTv()) { const r = route(); if (r && (r.view === 'tv' || r.view === 'home')) render(); }
   const card = document.querySelector('.live-card');
   if (!card || !liveFeed) return;
   const sig = JSON.stringify(liveFeed.leagues.map(l => l.events.map(e => [e.id, e.state, e.detail, e.home.score, e.away.score])));
@@ -517,6 +521,8 @@ async function refreshResults() {
 refreshResults();
 setInterval(refreshResults, 600000);
 document.addEventListener('visibilitychange', () => { if (!document.hidden) refreshLive(); });
+// Phones restore a page from the back/forward cache without a visibility change.
+window.addEventListener('pageshow', e => { if (e.persisted) refreshLive(); });
 
 // Upcoming fixtures from the live feed, grouped by day and league. As the last card in the
 // news column it fills the space beside the match list; rows that don't fit are hidden.
